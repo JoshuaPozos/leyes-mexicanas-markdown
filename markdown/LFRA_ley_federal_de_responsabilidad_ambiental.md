@@ -92,10 +92,7 @@ La falta de expedición de las normas referidas en el párrafo anterior, no repr
 Las personas y las organizaciones sociales y empresariales interesadas, podrán presentar a la Secretaría propuestas de las normas oficiales mexicanas a las que hace referencia el presente artículo, en términos del procedimiento previsto por la Ley Federal sobre Metrología y Normalización.
 
 ### Artículo 8o
-.- Las garantías financieras que hayan sido obtenidas de conformidad a lo previsto por el
-
-### artículo 147
-Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente previo al momento de producirse un daño al ambiente, con el objeto de hacer frente a la responsabilidad ambiental, serán consideras como una atenuante de la Sanción Económica por el órgano jurisdiccional al momento de dictar sentencia.
+.- Las garantías financieras que hayan sido obtenidas de conformidad a lo previsto por el artículo 147 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente previo al momento de producirse un daño al ambiente, con el objeto de hacer frente a la responsabilidad ambiental, serán consideras como una atenuante de la Sanción Económica por el órgano jurisdiccional al momento de dictar sentencia.
 El monto de las garantías financieras a que hace referencia el párrafo anterior, deberá estar destinado específica y exclusivamente a cubrir las responsabilidades ambientales que se deriven de su actividad económica, productiva o profesional. Las garantías deberán quedar constituidas desde la fecha en que surta efectos la autorización necesaria para realizar la actividad, y mantenerse vigentes durante todo el periodo de desarrollo de la misma.
 En términos de lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, se integrará un Sistema Nacional de Seguros de Riesgo Ambiental. del Código Nacional de Procedimientos Civiles y Familiares, siempre que no contravengan lo dispuesto en esta Ley.
 Artículo reformado DOF 14-11-2025
@@ -176,10 +173,7 @@ II. Que sus empleados, representantes, y quienes ejercen cargos de dirección, m
 
 III. Haber contado por lo menos con tres años de anterioridad a la conducta que ocasionó el daño, con un órgano de control interno dedicado de hecho a verificar permanentemente el cumplimiento de las obligaciones de la persona moral derivadas de las Leyes, licencias, autorizaciones, permisos o concesiones ambientales; así como con un sistema interno de gestión y capacitación ambiental en funcionamiento permanente;
 
-IV. Contar con la garantía financiera que en su caso se requiera en términos de lo dispuesto por el
-
-### artículo 8o
-. de esta Ley, y
+IV. Contar con la garantía financiera que en su caso se requiera en términos de lo dispuesto por el artículo 8o. de esta Ley, y
 
 V. Contar con alguno de los certificados resultado de la auditoría ambiental a la que hace referencia el artículo 38 BIS de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
@@ -412,10 +406,7 @@ El fin de estos mecanismos será lograr la justicia restaurativa, mediante la pa
 Responsabilidad penal en materia ambiental
 
 ### Artículo 52
-.- Las disposiciones del presente Título serán aplicables a los conflictos penales y los procedimientos derivados de la comisión de delitos contra el ambiente y la gestión ambiental, de La reparación y compensación de los daños ocasionados al ambiente, que proceda en términos del
-
-### artículo 3o
-. de esta Ley y las disposiciones del presente Título.
+.- Las disposiciones del presente Título serán aplicables a los conflictos penales y los procedimientos derivados de la comisión de delitos contra el ambiente y la gestión ambiental, de La reparación y compensación de los daños ocasionados al ambiente, que proceda en términos del artículo 3o. de esta Ley y las disposiciones del presente Título.
 El Ministerio Público está obligado a solicitar de oficio la reparación y compensación de los daños ocasionados al ambiente.
 
 ### Artículo 53
@@ -497,7 +488,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

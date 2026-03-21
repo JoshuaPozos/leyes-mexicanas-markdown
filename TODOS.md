@@ -11,16 +11,11 @@
 
 ---
 
-## 2. Falsos positivos en detección de encabezados de artículos
+## 2. ~~Falsos positivos en detección de encabezados de artículos~~ ✅
 
-- **Prioridad:** Alta
-- **Archivos afectados:** `scripts/pdf_to_md.py`, todos los `.md` generados
-- **Causa raíz:** El script interpreta cualquier aparición de "artículo" o "artículos" como un encabezado de artículo (`### Artículo N`), incluso cuando es solo una referencia dentro del cuerpo del texto (ej. "salvo lo previsto en el artículo 96 de esta Ley").
-- **Ejemplo:** En la LISR, el Artículo 90 menciona "salvo lo previsto en el artículo 96 de esta Ley" como referencia. El script lo parte y genera un falso `### artículo 96` (línea 2097) con minúscula, cortando el párrafo del Art. 90. El verdadero Artículo 96 aparece más adelante (línea 2278) con su contenido propio.
-- **Fix propuesto:** Validar que un encabezado de artículo real:
-  - Inicia con "Artículo" en mayúscula (no "artículo" en minúscula mid-sentence)
-  - Aparece al inicio de un párrafo / después de punto y aparte, no mid-sentence
-  - No está precedido por preposiciones como "el", "del", "al", "los" que indicarían una referencia
+- **Estado:** Resuelto — `is_article_heading` y `ARTICLE_ORDINAL_RE` ahora solo reconocen mayúscula inicial; guardia de contexto rechaza referencias precedidas por preposiciones ("el", "del", "al", etc.)
+- **Resultado:** 1762 falsos positivos → 0 en los 315 archivos
+- **Archivos afectados:** `scripts/pdf_to_md.py`
 
 ---
 

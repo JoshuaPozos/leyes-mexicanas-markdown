@@ -17,10 +17,7 @@ Si no estuvieren de acuerdo, resolverá el Presidente de la República. 4. El Co
 ARTICULO 5o. 1. El Congreso se reunirá en sesión conjunta de las Cámaras para tratar los asuntos que previenen los artículos 69, 84, 85, 86 y 87 de la Constitución, así como para celebrar sesiones solemnes. 2. Cuando el Congreso sesione conjuntamente lo hará en el recinto que ocupe la Cámara de Diputados y el Presidente de ésta lo será de aquél.
 ARTICULO 6o. 1. El 1o. de septiembre, a las 17:00 horas y el 1o. de febrero, a las 11:00 horas, de cada año, el Congreso se reunirá en sesión conjunta en el salón de sesiones de la Cámara de Diputados para inaugurar sus periodos de sesiones ordinarias.
 Numeral reformado DOF 08-03-2005 2. Al iniciarse cada periodo de sesiones ordinarias, el Presidente de la Mesa Directiva de la Cámara de Diputados declarará en voz alta: "El Congreso de los Estados Unidos Mexicanos abre hoy (fecha) el primer (o segundo) periodo de sesiones ordinarias del (primer, segundo o tercer) año de ejercicio de la (número ordinal) Legislatura".
-ARTICULO 7o. 1. El primero de septiembre de cada año, a la apertura de las sesiones ordinarias del primer periodo del Congreso, asistirá el Presidente de la República y presentará un informe de conformidad con el
-
-### artículo 69
-de la Constitución. 2. Antes del arribo del Presidente de la República hará uso de la palabra un legislador federal por cada uno de los partidos políticos que concurran, representados en el Congreso. Estas intervenciones se realizarán en orden creciente, en razón del número de diputados de cada grupo partidista y cada una de ellas no excederá de quince minutos. 3. El Presidente del Congreso contestará el informe en términos concisos y generales, con las formalidades que correspondan al acto. Esta sesión no tendrá más objeto que celebrar la apertura del periodo de sesiones y que el Presidente de la República presente su informe; en tal virtud, durante ella no procederán intervenciones o interrupciones por parte de los legisladores. 4. Las Cámaras analizarán el informe presentado por el Presidente de la República. El análisis se desarrollará clasificándose por materias: en política interior, política económica, política social y política exterior. 5. Las versiones estenográficas de las sesiones serán remitidas al Presidente de la República para su conocimiento.
+ARTICULO 7o. 1. El primero de septiembre de cada año, a la apertura de las sesiones ordinarias del primer periodo del Congreso, asistirá el Presidente de la República y presentará un informe de conformidad con el artículo 69 de la Constitución. 2. Antes del arribo del Presidente de la República hará uso de la palabra un legislador federal por cada uno de los partidos políticos que concurran, representados en el Congreso. Estas intervenciones se realizarán en orden creciente, en razón del número de diputados de cada grupo partidista y cada una de ellas no excederá de quince minutos. 3. El Presidente del Congreso contestará el informe en términos concisos y generales, con las formalidades que correspondan al acto. Esta sesión no tendrá más objeto que celebrar la apertura del periodo de sesiones y que el Presidente de la República presente su informe; en tal virtud, durante ella no procederán intervenciones o interrupciones por parte de los legisladores. 4. Las Cámaras analizarán el informe presentado por el Presidente de la República. El análisis se desarrollará clasificándose por materias: en política interior, política económica, política social y política exterior. 5. Las versiones estenográficas de las sesiones serán remitidas al Presidente de la República para su conocimiento.
 ARTICULO 8o. 1. Para la realización de la sesión conjunta de las Cámaras, se requiere el quórum que para cada una de ellas se dispone en el primer párrafo del artículo 63 constitucional.
 ARTICULO 9o. 1. En los términos del primer párrafo del artículo 84 de la Constitución, el Congreso General, constituido en Colegio Electoral, con la concurrencia de por lo menos las dos terceras partes del total de sus miembros, nombrará Presidente interino de la República. El nombramiento se otorgará en escrutinio secreto y por mayoría de votos de los miembros presentes. 2. El Congreso emitirá la convocatoria a elecciones en un plazo no mayor de diez días naturales, contados a partir del siguiente al del nombramiento del Presidente interino. 3. Esta convocatoria no podrá ser vetada por el Presidente interino.
 ARTICULO 10. 1. En el caso de que llegada la fecha de comienzo del periodo presidencial no se presentase el Presidente electo, o la elección no estuviere hecha y declarada el primero de diciembre, cesará en su ejercicio el Presidente cuyo periodo haya concluido y ocupará el cargo con carácter de interino el ciudadano que para tal fin designe el Congreso de la Unión, o en su falta, con el carácter de provisional, el que designe la Comisión Permanente, observándose lo dispuesto en el artículo anterior. 2. En los casos de falta temporal del Presidente de la República, el Congreso de la Unión, en sesión conjunta, o la Comisión Permanente en su caso, designará un Presidente interino por el tiempo que dure la falta. 3. Cuando dicha falta sea por más de treinta días y el Congreso no estuviere reunido, la Comisión Permanente convocará a sesiones extraordinarias para que éste resuelva sobre la licencia y nombre, conforme lo dispuesto por el artículo anterior y los dos primeros párrafos de este artículo, al Presidente interino. De igual forma se procederá en el caso de que la falta temporal se convierta en absoluta.
@@ -136,10 +133,7 @@ Inciso reformado DOF 02-04-2013
 p) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto por el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos;
 Inciso reformado DOF 02-04-2013, 20-05-2014
 
-q) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del
-
-### artículo 71
-de la Constitución Política de los Estados Unidos Mexicanos; y Inciso adicionado DOF 20-05-2014
+q) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos; y Inciso adicionado DOF 20-05-2014
 
 r) Las demás que le atribuyan la Constitución General de la República, esta ley y los demás ordenamientos relativos a la actividad parlamentaria.
 Inciso adicionado DOF 02-04-2013. Recorrido DOF 20-05-2014 2. En el caso de iniciativas y minutas preferentes tendrá las siguientes atribuciones:
@@ -154,10 +148,7 @@ d) Prevenir a la comisión o comisiones, siete días naturales antes de que venz
 
 e) Emitir la declaratoria de publicidad inmediatamente después de concluido el plazo de la comisión o comisiones para dictaminar.
 Numeral con incisos adicionado DOF 20-05-2014 3. Asimismo, conforme a la declaración de Presidente Electo de los Estados Unidos Mexicanos que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación, corresponde al Presidente de la Cámara disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión más próxima; ordenar su publicación en el Diario Oficial de la Federación; y tomar las medidas necesarias para que se difunda en los Periódicos Oficiales de las entidades federativas y se fije en las principales oficinas públicas de las entidades federativas y de los Municipios.
-Numeral recorrido DOF 20-05-2014. Reformado DOF 02-05-2017 4. Si al comenzar el periodo constitucional no se presentase el Presidente electo, o la elección no estuviere hecha o declarada válida el 1 de diciembre, procederá a tomar las medidas necesarias para que el Congreso se erija en colegio electoral a efecto de designar Presidente interino, en los términos del
-
-### artículo 84
-Constitucional.
+Numeral recorrido DOF 20-05-2014. Reformado DOF 02-05-2017 4. Si al comenzar el periodo constitucional no se presentase el Presidente electo, o la elección no estuviere hecha o declarada válida el 1 de diciembre, procederá a tomar las medidas necesarias para que el Congreso se erija en colegio electoral a efecto de designar Presidente interino, en los términos del artículo 84 Constitucional.
 Numeral adicionado DOF 21-04-2008. Recorrido DOF 20-05-2014
 
 ## Sección Cuarta — De los Vicepresidentes y de los Secretarios
@@ -648,10 +639,7 @@ Inciso reformado DOF 02-04-2013
 m) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto por el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos;
 Inciso reformado DOF 02-04-2013, 20-05-2014
 
-n) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del
-
-### artículo 71
-de la Constitución Política de los Estados Unidos Mexicanos; y Inciso adicionado DOF 20-05-2014
+n) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos; y Inciso adicionado DOF 20-05-2014
 
 o) Las demás que le confieran esta Ley y el Reglamento.
 Inciso adicionado DOF 02-04-2013. Recorrido DOF 20-05-2014 2. En el caso de iniciativas preferentes tendrá las siguientes atribuciones:
@@ -909,10 +897,7 @@ e) Presentar mensualmente a la Comisión de Administración un informe de la apl
 f) Descontar de las cantidades que deba entregar como dietas a los Senadores, la suma que corresponda a los días que dejaren de asistir, conforme a la orden escrita del Presidente de la Cámara; y
 
 g) Las demás que esta Ley, el Reglamento y los acuerdos de la Mesa Directiva le confieran. 2. El Tesorero al iniciar su cargo otorgará la fianza correspondiente para caucionar la Administración de los fondos del presupuesto de la Cámara.
-ARTICULO 112. 1. La Cámara tendrá una contraloría interna, cuyo titular será designado por mayoría de los senadores presentes en el Pleno a propuesta de la Junta de Coordinación Política. El contralor podrá ser removido de su cargo por causa grave, calificada por el voto de la mayoría de los senadores presentes en el Pleno. 2. Las ausencias temporales del contralor interno mayores de treinta días naturales, serán suplidas por el titular de la subcontraloría que corresponda, en el orden de prelación que señala el párrafo 2 del
-
-### artículo 113
-, quien fungirá como encargado del despacho.
+ARTICULO 112. 1. La Cámara tendrá una contraloría interna, cuyo titular será designado por mayoría de los senadores presentes en el Pleno a propuesta de la Junta de Coordinación Política. El contralor podrá ser removido de su cargo por causa grave, calificada por el voto de la mayoría de los senadores presentes en el Pleno. 2. Las ausencias temporales del contralor interno mayores de treinta días naturales, serán suplidas por el titular de la subcontraloría que corresponda, en el orden de prelación que señala el párrafo 2 del artículo 113, quien fungirá como encargado del despacho.
 Numeral adicionado DOF 05-03-2009 3. En su caso, el encargado del despacho realizará las funciones que esta ley y demás ordenamientos aplicables determinen para el titular de la Contraloría Interna.
 Numeral adicionado DOF 05-03-2009 ARTICULO 113. 1. La Contraloría Interna, tendrá las siguientes atribuciones:
 
@@ -1025,10 +1010,7 @@ c) Si transcurre el plazo sin que se formule el dictamen correspondiente, proced
 
 I. La Mesa Directiva deberá incluirla como primer asunto en el orden del día de la siguiente sesión del Pleno para su discusión y votación en sus términos, y sin mayor trámite.
 
-II. La discusión y votación sólo se abocará a la iniciativa preferente y deberá ser aprobada, de lo contrario, se tendrá por desechada, en términos de lo dispuesto en la fracción G del
-
-### artículo 72
-de la Constitución.
+II. La discusión y votación sólo se abocará a la iniciativa preferente y deberá ser aprobada, de lo contrario, se tendrá por desechada, en términos de lo dispuesto en la fracción G del artículo 72 de la Constitución.
 
 III. El proyecto de decreto materia de la iniciativa con carácter preferente aprobado por la Cámara de origen, será enviado de inmediato a la Cámara revisora, en calidad de minuta, para los efectos del artículo 72 de la Constitución.
 
@@ -1052,10 +1034,7 @@ I. La Mesa Directiva deberá incluirla como primer asunto en el orden del día d
 II. Cuando la minuta sea aprobada en sus términos se remitirá al Ejecutivo para los efectos de la fracción A del artículo 72 de la Constitución.
 
 III. Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada por la Cámara revisora deberá devolverla a la Cámara de origen, para los efectos del artículo 72, fracciones D o E, de la Constitución, sin que la iniciativa, materia de la minuta, pierda su carácter de preferente.
-Artículo adicionado DOF 20-05-2014 ARTICULO 138. 1. Para las minutas sobre iniciativas preferentes remitidas para los efectos de las fracciones D o E del
-
-### artículo 72
-constitucional, se observará lo siguiente:
+Artículo adicionado DOF 20-05-2014 ARTICULO 138. 1. Para las minutas sobre iniciativas preferentes remitidas para los efectos de las fracciones D o E del artículo 72 constitucional, se observará lo siguiente:
 
 a) El Presidente turnará a la comisión o comisiones que corresponda, en cuanto se reciba y se dé cuenta de ésta al Pleno;
 
@@ -1069,10 +1048,7 @@ e) Si transcurre el plazo sin que se formule el dictamen correspondiente, proced
 
 I. La Mesa Directiva deberá incluirla como primer asunto en el orden del día de la siguiente sesión del Pleno para su discusión y votación en sus términos, y sin mayor trámite.
 
-II. Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada por la Cámara revisora, la cual deberá devolverla a la Cámara de origen, para los efectos del
-
-### artículo 72
-, fracciones D o E, de la Constitución.
+II. Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada por la Cámara revisora, la cual deberá devolverla a la Cámara de origen, para los efectos del artículo 72, fracciones D o E, de la Constitución.
 Artículo adicionado DOF 20-05-2014 TITULO SEXTO De la difusión e información de las actividades del Congreso Título recorrido (antes Título Quinto) DOF 20-05-2014 CAPITULO UNICO ARTICULO 139. 1. El Congreso de la Unión hará la más amplia difusión de los actos a través de los cuales las Cámaras lleven a cabo el cumplimiento de las funciones que la Constitución y esta Ley les encomiendan.
 Artículo recorrido (antes Artículo 130) DOF 20-05-2014 ARTICULO 140. 1. El Congreso de la Unión, para la difusión de sus actividades, y de acuerdo con la legislación en la materia, contará con un órgano denominado "Canal de Televisión del Congreso General de los Estados Unidos Mexicanos", el cual funcionará con base en los permisos y las autorizaciones que le asigne la autoridad competente, de conformidad con las normas técnicas aplicables. 2. El Canal de Televisión del Congreso General de los Estados Unidos Mexicanos tiene por objeto, reseñar y difundir, a través de las distintas plataformas de comunicación y canales de programación, la actividad legislativa y parlamentaria que corresponda a las de las Cámaras del Congreso de la Unión y de la Comisión Permanente, así como contribuir a informar, analizar y discutir pública y ampliamente la situación de los problemas de la realidad nacional vinculados con la difusión de la cultura democrática y los valores nacionales. 3. El Canal de Televisión del Congreso General de los Estados Unidos Mexicanos gozará de autonomía técnica y de gestión para la consecución de su objeto.
 El Canal se sujetará a lo previsto en esta Ley, el Reglamento del Canal, por los lineamientos administrativos, políticas internas de orden general y programas de trabajo que apruebe la Comisión Bicamaral. 4. Para la realización de su objeto, el Canal de Televisión del Congreso General de los Estados Unidos Mexicanos contará con el presupuesto que cada Cámara le haya asignado y que será acorde a las necesidades del Canal, para asegurar la transmisión y la calidad de los contenidos.
@@ -1136,10 +1112,7 @@ ARTÍCULO TRANSITORIO
 México, D.F., a 9 de diciembre de 1999.- Sen. Luis Mejía Guzmán, Vicepresidente en funciones.- Dip.
 Francisco José Paoli Bolio, Presidente.- Sen. Raúl Juárez Valencia, Secretario.- Dip. Eduardo Bernal Martínez, Secretario.- Rúbricas".
 DECRETO por el que se reforman y adicionan los artículos 39, numeral 2, y 43, numeral 1, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
-Publicado en el Diario Oficial de la Federación el 9 de octubre de 2000 ARTICULO UNICO.- Se reforma y adiciona el numeral 2 del artículo 39 y se reforma el numeral 1 del
-
-### artículo 43
-, ambos de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar en los siguientes términos: ..........
+Publicado en el Diario Oficial de la Federación el 9 de octubre de 2000 ARTICULO UNICO.- Se reforma y adiciona el numeral 2 del artículo 39 y se reforma el numeral 1 del artículo 43, ambos de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar en los siguientes términos: ..........
 
 ## TRANSITORIO
 
@@ -1160,10 +1133,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones del Título Se
 Publicado en el Diario Oficial de la Federación el 29 de septiembre de 2003
 
 ### Artículo Único
-Se reforma y adiciona el artículo 34; se reforman las fracciones V a XXXVI y se adicionan dos fracciones al artículo 39; se adiciona un numeral 7 al artículo 45, y se reforma y adiciona el
-
-### artículo 46
-, todos del Título Segundo de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue: ..........
+Se reforma y adiciona el artículo 34; se reforman las fracciones V a XXXVI y se adicionan dos fracciones al artículo 39; se adiciona un numeral 7 al artículo 45, y se reforma y adiciona el artículo 46, todos del Título Segundo de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue: ..........
 
 ## TRANSITORIO
 
@@ -1383,10 +1353,7 @@ Se adiciona el artículo tercero transitorio al “Decreto por el que se reforma
 **Único.-** El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 8 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Rúbrica.- Sen.
 José González Morfín, Presidente.- Rúbrica.- Dip. Guadalupe Perez Dominguez, Secretaria.- Rúbrica.Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbrica.
-DECRETO aprobado por el Honorable Congreso de la Unión, por el que se reforma el
-
-### artículo 39
-de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+DECRETO aprobado por el Honorable Congreso de la Unión, por el que se reforma el artículo 39 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 8 de octubre de 2012
 
 ### Artículo Único
@@ -1632,10 +1599,7 @@ Se adiciona un artículo 100 Ter a la Ley Orgánica del Congreso General de los 
 
 **Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 4 de noviembre de 2022.- Sen. Alejandro Armenta Mier, Presidente.- Rúbrica.Dip. Santiago Creel Miranda, Presidente.- Rúbrica.- Sen. Verónica Noemí Camino Farjat, Secretaria.Rúbrica.- Dip. María del Carmen Pinete Vargas, Secretaria.- Rúbrica.
-DECRETO por el que se adicionan un inciso n) al numeral 1, y un inciso f) al numeral 2 al
-
-### artículo 113
-de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+DECRETO por el que se adicionan un inciso n) al numeral 1, y un inciso f) al numeral 2 al artículo 113 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 2 de julio de 2025
 
 ### Artículo Único

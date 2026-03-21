@@ -372,10 +372,7 @@ XXX. Autorizar al CENACE la celebración de convenios con los organismos o autor
 
 XXXI. Regular, supervisar y ejecutar el proceso de estandarización y normalización en materia de la seguridad de las instalaciones de las Usuarias Finales;
 
-XXXII. Definir los términos para la aprobación de las unidades de inspección a que alude la fracción V del
-
-### artículo 48
-de esta Ley, y expedir los formatos correspondientes;
+XXXII. Definir los términos para la aprobación de las unidades de inspección a que alude la fracción V del artículo 48 de esta Ley, y expedir los formatos correspondientes;
 
 XXXIII. Verificar el cumplimiento de esta Ley, sus Reglamentos y demás disposiciones administrativas aplicables, ordenar y realizar visitas de verificación, requerir la presentación de información e informes y citar a comparecer a los integrantes del sector eléctrico, a fin de supervisar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones jurídicas aplicables;
 
@@ -601,10 +598,7 @@ III. Sujetar el mantenimiento de sus Centrales Eléctricas a la coordinación y 
 IV. Notificar al CENACE los retiros programados de sus Centrales Eléctricas.
 
 ### Artículo 23
-.- Con relación a la producción de sus propias Centrales Eléctricas, las Generadoras pueden realizar las actividades de comercialización a que se refiere el artículo 112 de la presente Ley, exceptuando la prestación del Suministro Eléctrico. Sobre dichas actividades no aplican ni la separación legal, ni las reglas a que se refiere el
-
-### artículo 8
-de esta Ley.
+.- Con relación a la producción de sus propias Centrales Eléctricas, las Generadoras pueden realizar las actividades de comercialización a que se refiere el artículo 112 de la presente Ley, exceptuando la prestación del Suministro Eléctrico. Sobre dichas actividades no aplican ni la separación legal, ni las reglas a que se refiere el artículo 8 de esta Ley.
 
 ### Artículo 24
 .- Las Generadoras Exentas únicamente pueden vender su energía eléctrica y Productos Asociados a través de una Suministradora o dedicar su producción a consumo propio.
@@ -670,10 +664,7 @@ III. En caso de ser generadora intermitente e inyectar energía, tener respaldo 
 
 ### Artículo 33
 .- Los lineamientos para el otorgamiento de permisos de generación para el autoconsumo aislado y autoconsumo interconectado deben ser conforme al Reglamento y las disposiciones administrativas de carácter general que al respecto emita la Secretaría o la CNE, según corresponda.
-En la modalidad de autoconsumo interconectado no aplica la separación legal, ni las reglas a que se refiere el
-
-### artículo 8
-de esta Ley. El uso de Redes Particulares para el autoconsumo debe realizarse en términos del Reglamento y las disposiciones administrativas que al respecto emita la Secretaría o la CNE, según corresponda.
+En la modalidad de autoconsumo interconectado no aplica la separación legal, ni las reglas a que se refiere el artículo 8 de esta Ley. El uso de Redes Particulares para el autoconsumo debe realizarse en términos del Reglamento y las disposiciones administrativas que al respecto emita la Secretaría o la CNE, según corresponda.
 
 ### Artículo 34
 .- Los Centros de Carga en modalidad de autoconsumo aislado y autoconsumo interconectado que no satisfagan sus necesidades de energía eléctrica a través de su Central Eléctrica, pueden ser conectados a la Red Nacional de Transmisión o a las Redes Generales de Distribución para la compra de energía eléctrica y Productos Asociados, en modalidad de Usuaria de Suministro Básico, Usuario de Suministro Calificado o Usuario Calificado Participante del Mercado, siempre y cuando se celebre el contrato de conexión correspondiente y se sujeten a las Reglas del Mercado y demás disposiciones aplicables.
@@ -904,10 +895,7 @@ VII. Las demás que determine la Secretaría.
 ### Artículo 61
 .- Para prestar el servicio de Suministro Eléctrico o representar a las Generadoras Exentas, se requiere permiso de la CNE en modalidad de Suministradora.
 La CNE puede establecer requisitos específicos para que el Suministro Básico y el Suministro de Último Recurso, se ofrezcan con eficiencia y Calidad en sus servicios.
-El Suministro Básico sólo puede proveerlo la Empresa Pública del Estado, dado que se debe proveer al pueblo de los Estados Unidos Mexicanos de la electricidad al menor precio posible de conformidad con lo establecido en el
-
-### artículo 28
-de la Constitución Política de los Estados Unidos Mexicanos.
+El Suministro Básico sólo puede proveerlo la Empresa Pública del Estado, dado que se debe proveer al pueblo de los Estados Unidos Mexicanos de la electricidad al menor precio posible de conformidad con lo establecido en el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
 Sin perjuicio de que se sujeten a los requerimientos técnicos y de medición establecidos en las condiciones generales para la prestación del Servicio Público de Transmisión y Distribución de Energía Eléctrica o en las Reglas del Mercado, las siguientes actividades no se consideran comercialización, por lo que no requieren permiso o registro de Suministradora:
 
 I. La venta de energía eléctrica de una Usuaria Final a un tercero, siempre y cuando la energía eléctrica se utilice dentro de una Red Particular, y
@@ -1120,10 +1108,7 @@ Las servidumbres legales se pueden decretar por vía jurisdiccional o administra
 Los peritos que se designen por la autoridad jurisdiccional deben observar lo dispuesto en el artículo 94 de la presente Ley y, en lo conducente, lo señalado en las fracciones V a VII del artículo 91 de esta Ley.
 
 ### Artículo 100
-.- La contraprestación que corresponda por la servidumbre legal de que se decrete por vía administrativa, se debe determinar con base en las propuestas que se hayan formulado conforme a la fracción II del
-
-### artículo 97
-la presente Ley.
+.- La contraprestación que corresponda por la servidumbre legal de que se decrete por vía administrativa, se debe determinar con base en las propuestas que se hayan formulado conforme a la fracción II del artículo 97 la presente Ley.
 Tratándose de las demás modalidades de adquisición o afectación por figuras de derecho público, la indemnización respectiva se determina considerando lo dispuesto en el artículo 94 y, en su caso, los valores de los avalúos que se obtengan conforme a la fracción II el artículo 97 de esta Ley.
 
 ### Artículo 101

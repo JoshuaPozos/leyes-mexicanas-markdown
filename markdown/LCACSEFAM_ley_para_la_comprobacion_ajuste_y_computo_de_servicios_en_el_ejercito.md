@@ -289,10 +289,7 @@ Cuando un individuo de Tropa ascienda a la jerarquía de Oficial o cause baja de
 
 ### Artículo 35
 .- El Extracto de Antecedentes Militares es el documento en el que se hace constar la totalidad de los años, meses y días, así como las Unidades, Dependencias e Instalaciones en que sirvió el militar desde que causó alta en el Ejército y Fuerza Aérea Mexicanos, hasta su separación del activo o la fecha de su elaboración. Es utilizado para comprobar el tiempo total de servicios, considerando los abonos y deducciones contemplados en esta Ley.
-Este documento se elaborará exclusivamente por la unidad administrativa a que hace referencia el
-
-### artículo 2
-de esta Ley, en los formatos que expida la Secretaría de la Defensa Nacional.
+Este documento se elaborará exclusivamente por la unidad administrativa a que hace referencia el artículo 2 de esta Ley, en los formatos que expida la Secretaría de la Defensa Nacional.
 
 ### Artículo 36
 .- Los Extractos de Antecedentes Militares se elaborarán:

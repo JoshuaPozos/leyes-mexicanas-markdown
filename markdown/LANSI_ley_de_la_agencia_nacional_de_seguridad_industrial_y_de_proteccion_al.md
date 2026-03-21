@@ -191,10 +191,7 @@ I. Autorizaciones en materia de impacto y riesgo ambiental del Sector Hidrocarbu
 
 II. Autorización para emitir olores, gases o partículas sólidas o líquidas a la atmósfera por las Instalaciones del Sector Hidrocarburos, en términos del artículo 111 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y del Reglamento de la materia;
 
-III. Autorizaciones en materia de residuos peligrosos en el Sector Hidrocarburos, previstas en el
-
-### artículo 50
-, fracciones I a IX, de la Ley General para la Prevención y Gestión Integral de los Residuos y de los reglamentos en la materia;
+III. Autorizaciones en materia de residuos peligrosos en el Sector Hidrocarburos, previstas en el artículo 50, fracciones I a IX, de la Ley General para la Prevención y Gestión Integral de los Residuos y de los reglamentos en la materia;
 
 IV. Autorización de las propuestas de remediación de sitios contaminados y la liberación de los mismos al término de la ejecución del programa de remediación correspondiente, en términos de la Ley General para la Prevención y Gestión Integral de los Residuos y de su Reglamento;
 

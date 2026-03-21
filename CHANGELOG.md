@@ -2,6 +2,15 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Fix 10 — Falsos positivos en headings de artículos] — 2026-03-21
+
+- `is_article_heading()`: eliminado `re.IGNORECASE` — solo reconoce "Artículo" con A mayúscula
+- `ARTICLE_ORDINAL_RE`: cambiado a match explícito "ARTÍCULO|Artículo" sin IGNORECASE
+- `split_article_heading()`: eliminado `re.IGNORECASE` para consistencia
+- Guardia de contexto en `build_markdown()`: si el buffer termina con preposición ("el", "del", "al", etc.), el "Artículo N" se une como texto, no como heading
+- **Resultado:** 1 762 falsos positivos → 0 en los 315 archivos
+- Todos los 315 `.md` regenerados
+
 ## [Lote 14 — Leyes 295-315] — 2026-03-21
 
 ### Leyes publicadas (21) — Catálogo completo 315/315 🎉

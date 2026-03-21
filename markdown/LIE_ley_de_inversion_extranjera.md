@@ -11,13 +11,9 @@ Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "E
 LEY DE INVERSION EXTRANJERA TITULO PRIMERO DISPOSICIONES GENERALES
 
 ## Capítulo I — Del Objeto de la Ley
-
-### ARTÍCULO 1o
-.- La presente Ley es de orden público y de observancia general en toda la República.
+ARTÍCULO 1o.- La presente Ley es de orden público y de observancia general en toda la República.
 Su objeto es la determinación de reglas para canalizar la inversión extranjera hacia el país y propiciar que ésta contribuya al desarrollo nacional.
-
-### ARTÍCULO 2o
-.- Para los efectos de esta Ley, se entenderá por:
+ARTÍCULO 2o.- Para los efectos de esta Ley, se entenderá por:
 I.- Comisión: la Comisión Nacional de Inversiones Extranjeras;
 II.- Inversión extranjera:
 
@@ -31,21 +27,14 @@ IV.- Registro: el Registro Nacional de Inversiones Extranjeras;
 
 V. Secretaría: la Secretaría de Economía;
 Fracción reformada DOF 09-04-2012 VI.- Zona Restringida: La faja del territorio nacional de cien kilómetros a lo largo de las fronteras y de cincuenta a lo largo de las playas, a que hace referencia la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos; y VII.- Cláusula de Exclusión de Extranjeros: El convenio o pacto expreso que forme parte integrante de los estatutos sociales, por el que se establezca que las sociedades de que se trate no admitirán directa ni indirectamente como socios o accionistas a inversionistas extranjeros, ni a sociedades con cláusula de admisión de extranjeros.
-
-### ARTÍCULO 3o
-.- Para los efectos de esta Ley se equipara a la inversión mexicana la que efectúen los extranjeros en el país con la condición de estancia de Residente Permanente, salvo aquélla realizada en las actividades contempladas en los Títulos Primero y Segundo de esta Ley.
-Artículo reformado DOF 25-05-2011
-
-### ARTÍCULO 4o
-.- La inversión extranjera podrá participar en cualquier proporción en el capital social de sociedades mexicanas, adquirir activos fijos, ingresar a nuevos campos de actividad económica o fabricar nuevas líneas de productos, abrir y operar establecimientos, y ampliar o relocalizar los ya existentes, salvo por lo dispuesto en esta Ley.
+ARTÍCULO 3o.- Para los efectos de esta Ley se equipara a la inversión mexicana la que efectúen los extranjeros en el país con la condición de estancia de Residente Permanente, salvo aquélla realizada en las actividades contempladas en los Títulos Primero y Segundo de esta Ley.
+Artículo reformado DOF 25-05-2011 ARTÍCULO 4o.- La inversión extranjera podrá participar en cualquier proporción en el capital social de sociedades mexicanas, adquirir activos fijos, ingresar a nuevos campos de actividad económica o fabricar nuevas líneas de productos, abrir y operar establecimientos, y ampliar o relocalizar los ya existentes, salvo por lo dispuesto en esta Ley.
 Las reglas sobre la participación de la inversión extranjera en las actividades del sector financiero contempladas en esta Ley, se aplicarán sin perjuicio de lo que establezcan las leyes específicas para esas actividades.
 Para efectos de determinar el porcentaje de inversión extranjera en las actividades económicas sujetas a límites máximos de participación, no se computará la inversión extranjera que, de manera indirecta, sea realizada en dichas actividades a través de sociedades mexicanas con mayoría de capital mexicano, siempre que estas últimas no se encuentren controladas por la inversión extranjera.
 Párrafo adicionado DOF 24-12-1996
 
 ## Capítulo II — De las Actividades Reservadas
-
-### ARTÍCULO 5o
-.- Están reservadas de manera exclusiva al Estado las funciones que determinen las leyes en las siguientes áreas estratégicas:
+ARTÍCULO 5o.- Están reservadas de manera exclusiva al Estado las funciones que determinen las leyes en las siguientes áreas estratégicas:
 
 I. Exploración y extracción del petróleo y de los demás hidrocarburos, en términos de lo dispuesto por los artículos 27, párrafo séptimo y 28, párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Ley reglamentaria respectiva;
 Fracción reformada DOF 11-08-2014
@@ -63,9 +52,7 @@ X.- (Se deroga).
 Fracción derogada DOF 12-05-1995 XI.- Emisión de billetes;
 XII.- Acuñación de moneda;
 XIII.- Control, supervisión y vigilancia de puertos, aeropuertos y helipuertos; y XIV.- Las demás que expresamente señalen las disposiciones legales aplicables.
-
-### ARTÍCULO 6o
-.- Las actividades económicas y sociedades que se mencionan a continuación, están reservadas de manera exclusiva a mexicanos o a sociedades mexicanas con cláusula de exclusión de extranjeros:
+ARTÍCULO 6o.- Las actividades económicas y sociedades que se mencionan a continuación, están reservadas de manera exclusiva a mexicanos o a sociedades mexicanas con cláusula de exclusión de extranjeros:
 I.- Transporte terrestre nacional de pasajeros, turismo y carga, sin incluir los servicios de mensajería y paquetería;
 
 II. (Se deroga.) Fracción derogada DOF 11-08-2014 III.- Se deroga Fracción derogada DOF 14-07-2014 IV.- (Se deroga).
@@ -73,9 +60,7 @@ Fracción derogada DOF 20-08-2008 V.- Instituciones de banca de desarrollo, en l
 La inversión extranjera no podrá participar en las actividades y sociedades mencionadas en el presente artículo directamente, ni a través de fideicomisos, convenios, pactos sociales o estatutarios, esquemas de piramidación, u otro mecanismo que les otorgue control o participación alguna, salvo por lo dispuesto en el Título Quinto de esta Ley.
 
 ## Capítulo III — De las Actividades y Adquisiciones con Regulación Específica
-
-### ARTÍCULO 7o
-.- En las actividades económicas y sociedades que se mencionan a continuación la inversión extranjera podrá participar en los porcentajes siguientes:
+ARTÍCULO 7o.- En las actividades económicas y sociedades que se mencionan a continuación la inversión extranjera podrá participar en los porcentajes siguientes:
 I.- Hasta el 10% en:
 Sociedades cooperativas de producción;
 II.- Se deroga.
@@ -141,9 +126,7 @@ x) Radiodifusión. Dentro de este máximo de inversión extranjera se estará a 
 
 y) Servicio de transporte aéreo nacional regular y no regular; servicio de transporte aéreo internacional no regular en la modalidad de taxi aéreo; y, servicio de transporte aéreo especializado.
 Inciso adicionado DOF 26-06-2017 Fracción reformada DOF 24-12-1996 IV.- (Se deroga) Fracción reformada DOF 12-05-1995. Derogada DOF 24-12-1996 Los límites para la participación de inversión extranjera señalados en este artículo, no podrán ser rebasados directamente, ni a través de fideicomisos, convenios, pactos sociales o estatutarios, esquemas de piramidación, o cualquier otro mecanismo que otorgue control o una participación mayor a la que se establece, salvo por lo dispuesto en el Título Quinto de esta Ley.
-
-### ARTÍCULO 8o
-.- Se requiere resolución favorable de la Comisión para que la inversión extranjera participe en un porcentaje mayor al 49% en las actividades económicas y sociedades que se mencionan a continuación:
+ARTÍCULO 8o.- Se requiere resolución favorable de la Comisión para que la inversión extranjera participe en un porcentaje mayor al 49% en las actividades económicas y sociedades que se mencionan a continuación:
 I.- Servicios portuarios a las embarcaciones para realizar sus operaciones de navegación interior, tales como el remolque, amarre de cabos y lanchaje;
 II.- Sociedades navieras dedicadas a la explotación de embarcaciones exclusivamente en tráfico de altura;
 III.- Sociedades concesionarias o permisionarias de aeródromos de servicio al público;
@@ -159,27 +142,16 @@ VIII. Se deroga Fracción derogada DOF 10-01-2014 IX.- Se deroga Fracción derog
 X. (Se deroga.) Fracción reformada DOF 24-12-1996. Derogada DOF 11-08-2014
 
 XI. (Se deroga.) Fracción reformada DOF 24-12-1996. Derogada DOF 11-08-2014 XII.- Construcción, operación y explotación de vías férreas que sean vía general de comunicación, y prestación del servicio público de transporte ferroviario.
-Fracción adicionada DOF 24-12-1996
-
-### ARTÍCULO 9o
-.- Se requiere resolución favorable de la Comisión para que en las sociedades mexicanas donde la inversión extranjera pretenda participar, directa o indirectamente, en una proporción mayor al 49% de su capital social, únicamente cuando el valor total de activos de las sociedades de que se trate, al momento de someter la solicitud de adquisición, rebase el monto que determine anualmente la propia Comisión.
+Fracción adicionada DOF 24-12-1996 ARTÍCULO 9o.- Se requiere resolución favorable de la Comisión para que en las sociedades mexicanas donde la inversión extranjera pretenda participar, directa o indirectamente, en una proporción mayor al 49% de su capital social, únicamente cuando el valor total de activos de las sociedades de que se trate, al momento de someter la solicitud de adquisición, rebase el monto que determine anualmente la propia Comisión.
 
 ## TÍTULO SEGUNDO — DE LA ADQUISICIÓN DE BIENES INMUEBLES, LA EXPLOTACIÓN DE MINAS Y AGUAS, Y
 DE LOS FIDEICOMISOS Denominación del Título reformada DOF 24-12-1996
 
 ## Capítulo I — De la adquisición de bienes inmuebles y explotación de minas y aguas
-Denominación del Capítulo reformada DOF 24-12-1996
-
-### ARTÍCULO 10
-.- De conformidad con lo dispuesto por la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, las sociedades mexicanas con cláusula de exclusión de extranjeros o que hayan celebrado el convenio a que se refiere dicho precepto, podrán adquirir el dominio de bienes inmuebles en el territorio nacional.
-En el caso de las sociedades en cuyos estatutos se incluya el convenio previsto en la fracción I del
-
-### artículo 27
-Constitucional, se estará a lo siguiente:
+Denominación del Capítulo reformada DOF 24-12-1996 ARTÍCULO 10.- De conformidad con lo dispuesto por la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, las sociedades mexicanas con cláusula de exclusión de extranjeros o que hayan celebrado el convenio a que se refiere dicho precepto, podrán adquirir el dominio de bienes inmuebles en el territorio nacional.
+En el caso de las sociedades en cuyos estatutos se incluya el convenio previsto en la fracción I del artículo 27 Constitucional, se estará a lo siguiente:
 I.- Podrán adquirir el dominio de bienes inmuebles ubicados en la zona restringida, destinados a la realización de actividades no residenciales, debiendo dar aviso de dicha adquisición a la Secretaría de Relaciones Exteriores, dentro de los sesenta días hábiles siguientes a aquél en el que se realice la adquisición, y Fracción reformada DOF 24-12-1996 II.- Podrán adquirir derechos sobre bienes inmuebles en la zona restringida, que sean destinados a fines residenciales, de conformidad con las disposiciones del capítulo siguiente.
-
-### ARTÍCULO 10 A
-- Los extranjeros que pretendan adquirir bienes inmuebles fuera de la zona restringida, u obtener concesiones para la exploración y explotación de minas y aguas en el territorio nacional, deberán presentar previamente ante la Secretaría de Relaciones Exteriores un escrito en el que convengan lo dispuesto en la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y obtener el permiso correspondiente de dicha dependencia.
+ARTÍCULO 10 A.- Los extranjeros que pretendan adquirir bienes inmuebles fuera de la zona restringida, u obtener concesiones para la exploración y explotación de minas y aguas en el territorio nacional, deberán presentar previamente ante la Secretaría de Relaciones Exteriores un escrito en el que convengan lo dispuesto en la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y obtener el permiso correspondiente de dicha dependencia.
 Cuando el bien inmueble que se pretenda adquirir esté en un municipio totalmente ubicado fuera de la zona restringida o cuando se pretenda obtener una concesión para la explotación de minas y aguas en territorio nacional, el permiso se entenderá otorgado si no se publica en el Diario Oficial de la Federación la negativa de la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de la presentación de la solicitud.
 Cuando el bien inmueble que se pretenda adquirir esté en un municipio parcialmente ubicado dentro de la zona restringida, la Secretaría de Relaciones Exteriores resolverá la petición dentro de los treinta días hábiles siguientes a la fecha de su presentación.
 El Instituto Nacional de Estadística, Geografía e Informática publicará en el Diario Oficial de la Federación y mantendrá actualizada una lista de los municipios mencionados, así como de los que estén totalmente ubicados en la zona restringida.
@@ -187,45 +159,21 @@ La Secretaría de Relaciones Exteriores podrá determinar, mediante acuerdos gen
 Artículo adicionado DOF 24-12-1996
 
 ## Capítulo II — De los Fideicomisos sobre Bienes Inmuebles en Zona Restringida
-
-### ARTÍCULO 11
-.- Se requiere permiso de la Secretaría de Relaciones Exteriores para que instituciones de crédito adquieran como fiduciarias, derechos sobre bienes inmuebles ubicados dentro del la zona restringida, cuando el objeto del fideicomiso sea permitir la utilización y el aprovechamiento de tales bienes sin constituir derechos reales sobre ellos, y los fideicomisarios sean:
+ARTÍCULO 11.- Se requiere permiso de la Secretaría de Relaciones Exteriores para que instituciones de crédito adquieran como fiduciarias, derechos sobre bienes inmuebles ubicados dentro del la zona restringida, cuando el objeto del fideicomiso sea permitir la utilización y el aprovechamiento de tales bienes sin constituir derechos reales sobre ellos, y los fideicomisarios sean:
 I.- Sociedades mexicanas sin cláusula de exclusión de extranjeros en el caso previsto en la fracción II del artículo 10 de esta Ley; y II.- Personas físicas o morales extranjeras.
-
-### ARTÍCULO 12
-.- Se entenderá por utilización y aprovechamiento de los bienes inmuebles ubicados en la zona restringida, los derechos al uso o goce de los mismos, incluyendo en su caso, la obtención de frutos, productos y, en general, cualquier rendimiento que resulte de la operación y explotación lucrativa, a través de terceros o de la institución fiduciaria.
-
-### ARTÍCULO 13
-.- La duración de los fideicomisos a que este capítulo se refiere, será por un periodo máximo de cincuenta años, mismo que podrá prorrogarse a solicitud del interesado.
+ARTÍCULO 12.- Se entenderá por utilización y aprovechamiento de los bienes inmuebles ubicados en la zona restringida, los derechos al uso o goce de los mismos, incluyendo en su caso, la obtención de frutos, productos y, en general, cualquier rendimiento que resulte de la operación y explotación lucrativa, a través de terceros o de la institución fiduciaria.
+ARTÍCULO 13.- La duración de los fideicomisos a que este capítulo se refiere, será por un periodo máximo de cincuenta años, mismo que podrá prorrogarse a solicitud del interesado.
 La Secretaría de Relaciones Exteriores podrá verificar en cualquier tiempo el cumplimiento de las condiciones bajo las cuales se otorguen los permisos previstos en el presente Título, así como la presentación y veracidad del contenido de los avisos dispuestos en el mismo.
-Párrafo reformado DOF 24-12-1996
-
-### ARTÍCULO 14
-.- La Secretaría de Relaciones Exteriores resolverá sobre los permisos a que se refiere el presente capítulo, considerando el beneficio económico y social que la realización de estas operaciones implique para la Nación.
+Párrafo reformado DOF 24-12-1996 ARTÍCULO 14.- La Secretaría de Relaciones Exteriores resolverá sobre los permisos a que se refiere el presente capítulo, considerando el beneficio económico y social que la realización de estas operaciones implique para la Nación.
 Toda solicitud de permiso deberá ser resuelta por la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de su presentación ante la unidad administrativa central competente, o dentro de los treinta días hábiles siguientes, si se presenta en las delegaciones estatales de dicha dependencia. Concluidos dichos plazos sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
-Párrafo reformado DOF 24-12-1996 TITULO TERCERO DE LAS SOCIEDADES De la Constitución y Modificación de Sociedades
-
-### ARTÍCULO 15
-.- La Secretaría de Economía autorizará el uso de las denominaciones o razones sociales con las que pretendan constituirse las sociedades. Se deberá insertar en los estatutos de las sociedades que se constituyan, la cláusula de exclusión de extranjeros o el convenio previsto en la fracción I del artículo 27 Constitucional.
-Artículo reformado DOF 15-12-2011
-
-### ARTÍCULO 16
-.- El procedimiento referido en el artículo anterior, se aplicará para sociedades constituidas que cambien su denominación o razón social.
+Párrafo reformado DOF 24-12-1996 TITULO TERCERO DE LAS SOCIEDADES De la Constitución y Modificación de Sociedades ARTÍCULO 15.- La Secretaría de Economía autorizará el uso de las denominaciones o razones sociales con las que pretendan constituirse las sociedades. Se deberá insertar en los estatutos de las sociedades que se constituyan, la cláusula de exclusión de extranjeros o el convenio previsto en la fracción I del artículo 27 Constitucional.
+Artículo reformado DOF 15-12-2011 ARTÍCULO 16.- El procedimiento referido en el artículo anterior, se aplicará para sociedades constituidas que cambien su denominación o razón social.
 Párrafo reformado DOF 15-12-2011 Las sociedades que modifiquen su cláusula de exclusión de extranjeros por la de admisión, deberán notificarlo a la Secretaría de Relaciones Exteriores, dentro de los treinta días hábiles siguientes a dicha modificación.
 Si estas sociedades son propietarias de bienes inmuebles ubicados en la zona restringida destinados a fines no residenciales, deberán dar el aviso a que se refiere la fracción I del artículo 10 de esta Ley, dentro del plazo previsto en el párrafo anterior.
-Artículo reformado DOF 24-12-1996
-
-### ARTÍCULO 16 A
-- Las solicitudes a que se refieren los artículos 15 y 16 de esta ley deberán ser resueltas por la Secretaría de Economía, dentro de los dos días hábiles inmediatos siguientes al de su presentación.
-Artículo adicionado DOF 24-12-1996. Reformado DOF 15-12-2011 TITULO CUARTO DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
-
-### ARTÍCULO 17
-.- Sin perjuicio de lo establecido en los tratados y convenios internacionales de los que México sea parte, deberán obtener autorización de la Secretaría:
+Artículo reformado DOF 24-12-1996 ARTÍCULO 16 A.- Las solicitudes a que se refieren los artículos 15 y 16 de esta ley deberán ser resueltas por la Secretaría de Economía, dentro de los dos días hábiles inmediatos siguientes al de su presentación.
+Artículo adicionado DOF 24-12-1996. Reformado DOF 15-12-2011 TITULO CUARTO DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS ARTÍCULO 17.- Sin perjuicio de lo establecido en los tratados y convenios internacionales de los que México sea parte, deberán obtener autorización de la Secretaría:
 I.- Las personas morales extranjeras que pretendan realizar habitualmente actos de comercio en la República, y común, y para toda la República en materia federal, que pretendan establecerse en la República y que no estén reguladas por leyes distintas a dicho Código.
-Artículo reformado DOF 24-12-1996
-
-### ARTÍCULO 17 A
-- La autorización a que se refiere el artículo anterior, se otorgará cuando se cumplan los siguientes requisitos:
+Artículo reformado DOF 24-12-1996 ARTÍCULO 17 A.- La autorización a que se refiere el artículo anterior, se otorgará cuando se cumplan los siguientes requisitos:
 
 a) Que dichas personas comprueben que están constituidas de acuerdo con las leyes de su país;
 
@@ -237,91 +185,55 @@ La Secretaría deberá remitir a la Secretaría de Relaciones Exteriores una cop
 Artículo adicionado DOF 24-12-1996 TITULO QUINTO DE LA INVERSION NEUTRA
 
 ## Capítulo I — Del Concepto de Inversión Neutra
-
-### ARTÍCULO 18
-.- La inversión neutra es aquella realizada en sociedades mexicanas o en fideicomisos autorizados conforme al presente Título y no se computará para determinar el porcentaje de inversión extranjera en el capital social de sociedades mexicanas.
+ARTÍCULO 18.- La inversión neutra es aquella realizada en sociedades mexicanas o en fideicomisos autorizados conforme al presente Título y no se computará para determinar el porcentaje de inversión extranjera en el capital social de sociedades mexicanas.
 
 ## Capítulo II
-De la Inversión Neutra Representada por Instrumentos Emitidos por las Instituciones Fiduciarias
-
-### ARTÍCULO 19
-.- La Secretaría podrá autorizar a las instituciones fiduciarias para que expidan instrumentos de inversión neutra que únicamente otorgarán, respecto de sociedades, derechos pecuniarios a sus tenedores y, en su caso, derechos corporativos limitados, sin que concedan a sus tenedores derecho de voto en sus Asambleas Generales Ordinarias.
+De la Inversión Neutra Representada por Instrumentos Emitidos por las Instituciones Fiduciarias ARTÍCULO 19.- La Secretaría podrá autorizar a las instituciones fiduciarias para que expidan instrumentos de inversión neutra que únicamente otorgarán, respecto de sociedades, derechos pecuniarios a sus tenedores y, en su caso, derechos corporativos limitados, sin que concedan a sus tenedores derecho de voto en sus Asambleas Generales Ordinarias.
 La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para otorgar o negar la autorización solicitada, contado a partir del día siguiente al de la presentación de la solicitud. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
 Párrafo adicionado DOF 24-12-1996
 
 ## Capítulo III — De la Inversión Neutra Representada por Series Especiales de Acciones
-
-### ARTÍCULO 20
-.- Se considera neutra la inversión en acciones sin derecho a voto o con derechos corporativos limitados, siempre que obtengan previamente la autorización de la Secretaría y, cuando resulte aplicable, de la Comisión Nacional Bancaria y de Valores.
+ARTÍCULO 20.- Se considera neutra la inversión en acciones sin derecho a voto o con derechos corporativos limitados, siempre que obtengan previamente la autorización de la Secretaría y, cuando resulte aplicable, de la Comisión Nacional Bancaria y de Valores.
 La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para otorgar o negar la autorización solicitada, contado a partir del día siguiente al de la presentación de la solicitud. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
 Artículo reformado DOF 24-12-1996
 
 ## Capítulo IV — De la Inversión Neutra en Sociedades Controladoras de Grupos Financieros,
-Instituciones de Banca Múltiple y Casas de Bolsa
-
-### ARTÍCULO 21
-.- (Se deroga) Artículo derogado DOF 24-12-1996
+Instituciones de Banca Múltiple y Casas de Bolsa ARTÍCULO 21.- (Se deroga) Artículo derogado DOF 24-12-1996
 
 ## Capítulo V
-De la Inversión Neutra realizada por Sociedades Financieras Internacionales para el Desarrollo
-
-### ARTÍCULO 22
-.- La Comisión podrá resolver sobre la inversión neutra que pretendan realizar sociedades financieras internacionales para el desarrollo en el capital social de sociedades, de acuerdo a los términos y condiciones que para el efecto se establezcan en el reglamento de esta Ley.
+De la Inversión Neutra realizada por Sociedades Financieras Internacionales para el Desarrollo ARTÍCULO 22.- La Comisión podrá resolver sobre la inversión neutra que pretendan realizar sociedades financieras internacionales para el desarrollo en el capital social de sociedades, de acuerdo a los términos y condiciones que para el efecto se establezcan en el reglamento de esta Ley.
 TITULO SEXTO DE LA COMISION NACIONAL DE INVERSIONES EXTRANJERAS
 
 ## Capítulo I — De la Estructura de la Comisión
-
-### ARTÍCULO 23
-.- La Comisión estará integrada por los Secretarios de Gobernación; de Relaciones Exteriores; de Hacienda y Crédito Público; de Bienestar; de Medio Ambiente y Recursos Naturales; de Energía; de Economía; de Infraestructura, Comunicaciones y Transportes; de Trabajo y Previsión Social, así como de Turismo, quienes podrán designar a un Subsecretario como suplente. Asimismo, se podrá invitar a participar en las sesiones de la Comisión a aquellas autoridades y representantes de los sectores privado y social que tengan relación con los asuntos a tratar, quienes tendrán voz, pero no voto.
+ARTÍCULO 23.- La Comisión estará integrada por los Secretarios de Gobernación; de Relaciones Exteriores; de Hacienda y Crédito Público; de Bienestar; de Medio Ambiente y Recursos Naturales; de Energía; de Economía; de Infraestructura, Comunicaciones y Transportes; de Trabajo y Previsión Social, así como de Turismo, quienes podrán designar a un Subsecretario como suplente. Asimismo, se podrá invitar a participar en las sesiones de la Comisión a aquellas autoridades y representantes de los sectores privado y social que tengan relación con los asuntos a tratar, quienes tendrán voz, pero no voto.
 Párrafo reformado DOF 27-05-2024 La Comisión se reunirá semestralmente, cuando menos, y decidirá sobre los asuntos de su competencia por mayoría de votos, teniendo su presidente voto de calidad, en caso de empate.
-Artículo reformado DOF 24-12-1996
-
-### ARTÍCULO 24
-.- La Comisión será presidida por el Secretario de Economía y para su funcionamiento contará con un Secretario Ejecutivo y un Comité de Representantes.
-Artículo reformado DOF 27-05-2024
-
-### ARTÍCULO 25
-.- El Comité de Representantes estará integrado por el servidor público designado por cada uno de los Secretarios de Estado que integran la Comisión, se reunirá cuatrimestralmente, cuando menos, y tendrá las facultades que le delegue la propia Comisión.
+Artículo reformado DOF 24-12-1996 ARTÍCULO 24.- La Comisión será presidida por el Secretario de Economía y para su funcionamiento contará con un Secretario Ejecutivo y un Comité de Representantes.
+Artículo reformado DOF 27-05-2024 ARTÍCULO 25.- El Comité de Representantes estará integrado por el servidor público designado por cada uno de los Secretarios de Estado que integran la Comisión, se reunirá cuatrimestralmente, cuando menos, y tendrá las facultades que le delegue la propia Comisión.
 Artículo reformado DOF 24-12-1996
 
 ## Capítulo II — De las Atribuciones de la Comisión
-
-### ARTÍCULO 26
-.- La Comisión tendrá las siguientes atribuciones:
+ARTÍCULO 26.- La Comisión tendrá las siguientes atribuciones:
 I.- Dictar los lineamientos de política en materia de inversión extranjera y diseñar mecanismos para promover la inversión en México;
 II.- Resolver, a través de la Secretaría, sobre la procedencia y en su caso, sobre los términos y condiciones de la participación de la inversión extranjera de las actividades o adquisiciones con regulación específica, conforme a los artículos 8o. y 9o. de esta Ley;
 III.- Ser órgano de consulta obligatoria en materia de inversión extranjera para las dependencias y entidades de la Administración Pública Federal;
 IV.- Establecer los criterios para la aplicación de las disposiciones legales y reglamentarias sobre inversión extranjera, mediante la expedición de resoluciones generales; y V.- Las demás que le correspondan conforme al presente ordenamiento.
-
-### ARTÍCULO 27
-.- Son atribuciones del Secretario Ejecutivo de la Comisión:
+ARTÍCULO 27.- Son atribuciones del Secretario Ejecutivo de la Comisión:
 I.- Representar a la Comisión;
 II.- Notificar las resoluciones de la Comisión, a través de la Secretaría;
 III.- Realizar los estudios que le encomiende la Comisión;
 IV.- Presentar al Congreso de la Unión un informe estadístico cuatrimestral sobre el comportamiento de la inversión extranjera en el país, que incluya los sectores económicos y las regiones en las que ésta se ubica; y Fracción reformada DOF 24-12-1996 V.- Las demás que le correspondan conforme a esta Ley.
 
 ## Capítulo III — De la Operación de la Comisión
-
-### ARTÍCULO 28
-.- La Comisión deberá resolver las solicitudes sometidas a su consideración dentro de un plazo que no excederá de 45 días hábiles contados a partir de la fecha de presentación de la solicitud respectiva, en los términos establecidos en el Reglamento de la presente Ley.
+ARTÍCULO 28.- La Comisión deberá resolver las solicitudes sometidas a su consideración dentro de un plazo que no excederá de 45 días hábiles contados a partir de la fecha de presentación de la solicitud respectiva, en los términos establecidos en el Reglamento de la presente Ley.
 En caso de que la Comisión no resuelva en el plazo señalado, la solicitud se considerará aprobada en los términos presentados. A petición expresa del interesado, la Secretaría deberá expedir la autorización correspondiente.
-
-### ARTÍCULO 29
-.- Para evaluar las solicitudes que se sometan a su consideración, la Comisión atenderá a los criterios siguientes:
+ARTÍCULO 29.- Para evaluar las solicitudes que se sometan a su consideración, la Comisión atenderá a los criterios siguientes:
 I.- El impacto sobre el empleo y la capacitación de los trabajadores;
 II.- La contribución tecnológica;
 III.- El cumplimiento de las disposiciones en materia ambiental contenidas en los ordenamientos ecológicos que rigen la materia; y IV.- En general, la aportación para incrementar la competitividad de la planta productiva del país.
 La Comisión, al resolver sobre la procedencia de una solicitud, sólo podrá imponer requisitos que no distorsionen el comercio internacional.
-
-### ARTÍCULO 30
-.- Por razones de seguridad nacional, la Comisión podrá impedir las adquisiciones por parte de la inversión extranjera.
-TITULO SEPTIMO DEL REGISTRO NACIONAL DE INVERSIONES EXTRANJERAS
-
-### ARTÍCULO 31
-.- El Registro no tendrá carácter público, y se dividirá en las secciones que establezca su reglamento, mismo que determinará su organización, así como la información que deberá proporcionarse al propio Registro.
-
-### ARTÍCULO 32
-.- Deberán inscribirse en el Registro:
+ARTÍCULO 30.- Por razones de seguridad nacional, la Comisión podrá impedir las adquisiciones por parte de la inversión extranjera.
+TITULO SEPTIMO DEL REGISTRO NACIONAL DE INVERSIONES EXTRANJERAS ARTÍCULO 31.- El Registro no tendrá carácter público, y se dividirá en las secciones que establezca su reglamento, mismo que determinará su organización, así como la información que deberá proporcionarse al propio Registro.
+ARTÍCULO 32.- Deberán inscribirse en el Registro:
 I.- Las sociedades mexicanas en las que participen, incluso a través de fideicomiso:
 
 a) La inversión extranjera;
@@ -336,9 +248,7 @@ a) Personas físicas o morales extranjeras, o
 b) Mexicanos que posean o adquieran otra nacionalidad y que tengan su domicilio fuera del territorio nacional, y Fracción reformada DOF 23-01-1998 III.- Los fideicomisos de acciones o partes sociales, de bienes inmuebles o de inversión neutra, por virtud de los cuales se deriven derechos en favor de la inversión extranjera o de mexicanos que posean o adquieran otra nacionalidad y que tengan su domicilio fuera del territorio nacional.
 Fracción reformada DOF 23-01-1998 La obligación de inscripción correrá a cargo de las personas físicas o morales a que se refieren las fracciones I y II y, en el caso de la fracción III, la obligación corresponderá a las instituciones fiduciarias.
 La inscripción deberá realizarse dentro de los 40 días hábiles contados a partir de la fecha de constitución de la sociedad o de participación de la inversión extranjera; de formalización o protocolización de los documentos relativos de la sociedad extranjera; o de constitución del fideicomiso respectivo u otorgamiento de derechos de fideicomisario en favor de la inversión extranjera.
-
-### ARTÍCULO 33
-.- El Registro expedirá las constancias de inscripción cuando en la solicitud se contengan los siguientes datos:
+ARTÍCULO 33.- El Registro expedirá las constancias de inscripción cuando en la solicitud se contengan los siguientes datos:
 I.- En los supuestos de las fracciones I y II:
 
 a) Nombre, denominación o razón social, domicilio, fecha de constitución en su caso, y principal actividad económica a desarrollar;
@@ -366,23 +276,12 @@ d) Fecha de constitución, fines y duración del fideicomiso; y
 e) Descripción, valor, destino y en su caso, ubicación del patrimonio fideicomitido.
 Una vez expedida la constancia de inscripción y sus renovaciones, el Registro se reserva la facultad de solicitar aclaraciones con respecto a la información presentada.
 Cualquier modificación a la información presentada en los términos de este artículo deberá ser notificada al Registro conforme a lo que establezca su reglamento.
-
-### ARTÍCULO 34
-.- En la constitución, modificación, transformación, fusión, escisión, disolución y liquidación de sociedades mercantiles, de sociedades y asociaciones civiles y en general, en todos los actos y hechos jurídicos donde intervengan por sí o representadas, las personas obligadas a inscribirse en el Registro en los términos del artículo 32 de esta Ley, los fedatarios públicos exigirán a dichas personas o sus representantes, que les acrediten su inscripción ante el citado Registro, o en caso de estar la inscripción en trámite, que le acrediten la solicitud correspondiente. De no acreditarlo, el fedatario podrá autorizar el instrumento público de que se trate, e informará de tal omisión al Registro, dentro de los diez días hábiles siguientes a la fecha de autorización del instrumento.
-
-### ARTÍCULO 35
-.- Los sujetos obligados a inscribirse en el Registro, deberán renovar anualmente su constancia de inscripción, para lo cual bastará presentar un cuestionario económico-financiero en los términos que fije el reglamento respectivo.
-
-### ARTÍCULO 36
-.- Las autoridades federales, estatales y municipales están obligadas a proporcionar a la Secretaría, los informes y las certificaciones necesarias para el cumplimiento de sus funciones de conformidad con esta Ley y sus disposiciones reglamentarias.
-TITULO OCTAVO DE LAS SANCIONES
-
-### ARTÍCULO 37
-.- Cuando se trate de actos efectuados en contravención a las disposiciones de esta Ley, la Secretaría podrá revocar las autorizaciones otorgadas.
+ARTÍCULO 34.- En la constitución, modificación, transformación, fusión, escisión, disolución y liquidación de sociedades mercantiles, de sociedades y asociaciones civiles y en general, en todos los actos y hechos jurídicos donde intervengan por sí o representadas, las personas obligadas a inscribirse en el Registro en los términos del artículo 32 de esta Ley, los fedatarios públicos exigirán a dichas personas o sus representantes, que les acrediten su inscripción ante el citado Registro, o en caso de estar la inscripción en trámite, que le acrediten la solicitud correspondiente. De no acreditarlo, el fedatario podrá autorizar el instrumento público de que se trate, e informará de tal omisión al Registro, dentro de los diez días hábiles siguientes a la fecha de autorización del instrumento.
+ARTÍCULO 35.- Los sujetos obligados a inscribirse en el Registro, deberán renovar anualmente su constancia de inscripción, para lo cual bastará presentar un cuestionario económico-financiero en los términos que fije el reglamento respectivo.
+ARTÍCULO 36.- Las autoridades federales, estatales y municipales están obligadas a proporcionar a la Secretaría, los informes y las certificaciones necesarias para el cumplimiento de sus funciones de conformidad con esta Ley y sus disposiciones reglamentarias.
+TITULO OCTAVO DE LAS SANCIONES ARTÍCULO 37.- Cuando se trate de actos efectuados en contravención a las disposiciones de esta Ley, la Secretaría podrá revocar las autorizaciones otorgadas.
 Los actos, convenios o pactos sociales y estatutarios declarados nulos por la Secretaría, por ser contrarios a lo establecido en esta Ley, no surtirán efectos legales entre las partes ni se podrán hacer valer ante terceros.
-
-### ARTÍCULO 38
-.- Las infracciones a lo establecido en esta Ley y sus disposiciones reglamentarias, se sancionarán de acuerdo a lo siguiente:
+ARTÍCULO 38.- Las infracciones a lo establecido en esta Ley y sus disposiciones reglamentarias, se sancionarán de acuerdo a lo siguiente:
 I.- En caso de que la inversión extranjera lleve a cabo actividades, adquisiciones o cualquier otro acto que para su realización requiera resolución favorable de la Comisión, sin que ésta se haya obtenido previamente, se impondrá multa de mil a cinco mil salarios;
 II.- En caso de que personas morales extranjeras realicen habitualmente actos de comercio en la República Mexicana, sin haber obtenido previamente la autorización de la Secretaría, se impondrá multa de quinientos a mil salarios;
 III.- En caso de realizar actos en contravención a lo establecido en esta Ley o en sus disposiciones reglamentarias en materia de inversión neutra, se impondrá multas de cien a trescientos salarios;
@@ -392,9 +291,7 @@ Para efectos del presente artículo, por salario se entiende el salario mínimo 
 Para la determinación e imposición de las sanciones se deberá oír previamente al interesado y, en el caso de sanciones pecuniarias, tomar en consideración la naturaleza y la gravedad de la infracción, la capacidad económica del infractor, el tiempo transcurrido entre la fecha en que se debió cumplir la obligación y su cumplimiento o regularización, y el valor total de la operación.
 Corresponderá a la Secretaría la imposición de las sanciones, excepto por lo que hace a la infracción a la que se refiere la fracción V de este artículo y las demás relacionadas con los Títulos Segundo y Tercero de esta Ley, que serán aplicadas por la Secretaría de Relaciones Exteriores.
 La imposición de las sanciones a que se refiere el presente Título, será sin perjuicio de la responsabilidad civil o penal que en su caso corresponda.
-
-### ARTÍCULO 39
-.- Los fedatarios públicos relacionarán, insertarán o agregarán al archivo oficial o apéndice de los instrumentos en que intervengan, los oficios en que consten las autorizaciones que deban expedirse en los términos de esta Ley. Cuando autoricen instrumentos en los que no se relacionen tales autorizaciones se harán acreedores a las sanciones que determinen las leyes del notariado correspondientes y la Ley Federal de Correduría Pública.
+ARTÍCULO 39.- Los fedatarios públicos relacionarán, insertarán o agregarán al archivo oficial o apéndice de los instrumentos en que intervengan, los oficios en que consten las autorizaciones que deban expedirse en los términos de esta Ley. Cuando autoricen instrumentos en los que no se relacionen tales autorizaciones se harán acreedores a las sanciones que determinen las leyes del notariado correspondientes y la Ley Federal de Correduría Pública.
 
 ## TRANSITORIOS
 
@@ -487,14 +384,8 @@ DECRETO por el que se reforman diversos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ### ARTÍCULO ÚNICO
-Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al
-
-### artículo 47
-de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
-Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del
-
-### artículo 51
-de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
+Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
+Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
 
 ## TRANSITORIO
 
@@ -553,22 +444,17 @@ Se DEROGAN los incisos i), j) y k) de la fracción III del artículo 7 de la Ley
 I. El artículo Primero del presente Decreto;
 
 II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título
-**Quinto.** y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al
-
-### artículo 89
-de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el
-
-### artículo Segundo
-de este Decreto;
+**Quinto.** y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el
+**artículo Segundo.** de este Decreto;
 
 III. Las reformas a los artículos 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
 
 IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
 A partir de la entrada en vigor a que se refiere este artículo, las operaciones de arrendamiento financiero y factoraje financiero no se considerarán reservadas para las arrendadoras financieras y empresas de factoraje financiero, por lo que cualquier persona podrá celebrarlas en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 Las sociedades financieras de objeto limitado podrán seguir actuando con el carácter de fiduciarias en los fideicomisos a los que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito hasta que queden sin efectos las autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito, salvo que adopten la modalidad de sociedad financiera de objeto múltiple, en cuyo caso podrán continuar en el desempeño de su encomienda fiduciaria.
-SEGUNDO.- Las personas que, a partir de la fecha de entrada en vigor de las disposiciones a que se refiere el artículo primero transitorio de este Decreto, realicen operaciones de arrendamiento financiero y factoraje financiero, en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, se sujetarán a las disposiciones aplicables a dichas operaciones de la Ley General de Títulos y Operaciones de Crédito. A dichas personas no les será aplicable el régimen que la Ley General de Organizaciones y Actividades Auxiliares del Crédito prevé para las arrendadoras financieras y empresas de factoraje.
+**SEGUNDO.-** Las personas que, a partir de la fecha de entrada en vigor de las disposiciones a que se refiere el artículo primero transitorio de este Decreto, realicen operaciones de arrendamiento financiero y factoraje financiero, en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, se sujetarán a las disposiciones aplicables a dichas operaciones de la Ley General de Títulos y Operaciones de Crédito. A dichas personas no les será aplicable el régimen que la Ley General de Organizaciones y Actividades Auxiliares del Crédito prevé para las arrendadoras financieras y empresas de factoraje.
 En los contratos de arrendamiento financiero y factoraje financiero que celebren las personas a que se refiere este artículo, ellas deberán señalar expresamente que no cuentan con la autorización de la Secretaría de Hacienda y Crédito Público prevista en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las personas señaladas.
-TERCERO.- Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas a los artículos 5, 8, 40, 45 Bis 3, 47, 48, 48-A, 48-B, 78, 96, 97, 98 y 99, así como la derogación a los artículos 3 y 48 y del Capítulo II del Título Segundo, que incluye los artículos 24 a 38, del Capítulo II Bis del Título Segundo, que incluye los artículos 45-A a 45-T, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito contenidas en el artículo Segundo de este Decreto.
+**TERCERO.-** Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas a los artículos 5, 8, 40, 45 Bis 3, 47, 48, 48-A, 48-B, 78, 96, 97, 98 y 99, así como la derogación a los artículos 3 y 48 y del Capítulo II del Título Segundo, que incluye los artículos 24 a 38, del Capítulo II Bis del Título Segundo, que incluye los artículos 45-A a 45-T, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito contenidas en el artículo Segundo de este Decreto.
 A partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que haya otorgado la Secretaría de Hacienda y Crédito Público para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero quedarán sin efecto por ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán de ser organizaciones auxiliares del crédito.
 Las sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones respectivas, aunque, para que puedan continuar operando, deberán:
 
@@ -579,8 +465,8 @@ Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entr
 La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
 La entrada en vigor de las reformas y derogación a que este artículo transitorio se refiere no afectará la existencia y validez de los contratos que, con anterioridad a la misma, hayan suscrito aquellas sociedades que tenían el carácter de arrendadoras financieras y empresas de factoraje financiero, ni será causa de ratificación o convalidación de esos contratos. Sin perjuicio de lo anterior, a partir de la entrada en vigor señalada en este artículo, los contratos de arrendamiento y factoraje financiero a que se refiere este párrafo se regirán por las disposiciones correlativas de la Ley General de Títulos y Operaciones de Crédito.
 En los contratos de arrendamiento financiero y factoraje financiero que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
-CUARTO.- La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes de autorización que, para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero, en términos de lo dispuesto por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
-QUINTO.- Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas, adiciones y derogaciones a los artículos 45-A, 45-B, 45-D, 45-I, 45-K, 45N, 49, 85 BIS, 103, 108, 115 y 116 de la Ley de Instituciones de Crédito contenidas en el artículo Tercero de este Decreto.
+**CUARTO.-** La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes de autorización que, para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero, en términos de lo dispuesto por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
+**QUINTO.-** Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas, adiciones y derogaciones a los artículos 45-A, 45-B, 45-D, 45-I, 45-K, 45N, 49, 85 BIS, 103, 108, 115 y 116 de la Ley de Instituciones de Crédito contenidas en el artículo Tercero de este Decreto.
 A partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que hayan sido otorgadas por la Secretaría de Hacienda y Crédito Público, en términos del artículo 103, fracción IV, de la Ley de Instituciones de Crédito, a las sociedades financieras de objeto limitado, quedarán sin efecto por ministerio de ley, sin que por ello estén obligadas a disolverse y liquidarse, aunque, para que puedan continuar operando, deberán:
 
 I. Reformar sus estatutos sociales, a afecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son sociedades financieras de objeto limitado y que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público para ello.
@@ -590,8 +476,8 @@ Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entr
 La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
 La entrada en vigor de las reformas, adiciones y derogaciones a los artículos de la Ley de Instituciones de Crédito señalados en este artículo transitorio no afectará la existencia y validez de los contratos que, con anterioridad a la misma, hayan suscrito las sociedades que tenían el carácter de sociedades financieras de objeto limitado, ni será causa de ratificación o convalidación de esos contratos.
 En los contratos de crédito que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
-SEXTO.- La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes que, para obtener la autorización señalada en el artículo 103, fracción IV, de la Ley de Instituciones Crédito y en términos de lo dispuesto por la misma ley, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
-SÉPTIMO.- Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado que, antes de la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, pretendan celebrar operaciones de arrendamiento financiero, factoraje financiero y otorgamiento de crédito sin sujetarse al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley de Instituciones de Crédito que, según sea el caso, les sean aplicables, deberán:
+**SEXTO.-** La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes que, para obtener la autorización señalada en el artículo 103, fracción IV, de la Ley de Instituciones Crédito y en términos de lo dispuesto por la misma ley, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
+**SÉPTIMO.-** Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado que, antes de la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, pretendan celebrar operaciones de arrendamiento financiero, factoraje financiero y otorgamiento de crédito sin sujetarse al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley de Instituciones de Crédito que, según sea el caso, les sean aplicables, deberán:
 
 I. Acordar en asamblea de accionistas que las operaciones de arrendamiento financiero, factoraje financiero y crédito que realicen dichas sociedades con el carácter de arrendador, factorante o acreditante se sujetarán al régimen de la Ley General de Títulos y Operaciones de Crédito y, en su caso, al de sociedades financieras de objeto múltiple previsto en la General de Organizaciones y Actividades Auxiliares del Crédito;
 
@@ -601,17 +487,17 @@ III. Presentar a la Secretaría de Hacienda y Crédito Público el instrumento p
 La autorización que haya otorgado la Secretaría de Hacienda y Crédito Público, según corresponda, para la constitución, operación, organización y funcionamiento de la arrendadora financiera, empresa de factoraje financiero o sociedad financiera de objeto limitado de que se trate, quedará sin efecto a partir del día siguiente a la fecha en que se inscriba en el Registro Público de Comercio la reforma estatutaria señalada en la fracción II de este artículo, sin que, por ello, la sociedad deba entrar en estado de disolución y liquidación. La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación que la autorización ha quedado sin efecto.
 Los contratos que hayan suscrito las arrendadoras financieras, empresas de factoraje financiero o sociedades financieras de objeto limitado con anterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efectos las autorizaciones referidas, no quedarán afectados en su existencia o validez ni deberán ser ratificados o convalidados por esa causa.
 En los contratos de arrendamiento financiero, factoraje financiero y crédito que las sociedades a que se refiere este artículo celebren con posterioridad a la fecha en que la autorización de la Secretaría de Hacienda y Crédito Público haya quedado sin efecto, aquellas deberán señalar expresamente que no cuentan autorización de la Secretaría de Hacienda y Crédito Público y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas en el primer párrafo de este artículo.
-OCTAVO.- En tanto las autorizaciones otorgadas por la Secretaría de Hacienda y Crédito Público no queden sin efecto o sean revocadas, las arrendadoras financieras, empresas de factoraje y sociedades financieras de objeto limitado seguirán, según corresponda, sujetas al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley de Instituciones de Crédito y demás disposiciones que conforme a las mismas les resulten aplicables, así como a las demás que emitan la citada Secretaría para preservar la liquidez, solvencia y estabilidad de las entidades señaladas.
-NOVENO.- Los artículos Cuarto y Quinto de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-DÉCIMO.- El artículo Sexto de este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**OCTAVO.-** En tanto las autorizaciones otorgadas por la Secretaría de Hacienda y Crédito Público no queden sin efecto o sean revocadas, las arrendadoras financieras, empresas de factoraje y sociedades financieras de objeto limitado seguirán, según corresponda, sujetas al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley de Instituciones de Crédito y demás disposiciones que conforme a las mismas les resulten aplicables, así como a las demás que emitan la citada Secretaría para preservar la liquidez, solvencia y estabilidad de las entidades señaladas.
+**NOVENO.-** Los artículos Cuarto y Quinto de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**DÉCIMO.-** El artículo Sexto de este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado cuyas acciones con derecho a voto que representen, cuando menos, el cincuenta y uno por ciento de su capital social sean propiedad de sociedades controladoras de grupos financieros con anterioridad a la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, serán consideradas como integrantes de dichos grupos financieros en tanto continúe vigente la autorización que la Secretaría de Hacienda y Crédito Público les haya otorgado a dichas entidades para constituirse, operar, organizarse y funcionar, según sea el caso, con tal carácter.
 En este supuesto, seguirá siendo aplicable en lo conducente la Ley para Regular las Agrupaciones Financieras.
 En caso que, conforme a lo dispuesto por el presente Decreto, las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado referidas en el párrafo anterior adopten la modalidad de sociedades financieras de objeto múltiple y las acciones con derecho a voto representativas de, cuando menos, el cincuenta y uno por ciento de su capital social permanezca bajo la propiedad de la sociedad controladora de que se trate, dichas sociedades serán consideradas como integrantes del grupo financiero respectivo en términos del artículo 7 de la Ley para Regular las Agrupaciones Financieras, reformado por este Decreto, siempre y cuando se inscriban en el Registro Público de Comercio las reformas correspondientes a los estatutos sociales de la sociedad controladora, se modifique el convenio de responsabilidades a que se refiere el artículo 28 de la misma Ley y la Secretaría de Hacienda y Crédito Público apruebe la modificación a la autorización otorgada al grupo financiero de que se trate para constituirse y funcionar con tal carácter. Las responsabilidades de la controladora subsistirán en tanto no queden totalmente cumplidas todas las obligaciones contraídas por las sociedades que dejan de tener el carácter de arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado, antes de la inscripción señalada.
-DÉCIMO PRIMERO.- Los artículos Séptimo y Octavo del presente Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-DÉCIMO SEGUNDO.- Las instituciones de crédito y casas de bolsa que sean propietarias de acciones representativas del capital social de arrendadoras financieras y empresas de factoraje financiero, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple.
+**DÉCIMO PRIMERO.-** Los artículos Séptimo y Octavo del presente Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**DÉCIMO SEGUNDO.-** Las instituciones de crédito y casas de bolsa que sean propietarias de acciones representativas del capital social de arrendadoras financieras y empresas de factoraje financiero, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple.
 Las instituciones de crédito que sean propietarias de acciones representativas del capital social de sociedades financieras de objeto limitado, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple.
-DÉCIMO TERCERO.- Los procesos de conciliación y arbitraje seguidos conforme Ley de Protección y Defensa al Usuario de Servicios Financieros, que a la fecha de publicación del Presente Decreto se encuentren pendientes de resolver, seguirán rigiéndose por dicha Ley, hasta su conclusión.
-DÉCIMO CUARTO.- Por lo que se refiere a las sociedades de ahorro y préstamo, se estará al régimen
+**DÉCIMO TERCERO.-** Los procesos de conciliación y arbitraje seguidos conforme Ley de Protección y Defensa al Usuario de Servicios Financieros, que a la fecha de publicación del Presente Decreto se encuentren pendientes de resolver, seguirán rigiéndose por dicha Ley, hasta su conclusión.
+**DÉCIMO CUARTO.-** Por lo que se refiere a las sociedades de ahorro y préstamo, se estará al régimen
 
 ## transitorio
 
@@ -660,13 +546,10 @@ Se reforman los artículos 3o. y 33, fracción I, inciso d) de la Ley de Inversi
 
 DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA  , Y DE LA LEY GENERAL DE TURISMO.
 **PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del
-
-### artículo 3o
-. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
 Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
-TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
-CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+**TERCERO.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+**CUARTO.** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
 México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
 Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011
@@ -750,9 +633,7 @@ III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que 
 IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
 Lo dispuesto en este artículo también será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única.
 No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del
-
-### artículo Octavo
-Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+**artículo Octavo.** Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 **DÉCIMO PRIMERO.** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
 
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, deberán cumplir con lo previsto en los lineamientos del Instituto Federal de Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013;
@@ -804,9 +685,7 @@ En caso de no cumplir con el presente artículo, los permisos concluirán su vig
 **DÉCIMO OCTAVO.** El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
 **DÉCIMO NOVENO.** La transición digital terrestre culminará el 31 de diciembre de 2015.
 El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transportes, implementará los programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del
-
-### artículo Quinto
-transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**artículo Quinto.** transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 El Instituto Federal de Telecomunicaciones deberá concluir la transmisión de señales analógicas de televisión radiodifundida en todo el país, a más tardar el 31 de diciembre de 2015, una vez que se alcance un nivel de penetración del noventa por ciento de hogares de escasos recursos definidos por la Secretaría de Desarrollo Social, con receptores o decodificadores aptos para recibir señales digitales de televisión radiodifundida.
 Para lo anterior, el Instituto Federal de Telecomunicaciones deberá concluir las señales analógicas de televisión radiodifundida anticipadamente al 31 de diciembre de 2015, por área de cobertura de dichas señales, una vez que se alcance, en el área que corresponda, el nivel de penetración referido en el párrafo que antecede.
 La Secretaría de Comunicaciones y Transportes y el Instituto Federal de Telecomunicaciones realizarán campañas de difusión para la entrega o distribución de equipos y para la conclusión de la transmisión de señales analógicas de televisión, respectivamente.
@@ -815,9 +694,7 @@ Aquellos permisionarios o concesionarios de uso público o social, incluyendo la
 Párrafo adicionado DOF 18-12-2015 En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
 Párrafo reformado DOF 18-12-2015 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
 **VIGÉSIMO.** El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del
-
-### artículo Octavo
-Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**artículo Octavo.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 Para efectos de lo dispuesto en el inciso b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, y hasta en tanto los concesionarios a que se refiere ese inciso no acuerden las tarifas de interconexión correspondientes o, en su caso, el Instituto no resuelva cualquier disputa respecto de dichas tarifas, seguirán en vigor las que actualmente aplican, salvo tratándose del agente económico al que se refiere le párrafo segundo del artículo 131 de la Ley en cita, al que le será aplicable el inciso a) del mismo artículo.
 **VIGÉSIMO PRIMERO.** Para la atención, promoción y supervisión de los derechos de los usuarios Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
 **VIGÉSIMO SEGUNDO.** El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
@@ -868,10 +745,7 @@ DECRETO por el que se expide la Ley de Hidrocarburos y se reforman diversas disp
 Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014
 
 ### ARTÍCULO SEGUNDO
-Se reforman los artículos 5o., fracciones I y III, y se deroga la fracción II del
-
-### artículo 5o
-.; la fracción II del artículo 6o. y las fracciones X y XI del artículo 8o. de la Ley de Inversión Extranjera, para quedar como sigue: ……….
+Se reforman los artículos 5o., fracciones I y III, y se deroga la fracción II del artículo 5o.; la fracción II del artículo 6o. y las fracciones X y XI del artículo 8o. de la Ley de Inversión Extranjera, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
@@ -894,10 +768,7 @@ DECRETO por el que se adiciona un inciso y) a la fracción III del artículo 7o.
 Publicado en el Diario Oficial de la Federación el 26 de junio de 2017
 
 ### Artículo Único
-Se adiciona un inciso y) a la fracción III del artículo 7o., y se deroga la fracción II del
-
-### artículo 7o
-. de la Ley de Inversión Extranjera, para quedar como sigue: ……….
+Se adiciona un inciso y) a la fracción III del artículo 7o., y se deroga la fracción II del artículo 7o. de la Ley de Inversión Extranjera, para quedar como sigue: ……….
 
 ## Transitorio
 

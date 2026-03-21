@@ -294,10 +294,7 @@ XIX. Muestra física de las insignias, divisas, logotipos, emblemas o cualquier 
 
 XX. En caso de que se utilicen vehículos blindados en la prestación del servicio, independientemente de la modalidad de que se trate, se deberá exhibir constancia expedida por el proveedor del servicio de blindaje, con la que acredite el nivel del mismo, y
 
-XXI. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción III del
-
-### artículo 15
-de la presente Ley, y específicamente para el traslado de valores, será indispensable contar con vehículos blindados, y exhibir constancia expedida por el proveedor del servicio de blindaje, con la que se acredite el nivel del mismo.
+XXI. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción III del artículo 15 de la presente Ley, y específicamente para el traslado de valores, será indispensable contar con vehículos blindados, y exhibir constancia expedida por el proveedor del servicio de blindaje, con la que se acredite el nivel del mismo.
 
 XXII. Tratándose de prestadores de servicios que operen en la modalidad VII del artículo 15 de la presente Ley, y específicamente en dispositivos, sistemas o procedimientos técnicos especializados, será requisito indispensable presentar una relación y muestra física de los equipos que utilicen para el servicio;
 Fracción adicionada DOF 17-10-2011
@@ -526,10 +523,7 @@ b) Abstenerse de cumplir la sanción pecuniaria impuesta.
 
 c) No presentar en tiempo la solicitud de revalidación de autorización.
 
-d) Suspender la prestación del servicio sin dar el aviso a que se refiere la fracción XXIII del
-
-### artículo 32
-de esta Ley.
+d) Suspender la prestación del servicio sin dar el aviso a que se refiere la fracción XXIII del artículo 32 de esta Ley.
 La duración de la suspensión temporal no podrá exceder de 30 días hábiles y, en todo caso, el prestador del servicio o realizador de actividades deberá subsanar las irregularidades que la originaron, cuya omisión dará lugar a la continuación de la suspensión por un plazo igual y a la aplicación de las sanciones que procedan.
 La suspensión temporal se aplicará independientemente de las sanciones a que hayan dado lugar las irregularidades.
 Fracción reformada DOF 27-01-2011
@@ -567,10 +561,7 @@ m) No iniciar la prestación de servicios o realización de actividades sin caus
 n) Haber obtenido la autorización mediante documentos, declaraciones, datos falsos o bien con dolo o mala fe.
 Fracción reformada DOF 27-01-2011 La Secretaría, en su caso, podrá imponer simultáneamente una o más de las sanciones administrativas señaladas en las fracciones anteriores y, en su caso, tendrá interés jurídico para acudir a otras instancias legales en asuntos relacionados con la prestación del servicio de seguridad privada, derivado de omisiones o transgresiones a esta Ley.
 Párrafo reformado DOF 27-01-2011 En todos los casos se dará difusión pública a las sanciones, la cual se hará a costa del infractor, en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación nacional, identificando claramente al infractor, el tipo de sanción, el número de su autorización y el domicilio de su establecimiento en su caso.
-En caso de que el prestador de servicios no dé cumplimiento a las resoluciones que impongan alguna de las sanciones anteriores, se procederá a hacer efectiva la fianza a que se refiere la fracción III del
-
-### artículo 26
-de esta Ley.
+En caso de que el prestador de servicios no dé cumplimiento a las resoluciones que impongan alguna de las sanciones anteriores, se procederá a hacer efectiva la fianza a que se refiere la fracción III del artículo 26 de esta Ley.
 
 ### Artículo 43
 .- Las sanciones a que se refiere este capítulo, serán aplicadas por la Secretaría con base en las visitas de verificación practicadas, así como por las infracciones comprobadas.
@@ -679,10 +670,7 @@ DECRETO por el que se reforman las fracciones XV y XVII, y se adicionan las frac
 Publicado en el Diario Oficial de la Federación el 17 de octubre de 2011
 
 ### Artículo Único
-Se reforman las fracciones XV y XVII, y se adicionan las fracciones XXII y XXIII al
-
-### artículo 25
-de la Ley Federal de Seguridad Privada, para quedar como sigue: ………..
+Se reforman las fracciones XV y XVII, y se adicionan las fracciones XXII y XXIII al artículo 25 de la Ley Federal de Seguridad Privada, para quedar como sigue: ………..
 
 ## TRANSITORIO
 

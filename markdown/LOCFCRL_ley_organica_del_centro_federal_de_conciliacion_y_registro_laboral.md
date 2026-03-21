@@ -69,10 +69,7 @@ I. Realizar en el ámbito federal la función conciliatoria individual prevista 
 
 II. Realizar en el ámbito federal la función conciliatoria colectiva, misma que se brindará a petición de las partes o de la autoridad judicial;
 
-III. Llevar el registro de todos los contratos colectivos de trabajo, contratos-ley, reglamentos interiores de trabajo y de las organizaciones sindicales, así como todos los actos y procedimientos a que se refiere el párrafo cuarto de la fracción XX del Apartado A del
-
-### artículo 123
-Constitucional;
+III. Llevar el registro de todos los contratos colectivos de trabajo, contratos-ley, reglamentos interiores de trabajo y de las organizaciones sindicales, así como todos los actos y procedimientos a que se refiere el párrafo cuarto de la fracción XX del Apartado A del artículo 123 Constitucional;
 
 IV. Establecer el servicio profesional de conformidad con los parámetros estipulados en la Ley Federal del Trabajo y esta Ley;
 
@@ -208,10 +205,7 @@ Para el cumplimiento de todas y cada una de las obligaciones a cargo del Centro,
 ## Capítulo II — De la Dirección General
 
 ### Artículo 20
-. El o la Director (a) General del Centro será designado conforme a lo dispuesto en el
-
-### artículo 123
-, Apartado A, fracción XX, párrafo sexto de la Constitución, el cuál desempeñará su cargo por seis años y podrá ser reelecto por un periodo más, por una sola ocasión. No podrá tener otro empleo, cargo o comisión, con excepción de aquellos en que actúe en representación del Centro, en actividades docentes, científicas, culturales o de beneficencia y de los no remunerados.
+. El o la Director (a) General del Centro será designado conforme a lo dispuesto en el artículo 123, Apartado A, fracción XX, párrafo sexto de la Constitución, el cuál desempeñará su cargo por seis años y podrá ser reelecto por un periodo más, por una sola ocasión. No podrá tener otro empleo, cargo o comisión, con excepción de aquellos en que actúe en representación del Centro, en actividades docentes, científicas, culturales o de beneficencia y de los no remunerados.
 En caso de falta absoluta, la sustitución se hará sólo para concluir el periodo respectivo, en este supuesto.
 
 ### Artículo 21

@@ -347,16 +347,10 @@ VI. El uso por terceras personas de substancias o materiales prohibidos y los re
 .- La infracción prevista en la fracción V del artículo 43 será sancionada por la Secretaría con multa de quince mil uno hasta cuarenta y cinco mil veces el salario mínimo general vigente en el Distrito Federal. Lo anterior sin perjuicio del resarcimiento de los daños y perjuicios que causen al afectado, a la salud humana, a la diversidad biológica, a la propiedad, al medio ambiente y de las sanciones previstas en otros ordenamientos, así como de la indemnización al operador orgánico.
 
 ### Artículo 46
-.- En caso de que se verifiquen los supuestos previstos en las fracciones II, III, V y VI del
-
-### artículo 43
-se revocará la Certificación obtenida, los productos perderán su calificación como orgánicos e iniciarán nuevamente el proceso de Certificación. Los productos serán eliminados de todo el lote de la serie de producción afectada quedando prohibida su comercialización como orgánicos, sin perjuicio de que la Secretaría ordene desprender las etiquetas del lote a la producción afectada por la irregularidad de que se trate.
+.- En caso de que se verifiquen los supuestos previstos en las fracciones II, III, V y VI del artículo 43 se revocará la Certificación obtenida, los productos perderán su calificación como orgánicos e iniciarán nuevamente el proceso de Certificación. Los productos serán eliminados de todo el lote de la serie de producción afectada quedando prohibida su comercialización como orgánicos, sin perjuicio de que la Secretaría ordene desprender las etiquetas del lote a la producción afectada por la irregularidad de que se trate.
 
 ### Artículo 47
-.- Para la imposición de la sanción la Secretaría tomará en cuenta la gravedad de la infracción, al igual que los antecedentes, circunstancias personales y situación socioeconómica del infractor. En caso de reincidencia se aplicará multa hasta por el doble del límite máximo de la sanción que corresponda. Para los casos de segunda reincidencia, en el supuesto de la fracciones III y IV del
-
-### artículo 43
-, además de la sanción pecuniaria se impondrá la revocación de la aprobación procediendo a la inhabilitación de 2 a 4 años para obtener nueva aprobación.
+.- Para la imposición de la sanción la Secretaría tomará en cuenta la gravedad de la infracción, al igual que los antecedentes, circunstancias personales y situación socioeconómica del infractor. En caso de reincidencia se aplicará multa hasta por el doble del límite máximo de la sanción que corresponda. Para los casos de segunda reincidencia, en el supuesto de la fracciones III y IV del artículo 43, además de la sanción pecuniaria se impondrá la revocación de la aprobación procediendo a la inhabilitación de 2 a 4 años para obtener nueva aprobación.
 
 ### Artículo 48
 .- En ninguno de los casos por contaminación de terceros se considerará infracción por parte del Operador orgánico ni tendrá la responsabilidad de la carga de la prueba.

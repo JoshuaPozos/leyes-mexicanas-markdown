@@ -106,10 +106,7 @@ El Instituto vigilará y, en su caso, iniciará el procedimiento sancionador que
 . El proceso de revocación de mandato inicia con la solicitud que presentan las ciudadanas y los ciudadanos que se ubiquen en los supuestos previstos en los artículos 7 y 8 de esta Ley.
 
 ### Artículo 16
-. La solicitud deberá presentarse por escrito ante el Instituto, en el plazo establecido en el
-
-### artículo 9
-de esta Ley, y deberá contar, por lo menos, con los siguientes elementos:
+. La solicitud deberá presentarse por escrito ante el Instituto, en el plazo establecido en el artículo 9 de esta Ley, y deberá contar, por lo menos, con los siguientes elementos:
 
 I. Nombre completo, clave de elector y firma de la persona solicitante o solicitantes;
 
@@ -316,10 +313,7 @@ Asimismo, contarán el número de votos emitidos en la revocación de mandato y 
 
 ### Artículo 45
 . La falta de las ciudadanas o de los ciudadanos designados como escrutadores por el Instituto para realizar el escrutinio y cómputo de la votación de la revocación de mandato en la casilla no será causa de nulidad de la misma.
-Para determinar que será nula la votación recibida en una casilla deberá observarse lo dispuesto en el
-
-### artículo 75
-de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, en lo que resulte aplicable.
+Para determinar que será nula la votación recibida en una casilla deberá observarse lo dispuesto en el artículo 75 de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, en lo que resulte aplicable.
 
 ### Artículo 46
 . El escrutinio y cómputo de la revocación de mandato en cada casilla se realizará conforme a las siguientes reglas:

@@ -366,10 +366,7 @@ V. Nacionalidad.
 Párrafo con fracciones adicionado DOF 16-07-2025 Artículo reformado DOF 22-07-1992
 
 ### Artículo 91
-Bis.- La Clave Única de Registro de Población que, además de los datos previstos en el
-
-### artículo 91
-de esta Ley, contenga huellas dactilares y fotografía, será el documento nacional de identificación obligatorio, de aceptación universal y obligatoria en todo el territorio nacional, y estará disponible en formato físico y digital.
+Bis.- La Clave Única de Registro de Población que, además de los datos previstos en el artículo 91 de esta Ley, contenga huellas dactilares y fotografía, será el documento nacional de identificación obligatorio, de aceptación universal y obligatoria en todo el territorio nacional, y estará disponible en formato físico y digital.
 La Secretaría de Gobernación llevará a cabo acciones para integrar los datos biométricos de las personas a la Clave Única de Registro de Población, mediante:
 
 I. La transferencia de los datos biométricos que obren en poder de las autoridades de los tres órdenes de gobierno al Registro Nacional de Población, previa autorización de su titular, o
@@ -804,10 +801,7 @@ DECRETO por el que se adicionan un segundo y un tercer párrafo al artículo 67 
 Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2010
 
 ### Artículo Único
-Se adicionan un segundo y un tercer párrafo al artículo 67 y una fracción VI al
-
-### artículo 113
-de la Ley General de Población, para quedar como sigue: ……….
+Se adicionan un segundo y un tercer párrafo al artículo 67 y una fracción VI al artículo 113 de la Ley General de Población, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
@@ -836,13 +830,10 @@ Se reforma el artículo 77, el artículo 81, los artículos 83 y 84; se derogan 
 
 DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
 **PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del
-
-### artículo 3o
-. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
 Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
-TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
-CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+**TERCERO.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+**CUARTO.** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
 México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO QUINCUAGÉSIMO NOVENO. Se reforma el artículo 10, primer párrafo de la Ley General de Población, para quedar como sigue: ……….

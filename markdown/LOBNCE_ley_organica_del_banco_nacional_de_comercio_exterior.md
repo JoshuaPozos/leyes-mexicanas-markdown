@@ -288,10 +288,7 @@ Las modalidades en la asignación de recursos serán autorizadas por la Secretar
 Artículo reformado DOF 24-06-2002
 
 ### Artículo 32
-.- La participación en el capital social de empresas a que se refieren la fracción IV del
-
-### artículo 6o
-. y la fracción II del artículo 7o. de esta Ley, se sujetará, de manera análoga, a lo dispuesto en el artículo 57 de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+.- La participación en el capital social de empresas a que se refieren la fracción IV del artículo 6o. y la fracción II del artículo 7o. de esta Ley, se sujetará, de manera análoga, a lo dispuesto en el artículo 57 de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
 Las inversiones a que se refiere este artículo, sólo computarán para considerar a las emisoras como empresas de participación estatal, cuando el Ejecutivo Federal emita el acuerdo respectivo en el que se declare que las empresas en los términos de las disposiciones aplicables se les ha considerado como entidades de la Administración Pública Federal.
 
 ### Artículo 33

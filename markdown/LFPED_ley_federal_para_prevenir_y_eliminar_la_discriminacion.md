@@ -61,10 +61,7 @@ En el Presupuesto de Egresos de la Federación, para cada ejercicio fiscal, se i
 Párrafo reformado DOF 01-12-2016 Artículo reformado DOF 20-03-2014
 
 ### Artículo 4
-.- Queda prohibida toda práctica discriminatoria que tenga por objeto o efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades en términos del
-
-### artículo 1o
-. constitucional y el artículo 1, párrafo segundo, fracción III de esta Ley.
+.- Queda prohibida toda práctica discriminatoria que tenga por objeto o efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades en términos del artículo 1o. constitucional y el artículo 1, párrafo segundo, fracción III de esta Ley.
 Artículo reformado DOF 12-06-2013, 20-03-2014
 
 ### Artículo 5
@@ -1112,10 +1109,7 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO
 **Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
-DECRETO por el que se reforma la fracción XI del artículo 9 y se adiciona la fracción V al
-
-### artículo 10
-de la Ley Federal para Prevenir y Eliminar la Discriminación.
+DECRETO por el que se reforma la fracción XI del artículo 9 y se adiciona la fracción V al artículo 10 de la Ley Federal para Prevenir y Eliminar la Discriminación.
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
 
 ### ARTÍCULO ÚNICO
@@ -1149,25 +1143,12 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
 Publicado en el Diario Oficial de la Federación el 20 de marzo de 2014
 
 ### ARTÍCULO ÚNICO
-Se reforman los artículos 3, 4, 5, 6 y 8; el párrafo segundo del 9 y sus fracciones I, V, VI, XII, XIII, XV y la XXIX que pasa a ser la fracción XXXIV, así como sus fracciones XXVII, XXVIII; el
-
-### artículo 16
-; el primer párrafo del artículo 20; el articulo 23 en sus párrafos primero, segundo, tercero, cuarto y quinto, que pasa a ser el sexto, y sus fracciones I a V; las fracciones I, II, III, IV, V, VI, VII del
-
-### artículo 24
-; el artículo 25; el párrafo primero del artículo 26; los artículos 27, 28 y 29; el primer párrafo y las fracciones II, III, IV, V, VII, VIII, IX, X y XI del artículo 30; los artículos 32, 34 y 35; el segundo y tercer párrafos del artículo 38; la fracción V del artículo 39; la denominación del Capítulo Quinto “De los Procedimientos”; el primer párrafo del artículo 43 que se recorre al segundo párrafo; el primer párrafo del
-
-### artículo 44
-; el artículo 45; el primer párrafo del artículo 48; el artículo 49; el primer párrafo del artículo 50; los artículos 51, 52, 53, 54 y 55; el primer párrafo del artículo 64; los artículos 65, 66, 67, 68, 69 y 70; el primer párrafo del artículo 71; el artículo 72; el primer párrafo y las fracciones I, II primer párrafo y V del
-
-### artículo 73
-; los artículos 75 y 78; el primer párrafo del artículo 79; las fracciones I a V del artículo 83; el primer párrafo y las fracciones II y III del artículo 84; Se adicionan un párrafo segundo y las fracciones I, II, III, IV, V, VI, VII, VIII, IX y X al artículo 1; las fracciones XXII Bis, XXII Ter, XXIX a XXXIII al 9; un capítulo IV “De las Medidas de Nivelación, Medidas de Inclusión y Acciones Afirmativas” conformado por los artículos 15 Bis, 15 Ter, 15 Quáter, 15 Quintus, 15 Sextus, 15 Septimus, 15 Octavus y 15 Novenus, recorriéndose el orden del actual Capítulo IV “Del Consejo Nacional para Prevenir la Discriminación” y los subsecuentes; las fracciones XX a LVI al artículo 20; una Sección Cuarta “De la Junta de Gobierno” y una
+Se reforman los artículos 3, 4, 5, 6 y 8; el párrafo segundo del 9 y sus fracciones I, V, VI, XII, XIII, XV y la XXIX que pasa a ser la fracción XXXIV, así como sus fracciones XXVII, XXVIII; el artículo 16; el primer párrafo del artículo 20; el articulo 23 en sus párrafos primero, segundo, tercero,
+**cuarto.** y quinto, que pasa a ser el sexto, y sus fracciones I a V; las fracciones I, II, III, IV, V, VI, VII del artículo 24; el artículo 25; el párrafo primero del artículo 26; los artículos 27, 28 y 29; el primer párrafo y las fracciones II, III, IV, V, VII, VIII, IX, X y XI del artículo 30; los artículos 32, 34 y 35; el segundo y tercer párrafos del artículo 38; la fracción V del artículo 39; la denominación del Capítulo Quinto “De los Procedimientos”; el primer párrafo del artículo 43 que se recorre al segundo párrafo; el primer párrafo del artículo 44; el artículo 45; el primer párrafo del artículo 48; el artículo 49; el primer párrafo del artículo 50; los artículos 51, 52, 53, 54 y 55; el primer párrafo del artículo 64; los artículos 65, 66, 67, 68, 69 y 70; el primer párrafo del artículo 71; el artículo 72; el primer párrafo y las fracciones I, II primer párrafo y V del artículo 73; los artículos 75 y 78; el primer párrafo del artículo 79; las fracciones I a V del artículo 83; el primer párrafo y las fracciones II y III del artículo 84; Se adicionan un párrafo segundo y las fracciones I, II, III, IV, V, VI, VII, VIII, IX y X al artículo 1; las fracciones XXII Bis, XXII Ter, XXIX a XXXIII al 9; un capítulo IV “De las Medidas de Nivelación, Medidas de Inclusión y Acciones Afirmativas” conformado por los artículos 15 Bis, 15 Ter, 15 Quáter, 15 Quintus, 15 Sextus, 15 Septimus, 15 Octavus y 15 Novenus, recorriéndose el orden del actual Capítulo IV “Del Consejo Nacional para Prevenir la Discriminación” y los subsecuentes; las fracciones XX a LVI al artículo 20; una Sección Cuarta “De la Junta de Gobierno” y una
 
 ## Sección Quinta — “De la Presidencia” al Capítulo V “Del Consejo Nacional para Prevenir la Discriminación”
-recorriéndose a la Sección Sexta la actual Sección Cuarta “De la Asamblea Consultiva” y el orden de las subsecuentes secciones; las fracciones VI, VII y el párrafo quinto -recorriéndose el orden del subsecuente- al artículo 23; las fracciones II Bis, IX y X del artículo 24, recorriendo la actual fracción IX a la XI; un segundo párrafo y las fracciones I, II y III al artículo 26; las fracciones I Bis, I Ter y XI del artículo 30, recorriendo el orden de sus actuales fracciones XI a la XII; un primer y cuarto párrafo al artículo 43, recorriéndose el orden de sus actuales párrafos primero y segundo; un segundo párrafo al artículo 44; un párrafo segundo al artículo 48; un artículo 48 Bis; los párrafos segundo y tercero al artículo 50; la Sección Tercera “De la Sustanciación” del Capítulo V “De los Procedimientos”, recorriéndose el orden de las subsecuentes secciones; un segundo párrafo al artículo 64; un artículo 65 Bis, un segundo párrafo al
-
-### artículo 71
-; un segundo párrafo a la fracción II del artículo 73; los artículos 77 Bis, 77 Ter y 77 Quáter; el segundo y tercer párrafo al artículo 79; los artículos 79 Bis y 79 Ter; el Capítulo VI “De las medidas administrativas y de reparación” y su Sección Primera “De las medidas administrativas y de reparación”; los artículos 83 Bis y 83 Ter; la Sección Segunda “De los criterios para la imposición de medidas administrativas y de reparación” al Capítulo VI “De las medidas administrativas y de reparación”; las fracciones II Bis y IV al artículo 84; la Sección Tercera “De la ejecución de las medidas administrativas y de reparación” al Capítulo VI “De las medidas administrativas y de reparación” integrada por los artículos 86 y 87; la Sección Cuarta “Del recurso de revisión” al Capítulo VI “De las medidas administrativas y de reparación”; Se DEROGAN las fracciones I a VIII del artículo 5; el primer párrafo del artículo 9, recorriéndose el orden de los subsecuentes; los artículos 10, 11, 12, 13, 14 y 15; las fracciones I a XIX del artículo 20; la fracción VIII del artículo 24; la fracción VI del artículo 30; la fracción VII del artículo 34; la Sección Segunda “De la Reclamación” del actual Capítulo V “De los Procedimientos”, los artículos 56 y 57; el artículo 63; el segundo párrafo del artículo 65; los artículos 76 y 77; la actual Sección Sexta “Del Procedimiento Conciliatorio entre Particulares” del Capítulo V “De los Procedimientos”; el último párrafo del artículo 83; la fracción I del artículo 84, y el artículo 85 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como siguen: ………
+recorriéndose a la Sección Sexta la actual Sección Cuarta “De la Asamblea Consultiva” y el orden de las subsecuentes secciones; las fracciones VI, VII y el párrafo quinto -recorriéndose el orden del subsecuente- al artículo 23; las fracciones II Bis, IX y X del artículo 24, recorriendo la actual fracción IX a la XI; un segundo párrafo y las fracciones I, II y III al artículo 26; las fracciones I Bis, I Ter y XI del artículo 30, recorriendo el orden de sus actuales fracciones XI a la XII; un primer y cuarto párrafo al artículo 43, recorriéndose el orden de sus actuales párrafos primero y segundo; un segundo párrafo al artículo 44; un párrafo segundo al artículo 48; un artículo 48 Bis; los párrafos segundo y tercero al artículo 50; la Sección Tercera “De la Sustanciación” del Capítulo V “De los Procedimientos”, recorriéndose el orden de las subsecuentes secciones; un segundo párrafo al artículo 64; un artículo 65 Bis, un segundo párrafo al artículo 71; un segundo párrafo a la fracción II del artículo 73; los artículos 77 Bis, 77 Ter y 77 Quáter; el
+**segundo.** y tercer párrafo al artículo 79; los artículos 79 Bis y 79 Ter; el Capítulo VI “De las medidas administrativas y de reparación” y su Sección Primera “De las medidas administrativas y de reparación”; los artículos 83 Bis y 83 Ter; la Sección Segunda “De los criterios para la imposición de medidas administrativas y de reparación” al Capítulo VI “De las medidas administrativas y de reparación”; las fracciones II Bis y IV al artículo 84; la Sección Tercera “De la ejecución de las medidas administrativas y de reparación” al Capítulo VI “De las medidas administrativas y de reparación” integrada por los artículos 86 y 87; la Sección Cuarta “Del recurso de revisión” al Capítulo VI “De las medidas administrativas y de reparación”; Se DEROGAN las fracciones I a VIII del artículo 5; el primer párrafo del artículo 9, recorriéndose el orden de los subsecuentes; los artículos 10, 11, 12, 13, 14 y 15; las fracciones I a XIX del artículo 20; la fracción VIII del artículo 24; la fracción VI del artículo 30; la fracción VII del artículo 34; la Sección Segunda “De la Reclamación” del actual Capítulo V “De los Procedimientos”, los artículos 56 y 57; el artículo 63; el segundo párrafo del artículo 65; los artículos 76 y 77; la actual Sección Sexta “Del Procedimiento Conciliatorio entre Particulares” del Capítulo V “De los Procedimientos”; el último párrafo del artículo 83; la fracción I del artículo 84, y el artículo 85 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como siguen: ………
 
 ## TRANSITORIOS
 
@@ -1283,10 +1264,7 @@ DECRETO por el que se reforman los artículos 1 y 9 de la Ley Federal para Preve
 Publicado en el Diario Oficial de la Federación el 17 de mayo de 2022
 
 ### Artículo Único
-Se reforma la fracción III del artículo 1 y las fracciones XXX, XXXI y XXXII del
-
-### artículo 9
-de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue: ……..
+Se reforma la fracción III del artículo 1 y las fracciones XXX, XXXI y XXXII del artículo 9 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue: ……..
 
 ## Transitorio
 
@@ -1358,7 +1336,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

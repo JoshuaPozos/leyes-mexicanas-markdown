@@ -98,10 +98,7 @@ XV. Ley: Ley General de Transparencia y Acceso a la Información Pública;
 
 XVI. Personas servidoras públicas: Las mencionadas en el primer párrafo del artículo 108 de la Constitución Política de los Estados Unidos Mexicanos y sus correlativos en las Constituciones locales;
 
-XVII. Plataforma Nacional: Plataforma Nacional de Transparencia, a la que se hace referencia en el
-
-### artículo 44
-de la presente Ley;
+XVII. Plataforma Nacional: Plataforma Nacional de Transparencia, a la que se hace referencia en el artículo 44 de la presente Ley;
 
 XVIII. Sistema Nacional: Sistema Nacional de Acceso a la Información Pública;
 
@@ -476,10 +473,7 @@ V. Promover y establecer programas de capacitación en materia de transparencia,
 
 VI. Recabar y enviar a las Autoridades garantes los datos necesarios para la elaboración del informe anual, conforme a los lineamientos que dichas autoridades expidan;
 
-VII. Solicitar y autorizar la ampliación del plazo de reserva de la información, conforme a lo dispuesto en el
-
-### artículo 104
-de la presente Ley, y
+VII. Solicitar y autorizar la ampliación del plazo de reserva de la información, conforme a lo dispuesto en el artículo 104 de la presente Ley, y
 
 VIII. Las demás que se desprendan de las disposiciones jurídicas aplicables.
 
@@ -856,10 +850,7 @@ V. En materia de política exterior:
 
 a) El listado de asuntos de protección a mexicanos en el exterior, que contenga sexo, rango de edad, país, tipo de apoyo y, en su caso, monto;
 
-b) El número de constancias de suscripción del Convenio a que hace referencia la fracción I del
-
-### artículo 27
-de la Constitución Política de los Estados Unidos Mexicanos para obtener concesiones para la exploración y explotación de minas y aguas en territorio nacional, indicando la entidad federativa y la nacionalidad de la persona solicitante y para la adquisición de bienes inmuebles fuera de la zona restringida, indicando la entidad federativa y la nacionalidad de la persona solicitante, así como el número de permisos otorgados para la constitución de fideicomisos, señalando la fiduciaria, nacionalidad del fideicomisario y la entidad federativa donde se localiza el inmueble;
+b) El número de constancias de suscripción del Convenio a que hace referencia la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos para obtener concesiones para la exploración y explotación de minas y aguas en territorio nacional, indicando la entidad federativa y la nacionalidad de la persona solicitante y para la adquisición de bienes inmuebles fuera de la zona restringida, indicando la entidad federativa y la nacionalidad de la persona solicitante, así como el número de permisos otorgados para la constitución de fideicomisos, señalando la fiduciaria, nacionalidad del fideicomisario y la entidad federativa donde se localiza el inmueble;
 
 c) El número de cartas de naturalización, identificadas por modalidad, fecha de expedición, sexo, rango de edad y país de origen;
 
@@ -1195,10 +1186,7 @@ VIII. La versión pública de las evaluaciones cuantitativa y cualitativa de las
 IX. La versión pública de los estudios, trabajos de investigación e informes generales en materia de competencia económica sobre sectores, en su caso, con las propuestas respectivas de liberalización, desregulación o modificación normativa.
 
 ### Artículo 72
-. El sujeto obligado con facultades en materia de telecomunicaciones, además de lo señalado en el
-
-### artículo 65
-de la presente Ley, deberá poner a disposición del público y actualizar la información siguiente:
+. El sujeto obligado con facultades en materia de telecomunicaciones, además de lo señalado en el artículo 65 de la presente Ley, deberá poner a disposición del público y actualizar la información siguiente:
 
 I. El registro de las entrevistas que lleve a cabo con personas que representen los intereses de los agentes económicos para tratar asuntos de su competencia, en términos de la ley de la materia;
 

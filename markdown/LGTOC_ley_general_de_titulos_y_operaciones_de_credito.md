@@ -150,10 +150,7 @@ I.- El nombre del endosatario;
 II.- La firma del endosante o de la persona que suscriba el endoso a su ruego o en su nombre;
 III.- La clase de endoso;
 IV.- El lugar y la fecha.
-Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, la transmisión por endoso deberá realizarse en el sistema de información a que se refiere el
-
-### artículo 5o
-. de esta Ley, relacionándolo de manera indubitable con el título de crédito objeto del endoso.
+Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, la transmisión por endoso deberá realizarse en el sistema de información a que se refiere el artículo 5o. de esta Ley, relacionándolo de manera indubitable con el título de crédito objeto del endoso.
 Párrafo adicionado DOF 26-03-2024
 
 ### Artículo 30
@@ -188,10 +185,7 @@ Cuando la prenda se realice en los términos de la Sección 6a. del Capítulo IV
 .- El endoso posterior al vencimiento del título, surte efectos de cesión ordinaria.
 
 ### Artículo 38
-.- Es propietario de un título nominativo, la persona en cuyo favor se expida conforme al
-
-### artículo 23
-, mientras no haya algún endoso.
+.- Es propietario de un título nominativo, la persona en cuyo favor se expida conforme al artículo 23, mientras no haya algún endoso.
 El tenedor de un título nominativo en que hubiere endosos, se considerará propietario del título, siempre que justifique su derecho mediante una serie no interrumpida de aquéllos.
 La constancia que ponga el Juez en el título conforme al artículo 28, se tendrá como endoso para los efectos del párrafo anterior.
 
@@ -214,10 +208,7 @@ También tiene derecho, si opta por lo segundo y garantiza la reparación de los
 La pérdida del título por otras causas sólo da derecho a las acciones personales que puedan derivarse del negocio jurídico o del hecho ilícito que la hayan ocasionado o producido.
 
 ### Artículo 43
-.- El tenedor de un título nominativo que justifique su derecho a éste en los términos del
-
-### artículo 38
-, no puede ser obligado a devolverlo, o a restituir las sumas que hubiere recibido por su cobro o negociación, a menos. que se pruebe que lo adquirió incurriendo en culpa grave o de mala fe.
+.- El tenedor de un título nominativo que justifique su derecho a éste en los términos del artículo 38, no puede ser obligado a devolverlo, o a restituir las sumas que hubiere recibido por su cobro o negociación, a menos. que se pruebe que lo adquirió incurriendo en culpa grave o de mala fe.
 Si el título es de aquellos cuya emisión y transmisión deben inscribirse en algún registro, incurre en culpa grave el que lo adquiera de quien no aparece como propietario en el registro.
 Fe de erratas al párrafo DOF 10-02-1933 También incurre en culpa grave el que adquiere un título perdido o robado después de hechas las publicaciones ordenadas por la fracción III del artículo 45.
 Si a pesar de la notificación prevista por la fracción V del artículo 45, el título fuere negociado en la Bolsa, el que lo adquiera en ésta, durante la vigencia de la orden de suspensión, se reputará de mala fe.
@@ -241,10 +232,7 @@ Artículo reformado DOF 31-08-1933
 
 ### Artículo 47
 .- Puede oponerse a la cancelación, y al pago o reposición del título, en su caso, todo el que justifique tener sobre éste mejor derecho que el que alega el reclamante.
-Se reputan con mejor derecho que el reclamante, los que adquirieron el documento sin incurrir en culpa grave y de buena fe, siempre que puedan acreditar su carácter de propietarios en los términos del
-
-### artículo 38
-.
+Se reputan con mejor derecho que el reclamante, los que adquirieron el documento sin incurrir en culpa grave y de buena fe, siempre que puedan acreditar su carácter de propietarios en los términos del artículo 38.
 Es aplicable al oponente lo dispuesto por los párrafos segundo, tercero, cuarto y quinto del artículo 43.
 Tratándose de un título de crédito emitido en medios electrónicos, ópticos o por cualquier otra tecnología, la oposición se realizará conforme al procedimiento establecido en el artículo 51 de esta Ley, para tales efectos el juez deberá consultar la existencia y circulación del título de crédito en el sistema de información a que se refiere el artículo 5o. de esta Ley, en que se hubiere emitido el título respectivo.
 Párrafo adicionado DOF 26-03-2024
@@ -328,10 +316,7 @@ Fe de erratas al párrafo DOF 24-09-1932
 Si la destrucción, mutilación o deterioro se refieren a alguna de las firmas, sin afectar las menciones y requisitos esenciales del documento, no será necesaria la cancelación de éste para que el Juez lo suscriba por los que se nieguen a hacerlo, dentro del procedimiento fijado por el artículo 57, siendo aplicables además los artículos 56, 59, 60, 61, 62 y 63, parte final, en lo conducente.
 
 ### Artículo 66
-.- En los casos de robo, extravío, destrucción total, mutilación y deterioro grave de un título nominativo no negociable, el que justifique ser su propietario tendrá derecho a exigir que le expidan un duplicado los suscriptores del documento, sin que se necesite cancelarlo previamente, y de no allanarse a hacerlo alguno de los obligados, el Juez firmará por él conforme al procedimiento prescrito por el
-
-### artículo 57
-, siendo asimismo aplicables los artículos 56, 59, 60, 61, 62 y 63, parte final, en lo conducente.
+.- En los casos de robo, extravío, destrucción total, mutilación y deterioro grave de un título nominativo no negociable, el que justifique ser su propietario tendrá derecho a exigir que le expidan un duplicado los suscriptores del documento, sin que se necesite cancelarlo previamente, y de no allanarse a hacerlo alguno de los obligados, el Juez firmará por él conforme al procedimiento prescrito por el artículo 57, siendo asimismo aplicables los artículos 56, 59, 60, 61, 62 y 63, parte final, en lo conducente.
 
 ### Artículo 67
 .- Los procedimientos de cancelación, oposición, y reposición a que se refieren los artículos anteriores, suspenden el término de la prescripción extintiva respecto de los títulos nominativos extraviados, robados, destruidos, mutilados o deteriorados gravemente.
@@ -735,10 +720,7 @@ Fracción reformada DOF 31-08-1933 II.- Por no haber ejercitado la acción dentr
 En los casos previstos por el artículo 157, se considerará como fecha de pago, para los efectos de la fracción II de este artículo, la fecha de la anotación de recibo que debe llevar la letra pagada, o en su defecto, la del aviso o la de la letra de resaca a que aquel precepto se refiere.
 
 ### Artículo 162
-.- El ejercicio de la acción en el plazo fijado por las fracciones V del artículo 160 y II del
-
-### artículo 161
-, no impide su caducidad sino cuando la demanda respectiva hubiere sido presentada dentro del mismo plazo, aun cuando lo sea ante Juez incompetente.
+.- El ejercicio de la acción en el plazo fijado por las fracciones V del artículo 160 y II del artículo 161, no impide su caducidad sino cuando la demanda respectiva hubiere sido presentada dentro del mismo plazo, aun cuando lo sea ante Juez incompetente.
 Artículo reformado DOF 31-08-1933
 
 ### Artículo 163
@@ -1014,10 +996,7 @@ Fe de erratas al párrafo DOF 10-02-1933
 ### Artículo 217
 .- El representante común de los obligacionistas obrará como mandatario de éstos, con las siguientes obligaciones y facultades, además de las que expresamente se consignen en el acta de emisión:
 I.- Comprobar los datos contenidos en el balance de la sociedad emisora que se formule para efectuar la emisión;
-II.- Comprobar, en su caso, la existencia de los contratos a que se refiere el párrafo primero del
-
-### artículo 212
-;
+II.- Comprobar, en su caso, la existencia de los contratos a que se refiere el párrafo primero del artículo 212;
 III.- Comprobar la existencia y el valor de los bienes dados en prenda o hipotecados en garantía de la emisión, así como que los objetos pignorados y, en su caso, las construcciones y los muebles inmovilizados incluidos en la hipoteca, estén asegurados mientras la emisión no se amortice totalmente, por su valor o por el importe de las obligaciones en circulación, cuando esté sea menor que aquél;
 Fracción reformada DOF 31-08-1933 IV.- Cerciorarse de la debida constitución de la garantía;
 V.- Obtener la oportuna inscripción del acta de emisión en los términos del artículo 213;
@@ -1052,10 +1031,7 @@ A las asambleas de obligacionistas podrán asistir los administradores debidamen
 En ningún caso podrán ser representadas en la asamblea, las obligaciones que no hayan sido puestas en circulación de acuerdo con el artículo 215, ni las que la sociedad emisora haya adquirido.
 De la asamblea se levantará acta suscrita por quienes hayan fungido en la sesión como presidente y secretario. Al acta se agregará la lista de asistencia, firmada por los concurrentes y por los escrutadores.
 Las actas, así como los títulos, libros de contabilidad y demás datos y documentos que se refieran a la emisión y a la actuación de las asambleas o del representante común, serán conservadas por éste, y podrán, en todo tiempo, ser consultadas por los obligacionistas, los cuales tendrán derecho a que, a sus expensas, el representante común les expida copias certificadas de los documentos dichos.
-La asamblea será presidida por el representante común o, en su defecto, por el Juez, en el caso del
-
-### artículo 218
-, y en ella los obligacionistas tendrán derecho a tantos votos, como les correspondan en virtud de las obligaciones que posean, computándose un voto por cada obligación de las de menor denominación emitidas.
+La asamblea será presidida por el representante común o, en su defecto, por el Juez, en el caso del artículo 218, y en ella los obligacionistas tendrán derecho a tantos votos, como les correspondan en virtud de las obligaciones que posean, computándose un voto por cada obligación de las de menor denominación emitidas.
 En lo no previsto por esta ley, o por el acta de emisión, será aplicable a la asamblea general de obligacionistas lo dispuesto por el Código de Comercio respecto a las asambleas de accionistas de las sociedades anónimas.
 
 ### Artículo 222
@@ -1085,8 +1061,8 @@ Las acciones para el cobro de las obligaciones, prescribirán en cinco años a p
 .- Son aplicables a las obligaciones y a sus cupones, en lo conducente, los artículos 77, párrafo final, 81, 90, 127, 130, 132, 139, 140, 142, 148, 149, 151 al 162, 164, 166 al 169 y 174, párrafo final.
 Artículo reformado DOF 31-08-1933 CAPITULO V Bis De los Certificados de Participación Capítulo adicionado DOF 31-12-1946
 
-### Artículo 228 a
-- Los certificados de participación son títulos de crédito que representan: a).- El derecho a una parte alícuota de los frutos o rendimientos de los valores, derechos o bienes de cualquier clase que tenga en fideicomiso irrevocable para ese propósito la sociedad fiduciaria que los emita; b).- El derecho a una parte alícuota del derecho de propiedad o de la titularidad de esos bienes, derechos o valores; c).- O bien el derecho a una parte alícuota del producto neto que resulte de la venta de dichos bienes, derechos o valores.
+### Artículo 228
+a.- Los certificados de participación son títulos de crédito que representan: a).- El derecho a una parte alícuota de los frutos o rendimientos de los valores, derechos o bienes de cualquier clase que tenga en fideicomiso irrevocable para ese propósito la sociedad fiduciaria que los emita; b).- El derecho a una parte alícuota del derecho de propiedad o de la titularidad de esos bienes, derechos o valores; c).- O bien el derecho a una parte alícuota del producto neto que resulte de la venta de dichos bienes, derechos o valores.
 En el caso de los incisos b) y c), el derecho total de los tenedores de certificados de cada emisión será igual al porcentaje que represente en el momento de hacerse la emisión el valor total nominal de ella en relación con el valor comercial de los bienes, derechos o valores correspondientes fijado por el peritaje practicado en los términos del artículo 228 h. En caso de que al hacerse la adjudicación o venta de dichos bienes, derechos o valores, el valor comercial de éstos hubiere disminuido, sin ser inferior al importe nominal total de la emisión, la adjudicación o liquidación en efectivo se hará a los tenedores hasta por un valor igual al nominal de sus certificados; y si el valor comercial de la masa fiduciaria fuere inferior al nominal total de la emisión, tendrán derecho a la aplicación íntegra de los bienes o producto neto de la venta de los mismos.
 Artículo adicionado DOF 31-12-1946
 
@@ -1094,61 +1070,59 @@ Artículo adicionado DOF 31-12-1946
 a bis.- Los “certificados de vivienda” son títulos que representan el derecho, mediante el pago de lo totalidad de las cuotas estipuladas, a que se transmita la propiedad de una vivienda, gozándose entretanto del aprovechamiento directo del inmueble; y en caso de incumplimiento o abandono, a recuperar una parte de dichas cuotas de acuerdo con los valores de rescate que se fijen.
 Artículo adicionado DOF 30-12-1963
 
-### Artículo 228 b
-- Los certificados serán bienes muebles aun cuando los bienes fideicometidos, materia de la emisión, sean inmuebles.
+### Artículo 228
+b.- Los certificados serán bienes muebles aun cuando los bienes fideicometidos, materia de la emisión, sean inmuebles.
 Sólo las instituciones de crédito autorizadas en los términos de la Ley respectiva para practicar operaciones fiduciarias podrán emitir estos títulos de crédito.
 Los certificados que las sociedades fiduciarias expidan haciendo constar la participación de los distintos copropietarios en bienes, títulos o valores que se encuentren en su poder, no producirán efectos como títulos de crédito y serán considerados solamente como documentos probatorios.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 c
-- Para los efectos de la emisión de certificados de participación podrán constituirse fideicomisos sobre toda clase de empresas industriales y mercantiles, consideradas como unidades económicas.
+### Artículo 228
+c.- Para los efectos de la emisión de certificados de participación podrán constituirse fideicomisos sobre toda clase de empresas industriales y mercantiles, consideradas como unidades económicas.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 d
-- Los certificados de participación serán designados como ordinarios o inmobiliarios, según que los bienes fideicometidos materia de la emisión sean muebles o inmuebles.
+### Artículo 228
+d.- Los certificados de participación serán designados como ordinarios o inmobiliarios, según que los bienes fideicometidos materia de la emisión sean muebles o inmuebles.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 e
-- Tratándose de certificados de participación inmobiliarios, la sociedad emisora podrá establecer en beneficio de los tenedores, derechos de aprovechamiento directo del inmueble fideicometido, cuya extensión, alcance y modalidades se determinarán en el acta de la emisión correspondiente.
+### Artículo 228
+e.- Tratándose de certificados de participación inmobiliarios, la sociedad emisora podrá establecer en beneficio de los tenedores, derechos de aprovechamiento directo del inmueble fideicometido, cuya extensión, alcance y modalidades se determinarán en el acta de la emisión correspondiente.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 f
-- La sociedad emisora, previo el consentimiento y aprobación del representante común de los tenedores, en su caso, podrá concertar y obtener préstamos para el mejoramiento e incremento de los bienes inmuebles materia de la emisión, emitiendo por este concepto “certificados fiduciarios de adeudo.” Los certificados fiduciarios de adeudo serán títulos de crédito contra el fideicomiso correspondiente.
+### Artículo 228
+f.- La sociedad emisora, previo el consentimiento y aprobación del representante común de los tenedores, en su caso, podrá concertar y obtener préstamos para el mejoramiento e incremento de los bienes inmuebles materia de la emisión, emitiendo por este concepto “certificados fiduciarios de adeudo.” Los certificados fiduciarios de adeudo serán títulos de crédito contra el fideicomiso correspondiente.
 Serán preferentes en su pago a los certificados de participación de dicho fideicomiso.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 g
-- Cuando la sociedad emisora esté autorizada para practicar también operaciones financieras en los términos de la Ley respectiva podrán garantizar a los tenedores de los certificados que emita un mínimo de rendimiento; esta garantía será otorgada sin obligar al departamento fiduciario de la institución.
+### Artículo 228
+g.- Cuando la sociedad emisora esté autorizada para practicar también operaciones financieras en los términos de la Ley respectiva podrán garantizar a los tenedores de los certificados que emita un mínimo de rendimiento; esta garantía será otorgada sin obligar al departamento fiduciario de la institución.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 h
-- El monto total nominal de una emisión de certificados de participación será fijado mediante dictamen que formule alguna sociedad nacional de crédito, previo peritaje que practique de los bienes fideicomitidos materia de esa emisión.
+### Artículo 228
+h.- El monto total nominal de una emisión de certificados de participación será fijado mediante dictamen que formule alguna sociedad nacional de crédito, previo peritaje que practique de los bienes fideicomitidos materia de esa emisión.
 La sociedad nacional de crédito, al formular su dictamen y fijar el monto total nominal de una emisión, tomará como base el valor comercial de los bienes y si se tratare de certificados amortizables estimarán sobre éste un margen prudente de seguridad para la inversión de los tenedores correspondientes. El dictamen que se formule por dichas instituciones será definitivo.
 Artículo adicionado DOF 31-12-1946. Reformado DOF 10-01-2014
 
-### Artículo 228 i
-- Los certificados podrán ser amortizables o no serlo.
+### Artículo 228
+i.- Los certificados podrán ser amortizables o no serlo.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 j
-- Los certificados amortizables darán a sus tenedores, además del derecho a una parte alícuota de los frutos o rendimientos correspondientes, el del reembolso del valor nominal de los títulos.
-En caso de que la sociedad fiduciaria emisora no hiciere el pago del valor nominal de los certificados a su vencimiento, sus tenedores tendrán los derechos a que se refieren los incisos b) y c) y el párrafo final del
-
-### artículo 228 a
+### Artículo 228
+j.- Los certificados amortizables darán a sus tenedores, además del derecho a una parte alícuota de los frutos o rendimientos correspondientes, el del reembolso del valor nominal de los títulos.
+En caso de que la sociedad fiduciaria emisora no hiciere el pago del valor nominal de los certificados a su vencimiento, sus tenedores tendrán los derechos a que se refieren los incisos b) y c) y el párrafo final del artículo 228 a.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 k
-- Tratándose de certificados de participación no amortizables, la sociedad emisora no está obligada a hacer pago del valor nominal de ellos a sus tenedores en ningún tiempo. Al extinguirse el fideicomiso base de la emisión y de acuerdo con las resoluciones de la asamblea general de tenedores de certificados, la sociedad emisora procederá a hacer la adjudicación y venta de los bienes fideicometidos y la distribución del producto neto de la misma, en los términos del artículo 228 a.
+### Artículo 228
+k.- Tratándose de certificados de participación no amortizables, la sociedad emisora no está obligada a hacer pago del valor nominal de ellos a sus tenedores en ningún tiempo. Al extinguirse el fideicomiso base de la emisión y de acuerdo con las resoluciones de la asamblea general de tenedores de certificados, la sociedad emisora procederá a hacer la adjudicación y venta de los bienes fideicometidos y la distribución del producto neto de la misma, en los términos del artículo 228 a.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 l
-- Los certificados serán nominativos, tendrán cupones y deberán emitirse por series, en denominaciones de cien pesos o de sus múltiplos.
+### Artículo 228
+l.- Los certificados serán nominativos, tendrán cupones y deberán emitirse por series, en denominaciones de cien pesos o de sus múltiplos.
 Párrafo reformado DOF 30-12-1982, 08-02-1985. Fe de erratas DOF 03-04-1985 Los certificados darán a sus tenedores, dentro de cada serie, iguales derechos.
 Cualquier tenedor podrá pedir la nulidad de la emisión hecha en contra de lo dispuesto en este párrafo.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 m
-- La emisión se hará previa declaración unilateral de voluntad de la sociedad emisora expresada en escritura pública, en la que se harán constar:
+### Artículo 228
+m.- La emisión se hará previa declaración unilateral de voluntad de la sociedad emisora expresada en escritura pública, en la que se harán constar:
 I.- La denominación, el objeto y el domicilio de la sociedad emisora;
 II.- Una relación del acto constitutivo del fideicomiso, bases de la emisión;
 III.- Una descripción suficiente de los derechos o cosas materia de la emisión;
@@ -1163,8 +1137,8 @@ XI.- La designación de representante común de los tenedores de certificados y 
 En caso de que los certificados se ofrezcan en venta al público, los avisos o la propaganda, contendrán los datos anteriores. Por violación de lo dispuesto en este párrafo quedarán solidariamente sujetos a daños y perjuicios aquellos a quienes la violación sea imputable.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 n
-- El certificado de participación deberá contener:
+### Artículo 228
+n.- El certificado de participación deberá contener:
 I.- Nombre, nacionalidad y domicilio del titular del certificado.
 Fracción adicionada DOF 30-12-1982 II.- La mención de ser “certificados de participación” y la expresión de si es ordinario o inmobiliario;
 Fracción recorrida DOF 30-12-1982 III.- La designación de la sociedad emisora y la firma autógrafa del funcionario de la misma, autorizado para suscribir la emisión correspondiente;
@@ -1178,38 +1152,38 @@ Fracción recorrida DOF 30-12-1982 X.- El lugar y la fecha del acta de emisión,
 Fracción recorrida DOF 30-12-1982 XI.- La firma autógrafa del representante común de los tenedores de certificados.
 Fracción recorrida DOF 30-12-1982 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 o
-- Los términos y condiciones de las emisiones de certificados de participación deberán ser aprobados por la Comisión Nacional Bancaria, así como los textos de las actas de emisión y de los certificados y cualquiera modificación de ellos. Además, en el otorgamiento de un acta de emisión o de modificación deberá concurrir un representante de la Comisión Nacional Bancaria.
+### Artículo 228
+o.- Los términos y condiciones de las emisiones de certificados de participación deberán ser aprobados por la Comisión Nacional Bancaria, así como los textos de las actas de emisión y de los certificados y cualquiera modificación de ellos. Además, en el otorgamiento de un acta de emisión o de modificación deberá concurrir un representante de la Comisión Nacional Bancaria.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 p
-- Cuando en el acta de emisión se haya estipulado que los certificados serán reembolsados por sorteos, se seguirá el procedimiento que establece el artículo 222 de esta Ley.
+### Artículo 228
+p.- Cuando en el acta de emisión se haya estipulado que los certificados serán reembolsados por sorteos, se seguirá el procedimiento que establece el artículo 222 de esta Ley.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 q
-- Para representar al conjunto de los tenedores de certificados se designará un representante común que podrá no ser tenedor de certificados. El cargo de representante común es personal y será desempeñado por el individuo designado al efecto o por los representantes ordinarios de la institución de crédito o de la sociedad financiera o fiduciaria que sean nombrados para el cargo. El representante común podrá otorgar poderes judiciales.
+### Artículo 228
+q.- Para representar al conjunto de los tenedores de certificados se designará un representante común que podrá no ser tenedor de certificados. El cargo de representante común es personal y será desempeñado por el individuo designado al efecto o por los representantes ordinarios de la institución de crédito o de la sociedad financiera o fiduciaria que sean nombrados para el cargo. El representante común podrá otorgar poderes judiciales.
 Son aplicables al representante común de los tenedores de certificados, en lo conducente, las disposiciones de los artículos 216 y 226 de esta Ley.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 r
-- El representante común de los tenedores de certificados obrará como mandatario de éstos, con las siguientes obligaciones y facultades, además de las que expresamente se consignen en el acta de emisión: 1º.- Verificar los términos del acto constitutivo del fideicomiso base de la emisión; 2º.- Comprobar la existencia de los derechos o bienes dados en fideicomiso, y en su caso, que las construcciones y los bienes inmovilizados incluidos en el fideicomiso estén asegurados, mientras la emisión no se amortice totalmente por su valor o por el importe de los certificados en circulación, cuando éste sea menor que aquél; 3º.- Recibir y conservar los fondos relativos como depositario y aplicarlos al pago de los bienes adquiridos o de su construcción en los términos que señale el acta de emisión, cuando el importe de la misma o una parte de él, deban ser destinados a la adquisición o construcción de bienes; 4º.- Autorizar con su firma los certificados que se emitan; 5º.- Ejercitar todas las acciones o derechos que al conjunto de tenedores de certificados correspondan por el pago de intereses o del capital debidos o por virtud de las garantías señaladas para la emisión, así como los que requiera el desempeño de las funciones y deberes a que este artículo se refiere, y ejecutar los actos conservatorios de esos derechos y acciones; 6º.- Asistir a los sorteos en su caso; 7º.- Convocar y presidir la asamblea general de tenedores de certificados y ejecutar sus decisiones; 8º.- Recabar de los funcionarios de la institución fiduciaria emisora, todos los informes y datos que necesite para el ejercicio de sus atribuciones, inclusive los relativos a la situación financiera del fideicomiso base de la emisión.
+### Artículo 228
+r.- El representante común de los tenedores de certificados obrará como mandatario de éstos, con las siguientes obligaciones y facultades, además de las que expresamente se consignen en el acta de emisión: 1º.- Verificar los términos del acto constitutivo del fideicomiso base de la emisión; 2º.- Comprobar la existencia de los derechos o bienes dados en fideicomiso, y en su caso, que las construcciones y los bienes inmovilizados incluidos en el fideicomiso estén asegurados, mientras la emisión no se amortice totalmente por su valor o por el importe de los certificados en circulación, cuando éste sea menor que aquél; 3º.- Recibir y conservar los fondos relativos como depositario y aplicarlos al pago de los bienes adquiridos o de su construcción en los términos que señale el acta de emisión, cuando el importe de la misma o una parte de él, deban ser destinados a la adquisición o construcción de bienes; 4º.- Autorizar con su firma los certificados que se emitan; 5º.- Ejercitar todas las acciones o derechos que al conjunto de tenedores de certificados correspondan por el pago de intereses o del capital debidos o por virtud de las garantías señaladas para la emisión, así como los que requiera el desempeño de las funciones y deberes a que este artículo se refiere, y ejecutar los actos conservatorios de esos derechos y acciones; 6º.- Asistir a los sorteos en su caso; 7º.- Convocar y presidir la asamblea general de tenedores de certificados y ejecutar sus decisiones; 8º.- Recabar de los funcionarios de la institución fiduciaria emisora, todos los informes y datos que necesite para el ejercicio de sus atribuciones, inclusive los relativos a la situación financiera del fideicomiso base de la emisión.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 s
-- La asamblea general de tenedores de certificados de participación representará el conjunto de éstos y sus decisiones, tomadas en los términos de esta Ley y de acuerdo con las estipulaciones relativas del acta de emisión, serán válidas respecto de todos los tenedores, aun de los ausentes o disidentes.
+### Artículo 228
+s.- La asamblea general de tenedores de certificados de participación representará el conjunto de éstos y sus decisiones, tomadas en los términos de esta Ley y de acuerdo con las estipulaciones relativas del acta de emisión, serán válidas respecto de todos los tenedores, aun de los ausentes o disidentes.
 Son aplicables a la asamblea general de tenedores de certificados de participación las disposiciones de los artículos 218, 219, 220 y 221 de esta Ley.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 t
-- El fideicomiso base de la emisión, no se extinguirá mientras haya saldos insolutos por concepto de créditos a cargo de la masa fiduciaria, de certificados o de participación en los frutos o rendimientos.
+### Artículo 228
+t.- El fideicomiso base de la emisión, no se extinguirá mientras haya saldos insolutos por concepto de créditos a cargo de la masa fiduciaria, de certificados o de participación en los frutos o rendimientos.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 u
-- Son aplicables a los derechos de los tenedores de certificados en lo conducente, los artículos 223 y 224.
+### Artículo 228
+u.- Son aplicables a los derechos de los tenedores de certificados en lo conducente, los artículos 223 y 224.
 Artículo adicionado DOF 31-12-1946
 
-### Artículo 228 v
-- Las acciones para el cobro de los cupones de los certificados prescribirán en tres años a partir del vencimiento. Las acciones para el cobro de los certificados amortizables prescribirán en cinco años a partir de la fecha en que venzan los plazos estipulados para hacer la amortización, o, en caso de sorteo, a partir de la fecha en que se publique la lista a que se refiere el artículo 222.
+### Artículo 228
+v.- Las acciones para el cobro de los cupones de los certificados prescribirán en tres años a partir del vencimiento. Las acciones para el cobro de los certificados amortizables prescribirán en cinco años a partir de la fecha en que venzan los plazos estipulados para hacer la amortización, o, en caso de sorteo, a partir de la fecha en que se publique la lista a que se refiere el artículo 222.
 La prescripción de las acciones para el cobro en efectivo o adjudicación, tratándose de certificados no amortizables, se regirá por las reglas del derecho común y principiará a correr el término correspondiente en la fecha que señale la asamblea general de tenedores que conozca de la terminación del fideicomiso correspondiente.
 La prescripción operará, en todos los casos, en favor del patrimonio de la Secretaría de Salud.
 Párrafo reformado DOF 09-04-2012 Artículo adicionado DOF 31-12-1946 CAPITULO VI Del certificado de depósito y del bono de prenda
@@ -1230,10 +1204,7 @@ c) No genere costos adicionales a los Almacenes Generales de Depósito emisores,
 d) Dicha interconexión se garantizará para las Autoridades competentes que así lo requieran. En ese sentido, deberá cumplir con los estándares y reglas necesarias que garanticen la seguridad y certeza de la misma.
 La omisión, defecto o imposibilidad técnica que impida o genere fallas en la interconexión de los sistemas criptográficos de los certificados de depósito, no afectará la validez de éstos o los derechos de los tenedores; debiendo garantizarse en todo momento por parte de los Almacenes Generales de Depósito emisores, el cumplimiento de los principios establecidos en la legislación aplicable.
 A través de el o los sistemas criptográficos en que se emitan los certificados de depósito se establecerá de manera indubitable, de acuerdo con lo dispuesto en esta Ley y la Ley General de Organizaciones y Actividades Auxiliares del Crédito, la generación, transmisión por endoso, recepción, entrega o cualquier otro acto relacionado con el certificado de depósito tomando en cuenta, entre otros requisitos, los previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio.
-Para efectos de lo dispuesto en el párrafo anterior, el o los sistemas criptográficos en que se emitan los certificados de depósito, fungirán como sistema de información en términos de lo dispuesto en el
-
-### artículo 5o
-. de esta Ley.
+Para efectos de lo dispuesto en el párrafo anterior, el o los sistemas criptográficos en que se emitan los certificados de depósito, fungirán como sistema de información en términos de lo dispuesto en el artículo 5o. de esta Ley.
 Las constancias, recibos o certificados que otras personas o instituciones expidan para acreditar el depósito de bienes o mercancías, no producirán efectos como títulos de crédito.
 Artículo reformado DOF 26-03-2024
 
@@ -1356,10 +1327,7 @@ Artículo reformado DOF 26-03-2024
 ### Artículo 250
 .- Las acciones derivadas del certificado de depósito para el retiro de las mercancías, prescriben en tres años a partir del vencimiento del plazo señalado para el depósito en el certificado.
 Las acciones que deriven del crédito prendario insertado en el certificado, prescriben en tres años a partir de su vencimiento.
-Párrafo reformado DOF 26-03-2024 En el mismo plazo, prescribirán las acciones derivadas del certificado de depósito para disponer, en su caso, las cantidades que obren en poder de los Almacenes Generales de Depósito conforme al
-
-### artículo 246
-de esta Ley.
+Párrafo reformado DOF 26-03-2024 En el mismo plazo, prescribirán las acciones derivadas del certificado de depósito para disponer, en su caso, las cantidades que obren en poder de los Almacenes Generales de Depósito conforme al artículo 246 de esta Ley.
 Párrafo reformado DOF 26-03-2024
 
 ### Artículo 251
@@ -1459,10 +1427,7 @@ Para que el depositante pueda hacer remesas conforme a este artículo, en títul
 .- El depósito bancario de títulos en administración, obliga al depositario a efectuar el cobro de los títulos y a practicar todos los actos necesarios para la conservación de los derechos que aquéllos confieran al depositante. Cuando haya que ejercitar derechos accesorios u opcionales o efectuar exhibiciones o pagos de cualquier clase en relación con los títulos de depositados, se estará a lo dispuesto en los artículos 261 a 263.
 
 ### Artículo 279
-.- Serán aplicables a los depósitos de títulos en lo conducente, los artículos 269 a 272, 274 y 275. Las órdenes de entrega que el depositante expida para disponer de los títulos, en el caso del
-
-### artículo 269
-, no serán negociables.
+.- Serán aplicables a los depósitos de títulos en lo conducente, los artículos 269 a 272, 274 y 275. Las órdenes de entrega que el depositante expida para disponer de los títulos, en el caso del artículo 269, no serán negociables.
 
 ## Sección Tercera — Del Depósito de las Mercancías en Almacenes Generales
 
@@ -2293,10 +2258,7 @@ Artículo adicionado DOF 18-07-2006 CAPITULO VII Del Factoraje Financiero Capít
 I. Que el factorado no quede obligado a responder por el pago de los derechos de crédito transmitidos al factorante; o
 
 II. Que el factorado quede obligado solidariamente con el deudor, a responder del pago puntual y oportuno de los derechos de crédito transmitidos al factorante.
-La administración y cobranza de los derechos de crédito, objeto de los contratos de factoraje, deberá ser realizada por el factorante o por un tercero a quien éste le haya delegado la misma, en términos del
-
-### artículo 430
-.
+La administración y cobranza de los derechos de crédito, objeto de los contratos de factoraje, deberá ser realizada por el factorante o por un tercero a quien éste le haya delegado la misma, en términos del artículo 430.
 Todos los derechos de crédito pueden transmitirse a través de un contrato de factoraje financiero, sin el consentimiento del deudor, a menos que la transmisión esté prohibida por la ley, no lo permita la naturaleza del derecho o en los documentos en los que consten los derechos que se van a adquirir se haya convenido expresamente que no pueden ser objeto de una operación de factoraje.
 El deudor no puede alegar contra el tercero que el derecho no podía transmitirse mediante contrato de factoraje financiero porque así se había convenido, cuando ese convenio no conste en el título constitutivo del derecho.
 Artículo adicionado DOF 18-07-2006
@@ -2484,22 +2446,17 @@ Se REFORMA la fracción V y el último párrafo del artículo 395, y se ADICIONA
 I. El artículo Primero del presente Decreto;
 
 II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título
-**Quinto.** y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al
-
-### artículo 89
-de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el
-
-### artículo Segundo
-de este Decreto;
+**Quinto.** y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el
+**artículo Segundo.** de este Decreto;
 
 III. Las reformas a los artículos 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
 
 IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
 A partir de la entrada en vigor a que se refiere este artículo, las operaciones de arrendamiento financiero y factoraje financiero no se considerarán reservadas para las arrendadoras financieras y empresas de factoraje financiero, por lo que cualquier persona podrá celebrarlas en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 Las sociedades financieras de objeto limitado podrán seguir actuando con el carácter de fiduciarias en los fideicomisos a los que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito hasta que queden sin efectos las autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito, salvo que adopten la modalidad de sociedad financiera de objeto múltiple, en cuyo caso podrán continuar en el desempeño de su encomienda fiduciaria.
-SEGUNDO.- Las personas que, a partir de la fecha de entrada en vigor de las disposiciones a que se refiere el artículo primero transitorio de este Decreto, realicen operaciones de arrendamiento financiero y factoraje financiero, en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, se sujetarán a las disposiciones aplicables a dichas operaciones de la Ley General de Títulos y Operaciones de Crédito. A dichas personas no les será aplicable el régimen que la Ley General de Organizaciones y Actividades Auxiliares del Crédito prevé para las arrendadoras financieras y empresas de factoraje.
+**SEGUNDO.-** Las personas que, a partir de la fecha de entrada en vigor de las disposiciones a que se refiere el artículo primero transitorio de este Decreto, realicen operaciones de arrendamiento financiero y factoraje financiero, en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, se sujetarán a las disposiciones aplicables a dichas operaciones de la Ley General de Títulos y Operaciones de Crédito. A dichas personas no les será aplicable el régimen que la Ley General de Organizaciones y Actividades Auxiliares del Crédito prevé para las arrendadoras financieras y empresas de factoraje.
 En los contratos de arrendamiento financiero y factoraje financiero que celebren las personas a que se refiere este artículo, ellas deberán señalar expresamente que no cuentan con la autorización de la Secretaría de Hacienda y Crédito Público prevista en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las personas señaladas.
-TERCERO.- Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas a los artículos 5, 8, 40, 45 Bis 3, 47, 48, 48-A, 48-B, 78, 96, 97, 98 y 99, así como la derogación a los artículos 3 y 48 y del Capítulo II del Título Segundo, que incluye los artículos 24 a 38, del Capítulo II Bis del Título Segundo, que incluye los artículos 45-A a 45-T, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito contenidas en el artículo Segundo de este Decreto.
+**TERCERO.-** Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas a los artículos 5, 8, 40, 45 Bis 3, 47, 48, 48-A, 48-B, 78, 96, 97, 98 y 99, así como la derogación a los artículos 3 y 48 y del Capítulo II del Título Segundo, que incluye los artículos 24 a 38, del Capítulo II Bis del Título Segundo, que incluye los artículos 45-A a 45-T, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito contenidas en el artículo Segundo de este Decreto.
 A partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que haya otorgado la Secretaría de Hacienda y Crédito Público para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero quedarán sin efecto por ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán de ser organizaciones auxiliares del crédito.
 Las sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones respectivas, aunque, para que puedan continuar operando, deberán:
 
@@ -2510,8 +2467,8 @@ Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entr
 La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
 La entrada en vigor de las reformas y derogación a que este artículo transitorio se refiere no afectará la existencia y validez de los contratos que, con anterioridad a la misma, hayan suscrito aquellas sociedades que tenían el carácter de arrendadoras financieras y empresas de factoraje financiero, ni será causa de ratificación o convalidación de esos contratos. Sin perjuicio de lo anterior, a partir de la entrada en vigor señalada en este artículo, los contratos de arrendamiento y factoraje financiero a que se refiere este párrafo se regirán por las disposiciones correlativas de la Ley General de Títulos y Operaciones de Crédito.
 En los contratos de arrendamiento financiero y factoraje financiero que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
-CUARTO.- La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes de autorización que, para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero, en términos de lo dispuesto por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
-QUINTO.- Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas, adiciones y derogaciones a los artículos 45-A, 45-B, 45-D, 45-I, 45-K, 45N, 49, 85 BIS, 103, 108, 115 y 116 de la Ley de Instituciones de Crédito contenidas en el artículo Tercero de este Decreto.
+**CUARTO.-** La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes de autorización que, para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero, en términos de lo dispuesto por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
+**QUINTO.-** Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas, adiciones y derogaciones a los artículos 45-A, 45-B, 45-D, 45-I, 45-K, 45N, 49, 85 BIS, 103, 108, 115 y 116 de la Ley de Instituciones de Crédito contenidas en el artículo Tercero de este Decreto.
 A partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que hayan sido otorgadas por la Secretaría de Hacienda y Crédito Público, en términos del artículo 103, fracción IV, de la Ley de Instituciones de Crédito, a las sociedades financieras de objeto limitado, quedarán sin efecto por ministerio de ley, sin que por ello estén obligadas a disolverse y liquidarse, aunque, para que puedan continuar operando, deberán:
 
 I. Reformar sus estatutos sociales, a afecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son sociedades financieras de objeto limitado y que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público para ello.
@@ -2521,8 +2478,8 @@ Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entr
 La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
 La entrada en vigor de las reformas, adiciones y derogaciones a los artículos de la Ley de Instituciones de Crédito señalados en este artículo transitorio no afectará la existencia y validez de los contratos que, con anterioridad a la misma, hayan suscrito las sociedades que tenían el carácter de sociedades financieras de objeto limitado, ni será causa de ratificación o convalidación de esos contratos.
 En los contratos de crédito que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
-SEXTO.- La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes que, para obtener la autorización señalada en el artículo 103, fracción IV, de la Ley de Instituciones Crédito y en términos de lo dispuesto por la misma ley, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
-SÉPTIMO.- Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado que, antes de la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, pretendan celebrar operaciones de arrendamiento financiero, factoraje financiero y otorgamiento de crédito sin sujetarse al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley de Instituciones de Crédito que, según sea el caso, les sean aplicables, deberán:
+**SEXTO.-** La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes que, para obtener la autorización señalada en el artículo 103, fracción IV, de la Ley de Instituciones Crédito y en términos de lo dispuesto por la misma ley, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
+**SÉPTIMO.-** Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado que, antes de la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, pretendan celebrar operaciones de arrendamiento financiero, factoraje financiero y otorgamiento de crédito sin sujetarse al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley de Instituciones de Crédito que, según sea el caso, les sean aplicables, deberán:
 
 I. Acordar en asamblea de accionistas que las operaciones de arrendamiento financiero, factoraje financiero y crédito que realicen dichas sociedades con el carácter de arrendador, factorante o acreditante se sujetarán al régimen de la Ley General de Títulos y Operaciones de Crédito y, en su caso, al de sociedades financieras de objeto múltiple previsto en la General de Organizaciones y Actividades Auxiliares del Crédito;
 
@@ -2532,17 +2489,17 @@ III. Presentar a la Secretaría de Hacienda y Crédito Público el instrumento p
 La autorización que haya otorgado la Secretaría de Hacienda y Crédito Público, según corresponda, para la constitución, operación, organización y funcionamiento de la arrendadora financiera, empresa de factoraje financiero o sociedad financiera de objeto limitado de que se trate, quedará sin efecto a partir del día siguiente a la fecha en que se inscriba en el Registro Público de Comercio la reforma estatutaria señalada en la fracción II de este artículo, sin que, por ello, la sociedad deba entrar en estado de disolución y liquidación. La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación que la autorización ha quedado sin efecto.
 Los contratos que hayan suscrito las arrendadoras financieras, empresas de factoraje financiero o sociedades financieras de objeto limitado con anterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efectos las autorizaciones referidas, no quedarán afectados en su existencia o validez ni deberán ser ratificados o convalidados por esa causa.
 En los contratos de arrendamiento financiero, factoraje financiero y crédito que las sociedades a que se refiere este artículo celebren con posterioridad a la fecha en que la autorización de la Secretaría de Hacienda y Crédito Público haya quedado sin efecto, aquellas deberán señalar expresamente que no cuentan autorización de la Secretaría de Hacienda y Crédito Público y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas en el primer párrafo de este artículo.
-OCTAVO.- En tanto las autorizaciones otorgadas por la Secretaría de Hacienda y Crédito Público no queden sin efecto o sean revocadas, las arrendadoras financieras, empresas de factoraje y sociedades financieras de objeto limitado seguirán, según corresponda, sujetas al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley de Instituciones de Crédito y demás disposiciones que conforme a las mismas les resulten aplicables, así como a las demás que emitan la citada Secretaría para preservar la liquidez, solvencia y estabilidad de las entidades señaladas.
-NOVENO.- Los artículos Cuarto y Quinto de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-DÉCIMO.- El artículo Sexto de este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**OCTAVO.-** En tanto las autorizaciones otorgadas por la Secretaría de Hacienda y Crédito Público no queden sin efecto o sean revocadas, las arrendadoras financieras, empresas de factoraje y sociedades financieras de objeto limitado seguirán, según corresponda, sujetas al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley de Instituciones de Crédito y demás disposiciones que conforme a las mismas les resulten aplicables, así como a las demás que emitan la citada Secretaría para preservar la liquidez, solvencia y estabilidad de las entidades señaladas.
+**NOVENO.-** Los artículos Cuarto y Quinto de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**DÉCIMO.-** El artículo Sexto de este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado cuyas acciones con derecho a voto que representen, cuando menos, el cincuenta y uno por ciento de su capital social sean propiedad de sociedades controladoras de grupos financieros con anterioridad a la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, serán consideradas como integrantes de dichos grupos financieros en tanto continúe vigente la autorización que la Secretaría de Hacienda y Crédito Público les haya otorgado a dichas entidades para constituirse, operar, organizarse y funcionar, según sea el caso, con tal carácter.
 En este supuesto, seguirá siendo aplicable en lo conducente la Ley para Regular las Agrupaciones Financieras.
 En caso que, conforme a lo dispuesto por el presente Decreto, las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado referidas en el párrafo anterior adopten la modalidad de sociedades financieras de objeto múltiple y las acciones con derecho a voto representativas de, cuando menos, el cincuenta y uno por ciento de su capital social permanezca bajo la propiedad de la sociedad controladora de que se trate, dichas sociedades serán consideradas como integrantes del grupo financiero respectivo en términos del artículo 7 de la Ley para Regular las Agrupaciones Financieras, reformado por este Decreto, siempre y cuando se inscriban en el Registro Público de Comercio las reformas correspondientes a los estatutos sociales de la sociedad controladora, se modifique el convenio de responsabilidades a que se refiere el artículo 28 de la misma Ley y la Secretaría de Hacienda y Crédito Público apruebe la modificación a la autorización otorgada al grupo financiero de que se trate para constituirse y funcionar con tal carácter. Las responsabilidades de la controladora subsistirán en tanto no queden totalmente cumplidas todas las obligaciones contraídas por las sociedades que dejan de tener el carácter de arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado, antes de la inscripción señalada.
-DÉCIMO PRIMERO.- Los artículos Séptimo y Octavo del presente Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-DÉCIMO SEGUNDO.- Las instituciones de crédito y casas de bolsa que sean propietarias de acciones representativas del capital social de arrendadoras financieras y empresas de factoraje financiero, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple.
+**DÉCIMO PRIMERO.-** Los artículos Séptimo y Octavo del presente Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**DÉCIMO SEGUNDO.-** Las instituciones de crédito y casas de bolsa que sean propietarias de acciones representativas del capital social de arrendadoras financieras y empresas de factoraje financiero, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple.
 Las instituciones de crédito que sean propietarias de acciones representativas del capital social de sociedades financieras de objeto limitado, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple.
-DÉCIMO TERCERO.- Los procesos de conciliación y arbitraje seguidos conforme Ley de Protección y Defensa al Usuario de Servicios Financieros, que a la fecha de publicación del Presente Decreto se encuentren pendientes de resolver, seguirán rigiéndose por dicha Ley, hasta su conclusión.
-DÉCIMO CUARTO.- Por lo que se refiere a las sociedades de ahorro y préstamo, se estará al régimen
+**DÉCIMO TERCERO.-** Los procesos de conciliación y arbitraje seguidos conforme Ley de Protección y Defensa al Usuario de Servicios Financieros, que a la fecha de publicación del Presente Decreto se encuentren pendientes de resolver, seguirán rigiéndose por dicha Ley, hasta su conclusión.
+**DÉCIMO CUARTO.-** Por lo que se refiere a las sociedades de ahorro y préstamo, se estará al régimen
 
 ## transitorio
 
@@ -2649,10 +2606,7 @@ El artículo 112, fracción III de la Ley de Instituciones de Crédito vigente h
 Las instituciones de banca múltiple contarán con un plazo de 120 días naturales a partir de la fecha de publicación del presente Decreto para modificar sus estatutos sociales y los títulos representativos de su capital social, conforme a lo previsto en el mismo. Tratándose de la modificación de los estatutos sociales, éstos deberán someterse a la aprobación de la Secretaría de Hacienda y Crédito Público.
 
 ### ARTÍCULO DÉCIMO SÉPTIMO
-Las instituciones de crédito que tengan vínculos de negocio establecidos con personas que a la entrada en vigor del presente Decreto, se encuentren realizando operaciones al amparo del artículo 92, tendrán un plazo que no podrá exceder de dos meses para adecuarse a lo señalado en dicho artículo y en las disposiciones de carácter general a que se refiere el
-
-### artículo 46
-Bis 1 de esta Ley, a partir del día siguiente al de la entrada en vigor de dichas disposiciones.
+Las instituciones de crédito que tengan vínculos de negocio establecidos con personas que a la entrada en vigor del presente Decreto, se encuentren realizando operaciones al amparo del artículo 92, tendrán un plazo que no podrá exceder de dos meses para adecuarse a lo señalado en dicho artículo y en las disposiciones de carácter general a que se refiere el artículo 46 Bis 1 de esta Ley, a partir del día siguiente al de la entrada en vigor de dichas disposiciones.
 
 ### ARTÍCULO DÉCIMO OCTAVO
 Las instituciones que a la entrada en vigor de este Decreto, se ubiquen en alguno de los supuestos previstos en las fracciones III y IV del artículo 45-P, deberán de ajustarse a lo dispuesto en el Capítulo IV de esta Ley, en un plazo que no podrá exceder de doce meses contados a partir de dicha fecha.
@@ -2734,13 +2688,11 @@ V. En un plazo de noventa días naturales, la Secretaría de Hacienda y Crédito
 VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones jurídicas emitidas con anterioridad al presente Decreto, así como todos los contratos, convenios y demás actos jurídicos celebrados por la institución, hagan referencia a la Financiera Rural, se entenderá que hacen referencia a la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero. ………
 
 ### ARTÍCULO VIGÉSIMO TERCERO
-Se REFORMA el quinto párrafo del artículo 382, se ADICIONA el
-
-### artículo 336
-Bis y se DEROGA el cuarto párrafo del artículo 382 de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue: ……… Disposiciones Transitorias
+Se REFORMA el quinto párrafo del artículo 382, se ADICIONA el artículo 336 Bis y se DEROGA el cuarto párrafo del artículo 382 de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue: ……… Disposiciones Transitorias
 
 ### ARTÍCULO VIGÉSIMO QUINTO
-En relación con las modificaciones a que se refieren los Artículos Vigésimo Segundo a Vigésimo Cuarto de este Decreto, se estará a lo siguiente:
+En relación con las modificaciones a que se refieren los Artículos
+**Vigésimo Segundo.** a Vigésimo Cuarto de este Decreto, se estará a lo siguiente:
 
 I. La reforma al artículo 53 y lo dispuesto en el artículo 53 bis de la Ley Orgánica del Poder Judicial de la Federación que se adiciona, entrarán en vigor a los 6 meses siguientes al día de su publicación en el Diario Oficial de la Federación, excepto por lo que respecta a las fracciones I, V y VI del artículo 53 bis, las cuales entrarán en vigor a los 12 meses siguientes al día de su publicación en el Diario Oficial de la Federación.
 
@@ -2757,7 +2709,8 @@ Se REFORMAN los artículos 230; 234 y 395 en sus fracciones V, VI y VII; y se AD
 Disposiciones Transitorias
 
 ### ARTÍCULO TRIGÉSIMO
-En relación con las modificaciones a que se refieren los Artículos Vigésimo Octavo y Vigésimo Noveno de este Decreto, se estará a lo siguiente:
+En relación con las modificaciones a que se refieren los Artículos Vigésimo
+**Octavo.** y Vigésimo Noveno de este Decreto, se estará a lo siguiente:
 
 I. Quedarán sin efectos el Acuerdo por el que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio para el año de 2012, publicado en el Diario Oficial de la Federación el 30 de marzo de 2012, y la Resolución por la que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio para el año de 2013, publicada en el Diario Oficial de la Federación el 29 de marzo de 2013, únicamente en lo que se oponga al presente Decreto.
 

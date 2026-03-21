@@ -560,38 +560,21 @@ Se reforma el artículo 12, párrafos primero y cuarto; y se adiciona el párraf
 ### ARTÍCULO ÚNICO
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 24 de febrero de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Adrián Rivera Pérez, Secretario.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticinco de febrero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS DECRETO por el que se reforman diversos artículos de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del
-
-### artículo 73
-de la Constitución Política de los Estados Unidos Mexicanos y se adiciona el Publicado en el Diario Oficial de la Federación el 3 de junio de 2014
+DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS DECRETO por el que se reforman diversos artículos de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y se adiciona el Publicado en el Diario Oficial de la Federación el 3 de junio de 2014
 
 ### Artículo Primero
-Se reforman la fracción I del artículo 9; las fracciones I y II del artículo 10; el
-
-### artículo 11
-; el primero, cuarto y quinto párrafos del artículo 12; el artículo 13; el primer párrafo del artículo 14; el primer párrafo del artículo 15; el primer párrafo del artículo 16 y el artículo 17, de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del
-
-### artículo 73
-de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……….
+Se reforman la fracción I del artículo 9; las fracciones I y II del artículo 10; el artículo 11; el primero, cuarto y quinto párrafos del artículo 12; el artículo 13; el primer párrafo del artículo 14; el primer párrafo del artículo 15; el primer párrafo del artículo 16 y el artículo 17, de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……….
 
 ## Transitorio
 
 **Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del del Sistema Nacional de Seguridad Pública; de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del
-
-### Artículo 73
-de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito.
+DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del del Sistema Nacional de Seguridad Pública; de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito.
 Publicado en el Diario Oficial de la Federación el 17 de junio de 2016
 
 ### Artículo Quinto
-Se reforman los artículos 2, primer y tercer párrafos; 4, fracción VIII; 6; 7, primer párrafo; 15, fracciones IV y V del primer párrafo, e inciso a) del segundo párrafo; 16, segundo párrafo; 19, segundo párrafo y fracción V; 23, primer, tercer y cuarto párrafos; 24, primer párrafo; 25, primer párrafo; 26, segundo párrafo; 29, primer, quinto, fracción III y sexto párrafos; 32, primer párrafo, y fracciones I, IV, VII, IX y XI; 34, primer párrafo; 36; 40 fracción XIX; 43, fracción II; 46; 47; 48. Se adiciona la fracción X del artículo 4 y un segundo párrafo al artículo 7. Se derogan el segundo párrafo del artículo 1; segundo párrafo del artículo 2; la fracción IX del artículo 4; el segundo párrafo del artículo 20; el quinto párrafo del
-
-### artículo 23
-; segundo, tercero, cuarto y quintos párrafos del artículo 24; las fracciones I, II, III y IV del
-
-### artículo 25
-; tercer párrafo del artículo 26 y fracción VIII del artículo 32, de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ………
+Se reforman los artículos 2, primer y tercer párrafos; 4, fracción VIII; 6; 7, primer párrafo; 15, fracciones IV y V del primer párrafo, e inciso a) del segundo párrafo; 16, segundo párrafo; 19,
+**segundo.** párrafo y fracción V; 23, primer, tercer y cuarto párrafos; 24, primer párrafo; 25, primer párrafo; 26, segundo párrafo; 29, primer, quinto, fracción III y sexto párrafos; 32, primer párrafo, y fracciones I, IV, VII, IX y XI; 34, primer párrafo; 36; 40 fracción XIX; 43, fracción II; 46; 47; 48. Se adiciona la fracción X del artículo 4 y un segundo párrafo al artículo 7. Se derogan el segundo párrafo del artículo 1; segundo párrafo del artículo 2; la fracción IX del artículo 4; el segundo párrafo del artículo 20; el quinto párrafo del artículo 23; segundo, tercero, cuarto y quintos párrafos del artículo 24; las fracciones I, II, III y IV del artículo 25; tercer párrafo del artículo 26 y fracción VIII del artículo 32, de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -605,10 +588,7 @@ DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 **Quinto.-** Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
 **Sexto.-** La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
 Ciudad de México, a 15 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Verónica Delgadillo García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
-
-### Artículo 5o
-. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
+DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Tercero
@@ -623,10 +603,7 @@ DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS D
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 ### Artículo Décimo Tercero
-Se reforma el párrafo primero del artículo 29; la fracción I, del artículo 38; el párrafo primero del artículo 39; el párrafo primero del artículo 40; el artículo 41; y la fracción X del
-
-### artículo 43
-; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……..
+Se reforma el párrafo primero del artículo 29; la fracción I, del artículo 38; el párrafo primero del artículo 39; el párrafo primero del artículo 40; el artículo 41; y la fracción X del artículo 43; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……..
 
 ## Transitorios
 

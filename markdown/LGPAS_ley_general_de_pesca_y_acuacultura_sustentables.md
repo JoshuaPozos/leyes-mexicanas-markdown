@@ -16,13 +16,8 @@ Se expide la Ley General de Pesca y Acuacultura Sustentables. .
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
 ## CAPÍTULO I — DEL OBJETO
-
-### ARTÍCULO 1o
-.- La presente Ley es de orden público e interés social, reglamentaria del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y tiene por objeto regular, fomentar y administrar el aprovechamiento de los recursos pesqueros y acuícolas en el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción; del 73 fracción XXIX-L para establecer las bases para el ejercicio de las atribuciones que en la materia corresponden a la federación, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, bajo el principio de concurrencia y con la participación de los productores pesqueros, así como de las demás disposiciones previstas en la propia Constitución que tienen como fin propiciar el desarrollo integral y sustentable de la pesca y la acuacultura.
-Artículo reformado DOF 19-01-2018
-
-### ARTÍCULO 2o
-.- Son objetivos de esta Ley:
+ARTÍCULO 1o.- La presente Ley es de orden público e interés social, reglamentaria del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y tiene por objeto regular, fomentar y administrar el aprovechamiento de los recursos pesqueros y acuícolas en el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción; del 73 fracción XXIX-L para establecer las bases para el ejercicio de las atribuciones que en la materia corresponden a la federación, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, bajo el principio de concurrencia y con la participación de los productores pesqueros, así como de las demás disposiciones previstas en la propia Constitución que tienen como fin propiciar el desarrollo integral y sustentable de la pesca y la acuacultura.
+Artículo reformado DOF 19-01-2018 ARTÍCULO 2o.- Son objetivos de esta Ley:
 
 I. Establecer y definir los principios para ordenar, fomentar y regular el manejo integral y el aprovechamiento sustentable de la pesca y la acuacultura, considerando los aspectos sociales, tecnológicos, productivos, biológicos y ambientales;
 
@@ -54,18 +49,14 @@ XIII. Establecer las bases para la realización de acciones de inspección y vig
 XIV. Establecer las infracciones y sanciones correspondientes por incumplimiento o violación a las disposiciones de esta Ley, sus reglamentos y las normas oficiales mexicanas que deriven de la misma, y
 
 XV. Proponer mecanismos para garantizar que la pesca y la acuacultura se orienten a la producción de alimentos.
-
-### ARTÍCULO 3o
-.- La presente Ley, para los efectos de las actividades pesqueras y acuícolas, tendrá aplicación en:
+ARTÍCULO 3o.- La presente Ley, para los efectos de las actividades pesqueras y acuícolas, tendrá aplicación en:
 
 I. Los recursos naturales que constituyen la flora y fauna cuyo medio de vida total, parcial o temporal, sea el agua, de conformidad con el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Todo el territorio nacional y en las zonas en donde la Nación ejerce derechos de soberanía y jurisdicción respecto de la verificación del cumplimiento de sus preceptos, reglamentos, normas oficiales mexicanas y demás disposiciones que de ella deriven, y
 
 III. Las embarcaciones de bandera mexicana o extranjera que realicen actividades pesqueras en todo el territorio nacional y en las áreas en las que el Estado mexicano goza de derechos de acuerdo con las disposiciones del derecho internacional que resulten aplicables.
-
-### ARTÍCULO 4o
-.- Para los efectos de esta Ley, se entiende por:
+ARTÍCULO 4o.- Para los efectos de esta Ley, se entiende por:
 
 I. Acuacultura: Es el conjunto de actividades dirigidas a la reproducción controlada, preengorda y engorda de especies de la fauna y flora realizadas en instalaciones ubicadas en aguas dulces, marinas o salobres, por medio de técnicas de cría o cultivo, que sean susceptibles de explotación comercial, ornamental o recreativa;
 
@@ -167,24 +158,15 @@ XLVI. Unidad de manejo acuícola: Se integra con las áreas comprendidas en una 
 XLVII. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo o zona específica establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie;
 L (sic DOF 24-07-2007). Zona de escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de especies acuáticas vivas, en una especie y periodo específicos;
 LI (sic DOF 24-07-2007). Zona de Refugio: Las áreas delimitadas en las aguas de jurisdicción federal, con la finalidad primordial de conservar y contribuir, natural o artificialmente, al desarrollo de los recursos pesqueros con motivo de su reproducción, crecimiento o reclutamiento, así como preservar y proteger el ambiente que lo rodea.
-
-### ARTÍCULO 5o
-.- En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en otras leyes relacionadas con las materias que regula este ordenamiento.
+ARTÍCULO 5o.- En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en otras leyes relacionadas con las materias que regula este ordenamiento.
 
 ## TÍTULO SEGUNDO — COMPETENCIAS Y CONCURRENCIA EN MATERIA DE PESCA Y ACUACULTURA
 
 ## CAPÍTULO I — DE LA DISTRIBUCIÓN DE COMPETENCIAS
-
-### ARTÍCULO 6o
-.- La Federación, las Entidades Federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
-Artículo reformado DOF 19-01-2018
-
-### ARTÍCULO 7o
-.- Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría, salvo las que directamente correspondan al Presidente de la República por disposición expresa de la ley.
+ARTÍCULO 6o.- La Federación, las Entidades Federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
+Artículo reformado DOF 19-01-2018 ARTÍCULO 7o.- Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría, salvo las que directamente correspondan al Presidente de la República por disposición expresa de la ley.
 Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública Federal u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
-
-### ARTÍCULO 8o
-.- Corresponde a la Secretaría el ejercicio de las siguientes facultades:
+ARTÍCULO 8o.- Corresponde a la Secretaría el ejercicio de las siguientes facultades:
 
 I. Regular, fomentar y administrar el aprovechamiento de los recursos pesqueros y acuícolas;
 
@@ -272,10 +254,7 @@ Fracción adicionada DOF 23-01-2014. Reformada DOF 24-04-2018
 XLI. Otorgar el Premio a la Pesca y Acuacultura Sustentables, y Fracción adicionada DOF 24-04-2018
 
 XLII. Las demás que expresamente le atribuya esta ley, sus disposiciones reglamentarias, las normas oficiales, así como las demás disposiciones aplicables.
-Fracción reformada y recorrida DOF 23-01-2014. Recorrida DOF 24-04-2018
-
-### ARTÍCULO 9o
-.- De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la SEMARNAT se coordinará con la Secretaría para el cumplimiento de los objetivos previstos en la presente Ley, en materia de preservación, restauración del equilibrio ecológico y la protección del ambiente, particularmente, en los siguientes aspectos:
+Fracción reformada y recorrida DOF 23-01-2014. Recorrida DOF 24-04-2018 ARTÍCULO 9o.- De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la SEMARNAT se coordinará con la Secretaría para el cumplimiento de los objetivos previstos en la presente Ley, en materia de preservación, restauración del equilibrio ecológico y la protección del ambiente, particularmente, en los siguientes aspectos:
 
 I. En áreas naturales protegidas, de acuerdo con la declaratoria de creación o el programa de manejo, emitir recomendaciones sustentadas, fundadas y motivadas, sobre los permisos y concesiones de pesca y acuacultura que se pretendan otorgar, así como los volúmenes de pesca incidental;
 
@@ -286,9 +265,7 @@ III. Fomentar, promover áreas de protección, restauración, rehabilitación y 
 IV. Participar en la formulación del proyecto de Carta Nacional Pesquera, en los términos establecidos en esta Ley y demás ordenamientos aplicables; y
 
 V. Dictar las medidas tendientes a la protección de los quelonios, mamíferos marinos y especies acuáticas sujetas a un estado especial de protección y determinarlas con la participación de la Secretaría y otras dependencias competentes. Asimismo, establecerá las vedas, totales o parciales, referentes a estas especies.
-
-### ARTÍCULO 10
-.- De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la Secretaría de Marina, para el cumplimiento de los objetivos previstos en la presente Ley, en coordinación con la Secretaría, llevará a cabo:
+ARTÍCULO 10.- De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la Secretaría de Marina, para el cumplimiento de los objetivos previstos en la presente Ley, en coordinación con la Secretaría, llevará a cabo:
 
 I. La vigilancia en las zonas marinas mexicanas y realizar las inspecciones que se requieran para verificar el cumplimiento de las disposiciones en materia de pesca, de conformidad con la legislación nacional, así como con los Tratados Internacionales vigentes en los que México sea parte;
 
@@ -299,9 +276,7 @@ III. Las actividades de apoyo o coadyuvancia en su caso, al Ministerio Público,
 IV. Las demás que establezcan otras disposiciones y que se relacionen directamente con las actividades pesqueras.
 
 ## CAPÍTULO II — DE LA COORDINACIÓN
-
-### ARTÍCULO 11
-.- Para la consecución de los objetivos de la presente Ley, la Secretaría podrá celebrar convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de que éstas, con la participación, en su caso, de sus municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, asuman las siguientes funciones:
+ARTÍCULO 11.- Para la consecución de los objetivos de la presente Ley, la Secretaría podrá celebrar convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de que éstas, con la participación, en su caso, de sus municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, asuman las siguientes funciones:
 Párrafo reformado DOF 19-01-2018
 
 I. La administración de los permisos para la realización de pesca deportivo-recreativa;
@@ -315,9 +290,7 @@ IV. El ordenamiento territorial y la sanidad de los desarrollos acuícolas;
 V. La realización de acciones operativas tendientes a cumplir con los fines previstos en este ordenamiento, o
 
 VI. La inspección y vigilancia del cumplimiento de esta Ley y demás disposiciones que de ella deriven.
-
-### ARTÍCULO 12
-.- Los convenios y acuerdos de coordinación que suscriba la Federación, por conducto de la Secretaría, con los gobiernos de las entidades federativas, con la participación, en su caso, de sus municipios y las demarcaciones territoriales de la Ciudad de México deberán sujetarse a lo siguiente:
+ARTÍCULO 12.- Los convenios y acuerdos de coordinación que suscriba la Federación, por conducto de la Secretaría, con los gobiernos de las entidades federativas, con la participación, en su caso, de sus municipios y las demarcaciones territoriales de la Ciudad de México deberán sujetarse a lo siguiente:
 Párrafo reformado DOF 19-01-2018
 
 I. Establecer su objeto con precisión, las materias y facultades que se asumirán, que deberán ser acordes con la política nacional de pesca y acuacultura sustentables;
@@ -332,9 +305,7 @@ V. Definirán la vigencia del instrumento, sus formas de modificación y termina
 Los convenios y acuerdos de coordinación, así como sus modificaciones, deberán publicarse en el Diario Oficial de la Federación y en el órgano de difusión oficial del gobierno local respectivo.
 
 ## CAPÍTULO III — DE LA CONCURRENCIA
-
-### ARTÍCULO 13
-.- Corresponden a los gobiernos de las Entidades Federativas, en el ámbito de su competencia de conformidad con lo dispuesto en esta Ley y lo que establezcan las leyes locales en la materia, las siguientes facultades:
+ARTÍCULO 13.- Corresponden a los gobiernos de las Entidades Federativas, en el ámbito de su competencia de conformidad con lo dispuesto en esta Ley y lo que establezcan las leyes locales en la materia, las siguientes facultades:
 Párrafo reformado DOF 19-01-2018
 
 I. Diseñar y aplicar la política, los instrumentos y los programas para la pesca y la acuacultura estatal, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, vinculándolos con los programas nacionales, sectoriales y regionales, así como con su respectivo Plan de Desarrollo de la entidad federativa;
@@ -391,10 +362,7 @@ Fracción reformada DOF 23-01-2014
 XVII. Coordinarse con la Federación, con otras Entidades Federativas, con sus Municipios o, en su caso, con las demarcaciones territoriales de la Ciudad de México en materia de pesca y acuacultura sustentables, para la implementación de acciones para la mitigación y adaptación al cambio climático, y Fracción adicionada DOF 23-01-2014. Reformada DOF 19-01-2018
 
 XVIII. Las demás que no estén otorgadas expresamente a la Federación.
-Fracción recorrida DOF 23-01-2014
-
-### ARTÍCULO 14
-.- Corresponden a los Municipios en el ámbito de su competencia y, en su caso, a las demarcaciones territoriales de la Ciudad de México, y de conformidad con lo dispuesto en esta Ley y lo que establezcan las leyes locales en la materia, las siguientes facultades:
+Fracción recorrida DOF 23-01-2014 ARTÍCULO 14.- Corresponden a los Municipios en el ámbito de su competencia y, en su caso, a las demarcaciones territoriales de la Ciudad de México, y de conformidad con lo dispuesto en esta Ley y lo que establezcan las leyes locales en la materia, las siguientes facultades:
 Párrafo reformado DOF 19-01-2018
 
 I. Diseñar y aplicar la política y los programas locales para la pesca y la acuacultura, vinculándolos con los programas nacionales, de las entidades federativas y regionales;
@@ -416,22 +384,15 @@ Fracción reformada DOF 19-01-2018
 VII. Promover y fomentar la actividad acuícola, en armonía con la preservación del ambiente y la conservación de la biodiversidad; y
 
 VIII. Participar, de conformidad con los acuerdos y convenios que se celebren con las autoridades competentes, en la inspección y vigilancia en su jurisdicción.
-
-### ARTÍCULO 15
-.- Las legislaturas de las entidades federativas, con arreglo a sus respectivas Constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley. Los ayuntamientos, por su parte, dictarán los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que, en sus respectivas circunscripciones, se cumplan las previsiones del presente ordenamiento y, en su caso, las demarcaciones territoriales de la Ciudad de México.
+ARTÍCULO 15.- Las legislaturas de las entidades federativas, con arreglo a sus respectivas Constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley. Los ayuntamientos, por su parte, dictarán los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que, en sus respectivas circunscripciones, se cumplan las previsiones del presente ordenamiento y, en su caso, las demarcaciones territoriales de la Ciudad de México.
 En el ejercicio de sus atribuciones, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, observarán las disposiciones de esta Ley y las que de ella se deriven.
-Artículo reformado DOF 19-01-2018
-
-### ARTÍCULO 16
-.- Las contribuciones que por el aprovechamiento de los recursos pesqueros y acuícolas se generen, así como los que se obtengan por el otorgamiento de concesiones o permisos y por cualquier otro concepto relacionado con esta actividad y cuya administración se efectúe por los gobiernos locales, ingresarán a sus haciendas públicas, con base en lo señalado en la Ley de Coordinación Fiscal, y deberán aplicarse en los programas relacionados con el sector pesquero y acuícola.
+Artículo reformado DOF 19-01-2018 ARTÍCULO 16.- Las contribuciones que por el aprovechamiento de los recursos pesqueros y acuícolas se generen, así como los que se obtengan por el otorgamiento de concesiones o permisos y por cualquier otro concepto relacionado con esta actividad y cuya administración se efectúe por los gobiernos locales, ingresarán a sus haciendas públicas, con base en lo señalado en la Ley de Coordinación Fiscal, y deberán aplicarse en los programas relacionados con el sector pesquero y acuícola.
 Los convenios y acuerdos de coordinación deberán publicarse en el Diario Oficial de la Federación y en el órgano de difusión oficial del gobierno local respectivo.
 
 ## TÍTULO TERCERO — DE LA POLÍTICA NACIONAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
 ## CAPÍTULO I — PRINCIPIOS GENERALES
-
-### ARTÍCULO 17
-.- Para la formulación y conducción de la Política Nacional de Pesca y Acuacultura Sustentables, en la aplicación de los programas y los instrumentos que se deriven de ésta Ley, se deberán observar los siguientes principios:
+ARTÍCULO 17.- Para la formulación y conducción de la Política Nacional de Pesca y Acuacultura Sustentables, en la aplicación de los programas y los instrumentos que se deriven de ésta Ley, se deberán observar los siguientes principios:
 
 I. El Estado Mexicano reconoce que la pesca y la acuacultura son actividades que fortalecen la soberanía alimentaria y territorial de la nación, que son asuntos de seguridad nacional y son prioridad para la planeación nacional del desarrollo y la gestión integral de los recursos pesqueros y acuícolas;
 
@@ -472,18 +433,11 @@ Fracción adicionada DOF 17-03-2015
 XV. La transparencia en los procedimientos administrativos relativos al otorgamiento de concesiones y permisos para realizar actividades pesqueras y acuícolas, así como en las medidas para el control del esfuerzo pesquero, para que sean eficaces e incorporen mecanismos de control accesibles a los productores, y Fracción recorrida DOF 17-03-2015
 
 XVI. La participación, consenso y compromiso de los productores y sus comunidades en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas.
-Fracción recorrida DOF 17-03-2015
-
-### ARTÍCULO 18
-.- Las entidades federativas y los municipios en el ámbito de sus competencias, observarán y aplicarán los principios a que se refiere el artículo anterior.
-
-### ARTÍCULO 19
-.- En la planeación nacional del desarrollo se deberá incorporar la política nacional de pesca y acuacultura que se establezca de conformidad con esta Ley y las demás disposiciones en la materia.
+Fracción recorrida DOF 17-03-2015 ARTÍCULO 18.- Las entidades federativas y los municipios en el ámbito de sus competencias, observarán y aplicarán los principios a que se refiere el artículo anterior.
+ARTÍCULO 19.- En la planeación nacional del desarrollo se deberá incorporar la política nacional de pesca y acuacultura que se establezca de conformidad con esta Ley y las demás disposiciones en la materia.
 En la planeación y realización de las acciones a cargo de las dependencias y entidades de la Administración Pública Federal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno Federal para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política nacional de pesca y acuacultura que establezcan el Plan Nacional de Desarrollo y los programas correspondientes.
 Las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad pesquera y acuícola, deberán sujetarse a las disposiciones de las Leyes de Ingresos, Federal de Presupuesto y Responsabilidad Hacendaria y del Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda y deberán asegurar su eficacia, selectividad y transparencia. En todo caso los programas e instrumentos económicos deberán prever la canalización efectiva y suficiente de apoyos para fomentar las actividades pesquera y acuícola.
-
-### ARTÍCULO 20
-.- El Programa Nacional de Pesca y Acuacultura, se sujetará a las previsiones del Plan Nacional de Desarrollo y contemplará, entre otros aspectos:
+ARTÍCULO 20.- El Programa Nacional de Pesca y Acuacultura, se sujetará a las previsiones del Plan Nacional de Desarrollo y contemplará, entre otros aspectos:
 
 I. Información general sobre la distribución y abundancia de las especies susceptibles de aprovechamiento comercial;
 
@@ -517,28 +471,19 @@ Fracción reformada DOF 10-11-2014
 XIV. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal, y Fracción reformada DOF 10-11-2014
 
 XV. Apoyos a los pescadores y acuacultores que se dediquen de manera legal y sustentable a la captura y al cultivo de los recursos pesqueros y acuícolas en aguas nacionales, tanto marinas como continentales.
-Fracción adicionada DOF 10-11-2014
-
-### ARTÍCULO 21
-.- Para las acciones de inspección y vigilancia, la Secretaría, con la participación que corresponda a la Secretaría de Marina, tendrá como función primordial la salvaguarda de los recursos pesqueros y acuícolas, así como la prevención de infracciones administrativas.
+Fracción adicionada DOF 10-11-2014 ARTÍCULO 21.- Para las acciones de inspección y vigilancia, la Secretaría, con la participación que corresponda a la Secretaría de Marina, tendrá como función primordial la salvaguarda de los recursos pesqueros y acuícolas, así como la prevención de infracciones administrativas.
 La Secretaría, en coordinación con los gobiernos de las entidades federativas y con la colaboración de los productores pesqueros y acuícolas, pueblos y comunidades indígenas y afromexicanas, los gobiernos municipales y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal, especialmente en las zonas sobreexplotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la presente Ley y otras disposiciones aplicables.
 Párrafo reformado DOF 01-04-2024 La Secretaría dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el Programa y promoverá la participación de las demás dependencias y entidades de la Administración Pública Federal, de las entidades federativas y de los municipios, en los términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
 
 ## CAPÍTULO II — DEL CONSEJO NACIONAL DE PESCA Y ACUACULTURA
-
-### ARTÍCULO 22
-.- A efecto de proponer programas de carácter regional, estatal y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y acuacultura, fortalecer las acciones de inspección y vigilancia, así como para la descentralización de programas, recursos y funciones, el Consejo Nacional de Pesca y Acuacultura se convertirá en un foro intersectorial de apoyo, coordinación, consulta, concertación y asesoría, que será convocado cuando menos una vez al año y será presidido por el titular de la Secretaría con la colaboración de CONAPESCA, que tendrá como objeto proponer las políticas, programas, proyectos e instrumentos tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesqueras y acuícolas, así como a incrementar la competitividad de los sectores productivos.
+ARTÍCULO 22.- A efecto de proponer programas de carácter regional, estatal y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y acuacultura, fortalecer las acciones de inspección y vigilancia, así como para la descentralización de programas, recursos y funciones, el Consejo Nacional de Pesca y Acuacultura se convertirá en un foro intersectorial de apoyo, coordinación, consulta, concertación y asesoría, que será convocado cuando menos una vez al año y será presidido por el titular de la Secretaría con la colaboración de CONAPESCA, que tendrá como objeto proponer las políticas, programas, proyectos e instrumentos tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesqueras y acuícolas, así como a incrementar la competitividad de los sectores productivos.
 El Consejo estará conformado por representantes de las dependencias y entidades de la Administración Pública Federal relacionadas con las atribuciones de la Secretaría, representantes de las organizaciones sociales y de productores de los sectores pesquero y acuícola, así como por los titulares de las dependencias competentes en estas materias de los gobiernos de las entidades federativas del país, y participará en el Comité Mixto del Fondo Mexicano para el Desarrollo Pesquero y Acuícola.
-
-### ARTÍCULO 23
-.- La Secretaría promoverá la integración de Consejos Estatales de Pesca y Acuacultura en las entidades federativas del país. La Secretaría podrá solicitar al Consejo Estatal de que se trate, opiniones y observaciones técnicas respecto de las solicitudes de aprovechamiento de recursos pesqueros y acuícolas, previamente a que sean resueltas. El Consejo correspondiente contará con quince días hábiles para emitir su opinión.
+ARTÍCULO 23.- La Secretaría promoverá la integración de Consejos Estatales de Pesca y Acuacultura en las entidades federativas del país. La Secretaría podrá solicitar al Consejo Estatal de que se trate, opiniones y observaciones técnicas respecto de las solicitudes de aprovechamiento de recursos pesqueros y acuícolas, previamente a que sean resueltas. El Consejo correspondiente contará con quince días hábiles para emitir su opinión.
 
 ## TÍTULO CUARTO — DEL FOMENTO A LA PESCA Y A LA ACUACULTURA
 
 ## CAPÍTULO I — DEL FOMENTO
-
-### ARTÍCULO 24
-.- La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes, y en lo que corresponda, con los gobiernos de las entidades federativas, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
+ARTÍCULO 24.- La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes, y en lo que corresponda, con los gobiernos de las entidades federativas, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
 
 I. Establecerá servicios de investigación en reproducción, genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a las personas y organizaciones que se dediquen a esas actividades;
 
@@ -549,9 +494,7 @@ III. Fomentará, promoverá y realizará acciones tendientes a: a. La formulaci�
 IV. La Secretaría podrá vender los productos obtenidos de la reproducción de especies generadas en sus centros acuícolas, de conformidad con las disposiciones de la Ley de Ingresos de la Federación; y
 
 V. Promoverá el ordenamiento de la pesca y acuacultura y diseñará estructuras y mecanismos para el otorgamiento de créditos a sus beneficiarios y su capacitación, así como para instrumentar servicios de comercialización de productos, investigación y adaptación al cambio tecnológico.
-
-### ARTÍCULO 25
-.- En materia de pesca deportivo-recreativa, la Secretaría fomentará la práctica y el desarrollo de esta actividad, para lo cual, en coordinación con las dependencias y entidades competentes y con los sectores interesados:
+ARTÍCULO 25.- En materia de pesca deportivo-recreativa, la Secretaría fomentará la práctica y el desarrollo de esta actividad, para lo cual, en coordinación con las dependencias y entidades competentes y con los sectores interesados:
 
 I. Promoverá la construcción de la infraestructura necesaria para esta actividad;
 
@@ -566,14 +509,10 @@ V. Fomentará la práctica de capturar y liberar, y
 VI. Promoverá la celebración de convenios con organizaciones, prestadores de servicios y particulares para facilitar la obtención de los permisos que se requieran para la pesca deportivo-recreativa, mediante el pago de los derechos correspondientes.
 
 ## CAPÍTULO II — DEL FONDO MEXICANO PARA EL DESARROLLO PESQUERO Y ACUÍCOLA PROMAR
-
-### ARTÍCULO 26
-.- El Fondo Mexicano para el Desarrollo Pesquero y Acuícola, PROMAR, será el instrumento para promover la creación y operación de esquemas de financiamiento para la conservación, incremento y aprovechamiento sustentable de los recursos pesqueros y acuícolas, la investigación, el desarrollo y transferencia de tecnología, facilitando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva y desarrollando los mecanismos adecuados, así como para garantizar a las instituciones financieras de banca de desarrollo, Financiera Rural o a los Intermediarios Financieros Rurales que operen con el Fondo, la recuperación de los créditos que se otorguen a las organizaciones de productores pesqueros y acuícolas.
+ARTÍCULO 26.- El Fondo Mexicano para el Desarrollo Pesquero y Acuícola, PROMAR, será el instrumento para promover la creación y operación de esquemas de financiamiento para la conservación, incremento y aprovechamiento sustentable de los recursos pesqueros y acuícolas, la investigación, el desarrollo y transferencia de tecnología, facilitando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva y desarrollando los mecanismos adecuados, así como para garantizar a las instituciones financieras de banca de desarrollo, Financiera Rural o a los Intermediarios Financieros Rurales que operen con el Fondo, la recuperación de los créditos que se otorguen a las organizaciones de productores pesqueros y acuícolas.
 El Fondo Mexicano para el Desarrollo Pesquero y Acuícola, operará a través de un Comité Mixto, en el habrá una representación equilibrada y proporcionada del sector público federal, las entidades federativas, así como de las organizaciones privadas y sociales de productores pesqueros y acuícolas.
 La existencia del fondo no limita la creación de diversos fondos privados o sociales que tengan una relación directa con el desarrollo pesquero y acuícola.
-
-### ARTÍCULO 27
-.- El Fondo Mexicano para el Desarrollo Pesquero y Acuícola se podrá integrar con:
+ARTÍCULO 27.- El Fondo Mexicano para el Desarrollo Pesquero y Acuícola se podrá integrar con:
 
 I. Las aportaciones que efectúen los gobiernos federal, de las entidades federativas y municipales;
 Fracción reformada DOF 19-01-2018
@@ -591,9 +530,7 @@ VI. Los demás recursos que obtenga por cualquier otro concepto.
 ## TÍTULO QUINTO — DE LA INVESTIGACIÓN Y CAPACITACIÓN PESQUERA Y ACUÍCOLA
 
 ## CAPÍTULO I — DE LA INVESTIGACIÓN Y CAPACITACIÓN
-
-### ARTÍCULO 28
-.- La investigación científica y tecnológica en pesca y acuacultura, así como la capacitación en estas materias, tendrán como propósitos esenciales:
+ARTÍCULO 28.- La investigación científica y tecnológica en pesca y acuacultura, así como la capacitación en estas materias, tendrán como propósitos esenciales:
 
 I. Orientar las decisiones de las autoridades competentes en materia de pesca y acuacultura, relativas a la conservación, protección, restauración y aprovechamiento sustentable de los recursos pesqueros y acuícolas;
 
@@ -608,9 +545,7 @@ V. Brindar elementos para determinar las condiciones en que deben realizarse la 
 VI. Desarrollar investigación en materia de sanidad e inocuidad acuícola y pesquera, y
 
 VII. Brindar elementos para el establecimiento de medidas encaminadas a protección de especies pesqueras sobreexplotadas.
-
-### ARTÍCULO 29
-.- El IMIPAS será el órgano administrativo con personalidad jurídica y patrimonio propio, encargado de dirigir, coordinar y orientar la investigación científica y tecnológica en materia de: pesca y acuacultura, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector pesquero y acuícola.
+ARTÍCULO 29.- El IMIPAS será el órgano administrativo con personalidad jurídica y patrimonio propio, encargado de dirigir, coordinar y orientar la investigación científica y tecnológica en materia de: pesca y acuacultura, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector pesquero y acuícola.
 Párrafo reformado DOF 07-06-2012, 04-12-2023 Para el cumplimiento de su objetivo el IMIPAS contará, entre otras, con las siguientes atribuciones:
 Párrafo reformado DOF 04-12-2023
 
@@ -651,27 +586,16 @@ XVII. Designar observadores a bordo en las embarcaciones o en las instalaciones 
 
 XVIII. Las demás que expresamente le atribuya ésta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven, las leyes y reglamentos correspondientes vinculados al ámbito de la pesca y la acuacultura.
 El IMIPAS contará con centros regionales y estatales de investigación acuícola y pesquera.
-Párrafo reformado DOF 04-12-2023
-
-### ARTÍCULO 30
-.- El IMIPAS contará con un Comité Asesor Técnico y Científico, que se integrará por el Titular del Instituto, quien lo presidirá, un Coordinador General y por representantes de la Red Nacional de Información e Investigación en Pesca y Acuacultura. El Comité asesor técnico científico se integrará, organizará y funcionará en los términos que señale el reglamento que para tal efecto se dicte.
-Artículo reformado DOF 04-12-2023
-
-### ARTÍCULO 31
-.- El IMIPAS promoverá y coordinará la integración de la Red Nacional e Información e Investigación en Pesca y Acuacultura, con el objeto de vincular y fortalecer la investigación científica y el desarrollo tecnológico, así como desarrollo, innovación y transferencia tecnológica para el manejo y administración de los recursos pesqueros y el desarrollo ordenado de la acuacultura.
+Párrafo reformado DOF 04-12-2023 ARTÍCULO 30.- El IMIPAS contará con un Comité Asesor Técnico y Científico, que se integrará por el Titular del Instituto, quien lo presidirá, un Coordinador General y por representantes de la Red Nacional de Información e Investigación en Pesca y Acuacultura. El Comité asesor técnico científico se integrará, organizará y funcionará en los términos que señale el reglamento que para tal efecto se dicte.
+Artículo reformado DOF 04-12-2023 ARTÍCULO 31.- El IMIPAS promoverá y coordinará la integración de la Red Nacional e Información e Investigación en Pesca y Acuacultura, con el objeto de vincular y fortalecer la investigación científica y el desarrollo tecnológico, así como desarrollo, innovación y transferencia tecnológica para el manejo y administración de los recursos pesqueros y el desarrollo ordenado de la acuacultura.
 Párrafo reformado DOF 04-12-2023 La Red Nacional de Información e Investigación en Pesca y Acuacultura estará integrada por los centros de investigación, universidades, escuelas o cualquier institución académica con reconocimiento en el ámbito de las ciencias marinas, pesqueras y de acuacultura, que sea aceptado para su incorporación a la Red.
 El IMIPAS evaluará los resultados de las investigaciones realizadas por las instituciones integrantes de la Red y, en su caso, les otorgará la validez para que puedan ser tomadas en cuenta por las unidades administrativas de la Secretaría, para establecer las medidas de regulación, manejo y conservación de los recursos pesqueros y acuícolas.
 Párrafo reformado DOF 04-12-2023
 
 ## CAPÍTULO II — DE LA CARTA NACIONAL PESQUERA
-
-### ARTÍCULO 32
-.- La Carta Nacional Pesquera es la presentación cartográfica y escrita que contiene el resumen de la información necesaria del diagnóstico y evaluación integral de la actividad pesquera y acuícola, así como de los indicadores sobre la disponibilidad y conservación de los recursos pesqueros y acuícolas, en aguas de jurisdicción federal. Su contenido tendrá carácter informativo para los sectores productivos y será vinculante en la toma de decisiones de la autoridad pesquera en la adopción e implementación de instrumentos y medidas para el control del esfuerzo pesquero, en la resolución de solicitudes de concesiones y permisos para la realización de actividades pesqueras y acuícolas, y en la implementación y ejecución de acciones y medidas relacionadas con dichos actos administrativos.
+ARTÍCULO 32.- La Carta Nacional Pesquera es la presentación cartográfica y escrita que contiene el resumen de la información necesaria del diagnóstico y evaluación integral de la actividad pesquera y acuícola, así como de los indicadores sobre la disponibilidad y conservación de los recursos pesqueros y acuícolas, en aguas de jurisdicción federal. Su contenido tendrá carácter informativo para los sectores productivos y será vinculante en la toma de decisiones de la autoridad pesquera en la adopción e implementación de instrumentos y medidas para el control del esfuerzo pesquero, en la resolución de solicitudes de concesiones y permisos para la realización de actividades pesqueras y acuícolas, y en la implementación y ejecución de acciones y medidas relacionadas con dichos actos administrativos.
 La elaboración y actualización de la Carta Nacional Pesquera estará a cargo del IMIPAS, con la participación que le corresponda a las demás unidades administrativas de la Secretaría y las contribuciones del sector académico y productivo, que deberán hacerse del conocimiento del Comité Asesor Técnico Científico del IMIPAS y deberá publicarse en el Diario Oficial de la Federación cada dos años y podrán publicarse actualizaciones de las fichas individuales, sin que el total de la Carta pierda su validez.
-Párrafo reformado DOF 07-12-2022, 04-12-2023
-
-### ARTÍCULO 33
-.- La Carta Nacional Pesquera, contendrá:
+Párrafo reformado DOF 07-12-2022, 04-12-2023 ARTÍCULO 33.- La Carta Nacional Pesquera, contendrá:
 
 I. El inventario de los recursos pesqueros que se encuentran en aguas de jurisdicción federal, susceptibles de aprovechamiento;
 
@@ -682,21 +606,14 @@ III. Los lineamientos, estrategias y demás previsiones para la conservación, p
 IV. Las normas aplicables en materia de preservación, protección, aprovechamiento de los recursos pesqueros, incluyendo las relativas a la sanidad, calidad e inocuidad de los productos pesqueros, y
 
 V. La demás información que se determine en el Reglamento de la presente Ley.
-
-### ARTÍCULO 34
-.- La SEMARNAT participará en la revisión del proyecto de Carta Nacional Pesquera y sus actualizaciones. Para tales efectos, contará con un plazo de cuarenta y cinco días contados a partir de que reciba el proyecto, enviado por el IMIPAS, pudiendo solicitar información adicional si así lo requiere y emitir, en su caso, las observaciones y recomendaciones que considere pertinentes, debidamente motivadas y fundamentadas, las cuales serán tomadas en cuenta por el IMIPAS en la formulación del documento definitivo.
+ARTÍCULO 34.- La SEMARNAT participará en la revisión del proyecto de Carta Nacional Pesquera y sus actualizaciones. Para tales efectos, contará con un plazo de cuarenta y cinco días contados a partir de que reciba el proyecto, enviado por el IMIPAS, pudiendo solicitar información adicional si así lo requiere y emitir, en su caso, las observaciones y recomendaciones que considere pertinentes, debidamente motivadas y fundamentadas, las cuales serán tomadas en cuenta por el IMIPAS en la formulación del documento definitivo.
 Si en el plazo señalado la SEMARNAT no realiza observaciones o recomendaciones al proyecto de Carta Nacional Pesquera o a sus actualizaciones, se entenderá que no existe objeción de su parte al contenido de dicho proyecto y el IMIPAS lo turnará a la Secretaría para su expedición.
-Artículo reformado DOF 04-12-2023
-
-### ARTÍCULO 35
-.- Bajo el marco de coordinación y durante la elaboración del proyecto y previo a la publicación de la Carta Nacional Pesquera y sus actualizaciones, la Secretaría deberá solicitar la opinión de las dependencias de la Administración Pública Federal que deban intervenir, de conformidad con sus atribuciones, para que en un plazo no mayor de treinta días la emitan.
+Artículo reformado DOF 04-12-2023 ARTÍCULO 35.- Bajo el marco de coordinación y durante la elaboración del proyecto y previo a la publicación de la Carta Nacional Pesquera y sus actualizaciones, la Secretaría deberá solicitar la opinión de las dependencias de la Administración Pública Federal que deban intervenir, de conformidad con sus atribuciones, para que en un plazo no mayor de treinta días la emitan.
 
 ## TÍTULO SEXTO — INSTRUMENTOS DE LA POLÍTICA PESQUERA
 
 ## CAPÍTULO I — DE LOS INSTRUMENTOS
-
-### ARTÍCULO 36
-.- Para los fines y objetivos de la presente Ley, se reconocen como instrumentos de la política pesquera a los siguientes:
+ARTÍCULO 36.- Para los fines y objetivos de la presente Ley, se reconocen como instrumentos de la política pesquera a los siguientes:
 
 I. Los programas de ordenamiento pesquero;
 
@@ -706,9 +623,7 @@ III. Las concesiones y permisos.
 Los instrumentos contenidos en esta Ley, se aplicarán en congruencia con los previstos en otras disposiciones legales.
 
 ## CAPÍTULO II — PROGRAMAS DE ORDENAMIENTO PESQUERO
-
-### ARTÍCULO 37
-.- Los programas de ordenamiento pesquero deberán contener, al menos:
+ARTÍCULO 37.- Los programas de ordenamiento pesquero deberán contener, al menos:
 
 I. La delimitación precisa del área que abarcará el programa;
 
@@ -717,14 +632,10 @@ II. Lista exhaustiva y actualizada de los usuarios de la región;
 III. Recursos pesqueros sujetos a aprovechamiento; y
 
 IV. Los planes de manejo pesquero sancionados y publicados.
-
-### ARTÍCULO 38
-.- Las autoridades apoyarán la creación de mecanismos de control de los propios productores, apoyados en el conocimiento tradicional de sistemas de manejo, donde existan, y promoverá la formación de grupos comunitarios que coadyuven a la administración y protección de dichos recursos sobre la base de los principios rectores de la presente Ley.
+ARTÍCULO 38.- Las autoridades apoyarán la creación de mecanismos de control de los propios productores, apoyados en el conocimiento tradicional de sistemas de manejo, donde existan, y promoverá la formación de grupos comunitarios que coadyuven a la administración y protección de dichos recursos sobre la base de los principios rectores de la presente Ley.
 
 ## CAPÍTULO III — PLANES DE MANEJO
-
-### ARTÍCULO 39
-.- Para los fines y objetivos de la presente Ley, los planes de manejo pesquero deberán incluir:
+ARTÍCULO 39.- Para los fines y objetivos de la presente Ley, los planes de manejo pesquero deberán incluir:
 
 I. Los objetivos de manejo definidos por el Consejo Nacional de Pesca y los Consejos Estatales de Pesca y Acuacultura;
 
@@ -741,16 +652,12 @@ VI. Indicadores socioeconómicos de la población dedicada a la pesca en la regi
 VII. Artes y métodos de pesca autorizados.
 
 ## CAPÍTULO IV — DE LAS CONCESIONES Y PERMISOS
-
-### ARTÍCULO 40
-.- Requieren concesión las siguientes actividades:
+ARTÍCULO 40.- Requieren concesión las siguientes actividades:
 
 I. La pesca comercial; y
 
 II. La acuacultura comercial.
-
-### ARTÍCULO 41
-.- Requieren permiso las siguientes actividades:
+ARTÍCULO 41.- Requieren permiso las siguientes actividades:
 
 I. Acuacultura comercial;
 
@@ -781,37 +688,24 @@ XIII. La introducción y la repoblación de especies vivas en cuerpos de agua de
 XIV. La descarga en puertos extranjeros o el trasbordo de especies capturadas por embarcaciones pesqueras de bandera mexicana, y
 
 XV. El desembarque de productos pesqueros comerciales en cualquier presentación en puertos mexicanos, por embarcaciones pesqueras extranjeras.
-
-### ARTÍCULO 42
-.- La Secretaría podrá otorgar concesiones o permisos para la pesca comercial a personas físicas o morales de nacionalidad mexicana, previo cumplimiento de los requisitos que se establezcan en esta Ley y en las disposiciones reglamentarias.
+ARTÍCULO 42.- La Secretaría podrá otorgar concesiones o permisos para la pesca comercial a personas físicas o morales de nacionalidad mexicana, previo cumplimiento de los requisitos que se establezcan en esta Ley y en las disposiciones reglamentarias.
 La Secretaría podrá otorgar concesiones o permisos a personas físicas o morales para la acuacultura comercial, previo cumplimiento de los requisitos que se establezcan en esta Ley y en las disposiciones reglamentarias.
 Las concesiones se otorgarán en función de la evaluación de los resultados que arrojen los estudios técnicos y económicos, así como de la cuantía y recuperación de la inversión.
 Los permisos se otorgarán cuando por la cuantía de la inversión no se requiera de estudios técnicos y económicos.
-
-### ARTÍCULO 43
-.- El otorgamiento de concesiones y permisos, quedará sujeto a las modalidades que dicte el interés público, condicionado siempre a la disponibilidad y preservación del recurso de que se trate. La Secretaría basará sus decisiones en criterios de equidad social y en la información científica disponible del recurso pesquero. Asimismo, se otorgarán preferentemente a los habitantes de las comunidades locales, siempre y cuando utilicen artes de pesca autorizadas.
+ARTÍCULO 43.- El otorgamiento de concesiones y permisos, quedará sujeto a las modalidades que dicte el interés público, condicionado siempre a la disponibilidad y preservación del recurso de que se trate. La Secretaría basará sus decisiones en criterios de equidad social y en la información científica disponible del recurso pesquero. Asimismo, se otorgarán preferentemente a los habitantes de las comunidades locales, siempre y cuando utilicen artes de pesca autorizadas.
 En igualdad de circunstancias, tendrán preferencia las solicitudes de los pueblos y comunidades indígenas y afromexicanas. Cuando la concesión o permiso pueda afectar el hábitat de algún pueblo o comunidad indígena o afromexicana la autoridad deberá recabar el parecer de los representantes de dicha comunidad.
 Párrafo reformado DOF 01-04-2024 Con el fin de apoyar las actividades productivas de los pueblos y comunidades indígenas y afromexicanas, la Secretaría promoverá programas que favorezcan su desarrollo sustentable. Asimismo, les dotará de estímulos, recursos y tecnologías para que incrementen sus capacidades productivas.
 Párrafo reformado DOF 01-04-2024 La Secretaría establecerá los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las concesiones y permisos, sean traducidos a las lenguas de los concesionarios o permisionarios pertenecientes a los pueblos y comunidades indígenas y afromexicanas o bien, para asegurar que les sea interpretado su contenido.
-Párrafo reformado DOF 01-04-2024
-
-### ARTÍCULO 44
-.- Para el otorgamiento de concesiones o permisos de recursos que se encuentren bajo el estatus de recuperación o sobreexplotación se procederá además de los requisitos señalados en la presente Ley y su Reglamento, conforme a lo que disponga la Carta Nacional Pesquera.
-
-### ARTÍCULO 45
-.- La Secretaría resolverá las solicitudes de concesión o permiso dentro de un plazo que no excederá de sesenta días hábiles desde su fecha de presentación y estando debidamente integrado el expediente. Excepcionalmente, en el caso de concesiones, dicho plazo podrá ampliarse por otros sesenta días hábiles, cuando así se requiera por las características del proyecto, en los supuestos y términos que establezca el Reglamento.
+Párrafo reformado DOF 01-04-2024 ARTÍCULO 44.- Para el otorgamiento de concesiones o permisos de recursos que se encuentren bajo el estatus de recuperación o sobreexplotación se procederá además de los requisitos señalados en la presente Ley y su Reglamento, conforme a lo que disponga la Carta Nacional Pesquera.
+ARTÍCULO 45.- La Secretaría resolverá las solicitudes de concesión o permiso dentro de un plazo que no excederá de sesenta días hábiles desde su fecha de presentación y estando debidamente integrado el expediente. Excepcionalmente, en el caso de concesiones, dicho plazo podrá ampliarse por otros sesenta días hábiles, cuando así se requiera por las características del proyecto, en los supuestos y términos que establezca el Reglamento.
 En caso de que se hubiere presentado la información o documentación incompleta, la Secretaría requerirá por escrito fundado y motivado, y por única vez, a los solicitantes, para que la integren en un plazo no mayor de 15 días hábiles, suspendiéndose el término que restare para concluir el procedimiento.
 En caso de que la autoridad omita dar a conocer al promovente la resolución recaída a su solicitud, se considerará que ha resuelto negar lo solicitado. A petición del interesado, se deberá expedir constancia de tal circunstancia dentro de los cinco días hábiles siguientes a la fecha en que se debería emitir la resolución de la solicitud respectiva, de conformidad con la Ley Federal de Procedimiento Administrativo.
 La falta de resolución a la solicitud podrá implicar responsabilidades a los servidores públicos a quienes competa tal resolución, conforme a lo dispuesto en las leyes aplicables.
-
-### ARTÍCULO 46
-.- Las concesiones o permisos que expida la Secretaría se otorgarán por embarcación o unidad de esfuerzo pesquero, según se defina para cada especie, grupo de especies o áreas, en el Reglamento de la presente Ley y en las normas oficiales que deriven de la misma.
+ARTÍCULO 46.- Las concesiones o permisos que expida la Secretaría se otorgarán por embarcación o unidad de esfuerzo pesquero, según se defina para cada especie, grupo de especies o áreas, en el Reglamento de la presente Ley y en las normas oficiales que deriven de la misma.
 El concesionario o permisionario deberá tener siempre a bordo el documento que demuestre que la embarcación está autorizada para operar, la cual deberá tener matrícula y bandera mexicanas y estar registrada en el Registro Público Marítimo Nacional, en los términos de la Ley de Navegación, así como en el Registro Nacional de Pesca y Acuacultura.
 Las embarcaciones pesqueras que establezca el reglamento de la presente Ley deberán llevar un libro de registro que se denominará bitácora de pesca, que contendrá la información que se determine en el propio Reglamento.
 Las demás obligaciones y derechos de los concesionarios y permisionarios, se fijarán en las disposiciones reglamentarias que deriven de esta Ley, así como en el título de concesión o permiso correspondiente.
-
-### ARTÍCULO 47
-.- Para el otorgamiento de una concesión de un recurso pesquero por área, especie o grupo de especies para la pesca comercial, la Secretaría procederá conforme a lo siguiente:
+ARTÍCULO 47.- Para el otorgamiento de una concesión de un recurso pesquero por área, especie o grupo de especies para la pesca comercial, la Secretaría procederá conforme a lo siguiente:
 
 I. Evaluará la capacidad técnica, administrativa y financiera del solicitante;
 
@@ -822,9 +716,7 @@ III. Priorizará las solicitudes de habitantes de las comunidades locales y las 
 IV. Informará de la solicitud al Consejo Estatal de Pesca y Acuacultura, quien podrá emitir opinión respecto a la solicitud recibida y contará con quince días naturales para hacerla del conocimiento de Secretaría, y
 
 V. Una vez dictada la resolución, la Secretaría, en su caso, publicará la concesión en el Diario Oficial de la Federación, a costa del solicitante.
-
-### ARTÍCULO 48
-.- Los solicitantes de concesiones deberán acreditar la legal disposición de los bienes y equipos necesarios para cumplir con el objeto de la solicitud. La solicitud de concesión deberá contener la información siguiente:
+ARTÍCULO 48.- Los solicitantes de concesiones deberán acreditar la legal disposición de los bienes y equipos necesarios para cumplir con el objeto de la solicitud. La solicitud de concesión deberá contener la información siguiente:
 
 I. Nombre y domicilio del solicitante;
 
@@ -839,24 +731,15 @@ V. Propuesta de manejo de la pesquería o recurso en los términos que señale e
 VI. Descripción de las características tecnológicas de la embarcación, equipos y artes de pesca con las cuales se pretende llevar a cabo la actividad, y
 
 VII. Los demás lineamientos que se establezcan en el Reglamento de la presente Ley y demás ordenamientos aplicables.
-
-### ARTÍCULO 49
-.- Las concesiones a que se refiere esta Ley podrán tener una duración de cinco hasta veinte años para la pesca comercial, y de cincuenta para la acuacultura comercial. Con base en los planes de manejo pesqueros y de acuacultura sancionados y publicados, las concesiones podrán ser prorrogadas hasta por los plazos equivalentes a los concedidos originalmente.
+ARTÍCULO 49.- Las concesiones a que se refiere esta Ley podrán tener una duración de cinco hasta veinte años para la pesca comercial, y de cincuenta para la acuacultura comercial. Con base en los planes de manejo pesqueros y de acuacultura sancionados y publicados, las concesiones podrán ser prorrogadas hasta por los plazos equivalentes a los concedidos originalmente.
 Para la pesca comercial el concesionario deberá entregar un informe al IMIPAS cada dos años, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión.
 Párrafo reformado DOF 04-12-2023 Para la acuacultura comercial el concesionario deberá entregar un informe al IMIPAS cada cinco años, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión.
-Párrafo reformado DOF 04-12-2023
-
-### ARTÍCULO 50
-.- Los titulares de las concesiones podrán ser sustituidos previa autorización expresa que otorgue la Secretaría, siempre que se cumplan con los requisitos y condiciones que establezca el reglamento de la presente Ley. En el caso del fallecimiento del titular de la concesión, la Secretaría dará preferencia para la sustitución, a los designados por el derecho sucesorio aplicable al caso, de conformidad con las disposiciones legales aplicables.
-
-### ARTÍCULO 51
-.- Los permisos de pesca comercial tendrán una duración de dos hasta cinco años, de acuerdo a la pesquería de que se trate y lo que determine el reglamento de la presente Ley.
+Párrafo reformado DOF 04-12-2023 ARTÍCULO 50.- Los titulares de las concesiones podrán ser sustituidos previa autorización expresa que otorgue la Secretaría, siempre que se cumplan con los requisitos y condiciones que establezca el reglamento de la presente Ley. En el caso del fallecimiento del titular de la concesión, la Secretaría dará preferencia para la sustitución, a los designados por el derecho sucesorio aplicable al caso, de conformidad con las disposiciones legales aplicables.
+ARTÍCULO 51.- Los permisos de pesca comercial tendrán una duración de dos hasta cinco años, de acuerdo a la pesquería de que se trate y lo que determine el reglamento de la presente Ley.
 Los permisos a que se refieren las fracciones V a la XV del artículo 41 de esta Ley, tendrán la duración que determine su reglamento, de acuerdo a las características y naturaleza de la actividad, y en su caso, se sujetarán a los planes de manejo.
 Podrán ser prorrogados si la evaluación realizada por el IMIPAS resulta positiva en cuanto al manejo de la pesquería, acorde con las condiciones que se establezcan en el reglamento de la presente Ley y no podrán ser transferidos a terceros.
 Párrafo reformado DOF 04-12-2023 En caso de fallecimiento del permisionario, la Secretaría dará preferencia para la sustitución, a los designados por el derecho sucesorio aplicable al caso, de conformidad con las disposiciones legales aplicables.
-
-### ARTÍCULO 52
-.- Los solicitantes de permisos deberán acreditar la legal disposición de los bienes y equipos necesarios para cumplir con el objeto de la solicitud. La solicitud de permiso deberá contener la información siguiente:
+ARTÍCULO 52.- Los solicitantes de permisos deberán acreditar la legal disposición de los bienes y equipos necesarios para cumplir con el objeto de la solicitud. La solicitud de permiso deberá contener la información siguiente:
 
 I. Nombre y domicilio del solicitante;
 
@@ -869,12 +752,8 @@ IV. Acreditar su inscripción en el Registro Nacional de Pesca y Acuacultura o c
 V. Descripción de las características tecnológicas de la embarcación, equipos y artes de pesca con las cuales se pretende llevar a cabo la actividad, y
 
 VI. Los demás lineamientos que se establezcan en el Reglamento de la presente Ley y demás ordenamientos aplicables.
-
-### ARTÍCULO 53
-.- Son causas de extinción de las concesiones y permisos: la caducidad, la revocación, la nulidad, la terminación del plazo y la declaratoria de rescate por causa de interés público.
-
-### ARTÍCULO 54
-.- Son causas de caducidad:
+ARTÍCULO 53.- Son causas de extinción de las concesiones y permisos: la caducidad, la revocación, la nulidad, la terminación del plazo y la declaratoria de rescate por causa de interés público.
+ARTÍCULO 54.- Son causas de caducidad:
 
 I. No iniciar, sin causa justificada, la actividad en el plazo establecido;
 
@@ -884,9 +763,7 @@ III. No iniciar la construcción de obras e instalaciones o la adquisición de e
 
 IV. No concluir las obras e instalaciones en las fechas señaladas.
 En los supuestos anteriores para que no constituyan causa de caducidad, se requiere que el interesado someta a consideración de la Secretaría los motivos que lo justifiquen para que ésta los califique y resuelva lo conducente.
-
-### ARTÍCULO 55
-.- La Secretaría, procederá a la revocación de la concesión o permiso, cuando sus titulares:
+ARTÍCULO 55.- La Secretaría, procederá a la revocación de la concesión o permiso, cuando sus titulares:
 
 I. Afecten al ecosistema o lo pongan en riesgo inminente, con base en un dictamen emitido por la autoridad correspondiente;
 
@@ -905,18 +782,10 @@ VII. Incurran en quiebra, liquidación, disolución o concurso necesario;
 VIII. Que al amparo del permiso o concesión se comercialice producto de origen ilegal, y
 
 IX. La comercialización, bajo cualquier título jurídico, de las capturas de la pesca deportivo-recreativa.
-
-### ARTÍCULO 56
-.- Serán causas de nulidad de las concesiones y permisos, la omisión o irregularidad de los elementos exigidos en la presente Ley y su Reglamento de conformidad con lo establecido en la Ley Federal de Procedimiento Administrativo.
-
-### ARTÍCULO 57
-.- Las concesiones o permisos a que se refiere esta Ley, se extinguen por terminación del plazo para el que se hayan otorgado, sin necesidad de declaración expresa de la Secretaría al respecto.
-
-### ARTÍCULO 58
-.- Los titulares de concesiones o permisos, que incurran en causas de caducidad o revocación, no podrán ser titulares de concesiones o permisos, sino transcurridos cuatro años, contados a partir de la declaración firme de la caducidad o revocación. Igual tratamiento se dará en los casos de anulación imputables a sus titulares.
-
-### ARTÍCULO 59
-.- Las concesiones para la pesca y acuacultura comerciales, podrán rescatarse por causa de interés público. Son causas de rescate por interés público, cuando:
+ARTÍCULO 56.- Serán causas de nulidad de las concesiones y permisos, la omisión o irregularidad de los elementos exigidos en la presente Ley y su Reglamento de conformidad con lo establecido en la Ley Federal de Procedimiento Administrativo.
+ARTÍCULO 57.- Las concesiones o permisos a que se refiere esta Ley, se extinguen por terminación del plazo para el que se hayan otorgado, sin necesidad de declaración expresa de la Secretaría al respecto.
+ARTÍCULO 58.- Los titulares de concesiones o permisos, que incurran en causas de caducidad o revocación, no podrán ser titulares de concesiones o permisos, sino transcurridos cuatro años, contados a partir de la declaración firme de la caducidad o revocación. Igual tratamiento se dará en los casos de anulación imputables a sus titulares.
+ARTÍCULO 59.- Las concesiones para la pesca y acuacultura comerciales, podrán rescatarse por causa de interés público. Son causas de rescate por interés público, cuando:
 
 I. La pesquería tenga el estatus de sobreexplotación, y
 
@@ -926,96 +795,55 @@ Fracción reformada DOF 04-12-2023 Los titulares de los permisos o concesiones q
 ## TÍTULO SÉPTIMO — DE LA PESCA
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
-
-### ARTÍCULO 60
-.- La pesca se puede realizar mediante concesión o permiso. Requieren permiso la pesca comercial, de fomento, deportivo-recreativa, didáctica y las demás actividades que expresamente se señalen en esta Ley. Se prohíbe la operación de barcos-fábrica y de plantas flotantes.
-
-### ARTÍCULO 61
-.- El establecimiento y operación de artes de pesca fijas o cimentadas en aguas de jurisdicción federal, así como su cambio de localización o dimensiones, sólo podrá realizarse si se cuenta previamente con permiso de la Secretaría, sujetándose a las disposiciones en materia de impacto ambiental contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y aquellas que sean de la competencia de otras autoridades. Su temporalidad no podrá exceder a la señalada en el permiso correspondiente y el interesado deberá cumplir con los requisitos que establezcan el reglamento de esta Ley y las normas oficiales.
-
-### ARTÍCULO 62
-.- La Secretaría, de conformidad con el interés nacional y de acuerdo con los Tratados y Acuerdos Internacionales de los que México sea parte, determinará y en su caso, declarará si existen excedentes por especie; en tal circunstancia permitirá, con carácter de excepción, que embarcaciones extranjeras participen de dichos excedentes, en la zona económica exclusiva y mediante el cumplimiento de los requisitos y condiciones que para cada caso establezca la propia dependencia. En todo caso, se estará siempre a la más rigurosa reciprocidad.
+ARTÍCULO 60.- La pesca se puede realizar mediante concesión o permiso. Requieren permiso la pesca comercial, de fomento, deportivo-recreativa, didáctica y las demás actividades que expresamente se señalen en esta Ley. Se prohíbe la operación de barcos-fábrica y de plantas flotantes.
+ARTÍCULO 61.- El establecimiento y operación de artes de pesca fijas o cimentadas en aguas de jurisdicción federal, así como su cambio de localización o dimensiones, sólo podrá realizarse si se cuenta previamente con permiso de la Secretaría, sujetándose a las disposiciones en materia de impacto ambiental contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y aquellas que sean de la competencia de otras autoridades. Su temporalidad no podrá exceder a la señalada en el permiso correspondiente y el interesado deberá cumplir con los requisitos que establezcan el reglamento de esta Ley y las normas oficiales.
+ARTÍCULO 62.- La Secretaría, de conformidad con el interés nacional y de acuerdo con los Tratados y Acuerdos Internacionales de los que México sea parte, determinará y en su caso, declarará si existen excedentes por especie; en tal circunstancia permitirá, con carácter de excepción, que embarcaciones extranjeras participen de dichos excedentes, en la zona económica exclusiva y mediante el cumplimiento de los requisitos y condiciones que para cada caso establezca la propia dependencia. En todo caso, se estará siempre a la más rigurosa reciprocidad.
 La declaración de excedentes a que se refiere el párrafo anterior, se establecerá exclusivamente mediante Acuerdo del Titular de la Secretaría, basado en un dictamen elaborado por el IMIPAS y con la opinión del Consejo Nacional de Pesca y Acuacultura, el cual se publicará en el Diario Oficial de la Federación. Los permisos respectivos los expedirá la Secretaría, serán intransferibles y se sujetarán a la suscripción de convenios con los Estados que lo soliciten y, en el caso de personas físicas y morales de nacionalidad extranjera, previa solicitud y cumplimiento de los requisitos establecidos en el reglamento de esta Ley.
 Párrafo reformado DOF 04-12-2023 Los permisos se expedirán por embarcación, por temporada de pesca o por el tiempo que determine la Secretaría, que consignará en cada uno de ellos la vigencia, zona de captura, artes y equipos de pesca, recurso o recursos pesqueros permitidos y las condiciones de operación.
 Tendrán prelación en la captura de dichos excedentes en la zona económica exclusiva, las embarcaciones de bandera extranjera que acrediten que su quilla se fabricó en astilleros mexicanos.
-
-### ARTÍCULO 63
-.- Los interesados en obtener permiso para pescar en altamar o en aguas de jurisdicción extranjera, así como los interesados en descargar en puertos extranjeros, con embarcaciones de matrícula y bandera mexicanas, deberán cumplir para ello los requisitos que establezcan el reglamento de esta Ley y los Tratados o Acuerdos Internacionales de los que México sea parte, así como con los requisitos y permisos que para este efecto los países les requieran. Los permisos respectivos los expedirá la Secretaría únicamente a personas de nacionalidad mexicana.
+ARTÍCULO 63.- Los interesados en obtener permiso para pescar en altamar o en aguas de jurisdicción extranjera, así como los interesados en descargar en puertos extranjeros, con embarcaciones de matrícula y bandera mexicanas, deberán cumplir para ello los requisitos que establezcan el reglamento de esta Ley y los Tratados o Acuerdos Internacionales de los que México sea parte, así como con los requisitos y permisos que para este efecto los países les requieran. Los permisos respectivos los expedirá la Secretaría únicamente a personas de nacionalidad mexicana.
 Las cuotas que otorguen al país los gobiernos extranjeros, para el aprovechamiento o explotación de sus recursos pesqueros, serán administradas por la Secretaría.
 En caso de que los propios gobiernos permitan a los particulares adquirir directamente licencias, permisos o sus equivalentes para pesca comercial, sus titulares, a solicitud de la Secretaría, comprobarán que las capturas realizadas se efectuaron al amparo de dichas licencias, permisos o equivalentes.
 Los titulares de los permisos para pescar en altamar o en aguas de jurisdicción extranjera, con embarcaciones de matrícula y bandera mexicanas, están obligados a presentar el aviso de arribo, en los términos que establezca el Reglamento de esta Ley.
-
-### ARTÍCULO 64
-.- La Secretaría podrá otorgar permisos para realizar pesca de fomento a las personas que acrediten capacidad técnica y científica para tal fin, en los términos de la presente Ley, de su reglamento y de las normas oficiales que al efecto se expidan.
+ARTÍCULO 64.- La Secretaría podrá otorgar permisos para realizar pesca de fomento a las personas que acrediten capacidad técnica y científica para tal fin, en los términos de la presente Ley, de su reglamento y de las normas oficiales que al efecto se expidan.
 La Secretaría deberá coordinarse con el IMIPAS para que éste emita las opiniones de carácter técnico y científicas para permitir la pesca de fomento, en el caso de científicos, técnicos e instituciones de investigación extranjeros, para lo cual hará del conocimiento de las Secretarías de Relaciones Exteriores y de Marina, las peticiones que reciba de extranjeros o de organismos internacionales, sin perjuicio de los demás requisitos que deban cumplirse en términos de la legislación aplicable.
-Párrafo reformado DOF 04-06-2015, 04-12-2023
-
-### ARTÍCULO 65
-.- La Secretaría podrá otorgar permisos para realizar pesca didáctica a las instituciones de enseñanza que desarrollen programas educativos de pesca las cuales deberán informar a la Secretaría, acerca del volumen y especies obtenidas, dentro del plazo que se determine en el permiso.
+Párrafo reformado DOF 04-06-2015, 04-12-2023 ARTÍCULO 65.- La Secretaría podrá otorgar permisos para realizar pesca didáctica a las instituciones de enseñanza que desarrollen programas educativos de pesca las cuales deberán informar a la Secretaría, acerca del volumen y especies obtenidas, dentro del plazo que se determine en el permiso.
 La captura producto de las actividades realizadas al amparo de estos permisos podrá comercializarse, siempre que el producto de su venta se aplique exclusivamente al desarrollo de las labores propias de la institución, en los términos que establezca el reglamento.
-
-### ARTÍCULO 66
-.- La captura incidental estará limitada y no podrá exceder del volumen que determine la Secretaría, para cada pesquería, según las zonas, épocas y artes de pesca, de conformidad con lo que establece la presente Ley y demás disposiciones que de ella se deriven. Los excedentes de los volúmenes de captura incidental que determine dicha autoridad en tales disposiciones, serán considerados como pesca realizada sin concesión o permiso.
+ARTÍCULO 66.- La captura incidental estará limitada y no podrá exceder del volumen que determine la Secretaría, para cada pesquería, según las zonas, épocas y artes de pesca, de conformidad con lo que establece la presente Ley y demás disposiciones que de ella se deriven. Los excedentes de los volúmenes de captura incidental que determine dicha autoridad en tales disposiciones, serán considerados como pesca realizada sin concesión o permiso.
 El aprovechamiento de los productos pesqueros obtenidos en la captura incidental se sujetará a las normas oficiales que al efecto se expidan, salvo lo previsto en esta Ley para la pesca deportivorecreativa.
-
-### ARTÍCULO 67
-.- Los permisos para la pesca deportivo-recreativa se expedirán a personas físicas nacionales o extranjeras y serán individuales, improrrogables e intransferibles. Requerirán permiso para efectuar este tipo de pesca la persona que la realice por sí y los prestadores de servicios a terceros para llevar a cabo dicha actividad, de conformidad con los programas correspondientes.
+ARTÍCULO 67.- Los permisos para la pesca deportivo-recreativa se expedirán a personas físicas nacionales o extranjeras y serán individuales, improrrogables e intransferibles. Requerirán permiso para efectuar este tipo de pesca la persona que la realice por sí y los prestadores de servicios a terceros para llevar a cabo dicha actividad, de conformidad con los programas correspondientes.
 Lo anterior es aplicable, sin perjuicio del pago de derechos que deba efectuarse por la utilización de embarcaciones en las que se realicen actividades de pesca deportivo-recreativa, de conformidad con lo dispuesto en la ley de la materia.
-
-### ARTÍCULO 68
-.- Las especies denominadas marlin, pez vela, pez espada, sábalo o chiro, pez gallo y dorado, en todas sus variedades biológicas, quedan destinadas de manera exclusiva para la pesca deportivo-recreativa, dentro de una franja de cincuenta millas náuticas, contadas a partir de la línea de base desde la cual se mide el mar territorial.
+ARTÍCULO 68.- Las especies denominadas marlin, pez vela, pez espada, sábalo o chiro, pez gallo y dorado, en todas sus variedades biológicas, quedan destinadas de manera exclusiva para la pesca deportivo-recreativa, dentro de una franja de cincuenta millas náuticas, contadas a partir de la línea de base desde la cual se mide el mar territorial.
 No podrán realizarse actividades de pesca distintas a las de investigación, sobre las especies destinadas a la pesca deportivo-recreativa en las áreas de reproducción que establezca la Secretaría mediante disposiciones reglamentarias.
-
-### ARTÍCULO 69
-.- Las personas que practiquen la pesca deportivo-recreativa desde tierra no requerirán permiso, y estarán obligados a utilizar las artes de pesca y respetar las tallas mínimas y límites de captura que autorice la Secretaría conforme a las disposiciones que para tal efecto se emitan.
-
-### ARTÍCULO 70
-.- La Secretaría, con base en el dictamen emitido por el IMIPAS y acorde a los planes de manejo pesquero sancionados, establecerá las épocas, zonas y tallas mínimas de pesca, el número máximo de ejemplares susceptibles de captura por pescador deportivo y por día, así como las características particulares de las artes y métodos de pesca permitidos, en las disposiciones reglamentarias que deriven de esta Ley. Lo anterior considerando, entre otros aspectos, las condiciones del recurso de que se trate y las características del lugar donde se pretenda desarrollar dicha actividad.
-Artículo reformado DOF 04-12-2023
-
-### ARTÍCULO 71
-.- Los prestadores de servicios o los titulares de los permisos de la pesca deportivorecreativa, deberán entregar a la Secretaría la bitácora de pesca correspondiente, en los términos del reglamento de la presente Ley.
-
-### ARTÍCULO 72
-.- La pesca de consumo doméstico que efectúen los residentes en las riberas y en las costas, no requiere concesión o permiso.
+ARTÍCULO 69.- Las personas que practiquen la pesca deportivo-recreativa desde tierra no requerirán permiso, y estarán obligados a utilizar las artes de pesca y respetar las tallas mínimas y límites de captura que autorice la Secretaría conforme a las disposiciones que para tal efecto se emitan.
+ARTÍCULO 70.- La Secretaría, con base en el dictamen emitido por el IMIPAS y acorde a los planes de manejo pesquero sancionados, establecerá las épocas, zonas y tallas mínimas de pesca, el número máximo de ejemplares susceptibles de captura por pescador deportivo y por día, así como las características particulares de las artes y métodos de pesca permitidos, en las disposiciones reglamentarias que deriven de esta Ley. Lo anterior considerando, entre otros aspectos, las condiciones del recurso de que se trate y las características del lugar donde se pretenda desarrollar dicha actividad.
+Artículo reformado DOF 04-12-2023 ARTÍCULO 71.- Los prestadores de servicios o los titulares de los permisos de la pesca deportivorecreativa, deberán entregar a la Secretaría la bitácora de pesca correspondiente, en los términos del reglamento de la presente Ley.
+ARTÍCULO 72.- La pesca de consumo doméstico que efectúen los residentes en las riberas y en las costas, no requiere concesión o permiso.
 Sólo podrá efectuarse con redes y líneas manuales que pueda utilizar individualmente el pescador, observando y respetando las vedas y las normas oficiales que se expidan.
 Tratándose de zonas concesionadas se podrá practicar la pesca de consumo doméstico, siempre y cuando no se capturen las especies materia de las concesiones otorgadas a terceros.
 En los casos que se requiera, la Secretaría establecerá, en normas oficiales, las artes de pesca de consumo doméstico y sus especificaciones técnicas, considerando entre otros aspectos, las condiciones biológicas, tecnológicas y ambientales.
 Las cantidades permitidas por pesquería o especie se especificarán en el reglamento de la presente Ley, y en las normas correspondientes.
 
 ## CAPÍTULO II — DE LOS PERMISOS PARA DESCARGAR EN PUERTOS EXTRANJEROS Y TRANSBORDAR
-ESPECIES CAPTURADAS POR EMBARCACIONES PESQUERAS DE BANDERA MEXICANA
-
-### ARTÍCULO 73
-.- El permiso para descargar en puertos extranjeros o transbordar especies capturadas por embarcaciones pesqueras de bandera mexicana, será otorgado por la Secretaría, siempre y cuando los interesados proporcionen, adjunta a la solicitud del permiso, la información que se determine en el reglamento de esta Ley.
+ESPECIES CAPTURADAS POR EMBARCACIONES PESQUERAS DE BANDERA MEXICANA ARTÍCULO 73.- El permiso para descargar en puertos extranjeros o transbordar especies capturadas por embarcaciones pesqueras de bandera mexicana, será otorgado por la Secretaría, siempre y cuando los interesados proporcionen, adjunta a la solicitud del permiso, la información que se determine en el reglamento de esta Ley.
 En los casos de emergencia, contingencias climáticas y averías en las embarcaciones se estará a lo dispuesto en el Reglamento de la presente Ley.
-
-### ARTÍCULO 74
-.- Se requiere permiso para la descarga en puertos mexicanos, que realicen embarcaciones pesqueras de bandera extranjera, de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca comercial. Para ello los interesados deberán adjuntar a su solicitud el título correspondiente al amparo del cual se realizó la actividad pesquera, expedido por la autoridad competente del país de origen, y cumplir con los demás requisitos que se establezcan en el reglamento de esta Ley.
+ARTÍCULO 74.- Se requiere permiso para la descarga en puertos mexicanos, que realicen embarcaciones pesqueras de bandera extranjera, de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca comercial. Para ello los interesados deberán adjuntar a su solicitud el título correspondiente al amparo del cual se realizó la actividad pesquera, expedido por la autoridad competente del país de origen, y cumplir con los demás requisitos que se establezcan en el reglamento de esta Ley.
 En los casos de emergencia, contingencias climáticas y averías en las embarcaciones se estará a lo dispuesto en el Reglamento de la presente Ley.
 
 ## TÍTULO OCTAVO — DE LA LEGAL PROCEDENCIA
 
 ## CAPÍTULO ÚNICO
-
-### ARTÍCULO 75
-.- La legal procedencia de los productos pesqueros y acuícolas, se acreditará con los avisos de arribo, de cosecha, de producción, de recolección, permiso de importación y con la guía de pesca, según corresponda, en los términos y con los requisitos que establezca esta Ley y su reglamento.
+ARTÍCULO 75.- La legal procedencia de los productos pesqueros y acuícolas, se acreditará con los avisos de arribo, de cosecha, de producción, de recolección, permiso de importación y con la guía de pesca, según corresponda, en los términos y con los requisitos que establezca esta Ley y su reglamento.
 Para las especies obtenidas al amparo de permisos de pesca deportivo-recreativa, la legal procedencia se comprobará con el permiso respectivo.
 Para la comercialización de los productos de la pesca y de la acuacultura, los comprobantes fiscales que emitan deberán incluir el número de permiso o concesión respectiva.
-
-### ARTÍCULO 76
-.- El traslado por vía terrestre, marítima o aérea de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o acuacultura deberá realizarse al amparo de la guía de pesca, de conformidad con el formato que expida la Secretaría. Se exceptúan de esta obligación las personas que hayan obtenido especies al amparo de permisos de pesca deportivo-recreativa, cuyo traslado se amparará con el propio permiso y el que traslade productos cuyo destino sea el consumo doméstico directo del que lo transporta.
-
-### ARTÍCULO 77
-.- El trámite, los requisitos y la vigencia de los documentos para acreditar la legal procedencia de los productos pesqueros y acuícolas, se establecerán en el reglamento de esta Ley.
+ARTÍCULO 76.- El traslado por vía terrestre, marítima o aérea de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o acuacultura deberá realizarse al amparo de la guía de pesca, de conformidad con el formato que expida la Secretaría. Se exceptúan de esta obligación las personas que hayan obtenido especies al amparo de permisos de pesca deportivo-recreativa, cuyo traslado se amparará con el propio permiso y el que traslade productos cuyo destino sea el consumo doméstico directo del que lo transporta.
+ARTÍCULO 77.- El trámite, los requisitos y la vigencia de los documentos para acreditar la legal procedencia de los productos pesqueros y acuícolas, se establecerán en el reglamento de esta Ley.
 En el ejercicio de sus funciones, el SENASICA coadyuvará en la inspección y vigilancia del traslado de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o la acuacultura, que se realice por vía terrestre, marítima o aérea en cualquier parte del territorio nacional.
 
 ## TÍTULO NOVENO — DE LA ACUACULTURA
 
 ## CAPÍTULO I — DE LA PLANEACIÓN PARA EL DESARROLLO Y DEL ORDENAMIENTO ACUÍCOLA
-
-### ARTÍCULO 78
-.- En materia de acuacultura, son objetivos de esta Ley:
+ARTÍCULO 78.- En materia de acuacultura, son objetivos de esta Ley:
 
 I. Fomentar el desarrollo de la acuacultura como una actividad productiva que permita la diversificación pesquera, para ofrecer opciones de empleo en el medio rural;
 
@@ -1034,17 +862,9 @@ Fracción reformada DOF 05-12-2014
 VI. Fomentar y promover la calidad y la diversidad de los recursos acuícolas, y Fracción reformada DOF 05-12-2014
 
 VII. Fomentar la transferencia y uso de tecnología en los procesos de producción acuícola en poblaciones rurales y de escasos recursos.
-Fracción adicionada DOF 05-12-2014
-
-### ARTÍCULO 79
-.- La Secretaría, regulará el crecimiento ordenado de la acuacultura, atendiendo principalmente a las áreas o zonas con potencial para desarrollar esta actividad, mediante la expedición de concesiones o permisos por especie o grupos de especies.
-
-### ARTÍCULO 80
-.- El Programa Nacional de Acuacultura, como parte del Programa Nacional de Pesca y Acuacultura se sujetará a las previsiones del Plan Nacional de Desarrollo y contemplará la concurrencia que en materia de acuacultura lleven a cabo la Federación, las Entidades Federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, de acuerdo a la distribución de competencias establecidas en esta Ley.
-Artículo reformado DOF 19-01-2018
-
-### ARTÍCULO 81
-.- La planeación y regulación del ordenamiento acuícola, se llevará a cabo a través de:
+Fracción adicionada DOF 05-12-2014 ARTÍCULO 79.- La Secretaría, regulará el crecimiento ordenado de la acuacultura, atendiendo principalmente a las áreas o zonas con potencial para desarrollar esta actividad, mediante la expedición de concesiones o permisos por especie o grupos de especies.
+ARTÍCULO 80.- El Programa Nacional de Acuacultura, como parte del Programa Nacional de Pesca y Acuacultura se sujetará a las previsiones del Plan Nacional de Desarrollo y contemplará la concurrencia que en materia de acuacultura lleven a cabo la Federación, las Entidades Federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, de acuerdo a la distribución de competencias establecidas en esta Ley.
+Artículo reformado DOF 19-01-2018 ARTÍCULO 81.- La planeación y regulación del ordenamiento acuícola, se llevará a cabo a través de:
 
 I. El Programa Nacional de Acuacultura y la Carta Nacional Acuícola;
 
@@ -1054,20 +874,14 @@ III. Los planes de ordenamiento acuícola, y
 
 IV. Los programas de desarrollo de la acuacultura derivados de los señalados en las fracciones anteriores.
 La Federación y las Entidades Federativas, en los términos de la presente Ley, podrán convenir acciones que propicien el ordenamiento territorial de los desarrollos acuícolas ubicados en aguas continentales.
-
-### ARTÍCULO 82
-.- Para regular e inducir las actividades de acuacultura llevadas a cabo en las distintas regiones del país, con el propósito de garantizar la productividad, la funcionalidad y la protección del medio natural, las entidades federativas deberán establecer planes de desarrollo regional en la materia con el apoyo del Gobierno Federal, que fungirán como instrumentos de planeación, conforme a las disposiciones de la presente Ley.
+ARTÍCULO 82.- Para regular e inducir las actividades de acuacultura llevadas a cabo en las distintas regiones del país, con el propósito de garantizar la productividad, la funcionalidad y la protección del medio natural, las entidades federativas deberán establecer planes de desarrollo regional en la materia con el apoyo del Gobierno Federal, que fungirán como instrumentos de planeación, conforme a las disposiciones de la presente Ley.
 Dichos planes deberán contemplar como eje rector la orientación de la acuacultura bajo un esquema de producción sustentable, cuidando la conservación y cultivo de especies endémicas. En los planes se establecerán metas cuantificables en períodos de tres a seis años, que permitan observar el crecimiento en la producción de especies nativas y su impacto en los mercados regionales.
 Artículo reformado DOF 05-12-2014
 
 ## CAPÍTULO II — DE LA CARTA NACIONAL ACUÍCOLA
-
-### ARTÍCULO 83
-.- La Carta Nacional Acuícola, es la presentación cartográfica y escrita de los indicadores de la actividad, de las especies destinadas a la acuacultura, del desarrollo de la biotecnología y de las zonas por su vocación de cultivo. Su contenido tendrá carácter informativo para los sectores productivos y será consultivo y orientador para las autoridades competentes en la resolución de solicitudes de concesiones y permisos para la realización de las actividades acuícolas.
+ARTÍCULO 83.- La Carta Nacional Acuícola, es la presentación cartográfica y escrita de los indicadores de la actividad, de las especies destinadas a la acuacultura, del desarrollo de la biotecnología y de las zonas por su vocación de cultivo. Su contenido tendrá carácter informativo para los sectores productivos y será consultivo y orientador para las autoridades competentes en la resolución de solicitudes de concesiones y permisos para la realización de las actividades acuícolas.
 La Secretaría aprobará y expedirá la Carta Nacional Acuícola y sus actualizaciones, y las publicará en el Diario Oficial de la Federación.
-
-### ARTÍCULO 84
-.- La Carta Nacional Acuícola deberá contener, al menos, la siguiente información:
+ARTÍCULO 84.- La Carta Nacional Acuícola deberá contener, al menos, la siguiente información:
 
 I. El inventario de las especies acuícolas susceptibles de reproducción y cultivo;
 
@@ -1088,12 +902,8 @@ VII. Estadísticas de producción, y
 VIII. La información que se determine en el Reglamento de la presente Ley.
 
 ## CAPÍTULO III — DE LOS INSTRUMENTOS DE MANEJO PARA LA ACUACULTURA
-
-### ARTÍCULO 85
-.- Para el desarrollo integral, ordenado y sustentable de la acuacultura, se fomentará la creación de Unidades de Manejo Acuícola que estarán basadas en la evaluación de los recursos naturales disponibles para la acuacultura.
-
-### ARTÍCULO 86
-.- Cada unidad de manejo acuícola, deberá contar con un plan de manejo que contendrá:
+ARTÍCULO 85.- Para el desarrollo integral, ordenado y sustentable de la acuacultura, se fomentará la creación de Unidades de Manejo Acuícola que estarán basadas en la evaluación de los recursos naturales disponibles para la acuacultura.
+ARTÍCULO 86.- Cada unidad de manejo acuícola, deberá contar con un plan de manejo que contendrá:
 
 I. Las acciones a realizar a corto, mediano y largo plazo, estableciendo la vinculación con los planes y programas aplicables;
 
@@ -1117,20 +927,13 @@ Fracción reformada DOF 23-01-2014
 X. El programa de prevención y control de contingencias, de monitoreo y las demás que por las características propias de la unidad de manejo acuícola se requieran, y Fracción reformada DOF 23-01-2014
 
 XI. Acciones de mitigación y adaptación a realizar ante la vulnerabilidad actual y futura del cambio climático, en concordancia con el Atlas Nacional de Riesgo.
-Fracción adicionada DOF 23-01-2014
-
-### ARTÍCULO 87
-.- Las auditorías técnicas preventivas tendrán la finalidad de determinar el grado de cumplimiento de la normatividad y de los planes de manejo respectivos por parte de los acuacultores. La Secretaría, emitirá un dictamen que haga constar el adecuado cumplimiento de la legislación en la materia y de los planes de manejo y, en su caso, hará las recomendaciones sobre las medidas preventivas y correctivas necesarias, para garantizar una actividad sustentable.
-
-### ARTÍCULO 88
-.- La Federación y las Entidades Federativas en el ámbito de sus respectivas competencias, diseñarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política acuícola.
+Fracción adicionada DOF 23-01-2014 ARTÍCULO 87.- Las auditorías técnicas preventivas tendrán la finalidad de determinar el grado de cumplimiento de la normatividad y de los planes de manejo respectivos por parte de los acuacultores. La Secretaría, emitirá un dictamen que haga constar el adecuado cumplimiento de la legislación en la materia y de los planes de manejo y, en su caso, hará las recomendaciones sobre las medidas preventivas y correctivas necesarias, para garantizar una actividad sustentable.
+ARTÍCULO 88.- La Federación y las Entidades Federativas en el ámbito de sus respectivas competencias, diseñarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política acuícola.
 
 ## TÍTULO DÉCIMO — DE LA ADMINISTRACIÓN DE LA ACUACULTURA
 
 ## CAPÍTULO ÚNICO — DE LAS CONCESIONES Y PERMISOS DE ACUACULTURA
-
-### ARTÍCULO 89
-.- La acuacultura se puede realizar mediante concesión para la acuacultura comercial y mediante permiso, para:
+ARTÍCULO 89.- La acuacultura se puede realizar mediante concesión para la acuacultura comercial y mediante permiso, para:
 
 I. La acuacultura comercial;
 
@@ -1141,9 +944,7 @@ III. La acuacultura didáctica;
 IV. La recolección del medio natural de reproductores, y
 
 V. La introducción y la repoblación de especies vivas en cuerpos de agua de jurisdicción federal.
-
-### ARTÍCULO 90
-.- La Secretaría podrá otorgar permisos para la acuacultura a personas físicas o morales de nacionalidad mexicana, previo cumplimiento de los requisitos que se establezcan en esta Ley y en las disposiciones reglamentarias, mismos que deberán ser congruentes con los planes de ordenamiento acuícola.
+ARTÍCULO 90.- La Secretaría podrá otorgar permisos para la acuacultura a personas físicas o morales de nacionalidad mexicana, previo cumplimiento de los requisitos que se establezcan en esta Ley y en las disposiciones reglamentarias, mismos que deberán ser congruentes con los planes de ordenamiento acuícola.
 Los solicitantes de permisos deberán acreditar la legal disposición de los bienes y equipos necesarios para cumplir con el objeto de la solicitud.
 La solicitud deberá contener, al menos, lo siguiente:
 
@@ -1154,73 +955,42 @@ II. Entidad federativa y municipio donde pretenda llevar a cabo la actividad;
 III. La duración por la que pretenda sea otorgada, y
 
 IV. Acreditar su inscripción en el Registro Nacional de Pesca y Acuacultura o copia de la solicitud, si se encuentra en trámite.
-
-### ARTÍCULO 91
-.- La Secretaría podrá otorgar concesión para la acuacultura comercial en aguas de jurisdicción federal a personas físicas o morales, a solicitud del interesado y previo cumplimiento de los requisitos que se establezcan en el reglamento de esta Ley. Lo anterior sin perjuicio de lo establecido en otras disposiciones jurídicas aplicables.
-
-### ARTÍCULO 92
-.- Las personas que realicen actividades de acuacultura, deberían presentar a la Secretaría los avisos de cosecha, producción y recolección, en la forma y términos que determine el reglamento de esta Ley.
-
-### ARTÍCULO 93
-.- Con el propósito de estimular la diversificación y tecnificación de cultivos, la Secretaría promoverá la acuacultura de fomento y podrá permitirla a instituciones de investigación científica y docencia, así como a personas físicas dedicadas a actividades científicas y técnicas.
+ARTÍCULO 91.- La Secretaría podrá otorgar concesión para la acuacultura comercial en aguas de jurisdicción federal a personas físicas o morales, a solicitud del interesado y previo cumplimiento de los requisitos que se establezcan en el reglamento de esta Ley. Lo anterior sin perjuicio de lo establecido en otras disposiciones jurídicas aplicables.
+ARTÍCULO 92.- Las personas que realicen actividades de acuacultura, deberían presentar a la Secretaría los avisos de cosecha, producción y recolección, en la forma y términos que determine el reglamento de esta Ley.
+ARTÍCULO 93.- Con el propósito de estimular la diversificación y tecnificación de cultivos, la Secretaría promoverá la acuacultura de fomento y podrá permitirla a instituciones de investigación científica y docencia, así como a personas físicas dedicadas a actividades científicas y técnicas.
 La Secretaría podrá otorgar permiso de acuacultura de fomento a personas morales cuya actividad u objeto social sea la pesca o el cultivo, comercialización o transformación de productos acuícolas, debiendo cumplir con los mismos requisitos que se establecen para las instituciones de investigación.
 El permiso podrá comprender la comercialización de las cosechas que se obtengan, con los límites y condiciones que se establezcan en el reglamento de esta Ley y en el propio permiso.
 En caso de que los resultados obtenidos sean favorables y se haya dado cumplimiento a las condicionantes establecidas para la acuacultura de fomento, la Secretaría podrá otorgar las concesiones o permisos correspondientes.
-
-### ARTÍCULO 94
-.- Las personas físicas o morales que desarrollen programas de enseñanza en materia acuícola al amparo de un permiso, podrán comercializar la producción obtenida del programa de cultivo, siempre que el producto de su venta se aplique al desarrollo de actividades académicas.
-
-### ARTÍCULO 95
-.- Para la importación de semillas, ovas, alevines, larvas, postlarvas, cepas algales, reproductores o cualquier otro estadio de especies silvestres, cultivadas o de laboratorio, se deberá adjuntar a la solicitud el certificado de sanidad acuícola otorgado por el SENASICA. En el caso de organismos genéticamente modificados se sujetará a lo dispuesto en la Ley de Bioseguridad de Organismos Genéticamente Modificados.
-
-### ARTÍCULO 96
-.- Respecto de la introducción de especies vivas que no existan de forma natural en el cuerpo de agua de jurisdicción federal receptor, la Secretaría, considerando la opinión del IMIPAS, y de acuerdo a los resultados del periodo de cuarentena previo, resolverá sobre la procedencia de la misma, observando lo que dispongan las disposiciones reglamentarias que deriven de esta Ley.
+ARTÍCULO 94.- Las personas físicas o morales que desarrollen programas de enseñanza en materia acuícola al amparo de un permiso, podrán comercializar la producción obtenida del programa de cultivo, siempre que el producto de su venta se aplique al desarrollo de actividades académicas.
+ARTÍCULO 95.- Para la importación de semillas, ovas, alevines, larvas, postlarvas, cepas algales, reproductores o cualquier otro estadio de especies silvestres, cultivadas o de laboratorio, se deberá adjuntar a la solicitud el certificado de sanidad acuícola otorgado por el SENASICA. En el caso de organismos genéticamente modificados se sujetará a lo dispuesto en la Ley de Bioseguridad de Organismos Genéticamente Modificados.
+ARTÍCULO 96.- Respecto de la introducción de especies vivas que no existan de forma natural en el cuerpo de agua de jurisdicción federal receptor, la Secretaría, considerando la opinión del IMIPAS, y de acuerdo a los resultados del periodo de cuarentena previo, resolverá sobre la procedencia de la misma, observando lo que dispongan las disposiciones reglamentarias que deriven de esta Ley.
 Párrafo reformado DOF 04-12-2023 Será requisito para obtener el permiso de introducción de especies vivas en cuerpos de agua de jurisdicción federal, que el solicitante cuente con el certificado de sanidad acuícola que otorgue el SENASICA, en los términos de esta Ley. El interesado podrá iniciar el trámite para obtener dicho permiso ante la Secretaría, pero no le será otorgado hasta que acredite en el expediente respectivo haber obtenido el certificado del SENASICA.
-
-### ARTÍCULO 97
-.- La Secretaría otorgará permisos para recolectar del medio natural reproductores para destinarlos al abasto de las actividades acuícolas exclusivamente a:
+ARTÍCULO 97.- La Secretaría otorgará permisos para recolectar del medio natural reproductores para destinarlos al abasto de las actividades acuícolas exclusivamente a:
 
 I. Propietarios de laboratorios de producción acuícola, únicamente para satisfacer sus necesidades de operación, hasta la segunda corrida de producción, y
 
 II. Concesionarios de la pesca comercial de la especie de que se trate, que cumplan con los requisitos y condiciones que se establezcan en el reglamento de esta Ley y demás disposiciones aplicables.
-
-### ARTÍCULO 98
-.- Aquellas personas que recolecten organismos del medio natural y los acuacultores que se abastezcan de ellos, quedan obligados a realizar acciones de repoblación en los términos y condiciones que en cada caso determine la Secretaría en normas oficiales y en los propios permisos.
+ARTÍCULO 98.- Aquellas personas que recolecten organismos del medio natural y los acuacultores que se abastezcan de ellos, quedan obligados a realizar acciones de repoblación en los términos y condiciones que en cada caso determine la Secretaría en normas oficiales y en los propios permisos.
 Para otorgar los permisos para la recolección de especies en cualquier estadio, la Secretaría considerará el dictamen emitido por el IMIPAS, en el que se determinará el número de ejemplares, zonas y épocas para su recolección. No se otorgará permiso cuando se determine que se pone en riesgo la conservación de la especie de que se trate.
 Párrafo reformado DOF 04-12-2023 Los permisionarios deberán presentar a la Secretaría el aviso de recolección correspondiente, con la información y requisitos que se establezcan en el reglamento.
-
-### ARTÍCULO 99
-.- Las personas que colecten en cualquiera de las fases de desarrollo organismos acuáticos vivos provenientes de poblaciones naturales con fines de acuacultura, deberán observar los lineamientos que en materia de recolección, aclimatación, manejo, transporte y siembra de los mismos se establezcan en normas oficiales.
-
-### ARTÍCULO 100
-.- Los permisos de acuacultura tendrán una vigencia de hasta cinco años de acuerdo a las características y naturaleza de la actividad, y los demás requisitos que determinen en las disposiciones reglamentarias que deriven de esta Ley, y en su caso se sujetarán a los planes de manejo.
+ARTÍCULO 99.- Las personas que colecten en cualquiera de las fases de desarrollo organismos acuáticos vivos provenientes de poblaciones naturales con fines de acuacultura, deberán observar los lineamientos que en materia de recolección, aclimatación, manejo, transporte y siembra de los mismos se establezcan en normas oficiales.
+ARTÍCULO 100.- Los permisos de acuacultura tendrán una vigencia de hasta cinco años de acuerdo a las características y naturaleza de la actividad, y los demás requisitos que determinen en las disposiciones reglamentarias que deriven de esta Ley, y en su caso se sujetarán a los planes de manejo.
 Podrán ser prorrogados en los casos y condiciones que se determinen en el propio reglamento, y serán intransferibles.
 Para la acuacultura comercial el titular deberá entregar un informe al IMIPAS a la mitad del plazo estipulado en el permiso, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión.
-Párrafo reformado DOF 04-12-2023
-
-### ARTÍCULO 101
-.- La explotación, uso o aprovechamiento de las aguas nacionales en la acuacultura, se podrá realizar por personas físicas o morales previa la concesión respectiva otorgada por la Autoridad del Agua, en los términos de la Ley de Aguas Nacionales, la presente Ley y sus reglamentos.
+Párrafo reformado DOF 04-12-2023 ARTÍCULO 101.- La explotación, uso o aprovechamiento de las aguas nacionales en la acuacultura, se podrá realizar por personas físicas o morales previa la concesión respectiva otorgada por la Autoridad del Agua, en los términos de la Ley de Aguas Nacionales, la presente Ley y sus reglamentos.
 La Comisión Nacional del Agua, en coordinación con la Secretaría, otorgará facilidades para el desarrollo de la acuacultura y el otorgamiento de las concesiones de agua necesarias; asimismo apoyará, a solicitud de los interesados, el aprovechamiento acuícola en la infraestructura hidráulica federal, que sea compatible con su explotación, uso o aprovechamiento, con la participación que corresponda a los Organismos de Cuenca.
 Las actividades de acuacultura efectuadas en sistemas suspendidos en aguas nacionales no requerirán de concesión de agua, en tanto no se desvíen los cauces y siempre que no se afecten la calidad de agua, la navegación, otros usos permitidos y los derechos de terceros, en los términos de la presente Ley, la Ley de Aguas Nacionales, y sus reglamentos.
-
-### ARTÍCULO 102
-.- Las concesiones sobre aguas de jurisdicción federal, para construir, operar y explotar unidades de producción acuícola se otorgan preferentemente a los propietarios de los terrenos que colindan con dichos cuerpos de agua conforme al procedimiento que establezca el reglamento de esta Ley.
+ARTÍCULO 102.- Las concesiones sobre aguas de jurisdicción federal, para construir, operar y explotar unidades de producción acuícola se otorgan preferentemente a los propietarios de los terrenos que colindan con dichos cuerpos de agua conforme al procedimiento que establezca el reglamento de esta Ley.
 
 ## TÍTULO DÉCIMO — PRIMERO
 DE LA SANIDAD, INOCUIDAD Y CALIDAD
 
 ## CAPÍTULO I — DE LA SANIDAD DE ESPECIES ACUÍCOLAS
-
-### ARTÍCULO 103
-.- La Secretaría, ejercerá sus atribuciones y facultades en materia de sanidad de especies acuícolas a través del SENASICA, de conformidad con esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven y los demás ordenamientos que resulten aplicables.
+ARTÍCULO 103.- La Secretaría, ejercerá sus atribuciones y facultades en materia de sanidad de especies acuícolas a través del SENASICA, de conformidad con esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven y los demás ordenamientos que resulten aplicables.
 Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública Federal u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 La Secretaría y los gobiernos de las entidades federativas, en los términos de los acuerdos y convenios que se celebren, ejercerán sus funciones en forma coordinada.
-
-### ARTÍCULO 104
-.- La Secretaría expedirá las Normas Oficiales Mexicanas y establecerá las medidas de diagnóstico, detección, erradicación, prevención, y control para evitar la introducción y dispersión de enfermedades, determinar y clasificar las patologías de alto riesgo; así como para evaluar los daños, restaurar las áreas afectadas y establecer procesos de seguimiento.
-
-### ARTÍCULO 105
-.- Requerirán de certificado de sanidad acuícola, de manera previa a su realización, las siguientes actividades:
+ARTÍCULO 104.- La Secretaría expedirá las Normas Oficiales Mexicanas y establecerá las medidas de diagnóstico, detección, erradicación, prevención, y control para evitar la introducción y dispersión de enfermedades, determinar y clasificar las patologías de alto riesgo; así como para evaluar los daños, restaurar las áreas afectadas y establecer procesos de seguimiento.
+ARTÍCULO 105.- Requerirán de certificado de sanidad acuícola, de manera previa a su realización, las siguientes actividades:
 
 I. La importación y exportación y tránsito internacional de especies acuáticas, sus productos y subproductos y de productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies;
 
@@ -1232,9 +1002,7 @@ IV. Uso y aplicación de antibióticos, medicamentos veterinarios, aditivos y de
 
 V. La introducción de especies acuícolas vivas a un cuerpo de agua de jurisdicción federal.
 Respecto de la importación de especies acuáticas a que se refiere la fracción I de este artículo, será requisito para obtener el certificado de sanidad que el solicitante cuente con la autorización correspondiente expedida por la autoridad competente del país de origen y acredite dicha situación en el expediente respectivo.
-
-### ARTÍCULO 106
-.- También requerirán certificado de sanidad acuícola:
+ARTÍCULO 106.- También requerirán certificado de sanidad acuícola:
 
 I. Las instalaciones en las que se realicen actividades acuícolas;
 
@@ -1242,15 +1010,11 @@ II. Las especies acuáticas vivas que se capturen de poblaciones naturales y se 
 
 III. Las unidades de cuarentena.
 Para los efectos de este artículo, la Secretaría tomará en cuenta la opinión del SENASICA para establecer en normas oficiales los lineamientos sanitarios para el funcionamiento y operación de unidades de producción acuícola y de unidades de cuarentena, así como las especificaciones sanitarias para el cultivo, siembra y cosecha de organismos acuáticos.
-
-### ARTÍCULO 107
-.- Los certificados de sanidad acuícola podrán ser expedidos directamente por el SENASICA o a través de los organismos de certificación, acreditados y aprobados en términos de la Ley Federal sobre Metrología y Normalización y del reglamento de esta Ley.
+ARTÍCULO 107.- Los certificados de sanidad acuícola podrán ser expedidos directamente por el SENASICA o a través de los organismos de certificación, acreditados y aprobados en términos de la Ley Federal sobre Metrología y Normalización y del reglamento de esta Ley.
 Los Comités de Sanidad Acuícola serán órganos auxiliares para que el SENASICA lleve a cabo la prevención, diagnóstico y control de enfermedades. La organización y funcionamiento de dichos Comités se determinará en el reglamento que al efecto se expida.
 Los demás requisitos y previsiones para obtener el certificado de sanidad correspondiente se establecerán en las disposiciones reglamentarias y en las normas oficiales que deriven de esta Ley. El SENASICA expedirá el certificado, siempre que el interesado cumpla con dichos requisitos y previsiones.
 En las concesiones y los permisos para acuacultura comercial se establecerán las condiciones sanitarias que requiera la introducción de organismos a instalaciones dedicadas a la producción de las primeras fases de desarrollo de cualquier organismo acuático.
-
-### ARTÍCULO 108
-.- Las Entidades Federativas, se coordinarán con la Secretaría, con el objeto de:
+ARTÍCULO 108.- Las Entidades Federativas, se coordinarán con la Secretaría, con el objeto de:
 
 I. Organizar, apoyar y supervisar el funcionamiento de los Organismos Auxiliares;
 
@@ -1261,9 +1025,7 @@ III. Difundir permanentemente la información y conocimientos sobre sanidad acu�
 IV. Realizar acciones de saneamiento acuícola.
 
 ## CAPÍTULO II — DE LAS MEDIDAS SANITARIAS
-
-### ARTÍCULO 109
-.- Las medidas sanitarias tienen por objeto prevenir, controlar, combatir y erradicar enfermedades y plagas de las especies acuáticas vivas, con la finalidad de proteger su salud y la del hombre. Las medidas sanitarias serán establecidas por el SENASICA.
+ARTÍCULO 109.- Las medidas sanitarias tienen por objeto prevenir, controlar, combatir y erradicar enfermedades y plagas de las especies acuáticas vivas, con la finalidad de proteger su salud y la del hombre. Las medidas sanitarias serán establecidas por el SENASICA.
 Corresponde a la Secretaría con la opinión del SENASICA la emisión de normas oficiales relativas a esta materia, y cuando la situación lo amerite, podrán ser emergentes. Las normas oficiales podrán comprender alguna o algunas de las siguientes medidas:
 
 I. Campañas sanitarias, entendidas como el conjunto de medidas para prevenir, controlar o erradicar enfermedades o plagas de las especies acuáticas vivas en un área o zona determinada;
@@ -1275,9 +1037,7 @@ III. El diagnóstico e identificación de enfermedades y plagas de las especies 
 IV. La retención y disposición de especies acuáticas vivas, sus productos, subproductos y productos químicos, farmacéuticos, biológicos y alimenticios, para uso o consumo de dichas especies, que puedan ocasionar enfermedades o plagas en los mismos, y
 
 V. Las demás que se establezcan en las propias normas oficiales, así como aquellas que, conforme a los avances y adelantos científicos y tecnológicos, sean eficaces para la atención de cada caso de enfermedad o plaga.
-
-### ARTÍCULO 110
-.- Para la aplicación de medidas sanitarias, la Secretaría declarará mediante acuerdo que se publicará en el Diario Oficial de la Federación, el estatus sanitario de las entidades federativas, como zona libre, zona en vigilancia, zona de escasa prevalencia y zona infectada de enfermedades o plagas de especies acuáticas vivas, considerando entre otros factores:
+ARTÍCULO 110.- Para la aplicación de medidas sanitarias, la Secretaría declarará mediante acuerdo que se publicará en el Diario Oficial de la Federación, el estatus sanitario de las entidades federativas, como zona libre, zona en vigilancia, zona de escasa prevalencia y zona infectada de enfermedades o plagas de especies acuáticas vivas, considerando entre otros factores:
 
 I. La prevalencia y recurrencia de enfermedades en la zona;
 
@@ -1285,56 +1045,35 @@ II. Las condiciones geográficas y de los ecosistemas; y
 
 III. La eficacia de las medidas sanitarias que se hayan aplicado, en su caso.
 El SENASICA considerará dicha zonificación para la aplicación de las medidas sanitarias procedentes.
-
-### ARTÍCULO 111
-.- La aplicación, inspección y vigilancia de los lineamientos, acuerdos, normas y demás disposiciones en materia sanitaria a que se refiere este capítulo, corresponderá exclusivamente al SENASICA en los términos de esta Ley.
+ARTÍCULO 111.- La aplicación, inspección y vigilancia de los lineamientos, acuerdos, normas y demás disposiciones en materia sanitaria a que se refiere este capítulo, corresponderá exclusivamente al SENASICA en los términos de esta Ley.
 El cumplimiento de dichas disposiciones podrá ser evaluado por organismos auxiliares, organismos de certificación, unidades de verificación y laboratorios de pruebas, aprobados por el propio SENASICA de conformidad con lo dispuesto en la Ley Federal sobre Metrología y Normalización y el reglamento de esta Ley.
-
-### ARTÍCULO 112
-.- Por razones sanitarias y de protección de la salud pública, el SENASICA podrá proponer a la Secretaría la prohibición de la importación de especies acuáticas. Para estos efectos, dicha autoridad deberá fundar y motivar su resolución basándose, entre otras cosas, en elementos e información científica y técnica, y considerando los compromisos establecidos en Tratados y Acuerdos Internacionales sanitarios y comerciales de los que México sea parte.
-
-### ARTÍCULO 113
-.- La Secretaría, mediante Acuerdos, determinará los requisitos y medidas sanitarias que deberán cumplirse para movilizar a zonas libres o en vigilancia, organismos acuícolas vivos, productos y subproductos, alimentos y productos para uso o consumo por éstos, cuarentenados, así como los vehículos, maquinaria, materiales o equipo y otros artículos reglamentados que hayan estado en contacto con ellos.
+ARTÍCULO 112.- Por razones sanitarias y de protección de la salud pública, el SENASICA podrá proponer a la Secretaría la prohibición de la importación de especies acuáticas. Para estos efectos, dicha autoridad deberá fundar y motivar su resolución basándose, entre otras cosas, en elementos e información científica y técnica, y considerando los compromisos establecidos en Tratados y Acuerdos Internacionales sanitarios y comerciales de los que México sea parte.
+ARTÍCULO 113.- La Secretaría, mediante Acuerdos, determinará los requisitos y medidas sanitarias que deberán cumplirse para movilizar a zonas libres o en vigilancia, organismos acuícolas vivos, productos y subproductos, alimentos y productos para uso o consumo por éstos, cuarentenados, así como los vehículos, maquinaria, materiales o equipo y otros artículos reglamentados que hayan estado en contacto con ellos.
 Las mercancías que se pretendan ingresar al territorio nacional, en importación temporal o definitiva, o en tránsito internacional, deberán provenir de países que cuenten con servicios veterinarios equivalentes a los que se regulan en esta Ley y su reglamento.
 Los servicios veterinarios de inspección, verificación y certificación para las mercancías destinadas al comercio exterior las realizará exclusivamente el SENASICA, quien podrá solicitar el apoyo de los organismos de coadyuvancia para que realicen determinados actos en los términos del Reglamento de esta Ley.
-
-### ARTÍCULO 114
-.- Quedan prohibidas la importación o exportación, temporal o definitiva y el tránsito internacional de organismos acuícolas, derivados, alimentos, deshechos y despojos, cuando sean originarios o procedan de zonas o países que no han sido reconocidos como libres de enfermedades emergentes o endémicas. El reconocimiento de zonas o países como libres de enfermedades, lo realizará la Secretaría en términos del Reglamento de esta Ley, mediante acuerdos que publicará en el Diario Oficial de la Federación.
+ARTÍCULO 114.- Quedan prohibidas la importación o exportación, temporal o definitiva y el tránsito internacional de organismos acuícolas, derivados, alimentos, deshechos y despojos, cuando sean originarios o procedan de zonas o países que no han sido reconocidos como libres de enfermedades emergentes o endémicas. El reconocimiento de zonas o países como libres de enfermedades, lo realizará la Secretaría en términos del Reglamento de esta Ley, mediante acuerdos que publicará en el Diario Oficial de la Federación.
 En todo caso, la Secretaría, previo análisis de riesgo y en los términos que se establezcan en la gestión del riesgo, podrá suspender la prohibición y condicionar la importación o exportación de las mercancías en riesgo.
 Cuando el riesgo sanitario o la situación concreta a prevenirse, no esté contemplada en una norma oficial específica, los interesados deberán cumplir los requisitos mínimos establecidos en las normas oficiales aplicables en situaciones generales u observar el procedimiento que se regula en el Reglamento de esta Ley.
-
-### ARTÍCULO 115
-.- Para fines de exportación la Secretaría, a petición y con cargo a los interesados, podrá llevar el control sanitario en las unidades de producción en las que se críen, alojen o manejen especies acuícolas vivas, así como en los establecimientos en los que se almacenen, transformen y/o procesen derivados, alimentos y productos para uso o consumo de éstos, a fin de certificar el cumplimiento de los requisitos sanitarios establecidos por la autoridad competente del país al que se destinarán las mercancías.
+ARTÍCULO 115.- Para fines de exportación la Secretaría, a petición y con cargo a los interesados, podrá llevar el control sanitario en las unidades de producción en las que se críen, alojen o manejen especies acuícolas vivas, así como en los establecimientos en los que se almacenen, transformen y/o procesen derivados, alimentos y productos para uso o consumo de éstos, a fin de certificar el cumplimiento de los requisitos sanitarios establecidos por la autoridad competente del país al que se destinarán las mercancías.
 En el caso de la exportación de productos para uso o consumo acuícola, la Secretaría, a solicitud de los interesados, expedirá la certificación de libre venta, de origen y de regulación vigente de empresas y productos regulados.
 Cuando se opte por la destrucción o el tratamiento, el interesado solicitará a la Secretaría, la evaluación del riesgo sanitario, en cuyo caso el ingreso de las mercancías se hará bajo el procedimiento de cuarentena postentrada, y el interesado deberá solicitar a la autoridad aduanera la suspensión del despacho aduanero, y en su caso, el cambio de régimen aduanero.
-
-### ARTÍCULO 116
-.- Cuando se detecte o se tenga evidencia científica sobre la presencia o entrada inminente de enfermedades emergentes o de notificación obligatoria, erradicadas, desconocidas o inexistentes en el país, que pongan en situación de emergencia sanitaria a una o varias especies acuícolas en todo o en parte del territorio nacional, la Secretaría instrumentará el Dispositivo Nacional de Emergencia de Sanidad Acuícola, que implicará la publicación inmediata del Acuerdo en el que se establezca la instrumentación urgente y coordinada de las medidas sanitarias que deberán aplicarse, cuando la evidencia científica confirme la presencia de alguna enfermedad emergente o de notificación obligatoria, erradicada, desconocida o inexistente, o la epidemia de una enfermedad endémica.
+ARTÍCULO 116.- Cuando se detecte o se tenga evidencia científica sobre la presencia o entrada inminente de enfermedades emergentes o de notificación obligatoria, erradicadas, desconocidas o inexistentes en el país, que pongan en situación de emergencia sanitaria a una o varias especies acuícolas en todo o en parte del territorio nacional, la Secretaría instrumentará el Dispositivo Nacional de Emergencia de Sanidad Acuícola, que implicará la publicación inmediata del Acuerdo en el que se establezca la instrumentación urgente y coordinada de las medidas sanitarias que deberán aplicarse, cuando la evidencia científica confirme la presencia de alguna enfermedad emergente o de notificación obligatoria, erradicada, desconocida o inexistente, o la epidemia de una enfermedad endémica.
 También se justificará la activación del dispositivo de emergencia y la aplicación inmediata de medidas de inocuidad, cuando se sospeche o se tenga evidencia científica sobre un incremento en los niveles de contaminantes o la presencia de residuos tóxicos en alimentos para consumo humano o acuícola, que afecten su inocuidad.
 La Secretaría podrá determinar en los acuerdos por los que se instrumente el Dispositivo, los productos para uso o consumo de los organismos acuáticos cuya aplicación es la adecuada para el control de la enfermedad a controlar o erradicar, así como las medidas de inocuidad aplicables para reducir los riesgos de contaminación alimentaria.
-
-### ARTÍCULO 117
-.- La Secretaría podrá acordar y convenir con los gobiernos de las entidades federativas, los municipios, órganos de coadyuvancia y particulares interesados, la creación de uno o varios fondos de contingencia para afrontar inmediatamente las emergencias sanitarias que surjan por la presencia de enfermedades emergentes o de notificación obligatoria, erradicadas, desconocidas o inexistentes que pongan en peligro la producción acuícola en el territorio nacional, así como, las emergencias de contaminación en los alimentos cuando se detecte un incremento en los niveles de contaminantes o la presencia de residuos tóxicos que vulneren su inocuidad.
+ARTÍCULO 117.- La Secretaría podrá acordar y convenir con los gobiernos de las entidades federativas, los municipios, órganos de coadyuvancia y particulares interesados, la creación de uno o varios fondos de contingencia para afrontar inmediatamente las emergencias sanitarias que surjan por la presencia de enfermedades emergentes o de notificación obligatoria, erradicadas, desconocidas o inexistentes que pongan en peligro la producción acuícola en el territorio nacional, así como, las emergencias de contaminación en los alimentos cuando se detecte un incremento en los niveles de contaminantes o la presencia de residuos tóxicos que vulneren su inocuidad.
 
 ## CAPÍTULO III — DE LA INOCUIDAD Y CALIDAD DE LOS PRODUCTOS PESQUEROS Y ACUÍCOLAS
-
-### ARTÍCULO 118
-.- La inocuidad y la calidad de los productos acuícolas y pesqueros a que se refiere este capítulo comprende los productos de la pesca y la acuacultura, desde su captura o cosecha y hasta su procesamiento primario.
+ARTÍCULO 118.- La inocuidad y la calidad de los productos acuícolas y pesqueros a que se refiere este capítulo comprende los productos de la pesca y la acuacultura, desde su captura o cosecha y hasta su procesamiento primario.
 El SENASICA podrá proponer a la Secretaría la inclusión en las normas oficiales, las medidas de inocuidad de dichos productos, desde su producción primaria, hasta su procesamiento primario incluyendo actividades tales como: cortado, refrigerado y congelado, sin perjuicio de las atribuciones que les correspondan a las autoridades competentes en materia de salubridad general.
 La inocuidad de los productos a que se refiere este artículo se acreditará a través del certificado que expida el SENASICA, de conformidad con lo que se establezca en las normas de la materia.
-
-### ARTÍCULO 119
-.- Los estándares de calidad de los productos pesqueros y acuícolas desde su captura o cosecha y hasta su procesamiento primario, serán determinados por el SENASICA a efecto de crear las condiciones necesarias para inducir el ordenamiento de los mercados tanto nacional como de exportación pesqueros y acuícolas.
+ARTÍCULO 119.- Los estándares de calidad de los productos pesqueros y acuícolas desde su captura o cosecha y hasta su procesamiento primario, serán determinados por el SENASICA a efecto de crear las condiciones necesarias para inducir el ordenamiento de los mercados tanto nacional como de exportación pesqueros y acuícolas.
 La calidad de los productos a que se refiere este artículo se acreditará a través del certificado que expida el SENASICA, conforme lo que se establezca en las normas oficiales mexicanas. Los certificados tendrán las características, vigencia, requisitos y formalidades que establezcan las disposiciones reglamentarias, y los Acuerdos y Tratados Internacionales en la materia de los que México sea parte.
 
 ## CAPÍTULO IV — ESTABLECIMIENTOS TIPO INSPECCIÓN FEDERAL DE RECURSOS PESQUEROS Y
 RECURSOS ACUÍCOLAS Capítulo adicionado DOF 30-05-2012
 
 ## SECCIÓN I — Disposiciones Generales
-Sección adicionada DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis.- Para los efectos de este capítulo, se entiende por:
+Sección adicionada DOF 30-05-2012 ARTÍCULO 119 Bis.- Para los efectos de este capítulo, se entiende por:
 
 I. Buenas prácticas pesqueras y acuícolas: Conjunto de procedimientos, actividades, condiciones y controles que se establezcan en normas oficiales mexicanas y demás disposiciones jurídicas que formule y expida la Secretaría, aplicables desde el procesamiento primario hasta la puesta a disposición del consumidor, de recursos pesqueros y recursos acuícolas para consumo humano, en las unidades dedicadas a la pesca o a la acuacultura y en los establecimientos Tipo Inspección Federal dedicados al procesamiento primario de dichos recursos, con el objeto de disminuir los riesgos asociados a agentes físicos, químicos o biológicos que los contaminen durante en su captura, procesamiento primario o recolección.
 
@@ -1351,10 +1090,7 @@ VI. Procesamiento primario: Las actividades de captura, extracción, recolecció
 VII. Trazabilidad: Conjunto de actividades técnicas y administrativas sistematizadas determinadas por la Secretaría que permiten registrar los procesos relacionados con la captura, extracción, cultivo, recolección, crianza, engorda, reproducción, cortado, cocido, envasado, enlatado, empacado, refrigerado, congelado, transportado, industrializado, distribuido o importado de recursos, partes y derivados de origen pesquero o acuícola; así como aquellas tendientes a registrar la aplicación de los productos químicos, farmacéuticos, biológicos y alimenticios para uso en especies acuáticas o para consumo de éstas, desde su origen hasta su destino, a través de una o varias etapas especificadas de su producción, transformación y distribución, identificando en cada etapa su ubicación espacial y en su caso los factores de riesgo de sanidad acuícola y de contaminación que pueden estar presentes en cada una de las actividades.
 
 VIII. TIF: Abreviatura referente a establecimientos Tipo Inspección Federal y al símbolo que acredita la certificación correspondiente a este tipo de instalaciones, misma que podrá utilizarse, previo cumplimiento de las disposiciones de esta Ley, en dichos establecimientos y recursos, partes y derivados de origen pesquero y acuícola para consumo humano, para garantizar su inocuidad.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 1.- Para los efectos de este capítulo, son atribuciones de la Secretaría:
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 1.- Para los efectos de este capítulo, son atribuciones de la Secretaría:
 
 I. Determinar y establecer las medidas y criterios aplicables en materia de buenas prácticas que habrán de aplicarse en la producción primaria y el procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola para consumo humano en establecimientos TIF, para reducir los contaminantes o riesgos que puedan estar presentes en éstos; así como aquellas medidas y criterios que conforme al principio de reciprocidad sean necesarios para reconocer las buenas prácticas equivalentes que apliquen otros países para el caso de recursos pesqueros y recursos acuícolas para consumo humano que se destinen al comercio exterior;
 
@@ -1369,61 +1105,25 @@ Las atribuciones y facultades previstas en este artículo serán realizadas y ej
 Artículo adicionado DOF 30-05-2012
 
 ## SECCIÓN II — De los Establecimientos TIF
-Sección adicionada DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 2.- El SENASICA certificará a petición de parte, previo cumplimiento de las disposiciones de esta Ley y demás que de ella emanen, la instalación y funcionamiento de establecimientos Tipo Inspección Federal dedicados al procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola para consumo humano.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 3.- Los establecimientos referidos en el artículo anterior utilizarán la denominación Tipo Inspección Federal o su abreviatura TIF de acuerdo a lo dispuesto por normas oficiales mexicanas y demás disposiciones jurídicas que se emitan conforme a este capítulo, como símbolo de calidad higiénico-sanitaria de los recursos pesqueros y recursos acuícolas, cuando sus instalaciones, equipo y proceso productivo se ajusten a las disposiciones de sanidad e inocuidad pesquera y acuícola, y de buenas prácticas pesqueras, acuícolas y de manufactura, y esta condición esté certificada por el SENASICA o por organismos de certificación acreditados en los términos de las disposiciones federales aplicables en materia de normalización.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 4.- Los establecimientos TIF deberán contar con responsables autorizados por el SENASICA que realicen la inspección o verificación en tal número que garantice su eficiencia. Los establecimientos autorizados para exportar recursos, partes y derivados de origen pesquero y acuícola para consumo humano, deberán contar con dichos responsables si el SENASICA lo determina o el país importador lo requiere.
+Sección adicionada DOF 30-05-2012 ARTÍCULO 119 Bis 2.- El SENASICA certificará a petición de parte, previo cumplimiento de las disposiciones de esta Ley y demás que de ella emanen, la instalación y funcionamiento de establecimientos Tipo Inspección Federal dedicados al procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola para consumo humano.
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 3.- Los establecimientos referidos en el artículo anterior utilizarán la denominación Tipo Inspección Federal o su abreviatura TIF de acuerdo a lo dispuesto por normas oficiales mexicanas y demás disposiciones jurídicas que se emitan conforme a este capítulo, como símbolo de calidad higiénico-sanitaria de los recursos pesqueros y recursos acuícolas, cuando sus instalaciones, equipo y proceso productivo se ajusten a las disposiciones de sanidad e inocuidad pesquera y acuícola, y de buenas prácticas pesqueras, acuícolas y de manufactura, y esta condición esté certificada por el SENASICA o por organismos de certificación acreditados en los términos de las disposiciones federales aplicables en materia de normalización.
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 4.- Los establecimientos TIF deberán contar con responsables autorizados por el SENASICA que realicen la inspección o verificación en tal número que garantice su eficiencia. Los establecimientos autorizados para exportar recursos, partes y derivados de origen pesquero y acuícola para consumo humano, deberán contar con dichos responsables si el SENASICA lo determina o el país importador lo requiere.
 Asimismo dichos establecimientos deberán tener a su servicio durante las horas laborables, cuando menos un responsable autorizado por el SENASICA para fines de control de vigilancia epidemiológica, y otras medidas sanitarias, de inocuidad y de buenas prácticas pesqueras, acuícolas y de manufactura.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 5.- La certificación TIF tendrá validez y surtirá sus efectos en toda la República.
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 5.- La certificación TIF tendrá validez y surtirá sus efectos en toda la República.
 Los establecimientos que cuenten con dicha certificación y denominación no serán objeto de inspección y resello por autoridad diversa, en la materia que regula el presente capítulo.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 6.- El SENASICA promoverá que los establecimientos de procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola obtengan la denominación TIF, previo cumplimiento de las disposiciones de esta Ley, de las normas oficiales mexicanas que de ella deriven y demás disposiciones que emita el propio SENASICA en materia de sanidad e inocuidad pesquera y acuícola y buenas prácticas aplicables a dichos recursos.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 7.- Los propietarios o poseedores de los establecimientos TIF, estarán obligados a proporcionar las facilidades necesarias para que el SENASICA o terceros acreditados, según corresponda, lleven a cabo su inspección, verificación o certificación.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 8.- La certificación, verificación, dictámenes de prueba o evaluación de la conformidad de las normas oficiales mexicanas y demás disposiciones jurídicas en materia TIF las realizará el SENASICA a iniciativa propia o a petición del interesado, pudiendo hacerlo directamente o a través de organismos de certificación, unidades de verificación o laboratorios de pruebas acreditados en los términos de las disposiciones aplicables.
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 6.- El SENASICA promoverá que los establecimientos de procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola obtengan la denominación TIF, previo cumplimiento de las disposiciones de esta Ley, de las normas oficiales mexicanas que de ella deriven y demás disposiciones que emita el propio SENASICA en materia de sanidad e inocuidad pesquera y acuícola y buenas prácticas aplicables a dichos recursos.
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 7.- Los propietarios o poseedores de los establecimientos TIF, estarán obligados a proporcionar las facilidades necesarias para que el SENASICA o terceros acreditados, según corresponda, lleven a cabo su inspección, verificación o certificación.
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 8.- La certificación, verificación, dictámenes de prueba o evaluación de la conformidad de las normas oficiales mexicanas y demás disposiciones jurídicas en materia TIF las realizará el SENASICA a iniciativa propia o a petición del interesado, pudiendo hacerlo directamente o a través de organismos de certificación, unidades de verificación o laboratorios de pruebas acreditados en los términos de las disposiciones aplicables.
 Artículo adicionado DOF 30-05-2012
 
 ## SECCIÓN III — De la Trazabilidad
-Sección adicionada DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 9.- La Secretaría establecerá las bases para la implementación de sistemas de trazabilidad de recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, desde su origen hasta su destino. Los sistemas serán coordinados, supervisados y vigilados por la propia Secretaría, a través del SENASICA.
+Sección adicionada DOF 30-05-2012 ARTÍCULO 119 Bis 9.- La Secretaría establecerá las bases para la implementación de sistemas de trazabilidad de recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, desde su origen hasta su destino. Los sistemas serán coordinados, supervisados y vigilados por la propia Secretaría, a través del SENASICA.
 La Secretaría, mediante normas oficiales mexicanas y demás disposiciones jurídicas, definirá los sistemas de trazabilidad aplicables a los recursos a que se refiere este capítulo.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 10.- Los agentes involucrados en cada eslabón de la cadena de valor, deberán implementar y mantener un sistema de trazabilidad documentado en las etapas que le correspondan, en términos de lo establecido en las normas oficiales mexicanas y demás disposiciones jurídicas que emita la Secretaría para tal efecto.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 11.- Los sistemas de trazabilidad de recursos, partes y derivados de origen pesquero o acuícola para consumo humano, sean nacionales o importados, garantizarán el rastreo en toda la cadena de su procesamiento primario y se deberá contar con la relación de proveedores y distribuidores o clientes.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 12.- Los agentes involucrados deberán notificar a la Secretaría cuando sospechen que alguno de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, que han capturado, extraído, recolectado, producido, criado, cortado, cocido, envasado, empacado, refrigerado, congelado, transportado, industrializado, distribuido o importado no cumplen con las disposiciones de buenas prácticas pesqueras o acuícolas o de manufactura. De ser procedente, la Secretaría ordenará de inmediato su retiro del mercado y, en su caso, dispondrá las medidas sanitarias que correspondan.
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 10.- Los agentes involucrados en cada eslabón de la cadena de valor, deberán implementar y mantener un sistema de trazabilidad documentado en las etapas que le correspondan, en términos de lo establecido en las normas oficiales mexicanas y demás disposiciones jurídicas que emita la Secretaría para tal efecto.
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 11.- Los sistemas de trazabilidad de recursos, partes y derivados de origen pesquero o acuícola para consumo humano, sean nacionales o importados, garantizarán el rastreo en toda la cadena de su procesamiento primario y se deberá contar con la relación de proveedores y distribuidores o clientes.
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 12.- Los agentes involucrados deberán notificar a la Secretaría cuando sospechen que alguno de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, que han capturado, extraído, recolectado, producido, criado, cortado, cocido, envasado, empacado, refrigerado, congelado, transportado, industrializado, distribuido o importado no cumplen con las disposiciones de buenas prácticas pesqueras o acuícolas o de manufactura. De ser procedente, la Secretaría ordenará de inmediato su retiro del mercado y, en su caso, dispondrá las medidas sanitarias que correspondan.
 Cuando las mercancías sean retiradas del mercado, se informará a los consumidores de las razones de este retiro.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 13.- Será parte del sistema de trazabilidad de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, nacionales, de importación o exportación regulados por este capítulo y de acuerdo a lo establecido en normas oficiales mexicanas y demás disposiciones jurídicas que expida la Secretaría, la información que defina respecto de dichos recursos, partes y derivados, entre otros aspectos:
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 13.- Será parte del sistema de trazabilidad de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, nacionales, de importación o exportación regulados por este capítulo y de acuerdo a lo establecido en normas oficiales mexicanas y demás disposiciones jurídicas que expida la Secretaría, la información que defina respecto de dichos recursos, partes y derivados, entre otros aspectos:
 
 I. El origen;
 
@@ -1436,19 +1136,14 @@ IV. El lote;
 V. La fecha de producción, la fecha de empaque, proceso o elaboración, caducidad o fecha de consumo preferente, y
 
 VI. La identificación individual o en grupo de acuerdo al producto en específico.
-Artículo adicionado DOF 30-05-2012
-
-### ARTÍCULO 119
-Bis 14.- Para efectos de trazabilidad, las normas oficiales mexicanas y demás disposiciones jurídicas relativas a buenas prácticas pesqueras, acuícolas y de manufactura que expida la Secretaría, establecerán los requisitos que deberán contener las etiquetas de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano.
+Artículo adicionado DOF 30-05-2012 ARTÍCULO 119 Bis 14.- Para efectos de trazabilidad, las normas oficiales mexicanas y demás disposiciones jurídicas relativas a buenas prácticas pesqueras, acuícolas y de manufactura que expida la Secretaría, establecerán los requisitos que deberán contener las etiquetas de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano.
 Artículo adicionado DOF 30-05-2012
 
 ## TÍTULO DÉCIMO — SEGUNDO
 DE LA INFORMACIÓN SOBRE PESCA Y ACUACULTURA
 
 ## CAPÍTULO I — DEL SISTEMA NACIONAL DE INFORMACIÓN DE PESCA Y ACUACULTURA
-
-### ARTÍCULO 120
-.- La Secretaría integrará el Sistema Nacional de Información de Pesca y Acuacultura que tendrá por objeto organizar, actualizar y difundir la información sobre actividades pesqueras y acuícolas, particularmente las que se desarrollan en el país. El sistema se integrará con la información siguiente:
+ARTÍCULO 120.- La Secretaría integrará el Sistema Nacional de Información de Pesca y Acuacultura que tendrá por objeto organizar, actualizar y difundir la información sobre actividades pesqueras y acuícolas, particularmente las que se desarrollan en el país. El sistema se integrará con la información siguiente:
 
 I. La Carta Nacional Pesquera;
 
@@ -1464,14 +1159,10 @@ VI. Las resoluciones definitivas acerca de concesiones, permisos y para realizar
 
 VII. El anuario estadístico de pesca y acuacultura.
 De conformidad con lo establecido en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, la información mencionada en el presente artículo deberá ser publicada en la página electrónica de la Secretaría y por los medios impresos a su alcance.
-
-### ARTÍCULO 121
-.- Todos los titulares de concesiones o permisos deberán, en los términos de la presente Ley, presentar los informes acerca de los datos estadísticos requeridos por las autoridades para el cumplimiento de sus fines y objetivos.
+ARTÍCULO 121.- Todos los titulares de concesiones o permisos deberán, en los términos de la presente Ley, presentar los informes acerca de los datos estadísticos requeridos por las autoridades para el cumplimiento de sus fines y objetivos.
 
 ## CAPÍTULO II — DEL REGISTRO NACIONAL DE PESCA Y ACUACULTURA
-
-### ARTÍCULO 122
-.- El Registro Nacional de Pesca y Acuacultura estará a cargo de la Secretaría, tendrá carácter público y tiene por objeto la inscripción y actualización obligatorias de la siguiente información relativa a las actividades pesqueras y acuícolas:
+ARTÍCULO 122.- El Registro Nacional de Pesca y Acuacultura estará a cargo de la Secretaría, tendrá carácter público y tiene por objeto la inscripción y actualización obligatorias de la siguiente información relativa a las actividades pesqueras y acuícolas:
 
 I. Las personas físicas o morales que se dediquen a la pesca y la acuacultura, con excepción de las personas físicas que realicen actividades de pesca deportivo-recreativa y de pesca para consumo doméstico;
 
@@ -1486,50 +1177,29 @@ V. Las personas físicas o morales que cuenten con certificados de sanidad, inoc
 VI. Las escuelas pesqueras y los centros dedicados a la investigación o enseñanza en materia de flora y fauna acuáticas aprovechables para la pesca y acuacultura.
 La Secretaría expedirá el certificado de registro correspondiente.
 La organización y funcionamiento del Registro se determinarán en las disposiciones reglamentarias que deriven de esta Ley. El IMIPAS, el SENASICA y los gobiernos de las entidades federativas contribuirán a la integración, actualización y funcionamiento del Registro, en la forma y términos que establezcan las disposiciones aplicables.
-Párrafo reformado DOF 04-12-2023
-
-### ARTÍCULO 123
-.- La Secretaría y los gobiernos de las entidades federativas integrarán una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.
+Párrafo reformado DOF 04-12-2023 ARTÍCULO 123.- La Secretaría y los gobiernos de las entidades federativas integrarán una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.
 
 ## TÍTULO DÉCIMO — TERCERO
 INSPECCIÓN Y VIGILANCIA
 
 ## CAPÍTULO ÚNICO
-
-### ARTÍCULO 124
-.- Para verificar y comprobar el cumplimiento de esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven, la Secretaría realizará los actos de inspección y vigilancia, por conducto de personal debidamente autorizado y con la participación de la Secretaría de Marina en los casos en que corresponda.
-
-### ARTÍCULO 125
-.- En las labores de inspección y vigilancia del cumplimiento de esta Ley y de las disposiciones que de ella deriven, se podrán utilizar todos aquellos instrumentos que aporten los descubrimientos y avances científicos y tecnológicos, siempre que su utilización no se encuentre restringida o prohibida por la ley.
+ARTÍCULO 124.- Para verificar y comprobar el cumplimiento de esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven, la Secretaría realizará los actos de inspección y vigilancia, por conducto de personal debidamente autorizado y con la participación de la Secretaría de Marina en los casos en que corresponda.
+ARTÍCULO 125.- En las labores de inspección y vigilancia del cumplimiento de esta Ley y de las disposiciones que de ella deriven, se podrán utilizar todos aquellos instrumentos que aporten los descubrimientos y avances científicos y tecnológicos, siempre que su utilización no se encuentre restringida o prohibida por la ley.
 En la inspección y vigilancia de actividades pesqueras que se realicen en sistemas lagunarios, estuarinos, mar territorial y la zona económica exclusiva, la Secretaría podrá utilizar sistemas de localización y monitoreo satelital. Para estos efectos, dicha autoridad determinará, mediante disposiciones reglamentarias o en las concesiones y permisos, las embarcaciones que requieran el equipo especializado de monitoreo, para la operación de dichos sistemas.
 Los elementos que arrojen los instrumentos a que se refiere este Artículo se considerarán como medios de prueba, y tendrán el valor probatorio que se determine en las disposiciones jurídicas aplicables.
-
-### ARTÍCULO 126
-.- El personal de la Secretaría debidamente autorizado para la realización de los actos a que se refiere el presente capítulo, podrá llevar a cabo visitas de inspección para lo cual deberá contar con el documento oficial que los acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por la autoridad competente de la Secretaría, en la que se precisará el lugar o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de la misma.
-
-### ARTÍCULO 127
-. En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos que se hubiesen presentado durante la diligencia, cumpliendo las formalidades previstas para tal efecto en la Ley Federal de Procedimiento Administrativo.
+ARTÍCULO 126.- El personal de la Secretaría debidamente autorizado para la realización de los actos a que se refiere el presente capítulo, podrá llevar a cabo visitas de inspección para lo cual deberá contar con el documento oficial que los acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por la autoridad competente de la Secretaría, en la que se precisará el lugar o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de la misma.
+ARTÍCULO 127. En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos que se hubiesen presentado durante la diligencia, cumpliendo las formalidades previstas para tal efecto en la Ley Federal de Procedimiento Administrativo.
 Concluido el levantamiento del acta, el inspector o verificador proporcionará al visitado o a la persona con quien se entienda la diligencia, la información respecto a la autoridad que emitió la orden de visita de inspección o verificación; asimismo, hará de su conocimiento el plazo o término con el que cuenta para manifestar lo que a su derecho convenga ante dicha autoridad, y los demás datos sobre las consecuencias jurídicas de la visita de inspección o verificación.
 Los hechos, omisiones o irregularidades administrativas detectadas en las visitas de inspección que estén debidamente asentados en el acta respectiva se tendrán por ciertos, salvo prueba en contrario.
 A continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al interesado. Si la persona con quien se entendió la diligencia o los testigos, se negaren a firmar el acta, o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatorio.
-Artículo reformado DOF 02-06-2015
-
-### ARTÍCULO 128
-. La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el artículo 126, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones que de ella deriven. La información deberá mantenerse por la autoridad en absoluta reserva, si así lo solicita el interesado, salvo en caso de requerimiento judicial.
-Artículo reformado DOF 02-06-2015
-
-### ARTÍCULO 129
-.- La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna persona obstaculice o se oponga a la práctica de la diligencia, con independencia de las sanciones a que haya lugar.
-
-### ARTÍCULO 130
-.- Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas necesarias para cumplir con las disposiciones jurídicas aplicables, así como con las concesiones y permisos respectivos, fundando y motivando el requerimiento, señalando el plazo que corresponda, y para que dentro del término de quince días exponga lo que a su derecho convenga, y en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la autoridad.
+Artículo reformado DOF 02-06-2015 ARTÍCULO 128. La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el artículo 126, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones que de ella deriven. La información deberá mantenerse por la autoridad en absoluta reserva, si así lo solicita el interesado, salvo en caso de requerimiento judicial.
+Artículo reformado DOF 02-06-2015 ARTÍCULO 129.- La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna persona obstaculice o se oponga a la práctica de la diligencia, con independencia de las sanciones a que haya lugar.
+ARTÍCULO 130.- Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas necesarias para cumplir con las disposiciones jurídicas aplicables, así como con las concesiones y permisos respectivos, fundando y motivando el requerimiento, señalando el plazo que corresponda, y para que dentro del término de quince días exponga lo que a su derecho convenga, y en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la autoridad.
 Si el visitado, en el plazo que señala el primer párrafo de éste artículo ofrece pruebas, la autoridad, en el término de tres días hábiles, acordará su admisión y en el mismo proveído fijará fecha para la audiencia de desahogo de pruebas, la que deberá celebrarse dentro de los cinco días hábiles siguientes a la fecha en que se notifique; y de la cual se levantará acta que será suscrita por los que hayan intervenido.
 Párrafo adicionado DOF 02-06-2015 Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el primer párrafo de este artículo, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo de tres días hábiles presente por escrito sus alegatos.
 Párrafo reformado DOF 02-06-2015 Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 En los casos en que proceda, la Secretaría hará del conocimiento del Ministerio Público Federal la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
-
-### ARTÍCULO 131
-.- En materia de notificación de actos de inspección y vigilancia a que se refiere este Título, además de las formas comprendidas en la Ley Federal de Procedimiento Administrativo, la Secretaría podrá realizar notificaciones por estrados, las cuales se harán fijando durante quince días consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad competente que efectúe la notificación y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca la propia Secretaría.
+ARTÍCULO 131.- En materia de notificación de actos de inspección y vigilancia a que se refiere este Título, además de las formas comprendidas en la Ley Federal de Procedimiento Administrativo, la Secretaría podrá realizar notificaciones por estrados, las cuales se harán fijando durante quince días consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad competente que efectúe la notificación y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca la propia Secretaría.
 Dicha autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del decimosexto día siguiente al primer día en que se hubiera fijado o publicado el documento.
 Por lo que hace a los demás requisitos y formalidades que deben observarse en la realización de visitas de inspección y vigilancia, son aplicables supletoriamente a este capítulo las disposiciones, de la Normalización respecto de la evaluación de la conformidad de las normas oficiales mexicanas.
 Respecto de los actos de verificación que realice el SENASICA para la comprobación del cumplimiento de las disposiciones relativas a la sanidad de especies acuícolas, es aplicable de forma supletoria en lo que corresponda, lo dispuesto en la Ley Federal de Sanidad Animal.
@@ -1538,9 +1208,7 @@ Respecto de los actos de verificación que realice el SENASICA para la comprobac
 INFRACCIONES, SANCIONES Y RESPONSABILIDADES
 
 ## CAPÍTULO I — DE LAS INFRACCIONES
-
-### ARTÍCULO 132
-.- Son infracciones a lo establecido en la presente Ley, el Reglamento y las normas oficiales que de ella deriven:
+ARTÍCULO 132.- Son infracciones a lo establecido en la presente Ley, el Reglamento y las normas oficiales que de ella deriven:
 
 I. Realizar la pesca sin contar para ello con la concesión o permiso correspondiente;
 
@@ -1606,9 +1274,7 @@ XXX. Falsificar o alterar los títulos que amparan los derechos de los permisos 
 XXXI. Cualquier otra contravención a lo dispuesto en la presente Ley.
 
 ## CAPÍTULO II — DE LAS SANCIONES ADMINISTRATIVAS
-
-### ARTÍCULO 133
-.- Las infracciones a los preceptos de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, señaladas en el artículo anterior, serán sancionadas administrativamente por la Secretaría con una o más de las siguientes sanciones:
+ARTÍCULO 133.- Las infracciones a los preceptos de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, señaladas en el artículo anterior, serán sancionadas administrativamente por la Secretaría con una o más de las siguientes sanciones:
 
 I. Amonestación con apercibimiento;
 
@@ -1623,40 +1289,26 @@ V. Clausura temporal o definitiva, parcial o total, de la instalación o instala
 VI. El decomiso de embarcaciones, vehículos, artes de pesca y/o productos obtenidos de la acuacultura y la pesca directamente relacionada con las infracciones cometidas, y
 
 VII. Suspensión o revocación de los permisos, concesiones y autorizaciones correspondientes.
-
-### ARTÍCULO 134
-.- En materia de sanidad de especies acuícolas y de inocuidad y calidad de recursos pesqueros y recursos acuícolas, incluyendo los establecimientos TIF a que se refiere la presente Ley, el SENASICA, además de aplicar cualquiera de las sanciones a que se refieren las fracciones I, II y V del artículo anterior, podrá suspender o revocar los certificados correspondientes, previo el cumplimiento a la garantía de audiencia de acuerdo a lo establecido en las disposiciones relativas y aplicables de la Ley Federal de Procedimiento Administrativo y demás disposiciones vigentes en materia de normalización.
-Artículo reformado DOF 30-05-2012
-
-### ARTÍCULO 135
-.- Para la imposición de las sanciones por infracciones a esta Ley, la Secretaría tomará en cuenta:
+ARTÍCULO 134.- En materia de sanidad de especies acuícolas y de inocuidad y calidad de recursos pesqueros y recursos acuícolas, incluyendo los establecimientos TIF a que se refiere la presente Ley, el SENASICA, además de aplicar cualquiera de las sanciones a que se refieren las fracciones I, II y V del artículo anterior, podrá suspender o revocar los certificados correspondientes, previo el cumplimiento a la garantía de audiencia de acuerdo a lo establecido en las disposiciones relativas y aplicables de la Ley Federal de Procedimiento Administrativo y demás disposiciones vigentes en materia de normalización.
+Artículo reformado DOF 30-05-2012 ARTÍCULO 135.- Para la imposición de las sanciones por infracciones a esta Ley, la Secretaría tomará en cuenta:
 
 I. La gravedad de la infracción;
 
-II. Las condiciones económicas del infractor, conforme a lo establecido en el párrafo segundo del
-
-### artículo 21
-de la Constitución Política de los Estados Unidos Mexicanos;
+II. Las condiciones económicas del infractor, conforme a lo establecido en el párrafo segundo del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
 
 III. La reincidencia, si la hubiere;
 
 IV. El carácter intencional o negligente de la conducta infractora, y
 
 V. El beneficio directamente obtenido por el infractor por los actos u omisiones que motiven la sanción.
-
-### ARTÍCULO 136
-.- Para los efectos de esta Ley, se considerará reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto en un periodo de cinco años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
-
-### ARTÍCULO 137
-.- La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la Secretaría, a quienes:
+ARTÍCULO 136.- Para los efectos de esta Ley, se considerará reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto en un periodo de cinco años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
+ARTÍCULO 137.- La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la Secretaría, a quienes:
 
 I. Realicen pesca de consumo doméstico, en temporada de veda o con artes de pesca no permitidas, o tallas inferiores a las autorizadas o en contravención a las normas establecidas; y
 
 II. Realicen actividades de acuacultura y pesca didáctica, sin contar con la concesión o permiso respectivo.
 La amonestación servirá de apoyo para determinar la multa a los reincidentes.
-
-### ARTÍCULO 138
-.- La imposición de las multas a que se refiere el artículo 133 se determinará en la forma siguiente:
+ARTÍCULO 138.- La imposición de las multas a que se refiere el artículo 133 se determinará en la forma siguiente:
 
 I. Con el equivalente de 10 a 100 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones: VI, XXV del artículo 132;
 Fracción reformada DOF 19-01-2023
@@ -1664,17 +1316,12 @@ Fracción reformada DOF 19-01-2023
 II. Con el equivalente de 101 a 1,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones: I, II, V, VII, IX, XV, XVII, XVIII, XXI, XXII, XXIII, XXVI, XXVIII, XXXI del artículo 132;
 Fracción reformada DOF 19-01-2023
 
-III. Con el equivalente de 1,001 a 10,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones: VIII, XI, XII, XIV, XX, XXIV, XXVII, XXX del
-
-### artículo 132
-, y Fracción reformada DOF 19-01-2023
+III. Con el equivalente de 1,001 a 10,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones: VIII, XI, XII, XIV, XX, XXIV, XXVII, XXX del artículo 132, y Fracción reformada DOF 19-01-2023
 
 IV. Con el equivalente de 10,001 a 30,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones: III, IV, X, XIII, XVI, XIX, XXIX del artículo 132.
 Fracción reformada DOF 19-01-2023 Para la imposición de las multas servirá de base la Unidad de Medida y Actualización vigente al momento de cometerse la infracción.
 Párrafo reformado DOF 19-01-2023 En caso de reincidencia se duplicará el monto establecido para cada una de las fracciones anteriores.
-
-### ARTÍCULO 139
-.- La imposición de las sanciones de clausura temporal o definitiva, parcial o total de la instalación o instalaciones en las que se hayan cometido las infracciones, se aplicará cuando:
+ARTÍCULO 139.- La imposición de las sanciones de clausura temporal o definitiva, parcial o total de la instalación o instalaciones en las que se hayan cometido las infracciones, se aplicará cuando:
 
 I. Se cause daño a las especies acuícolas y pesqueras o a los ecosistemas en que dichas especies se encuentran;
 
@@ -1683,19 +1330,10 @@ II. El infractor no hubiere cumplido en los plazos y condiciones impuestas por l
 III. Se generen riesgos de contaminación de recursos, partes y derivados de origen pesquero y acuícola para consumo humano, o se contaminen, por acción o por omisión, y puedan poner en riesgo o afectar la salud de las personas, siempre y cuando dichos incidentes sean comprobados mediante las pruebas de laboratorio y demás procedimientos previstos en las normas aplicables.
 En los casos en que se imponga como sanción la clausura temporal, la Secretaría deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 La clausura que imponga la Secretaría será definitiva y total, en caso de que los riesgos o afectaciones a que se refiere la fracción III del presente artículo se causen por o se generen en establecimientos TIF regulados por esta Ley.
-Artículo reformado DOF 30-05-2012
-
-### ARTÍCULO 140
-.- El decomiso de las embarcaciones se realizará cuando se actualice el supuesto de las fracciones I, III, X, XIII, XVI y XIX del artículo 132 de la presente Ley, así como cuando se incurra en reincidencia de la infracción establecida en los numerales XVII y XVIII del mismo artículo, independientemente de la multa correspondiente.
-
-### ARTÍCULO 141
-.- El decomiso de los vehículos se realizará cuando se actualice el supuesto de las fracciones XIX y XXVII del artículo 132 de la Ley, independientemente de la multa correspondiente.
-
-### ARTÍCULO 142
-.- El decomiso de artes de pesca y productos obtenidos de la pesca, se realizará cuando se actualice el supuesto de las fracciones I, V, VII, X, XIII, XVII, XIX, XX, XXI, XXIII, XXVII y XXX del artículo 132, independientemente de la multa correspondiente.
-
-### ARTÍCULO 143
-.- A los productos o bienes decomisados, se les dará el destino que disponga la Secretaría, conforme a las siguientes alternativas:
+Artículo reformado DOF 30-05-2012 ARTÍCULO 140.- El decomiso de las embarcaciones se realizará cuando se actualice el supuesto de las fracciones I, III, X, XIII, XVI y XIX del artículo 132 de la presente Ley, así como cuando se incurra en reincidencia de la infracción establecida en los numerales XVII y XVIII del mismo artículo, independientemente de la multa correspondiente.
+ARTÍCULO 141.- El decomiso de los vehículos se realizará cuando se actualice el supuesto de las fracciones XIX y XXVII del artículo 132 de la Ley, independientemente de la multa correspondiente.
+ARTÍCULO 142.- El decomiso de artes de pesca y productos obtenidos de la pesca, se realizará cuando se actualice el supuesto de las fracciones I, V, VII, X, XIII, XVII, XIX, XX, XXI, XXIII, XXVII y XXX del artículo 132, independientemente de la multa correspondiente.
+ARTÍCULO 143.- A los productos o bienes decomisados, se les dará el destino que disponga la Secretaría, conforme a las siguientes alternativas:
 
 I. Remate en subasta pública;
 
@@ -1706,49 +1344,29 @@ III. Donación a establecimientos de asistencia social o de rehabilitación, tra
 IV. Destrucción de productos contaminados o en estado de descomposición y en el caso de artes de pesca prohibidas, cuando sea procedente.
 Para los efectos señalados en el párrafo anterior, la Secretaría se coordinará con el Servicio de Administración y Enajenación de Bienes, y observará lo dispuesto en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
 En caso de que los productos o bienes decomisados sean de los denominados como perecederos, éstos deberán de ser donados, vendidos o rematados, antes de que se consideren no aptos para su consumo humano.
-
-### ARTÍCULO 144
-.- Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados se destinarán a la integración de fondos para desarrollar programas vinculados con la inspección y la vigilancia, de conformidad con las disposiciones legales aplicables.
-
-### ARTÍCULO 145
-.- En el caso de embarcaciones extranjeras detenidas por pescar ilegalmente en aguas de jurisdicción federal, deberán observarse las obligaciones internacionales contraídas por nuestro país, con base en la más estricta reciprocidad.
-
-### ARTÍCULO 146
-.- Son aplicables supletoriamente a este capítulo en cuanto a las sanciones administrativas, las disposiciones del Capítulo Único del Título Cuarto de la Ley Federal de Procedimiento Administrativo, con excepción del artículo 70-A de dicho ordenamiento.
+ARTÍCULO 144.- Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados se destinarán a la integración de fondos para desarrollar programas vinculados con la inspección y la vigilancia, de conformidad con las disposiciones legales aplicables.
+ARTÍCULO 145.- En el caso de embarcaciones extranjeras detenidas por pescar ilegalmente en aguas de jurisdicción federal, deberán observarse las obligaciones internacionales contraídas por nuestro país, con base en la más estricta reciprocidad.
+ARTÍCULO 146.- Son aplicables supletoriamente a este capítulo en cuanto a las sanciones administrativas, las disposiciones del Capítulo Único del Título Cuarto de la Ley Federal de Procedimiento Administrativo, con excepción del artículo 70-A de dicho ordenamiento.
 
 ## CAPÍTULO III — DE LAS RESPONSABILIDADES
-
-### ARTÍCULO 147
-.- Las sanciones administrativas a que se refiere el artículo anterior se aplicarán sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones sean también constitutivos de delito, en los términos de las disposiciones penales aplicables y sin perjuicio de la responsabilidad ambiental que pudiera resultar, para lo cual será aplicable lo dispuesto por el artículo 203 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+ARTÍCULO 147.- Las sanciones administrativas a que se refiere el artículo anterior se aplicarán sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones sean también constitutivos de delito, en los términos de las disposiciones penales aplicables y sin perjuicio de la responsabilidad ambiental que pudiera resultar, para lo cual será aplicable lo dispuesto por el artículo 203 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 Son responsables solidarios de las sanciones a que haya lugar, aquellas personas físicas o morales que intervienen en la preparación o realización de las infracciones contenidas en el artículo 132 de la presente Ley.
 El capitán o patrón de embarcaciones pesqueras con que se hubiesen cometido las infracciones contenidas en el artículo 132 de la presente Ley, sufrirá la pena accesoria de cancelación de su matrícula o título otorgado para realizar la actividad pesquera. En todo caso la autoridad de navegación no expedirá los despachos vía la pesca a las embarcaciones pesqueras en las cuales éstos formen parte de su tripulación.
-
-### ARTÍCULO 148
-.- El incumplimiento por parte de los Servidores Públicos Federales, Estatales y Municipales de las disposiciones contenidas en la presente Ley, su reglamento y normas oficiales que de ella deriven, dará lugar a la responsabilidad en términos de lo establecido en el Título IV de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades de los Servidores Públicos, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal de Procedimiento Administrativo, y las Leyes Estatales de Responsabilidades de los Servidores Públicos.
+ARTÍCULO 148.- El incumplimiento por parte de los Servidores Públicos Federales, Estatales y Municipales de las disposiciones contenidas en la presente Ley, su reglamento y normas oficiales que de ella deriven, dará lugar a la responsabilidad en términos de lo establecido en el Título IV de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades de los Servidores Públicos, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal de Procedimiento Administrativo, y las Leyes Estatales de Responsabilidades de los Servidores Públicos.
 Las responsabilidades a que se refiere este artículo se aplicarán sin perjuicio de las sanciones de carácter penal o civil que en su caso lleguen a determinarse por la autoridad judicial.
 
 ## CAPÍTULO IV — DEL RECURSO DE REVISIÓN
-
-### ARTÍCULO 149
-.- Las resoluciones definitivas dictadas en los procedimientos administrativos instaurados con motivo de la aplicación de esta Ley, sus disposiciones reglamentarias y las normas oficiales que de ella deriven, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días siguientes a la fecha de su notificación o ante las instancias jurisdiccionales competentes.
+ARTÍCULO 149.- Las resoluciones definitivas dictadas en los procedimientos administrativos instaurados con motivo de la aplicación de esta Ley, sus disposiciones reglamentarias y las normas oficiales que de ella deriven, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días siguientes a la fecha de su notificación o ante las instancias jurisdiccionales competentes.
 El recurso de revisión se interpondrá directamente ante la unidad administrativa que emitió la resolución impugnada, la que resolverá sobre su admisión y el otorgamiento o denegación de la suspensión del acto recurrido y turnará posteriormente el recurso a su superior jerárquico para su resolución definitiva.
-
-### ARTÍCULO 150
-.- Por lo que se refiere a los demás trámites relativos a la tramitación, sustanciación y resolución del recurso de revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título Sexto de la Ley Federal de Procedimiento Administrativo.
+ARTÍCULO 150.- Por lo que se refiere a los demás trámites relativos a la tramitación, sustanciación y resolución del recurso de revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título Sexto de la Ley Federal de Procedimiento Administrativo.
 
 ## TÍTULO DÉCIMO — QUINTO
 DEL PREMIO A LA PESCA Y ACUACULTURA SUSTENTABLES Título adicionado DOF 24-04-2018
 
 ## CAPÍTULO ÚNICO
-Capítulo adicionado DOF 24-04-2018
-
-### ARTÍCULO 151
-.- Se instituye el Premio a la Pesca y Acuacultura Sustentables, con objeto de reconocer y premiar anualmente a personas físicas y morales que se dediquen a estas actividades conforme a lo establecido en la presente Ley, y cuyo esfuerzo destaque en la realización de acciones trascendentes, de innovación, impacto, mejora o buenas prácticas desarrolladas en la pesca o acuacultura sustentables, incluyendo el ordenamiento, conservación, protección, aprovechamiento y restauración de la diversidad de los ecosistemas acuáticos pesqueros y acuícolas, así como la generación e intercambio de conocimiento y comercialización de productos sustentables.
+Capítulo adicionado DOF 24-04-2018 ARTÍCULO 151.- Se instituye el Premio a la Pesca y Acuacultura Sustentables, con objeto de reconocer y premiar anualmente a personas físicas y morales que se dediquen a estas actividades conforme a lo establecido en la presente Ley, y cuyo esfuerzo destaque en la realización de acciones trascendentes, de innovación, impacto, mejora o buenas prácticas desarrolladas en la pesca o acuacultura sustentables, incluyendo el ordenamiento, conservación, protección, aprovechamiento y restauración de la diversidad de los ecosistemas acuáticos pesqueros y acuícolas, así como la generación e intercambio de conocimiento y comercialización de productos sustentables.
 La Secretaría, por conducto de la Comisión Nacional de Acuacultura y Pesca, organizará el premio, en coordinación y colaboración con el Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables, con las comisiones en esta materia de ambas Cámaras del H. Congreso de la Unión, así como con las demás instancias públicas y privadas que estime pertinente.
-Párrafo reformado DOF 04-12-2023 Artículo adicionado DOF 24-04-2018
-
-### ARTÍCULO 152
-.- El procedimiento para la selección de los acreedores al premio, así como las demás prevenciones que sean necesarias, se establecerá por acuerdo que emita la Secretaría.
+Párrafo reformado DOF 04-12-2023 Artículo adicionado DOF 24-04-2018 ARTÍCULO 152.- El procedimiento para la selección de los acreedores al premio, así como las demás prevenciones que sean necesarias, se establecerá por acuerdo que emita la Secretaría.
 Artículo adicionado DOF 24-04-2018
 
 ## TRANSITORIOS
@@ -1900,10 +1518,7 @@ Se reforma la fracción XXI del artículo 4o. de la Ley General de Pesca y Acuac
 
 **Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. disposición respecto al Instituto Nacional de Pesca, cuyo nombre se modifica por virtud de este Decreto, se entenderán referidas al Instituto Nacional de Pesca y Acuacultura.
 Ciudad de México, a 28 de abril de 2017.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
-
-### Artículo 5o
-. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
+DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Décimo Séptimo
@@ -1920,10 +1535,7 @@ DECRETO por el que se adicionan diversas disposiciones de la Ley General de Pesc
 Publicado en el Diario Oficial de la Federación el 24 de abril de 2018
 
 ### Artículo Único
-Se adiciona una fracción XLI, recorriéndose la actual XLI para quedar como XLII al
-
-### artículo 8o
-. y un TÍTULO DÉCIMO QUINTO denominado “DEL PREMIO A LA PESCA Y ACUACULTURA SUSTENTABLES”, con un Capítulo Único que contiene los artículos 151 y 152, a la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue: ………
+Se adiciona una fracción XLI, recorriéndose la actual XLI para quedar como XLII al artículo 8o. y un TÍTULO DÉCIMO QUINTO denominado “DEL PREMIO A LA PESCA Y ACUACULTURA SUSTENTABLES”, con un Capítulo Único que contiene los artículos 151 y 152, a la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue: ………
 
 ## Transitorios
 

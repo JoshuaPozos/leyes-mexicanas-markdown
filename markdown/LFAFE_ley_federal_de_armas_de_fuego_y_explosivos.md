@@ -609,15 +609,9 @@ Artículo adicionado DOF 29-05-2025
 
 ### Artículo 83
 .- A la persona que, sin licencia vigente, porte un arma de las reservadas para el uso exclusivo de la Fuerza Armada Permanente, se le sancionará con:
-I.- Prisión de tres meses a un año y multa de una a diez veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas comprendidas en los incisos i) y m) del
-
-### artículo 11
-de esta Ley;
+I.- Prisión de tres meses a un año y multa de una a diez veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas comprendidas en los incisos i) y m) del artículo 11 de esta Ley;
 II.- Prisión de cinco a diez años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de armas, sus piezas o componentes comprendidas en los incisos a) y b) del artículo 11 de esta Ley;
-III.- Prisión de seis a quince años y multa de ciento cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas comprendidas en los incisos c), d) y e) del artículo 11 de esta Ley, y IV.- Prisión de veinte a treinta años y multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de los comprendidos en los incisos g), h), j), k) y l) del
-
-### artículo 11
-y 11 Bis de esta Ley.
+III.- Prisión de seis a quince años y multa de ciento cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas comprendidas en los incisos c), d) y e) del artículo 11 de esta Ley, y IV.- Prisión de veinte a treinta años y multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de los comprendidos en los incisos g), h), j), k) y l) del artículo 11 y 11 Bis de esta Ley.
 En caso de que se porten dos o más armas, la pena correspondiente se aumentará desde un tercio hasta dos terceras partes de las penas previstas en el presente artículo.
 Cuando tres o más personas, posean, porten o empleen armas de las comprendidas en las fracciones III y IV del presente artículo, la pena correspondiente a cada una de ellas se aumentará entre dos tercios y el doble de la correspondiente al delito básico.
 A la persona que emplee armas de las comprendidas en el párrafo anterior en contra de las autoridades legalmente constituidas se le aumentará al doble de la pena de prisión prevista en el párrafo IV del presente artículo.
@@ -641,10 +635,7 @@ Artículo adicionado DOF 24-12-1998. Artículo reformado DOF 05-11-2003, 23-01-2
 
 ### Artículo 83
 Quáter.- A la persona que, sin autorización posea, porte o transporte municiones o cartuchos en cantidades mayores a las establecidas en el artículo 50 de esta Ley, se le sancionará con:
-I.- Prisión de uno a cuatro años y multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización, si se trata de las armas comprendidas en los artículos 9o., 10 y 11 incisos a) y b) de esta Ley, y II.- Prisión de cuatro a siete años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, si se trata de las armas comprendidas en los restantes incisos del
-
-### artículo 11
-de esta Ley.
+I.- Prisión de uno a cuatro años y multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización, si se trata de las armas comprendidas en los artículos 9o., 10 y 11 incisos a) y b) de esta Ley, y II.- Prisión de cuatro a siete años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, si se trata de las armas comprendidas en los restantes incisos del artículo 11 de esta Ley.
 Fracción reformada DOF 19-02-2021 Artículo adicionado DOF 24-12-1998. Reformado (antes Artículo 83 Quat) DOF 29-05-2025
 
 ### Artículo 83
@@ -734,13 +725,7 @@ Artículo adicionado DOF 29-05-2025
 ### Artículo 87
 Quinquies.- A la persona que haga acopio de piezas o componentes de armas, se le sancionará con:
 I.- Prisión de cuatro a seis años, cuando se trate de piezas o componentes de las armas comprendidas en el artículo 9o. de esta Ley;
-II.- Prisión de seis a ocho años, si las armas están comprendidas en los incisos a) o b) del
-
-### artículo 11
-de esta Ley, y III.- Prisión de seis a doce años, si se trata de cualquiera otra de las armas comprendidas en el
-
-### artículo 11
-de esta Ley.
+II.- Prisión de seis a ocho años, si las armas están comprendidas en los incisos a) o b) del artículo 11 de esta Ley, y III.- Prisión de seis a doce años, si se trata de cualquiera otra de las armas comprendidas en el artículo 11 de esta Ley.
 Para efectos de este artículo se entiende por acopio la posesión o portación de más de siete piezas o componentes de armas.
 Artículo adicionado DOF 29-05-2025
 
@@ -939,25 +924,7 @@ Publicado en el Diario Oficial de la Federación el 29 de mayo de 2025
 Se reforman los artículos 1; 2; 3; 4; 5; 7; 8; 9, actual primer párrafo, la fracción I, actual segundo párrafo de la fracción II, que pasa a ser tercer párrafo; 10, primer párrafo, fracciones II, V y VI; 11, primer párrafo, los incisos b), c), d), f), h), i), y los actuales penúltimo y último párrafos; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24, actuales segundo y tercer párrafos; 25; 26, primer párrafo, último párrafo de la fracción I, fracción II, inciso b y último párrafo; 27, segundo párrafo; 28, primero,
 **segundo.** , quinto, sexto y séptimo párrafos; 28 Bis, primero, segundo y tercer párrafos; 29, primer párrafo, fracción I, apartado B en su párrafo y los incisos b) y c), los apartados C, D y E, y la fracción III; 30, primer párrafo; 31, primer y último párrafo, y las fracciones VI, VIII y IX; 37; 40; 41, primer párrafo y, inciso b) de la fracción I; 43; 44, segundo párrafo; 45; 50, primer párrafo e incisos a) y b); 51; 52, primer y actual
 **segundo.** párrafos; 53; 54; 56; 57; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69; 71; 72; 73; 74; 76; 77, primer párrafo, fracciones I y IV; 78, primer y segundo párrafos; 79; 80; 81, primer párrafo; 82; 83, primer párrafo y fracciones I, II, III, segundo y tercer párrafos; 83 Bis, primer párrafo y fracciones I y II; 83 Ter, primer párrafo y fracciones I, II y III; 83 Quáter; 83 Quiquies; 84, primer párrafo, fracciones I, II y III; 84 Bis, primer párrafo; 84 Ter; 85; 85 Bis, primer párrafo, fracciones I, II y III; 86, primero, segundo y tercer párrafos; 87, primer párrafo, fracciones I, II y IV; 88, primer párrafo; 89; 90; 92; se adicionan un artículo 1 Bis; segundo párrafo al artículo 5; segundo párrafo al artículo 7; un artículo 8 Bis; párrafos primero,
-**cuarto.** , quinto, sexto y séptimo al artículo 9; la fracción VIII y el penúltimo párrafo, al artículo 10; los incisos m y n, al artículo 11; un artículo 11 Bis; un artículo 11 Ter; segundo párrafo al artículo 19; un
-
-### artículo 20
-Bis; párrafos cuarto y quinto al artículo 21; último párrafo Al artículo 26; un artículo 30 Bis; un
-
-### artículo 34
-Bis; un artículo 41 Bis; el último párrafo al artículo 44; un artículo 45 Bis; un segundo párrafo y los incisos a), b) y c) del artículo 50; el segundo párrafo al artículo 52; segundo párrafo al artículo 53; un
-
-### artículo 55
-Bis; un artículo 59 Bis; un segundo párrafo al artículo 72; 75 Bis; las fracciones V, VI, VII y VIII y un último párrafo al artículo 77; un artículo 80 Bis; un artículo 81 Bis; el artículo 82 Bis; fracción IV y el último párrafo al artículo 83; segundo párrafo y las fracciones I y II del artículo 83 Bis; se adiciona la fracción IV y el último párrafo del artículo 83 Ter; párrafos segundo y tercero del artículo 83 Quinquies; un
-
-### artículo 83
-Sexies; un artículo 83 Septies; la fracción IV al artículo 84; la fracción IV al artículo 85 Bis; un
-
-### artículo 85
-Ter; un artículo 86 Bis; los artículos 87 Bis; 87 Ter; 87 Quáter; y 87 Quinquies; segundo, tercer y cuarto párrafos al artículo 88; 89 Bis; se derogan las fracciones I, II, III y IV del artículo 2; el apartado A de la fracción I, el inciso a) del apartado B y la fracción II del artículo 29; el segundo párrafo del artículo 30; el artículo 32; el artículo 33; el artículo 49; el inciso c) del primer párrafo y último párrafo del artículo 50; el artículo 58; el penúltimo párrafo del artículo 83 Bis; el segundo párrafo del artículo 84 Bis; el
-
-### artículo 91
-, de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue: …….
+**cuarto.** , quinto, sexto y séptimo al artículo 9; la fracción VIII y el penúltimo párrafo, al artículo 10; los incisos m y n, al artículo 11; un artículo 11 Bis; un artículo 11 Ter; segundo párrafo al artículo 19; un artículo 20 Bis; párrafos cuarto y quinto al artículo 21; último párrafo Al artículo 26; un artículo 30 Bis; un artículo 34 Bis; un artículo 41 Bis; el último párrafo al artículo 44; un artículo 45 Bis; un segundo párrafo y los incisos a), b) y c) del artículo 50; el segundo párrafo al artículo 52; segundo párrafo al artículo 53; un artículo 55 Bis; un artículo 59 Bis; un segundo párrafo al artículo 72; 75 Bis; las fracciones V, VI, VII y VIII y un último párrafo al artículo 77; un artículo 80 Bis; un artículo 81 Bis; el artículo 82 Bis; fracción IV y el último párrafo al artículo 83; segundo párrafo y las fracciones I y II del artículo 83 Bis; se adiciona la fracción IV y el último párrafo del artículo 83 Ter; párrafos segundo y tercero del artículo 83 Quinquies; un artículo 83 Sexies; un artículo 83 Septies; la fracción IV al artículo 84; la fracción IV al artículo 85 Bis; un artículo 85 Ter; un artículo 86 Bis; los artículos 87 Bis; 87 Ter; 87 Quáter; y 87 Quinquies; segundo, tercer y cuarto párrafos al artículo 88; 89 Bis; se derogan las fracciones I, II, III y IV del artículo 2; el apartado A de la fracción I, el inciso a) del apartado B y la fracción II del artículo 29; el segundo párrafo del artículo 30; el artículo 32; el artículo 33; el artículo 49; el inciso c) del primer párrafo y último párrafo del artículo 50; el artículo 58; el penúltimo párrafo del artículo 83 Bis; el segundo párrafo del artículo 84 Bis; el artículo 91, de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue: …….
 
 ## Transitorios
 

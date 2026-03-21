@@ -19,10 +19,7 @@ LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOC
 ### Artículo 1
 . La presente ley es de orden público e interés social y tiene por objeto:
 
-I. Fomentar las actividades que realizan las organizaciones de la sociedad civil señaladas en el
-
-### artículo 5
-de esta ley;
+I. Fomentar las actividades que realizan las organizaciones de la sociedad civil señaladas en el artículo 5 de esta ley;
 
 II. Establecer las facultades de las autoridades que la aplicarán y los órganos que coadyuvarán en ello;
 
@@ -58,10 +55,7 @@ i) Registro: el Registro Federal de Organizaciones en el que se inscriban las or
 
 ### Artículo 4
 . Las organizaciones de la sociedad civil que constituyan los capítulos nacionales de organizaciones internacionales que cumplan con lo establecido en el artículo 3, podrán gozar de los derechos que la misma establece, siempre que sus órganos de administración y representación estén integrados mayoritariamente por ciudadanos mexicanos. Para efectos de lo dispuesto en este artículo, las organizaciones internacionales deberán inscribirse en el Registro y señalar domicilio en el territorio nacional.
-Las organizaciones de la sociedad civil constituidas conforme a las leyes extranjeras, previo las actividades cuyo fomento tiene por objeto esta ley, gozarán de los derechos que derivan de la inscripción en el Registro, con exclusión de los que se establecen en las fracciones II a VIII y XI del
-
-### artículo 6
-y del 25, reservados a las organizaciones constituidas conforme a las leyes mexicanas.
+Las organizaciones de la sociedad civil constituidas conforme a las leyes extranjeras, previo las actividades cuyo fomento tiene por objeto esta ley, gozarán de los derechos que derivan de la inscripción en el Registro, con exclusión de los que se establecen en las fracciones II a VIII y XI del artículo 6 y del 25, reservados a las organizaciones constituidas conforme a las leyes mexicanas.
 
 ## CAPÍTULO SEGUNDO — De las Organizaciones de la Sociedad Civil
 
@@ -125,10 +119,7 @@ III. Integrarse a los órganos de participación y consulta instaurados por la A
 
 IV. Participar en los mecanismos de contraloría social que establezcan u operen dependencia y entidades, de conformidad con la normatividad jurídica y administrativa aplicable;
 
-V. Acceder a los apoyos y estímulos públicos que para fomento de las actividades previstas en el
-
-### artículo 5
-de esta ley, establezcan las disposiciones jurídicas y administrativas aplicables;
+V. Acceder a los apoyos y estímulos públicos que para fomento de las actividades previstas en el artículo 5 de esta ley, establezcan las disposiciones jurídicas y administrativas aplicables;
 VI.- Gozar de los incentivos fiscales y demás apoyos económicos y administrativos, que establezcan las disposiciones jurídicas en la materia;
 Fracción reformada DOF 05-08-2011
 
@@ -299,10 +290,7 @@ VII. Presentar copia simple del testimonio notarial que acredite la personalidad
 ### Artículo 19
 . El Registro deberá negar la inscripción a las organizaciones que quisieran acogerse a esta ley sólo cuando:
 
-I. No acredite que su objeto social consiste en realizar alguna de las actividades señaladas en el
-
-### artículo 5
-de esta ley;
+I. No acredite que su objeto social consiste en realizar alguna de las actividades señaladas en el artículo 5 de esta ley;
 
 II. Exista evidencia de que no realiza cuando menos alguna actividad listada en el artículo 5 de la presente ley;
 
@@ -431,10 +419,7 @@ En caso de que una organización sea sancionada con suspensión o cancelación d
 **Tercero.** El Ejecutivo Federal deberá expedir el reglamento de esta ley, en un plazo de 60 días hábiles contados a partir de su publicación en el Diario Oficial de la Federación.
 **Cuarto.** Para efectos de la inscripción de las organizaciones a que se refiere el Capítulo Cuarto de esta ley, el Registro deberá conformarse e iniciar su operación dentro de los 120 días hábiles siguientes a la fecha de entrada en vigor de esta ley.
 **Quinto.** La integración e instalación del Consejo deberá llevarse a cabo por la Comisión, dentro de los 180 días hábiles siguientes a la fecha de entrada en vigor de este ordenamiento.
-**Sexto.** Por primera y única ocasión, para la instalación e integración del Consejo a que se refiere el
-
-### artículo 26
-, los consejeros representantes de las organizaciones serán invitados mediante un procedimiento de insaculación, en tres grupos de tres personas cada uno, que llevará a cabo la Comisión a que se refiere el artículo 9 de esta ley, de entre las propuestas que hagan las propias organizaciones.
+**Sexto.** Por primera y única ocasión, para la instalación e integración del Consejo a que se refiere el artículo 26, los consejeros representantes de las organizaciones serán invitados mediante un procedimiento de insaculación, en tres grupos de tres personas cada uno, que llevará a cabo la Comisión a que se refiere el artículo 9 de esta ley, de entre las propuestas que hagan las propias organizaciones.
 También por única ocasión, el primer grupo durará en su encargo un año, el segundo grupo dos años y el tercer grupo tres años, para que después sea renovado un tercio cada año por un periodo de tres de duración.
 México, D.F., a 15 de diciembre de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Yolanda E. González Hernández, Secretario.- Dip. Amalín Yabur Elías, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Protección al Consumidor y de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil.

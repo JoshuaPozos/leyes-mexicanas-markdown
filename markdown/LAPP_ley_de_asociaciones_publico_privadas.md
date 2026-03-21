@@ -42,10 +42,7 @@ IV. Las entidades federativas, municipios y los entes públicos de unas y otros,
 Para estos efectos, se entenderá que los proyectos se realizan con recursos federales, cuando las aportaciones de las entidades federativas, municipios y entes públicos de unas y otros, en su conjunto, sean inferiores en relación con las aportaciones federales. Para efectos de dicho cómputo no quedan comprendidos los recursos federales correspondientes a los fondos previstos en el capítulo V de la Ley de Coordinación Fiscal.
 
 ### Artículo 5
-. En caso de proyectos de asociaciones público-privadas a que se refiere la fracción IV del
-
-### artículo 4
-inmediato anterior, en los convenios para la aportación de recursos federales, en numerario o en especie, deberá pactarse expresamente que a las entidades federativas o municipios -según se trateles serán aplicables, en relación con dichos proyectos, las disposiciones de la presente Ley.
+. En caso de proyectos de asociaciones público-privadas a que se refiere la fracción IV del artículo 4 inmediato anterior, en los convenios para la aportación de recursos federales, en numerario o en especie, deberá pactarse expresamente que a las entidades federativas o municipios -según se trateles serán aplicables, en relación con dichos proyectos, las disposiciones de la presente Ley.
 
 ### Artículo 6
 . La aplicación de esta Ley será sin perjuicio de lo dispuesto en los tratados internacionales.
@@ -239,10 +236,7 @@ c) La autorización de la Comisión Intersecretarial de Gasto Público, Financia
 
 II. En el caso de proyectos de asociación público-privada que involucren recursos públicos federales en numerario, distintos a los previstos en el Presupuesto de Egresos de la Federación, deberán contar con los requisitos previstos en los incisos a) y b) de la fracción anterior, y
 
-III. Tratándose de proyectos de asociación público-privada que involucren recursos públicos federales distintos a numerario, deberán contar con el dictamen de viabilidad, en términos del
-
-### artículo 14
-de la presente Ley.
+III. Tratándose de proyectos de asociación público-privada que involucren recursos públicos federales distintos a numerario, deberán contar con el dictamen de viabilidad, en términos del artículo 14 de la presente Ley.
 Artículo reformado DOF 21-04-2016
 
 ## Sección Tercera
@@ -1063,10 +1057,7 @@ V. Persona o personas, físicas o morales, que tengan el control de una persona 
 Para estos efectos, se entenderá que una o varias personas, físicas o morales, tienen el control de una persona moral cuando estén en posibilidad de llevar a cabo cualquiera de los actos siguientes: a. Imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes; b. Mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social, o c. Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
 
 ### Artículo 131
-. La inhabilitación que la Secretaría de la Función Pública imponga en términos del
-
-### artículo 130
-de esta Ley no será menor a tres meses ni mayor a cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la haga del conocimiento de las dependencias y entidades, mediante publicación de la circular respectiva en el Diario Oficial de la Federación.
+. La inhabilitación que la Secretaría de la Función Pública imponga en términos del artículo 130 de esta Ley no será menor a tres meses ni mayor a cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la haga del conocimiento de las dependencias y entidades, mediante publicación de la circular respectiva en el Diario Oficial de la Federación.
 
 ### Artículo 132
 . Las dependencias o entidades, dentro de los diez días hábiles inmediatos siguientes a la fecha en que tengan conocimiento de hechos que presumiblemente puedan dar lugar a una inhabilitación, remitirán a la Secretaría de la Función Pública la documentación comprobatoria de los mismos.
@@ -1086,10 +1077,7 @@ La etapa de negociación y, en su caso, acuerdo sobre el particular tendrá un p
 El comité conocerá de aquellas divergencias de naturaleza técnica o económica, sin poder conocer de cuestiones jurídicas.
 
 ### Artículo 135
-. Dentro de los cinco días hábiles siguientes al vencimiento de los plazos citados en el
-
-### artículo 134
-inmediato anterior, la parte interesada notificará a su contraparte aviso que contendrá:
+. Dentro de los cinco días hábiles siguientes al vencimiento de los plazos citados en el artículo 134 inmediato anterior, la parte interesada notificará a su contraparte aviso que contendrá:
 
 I. La decisión de someter la divergencia al comité de expertos;
 
@@ -1215,9 +1203,7 @@ III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que 
 IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
 Lo dispuesto en este artículo también será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única.
 No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del
-
-### artículo Octavo
-Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+**artículo Octavo.** Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 **DÉCIMO PRIMERO.** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
 
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, deberán cumplir con lo previsto en los lineamientos del Instituto Federal de Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013;
@@ -1269,9 +1255,7 @@ En caso de no cumplir con el presente artículo, los permisos concluirán su vig
 **DÉCIMO OCTAVO.** El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
 **DÉCIMO NOVENO.** La transición digital terrestre culminará el 31 de diciembre de 2015.
 El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transportes, implementará los programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del
-
-### artículo Quinto
-transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**artículo Quinto.** transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 El Instituto Federal de Telecomunicaciones deberá concluir la transmisión de señales analógicas de televisión radiodifundida en todo el país, a más tardar el 31 de diciembre de 2015, una vez que se alcance un nivel de penetración del noventa por ciento de hogares de escasos recursos definidos por la Secretaría de Desarrollo Social, con receptores o decodificadores aptos para recibir señales digitales de televisión radiodifundida.
 Para lo anterior, el Instituto Federal de Telecomunicaciones deberá concluir las señales analógicas de televisión radiodifundida anticipadamente al 31 de diciembre de 2015, por área de cobertura de dichas señales, una vez que se alcance, en el área que corresponda, el nivel de penetración referido en el párrafo que antecede.
 La Secretaría de Comunicaciones y Transportes y el Instituto Federal de Telecomunicaciones realizarán campañas de difusión para la entrega o distribución de equipos y para la conclusión de la transmisión de señales analógicas de televisión, respectivamente.
@@ -1280,9 +1264,7 @@ Aquellos permisionarios o concesionarios de uso público o social, incluyendo la
 Párrafo adicionado DOF 18-12-2015 En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
 Párrafo reformado DOF 18-12-2015 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
 **VIGÉSIMO.** El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del
-
-### artículo Octavo
-Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**artículo Octavo.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 Para efectos de lo dispuesto en el inciso b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, y hasta en tanto los concesionarios a que se refiere ese inciso no acuerden las tarifas de interconexión correspondientes o, en su caso, el Instituto no resuelva cualquier disputa respecto de dichas tarifas, seguirán en vigor las que actualmente aplican, salvo tratándose del agente económico al que se refiere le párrafo segundo del artículo 131 de la Ley en cita, al que le será aplicable el inciso a) del mismo artículo.
 **VIGÉSIMO PRIMERO.** Para la atención, promoción y supervisión de los derechos de los usuarios Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
 **VIGÉSIMO SEGUNDO.** El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
@@ -1392,7 +1374,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

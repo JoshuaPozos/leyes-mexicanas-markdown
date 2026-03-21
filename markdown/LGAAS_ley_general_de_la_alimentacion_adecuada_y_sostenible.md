@@ -110,10 +110,7 @@ VII. La libre distribución de los insumos necesarios para producir alimentos ad
 
 VIII. La riqueza biocultural, enfatizando la diversidad gastronómica y agrobiodiversidad, así como el vínculo entre alimentación y cultura, y
 
-IX. El acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible, en los términos del párrafo sexto del
-
-### artículo 4o
-. de la Constitución Política de los Estados Unidos Mexicanos, y su legislación reglamentaria.
+IX. El acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible, en los términos del párrafo sexto del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, y su legislación reglamentaria.
 
 ### Artículo 5
 . Todas las autoridades del Estado, en el ámbito de sus respectivas competencias y con sujeción a los recursos aprobados expresamente para esos fines en sus respectivos presupuestos de egresos, tienen la obligación de promover, respetar y proteger el ejercicio del derecho a la alimentación adecuada, de conformidad con los principios de universalidad, interdependencia, indivisibilidad, progresividad, subsidiariedad, sostenibilidad ambiental, precaución, participación social, igualdad de género y etaria, interés superior de la niñez, diversidad cultural, eficiencia, libre competencia, transparencia y rendición de cuentas. Esto incluye la adopción de medidas que impidan que los particulares priven a las personas del acceso a una alimentación adecuada.

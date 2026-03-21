@@ -362,10 +362,7 @@ Una vez que la hija o el hijo han cumplido los tres años, el Órgano Jurisdicci
 
 ### Artículo 55
 . Recibir visita íntima La persona adolescente emancipada privada de la libertad tendrá derecho a visita íntima sin que la autoridad del Centro de Internamiento pueda calificar la idoneidad de la pareja. El mismo derecho aplica para las personas adolescentes que acrediten concubinato, así como las personas mayores de dieciocho años de edad que se encuentren cumpliendo una medida de sanción en un Centro de Internamiento.
-No podrá negarse la visita íntima de personas que tenga un efecto discriminatorio en términos del
-
-### artículo 1o
-. de la Constitución. No podrá considerarse la suspensión de la visita íntima como una sanción disciplinaria.
+No podrá negarse la visita íntima de personas que tenga un efecto discriminatorio en términos del artículo 1o. de la Constitución. No podrá considerarse la suspensión de la visita íntima como una sanción disciplinaria.
 
 ### Artículo 56
 . Trabajo Durante la ejecución de las medidas se dará prioridad a las actividades de capacitación para el trabajo, a fin de garantizar la inserción laboral y productiva de la persona adolescente en edad permitida, evitando que implique la realización de acciones que puedan ser clasificadas como trabajo peligroso o explotación laboral infantil.

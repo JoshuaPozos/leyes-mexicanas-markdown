@@ -1072,10 +1072,7 @@ d) Cuando sean falsas las declaraciones o instrucciones del embarcador, del cons
 . Los daños que sufran las personas o carga transportadas en aeronaves destinadas a Artículo reformado DOF 18-06-2018, 03-05-2023
 
 ### Artículo 69
-. Será nula de pleno derecho toda cláusula que se inserte en los contratos de transporte con objeto de establecer límites de responsabilidad inferiores a los previstos en los artículos 62 y 63 anteriores, o que establezcan causas de exoneración de responsabilidad distintas de las previstas en el
-
-### artículo 67
-anterior. La nulidad de tales cláusulas no implicará la del contrato de transporte.
+. Será nula de pleno derecho toda cláusula que se inserte en los contratos de transporte con objeto de establecer límites de responsabilidad inferiores a los previstos en los artículos 62 y 63 anteriores, o que establezcan causas de exoneración de responsabilidad distintas de las previstas en el artículo 67 anterior. La nulidad de tales cláusulas no implicará la del contrato de transporte.
 
 ## Sección Segunda — De los daños a terceros
 
@@ -1327,18 +1324,12 @@ V. Las personas permisionarias de talleres aeronáuticos que prestan servicio de
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 78
-Quater. Las personas proveedoras de servicio y operadoras aéreas señaladas en el
-
-### artículo 78
-Ter deben implementar y mantener la gestión de los riesgos asociados a la fatiga mediante un enfoque prescriptivo cuando solo realicen operaciones nacionales o internacionales, o una combinación de estas, conforme a las disposiciones jurídicas aplicables no excediendo las limitaciones prescriptivas establecidas por el Gobierno Federal.
+Quater. Las personas proveedoras de servicio y operadoras aéreas señaladas en el artículo 78 Ter deben implementar y mantener la gestión de los riesgos asociados a la fatiga mediante un enfoque prescriptivo cuando solo realicen operaciones nacionales o internacionales, o una combinación de estas, conforme a las disposiciones jurídicas aplicables no excediendo las limitaciones prescriptivas establecidas por el Gobierno Federal.
 Para efectos del presente artículo, se entiende por enfoque prescriptivo el planteamiento mediante el cual las personas proveedoras de servicio y operadoras aéreas deben observar las limitaciones del tiempo de servicio que determine la Agencia Federal de Aviación Civil, de conformidad con la norma oficial mexicana y las disposiciones técnico-administrativas correspondientes.
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 78
-Quinquies. Las personas proveedoras de servicio y operadoras aéreas señaladas en el
-
-### artículo 78
-Ter deben implementar y mantener un Sistema de gestión de los riesgos asociados a la fatiga cuando:
+Quinquies. Las personas proveedoras de servicio y operadoras aéreas señaladas en el artículo 78 Ter deben implementar y mantener un Sistema de gestión de los riesgos asociados a la fatiga cuando:
 
 I. Realicen operaciones a destinos internacionales, traspasando más de dos husos horarios en sus operaciones o tengan vuelos nocturnos, o una combinación de estos, y
 
@@ -1973,11 +1964,9 @@ DECRETO por el que se reforman diversos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ### ARTÍCULO ÚNICO
-Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al
-
-### artículo 47
-de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
-Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
+Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
+Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6,
+**segundo.** párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
 
 ## TRANSITORIO
 
@@ -2062,10 +2051,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de A
 Publicado en el Diario Oficial de la Federación el 26 de junio de 2017
 
 ### Artículo Único
-Se reforman el párrafo segundo del artículo 49; el artículo 50 y el párrafo primero del
-
-### artículo 52
-; el párrafo segundo del artículo 62, las fracciones XI y XII del artículo 87; Se adicionan: las fracciones IV Bis, VIII Bis y VIII Ter al artículo 2; el artículo 42 Bis; un capítulo X Bis comprendiendo los artículos 47 Bis al 47 Bis 4; los párrafos tercero, cuarto y quinto al artículo 49, el artículo 52 Bis, un último párrafo al artículo 84 y las fracciones XIII y XIV al artículo 87 de la Ley de Aviación Civil, para quedar como sigue: ………
+Se reforman el párrafo segundo del artículo 49; el artículo 50 y el párrafo primero del artículo 52; el párrafo segundo del artículo 62, las fracciones XI y XII del artículo 87; Se adicionan: las fracciones IV Bis, VIII Bis y VIII Ter al artículo 2; el artículo 42 Bis; un capítulo X Bis comprendiendo los artículos 47 Bis al 47 Bis 4; los párrafos tercero, cuarto y quinto al artículo 49, el artículo 52 Bis, un último párrafo al artículo 84 y las fracciones XIII y XIV al artículo 87 de la Ley de Aviación Civil, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -2095,13 +2081,7 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 ### Artículo Único
 Se reforman los artículos 2; 4, primer párrafo; 6, fracciones III, VIII y último párrafo; 7,
-**primero.** , segundo y tercer párrafos; 7 Bis, primer y segundo párrafos; 11, primer párrafo y fracciones I, II, III y IV; 19, primer párrafo; 41, primer párrafo; 47 Bis, fracción IX, tercer párrafo; 78 Bis 2, fracción VI; 78 Bis 5, fracciones III y IV; 78 Bis 7, primer párrafo; 79, fracción I; 80, segundo párrafo; 81, primer párrafo; 86, fracción V; 87, fracciones XIII y XIV, y 90, primer párrafo; se adicionan las fracciones II Bis y III Bis al
-
-### artículo 6
-; un octavo párrafo al artículo 11; los artículos 17 Bis; 32 Bis; un cuarto párrafo al artículo 33; un tercer párrafo al artículo 41; una fracción V al artículo 78 Bis 5; 78 Bis 11; un tercer párrafo al artículo 80; un segundo y tercer párrafo al artículo 81; los artículos 81 Bis y 81 Ter; un inciso j) a la fracción I del
-
-### artículo 86
-; las fracciones XV, XVI y XVII al artículo 87; las fracciones XVIII, XIX y XX al artículo 88; los artículos 88 Ter y 88 Quáter; las fracciones I, II y III al artículo 90 de la Ley de Aviación Civil, para quedar como sigue: ………
+**primero.** , segundo y tercer párrafos; 7 Bis, primer y segundo párrafos; 11, primer párrafo y fracciones I, II, III y IV; 19, primer párrafo; 41, primer párrafo; 47 Bis, fracción IX, tercer párrafo; 78 Bis 2, fracción VI; 78 Bis 5, fracciones III y IV; 78 Bis 7, primer párrafo; 79, fracción I; 80, segundo párrafo; 81, primer párrafo; 86, fracción V; 87, fracciones XIII y XIV, y 90, primer párrafo; se adicionan las fracciones II Bis y III Bis al artículo 6; un octavo párrafo al artículo 11; los artículos 17 Bis; 32 Bis; un cuarto párrafo al artículo 33; un tercer párrafo al artículo 41; una fracción V al artículo 78 Bis 5; 78 Bis 11; un tercer párrafo al artículo 80; un segundo y tercer párrafo al artículo 81; los artículos 81 Bis y 81 Ter; un inciso j) a la fracción I del artículo 86; las fracciones XV, XVI y XVII al artículo 87; las fracciones XVIII, XIX y XX al artículo 88; los artículos 88 Ter y 88 Quáter; las fracciones I, II y III al artículo 90 de la Ley de Aviación Civil, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -2174,7 +2154,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

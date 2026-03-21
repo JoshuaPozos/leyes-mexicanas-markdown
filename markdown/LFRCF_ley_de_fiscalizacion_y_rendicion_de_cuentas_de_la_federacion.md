@@ -58,10 +58,7 @@ VI. Comisión: la Comisión de Vigilancia de la Auditoría Superior de la Federa
 
 VII. Comisión de Presupuesto: la Comisión de Presupuesto y Cuenta Pública de la Cámara;
 
-VIII. Cuenta Pública: la Cuenta Pública Federal a que se refiere el artículo 74, fracción VI de la Constitución Política de los Estados Unidos Mexicanos y cuyo contenido se establece en el
-
-### artículo 53
-de la Ley General de Contabilidad Gubernamental;
+VIII. Cuenta Pública: la Cuenta Pública Federal a que se refiere el artículo 74, fracción VI de la Constitución Política de los Estados Unidos Mexicanos y cuyo contenido se establece en el artículo 53 de la Ley General de Contabilidad Gubernamental;
 
 IX. Entes Públicos: Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública Federal, y sus homólogos de las entidades federativas, los municipios y alcaldías de la Ciudad de México y sus dependencias y entidades, las fiscalías o procuradurías locales, las empresas productivas del Estado y sus subsidiarias, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados;
 Fracción reformada DOF 20-05-2021
@@ -502,10 +499,7 @@ IV. En su caso, el cumplimiento de los objetivos de los programas financiados co
 V. La deuda de las entidades federativas garantizada con participaciones federales.
 
 ### Artículo 51
-. La Auditoría Superior de la Federación podrá llevar a cabo las auditorías sobre las participaciones federales a través de los mecanismos de coordinación que implemente, en términos del
-
-### artículo 79
-, fracción I, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
+. La Auditoría Superior de la Federación podrá llevar a cabo las auditorías sobre las participaciones federales a través de los mecanismos de coordinación que implemente, en términos del artículo 79, fracción I, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
 En el mismo marco de la coordinación, la Auditoría Superior de la Federación emitirá los lineamientos técnicos que deberán estar contenidos en los mecanismos de colaboración correspondientes y que tendrán por objeto homologar y hacer eficiente y eficaz la fiscalización de las participaciones que ejerzan las entidades federativas, los municipios y las alcaldías de la Ciudad de México, incluyendo a todas las entidades fiscalizadas de dichos órdenes de gobierno. Asimismo deberán velar por una rendición de cuentas oportuna, clara, imparcial y transparente y con perspectiva. Dichos lineamientos contendrán como mínimo:
 
 I. Los criterios normativos y metodológicos para las auditorías, así como indicadores que permitan evaluar el desempeño de las autoridades fiscalizadoras locales con las que se hayan implementado los mecanismos de coordinación, exclusivamente respecto al cumplimiento de los mismos;
@@ -915,10 +909,7 @@ IV. Aceptar la injerencia de los partidos políticos en el ejercicio de sus func
 
 V. Obtener una evaluación del desempeño poco satisfactoria sin justificación, a juicio de la Comisión, durante dos ejercicios consecutivos, y
 
-VI. Incurrir en cualquiera de las conductas consideradas faltas administrativas graves, en los términos de la Ley General de Responsabilidades Administrativas, así como la inobservancia de lo previsto en el
-
-### artículo 3
-de la presente Ley.
+VI. Incurrir en cualquiera de las conductas consideradas faltas administrativas graves, en los términos de la Ley General de Responsabilidades Administrativas, así como la inobservancia de lo previsto en el artículo 3 de la presente Ley.
 
 ### Artículo 94
 .- La Cámara dictaminará sobre la existencia de los motivos de la remoción del Titular de la Auditoría Superior de la Federación por causas graves de responsabilidad, y deberá dar derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes.

@@ -126,10 +126,7 @@ VI. La actividad a la que se dedica la Persona Desaparecida, así como nombre y 
 
 VII. Los bienes o derechos de la Persona Desaparecida que desean ser protegidos o ejercidos;
 
-VIII. Los efectos que se solicita tenga la Declaración Especial de Ausencia en los términos del
-
-### artículo 21
-de esta Ley;
+VIII. Los efectos que se solicita tenga la Declaración Especial de Ausencia en los términos del artículo 21 de esta Ley;
 
 IX. Toda aquella información que la persona solicitante haga llegar al Órgano Jurisdiccional para acreditar la identidad y personalidad jurídica de la Persona Desaparecida, y
 

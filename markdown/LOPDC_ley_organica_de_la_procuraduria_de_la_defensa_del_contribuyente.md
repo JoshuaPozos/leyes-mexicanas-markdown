@@ -159,10 +159,7 @@ V.- Determinar las bases y lineamientos para la promoción de la cultura tributa
 VI.- Aprobar el nombramiento de los delegados estatales o regionales de la Procuraduría hechos por el Procurador, y VII.- Las demás que se establezcan en esta Ley, en el Estatuto Orgánico, o en cualquier otra disposición.
 
 ### Artículo 14
-.- La Procuraduría de la Defensa del Contribuyente tendrá un Órgano Interno de Control, cuyo titular será designado por la Secretaría de la Función Publica en términos de lo dispuesto por el
-
-### artículo 37
-, fracción XII, de la Ley Orgánica de la Administración Pública Federal y se auxiliará, en el ejercicio de sus facultades, por los titulares de las áreas de auditoria, quejas y responsabilidades, designados en los mismos términos.
+.- La Procuraduría de la Defensa del Contribuyente tendrá un Órgano Interno de Control, cuyo titular será designado por la Secretaría de la Función Publica en términos de lo dispuesto por el artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y se auxiliará, en el ejercicio de sus facultades, por los titulares de las áreas de auditoria, quejas y responsabilidades, designados en los mismos términos.
 El Órgano Interno de Control, su Titular y los titulares de las áreas de auditoria, quejas y responsabilidades, desarrollarán sus funciones conforme a las atribuciones que les confiere la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y otros ordenamientos jurídicos aplicables de conformidad con el Reglamento Interior de la Secretaría de la Función Publica.
 
 ## Capítulo IV
@@ -183,10 +180,7 @@ Las quejas o reclamaciones deberán presentarse por escrito, utilizando para est
 En todos los casos que se requiera, se levantará acta circunstanciada de las actuaciones de la Procuraduría de la Defensa del Contribuyente.
 
 ### Artículo 18
-.- La presentación de la queja o reclamación a que se refiere la fracción III del artículo 5, podrá hacerse en cualquier tiempo, a menos que, el acto que se reclame de las autoridades fiscales federales vaya a ser objeto de defensa contenciosa por la Procuraduría, en términos de la fracción II del
-
-### artículo 5
-, caso en el cual la queja para efectos de la recomendación que le precediera, deberá presentarse a más tardar dentro de los 15 días hábiles siguientes al en que surta efectos la notificación del acto o resolución a impugnarse con el apercibimiento de que, si no se presenta en el término antes indicado, se tendrá por no presentada.
+.- La presentación de la queja o reclamación a que se refiere la fracción III del artículo 5, podrá hacerse en cualquier tiempo, a menos que, el acto que se reclame de las autoridades fiscales federales vaya a ser objeto de defensa contenciosa por la Procuraduría, en términos de la fracción II del artículo 5, caso en el cual la queja para efectos de la recomendación que le precediera, deberá presentarse a más tardar dentro de los 15 días hábiles siguientes al en que surta efectos la notificación del acto o resolución a impugnarse con el apercibimiento de que, si no se presenta en el término antes indicado, se tendrá por no presentada.
 Cuando la queja o reclamación sea notoriamente improcedente o infundada, será rechazada de inmediato, debiendo comunicarse por escrito en el término de cinco días hábiles al quejoso o reclamante.
 Cuando la queja o reclamación no corresponda de manera ostensible a la competencia de la Procuraduría de la Defensa del Contribuyente, ésta deberá notificar la incompetencia al quejoso o reclamante en el término de cinco días hábiles siguientes a la presentación de la queja o reclamación.
 Cuando los quejosos o reclamantes no puedan identificar a las autoridades o servidores públicos, cuyos actos u omisiones consideren haber afectado sus derechos, el escrito que contenga la queja o reclamación será admitido, si procede, bajo la condición de que se logre dicha identificación en la investigación posterior de los hechos, siempre que no se esté en el supuesto a que se refiere la fracción II del artículo 5 de la presente Ley, en cuyo caso se tendrá por no presentada la queja o reclamación.
@@ -302,10 +296,7 @@ Publicado en el Diario Oficial de la Federación el 2 de marzo de 2009 DECRETO p
 Publicado en el Diario Oficial de la Federación el 7 de septiembre de 2009
 
 ### Artículo Único
-Se reforman la fracción VII del artículo 5 y la fracción II y el segundo párrafo del
-
-### artículo 12
-de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, para quedar como sigue: ……….
+Se reforman la fracción VII del artículo 5 y la fracción II y el segundo párrafo del artículo 12 de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, para quedar como sigue: ……….
 
 ## Transitorios
 

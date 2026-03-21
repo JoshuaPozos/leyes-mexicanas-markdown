@@ -125,10 +125,7 @@ II. Las demás corporaciones de carácter público reconocidas por la ley;
 
 III. Las sociedades civiles o mercantiles;
 
-IV. Los sindicatos, las asociaciones profesionales y las demás a que se refiere la fracción XVI del
-
-### artículo 123
-de la Constitución Federal;
+IV. Los sindicatos, las asociaciones profesionales y las demás a que se refiere la fracción XVI del artículo 123 de la Constitución Federal;
 
 V. Las sociedades cooperativas y mutualistas;
 
@@ -210,10 +207,7 @@ La infracción de esta regla producirá la nulidad del acta y se castigará con 
 Artículo reformado DOF 14-03-1973, 03-01-1979
 
 ### Artículo 38
-.- Si se perdiere o destruyere alguna de las Formas del Registro Civil, se sacará inmediatamente copia de alguno de los ejemplares que obren en los archivos que esta Ley señala en su
-
-### artículo 41
-.
+.- Si se perdiere o destruyere alguna de las Formas del Registro Civil, se sacará inmediatamente copia de alguno de los ejemplares que obren en los archivos que esta Ley señala en su artículo 41.
 La Procuraduría General de Justicia del Distrito Federal, cuidará de que se cumpla esta disposición y a este efecto, el Juez del Registro Civil o el encargado del Archivo Judicial, le darán aviso de la pérdida.
 Artículo reformado DOF 14-03-1973, 23-12-1974, 03-01-1979
 
@@ -343,10 +337,7 @@ Artículo reformado DOF 03-01-1979
 Artículo reformado DOF 03-01-1979
 
 ### Artículo 69
-.- Se prohíbe absolutamente al Juez del Registro Civil y a los testigos que conforme al
-
-### artículo 58
-deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+.- Se prohíbe absolutamente al Juez del Registro Civil y a los testigos que conforme al artículo 58 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
 Artículo reformado DOF 14-03-1973
 
 ### Artículo 70
@@ -1101,10 +1092,7 @@ CAPITULO IX De los Matrimonios Nulos e Ilícitos
 
 I. El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra;
 
-II. Que el matrimonio se haya celebrado concurriendo algunos de los impedimentos enumerados en el
-
-### artículo 156
-;
+II. Que el matrimonio se haya celebrado concurriendo algunos de los impedimentos enumerados en el artículo 156;
 
 III. Que se haya celebrado en contravención a lo dispuesto en los artículos 97, 98, 100, 102 y 103.
 
@@ -1152,10 +1140,7 @@ III. Que uno u otro hayan subsistido al tiempo de celebrarse el matrimonio.
 La acción que nace de estas causas de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
 
 ### Artículo 246
-.- La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del
-
-### artículo 156
-, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+.- La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 156, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
 
 ### Artículo 247
 .- Tienen derecho de pedir la nulidad a que se refiere la fracción IX del artículo 156, el otro cónyuge o el tutor del incapacitado.
@@ -1587,10 +1572,7 @@ IV. Si el hijo no nació capaz de vivir.
 .- En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
 
 ### Artículo 331
-.- Si el marido está bajo tutela por cualquier causa de las señaladas en la fracción II del
-
-### artículo 450
-, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+.- Si el marido está bajo tutela por cualquier causa de las señaladas en la fracción II del artículo 450, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 Artículo reformado DOF 23-07-1992
 
 ### Artículo 332
@@ -2163,10 +2145,7 @@ TITULO NOVENO De la Tutela CAPITULO I Disposiciones Generales
 
 ### Artículo 449
 .- El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley.
-En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del
-
-### artículo 413
-.
+En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del artículo 413.
 
 ### Artículo 450
 .- Tienen incapacidad natural y legal:
@@ -2436,10 +2415,7 @@ V. El tutor que se encuentre en el caso previsto en el artículo 159;
 VI. El tutor que permanezca ausente por más de seis meses, del lugar en que debe desempeñar la tutela.
 
 ### Artículo 505
-.- No pueden ser tutores ni curadores de las personas comprendidas en la fracción II del
-
-### artículo 450
-, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
+.- No pueden ser tutores ni curadores de las personas comprendidas en la fracción II del artículo 450, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
 Artículo reformado DOF 23-07-1992
 
 ### Artículo 506
@@ -3077,10 +3053,7 @@ IV. Con la posesión provisional.
 .- Cada año, en el día que corresponda a aquel en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constarán el nombre y domicilio del representante, y el tiempo que falta para que se cumpla el plazo que señalan los artículos 669 y 670 en su caso.
 
 ### Artículo 667
-.- Los edictos se publicarán por dos meses, con intervalo de quince días, en los principales periódicos del último domicilio del ausente, y se remitirán a los cónsules, como previene el
-
-### artículo 650
-.
+.- Los edictos se publicarán por dos meses, con intervalo de quince días, en los principales periódicos del último domicilio del ausente, y se remitirán a los cónsules, como previene el artículo 650.
 
 ### Artículo 668
 .- El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante, de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
@@ -3333,10 +3306,7 @@ V. Que el valor de los bienes que van a constituir el patrimonio no excede del f
 .- Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 730, podrá ampliarse el patrimonio hasta llegar a ese valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Código de la materia.
 
 ### Artículo 734
-.- Las personas que tienen derecho a disfrutar el patrimonio de familia señaladas en el
-
-### artículo 725
-, así como el tutor de acreedores alimentarios incapaces, familiares del deudor o el ministerio público, pueden exigir judicialmente que se constituya el patrimonio de familia hasta por los valores fijados en el artículo 730, sin necesidad de invocar causa alguna. En la constitución de este patrimonio se observará en lo conducente lo dispuesto en los artículos 731 y 732.
+.- Las personas que tienen derecho a disfrutar el patrimonio de familia señaladas en el artículo 725, así como el tutor de acreedores alimentarios incapaces, familiares del deudor o el ministerio público, pueden exigir judicialmente que se constituya el patrimonio de familia hasta por los valores fijados en el artículo 730, sin necesidad de invocar causa alguna. En la constitución de este patrimonio se observará en lo conducente lo dispuesto en los artículos 731 y 732.
 Artículo reformado DOF 27-12-1983
 
 ### Artículo 735
@@ -3544,10 +3514,7 @@ CAPITULO IV De los Bienes Mostrencos
 .- Si durante el plazo designado se presentare alguno reclamando la cosa, la autoridad municipal remitirá todos los datos del caso al juez competente, según el valor de la cosa, ante quien el reclamante probará su acción, interviniendo como parte demandada el Ministerio Público.
 
 ### Artículo 780
-.- Si el reclamante es declarado dueño, se le entregará la cosa o su precio, en el caso del
-
-### artículo 778
-, con deducción de los gastos.
+.- Si el reclamante es declarado dueño, se le entregará la cosa o su precio, en el caso del artículo 778, con deducción de los gastos.
 
 ### Artículo 781
 .- Si el reclamante no es declarado dueño, o si pasado el plazo de un mes, contado desde la primera publicación de los avisos, nadie reclama la propiedad de la cosa, ésta se venderá, dándose una cuarta parte del precio al que la halló y destinándose las otras tres cuartas partes al establecimiento de beneficencia que designe el Gobierno. Los gastos se repartirán entre los adjudicatarios en proporción a la parte que reciban.
@@ -5528,10 +5495,7 @@ Fracción adicionada DOF 30-12-1997
 .- La capacidad para suceder por testamento, sólo se recobra si después de conocido el agravio, el ofendido instituye heredero al ofensor o revalida su institución anterior con las mismas solemnidades que se exigen para testar.
 
 ### Artículo 1320
-.- En los casos de intestado, los descendientes del incapaz de heredar conforme al
-
-### artículo 1316
-, heredarán al autor de la sucesión, no debiendo ser excluidos por la falta de su padre; pero éste no puede, en ningún caso, tener en los bienes de la sucesión, el usufructo, ni la administración que la ley acuerda a los padres sobre los bienes de sus hijos.
+.- En los casos de intestado, los descendientes del incapaz de heredar conforme al artículo 1316, heredarán al autor de la sucesión, no debiendo ser excluidos por la falta de su padre; pero éste no puede, en ningún caso, tener en los bienes de la sucesión, el usufructo, ni la administración que la ley acuerda a los padres sobre los bienes de sus hijos.
 
 ### Artículo 1321
 .- Por presunción de influjo contrario a la libertad del autor de la herencia, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo o después de la mayor edad de aquél, estando ya aprobadas las cuentas de la tutela.
@@ -6505,10 +6469,7 @@ Artículo reformado DOF 23-12-1974
 Artículo reformado DOF 23-12-1974, 03-01-1979
 
 ### Artículo 1595
-.- Los funcionarios mencionados remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado, al Ministerio de Relaciones Exteriores para los efectos prevenidos en el
-
-### artículo 1590
-.
+.- Los funcionarios mencionados remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado, al Ministerio de Relaciones Exteriores para los efectos prevenidos en el artículo 1590.
 
 ### Artículo 1596
 .- Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones Exteriores, en el término de diez días, al encargado del Archivo General de Notarías.
@@ -6541,10 +6502,7 @@ IV. Cuando el heredero muere antes del testador, repudia la herencia o es incapa
 ### Artículo 1602
 .- Tienen derecho a heredar por sucesión legítima:
 
-I. Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado y la concubina o el concubinario, si se satisfacen en este caso los requisitos señalados por el
-
-### artículo 1635
-.
+I. Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado y la concubina o el concubinario, si se satisfacen en este caso los requisitos señalados por el artículo 1635.
 
 II. A falta de los anteriores, la beneficencia pública.
 Artículo reformado DOF 27-12-1983
@@ -7822,10 +7780,7 @@ Si no hubiere tiempo fijado, la condición deberá reputarse cumplida transcurri
 I. Si la cosa se pierde sin culpa del deudor, quedará extinguida la obligación;
 
 II. Si la cosa se pierde por culpa del deudor, éste queda obligado al resarcimiento de daños y perjuicios.
-Entiéndase que la cosa se pierde cuando se encuentra en alguno de los casos mencionados en el
-
-### artículo 2021
-.
+Entiéndase que la cosa se pierde cuando se encuentra en alguno de los casos mencionados en el artículo 2021.
 
 III. Cuando la cosa se deteriore sin culpa del deudor, éste cumple su obligación entregando la cosa al acreedor en el estado en que se encuentre al cumplirse la condición;
 
@@ -8700,10 +8655,7 @@ TITULO QUINTO Extinción de las Obligaciones CAPITULO I De la Compensación
 .- Se llama exigible aquella deuda cuyo pago no puede rehusarse conforme a derecho.
 
 ### Artículo 2191
-.- Si las deudas no fueren de igual cantidad, hecha la compensación, conforme al
-
-### artículo 2186
-, queda expedita la acción por el resto de la deuda.
+.- Si las deudas no fueren de igual cantidad, hecha la compensación, conforme al artículo 2186, queda expedita la acción por el resto de la deuda.
 
 ### Artículo 2192
 .- La compensación no tendrá lugar:
@@ -10265,10 +10217,7 @@ III. A practicar, bajo la responsabilidad que este Código impone al mandatario,
 .- El procurador que tuviere justo impedimento para desempeñar su encargo, no podrá abandonarlo sin substituir el mandato, teniendo facultades para ello o sin avisar a su mandante, para que nombre a otra persona.
 
 ### Artículo 2592
-.- La representación del procurador cesa, además de los casos expresados en el
-
-### artículo 2595
-:
+.- La representación del procurador cesa, además de los casos expresados en el artículo 2595:
 
 I. Por separarse el poderdante de la acción u oposición que haya formulado;
 
@@ -11487,10 +11436,7 @@ Párrafo reformado DOF 14-11-2025 Puede también convenir con el deudor en que s
 
 ### Artículo 2917
 .- Para la constitución de créditos con garantía hipotecaria se observarán las formalidades establecidas en los artículos 2317 y 2320.
-Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Gobierno del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda del valor máximo establecido en el artículo 730, se observarán las formalidades establecidas en el párrafo segundo del
-
-### artículo 2317
-.
+Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Gobierno del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda del valor máximo establecido en el artículo 730, se observarán las formalidades establecidas en el párrafo segundo del artículo 2317.
 Párrafo reformado DOF 29-06-1976, 09-04-2012 Artículo vinculado con artículo transitorio DOF 23-02-1946. Reformado DOF 30-12-1966
 
 ### Artículo 2918
@@ -12179,10 +12125,7 @@ Párrafo reformado DOF 14-11-2025 Comprobados debidamente los requisitos de la p
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988
 
 ### Artículo 3048
-.- En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del
-
-### artículo 3046
-, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente.
+.- En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del artículo 3046, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente.
 Para lo anterior, se deberá seguir el procedimiento que establece el Código Nacional de Procedimientos Civiles y Familiares para las informaciones a que se refiere el artículo 3047.
 Párrafo reformado DOF 14-11-2025 El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la fecha de la inscripción.
 Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones previstas en el Reglamento del Registro Público.
@@ -12493,10 +12436,7 @@ Publicado en el Diario Oficial de la Federación el 18 de enero de 1952 ARTICULO
 ARTICULO 1º.- El presente decreto entrará en vigor al mismo tiempo que el nuevo Reglamento del Registro Público que se expida, en la fecha que fije el Ejecutivo.
 ARTICULO 2º.- Sus disposiciones se aplicarán a los actos y contratos y a los títulos y documentos de fecha anterior a su vigencia, siempre que su aplicación no resulte retrospectiva.
 ARTICULO 3º.- Al entrar en vigor el presente decreto, el Director del Registro Público de la Propiedad del Distrito Federal y los registradores de los Territorios, harán entrega a los encargados de los Archivos de Notarías de sus respectivas jurisdicciones, de los testamentos ológrafos depositados en el Registro, mediante relación detallada de los mismos, entregándoles igualmente los libros de registro y los índices en donde se encuentren anotados dichos testamentos, para su guarda y depósito.
-ARTICULO 4º.- Las personas casadas bajo el régimen de sociedad conyugal, tendrán un plazo de seis meses a partir de la fecha en que este decreto entre en vigor para inscribir en el registro relativo a los inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, esta circunstancia. Pasado este plazo se aplicará a toda inscripción hecha en el registro lo dispuesto en el
-
-### artículo 3012
-.
+ARTICULO 4º.- Las personas casadas bajo el régimen de sociedad conyugal, tendrán un plazo de seis meses a partir de la fecha en que este decreto entre en vigor para inscribir en el registro relativo a los inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, esta circunstancia. Pasado este plazo se aplicará a toda inscripción hecha en el registro lo dispuesto en el artículo 3012.
 ARTICULO 5º.- Quedan derogadas las disposiciones del Código Civil de 1932, que se opongan al presente decreto.
 DECRETO que reforma diversos artículos del Código Civil para el Distrito y Territorios Federales.
 Publicado en el Diario Oficial de la Federación el 9 de enero de 1954 ARTICULO UNICO.- Se reforman los artículos 163, 169, 170, 171, 282 fracción II, 372, 426 y 489, para quedar redactados en los siguientes términos: ………
@@ -12678,10 +12618,7 @@ ARTICULO SEGUNDO.- Se derogan las fracciones III y IV del Artículo 450 y el Art
 **PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **SEGUNDO.-** Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentra en trámite ante los tribunales competentes, en sus resoluciones que se dicten respecto de los motivos que les dieron origen y causa, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del de Protección al Consumidor.
-Publicado en el Diario Oficial de la Federación el 21 de julio de 1993 ARTICULO PRIMERO.- Se reforman los artículos 2398, segundo párrafo; 2406; 2412, fracción I; 2447; 2448; 2448-B; 2448-C; 2448-J; 2448-K; 2478; 2484; 2487; 2489, fracción I; y 2490; se adiciona el
-
-### artículo 2489
-con las fracciones IV y V; y se derogan los artículos 2407; 2448-D, segundo párrafo; 2448-I; 2448-L; 2449; 2450; 2451; 2452; 2453; 2485; 2486; 2488; 2491; 2494; y 3042, último párrafo del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, para quedar como sigue: ..........
+Publicado en el Diario Oficial de la Federación el 21 de julio de 1993 ARTICULO PRIMERO.- Se reforman los artículos 2398, segundo párrafo; 2406; 2412, fracción I; 2447; 2448; 2448-B; 2448-C; 2448-J; 2448-K; 2478; 2484; 2487; 2489, fracción I; y 2490; se adiciona el artículo 2489 con las fracciones IV y V; y se derogan los artículos 2407; 2448-D, segundo párrafo; 2448-I; 2448-L; 2449; 2450; 2451; 2452; 2453; 2485; 2486; 2488; 2491; 2494; y 3042, último párrafo del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -12756,10 +12693,7 @@ DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Cód
 
 ### ARTÍCULO PRIMERO
 Se reforman los artículos 282, primer párrafo; 283; la denominación del Título
-**Sexto.** del Libro Primero; 411; 414; 416 a 418; 422; 423; 444, primer párrafo, fracción I; 492 a 494, y 1316, primer párrafo, fracción VII; se adicionan las fracciones XIX y XX al artículo 267; una fracción VII al
-
-### artículo 282
-; un Capítulo III al Título Sexto del Libro Primero; los artículos 323 bis y 323 ter; las fracciones V y VI al artículo 444; 444 bis, y la fracción XII al artículo 1316, y se deroga el artículo 415 del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para quedar como sigue: ..........
+**Sexto.** del Libro Primero; 411; 414; 416 a 418; 422; 423; 444, primer párrafo, fracción I; 492 a 494, y 1316, primer párrafo, fracción VII; se adicionan las fracciones XIX y XX al artículo 267; una fracción VII al artículo 282; un Capítulo III al Título Sexto del Libro Primero; los artículos 323 bis y 323 ter; las fracciones V y VI al artículo 444; 444 bis, y la fracción XII al artículo 1316, y se deroga el artículo 415 del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -12977,7 +12911,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

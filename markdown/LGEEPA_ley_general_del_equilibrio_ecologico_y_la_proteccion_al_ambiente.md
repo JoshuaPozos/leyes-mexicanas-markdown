@@ -8,10 +8,7 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 28 de enero de 1988 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 MIGUEL DE LA MADRID H., Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "El Congreso de los Estados Unidos Mexicanos, Decreta:
-LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE TITULO PRIMERO Disposiciones Generales CAPITULO I Normas Preliminares
-
-### ARTÍCULO 1o
-.- La presente Ley es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos que se refieren a la preservación y restauración del equilibrio ecológico, así como a la protección al ambiente, en el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción. Sus disposiciones son de orden público e interés social y tienen por objeto propiciar el desarrollo sustentable y establecer las bases para:
+LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE TITULO PRIMERO Disposiciones Generales CAPITULO I Normas Preliminares ARTÍCULO 1o.- La presente Ley es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos que se refieren a la preservación y restauración del equilibrio ecológico, así como a la protección al ambiente, en el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción. Sus disposiciones son de orden público e interés social y tienen por objeto propiciar el desarrollo sustentable y establecer las bases para:
 I.- Garantizar el derecho de toda persona a vivir en un medio ambiente sano para su desarrollo, salud y bienestar;
 Fracción reformada DOF 05-11-2013 II.- Definir los principios de la política ambiental y los instrumentos para su aplicación;
 III.- La preservación, la restauración y el mejoramiento del ambiente;
@@ -23,19 +20,13 @@ VIII.- El ejercicio de las atribuciones que en materia ambiental corresponde a l
 Fracción reformada DOF 19-01-2018 IX.- El establecimiento de los mecanismos de coordinación, inducción y concertación entre autoridades, entre éstas y las Instituciones académicas y de investigación, los sectores social y privado, así como con personas y grupos sociales, en materia ambiental;
 Fracción reformada DOF 11-04-2022 X.- El establecimiento de medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas y penales que correspondan.
 En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en otras leyes relacionadas con las materias que regula este ordenamiento.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 2o
-.- Se consideran de utilidad pública:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 2o.- Se consideran de utilidad pública:
 
 I. El ordenamiento ecológico del territorio nacional en los casos previstos por ésta y las demás leyes aplicables;
 II.- El establecimiento, protección y preservación de las áreas naturales protegidas y de las zonas de restauración ecológica;
 Fracción reformada DOF 13-12-1996 III.- La formulación y ejecución de acciones de protección y preservación de la biodiversidad del territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción, así como el aprovechamiento de material genético;
 Fracción reformada DOF 13-12-1996, 28-01-2011 IV.- El establecimiento de zonas intermedias de salvaguardia, con motivo de la presencia de actividades consideradas como riesgosas, y Fracción reformada DOF 28-01-2011 V.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático.
-Fracción adicionada DOF 28-01-2011
-
-### ARTÍCULO 3o
-.- Para los efectos de esta Ley se entiende por:
+Fracción adicionada DOF 28-01-2011 ARTÍCULO 3o.- Para los efectos de esta Ley se entiende por:
 I.- Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
 II.- Áreas naturales protegidas: Las zonas del territorio nacional y aquéllas sobre las que la nación ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas y están sujetas al régimen previsto en la presente Ley;
 III.- Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
@@ -103,15 +94,9 @@ XXXIX. Zonificación: El instrumento técnico de planeación que puede ser utili
 Fracción adicionada DOF 23-02-2005. Recorrida DOF 28-01-2011, 04-06-2012 Artículo reformado DOF 13-12-1996
 
 ## CAPÍTULO II
-Distribución de Competencias y Coordinación Denominación del Capítulo reformada DOF 13-12-1996
-
-### ARTÍCULO 4o
-.- La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México ejercerán sus atribuciones en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente, de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
+Distribución de Competencias y Coordinación Denominación del Capítulo reformada DOF 13-12-1996 ARTÍCULO 4o.- La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México ejercerán sus atribuciones en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente, de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
 Párrafo reformado DOF 19-01-2018 La distribución de competencias en materia de regulación del aprovechamiento sustentable, la protección y la preservación de los recursos forestales y el suelo, estará determinada por la Ley General de Desarrollo Forestal Sustentable.
-Párrafo adicionado DOF 25-02-2003 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 5o
-.- Son facultades de la Federación:
+Párrafo adicionado DOF 25-02-2003 Artículo reformado DOF 13-12-1996 ARTÍCULO 5o.- Son facultades de la Federación:
 I.- La formulación y conducción de la política ambiental nacional;
 II.- La aplicación de los instrumentos de la política ambiental previstos en esta Ley, en los términos en ella establecidos, así como la regulación de las acciones para la preservación y restauración del equilibrio ecológico y la protección al ambiente que se realicen en bienes y zonas de jurisdicción federal;
 III.- La atención de los asuntos que afecten el equilibrio ecológico en el territorio nacional o en las zonas sujetas a la soberanía y jurisdicción de la nación, originados en el territorio o zonas sujetas a la soberanía o jurisdicción de otros Estados, o en zonas que estén más allá de la jurisdicción de cualquier Estado;
@@ -135,16 +120,10 @@ XVIII.- La emisión de recomendaciones a autoridades Federales, Estatales y Muni
 XIX.- La vigilancia y promoción, en el ámbito de su competencia, del cumplimiento de esta Ley y los demás ordenamientos que de ella se deriven;
 XX.- La atención de los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas;
 Fracción reformada DOF 28-01-2011 XXI.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y Fracción adicionada DOF 28-01-2011 XXII.- Las demás que esta Ley u otras disposiciones legales atribuyan a la Federación.
-Fracción recorrida DOF 28-01-2011 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 6o
-.- Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría y, en su caso, podrán colaborar con ésta las Secretarías de Defensa Nacional y de Marina, así como la Guardia Nacional, cuando por la naturaleza y gravedad del problema así lo determine, salvo las que directamente corresponden al Presidente de la República por disposición expresa de la Ley.
+Fracción recorrida DOF 28-01-2011 Artículo reformado DOF 13-12-1996 ARTÍCULO 6o.- Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría y, en su caso, podrán colaborar con ésta las Secretarías de Defensa Nacional y de Marina, así como la Guardia Nacional, cuando por la naturaleza y gravedad del problema así lo determine, salvo las que directamente corresponden al Presidente de la República por disposición expresa de la Ley.
 Párrafo reformado DOF 23-05-2006, 17-12-2025 Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública Federal u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 Las dependencias y entidades de la Administración Pública Federal que ejerzan atribuciones que les confieren otros ordenamientos cuyas disposiciones se relacionen con el objeto de la presente Ley, ajustarán su ejercicio a los criterios para preservar el equilibrio ecológico, aprovechar sustentablemente los recursos naturales y proteger el ambiente en ella incluidos, así como a las disposiciones de los reglamentos, normas oficiales mexicanas, programas de ordenamiento ecológico y demás normatividad que de la misma se derive.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 7o
-.- Corresponden a los Estados, de conformidad con lo dispuesto en esta Ley y las leyes locales en la materia, las siguientes facultades:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 7o.- Corresponden a los Estados, de conformidad con lo dispuesto en esta Ley y las leyes locales en la materia, las siguientes facultades:
 I.- La formulación, conducción y evaluación de la política ambiental estatal;
 II.- La aplicación de los instrumentos de política ambiental previstos en las leyes locales en la materia, así como la preservación y restauración del equilibrio ecológico y la protección al ambiente que se realice en bienes y zonas de jurisdicción estatal, en las materias que no estén expresamente atribuidas a la Federación;
 III.- La prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales, así como por fuentes móviles, que conforme a lo establecido en esta Ley no sean de competencia Federal;
@@ -167,10 +146,7 @@ XVIII.- La formulación, ejecución y evaluación del programa estatal de protec
 XIX.- La emisión de recomendaciones a las autoridades competentes en materia ambiental, con el propósito de promover el cumplimiento de la legislación ambiental;
 XX.- La atención coordinada con la Federación de asuntos que afecten el equilibrio ecológico de dos o más Entidades Federativas, cuando así lo consideren conveniente las Entidades Federativas respectivas;
 Fracción reformada DOF 28-01-2011 XXI.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y Fracción adicionada DOF 28-01-2011 XXII.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
-Fracción recorrida DOF 28-01-2011 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 8o
-.- Corresponden a los Municipios, de conformidad con lo dispuesto en esta Ley y las leyes locales en la materia, las siguientes facultades:
+Fracción recorrida DOF 28-01-2011 Artículo reformado DOF 13-12-1996 ARTÍCULO 8o.- Corresponden a los Municipios, de conformidad con lo dispuesto en esta Ley y las leyes locales en la materia, las siguientes facultades:
 I.- La formulación, conducción y evaluación de la política ambiental municipal;
 II.- La aplicación de los instrumentos de política ambiental previstos en las leyes locales en la materia y la preservación y restauración del equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente atribuidas a la Federación o a los Estados;
 III.- La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como de emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean consideradas de jurisdicción federal, con la participación que de acuerdo con la legislación estatal corresponda al gobierno del estado;
@@ -188,20 +164,11 @@ XIII.- La formulación y conducción de la política municipal de información y
 XIV.- La participación en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
 XV.- La formulación, ejecución y evaluación del programa municipal de protección al ambiente;
 Fracción reformada DOF 28-01-2011 XVI.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y Fracción adicionada DOF 28-01-2011 XVII.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
-Fracción recorrida DOF 28-01-2011 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 9o
-.- Corresponden al Gobierno de la Ciudad de México, en materia de preservación del equilibrio ecológico y la protección al ambiente, conforme a las disposiciones legales que expida la Legislatura local, las facultades a que se refiere el artículo 7o. y demás que esta Ley distribuya competencias a los Estados, mientras que corresponderá las aplicables del artículo 8o. y demás que esta Ley distribuya a los municipios para las demarcaciones territoriales de la Ciudad de México.
-Artículo reformado DOF 13-12-1996, 19-01-2018
-
-### ARTÍCULO 10
-.- Las Legislaturas de las entidades federativas, con arreglo a sus respectivas Constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley.
+Fracción recorrida DOF 28-01-2011 Artículo reformado DOF 13-12-1996 ARTÍCULO 9o.- Corresponden al Gobierno de la Ciudad de México, en materia de preservación del equilibrio ecológico y la protección al ambiente, conforme a las disposiciones legales que expida la Legislatura local, las facultades a que se refiere el artículo 7o. y demás que esta Ley distribuya competencias a los Estados, mientras que corresponderá las aplicables del artículo 8o. y demás que esta Ley distribuya a los municipios para las demarcaciones territoriales de la Ciudad de México.
+Artículo reformado DOF 13-12-1996, 19-01-2018 ARTÍCULO 10.- Las Legislaturas de las entidades federativas, con arreglo a sus respectivas Constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley.
 Los ayuntamientos, por su parte, dictarán los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que, en sus respectivas circunscripciones, se cumplan las previsiones del presente ordenamiento.
 En el ejercicio de sus atribuciones, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, observarán las disposiciones de esta Ley y las que de ella se deriven.
-Artículo reformado DOF 13-12-1996, 19-01-2018
-
-### ARTÍCULO 11
-.- La Federación, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o demarcación territorial de la Ciudad de México, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial:
+Artículo reformado DOF 13-12-1996, 19-01-2018 ARTÍCULO 11.- La Federación, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o demarcación territorial de la Ciudad de México, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial:
 Párrafo reformado DOF 19-01-2018
 
 I. La administración y vigilancia de las áreas naturales protegidas de competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y demás disposiciones del presente ordenamiento;
@@ -242,10 +209,7 @@ VIII. La realización de acciones operativas tendientes a cumplir con los fines 
 IX. La inspección y vigilancia del cumplimiento de esta Ley y demás disposiciones que de ella deriven.
 Dichas facultades serán ejercidas conforme a lo dispuesto en esta Ley y demás disposiciones federales aplicables, así como en aquellas que de las mismas deriven.
 En contra de los actos que emitan los gobiernos de las entidades federativas y, en su caso, de sus Municipios o las demarcaciones territoriales de la Ciudad de México, en ejercicio de las facultades que asuman de conformidad con este precepto respecto de los particulares, procederán los recursos y medios de defensa establecidos en el Capítulo V del Título Sexto de esta Ley.
-Párrafo reformado DOF 19-01-2018 Artículo reformado DOF 13-12-1996, 31-12-2001
-
-### ARTÍCULO 12
-.- Para los efectos del artículo anterior, los convenios o acuerdos de coordinación que celebre la Federación, por conducto de la Secretaría, con los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o de las demarcaciones territoriales de la Ciudad de México, deberán sujetarse a las siguientes bases:
+Párrafo reformado DOF 19-01-2018 Artículo reformado DOF 13-12-1996, 31-12-2001 ARTÍCULO 12.- Para los efectos del artículo anterior, los convenios o acuerdos de coordinación que celebre la Federación, por conducto de la Secretaría, con los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o de las demarcaciones territoriales de la Ciudad de México, deberán sujetarse a las siguientes bases:
 Párrafo reformado DOF 19-01-2018
 
 I. Se celebrarán a petición de una Entidad Federativa, cuando ésta cuente con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las facultades que asumiría y que para tales efectos requiera la autoridad federal. Estos requerimientos dependerán del tipo de convenio o acuerdo a firmar y las capacidades serán evaluadas en conjunto con la Secretaría.
@@ -271,25 +235,13 @@ Fracción reformada DOF 19-01-2018
 X. Para el caso de los convenios relativos a las Evaluaciones de Impacto Ambiental, los procedimientos que las entidades establezcan habrán de ser los establecidos en el Reglamento del presente ordenamiento en Materia de Evaluación del Impacto Ambiental, y serán autorizados por la Secretaría y publicados en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la respectiva entidad federativa, con antelación a la entrada en vigor del convenio o acuerdo de coordinación.
 Corresponde a la Secretaría evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo.
 Los convenios o acuerdos de coordinación a que se refiere el presente artículo, sus modificaciones, así como su acuerdo de terminación, deberán publicarse en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la respectiva entidad federativa.
-Artículo reformado DOF 13-12-1996, 31-12-2001
-
-### ARTÍCULO 13
-.- Los Estados podrán suscribir entre sí y con el Gobierno de la Ciudad de México, en su caso, convenios o acuerdos de coordinación y colaboración administrativa, con el propósito de atender y resolver problemas ambientales comunes y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en las leyes locales que resulten aplicables. Las mismas facultades podrán ejercer los municipios o las demarcaciones territoriales de la Ciudad de México entre sí, aunque pertenezcan a entidades federativas diferentes, de conformidad con lo que establezcan las leyes señaladas.
-Artículo reformado DOF 13-12-1996, 19-01-2018
-
-### ARTÍCULO 14
-.- Las dependencias y entidades de la Administración Pública se coordinarán con la Secretaría para la realización de las acciones conducentes, cuando exista peligro para el equilibrio ecológico de alguna zona o región del país, como consecuencia de desastres producidos por fenómenos naturales, o por caso fortuito o fuerza mayor.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 14
-BIS.- Las autoridades ambientales de la Federación y de las entidades federativas integrarán un órgano que se reunirá periódicamente con el propósito de coordinar sus esfuerzos en materia ambiental, analizar e intercambiar opiniones en relación con las acciones y programas en la materia, evaluar y dar seguimiento a las mismas, así como convenir las acciones y formular las recomendaciones pertinentes, particularmente en lo que se refiere a los objetivos y principios establecidos en los artículos primero y décimo quinto de esta Ley.
+Artículo reformado DOF 13-12-1996, 31-12-2001 ARTÍCULO 13.- Los Estados podrán suscribir entre sí y con el Gobierno de la Ciudad de México, en su caso, convenios o acuerdos de coordinación y colaboración administrativa, con el propósito de atender y resolver problemas ambientales comunes y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en las leyes locales que resulten aplicables. Las mismas facultades podrán ejercer los municipios o las demarcaciones territoriales de la Ciudad de México entre sí, aunque pertenezcan a entidades federativas diferentes, de conformidad con lo que establezcan las leyes señaladas.
+Artículo reformado DOF 13-12-1996, 19-01-2018 ARTÍCULO 14.- Las dependencias y entidades de la Administración Pública se coordinarán con la Secretaría para la realización de las acciones conducentes, cuando exista peligro para el equilibrio ecológico de alguna zona o región del país, como consecuencia de desastres producidos por fenómenos naturales, o por caso fortuito o fuerza mayor.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 14 BIS.- Las autoridades ambientales de la Federación y de las entidades federativas integrarán un órgano que se reunirá periódicamente con el propósito de coordinar sus esfuerzos en materia ambiental, analizar e intercambiar opiniones en relación con las acciones y programas en la materia, evaluar y dar seguimiento a las mismas, así como convenir las acciones y formular las recomendaciones pertinentes, particularmente en lo que se refiere a los objetivos y principios establecidos en los artículos primero y décimo quinto de esta Ley.
 Artículo adicionado DOF 13-12-1996
 
 ## CAPÍTULO III
-Política Ambiental Capítulo reubicado con denominación reformada DOF 13-12-1996
-
-### ARTÍCULO 15
-.- Para la formulación y conducción de la política ambiental y la expedición de normas oficiales mexicanas y demás instrumentos previstos en esta Ley, en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, el Ejecutivo Federal observará los siguientes principios:
+Política Ambiental Capítulo reubicado con denominación reformada DOF 13-12-1996 ARTÍCULO 15.- Para la formulación y conducción de la política ambiental y la expedición de normas oficiales mexicanas y demás instrumentos previstos en esta Ley, en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, el Ejecutivo Federal observará los siguientes principios:
 I.- Los ecosistemas son patrimonio común de la sociedad y de su equilibrio dependen la vida y las posibilidades productivas del país;
 II.- Los ecosistemas y sus elementos deben ser aprovechados de manera que se asegure una productividad óptima y sostenida, compatible con su equilibrio e integridad;
 III.- Las autoridades y los particulares deben asumir la responsabilidad de la protección del equilibrio ecológico;
@@ -314,41 +266,23 @@ Fracción reformada DOF 07-01-2000
 XIX. A través de la cuantificación del costo de la contaminación del ambiente y del agotamiento de los recursos naturales provocados por las actividades económicas en un año determinado, se calculará el Producto Interno Neto Ecológico. El Instituto Nacional de Estadística, Geografía e Informática integrará el Producto Interno Neto Ecológico al Sistema de Cuentas Nacionales, y Fracción reformada DOF 07-01-2000
 
 XX. La educación es un medio para valorar la vida a través de la prevención del deterioro ambiental, preservación, restauración y el aprovechamiento sostenible de los ecosistemas y con ello evitar los desequilibrios ecológicos y daños ambientales.
-Fracción adicionada DOF 07-01-2000 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 16
-.- Las entidades federativas y los municipios en el ámbito de sus competencias, observarán y aplicarán los principios a que se refieren las fracciones I a XV del artículo anterior.
+Fracción adicionada DOF 07-01-2000 Artículo reformado DOF 13-12-1996 ARTÍCULO 16.- Las entidades federativas y los municipios en el ámbito de sus competencias, observarán y aplicarán los principios a que se refieren las fracciones I a XV del artículo anterior.
 Artículo reformado DOF 13-12-1996
 
 ## CAPÍTULO IV
 Instrumentos de la Política Ambiental Capítulo reubicado con denominación reformada DOF 13-12-1996
 
 ## SECCIÓN I
-Planeación Ambiental Denominación de la Sección reformada DOF 13-12-1996
-
-### ARTÍCULO 17
-.- En la planeación nacional del desarrollo se deberá incorporar la política ambiental y el ordenamiento ecológico que se establezcan de conformidad con esta Ley y las demás disposiciones en la materia.
+Planeación Ambiental Denominación de la Sección reformada DOF 13-12-1996 ARTÍCULO 17.- En la planeación nacional del desarrollo se deberá incorporar la política ambiental y el ordenamiento ecológico que se establezcan de conformidad con esta Ley y las demás disposiciones en la materia.
 En la planeación y realización de las acciones a cargo de las dependencias y entidades de la administración pública federal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno Federal para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Nacional de Desarrollo y los programas correspondientes.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 17
-BIS.- La Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, expedirán los manuales de sistemas de manejo ambiental, que tendrán por objeto la optimización de los recursos materiales que se emplean para el desarrollo de sus actividades, con el fin de reducir costos financieros y ambientales.
-Artículo adicionado DOF 13-06-2003
-
-### ARTÍCULO 17
-TER.- Las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, instalarán en los inmuebles a su cargo, un sistema de captación de agua pluvial, debiendo atender los requerimientos de la zona geográfica en que se encuentren y la posibilidad física, técnica y financiera que resulte conveniente para cada caso. Esta se utilizará en los baños, las labores de limpieza de pisos y ventanas, el riego de jardines y árboles de ornato.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 17 BIS.- La Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, expedirán los manuales de sistemas de manejo ambiental, que tendrán por objeto la optimización de los recursos materiales que se emplean para el desarrollo de sus actividades, con el fin de reducir costos financieros y ambientales.
+Artículo adicionado DOF 13-06-2003 ARTÍCULO 17 TER.- Las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, instalarán en los inmuebles a su cargo, un sistema de captación de agua pluvial, debiendo atender los requerimientos de la zona geográfica en que se encuentren y la posibilidad física, técnica y financiera que resulte conveniente para cada caso. Esta se utilizará en los baños, las labores de limpieza de pisos y ventanas, el riego de jardines y árboles de ornato.
 La instalación del sistema de captación de agua pluvial en aquellos inmuebles a cargo de las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, declarados monumentos artísticos e históricos en términos de lo dispuesto por la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos se llevará a cabo bajo la rigurosa supervisión de expertos del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes, según corresponda, con objeto de evitar afectaciones a dichos inmuebles.
 Para efectos de lo dispuesto en el presente artículo, por agua pluvial se entiende aquella que proviene de la lluvia, el granizo y la nieve.
-Artículo adicionado DOF 15-05-2013
-
-### ARTÍCULO 18
-.- El Gobierno Federal promoverá la participación de los distintos grupos sociales en la elaboración de los programas que tengan por objeto la preservación y restauración del equilibrio ecológico y la protección al ambiente, según lo establecido en esta Ley y las demás aplicables.
+Artículo adicionado DOF 15-05-2013 ARTÍCULO 18.- El Gobierno Federal promoverá la participación de los distintos grupos sociales en la elaboración de los programas que tengan por objeto la preservación y restauración del equilibrio ecológico y la protección al ambiente, según lo establecido en esta Ley y las demás aplicables.
 
 ## SECCIÓN II
-Ordenamiento Ecológico del Territorio Denominación de la Sección reformada DOF 13-12-1996
-
-### ARTÍCULO 19
-.- En la formulación del ordenamiento ecológico se deberán considerar los siguientes criterios:
+Ordenamiento Ecológico del Territorio Denominación de la Sección reformada DOF 13-12-1996 ARTÍCULO 19.- En la formulación del ordenamiento ecológico se deberán considerar los siguientes criterios:
 Párrafo reformado DOF 13-12-1996 I.- La naturaleza y características de los ecosistemas existentes en el territorio nacional y en las zonas sobre las que la nación ejerce soberanía y jurisdicción;
 Fracción reformada DOF 13-12-1996
 
@@ -359,53 +293,29 @@ III. Los desequilibrios existentes en los ecosistemas por efecto de los asentami
 IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales;
 Fracción reformada DOF 12-02-2007 V.- El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades;
 Fracción reformada DOF 13-12-1996, 12-02-2007, 11-04-2022 VI.- Las modalidades que de conformidad con la presente Ley, establezcan los decretos por los que se constituyan las áreas naturales protegidas, así como las demás disposiciones previstas en el programa de manejo respectivo, en su caso, y Fracción adicionada DOF 12-02-2007. Reformada DOF 11-04-2022 VII.- Las cuencas hidrográficas e hidrológicas y acuíferos existentes reguladas por los ordenamientos respectivos.
-Fracción adicionada DOF 11-04-2022
-
-### ARTÍCULO 19
-BIS.- El ordenamiento ecológico del territorio nacional y de las zonas sobre las que la nación ejerce su soberanía y jurisdicción, se llevará a cabo a través de los programas de ordenamiento ecológico:
+Fracción adicionada DOF 11-04-2022 ARTÍCULO 19 BIS.- El ordenamiento ecológico del territorio nacional y de las zonas sobre las que la nación ejerce su soberanía y jurisdicción, se llevará a cabo a través de los programas de ordenamiento ecológico:
 I.- General del Territorio;
 II.- Regionales;
 III.- Locales, y IV.- Marinos.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 20
-.- El programa de ordenamiento ecológico general del territorio será formulado por la Secretaría, en el marco del Sistema Nacional de Planeación Democrática y tendrá por objeto determinar:
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 20.- El programa de ordenamiento ecológico general del territorio será formulado por la Secretaría, en el marco del Sistema Nacional de Planeación Democrática y tendrá por objeto determinar:
 I.- La regionalización ecológica del territorio nacional y de las zonas sobre las que la nación ejerce soberanía y jurisdicción, a partir del diagnóstico de las características, disponibilidad y demanda de los recursos naturales, así como de las actividades productivas que en ellas se desarrollen y, de la ubicación y situación de los asentamientos humanos existentes, y II.- Los lineamientos y estrategias ecológicas para la preservación, protección, restauración y aprovechamiento sustentable de los recursos naturales, así como para la localización de actividades productivas y de los asentamientos humanos.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 20
-BIS.- La formulación, expedición, ejecución y evaluación del ordenamiento ecológico general del territorio se llevará a cabo de conformidad con lo dispuesto en la Ley de Planeación.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 20 BIS.- La formulación, expedición, ejecución y evaluación del ordenamiento ecológico general del territorio se llevará a cabo de conformidad con lo dispuesto en la Ley de Planeación.
 Asimismo, la Secretaría deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación, y demás personas interesadas, de acuerdo con lo establecido en esta Ley, así como en las demás disposiciones que resulten aplicables.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 20
-BIS 1.- La Secretaría deberá apoyar técnicamente la formulación y ejecución de los programas de ordenamiento ecológico regional y local, de conformidad con lo dispuesto en esta Ley.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 20 BIS 1.- La Secretaría deberá apoyar técnicamente la formulación y ejecución de los programas de ordenamiento ecológico regional y local, de conformidad con lo dispuesto en esta Ley.
 Las entidades federativas y los municipios podrán participar en las consultas y emitir las recomendaciones que estimen pertinentes para la formulación de los programas de ordenamiento ecológico general del territorio y de ordenamiento ecológico marino.
 Los programas de ordenamiento ecológico regional y ordenamiento ecológico local, contarán con Comités de ordenamiento ecológico territorial, como órganos de participación social, y espacios de concertación, colaboración, transparencia y rendición de cuentas.
 Párrafo adicionado DOF 11-04-2022 Para la integración de los Comités, la Secretaría, las entidades federativas, los Municipios y demarcaciones territoriales de la Ciudad de México promoverán la participación de personas, organizaciones, grupos e instituciones de los sectores público, privado, social, académico y de investigación, con el fin de obtener su opinión técnica sobre la congruencia de planes, programas y acciones sectoriales en el área de estudio.
 Párrafo adicionado DOF 11-04-2022 Los Comités a que hace referencia el presente artículo, se ajustarán a lo que se determine en los convenios de coordinación y concertación respectivos. En los convenios referidos se determinará si las opiniones de los Comités podrán ser vinculantes a las políticas públicas, los planes, programas y presupuestos de las autoridades ejecutivas correspondientes, en materia de ordenamiento ecológico territorial.
-Párrafo adicionado DOF 11-04-2022 Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 20
-BIS 2.- Los Gobiernos de las entidades federativas, en los términos de las leyes locales aplicables, podrán formular y expedir programas de ordenamiento ecológico regional, que abarquen la totalidad o una parte del territorio de una entidad federativa.
+Párrafo adicionado DOF 11-04-2022 Artículo adicionado DOF 13-12-1996 ARTÍCULO 20 BIS 2.- Los Gobiernos de las entidades federativas, en los términos de las leyes locales aplicables, podrán formular y expedir programas de ordenamiento ecológico regional, que abarquen la totalidad o una parte del territorio de una entidad federativa.
 Cuando una región ecológica se ubique en el territorio de dos o más entidades federativas, el Gobierno Federal, el de las entidades federativas y Municipios o demarcaciones territoriales de la Ciudad de México respectivas, en el ámbito de sus competencias, podrán formular un programa de ordenamiento ecológico regional. Para tal efecto, la Federación celebrará los acuerdos o convenios de coordinación procedentes con los gobiernos locales involucrados.
 Cuando un programa de ordenamiento ecológico regional incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa deberá ser elaborado y aprobado en forma conjunta por la Secretaría y los gobiernos de las entidades federativas y Municipios o demarcaciones territoriales de la Ciudad de México, previa opinión emitida por los Comités de ordenamiento ecológico territorial correspondientes, en que se ubique, según corresponda.
-Párrafo reformado DOF 11-04-2022 Artículo adicionado DOF 13-12-1996. Reformado DOF 12-02-2007, 19-01-2018
-
-### ARTÍCULO 20
-BIS 3.- Los programas de ordenamiento ecológico regional a que se refiere el artículo 20 BIS 2 deberán contener, por lo menos:
+Párrafo reformado DOF 11-04-2022 Artículo adicionado DOF 13-12-1996. Reformado DOF 12-02-2007, 19-01-2018 ARTÍCULO 20 BIS 3.- Los programas de ordenamiento ecológico regional a que se refiere el artículo 20 BIS 2 deberán contener, por lo menos:
 I.- La determinación del área o región a ordenar, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales y las tecnologías utilizadas por los habitantes del área;
 II.- La determinación de los criterios de regulación ecológica para la preservación, protección, restauración y aprovechamiento sustentable de los recursos naturales que se localicen en la región de que se trate, así como para la realización de actividades productivas y la ubicación de asentamientos humanos, y III.- Los lineamientos para su ejecución, evaluación, seguimiento y modificación.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 20
-BIS 4.- Los programas de ordenamiento ecológico local serán expedidos por las autoridades municipales, y en su caso por las demarcaciones territoriales de la Ciudad de México, de conformidad con las leyes locales en materia ambiental, y tendrán por objeto:
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 20 BIS 4.- Los programas de ordenamiento ecológico local serán expedidos por las autoridades municipales, y en su caso por las demarcaciones territoriales de la Ciudad de México, de conformidad con las leyes locales en materia ambiental, y tendrán por objeto:
 Párrafo reformado DOF 19-01-2018 I.- Determinar las distintas áreas ecológicas que se localicen en la zona o región de que se trate, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales, y de las tecnologías utilizadas por los habitantes del área de que se trate;
 II.- Regular, fuera de los centros de población, los usos del suelo con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sustentable los recursos naturales respectivos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos, y III.- Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los planes o programas de desarrollo urbano correspondientes.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 20
-BIS 5.- Los procedimientos bajo los cuales serán formulados, aprobados, expedidos, evaluados y modificados los programas de ordenamiento ecológico local, serán determinados en las leyes de las entidades federativas en la materia, conforme a las siguientes bases:
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 20 BIS 5.- Los procedimientos bajo los cuales serán formulados, aprobados, expedidos, evaluados y modificados los programas de ordenamiento ecológico local, serán determinados en las leyes de las entidades federativas en la materia, conforme a las siguientes bases:
 Párrafo reformado DOF 19-01-2018 I.- Existirá congruencia entre los programas de ordenamiento ecológico marinos, en su caso, y general del territorio y regionales, con los programas de ordenamiento ecológico local;
 II.- Los programas de ordenamiento ecológico local cubrirán una extensión geográfica cuyas dimensiones permitan regular el uso del suelo, de conformidad con lo previsto en esta Ley;
 III.- Las previsiones contenidas en los programas de ordenamiento ecológico local del territorio, mediante las cuales se regulen los usos del suelo, se referirán únicamente a las áreas localizadas fuera de los límites de los centros de población. En los programas de ordenamiento ecológico local del territorio se establecerán límites geográficos hasta donde se pueden extender las áreas urbanizables de los centros de población en el territorio ordenado. Cuando en dichas áreas se pretenda la ampliación de un centro de población o la realización de proyectos de desarrollo urbano, se deberá cumplir con lo que establezca el programa de ordenamiento ecológico respectivo, el cual sólo podrá modificarse mediante el procedimiento que establezca la legislación local en la materia;
@@ -415,44 +325,26 @@ V.- Cuando un programa de ordenamiento ecológico local incluya un área natural
 Fracción reformada DOF 19-01-2018 VI.- Los programas de ordenamiento ecológico local regularán los usos del suelo, incluyendo a ejidos, comunidades y pequeñas propiedades, expresando las motivaciones que lo justifiquen;
 VII.- Para la elaboración de los programas de ordenamiento ecológico local, las leyes en la materia establecerán los mecanismos que garanticen la participación de los particulares, los grupos y organizaciones sociales, empresariales y demás interesados. Dichos mecanismos incluirán, por lo menos, procedimientos de difusión y consulta pública de los programas respectivos.
 Las leyes locales en la materia, establecerán las formas y los procedimientos para que los particulares participen en la ejecución, vigilancia y evaluación de los programas de ordenamiento ecológico a que se refiere este precepto, y VIII.- El Gobierno Federal podrá participar en la consulta a que se refiere la fracción anterior y emitirá las recomendaciones que estime pertinentes.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 20
-BIS 6.- La Secretaría podrá formular, expedir y ejecutar, en coordinación con las Dependencias competentes, programas de ordenamiento ecológico marino. Estos programas tendrán por objeto el establecer los lineamientos y previsiones a que deberá sujetarse la preservación, restauración, protección y aprovechamiento sustentable de los recursos naturales existentes en áreas o superficies específicas ubicadas en zonas marinas mexicanas, incluyendo las zonas federales adyacentes.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 20
-BIS 7.- Los programas de ordenamiento ecológico marino deberán contener, por lo menos:
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 20 BIS 6.- La Secretaría podrá formular, expedir y ejecutar, en coordinación con las Dependencias competentes, programas de ordenamiento ecológico marino. Estos programas tendrán por objeto el establecer los lineamientos y previsiones a que deberá sujetarse la preservación, restauración, protección y aprovechamiento sustentable de los recursos naturales existentes en áreas o superficies específicas ubicadas en zonas marinas mexicanas, incluyendo las zonas federales adyacentes.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 20 BIS 7.- Los programas de ordenamiento ecológico marino deberán contener, por lo menos:
 I.- La delimitación precisa del área que abarcará el programa;
 II.- La determinación de las zonas ecológicas a partir de las características, disponibilidad y demanda de los recursos naturales en ellas comprendidas, así como el tipo de actividades productivas que en las mismas se desarrollen, y III.- Los lineamientos, estrategias y demás previsiones para la preservación, protección, restauración y aprovechamiento sustentable de los recursos naturales, así como la realización de actividades productivas y demás obras o actividades que puedan afectar los ecosistemas respectivos.
 En la determinación de tales previsiones deberán considerarse los criterios establecidos en esta Ley, las disposiciones que de ella se deriven, los tratados internacionales de los que México sea parte, y demás ordenamientos que regulen la materia.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 20
-BIS 8.- La Secretaría promoverá el proceso de consulta previa, libre e informada y la participación de las comunidades indígenas y afromexicanas, las comunidades equiparables y de los propietarios y poseedores de la tierra en los procesos de elaboración, observancia, revisión y modificación de los Ordenamientos Ecológicos Territoriales, Ordenamientos Ecológicos Regionales y Ordenamientos Ecológicos Locales.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 20 BIS 8.- La Secretaría promoverá el proceso de consulta previa, libre e informada y la participación de las comunidades indígenas y afromexicanas, las comunidades equiparables y de los propietarios y poseedores de la tierra en los procesos de elaboración, observancia, revisión y modificación de los Ordenamientos Ecológicos Territoriales, Ordenamientos Ecológicos Regionales y Ordenamientos Ecológicos Locales.
 Artículo adicionado DOF 11-04-2022
 
 ## SECCIÓN III
-Instrumentos Económicos Denominación de la Sección reformada DOF 13-12-1996
-
-### ARTÍCULO 21
-.- La Federación y las entidades federativas, en el ámbito de sus respectivas competencias, diseñarán, desarrollarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental, y mediante los cuales se buscará:
+Instrumentos Económicos Denominación de la Sección reformada DOF 13-12-1996 ARTÍCULO 21.- La Federación y las entidades federativas, en el ámbito de sus respectivas competencias, diseñarán, desarrollarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental, y mediante los cuales se buscará:
 Párrafo reformado DOF 19-01-2018 I.- Promover un cambio en la conducta de las personas que realicen actividades industriales, comerciales y de servicios, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y de desarrollo sustentable;
 II.- Fomentar la incorporación de información confiable y suficiente sobre las consecuencias, beneficios y costos ambientales al sistema de precios de la economía;
 III.- Otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, deberán procurar que quienes dañen el ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas, asuman los costos respectivos;
 IV.- Promover una mayor equidad social, con perspectiva intercultural y de género, en la distribución de costos y beneficios asociados a los objetivos de la política ambiental, y Fracción reformada DOF 21-10-2021 V.- Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar umbrales o límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio, la salud y el bienestar de la población.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 22
-.- Se consideran instrumentos económicos los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 22.- Se consideran instrumentos económicos los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente.
 Se consideran instrumentos económicos de carácter fiscal, los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política ambiental. En ningún caso, estos instrumentos se establecerán con fines exclusivamente recaudatorios.
 Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios, investigación científica, desarrollo tecnológico e innovación para la preservación del equilibrio ecológico y protección al ambiente.
 Párrafo reformado DOF 29-05-2012 Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas cuya preservación y protección se considere relevante desde el punto de vista ambiental.
 Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetos al interés público y al aprovechamiento sustentable de los recursos naturales.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 22
-Bis. Se consideran prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme a la Ley de Ingresos de la Federación, las actividades relacionadas con:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 22 Bis. Se consideran prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme a la Ley de Ingresos de la Federación, las actividades relacionadas con:
 I.- La investigación científica y tecnológica, incorporación, innovación o utilización de mecanismos, equipos y tecnologías que tengan por objetivo evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de recursos naturales y de energía;
 Fracción reformada DOF 29-05-2012 II.- La investigación e incorporación de sistemas de ahorro de energía y de utilización de fuentes de energía menos contaminantes;
 III.- El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
@@ -462,10 +354,7 @@ V.- El establecimiento, manejo y vigilancia de áreas naturales protegidas, y VI
 Fracción recorrida DOF 05-07-2007 Artículo adicionado DOF 13-12-1996
 
 ## SECCIÓN IV
-Regulación Ambiental de los Asentamientos Humanos Denominación de la Sección reformada DOF 13-12-1996
-
-### ARTÍCULO 23
-.- Para contribuir al logro de los objetivos de la política ambiental, la planeación del desarrollo urbano y la vivienda, además de cumplir con lo dispuesto en el artículo 27 constitucional en materia de asentamientos humanos, considerará los siguientes criterios:
+Regulación Ambiental de los Asentamientos Humanos Denominación de la Sección reformada DOF 13-12-1996 ARTÍCULO 23.- Para contribuir al logro de los objetivos de la política ambiental, la planeación del desarrollo urbano y la vivienda, además de cumplir con lo dispuesto en el artículo 27 constitucional en materia de asentamientos humanos, considerará los siguientes criterios:
 I.- Los planes o programas de desarrollo urbano deberán tomar en cuenta los lineamientos y estrategias contenidas en los programas de ordenamiento ecológico del territorio;
 II.- En la determinación de los usos del suelo, se buscará lograr una diversidad y eficiencia de los mismos y se evitará el desarrollo de esquemas segregados o unifuncionales, así como las tendencias a la suburbanización extensiva;
 III.- En la determinación de las áreas para el crecimiento de los centros de población, se fomentará la mezcla de los usos habitacionales con los productivos que no representen riesgos o daños a la salud de la población y se evitará que se afecten áreas con alto valor ambiental;
@@ -478,26 +367,11 @@ VIII. En la determinación de áreas para actividades altamente riesgosas, se es
 Fracción reformada DOF 29-05-2012
 
 IX. La política ecológica debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a la vez, prever las tendencias de crecimiento del asentamiento humano, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de la vida, y Fracción reformada DOF 29-05-2012 X.- Las autoridades de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en la esfera de su competencia, deberán de evitar los asentamientos humanos en zonas donde las poblaciones se expongan al riesgo de desastres por impactos adversos del cambio climático.
-Fracción adicionada DOF 29-05-2012. Reformada DOF 19-01-2018 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 24
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 25
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 26
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 27
-.- Se deroga.
-Artículo derogado DOF 13-12-1996 SECCION V Evaluación del Impacto Ambiental
-
-### ARTÍCULO 28
-.- La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece las condiciones a que se sujetará la realización de obras y actividades que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el medio ambiente. Para ello, en los casos en que determine el Reglamento que al efecto se expida, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización en materia de impacto ambiental de la Secretaría:
+Fracción adicionada DOF 29-05-2012. Reformada DOF 19-01-2018 Artículo reformado DOF 13-12-1996 ARTÍCULO 24.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 25.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 26.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 27.- Se deroga.
+Artículo derogado DOF 13-12-1996 SECCION V Evaluación del Impacto Ambiental ARTÍCULO 28.- La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece las condiciones a que se sujetará la realización de obras y actividades que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el medio ambiente. Para ello, en los casos en que determine el Reglamento que al efecto se expida, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización en materia de impacto ambiental de la Secretaría:
 Párrafo reformado DOF 23-02-2005 I.- Obras hidráulicas, vías generales de comunicación, oleoductos, gasoductos, carboductos y poliductos;
 II.- Industria del petróleo, petroquímica, química, siderúrgica, papelera, azucarera, del cemento y eléctrica;
 III.- Exploración, explotación y beneficio de minerales y sustancias reservadas a la Federación en los términos de las Leyes Minera y Reglamentaria del Artículo 27 Constitucional en Materia Nuclear;
@@ -515,51 +389,27 @@ XI. Obras y actividades en áreas naturales protegidas de competencia de la Fede
 Fracción reformada DOF 23-02-2005 XII.- Actividades pesqueras, acuícolas o agropecuarias que puedan poner en peligro la preservación de una o más especies o causar daños a los ecosistemas, y XIII.- Obras o actividades que correspondan a asuntos de competencia federal, que puedan causar desequilibrios ecológicos graves e irreparables, daños a la salud pública o a los ecosistemas, o rebasar los límites y condiciones establecidos en las disposiciones jurídicas relativas a la preservación del equilibrio ecológico y la protección del ambiente.
 El Reglamento de la presente Ley determinará las obras o actividades a que se refiere este artículo, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, y que por lo tanto no deban sujetarse al procedimiento de evaluación de impacto ambiental previsto en este ordenamiento.
 Para los efectos a que se refiere la fracción XIII del presente artículo, la Secretaría notificará a los interesados su determinación para que sometan al procedimiento de evaluación de impacto ambiental la obra o actividad que corresponda, explicando las razones que lo justifiquen, con el propósito de que aquéllos presenten los informes, dictámenes y consideraciones que juzguen convenientes, en un plazo no mayor a diez días. Una vez recibida la documentación de los interesados, la Secretaría, en un plazo no mayor a treinta días, les comunicará si procede o no la presentación de una manifestación de impacto ambiental, así como la modalidad y el plazo para hacerlo. Transcurrido el plazo señalado, sin que la Secretaría emita la comunicación correspondiente, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 29
-.- Los efectos negativos que sobre el ambiente, los recursos naturales, la flora y la fauna silvestre y demás recursos a que se refiere esta Ley, pudieran causar las obras o actividades de competencia federal que no requieran someterse al procedimiento de evaluación de impacto ambiental a que se refiere la presente sección, estarán sujetas en lo conducente a las disposiciones de la misma, sus reglamentos, las normas oficiales mexicanas en materia ambiental, la legislación sobre recursos naturales que resulte aplicable, así como a través de los permisos, licencias, autorizaciones y concesiones que conforme a dicha normatividad se requiera.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 30
-.- Para obtener la autorización a que se refiere el artículo 28 de esta Ley, los interesados deberán presentar a la Secretaría una manifestación de impacto ambiental, la cual deberá contener, por lo menos, una descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 29.- Los efectos negativos que sobre el ambiente, los recursos naturales, la flora y la fauna silvestre y demás recursos a que se refiere esta Ley, pudieran causar las obras o actividades de competencia federal que no requieran someterse al procedimiento de evaluación de impacto ambiental a que se refiere la presente sección, estarán sujetas en lo conducente a las disposiciones de la misma, sus reglamentos, las normas oficiales mexicanas en materia ambiental, la legislación sobre recursos naturales que resulte aplicable, así como a través de los permisos, licencias, autorizaciones y concesiones que conforme a dicha normatividad se requiera.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 30.- Para obtener la autorización a que se refiere el artículo 28 de esta Ley, los interesados deberán presentar a la Secretaría una manifestación de impacto ambiental, la cual deberá contener, por lo menos, una descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente.
 Cuando se trate de actividades consideradas altamente riesgosas en los términos de la presente Ley, la manifestación deberá incluir el estudio de riesgo correspondiente.
 Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de la obra o actividad respectiva, los interesados deberán hacerlas del conocimiento de la Secretaría, a fin de que ésta, en un plazo no mayor de 10 días les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente, que pudiesen ocasionar tales modificaciones, en términos de lo dispuesto en esta Ley.
 Los contenidos del informe preventivo, así como las características y las modalidades de las manifestaciones de impacto ambiental y los estudios de riesgo serán establecidos por el Reglamento de la presente Ley.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 31
-.- La realización de las obras y actividades a que se refieren las fracciones I a XII del
-
-### artículo 28
-, requerirán la presentación de un informe preventivo y no una manifestación de impacto ambiental, cuando:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 31.- La realización de las obras y actividades a que se refieren las fracciones I a XII del artículo 28, requerirán la presentación de un informe preventivo y no una manifestación de impacto ambiental, cuando:
 I.- Existan normas oficiales mexicanas u otras disposiciones que regulen las emisiones, las descargas, el aprovechamiento de recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
 II.- Las obras o actividades de que se trate estén expresamente previstas por un plan parcial de desarrollo urbano o de ordenamiento ecológico que haya sido evaluado por la Secretaría en los términos del artículo siguiente, o III.- Se trate de instalaciones ubicadas en parques industriales autorizados en los términos de la presente sección.
 En los casos anteriores, la Secretaría, una vez analizado el informe preventivo, determinará, en un plazo no mayor de veinte días, si se requiere la presentación de una manifestación de impacto ambiental en alguna de las modalidades previstas en el reglamento de la presente Ley, o si se está en alguno de los supuestos señalados.
 La Secretaría publicará en su Gaceta Ecológica, el listado de los informes preventivos que le sean presentados en los términos de este artículo, los cuales estarán a disposición del público.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 32
-.- En el caso de que un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio incluyan obras o actividades de las señaladas en el artículo 28 de esta Ley, las autoridades competentes de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán presentar dichos planes o programas a la Secretaría, con el propósito de que ésta emita la autorización que en materia de impacto ambiental corresponda, respecto del conjunto de obras o actividades que se prevean realizar en un área determinada, en los términos previstos en el artículo 31 de esta Ley.
-Artículo reformado DOF 13-12-1996, 20-05-2013, 19-01-2018
-
-### ARTÍCULO 33
-.- Tratándose de las obras y actividades a que se refieren las fracciones IV, VIII, IX y XI del artículo 28, la Secretaría notificará a los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, según corresponda, que ha recibido la manifestación de impacto ambiental respectiva, a fin de que éstos manifiesten lo que a su derecho convenga.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 32.- En el caso de que un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio incluyan obras o actividades de las señaladas en el artículo 28 de esta Ley, las autoridades competentes de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán presentar dichos planes o programas a la Secretaría, con el propósito de que ésta emita la autorización que en materia de impacto ambiental corresponda, respecto del conjunto de obras o actividades que se prevean realizar en un área determinada, en los términos previstos en el artículo 31 de esta Ley.
+Artículo reformado DOF 13-12-1996, 20-05-2013, 19-01-2018 ARTÍCULO 33.- Tratándose de las obras y actividades a que se refieren las fracciones IV, VIII, IX y XI del artículo 28, la Secretaría notificará a los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, según corresponda, que ha recibido la manifestación de impacto ambiental respectiva, a fin de que éstos manifiesten lo que a su derecho convenga.
 Párrafo reformado DOF 19-01-2018 La autorización que expida la Secretaría, no obligará en forma alguna a las autoridades locales para expedir las autorizaciones que les corresponda en el ámbito de sus respectivas competencias.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 34
-.- Una vez que la Secretaría reciba una manifestación de impacto ambiental e integre el expediente a que se refiere el artículo 35, pondrá ésta a disposición del público, con el fin de que pueda ser consultada por cualquier persona.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 34.- Una vez que la Secretaría reciba una manifestación de impacto ambiental e integre el expediente a que se refiere el artículo 35, pondrá ésta a disposición del público, con el fin de que pueda ser consultada por cualquier persona.
 Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial, y la confidencialidad de la información comercial que aporte el interesado.
 La Secretaría, a solicitud de cualquier persona de la comunidad de que se trate, podrá llevar a cabo una consulta pública, conforme a las siguientes bases:
 I.- La Secretaría publicará la solicitud de autorización en materia de impacto ambiental en su Gaceta Ecológica. Asimismo, el promovente deberá publicar a su costa, un extracto del proyecto de la obra o actividad en un periódico de amplia circulación en la entidad federativa de que se trate, dentro del plazo de cinco días contados a partir de la fecha en que se presente la manifestación de impacto ambiental a la Secretaría;
 II.- Cualquier ciudadano, dentro del plazo de diez días contados a partir de la publicación del extracto del proyecto en los términos antes referidos, podrá solicitar a la Secretaría ponga a disposición del público en la entidad federativa que corresponda, la manifestación de impacto ambiental;
 III.- Cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud pública o a los ecosistemas, de conformidad con lo que señale el reglamento de la presente Ley, la Secretaría, en coordinación con las autoridades locales, podrá organizar una reunión pública de información en la que el promovente explicará los aspectos técnicos ambientales de la obra o actividad de que se trate;
 IV.- Cualquier interesado, dentro del plazo de veinte días contados a partir de que la Secretaría ponga a disposición del público la manifestación de impacto ambiental en los términos de la fracción I, podrá proponer el establecimiento de medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes, y V.- La Secretaría agregará las observaciones realizadas por los interesados al expediente respectivo y consignará, en la resolución que emita, el proceso de consulta pública realizado y los resultados de las observaciones y propuestas que por escrito se hayan formulado.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 35
-.- Una vez presentada la manifestación de impacto ambiental, la Secretaría iniciará el procedimiento de evaluación, para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su Reglamento y las normas oficiales mexicanas aplicables, e integrará el expediente respectivo en un plazo no mayor de diez días.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 35.- Una vez presentada la manifestación de impacto ambiental, la Secretaría iniciará el procedimiento de evaluación, para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su Reglamento y las normas oficiales mexicanas aplicables, e integrará el expediente respectivo en un plazo no mayor de diez días.
 Para la autorización de las obras y actividades a que se refiere el artículo 28, la Secretaría se sujetará a lo que establezcan los ordenamientos antes señalados, así como los programas de desarrollo urbano y de ordenamiento ecológico del territorio, las declaratorias de áreas naturales protegidas y las demás disposiciones jurídicas que resulten aplicables.
 Asimismo, para la autorización a que se refiere este artículo, la Secretaría deberá evaluar los posibles efectos de dichas obras o actividades en el o los ecosistemas de que se trate, considerando el conjunto de elementos que los conforman y no únicamente los recursos que, en su caso, serían sujetos de aprovechamiento o afectación.
 Una vez evaluada la manifestación de impacto ambiental, la Secretaría emitirá, debidamente fundada y motivada, la resolución correspondiente en la que podrá:
@@ -573,69 +423,39 @@ b) La obra o actividad de que se trate pueda propiciar que una o más especies s
 c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
 La Secretaría podrá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condiciones establecidas en la autorización, en aquellos casos expresamente señalados en el reglamento de la presente Ley, cuando durante la realización de las obras puedan producirse daños graves a los ecosistemas.
 La resolución de la Secretaría sólo se referirá a los aspectos ambientales de las obras y actividades de que se trate.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 35
-BIS.- La Secretaría dentro del plazo de sesenta días contados a partir de la recepción de la manifestación de impacto ambiental deberá emitir la resolución correspondiente.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 35 BIS.- La Secretaría dentro del plazo de sesenta días contados a partir de la recepción de la manifestación de impacto ambiental deberá emitir la resolución correspondiente.
 La Secretaría podrá solicitar aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental que le sea presentada, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso la suspensión podrá exceder el plazo de sesenta días, contados a partir de que ésta sea declarada por la Secretaría, y siempre y cuando le sea entregada la información requerida.
 Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la Secretaría requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por sesenta días adicionales, siempre que se justifique conforme a lo dispuesto en el reglamento de la presente Ley.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 35
-BIS 1.- Las personas que presten servicios de impacto ambiental, serán responsables ante la Secretaría de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán bajo protesta de decir verdad que en ellos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 35 BIS 1.- Las personas que presten servicios de impacto ambiental, serán responsables ante la Secretaría de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán bajo protesta de decir verdad que en ellos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
 Asimismo, los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales, en este caso la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 35
-BIS 2.- El impacto ambiental que pudiesen ocasionar las obras o actividades no comprendidas en el artículo 28 será evaluado por las autoridades de las entidades federativas, con la participación de los Municipios y las demarcaciones territoriales de la Ciudad de México respectivas, cuando por su ubicación, dimensiones o características produzcan impactos ambientales significativos sobre el medio ambiente, y estén expresamente señalados en la legislación ambiental local. En estos casos, la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso del suelo, construcciones, fraccionamientos, u otros que establezcan las leyes locales y las disposiciones que de ella se deriven. Dichos ordenamientos proveerán lo necesario a fin de hacer compatibles la política ambiental con la de desarrollo urbano y de evitar la duplicidad innecesaria de procedimientos administrativos en la materia.
-Artículo adicionado DOF 13-12-1996. Reformado DOF 19-01-2018
-
-### ARTÍCULO 35
-BIS 3.- Cuando las obras o actividades señaladas en el artículo 28 de esta Ley requieran, además de la autorización en materia de impacto ambiental, contar con autorización de inicio de obra; se deberá verificar que el responsable cuente con la autorización de impacto ambiental expedida en términos de lo dispuesto en este ordenamiento.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 35 BIS 2.- El impacto ambiental que pudiesen ocasionar las obras o actividades no comprendidas en el artículo 28 será evaluado por las autoridades de las entidades federativas, con la participación de los Municipios y las demarcaciones territoriales de la Ciudad de México respectivas, cuando por su ubicación, dimensiones o características produzcan impactos ambientales significativos sobre el medio ambiente, y estén expresamente señalados en la legislación ambiental local. En estos casos, la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso del suelo, construcciones, fraccionamientos, u otros que establezcan las leyes locales y las disposiciones que de ella se deriven. Dichos ordenamientos proveerán lo necesario a fin de hacer compatibles la política ambiental con la de desarrollo urbano y de evitar la duplicidad innecesaria de procedimientos administrativos en la materia.
+Artículo adicionado DOF 13-12-1996. Reformado DOF 19-01-2018 ARTÍCULO 35 BIS 3.- Cuando las obras o actividades señaladas en el artículo 28 de esta Ley requieran, además de la autorización en materia de impacto ambiental, contar con autorización de inicio de obra; se deberá verificar que el responsable cuente con la autorización de impacto ambiental expedida en términos de lo dispuesto en este ordenamiento.
 Asimismo, la Secretaría, a solicitud del promovente, integrará a la autorización en materia de impacto ambiental, los demás permisos, licencias y autorizaciones de su competencia, que se requieran para la realización de las obras y actividades a que se refiere este artículo.
 Artículo adicionado DOF 13-12-1996
 
 ## SECCIÓN VI
-Normas Oficiales Mexicanas en Materia Ambiental Denominación de la Sección reformada DOF 13-12-1996
-
-### ARTÍCULO 36
-.- Para garantizar la sustentabilidad de las actividades económicas, la Secretaría emitirá normas oficiales mexicanas en materia ambiental y para el aprovechamiento sustentable de los recursos naturales, que tengan por objeto:
+Normas Oficiales Mexicanas en Materia Ambiental Denominación de la Sección reformada DOF 13-12-1996 ARTÍCULO 36.- Para garantizar la sustentabilidad de las actividades económicas, la Secretaría emitirá normas oficiales mexicanas en materia ambiental y para el aprovechamiento sustentable de los recursos naturales, que tengan por objeto:
 I.- Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en la producción, uso y destino de bienes, en insumos y en procesos;
 Fracción reformada DOF 24-05-2013 II.- Considerar las condiciones necesarias para el bienestar de la población y la preservación o restauración de los recursos naturales y la protección al ambiente;
 III.- Estimular o inducir a los agentes económicos para reorientar sus procesos y tecnologías a la protección del ambiente y al desarrollo sustentable;
 IV.- Otorgar certidumbre a largo plazo a la inversión e inducir a los agentes económicos a asumir los costos de la afectación ambiental que ocasionen, y V.- Fomentar actividades productivas en un marco de eficiencia y sustentabilidad.
 La expedición y modificación de las normas oficiales mexicanas en materia ambiental, se sujetará al procedimiento establecido en la Ley Federal sobre Metrología y Normalización.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 37
-.- En la formulación de normas oficiales mexicanas en materia ambiental deberá considerarse que el cumplimiento de sus previsiones deberá realizarse de conformidad con las características de cada proceso productivo o actividad sujeta a regulación, sin que ello implique el uso obligatorio de tecnologías específicas.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 37.- En la formulación de normas oficiales mexicanas en materia ambiental deberá considerarse que el cumplimiento de sus previsiones deberá realizarse de conformidad con las características de cada proceso productivo o actividad sujeta a regulación, sin que ello implique el uso obligatorio de tecnologías específicas.
 Cuando las normas oficiales mexicanas en materia ambiental establezcan el uso de equipos, procesos o tecnologías específicas, los destinatarios de las mismas podrán proponer a la Secretaría para su aprobación, los equipos, procesos o tecnologías alternativos mediante los cuales se ajustarán a las previsiones correspondientes.
 Para tal efecto, los interesados acompañarán a su propuesta la justificación en que ésta se sustente para cumplir con los objetivos y finalidades establecidos en la norma oficial mexicana de que se trate.
 Una vez recibida la propuesta, la Secretaría en un plazo que no excederá de treinta días emitirá la resolución respectiva. En caso de que no se emita dicha resolución en el plazo señalado, se considerará que ésta es negativa.
 Cuando la resolución sea favorable, deberá publicarse en un órgano de difusión oficial y surtirá efectos en beneficio de quien lo solicite, respetando, en su caso, los derechos adquiridos en materia de propiedad industrial.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 37
-BIS.- La Secretaría en coordinación con la Secretaría de Economía promoverá la identificación de los productos, bienes, insumos y servicios con menor impacto ambiental basándose en parámetros y criterios ambientales a lo largo de su ciclo de vida mediante un distintivo o certificado cuyo uso será voluntario. Dichos parámetros y criterios ambientales se determinarán mediante las normas oficiales mexicanas que correspondan.
-Artículo adicionado DOF 24-05-2013
-
-### ARTÍCULO 37
-TER.- Las normas oficiales mexicanas en materia ambiental son de cumplimiento obligatorio en el territorio nacional y señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 37 BIS.- La Secretaría en coordinación con la Secretaría de Economía promoverá la identificación de los productos, bienes, insumos y servicios con menor impacto ambiental basándose en parámetros y criterios ambientales a lo largo de su ciclo de vida mediante un distintivo o certificado cuyo uso será voluntario. Dichos parámetros y criterios ambientales se determinarán mediante las normas oficiales mexicanas que correspondan.
+Artículo adicionado DOF 24-05-2013 ARTÍCULO 37 TER.- Las normas oficiales mexicanas en materia ambiental son de cumplimiento obligatorio en el territorio nacional y señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
 Artículo adicionado DOF 13-12-1996. Recorrido (antes Artículo 37 BIS) DOF 24-05-2013
 
 ## SECCIÓN VII
-Autorregulación y Auditorías Ambientales Denominación de la Sección reformada DOF 13-12-1996
-
-### ARTÍCULO 38
-.- Los productores, empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
+Autorregulación y Auditorías Ambientales Denominación de la Sección reformada DOF 13-12-1996 ARTÍCULO 38.- Los productores, empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 La Secretaría en el ámbito federal, inducirá o concertará:
 I.- El desarrollo de procesos productivos y generación de servicios adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 II.- El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstas por éstas, las cuales serán establecidas de común acuerdo con particulares o con asociaciones u organizaciones que los representen. Para tal efecto, la Secretaría podrá promover el establecimiento de normas mexicanas conforme a lo previsto en la Ley Federal sobre Metrología y Normalización;
 III.- El establecimiento de sistemas de certificación de procesos, productos y servicios para inducir patrones de consumo que sean compatibles o que preserven, mejoren, conserven o restauren el medio ambiente, debiendo observar, en su caso, las disposiciones aplicables de la Ley Federal sobre Metrología y Normalización, y IV.- Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
-Artículo reformado DOF 13-12-1996, 05-07-2007
-
-### ARTÍCULO 38
-BIS.- Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el medio ambiente.
+Artículo reformado DOF 13-12-1996, 05-07-2007 ARTÍCULO 38 BIS.- Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el medio ambiente.
 La Secretaría desarrollará un programa dirigido a fomentar la realización de auditorías ambientales, y podrá supervisar su ejecución. Para tal efecto:
 I.- Elaborará los términos de referencia que establezcan la metodología para la realización de las auditorías ambientales;
 II.- Establecerá un sistema de aprobación y acreditamiento de peritos y auditores ambientales, determinando los procedimientos y requisitos que deberán cumplir los interesados para incorporarse a dicho sistema, debiendo, en su caso, observar lo dispuesto por la Ley Federal sobre Metrología y Normalización.
@@ -643,37 +463,17 @@ Para tal efecto, integrará un comité técnico constituido por representantes d
 III.- Desarrollará programas de capacitación en materia de peritajes y auditorías ambientales;
 IV.- Instrumentará un sistema de reconocimientos y estímulos que permita identificar a las industrias que cumplan oportunamente los compromisos adquiridos en las auditorías ambientales;
 V.- Promoverá la creación de centros regionales de apoyo a la mediana y pequeña industria, con el fin de facilitar la realización de auditorías en dichos sectores, y VI.- Convendrá o concertará con personas físicas o morales, públicas o privadas, la realización de auditorías ambientales.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 38
-BIS 1.- La Secretaría pondrá los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan, a disposición de quienes resulten o puedan resultar directamente afectados.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 38 BIS 1.- La Secretaría pondrá los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan, a disposición de quienes resulten o puedan resultar directamente afectados.
 En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 38
-BIS 2.- Las entidades federativas podrán establecer sistemas de autorregulación y auditorías ambientales en los ámbitos de sus respectivas competencias.
-Artículo adicionado DOF 13-12-1996. Reformado DOF 19-01-2018 SECCION VIII Investigación y Educación Ecológicas
-
-### ARTÍCULO 39
-.- Las autoridades competentes promoverán la incorporación de contenidos relacionados con la protección del ambiente, el desarrollo sustentable, la economía circular, la mitigación y adaptación al cambio climático, así como la reducción de la vulnerabilidad ante sus efectos, además de conocimientos, valores y competencias ambientales, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 38 BIS 2.- Las entidades federativas podrán establecer sistemas de autorregulación y auditorías ambientales en los ámbitos de sus respectivas competencias.
+Artículo adicionado DOF 13-12-1996. Reformado DOF 19-01-2018 SECCION VIII Investigación y Educación Ecológicas ARTÍCULO 39.- Las autoridades competentes promoverán la incorporación de contenidos relacionados con la protección del ambiente, el desarrollo sustentable, la economía circular, la mitigación y adaptación al cambio climático, así como la reducción de la vulnerabilidad ante sus efectos, además de conocimientos, valores y competencias ambientales, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
 Párrafo reformado DOF 07-01-2000, 13-05-2016, 19-01-2026 Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica, y la socialización de proyectos de desarrollo sustentable.
 Párrafo reformado DOF 07-01-2000 La Secretaría, con la participación de la Secretaría de Educación Pública, promoverá que las instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes y programas para la formación de especialistas en la materia en todo el territorio nacional y para la investigación de las causas y efectos de los fenómenos ambientales.
 La Secretaría mediante diversas acciones promoverá la generación de conocimientos estratégicos acerca de la naturaleza, la interacción entre los elementos de los ecosistemas, incluido el ser humano, la evolución y transformación de los mismos, a fin de contar con información para la elaboración de programas que fomenten la prevención, restauración, conservación y protección del ambiente.
-Párrafo adicionado DOF 07-01-2000
-
-### ARTÍCULO 40
-.- La Secretaría del Trabajo y Previsión Social, promoverá el desarrollo de la capacitación y adiestramiento en y para el trabajo en materia de protección al ambiente, y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece esta Ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
-
-### ARTÍCULO 41
-.- El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo que dispongan las legislaturas locales, fomentarán la investigación científica, desarrollo tecnológico e innovación, asimismo promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento sustentable de los recursos naturales, preservar, proteger y restaurar los ecosistemas para prevenir desequilibrios ecológicos y daños ambientales, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
-Artículo reformado DOF 28-01-2011, 29-05-2012 SECCION IX Información y Vigilancia
-
-### ARTÍCULO 42
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 43
-.- Se deroga.
+Párrafo adicionado DOF 07-01-2000 ARTÍCULO 40.- La Secretaría del Trabajo y Previsión Social, promoverá el desarrollo de la capacitación y adiestramiento en y para el trabajo en materia de protección al ambiente, y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece esta Ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
+ARTÍCULO 41.- El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo que dispongan las legislaturas locales, fomentarán la investigación científica, desarrollo tecnológico e innovación, asimismo promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento sustentable de los recursos naturales, preservar, proteger y restaurar los ecosistemas para prevenir desequilibrios ecológicos y daños ambientales, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+Artículo reformado DOF 28-01-2011, 29-05-2012 SECCION IX Información y Vigilancia ARTÍCULO 42.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 43.- Se deroga.
 Artículo derogado DOF 13-12-1996 CAPITULO V Instrumentos de la Política Ecológica Se deroga.
 Capítulo reubicado y derogado DOF 13-12-1996
 
@@ -684,15 +484,9 @@ Biodiversidad Denominación del Título reformada DOF 13-12-1996
 Áreas Naturales Protegidas Denominación del Capítulo reformada DOF 13-12-1996
 
 ## SECCIÓN I — Disposiciones Generales
-Denominación de la Sección reformada DOF 13-12-1996
-
-### ARTÍCULO 44
-.- Las zonas del territorio nacional y aquellas sobre las que la Nación ejerce soberanía y jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que sus ecosistemas y funciones integrales requieren ser preservadas y restauradas, quedarán sujetas al régimen previsto en esta Ley y los demás ordenamientos aplicables.
+Denominación de la Sección reformada DOF 13-12-1996 ARTÍCULO 44.- Las zonas del territorio nacional y aquellas sobre las que la Nación ejerce soberanía y jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que sus ecosistemas y funciones integrales requieren ser preservadas y restauradas, quedarán sujetas al régimen previsto en esta Ley y los demás ordenamientos aplicables.
 Párrafo reformado DOF 24-05-2013 Los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas deberán sujetarse a las modalidades que de conformidad con la presente Ley, establezcan los decretos por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico que correspondan.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 45
-.- El establecimiento de áreas naturales protegidas, tiene por objeto:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 45.- El establecimiento de áreas naturales protegidas, tiene por objeto:
 Párrafo reformado DOF 13-12-1996 I.- Preservar los ambientes naturales representativos de las diferentes regiones biogeográficas y ecológicas y de los ecosistemas más frágiles, así como sus funciones, para asegurar el equilibrio y la continuidad de los procesos evolutivos y ecológicos;
 Fracción reformada DOF 24-05-2013 II.- Salvaguardar la diversidad genética de las especies silvestres de las que depende la continuidad evolutiva; así como asegurar la preservación y el aprovechamiento sustentable de la biodiversidad del territorio nacional, en particular preservar las especies que están en peligro de extinción, las amenazadas, las endémicas, las raras y las que se encuentran sujetas a protección especial;
 Fracción reformada DOF 13-12-1996 III.- Asegurar la preservación y el aprovechamiento sustentable de los ecosistemas, sus elementos, y sus funciones;
@@ -703,17 +497,11 @@ V.- Generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradi
 Fracción reformada DOF 13-12-1996
 
 VI. Proteger poblados, vías de comunicación, instalaciones industriales y aprovechamientos agrícolas, mediante zonas forestales en montañas donde se originen torrentes; el ciclo hidrológico en cuencas, así como las demás que tiendan a la protección de elementos circundantes con los que se relacione ecológicamente el área; y VII.- Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad nacionales y de los pueblos y comunidades indígenas y afromexicanas.
-Fracción reformada DOF 13-12-1996, 01-04-2024
-
-### ARTÍCULO 45
-BIS. Las autoridades competentes garantizarán el otorgamiento de estímulos fiscales y retribuciones económicas, con la aplicación de los instrumentos económicos referidos en el presente ordenamiento, a los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas.
+Fracción reformada DOF 13-12-1996, 01-04-2024 ARTÍCULO 45 BIS. Las autoridades competentes garantizarán el otorgamiento de estímulos fiscales y retribuciones económicas, con la aplicación de los instrumentos económicos referidos en el presente ordenamiento, a los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas.
 Artículo adicionado DOF 31-12-2001
 
 ## SECCIÓN II
-Tipos y Características de las Áreas Naturales Protegidas Denominación de la Sección reformada DOF 13-12-1996 (reubicada)
-
-### ARTÍCULO 46
-.- Se consideran áreas naturales protegidas:
+Tipos y Características de las Áreas Naturales Protegidas Denominación de la Sección reformada DOF 13-12-1996 (reubicada) ARTÍCULO 46.- Se consideran áreas naturales protegidas:
 I.- Reservas de la biosfera;
 II.- Se deroga.
 Fracción derogada DOF 13-12-1996 III.- Parques nacionales;
@@ -730,16 +518,10 @@ Párrafo reformado DOF 05-07-2007, 16-05-2008, 19-01-2018 Asimismo, corresponde 
 Párrafo reformado DOF 16-05-2008 En las áreas naturales protegidas no podrá autorizarse la fundación de nuevos centros de población.
 En las áreas naturales protegidas queda prohibida la introducción de especies exóticas invasoras.
 Párrafo adicionado DOF 24-05-2013 En las áreas naturales protegidas no se pueden realizar obras y trabajos de exploración, explotación y beneficio de los minerales o sustancias, a que se refiere la Ley de Minería.
-Párrafo adicionado DOF 08-05-2023 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 47
-.- En el establecimiento, administración y manejo de las áreas naturales protegidas a que se refiere el artículo anterior, la Secretaría promoverá la participación de sus habitantes, propietarios o poseedores, gobiernos locales, pueblos y comunidades indígenas y afromexicanas, y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad.
+Párrafo adicionado DOF 08-05-2023 Artículo reformado DOF 13-12-1996 ARTÍCULO 47.- En el establecimiento, administración y manejo de las áreas naturales protegidas a que se refiere el artículo anterior, la Secretaría promoverá la participación de sus habitantes, propietarios o poseedores, gobiernos locales, pueblos y comunidades indígenas y afromexicanas, y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad.
 Párrafo reformado DOF 01-04-2024 Para tal efecto, la Secretaría podrá suscribir con los interesados los convenios de concertación o acuerdos de coordinación que correspondan.
 En las actividades de inspección y vigilancia en las áreas naturales protegidas terrestres de competencia de la Federación, la Secretaría podrá solicitar la intervención de la Guardia Nacional.
-Párrafo adicionado DOF 17-12-2025 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 47
-BIS. Para el cumplimiento de las disposiciones de la presente Ley, en relación al establecimiento de las áreas naturales protegidas, se realizará una división y subdivisión que permita identificar y delimitar las porciones del territorio que la conforman, acorde con sus elementos biológicos, físicos y socioeconómicos, los cuales constituyen un esquema integral y dinámico, por lo que cuando se realice la delimitación territorial de las actividades en las áreas naturales protegidas, ésta se llevará a cabo a través de las siguientes zonas y sus respectivas subzonas, de acuerdo a su categoría de manejo:
+Párrafo adicionado DOF 17-12-2025 Artículo reformado DOF 13-12-1996 ARTÍCULO 47 BIS. Para el cumplimiento de las disposiciones de la presente Ley, en relación al establecimiento de las áreas naturales protegidas, se realizará una división y subdivisión que permita identificar y delimitar las porciones del territorio que la conforman, acorde con sus elementos biológicos, físicos y socioeconómicos, los cuales constituyen un esquema integral y dinámico, por lo que cuando se realice la delimitación territorial de las actividades en las áreas naturales protegidas, ésta se llevará a cabo a través de las siguientes zonas y sus respectivas subzonas, de acuerdo a su categoría de manejo:
 
 I. Las zonas núcleo, tendrán como principal objetivo la preservación de los ecosistemas y su funcionalidad a mediano y largo plazo, en donde se podrán autorizar las actividades de preservación de los ecosistemas y sus elementos, de investigación y de colecta científica, educación ambiental, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas.
 Estas zonas podrán estar conformadas por las siguientes subzonas:
@@ -784,27 +566,18 @@ h) De recuperación: Aquellas superficies en las que los recursos naturales han 
 Párrafo reformado DOF 24-05-2013 En estas subzonas sólo podrán utilizarse para su rehabilitación, especies nativas de la región o en su caso, especies compatibles con el funcionamiento y la estructura de los ecosistemas originales cuando científicamente se compruebe que no se afecta la evolución y continuidad de los procesos naturales.
 Inciso reformado DOF 21-05-2013 En las zonas de amortiguamiento deberá tomarse en consideración las actividades productivas que lleven a cabo las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva, basándose en lo previsto tanto en el Programa de Manejo respectivo como en los Programas de Ordenamiento Ecológico que resulten aplicables.
 El aprovechamiento de materiales pétreos que se obtengan de forma artesanal por habitantes de las comunidades locales puede llevarse a cabo únicamente en zonas de amortiguamiento mediante actividades de bajo impacto ambiental, que no generen impactos negativos a los ecosistemas, siempre que se cumpla lo dispuesto en el Decreto y Programa de Manejo del área natural protegida y demás disposiciones jurídicas aplicables.
-Párrafo adicionado DOF 08-05-2023 Artículo adicionado DOF 23-02-2005
-
-### ARTÍCULO 47
-BIS 1.- Mediante las declaratorias de las áreas naturales protegidas, podrán establecerse una o más zonas núcleo y de amortiguamiento, según sea el caso, las cuales a su vez, podrán estar conformadas por una o más subzonas, que se determinarán mediante el programa de manejo correspondiente, de acuerdo a la categoría de manejo que se les asigne.
+Párrafo adicionado DOF 08-05-2023 Artículo adicionado DOF 23-02-2005 ARTÍCULO 47 BIS 1.- Mediante las declaratorias de las áreas naturales protegidas, podrán establecerse una o más zonas núcleo y de amortiguamiento, según sea el caso, las cuales a su vez, podrán estar conformadas por una o más subzonas, que se determinarán mediante el programa de manejo correspondiente, de acuerdo a la categoría de manejo que se les asigne.
 En el caso en que la declaratoria correspondiente sólo prevea un polígono general, éste podrá subdividirse por una o más subzonas previstas para las zonas de amortiguamiento, atendiendo a la categoría de manejo que corresponda.
 En las reservas de la biosfera, en las áreas de protección de recursos naturales y en las áreas de protección de flora y fauna se podrán establecer todas las subzonas previstas en el artículo 47 Bis.
 En los parques nacionales podrán establecerse subzonas de protección y de uso restringido en sus zonas núcleo; y subzonas de uso tradicional, uso público y de recuperación en las zonas de amortiguamiento.
 En el caso de los parques nacionales que se ubiquen en las zonas marinas mexicanas se establecerán, además de las subzonas previstas en el párrafo anterior, subzonas de aprovechamiento sustentable de los recursos naturales.
 En los monumentos naturales y en los santuarios, se podrán establecer subzonas de protección y uso restringido, dentro de sus zonas núcleo; y subzonas de uso público y de recuperación en las zonas de amortiguamiento.
-Artículo adicionado DOF 23-02-2005
-
-### ARTÍCULO 48
-.- Las reservas de la biosfera se constituirán en áreas biogeográficas relevantes a nivel nacional, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados y restaurados, en los cuales habiten especies representativas de la biodiversidad nacional, incluyendo a las consideradas endémicas, amenazadas o en peligro de extinción.
+Artículo adicionado DOF 23-02-2005 ARTÍCULO 48.- Las reservas de la biosfera se constituirán en áreas biogeográficas relevantes a nivel nacional, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados y restaurados, en los cuales habiten especies representativas de la biodiversidad nacional, incluyendo a las consideradas endémicas, amenazadas o en peligro de extinción.
 Párrafo reformado DOF 13-12-1996 En las zonas núcleo de las reservas de la biosfera sólo podrá autorizarse la ejecución de actividades de preservación de los ecosistemas y sus elementos, y educación ambiental, mientras que se prohibirá la realización de aprovechamientos que alteren los ecosistemas.
 Párrafo reformado DOF 23-02-2005, 24-05-2013 Para el caso de zonas núcleo que se ubiquen en zonas marinas deberá limitarse el tráfico de embarcaciones de conformidad con el programa de manejo respectivo.
 Párrafo adicionado DOF 24-05-2013 Asimismo, se deberán regular los aprovechamientos no extractivos de vida silvestre que deberán de ser de bajo impacto, y de acuerdo con las normas oficiales mexicanas que para tal efecto emita la Secretaría.
 Párrafo adicionado DOF 24-05-2013 Por su parte, en las zonas de amortiguamiento de las reservas de la biosfera sólo podrán realizarse actividades productivas emprendidas por las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva o con su participación, que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos del decreto respectivo y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
-Párrafo reformado DOF 13-12-1996, 23-02-2005 Reforma DOF 13-12-1996: Derogó del artículo el entonces último párrafo
-
-### ARTÍCULO 49
-.- En las zonas núcleo de las áreas naturales protegidas quedará expresamente prohibido:
+Párrafo reformado DOF 13-12-1996, 23-02-2005 Reforma DOF 13-12-1996: Derogó del artículo el entonces último párrafo ARTÍCULO 49.- En las zonas núcleo de las áreas naturales protegidas quedará expresamente prohibido:
 
 I. Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de cauce, vaso o acuífero, así como desarrollar cualquier actividad contaminante;
 
@@ -815,83 +588,41 @@ III. Realizar actividades cinegéticas o de explotación y aprovechamiento de es
 IV. Introducir ejemplares o poblaciones exóticos de la vida silvestre, así como organismos genéticamente modificados, y
 
 V. Ejecutar acciones que contravengan lo dispuesto por esta Ley, la declaratoria respectiva y las demás disposiciones que de ellas se deriven.
-Artículo reformado DOF 13-12-1996, 05-07-2007
-
-### ARTÍCULO 50
-.- Los parques nacionales se constituirán, tratándose de representaciones biogeográficas, a nivel nacional, de uno o más ecosistemas que se signifiquen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo, o bien por otras razones análogas de interés general.
+Artículo reformado DOF 13-12-1996, 05-07-2007 ARTÍCULO 50.- Los parques nacionales se constituirán, tratándose de representaciones biogeográficas, a nivel nacional, de uno o más ecosistemas que se signifiquen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo, o bien por otras razones análogas de interés general.
 En los parques nacionales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, el incremento de su flora y fauna y en general, con la preservación de los ecosistemas y de sus elementos, así como con la investigación, recreación, turismo y educación ecológicos.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 51
-.- Para los fines señalados en el presente Capítulo, así como para proteger y preservar los ecosistemas marinos y regular el aprovechamiento sustentable de la flora y fauna acuática, en las zonas marinas mexicanas, que podrán incluir la zona federal marítimo terrestre contigua, se podrán establecer áreas naturales protegidas de los tipos a que se refieren las fracciones I, III, IV, VII y VIII del
-
-### artículo 46
-, atendiendo a las características particulares de cada caso.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 51.- Para los fines señalados en el presente Capítulo, así como para proteger y preservar los ecosistemas marinos y regular el aprovechamiento sustentable de la flora y fauna acuática, en las zonas marinas mexicanas, que podrán incluir la zona federal marítimo terrestre contigua, se podrán establecer áreas naturales protegidas de los tipos a que se refieren las fracciones I, III, IV, VII y VIII del artículo 46, atendiendo a las características particulares de cada caso.
 En estas áreas se permitirán y, en su caso, se restringirán o prohibirán las actividades o aprovechamientos que procedan, de conformidad con lo que disponen esta Ley, la Ley General de Pesca internacionales de las que México sea parte y las demás disposiciones jurídicas aplicables.
 Párrafo reformado DOF 24-05-2013 Las autorizaciones, concesiones o permisos para el aprovechamiento de los recursos naturales en estas áreas, así como el tránsito de embarcaciones en la zona o la construcción o utilización de infraestructura dentro de la misma, quedarán sujetas a lo que dispongan los Programas de Manejo y las declaratorias correspondientes.
 Para el establecimiento, administración y vigilancia de las áreas naturales protegidas establecidas en las zonas marinas mexicanas, así como para la elaboración de su programa de manejo, se deberán coordinar, atendiendo a sus respectivas competencias, la Secretaría y la Secretaría de Marina. En todos los casos queda prohibida la introducción de especies exóticas invasoras.
-Párrafo reformado DOF 24-05-2013 Artículo reformado DOF 13-12-1996, 12-02-2007
-
-### ARTÍCULO 52
-.- Los monumentos naturales se establecerán en áreas que contengan uno o varios elementos naturales, consistentes en lugares u objetos naturales, que por su carácter único o excepcional, interés estético, valor histórico o científico, se resuelva incorporar a un régimen de protección absoluta. Tales monumentos no tienen la variedad de ecosistemas ni la superficie necesaria para ser incluidos en otras categorías de manejo.
+Párrafo reformado DOF 24-05-2013 Artículo reformado DOF 13-12-1996, 12-02-2007 ARTÍCULO 52.- Los monumentos naturales se establecerán en áreas que contengan uno o varios elementos naturales, consistentes en lugares u objetos naturales, que por su carácter único o excepcional, interés estético, valor histórico o científico, se resuelva incorporar a un régimen de protección absoluta. Tales monumentos no tienen la variedad de ecosistemas ni la superficie necesaria para ser incluidos en otras categorías de manejo.
 En los monumentos naturales únicamente podrá permitirse la realización de actividades relacionadas con su preservación, investigación científica, recreación y educación.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 53
-.- Las áreas de protección de recursos naturales, son aquellas destinadas a la preservación y protección del suelo, las cuencas hidrográficas, las aguas y en general los recursos naturales localizados en terrenos forestales de aptitud preferentemente forestal, siempre que dichas áreas no queden comprendidas en otra de las categorías previstas en el artículo 46 de esta Ley.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 53.- Las áreas de protección de recursos naturales, son aquellas destinadas a la preservación y protección del suelo, las cuencas hidrográficas, las aguas y en general los recursos naturales localizados en terrenos forestales de aptitud preferentemente forestal, siempre que dichas áreas no queden comprendidas en otra de las categorías previstas en el artículo 46 de esta Ley.
 Se consideran dentro de esta categoría las reservas y zonas forestales, las zonas de protección de ríos, lagos, lagunas, manantiales y demás cuerpos considerados aguas nacionales, particularmente cuando éstos se destinen al abastecimiento de agua para el servicio de las poblaciones.
 En las áreas de protección de recursos naturales sólo podrán realizarse actividades relacionadas con la preservación, protección y aprovechamiento sustentable de los recursos naturales en ellas comprendidos, así como con la investigación, recreación, turismo y educación ecológica, de conformidad con lo que disponga el decreto que las establezca, el programa de manejo respectivo y las demás disposiciones jurídicas aplicables.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 54
-.- Las áreas de protección de la flora y la fauna se constituirán de conformidad con las disposiciones de esta Ley, de la Ley General de Vida Silvestre, la Ley de Pesca y demás aplicables, en los lugares que contienen los hábitat de cuyo equilibrio y preservación dependen la existencia, transformación y desarrollo de las especies de flora y fauna silvestres.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 54.- Las áreas de protección de la flora y la fauna se constituirán de conformidad con las disposiciones de esta Ley, de la Ley General de Vida Silvestre, la Ley de Pesca y demás aplicables, en los lugares que contienen los hábitat de cuyo equilibrio y preservación dependen la existencia, transformación y desarrollo de las especies de flora y fauna silvestres.
 En dichas áreas podrá permitirse la realización de actividades relacionadas con la preservación, repoblación, propagación, aclimatación, refugio, investigación y aprovechamiento sustentable de las especies mencionadas, así como las relativas a educación y difusión en la materia.
 Asimismo, podrá autorizarse el aprovechamiento de los recursos naturales a las comunidades que ahí habiten en el momento de la expedición de la declaratoria respectiva, o que resulte posible según los estudios que se realicen, el que deberá sujetarse a las normas oficiales mexicanas y usos del suelo que al efecto se establezcan en la propia declaratoria.
-Artículo reformado DOF 13-12-1996, 05-07-2007
-
-### ARTÍCULO 55
-.- Los santuarios son aquellas áreas que se establecen en zonas caracterizadas por una considerable riqueza de flora o fauna, o por la presencia de especies, subespecies o hábitat de distribución restringida. Dichas áreas abarcarán cañadas, vegas, relictos, grutas, cavernas, cenotes, caletas, u otras unidades topográficas o geográficas que requieran ser preservadas o protegidas.
+Artículo reformado DOF 13-12-1996, 05-07-2007 ARTÍCULO 55.- Los santuarios son aquellas áreas que se establecen en zonas caracterizadas por una considerable riqueza de flora o fauna, o por la presencia de especies, subespecies o hábitat de distribución restringida. Dichas áreas abarcarán cañadas, vegas, relictos, grutas, cavernas, cenotes, caletas, u otras unidades topográficas o geográficas que requieran ser preservadas o protegidas.
 En los santuarios sólo se permitirán actividades de investigación, recreación y educación ambiental, compatibles con la naturaleza y características del área.
 Las actividades de aprovechamiento no extractivo quedan restringidas a los programas de manejo, y normas oficiales mexicanas emitidas por la Secretaría.
-Párrafo adicionado DOF 24-05-2013 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 55
-BIS.- Las áreas destinadas voluntariamente a la conservación son aquellas que pueden presentar cualquiera de las características y elementos biológicos señalados en los artículos 48 al 55 de la presente Ley; proveer servicios ambientales o que por su ubicación favorezcan el cumplimiento de los objetivos previstos en el artículo 45 de esta Ley. Para tal efecto, la Secretaría emitirá un certificado, en los términos de lo previsto por la Sección V del presente Capítulo.
+Párrafo adicionado DOF 24-05-2013 Artículo reformado DOF 13-12-1996 ARTÍCULO 55 BIS.- Las áreas destinadas voluntariamente a la conservación son aquellas que pueden presentar cualquiera de las características y elementos biológicos señalados en los artículos 48 al 55 de la presente Ley; proveer servicios ambientales o que por su ubicación favorezcan el cumplimiento de los objetivos previstos en el artículo 45 de esta Ley. Para tal efecto, la Secretaría emitirá un certificado, en los términos de lo previsto por la Sección V del presente Capítulo.
 Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público.
 El establecimiento, administración y manejo de las áreas destinadas voluntariamente a la conservación se sujetará a lo previsto en la Sección V del presente Capítulo.
-Artículo adicionado DOF 16-05-2008
-
-### ARTÍCULO 56
-.- Las autoridades de las entidades federativas podrán promover, ante el Gobierno Federal, el reconocimiento de las áreas naturales protegidas que conforme a su legislación establezcan, con el propósito de compatibilizar los regímenes de protección correspondientes.
-Artículo reformado DOF 13-12-1996, 19-01-2018
-
-### ARTÍCULO 56
-BIS.- La Secretaría constituirá un Consejo Nacional de Áreas Naturales Protegidas, que estará integrado por representantes de la misma, de otras dependencias y entidades de la Administración Pública Federal, así como de instituciones académicas y centros de investigación, agrupaciones de productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social o privado, así como personas físicas, con reconocido prestigio en la materia.
+Artículo adicionado DOF 16-05-2008 ARTÍCULO 56.- Las autoridades de las entidades federativas podrán promover, ante el Gobierno Federal, el reconocimiento de las áreas naturales protegidas que conforme a su legislación establezcan, con el propósito de compatibilizar los regímenes de protección correspondientes.
+Artículo reformado DOF 13-12-1996, 19-01-2018 ARTÍCULO 56 BIS.- La Secretaría constituirá un Consejo Nacional de Áreas Naturales Protegidas, que estará integrado por representantes de la misma, de otras dependencias y entidades de la Administración Pública Federal, así como de instituciones académicas y centros de investigación, agrupaciones de productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social o privado, así como personas físicas, con reconocido prestigio en la materia.
 El Consejo fungirá como órgano de consulta y apoyo de la Secretaría en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, manejo y vigilancia de las áreas naturales protegidas de su competencia.
 Las opiniones y recomendaciones que formule el Consejo, deberán ser considerados por la Secretaría en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a éste y otros ordenamientos jurídicos aplicables.
 El Consejo podrá invitar a sus sesiones a representantes de los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, cuando se traten asuntos relacionados con áreas naturales protegidas de competencia federal que se encuentren dentro de su territorio. Asimismo, podrá invitar a representantes de ejidos, comunidades, propietarios, poseedores y en general a cualquier persona cuya participación sea necesaria conforme al asunto que en cada caso se trate.
 Párrafo reformado DOF 19-01-2018 Artículo adicionado DOF 13-12-1996
 
 ## SECCIÓN III
-Declaratorias para el Establecimiento, Administración y Vigilancia de Áreas Naturales Protegidas Sección adicionada DOF 13-12-1996
-
-### ARTÍCULO 57
-.- Las áreas naturales protegidas señaladas en las fracciones I a VIII del artículo 46 de esta Ley, se establecerán mediante declaratoria que expida el Titular del Ejecutivo Federal conforme a ésta y las demás leyes aplicables.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 58
-.- Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas a que se refiere el artículo anterior, se deberán realizar los estudios que lo justifiquen, en los términos del presente capítulo, los cuales deberán ser puestos a disposición del público. Asimismo, la Secretaría deberá solicitar la opinión de:
+Declaratorias para el Establecimiento, Administración y Vigilancia de Áreas Naturales Protegidas Sección adicionada DOF 13-12-1996 ARTÍCULO 57.- Las áreas naturales protegidas señaladas en las fracciones I a VIII del artículo 46 de esta Ley, se establecerán mediante declaratoria que expida el Titular del Ejecutivo Federal conforme a ésta y las demás leyes aplicables.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 58.- Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas a que se refiere el artículo anterior, se deberán realizar los estudios que lo justifiquen, en los términos del presente capítulo, los cuales deberán ser puestos a disposición del público. Asimismo, la Secretaría deberá solicitar la opinión de:
 I.- Los gobiernos locales en cuyas circunscripciones territoriales se localice el área natural de que se trate;
 II.- Las dependencias de la Administración Pública Federal que deban intervenir, de conformidad con sus atribuciones;
 III.- Las organizaciones sociales públicas o privadas, pueblos y comunidades indígenas y afromexicanas, y demás personas físicas o morales interesadas, y Fracción reformada DOF 01-04-2024 IV.- Las universidades, centros de investigación, instituciones y organismos de los sectores público, social y privado interesados en el establecimiento, administración y vigilancia de áreas naturales protegidas.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 59
-.- Los pueblos y comunidades indígenas y afromexicanas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante la Secretaría el establecimiento, en terrenos de su propiedad o mediante contrato con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. La Secretaría, en su caso, promoverá ante el Ejecutivo Federal la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en esta Ley.
-Artículo reformado DOF 13-12-1996, 16-05-2008, 01-04-2024
-
-### ARTÍCULO 60
-.- Las declaratorias para el establecimiento de las áreas naturales protegidas señaladas en las fracciones I a VIII del artículo 46 de esta Ley deberán contener, por lo menos, los siguientes aspectos:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 59.- Los pueblos y comunidades indígenas y afromexicanas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante la Secretaría el establecimiento, en terrenos de su propiedad o mediante contrato con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. La Secretaría, en su caso, promoverá ante el Ejecutivo Federal la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en esta Ley.
+Artículo reformado DOF 13-12-1996, 16-05-2008, 01-04-2024 ARTÍCULO 60.- Las declaratorias para el establecimiento de las áreas naturales protegidas señaladas en las fracciones I a VIII del artículo 46 de esta Ley deberán contener, por lo menos, los siguientes aspectos:
 I.- La delimitación precisa del área, señalando la superficie, ubicación, deslinde y en su caso, la zonificación correspondiente;
 II.- Las modalidades a que se sujetará dentro del área, el uso o aprovechamiento de los recursos naturales en general o específicamente de aquellos sujetos a protección;
 III.- La descripción de actividades que podrán llevarse a cabo en el área correspondiente, y las modalidades y limitaciones a que se sujetarán;
@@ -899,47 +630,25 @@ IV.- La causa de utilidad pública que en su caso fundamente la expropiación de
 V.- Los lineamientos generales para la administración, el establecimiento de órganos colegiados representativos, la creación de fondos o fideicomisos y la elaboración del programa de manejo del área, y VI.- Los lineamientos para la realización de las acciones de preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de las áreas naturales protegidas, para su administración y vigilancia, así como para la elaboración de las reglas administrativas a que se sujetarán las actividades dentro del área respectiva, conforme a lo dispuesto en ésta y otras leyes aplicables;
 Las medidas que el Ejecutivo Federal podrá imponer para la preservación y protección de las áreas naturales protegidas, serán únicamente las que se establecen, según las materias respectivas, en la presente Ley, las Leyes Forestal, de Aguas Nacionales, de Pesca, Federal de Caza, y las demás que resulten aplicables.
 La Secretaría promoverá el ordenamiento ecológico del territorio dentro y en las zonas de influencia de las áreas naturales protegidas, con el propósito de generar nuevos patrones de desarrollo regional acordes con objetivos de sustentabilidad.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 61
-.- Las declaratorias deberán publicarse en el Diario Oficial de la Federación y se notificarán previamente a los propietarios o poseedores de los predios afectados, en forma personal cuando se conocieren sus domicilios; en caso contrario se hará una segunda publicación, la que surtirá efectos de notificación. Las declaratorias se inscribirán en él o los registros públicos de la propiedad que correspondan.
-
-### ARTÍCULO 62
-.- Una vez establecida un área natural protegida, sólo podrá ser modificada su extensión, y en su caso, los usos del suelo permitidos o cualquiera de sus disposiciones, por la autoridad que la haya establecido, siguiendo las mismas formalidades previstas en esta Ley para la expedición de la declaratoria respectiva.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 63
-.- Las áreas naturales protegidas establecidas por el Ejecutivo Federal podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 61.- Las declaratorias deberán publicarse en el Diario Oficial de la Federación y se notificarán previamente a los propietarios o poseedores de los predios afectados, en forma personal cuando se conocieren sus domicilios; en caso contrario se hará una segunda publicación, la que surtirá efectos de notificación. Las declaratorias se inscribirán en él o los registros públicos de la propiedad que correspondan.
+ARTÍCULO 62.- Una vez establecida un área natural protegida, sólo podrá ser modificada su extensión, y en su caso, los usos del suelo permitidos o cualquiera de sus disposiciones, por la autoridad que la haya establecido, siguiendo las mismas formalidades previstas en esta Ley para la expedición de la declaratoria respectiva.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 63.- Las áreas naturales protegidas establecidas por el Ejecutivo Federal podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad.
 El Ejecutivo Federal, a través de las dependencias competentes, realizará los programas de regularización de la tenencia de la tierra en las áreas naturales protegidas, con el objeto de dar seguridad jurídica a los propietarios y poseedores de los predios en ellas comprendidos.
 La Secretaría promoverá que las autoridades Federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, dentro del ámbito de su competencia, en los términos que establezcan las disposiciones jurídicas aplicables y, en su caso, los programas de manejo, den prioridad a los programas de regularización de la tenencia de la tierra en las áreas naturales protegidas de competencia federal.
 Párrafo reformado DOF 19-01-2018 Los terrenos nacionales ubicados dentro de áreas naturales protegidas de competencia federal, quedarán a disposición de la Secretaría, quien los destinará a los fines establecidos en el decreto correspondiente, conforme a las disposiciones jurídicas que resulten aplicables.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 64
-.- En el otorgamiento o expedición de permisos, licencias, concesiones, o en general de autorizaciones a que se sujetaren la exploración, explotación o aprovechamiento de recursos en áreas naturales protegidas, se observarán las disposiciones de la presente Ley, de las leyes en que se fundamenten las declaratorias de creación correspondiente, así como las prevenciones de las propias declaratorias y los programas de manejo.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 64.- En el otorgamiento o expedición de permisos, licencias, concesiones, o en general de autorizaciones a que se sujetaren la exploración, explotación o aprovechamiento de recursos en áreas naturales protegidas, se observarán las disposiciones de la presente Ley, de las leyes en que se fundamenten las declaratorias de creación correspondiente, así como las prevenciones de las propias declaratorias y los programas de manejo.
 Párrafo reformado DOF 13-12-1996 El solicitante deberá en tales casos demostrar ante la autoridad competente, su capacidad técnica y económica para llevar a cabo la exploración, explotación o aprovechamiento de que se trate, sin causar deterioro al equilibrio ecológico.
 La Secretaría, así como las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de la Reforma Agraria, prestará oportunamente a ejidatarios, comuneros y pequeños propietarios la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior, cuando éstos no cuenten con suficientes recursos económicos para procurársela.
 Párrafo reformado DOF 13-12-1996, 09-04-2012 La Secretaría, tomando como base los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración, explotación o aprovechamiento de recursos ocasione o pueda ocasionar deterioro al equilibrio ecológico.
-
-### ARTÍCULO 64
-BIS.- El Ejecutivo Federal, a través de la Secretaría en coordinación con la Secretaría de Hacienda y Crédito Público, así como los gobiernos de las entidades federativas y de los Municipios, en el ámbito de sus respectivas competencias:
+ARTÍCULO 64 BIS.- El Ejecutivo Federal, a través de la Secretaría en coordinación con la Secretaría de Hacienda y Crédito Público, así como los gobiernos de las entidades federativas y de los Municipios, en el ámbito de sus respectivas competencias:
 I.- Promoverán las inversiones públicas y privadas para el establecimiento y manejo de las áreas naturales protegidas;
 II.- Establecerán o en su caso promoverán la utilización de mecanismos para captar recursos y financiar o apoyar el manejo de las áreas naturales protegidas;
 III.- Establecerán los incentivos económicos y los estímulos fiscales para las personas, y las organizaciones sociales, públicas o privadas, que participen en la administración y vigilancia de las áreas naturales protegidas, así como para quienes aporten recursos para tales fines o destinen sus predios a acciones de preservación en términos del artículo 59 de esta Ley, y IV.- Promoverán ante la Secretaría de Hacienda y Crédito Público, que en las participaciones Federales a Estados o Municipios se considere como criterio, la superficie total que cada uno de éstos destine a la preservación de los ecosistemas y su biodiversidad, en términos de lo dispuesto en el artículo 46 de esta Ley.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 64
-BIS 1.- La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas y demás personas interesadas, concesiones, permisos o autorizaciones para realización de obras o actividades en las áreas naturales protegidas; de conformidad con lo que establece esta Ley, la declaratoria y el programa de manejo correspondientes.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 64 BIS 1.- La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas y demás personas interesadas, concesiones, permisos o autorizaciones para realización de obras o actividades en las áreas naturales protegidas; de conformidad con lo que establece esta Ley, la declaratoria y el programa de manejo correspondientes.
 Los núcleos agrarios, pueblos y comunidades indígenas y afromexicanas y demás propietarios o poseedores de los predios en los que se pretendan desarrollar las obras o actividades anteriormente señaladas, tendrán preferencia para obtener los permisos, concesiones y autorizaciones respectivos.
-Artículo adicionado DOF 13-12-1996. Reformado DOF 19-01-2018, 01-04-2024
-
-### ARTÍCULO 65
-.- La Secretaría formulará, dentro del plazo de un año contado a partir de la publicación de la declaratoria respectiva en el Diario Oficial de la Federación, el programa de manejo del área natural protegida de que se trate, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las demás dependencias competentes, los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en su caso, así como a organizaciones sociales, públicas o privadas, y demás personas interesadas.
+Artículo adicionado DOF 13-12-1996. Reformado DOF 19-01-2018, 01-04-2024 ARTÍCULO 65.- La Secretaría formulará, dentro del plazo de un año contado a partir de la publicación de la declaratoria respectiva en el Diario Oficial de la Federación, el programa de manejo del área natural protegida de que se trate, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las demás dependencias competentes, los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en su caso, así como a organizaciones sociales, públicas o privadas, y demás personas interesadas.
 Párrafo reformado DOF 19-01-2018 Una vez establecida un área natural protegida de competencia federal, la Secretaría deberá designar al Director del área de que se trate, quien será responsable de coordinar la formulación, ejecución y evaluación del programa de manejo correspondiente, de conformidad con lo dispuesto en esta Ley y las disposiciones que de ella se deriven.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 66
-.- El programa de manejo de las áreas naturales protegidas deberá contener, por lo menos, lo siguiente:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 66.- El programa de manejo de las áreas naturales protegidas deberá contener, por lo menos, lo siguiente:
 I.- La descripción de las características físicas, biológicas, sociales y culturales del área natural protegida, en el contexto nacional, regional y local, así como el análisis de la situación que guarda la tenencia de la tierra en la superficie respectiva;
 II.- Las acciones a realizar a corto, mediano y largo plazo, estableciendo su vinculación con el Plan Nacional de Desarrollo, así como con los programas sectoriales correspondientes. Dichas acciones comprenderán, entre otras las siguientes: de investigación y educación ambientales, de protección y aprovechamiento sustentable de los recursos naturales, la flora y la fauna, para el desarrollo de actividades recreativas, turísticas, obras de infraestructura y demás actividades productivas, de financiamiento para la administración del área, de prevención y control de contingencias, de vigilancia y las demás que por las características propias del área natural protegida se requieran;
 III.- La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma, así como de todas aquellas personas, instituciones, grupos y organizaciones sociales interesadas en su protección y aprovechamiento sustentable;
@@ -947,69 +656,31 @@ IV.- Los objetivos específicos del área natural protegida;
 V.- La referencia a las normas oficiales mexicanas aplicables a todas y cada una de las actividades a que esté sujeta el área;
 VI.- Los inventarios biológicos existentes y los que se prevea realizar, y VII.- Las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollen en el área natural protegida de que se trate.
 La Secretaría deberá publicar en el Diario Oficial de la Federación, un resumen del programa de manejo respectivo y el plano de localización del área.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 67
-.- La Secretaría podrá, una vez que se cuente con el programa de manejo respectivo, otorgar a los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como a ejidos, comunidades agrarias, pueblos y comunidades indígenas y afromexicanas, grupos y organizaciones sociales, y empresariales y demás personas físicas o morales interesadas, la administración de las áreas naturales protegidas a que se refieren las fracciones I a VIII del Artículo 46 de esta Ley. Para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 67.- La Secretaría podrá, una vez que se cuente con el programa de manejo respectivo, otorgar a los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como a ejidos, comunidades agrarias, pueblos y comunidades indígenas y afromexicanas, grupos y organizaciones sociales, y empresariales y demás personas físicas o morales interesadas, la administración de las áreas naturales protegidas a que se refieren las fracciones I a VIII del Artículo 46 de esta Ley. Para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
 Párrafo reformado DOF 19-01-2018, 01-04-2024 Quienes en virtud de lo dispuesto en este artículo adquieran la responsabilidad de administrar las áreas naturales protegidas, estarán obligados a sujetarse a las previsiones contenidas en la presente Ley, los reglamentos, normas oficiales mexicanas que se expidan en la materia, así como a cumplir los decretos por los que se establezcan dichas áreas y los programas de manejo respectivos.
 La Secretaría deberá supervisar y evaluar el cumplimiento de los acuerdos y convenios a que se refiere este precepto. Asimismo, deberá asegurarse que en las autorizaciones para la realización de actividades en áreas naturales protegidas de su competencia, se observen las previsiones anteriormente señaladas.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 68
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 69
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 70
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 71
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 72
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 73
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 74
-.- La Secretaría integrará el Registro Nacional de Áreas Naturales Protegidas, en donde deberán inscribirse los decretos mediante los cuales se declaren las áreas naturales protegidas de interés federal, y los instrumentos que los modifiquen. Deberán consignarse en dicho Registro los datos de la inscripción de los decretos respectivos en los registros públicos de la propiedad que correspondan.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 68.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 69.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 70.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 71.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 72.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 73.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 74.- La Secretaría integrará el Registro Nacional de Áreas Naturales Protegidas, en donde deberán inscribirse los decretos mediante los cuales se declaren las áreas naturales protegidas de interés federal, y los instrumentos que los modifiquen. Deberán consignarse en dicho Registro los datos de la inscripción de los decretos respectivos en los registros públicos de la propiedad que correspondan.
 Asimismo, se deberá integrar el registro de los certificados a que se refiere el artículo 77 BIS de esta Ley.
 Párrafo reformado DOF 16-05-2008 Cualquier persona podrá consultar el Registro Nacional de Áreas Naturales Protegidas, el cual deberá ser integrado al Sistema Nacional de Información Ambiental y de Recursos Naturales.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 75
-.- Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas deberán contener referencia de la declaratoria correspondiente y de sus datos de inscripción en el Registro Público de la Propiedad.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 75.- Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas deberán contener referencia de la declaratoria correspondiente y de sus datos de inscripción en el Registro Público de la Propiedad.
 Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan, cuando se cumpla con lo dispuesto en el presente artículo.
-
-### ARTÍCULO 75
-BIS.- Los ingresos que la Federación perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de áreas naturales protegidas, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad dentro de las áreas en las que se generen dichos ingresos.
+ARTÍCULO 75 BIS.- Los ingresos que la Federación perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de áreas naturales protegidas, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad dentro de las áreas en las que se generen dichos ingresos.
 Artículo adicionado DOF 13-12-1996
 
 ## SECCIÓN IV
-Sistema Nacional de Áreas Naturales Protegidas Sección adicionada DOF 13-12-1996
-
-### ARTÍCULO 76
-.- La Secretaría integrará el Sistema Nacional de Áreas Naturales Protegidas, con el propósito de incluir en el mismo las áreas que por su biodiversidad y características ecológicas sean consideradas de especial relevancia en el país.
+Sistema Nacional de Áreas Naturales Protegidas Sección adicionada DOF 13-12-1996 ARTÍCULO 76.- La Secretaría integrará el Sistema Nacional de Áreas Naturales Protegidas, con el propósito de incluir en el mismo las áreas que por su biodiversidad y características ecológicas sean consideradas de especial relevancia en el país.
 La integración de áreas naturales protegidas de competencia federal al Sistema Nacional de Áreas Naturales Protegidas, por parte de la Secretaría, requerirá la previa opinión favorable del Consejo Nacional de Áreas Naturales Protegidas.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 77
-.- Las Dependencias de la Administración Pública Federal, los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán considerar en sus programas y acciones que afecten el territorio de un área natural protegida de competencia federal, así como en el otorgamiento de permisos, concesiones y autorizaciones para obras o actividades que se desarrollen en dichas áreas, las previsiones contenidas en la presente Ley, los reglamentos, normas oficiales mexicanas que se expidan en la materia, en los decretos por los que se establezcan las áreas naturales protegidas y en los programas de manejo respectivos.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 77.- Las Dependencias de la Administración Pública Federal, los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán considerar en sus programas y acciones que afecten el territorio de un área natural protegida de competencia federal, así como en el otorgamiento de permisos, concesiones y autorizaciones para obras o actividades que se desarrollen en dichas áreas, las previsiones contenidas en la presente Ley, los reglamentos, normas oficiales mexicanas que se expidan en la materia, en los decretos por los que se establezcan las áreas naturales protegidas y en los programas de manejo respectivos.
 Artículo reformado DOF 13-12-1996, 19-01-2018
 
 ## SECCIÓN V
-Establecimiento, Administración y Manejo de Áreas Destinadas Voluntariamente a la Conservación Sección adicionada DOF 16-05-2008
-
-### ARTÍCULO 77
-BIS.- Los pueblos y comunidades indígenas y afromexicanas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad, establecerán, administrarán y manejarán dichas áreas conforme a lo siguiente:
+Establecimiento, Administración y Manejo de Áreas Destinadas Voluntariamente a la Conservación Sección adicionada DOF 16-05-2008 ARTÍCULO 77 BIS.- Los pueblos y comunidades indígenas y afromexicanas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad, establecerán, administrarán y manejarán dichas áreas conforme a lo siguiente:
 Párrafo reformado DOF 01-04-2024 I.- Las áreas destinadas voluntariamente a la conservación se establecerán mediante certificado que expida la Secretaría, en el cual las reconozca como áreas naturales protegidas. Los interesados en obtener dicho certificado presentarán una solicitud que contenga:
 
 a) Nombre del propietario;
@@ -1049,34 +720,22 @@ Fracción reformada DOF 19-01-2018 V.- Cuando en las áreas destinadas voluntari
 Artículo adicionado DOF 16-05-2008
 
 ## CAPÍTULO II
-Zonas de Restauración Denominación del Capítulo reformada DOF 13-12-1996 (reubicado)
-
-### ARTÍCULO 78
-.- En aquellas áreas que presenten procesos de degradación o desertificación, o graves desequilibrios ecológicos, la Secretaría deberá formular y ejecutar programas de restauración ecológica, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ella se desarrollaban.
+Zonas de Restauración Denominación del Capítulo reformada DOF 13-12-1996 (reubicado) ARTÍCULO 78.- En aquellas áreas que presenten procesos de degradación o desertificación, o graves desequilibrios ecológicos, la Secretaría deberá formular y ejecutar programas de restauración ecológica, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ella se desarrollaban.
 En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas, gobiernos locales, y demás personas interesadas.
-Párrafo reformado DOF 01-04-2024 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 78
-BIS.- En aquéllos casos en que se estén produciendo procesos acelerados de desertificación o degradación que impliquen la pérdida de recursos de muy difícil regeneración, recuperación o restablecimiento, o afectaciones irreversibles a los ecosistemas o sus elementos, la Secretaría, promoverá ante el Ejecutivo Federal la expedición de declaratorias para el establecimiento de zonas de restauración ecológica. Para tal efecto, elaborará previamente, los estudios que las justifiquen.
+Párrafo reformado DOF 01-04-2024 Artículo reformado DOF 13-12-1996 ARTÍCULO 78 BIS.- En aquéllos casos en que se estén produciendo procesos acelerados de desertificación o degradación que impliquen la pérdida de recursos de muy difícil regeneración, recuperación o restablecimiento, o afectaciones irreversibles a los ecosistemas o sus elementos, la Secretaría, promoverá ante el Ejecutivo Federal la expedición de declaratorias para el establecimiento de zonas de restauración ecológica. Para tal efecto, elaborará previamente, los estudios que las justifiquen.
 Las declaratorias deberán publicarse en el Diario Oficial de la Federación, y serán inscritas en el Registro Público de la Propiedad correspondiente.
 Las declaratorias podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad, y expresarán:
 I.- La delimitación de la zona sujeta a restauración ecológica, precisando superficie, ubicación y deslinde;
 II.- Las acciones necesarias para regenerar, recuperar o restablecer las condiciones naturales de la zona;
 III.- Las condiciones a que se sujetarán, dentro de la zona, los usos del suelo, el aprovechamiento de los recursos naturales, la flora y la fauna, así como la realización de cualquier tipo de obra o actividad;
 IV.- Los lineamientos para la elaboración y ejecución del programa de restauración ecológica correspondiente, así como para la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas, gobiernos locales y demás personas interesadas, y Fracción reformada DOF 01-04-2024 V.- Los plazos para la ejecución del programa de restauración ecológica respectivo.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 78
-BIS 1.- Todos los actos y convenios relativos a la propiedad, posesión o cualquier otro derecho relacionado con bienes inmuebles ubicados en las zonas que fueren materia de las declaratorias a que se refiere el artículo 78 BIS quedarán sujetas a la aplicación de las modalidades previstas en las propias declaratorias.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 78 BIS 1.- Todos los actos y convenios relativos a la propiedad, posesión o cualquier otro derecho relacionado con bienes inmuebles ubicados en las zonas que fueren materia de las declaratorias a que se refiere el artículo 78 BIS quedarán sujetas a la aplicación de las modalidades previstas en las propias declaratorias.
 Los notarios y cualesquiera otros fedatarios públicos, harán constar tal circunstancia al autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan.
 Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
 Artículo adicionado DOF 13-12-1996
 
 ## CAPÍTULO III
-Flora y Fauna Silvestre Denominación del Capítulo reformada DOF 13-12-1996
-
-### ARTÍCULO 79
-.- Para la preservación y aprovechamiento sustentable de la flora y fauna silvestre, se considerarán los siguientes criterios:
+Flora y Fauna Silvestre Denominación del Capítulo reformada DOF 13-12-1996 ARTÍCULO 79.- Para la preservación y aprovechamiento sustentable de la flora y fauna silvestre, se considerarán los siguientes criterios:
 I.- La preservación y conservación de la biodiversidad y del hábitat natural de las especies de flora y fauna que se encuentran en el territorio nacional y en las zonas donde la nación ejerce su soberanía y jurisdicción;
 Fracción reformada DOF 06-04-2010 II.- La continuidad de los procesos evolutivos de las especies de flora y fauna y demás recursos biológicos, destinando áreas representativas de los sistemas ecológicos del país a acciones de preservación e investigación;
 III.- La preservación de las especies endémicas, amenazadas, en peligro de extinción o sujetas a protección especial;
@@ -1086,10 +745,7 @@ VI.- La participación de las organizaciones sociales, públicas o privadas, y l
 VII.- El fomento y desarrollo de la investigación de la fauna y flora silvestre, y de los materiales genéticos, con el objeto de conocer su valor científico, ambiental, económico y estratégico para la Nación;
 VIII.- El fomento del trato digno y respetuoso a las especies animales, con el propósito de evitar la crueldad en contra de éstas;
 IX.- El desarrollo de actividades productivas alternativas para las comunidades rurales, y X.- El conocimiento biológico tradicional y la participación de las comunidades, así como los pueblos y comunidades indígenas y afromexicanas en la elaboración de programas de biodiversidad de las áreas en que habiten.
-Fracción reformada DOF 01-04-2024 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 80
-.- Los criterios para la preservación y aprovechamiento sustentable de la flora y fauna silvestre, a que se refiere el artículo 79 de esta Ley, serán considerados en:
+Fracción reformada DOF 01-04-2024 Artículo reformado DOF 13-12-1996 ARTÍCULO 80.- Los criterios para la preservación y aprovechamiento sustentable de la flora y fauna silvestre, a que se refiere el artículo 79 de esta Ley, serán considerados en:
 Párrafo reformado DOF 13-12-1996 I.- El otorgamiento de concesiones, permisos y, en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propagación y desarrollo de la flora y fauna silvestres;
 Fracción reformada DOF 13-12-1996 II.- El establecimiento o modificación de vedas de la flora y fauna silvestres;
 Fracción reformada DOF 13-12-1996
@@ -1104,60 +760,28 @@ VI. La formulación del programa anual de producción, repoblación, cultivo, si
 VII. La creación de áreas de refugio para proteger las especies acuáticas que así lo requieran; y
 
 VIII. La determinación de los métodos y medidas aplicables o indispensables para la conservación, cultivo y repoblación de los recursos pesqueros.
-
-### ARTÍCULO 81
-.- La Secretaría establecerá las vedas de la flora y fauna silvestre, y su modificación o levantamiento, con base en los estudios que para tal efecto previamente lleve a cabo.
+ARTÍCULO 81.- La Secretaría establecerá las vedas de la flora y fauna silvestre, y su modificación o levantamiento, con base en los estudios que para tal efecto previamente lleve a cabo.
 Las vedas tendrán como finalidad la preservación, repoblación, propagación, distribución, aclimatación o refugio de los especímenes, principalmente de aquellas especies endémicas, amenazadas, en peligro de extinción o sujetas a protección especial.
 Los instrumentos jurídicos mediante los cuales se establezcan vedas, deberán precisar su naturaleza y temporalidad, los límites de las áreas o zonas vedadas y las especies de la flora o la fauna comprendidas en ellas, de conformidad con las disposiciones legales que resulten aplicables.
 Dichos instrumentos deberán publicarse en el órgano oficial de difusión de la entidad federativa o entidades federativas donde se ubique el área vedada, sin perjuicio de lo dispuesto en la Ley Federal sobre Metrología y Normalización y demás ordenamientos aplicables.
-Párrafo reformado DOF 19-01-2018 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 82
-.- Las disposiciones de esta Ley son aplicables a la posesión, administración, preservación, repoblación, propagación, importación, exportación y desarrollo de la flora y fauna silvestre y material genético, sin perjuicio de lo establecido en otros ordenamientos jurídicos.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 83
-.- El aprovechamiento de los recursos naturales en áreas que sean el habitat de especies de flora o fauna silvestres, especialmente de las endémicas, amenazadas o en peligro de extinción, deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies.
+Párrafo reformado DOF 19-01-2018 Artículo reformado DOF 13-12-1996 ARTÍCULO 82.- Las disposiciones de esta Ley son aplicables a la posesión, administración, preservación, repoblación, propagación, importación, exportación y desarrollo de la flora y fauna silvestre y material genético, sin perjuicio de lo establecido en otros ordenamientos jurídicos.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 83.- El aprovechamiento de los recursos naturales en áreas que sean el habitat de especies de flora o fauna silvestres, especialmente de las endémicas, amenazadas o en peligro de extinción, deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies.
 La Secretaría deberá promover y apoyar el manejo de la flora y fauna silvestre, con base en el conocimiento biológico tradicional, información técnica, científica y económica, con el propósito de hacer un aprovechamiento sustentable de las especies.
-Párrafo adicionado DOF 13-12-1996
-
-### ARTÍCULO 84
-.- La Secretaría expedirá las normas oficiales mexicanas para la preservación y aprovechamiento sustentable de la flora y fauna silvestre y otros recursos biológicos.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 85
-. Cuando así se requiera para la protección de especies, habitats, ecosistemas, la economía o la salud pública, la Secretaría promoverá ante la Secretaría de Economía el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres nativos o exóticos e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
-Artículo reformado DOF 06-04-2010, 09-04-2012
-
-### ARTÍCULO 86
-.- A la Secretaría le corresponde aplicar las disposiciones que sobre preservación y aprovechamiento sustentable de especies de fauna silvestre establezcan ésta y otras leyes, y autorizar su aprovechamiento en actividades económicas, sin perjuicio de las facultades que correspondan a otras dependencias, conforme a otras leyes.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 87
-.- El aprovechamiento de especies de flora y fauna silvestre en actividades económicas podrá autorizarse cuando los particulares garanticen su reproducción controlada o desarrollo en cautiverio o semicautiverio o cuando la tasa de explotación sea menor a la de renovación natural de las poblaciones, de acuerdo con las normas oficiales mexicanas que al efecto expida la Secretaría.
+Párrafo adicionado DOF 13-12-1996 ARTÍCULO 84.- La Secretaría expedirá las normas oficiales mexicanas para la preservación y aprovechamiento sustentable de la flora y fauna silvestre y otros recursos biológicos.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 85. Cuando así se requiera para la protección de especies, habitats, ecosistemas, la economía o la salud pública, la Secretaría promoverá ante la Secretaría de Economía el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres nativos o exóticos e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
+Artículo reformado DOF 06-04-2010, 09-04-2012 ARTÍCULO 86.- A la Secretaría le corresponde aplicar las disposiciones que sobre preservación y aprovechamiento sustentable de especies de fauna silvestre establezcan ésta y otras leyes, y autorizar su aprovechamiento en actividades económicas, sin perjuicio de las facultades que correspondan a otras dependencias, conforme a otras leyes.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 87.- El aprovechamiento de especies de flora y fauna silvestre en actividades económicas podrá autorizarse cuando los particulares garanticen su reproducción controlada o desarrollo en cautiverio o semicautiverio o cuando la tasa de explotación sea menor a la de renovación natural de las poblaciones, de acuerdo con las normas oficiales mexicanas que al efecto expida la Secretaría.
 No podrá autorizarse el aprovechamiento sobre poblaciones naturales de especies amenazadas o en peligro de extinción, excepto en los casos en que se garantice su reproducción controlada y el desarrollo de poblaciones de las especies que correspondan.
 La autorización para el aprovechamiento sustentable de especies endémicas se otorgará conforme a las normas oficiales mexicanas que al efecto expida la Secretaría, siempre que dicho aprovechamiento no amenace o ponga en peligro de extinción a la especie.
 El aprovechamiento de especies de flora y fauna silvestre requiere el consentimiento expreso del propietario o legítimo poseedor del predio en que éstas se encuentren. Asimismo, la Secretaría podrá otorgar a dichos propietarios o poseedores, cuando garanticen la reproducción controlada y el desarrollo de poblaciones de fauna silvestre, los permisos cinegéticos que correspondan.
-La colecta de especies de flora y fauna silvestre, así como de otros recursos biológicos con fines de investigación científica, requiere de autorización de la Secretaría y deberá sujetarse a los términos y formalidades que se establezcan en las normas oficiales mexicanas que se expidan, así como en los demás ordenamientos que resulten aplicables. En todo caso, se deberá garantizar que los resultados de la investigación estén a disposición del público. Dichas autorizaciones no podrán amparar el aprovechamiento para fines de utilización en biotecnología, la cual se sujetará a lo dispuesto en el
-
-### artículo 87
-BIS.
+La colecta de especies de flora y fauna silvestre, así como de otros recursos biológicos con fines de investigación científica, requiere de autorización de la Secretaría y deberá sujetarse a los términos y formalidades que se establezcan en las normas oficiales mexicanas que se expidan, así como en los demás ordenamientos que resulten aplicables. En todo caso, se deberá garantizar que los resultados de la investigación estén a disposición del público. Dichas autorizaciones no podrán amparar el aprovechamiento para fines de utilización en biotecnología, la cual se sujetará a lo dispuesto en el artículo 87 BIS.
 El aprovechamiento de recursos forestales no maderables y de leña para usos domésticos se sujetará a las normas oficiales mexicanas que expida la Secretaría y demás disposiciones aplicables.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 87
-BIS.- El aprovechamiento de especies de flora y fauna silvestre, así como de otros recurso biológicos con fines de utilización en la biotecnología requiere de autorización de la Secretaría.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 87 BIS.- El aprovechamiento de especies de flora y fauna silvestre, así como de otros recurso biológicos con fines de utilización en la biotecnología requiere de autorización de la Secretaría.
 La autorización a que se refiere este artículo sólo podrá otorgarse si se cuenta con el consentimiento previo, expreso e informado, del propietario o legítimo poseedor del predio en el que el recurso biológico se encuentre.
 Asimismo, dichos propietarios o legítimos poseedores tendrán derecho a una repartición equitativa de los beneficios que se deriven o puedan derivarse de los aprovechamientos a que se refiere este artículo, con arreglo a las disposiciones jurídicas aplicables.
 La Secretaría y las demás dependencias competentes, establecerán los mecanismos necesarios para intercambiar información respecto de autorizaciones o resoluciones relativas al aprovechamiento de recursos biológicos para los fines a que se refiere este precepto.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 87
-BIS 1.- Los ingresos que la Federación perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de flora y fauna silvestre, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad en las áreas que constituyan el hábitat de las especies de flora y fauna silvestre respecto de las cuales se otorgaron los permisos, licencias o autorizaciones correspondientes.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 87
-BIS 2.- El Gobierno Federal, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 87 BIS 1.- Los ingresos que la Federación perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de flora y fauna silvestre, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad en las áreas que constituyan el hábitat de las especies de flora y fauna silvestre respecto de las cuales se otorgaron los permisos, licencias o autorizaciones correspondientes.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 87 BIS 2.- El Gobierno Federal, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
 Párrafo reformado DOF 19-01-2018 La regulación sobre trato digno y respetuoso se formulará con base a los siguientes principios básicos:
 
 I. Suministrar a los animales agua y alimento suficientes, a efecto de mantenerlos sanos y con una nutrición adecuada;
@@ -1180,19 +804,13 @@ Párrafo adicionado DOF 07-01-2021 Artículo adicionado DOF 13-12-1996. Reformad
 Aprovechamiento Sustentable de los Elementos Naturales Denominación del Título reformada DOF 13-12-1996
 
 ## CAPÍTULO I
-Aprovechamiento Sustentable del Agua y los Ecosistemas Acuáticos Denominación del Capítulo reformada DOF 13-12-1996
-
-### ARTÍCULO 88
-.- Para el aprovechamiento sustentable del agua y los ecosistemas acuáticos se considerarán los siguientes criterios:
+Aprovechamiento Sustentable del Agua y los Ecosistemas Acuáticos Denominación del Capítulo reformada DOF 13-12-1996 ARTÍCULO 88.- Para el aprovechamiento sustentable del agua y los ecosistemas acuáticos se considerarán los siguientes criterios:
 Párrafo reformado DOF 13-12-1996
 
 I. Corresponde al Estado y a la sociedad la protección de los ecosistemas acuáticos y del equilibrio de los elementos naturales que intervienen en el ciclo hidrológico;
 II.- El aprovechamiento sustentable de los recursos naturales que comprenden los ecosistemas acuáticos deben realizarse de manera que no se afecte su equilibrio ecológico;
 Fracción reformada DOF 13-12-1996 III.- Para mantener la integridad y el equilibrio de los elementos naturales que intervienen en el ciclo hidrológico, se deberá considerar la protección de suelos y áreas boscosas y selváticas y el mantenimiento de caudales básicos de las corrientes de agua, y la capacidad de recarga de los acuíferos, y Fracción reformada DOF 13-12-1996 IV.- La preservación y el aprovechamiento sustentable del agua, así como de los ecosistemas acuáticos es responsabilidad de sus usuarios, así como de quienes realicen obras o actividades que afecten dichos recursos.
-Fracción adicionada DOF 13-12-1996
-
-### ARTÍCULO 89
-.- Los criterios para el aprovechamiento sustentable del agua y de los ecosistemas acuáticos, serán considerados en:
+Fracción adicionada DOF 13-12-1996 ARTÍCULO 89.- Los criterios para el aprovechamiento sustentable del agua y de los ecosistemas acuáticos, serán considerados en:
 Párrafo reformado DOF 13-12-1996
 
 I. La formulación e integración del Programa Nacional Hidráulico;
@@ -1208,44 +826,18 @@ Fracción reformada DOF 13-12-1996, 19-01-2018 VIII.- Las políticas y programas
 Fracción reformada DOF 13-12-1996 IX.- Las concesiones para la realización de actividades de acuacultura, en términos de lo previsto en la Ley de Pesca, y Fracción reformada DOF 13-12-1996 X.- La creación y administración de áreas o zonas de protección pesquera.
 Fracción reformada DOF 13-12-1996 XI.- Todas aquellas prácticas de diferentes sectores productivos que afecten la calidad del agua superficial y subterránea.
 Fracción derogada DOF 13-12-1996. Adicionada DOF 19-06-2007 XII.- Se deroga.
-Fracción derogada DOF 13-12-1996
-
-### ARTÍCULO 90
-.- La Secretaría, en coordinación con la Secretaría de Salud, expedirán las normas oficiales mexicanas para el establecimiento y manejo de zonas de protección de ríos, manantiales, depósitos y en general, fuentes de abastecimiento de agua para el servicio de las poblaciones e industrias, y promoverá el establecimiento de reservas de agua para consumo humano.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 91
-.- El otorgamiento de las autorizaciones para afectar el curso o cauce de las corrientes de agua, se sujetará a los criterios ecológicos contenidos en la presente Ley.
-
-### ARTÍCULO 92
-.- Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicio, las autoridades competentes promoverán el ahorro y uso eficiente del agua, el tratamiento de aguas residuales y su reuso.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 93
-.- La Secretaría, realizará las acciones necesarias para evitar, y en su caso controlar procesos de eutroficación, salinización y cualquier otro proceso de contaminación en las aguas nacionales.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 94
-.- La exploración, explotación, aprovechamiento y administración de los recursos acuáticos vivos y no vivos, se sujetará a lo que establecen esta Ley, la Ley de Pesca, las normas oficiales mexicanas y las demás disposiciones aplicables.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 95
-.- La Secretaría deberá solicitar a los interesados, en los términos señalados en esta Ley, la realización de estudios de impacto ambiental previo al otorgamiento de concesiones, permisos y en general, autorizaciones para la realización de actividades pesqueras, cuando el aprovechamiento de las especies ponga en peligro su preservación o pueda causar desequilibrio ecológico.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 96
-.- La Secretaría expedirá las normas oficiales mexicanas para la protección de los ecosistemas acuáticos y promoverá la concertación de acciones de preservación y restauración de los ecosistemas acuáticos con los sectores productivos y las comunidades.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 97
-.- La Secretaría establecerá viveros, criaderos y reservas de especies de flora y fauna acuáticas.
+Fracción derogada DOF 13-12-1996 ARTÍCULO 90.- La Secretaría, en coordinación con la Secretaría de Salud, expedirán las normas oficiales mexicanas para el establecimiento y manejo de zonas de protección de ríos, manantiales, depósitos y en general, fuentes de abastecimiento de agua para el servicio de las poblaciones e industrias, y promoverá el establecimiento de reservas de agua para consumo humano.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 91.- El otorgamiento de las autorizaciones para afectar el curso o cauce de las corrientes de agua, se sujetará a los criterios ecológicos contenidos en la presente Ley.
+ARTÍCULO 92.- Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicio, las autoridades competentes promoverán el ahorro y uso eficiente del agua, el tratamiento de aguas residuales y su reuso.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 93.- La Secretaría, realizará las acciones necesarias para evitar, y en su caso controlar procesos de eutroficación, salinización y cualquier otro proceso de contaminación en las aguas nacionales.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 94.- La exploración, explotación, aprovechamiento y administración de los recursos acuáticos vivos y no vivos, se sujetará a lo que establecen esta Ley, la Ley de Pesca, las normas oficiales mexicanas y las demás disposiciones aplicables.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 95.- La Secretaría deberá solicitar a los interesados, en los términos señalados en esta Ley, la realización de estudios de impacto ambiental previo al otorgamiento de concesiones, permisos y en general, autorizaciones para la realización de actividades pesqueras, cuando el aprovechamiento de las especies ponga en peligro su preservación o pueda causar desequilibrio ecológico.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 96.- La Secretaría expedirá las normas oficiales mexicanas para la protección de los ecosistemas acuáticos y promoverá la concertación de acciones de preservación y restauración de los ecosistemas acuáticos con los sectores productivos y las comunidades.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 97.- La Secretaría establecerá viveros, criaderos y reservas de especies de flora y fauna acuáticas.
 Artículo reformado DOF 13-12-1996
 
 ## CAPÍTULO II
-Preservación y Aprovechamiento Sustentable del Suelo y sus Recursos Denominación del Capítulo reformada DOF 13-12-1996
-
-### ARTÍCULO 98
-.- Para la preservación y aprovechamiento sustentable del suelo se considerarán los siguientes criterios:
+Preservación y Aprovechamiento Sustentable del Suelo y sus Recursos Denominación del Capítulo reformada DOF 13-12-1996 ARTÍCULO 98.- Para la preservación y aprovechamiento sustentable del suelo se considerarán los siguientes criterios:
 Párrafo reformado DOF 13-12-1996
 
 I. El uso del suelo debe ser compatible con su vocación natural y no debe alterar el equilibrio de los ecosistemas;
@@ -1255,10 +847,7 @@ II. El uso de los suelos debe hacerse de manera que éstos mantengan su integrid
 III. Los usos productivos del suelo deben evitar prácticas que favorezcan la erosión, degradación o modificación de las características topográficas, con efectos ecológicos adversos;
 IV.- En las acciones de preservación y aprovechamiento sustentable del suelo, deberán considerarse las medidas necesarias para prevenir o reducir su erosión, deterioro de las propiedades físicas, químicas o biológicas del suelo y la pérdida duradera de la vegetación natural;
 Fracción reformada DOF 13-12-1996 V.- En las zonas afectadas por fenómenos de degradación o desertificación, deberán llevarse a cabo las acciones de regeneración, recuperación y rehabilitación necesarias, a fin de restaurarlas, y Fracción reformada DOF 13-12-1996 VI.- La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro severo de los suelos, deben incluir acciones equivalentes de regeneración, recuperación y restablecimiento de su vocación natural.
-Fracción adicionada DOF 13-12-1996
-
-### ARTÍCULO 99
-.- Los criterios ecológicos para la preservación y aprovechamiento sustentable del suelo se considerarán en:
+Fracción adicionada DOF 13-12-1996 ARTÍCULO 99.- Los criterios ecológicos para la preservación y aprovechamiento sustentable del suelo se considerarán en:
 Párrafo reformado DOF 13-12-1996
 
 I. Los apoyos a las actividades agrícolas que otorgue el Gobierno Federal, de manera directa o indirecta, sean de naturaleza crediticia, técnica o de inversión, para que promuevan la progresiva incorporación de cultivos compatibles con la preservación del equilibrio ecológico y la restauración de los ecosistemas;
@@ -1282,53 +871,23 @@ IX. La ordenación forestal de las cuencas hidrográficas del territorio naciona
 X. El otorgamiento y la modificación, suspensión o revocación de permisos de aprovechamiento forestal;
 
 XI. Las actividades de extracción de materias del subsuelo; la exploración, explotación, beneficio y aprovechamiento de sustancias minerales; las excavaciones y todas aquellas acciones que alteren la cubierta y suelos forestales; y XII.- La formulación de los programas de ordenamiento ecológico a que se refiere esta Ley.
-Fracción reformada DOF 13-12-1996
-
-### ARTÍCULO 100
-.- Las autorizaciones para el aprovechamiento de los recursos forestales implican la obligación de hacer un aprovechamiento sustentable de ese recurso. Cuando las actividades forestales deterioren gravemente el equilibrio ecológico, afecten la biodiversidad de la zona, así como la regeneración y capacidad productiva de los terrenos, la autoridad competente revocará, modificará o suspenderá la autorización respectiva en términos de lo dispuesto por la Ley General de Desarrollo Forestal Sustentable.
-Artículo reformado DOF 13-12-1996, 25-02-2003
-
-### ARTÍCULO 101
-.- En las zonas selváticas, el Gobierno Federal atenderá en forma prioritaria, de conformidad con las disposiciones aplicables:
+Fracción reformada DOF 13-12-1996 ARTÍCULO 100.- Las autorizaciones para el aprovechamiento de los recursos forestales implican la obligación de hacer un aprovechamiento sustentable de ese recurso. Cuando las actividades forestales deterioren gravemente el equilibrio ecológico, afecten la biodiversidad de la zona, así como la regeneración y capacidad productiva de los terrenos, la autoridad competente revocará, modificará o suspenderá la autorización respectiva en términos de lo dispuesto por la Ley General de Desarrollo Forestal Sustentable.
+Artículo reformado DOF 13-12-1996, 25-02-2003 ARTÍCULO 101.- En las zonas selváticas, el Gobierno Federal atenderá en forma prioritaria, de conformidad con las disposiciones aplicables:
 I.- La preservación y el aprovechamiento sustentable de los ecosistemas selváticos, donde existan actividades agropecuarias establecidas;
 Fracción reformada DOF 13-12-1996 II.- El cambio progresivo de la práctica de roza, tumba y quema a otras que no impliquen deterioro de los ecosistemas, o de aquéllas que no permitan su regeneración natural o que alteren los procesos de sucesión ecológica;
 Fracción reformada DOF 13-12-1996 III.- El cumplimiento, en la extracción de recursos no renovables, de los criterios establecidos en esta Ley, así como de las normas oficiales mexicanas que al efecto se expidan;
 Fracción reformada DOF 13-12-1996 IV.- La introducción de cultivos compatibles con los ecosistemas y que favorezcan su restauración cuando hayan sufrido deterioro;
 Fracción reformada DOF 13-12-1996 V.- La regulación ecológica de los asentamientos humanos;
 Fracción reformada DOF 13-12-1996 VI.- La prevención de los fenómenos de erosión, deterioro de las propiedades físicas, químicas o biológicas del suelo y la pérdida duradera de la vegetación natural, y Fracción adicionada DOF 13-12-1996 VII.- La regeneración, recuperación y rehabilitación de las zonas afectadas por fenómenos de degradación o desertificación, a fin de restaurarlas.
-Fracción adicionada DOF 13-12-1996
-
-### ARTÍCULO 101
-BIS.- En la realización de actividades en zonas áridas, deberán observarse los criterios que para la preservación y aprovechamiento sustentable del suelo se establecen en esta Ley y las demás disposiciones que resulten aplicables.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 102
-.- Todas las autorizaciones que afecten el uso del suelo en las zonas selváticas o áridas, así como el equilibrio ecológico de sus ecosistemas, quedan sujetas a los criterios y disposiciones que establecen esta Ley y demás aplicables.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 103
-.- Quienes realicen actividades agrícolas y pecuarias deberán llevar a cabo las prácticas de preservación, aprovechamiento sustentable y restauración necesarias para evitar la degradación del suelo y desequilibrios ecológicos y, en su caso, lograr su rehabilitación, en los términos de lo dispuesto por ésta y las demás leyes aplicables.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 104
-.- La Secretaría promoverá ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y las demás dependencias y entidades competentes, la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, así como la realización de estudios de impacto ambiental que deben realizar previo al otorgamiento de autorizaciones para efectuar cambios del uso del suelo, cuando existan elementos que permitan prever grave deterioro de los suelos afectados y del equilibrio ecológico de la zona.
-Artículo reformado DOF 13-12-1996, 25-02-2003, 20-05-2013
-
-### ARTÍCULO 105
-.- En los estímulos fiscales y otros apoyos económicos que se otorguen a las actividades forestales deberán considerarse criterios ecológicos de manera que se promuevan el desarrollo y fomento integral de la actividad forestal, el establecimiento y ampliación de plantaciones forestales y las obras para la protección de suelos forestales, en los términos de esta Ley y de la Ley General de Desarrollo Forestal Sustentable.
+Fracción adicionada DOF 13-12-1996 ARTÍCULO 101 BIS.- En la realización de actividades en zonas áridas, deberán observarse los criterios que para la preservación y aprovechamiento sustentable del suelo se establecen en esta Ley y las demás disposiciones que resulten aplicables.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 102.- Todas las autorizaciones que afecten el uso del suelo en las zonas selváticas o áridas, así como el equilibrio ecológico de sus ecosistemas, quedan sujetas a los criterios y disposiciones que establecen esta Ley y demás aplicables.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 103.- Quienes realicen actividades agrícolas y pecuarias deberán llevar a cabo las prácticas de preservación, aprovechamiento sustentable y restauración necesarias para evitar la degradación del suelo y desequilibrios ecológicos y, en su caso, lograr su rehabilitación, en los términos de lo dispuesto por ésta y las demás leyes aplicables.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 104.- La Secretaría promoverá ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y las demás dependencias y entidades competentes, la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, así como la realización de estudios de impacto ambiental que deben realizar previo al otorgamiento de autorizaciones para efectuar cambios del uso del suelo, cuando existan elementos que permitan prever grave deterioro de los suelos afectados y del equilibrio ecológico de la zona.
+Artículo reformado DOF 13-12-1996, 25-02-2003, 20-05-2013 ARTÍCULO 105.- En los estímulos fiscales y otros apoyos económicos que se otorguen a las actividades forestales deberán considerarse criterios ecológicos de manera que se promuevan el desarrollo y fomento integral de la actividad forestal, el establecimiento y ampliación de plantaciones forestales y las obras para la protección de suelos forestales, en los términos de esta Ley y de la Ley General de Desarrollo Forestal Sustentable.
 Los apoyos que se otorguen a las actividades agropecuarias tendrán que ser compatibles con la protección de los suelos forestales, de manera que no se realice el cambio de uso de suelo de forestal a agrícola o pecuario.
-Artículo reformado DOF 13-12-1996, 05-06-2018
-
-### ARTÍCULO 106
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 107
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 107
-BIS. Para preservar y proteger los recursos no renovables y sus ecosistemas, las personas titulares de concesiones y asignaciones mineras deben presentar ante la Secretaría un Programa de Restauración, Cierre y Post-cierre de minas para su evaluación y, en su caso, autorización, de conformidad con el reglamento que se elabore al respecto.
+Artículo reformado DOF 13-12-1996, 05-06-2018 ARTÍCULO 106.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 107.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 107 BIS. Para preservar y proteger los recursos no renovables y sus ecosistemas, las personas titulares de concesiones y asignaciones mineras deben presentar ante la Secretaría un Programa de Restauración, Cierre y Post-cierre de minas para su evaluación y, en su caso, autorización, de conformidad con el reglamento que se elabore al respecto.
 En dicho programa se deben establecer las acciones de reparación, restauración, rehabilitación y remediación ambiental que se realizarán desde el inicio de las actividades de exploración, explotación y beneficio de minerales o sustancias hasta el post-cierre, en los términos previstos en las disposiciones jurídicas aplicables.
 El programa debe ser presentado por el ganador de un concurso de licitación para concesión minera, una vez emitido el fallo correspondiente. La Secretaría debe analizar y, en su caso, dictaminar la viabilidad del programa propuesto a más tardar en ciento ochenta días naturales a partir de la fecha de su presentación.
 Una vez dictaminada la viabilidad del programa, la persona interesada deberá presentar como garantía seguro, carta de crédito, depósito ante la Tesorería de la Federación, fideicomiso o cualquier otro vehículo financiero que resulte idóneo. Una vez calificada, se emitirá la autorización del programa.
@@ -1336,61 +895,39 @@ El incumplimiento de cualquiera de las obligaciones previstas en el programa ser
 Artículo adicionado DOF 08-05-2023
 
 ## CAPÍTULO II BIS
-Aprovechamiento Sustentable en las Actividades Económicas Capítulo adicionado DOF 19-01-2026
-
-### ARTÍCULO 107
-BIS 1.- El aprovechamiento de materiales vírgenes extraídos de fuentes naturales para destinarse a las actividades económicas, procesos productivos o generación de productos deberá cumplir con los principios, criterios, estrategias, mecanismos y obligaciones previstos en materia de economía circular, conforme a la legislación aplicable.
+Aprovechamiento Sustentable en las Actividades Económicas Capítulo adicionado DOF 19-01-2026 ARTÍCULO 107 BIS 1.- El aprovechamiento de materiales vírgenes extraídos de fuentes naturales para destinarse a las actividades económicas, procesos productivos o generación de productos deberá cumplir con los principios, criterios, estrategias, mecanismos y obligaciones previstos en materia de economía circular, conforme a la legislación aplicable.
 Cuando sea ambiental, técnica y económicamente viable, dicho aprovechamiento deberá fomentar el encadenamiento productivo, privilegiando la integración progresiva de materias primas secundarias provenientes de actividades económicas, procesos o productos valorizados, a fin de reducir la dependencia de materiales vírgenes.
-Artículo adicionado DOF 19-01-2026
-
-### ARTÍCULO 107
-BIS 2.- El aprovechamiento debe propiciar y maximizar la vida útil de los productos, la valorización de los residuos, y garantizar la menor huella ambiental posible.
+Artículo adicionado DOF 19-01-2026 ARTÍCULO 107 BIS 2.- El aprovechamiento debe propiciar y maximizar la vida útil de los productos, la valorización de los residuos, y garantizar la menor huella ambiental posible.
 Artículo adicionado DOF 19-01-2026
 
 ## CAPÍTULO III — De la Exploración y Explotación de los Recursos no Renovables en el Equilibrio
-Ecológico Denominación del Capítulo reformada DOF 13-12-1996
-
-### ARTÍCULO 108
-.- Para prevenir y controlar los efectos generados en la exploración y explotación de los recursos no renovables en el equilibrio ecológico e integridad de los ecosistemas, la Secretaría expedirá las normas oficiales mexicanas que permitan:
+Ecológico Denominación del Capítulo reformada DOF 13-12-1996 ARTÍCULO 108.- Para prevenir y controlar los efectos generados en la exploración y explotación de los recursos no renovables en el equilibrio ecológico e integridad de los ecosistemas, la Secretaría expedirá las normas oficiales mexicanas que permitan:
 Párrafo reformado DOF 13-12-1996 I.- El control de la calidad de las aguas y la protección de las que sean utilizadas o sean el resultado de esas actividades, de modo que puedan ser objeto de otros usos;
 Fracción reformada DOF 13-12-1996
 
 II. La protección de los suelos y de la flora y fauna silvestres, de manera que las alteraciones topográficas que generen esas actividades sean oportuna y debidamente tratadas; y
 
 III. La adecuada ubicación y formas de los depósitos de desmontes, relaves y escorias de las minas y establecimientos de beneficios de los minerales.
-
-### ARTÍCULO 109
-.- Las normas oficiales mexicanas a que se refiere el artículo anterior serán observadas por los titulares de concesiones, autorizaciones y permisos para el uso, aprovechamiento, exploración, explotación y beneficio de los recursos naturales no renovables.
+ARTÍCULO 109.- Las normas oficiales mexicanas a que se refiere el artículo anterior serán observadas por los titulares de concesiones, autorizaciones y permisos para el uso, aprovechamiento, exploración, explotación y beneficio de los recursos naturales no renovables.
 Artículo reformado DOF 13-12-1996
 
 ## TÍTULO CUARTO
 Protección al Ambiente
 
 ## CAPÍTULO I — Disposiciones Generales
-Denominación del Capítulo reformada DOF 13-12-1996 (Capítulo adicionado)
-
-### ARTÍCULO 109
-BIS. La Secretaría, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o autoridad competente del Gobierno de las entidades federativas y en su caso, de los Municipios y las demarcaciones territoriales de la Ciudad de México.
+Denominación del Capítulo reformada DOF 13-12-1996 (Capítulo adicionado) ARTÍCULO 109 BIS. La Secretaría, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o autoridad competente del Gobierno de las entidades federativas y en su caso, de los Municipios y las demarcaciones territoriales de la Ciudad de México.
 Párrafo reformado DOF 19-01-2018 Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro. La información del registro se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
 La información registrada será pública y tendrá efectos declarativos. La Secretaría permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y la difundirá de manera proactiva.
-Artículo adicionado DOF 13-12-1996. Reformado DOF 31-12-2001
-
-### ARTÍCULO 109
-BIS 1.- La Secretaría deberá establecer los mecanismos y procedimientos necesarios, con el propósito de que los interesados realicen un solo trámite, en aquellos casos en que para la operación y funcionamiento de establecimientos industriales, comerciales o de servicios se requiera obtener diversos permisos, licencias o autorizaciones que deban ser otorgados por la propia dependencia.
+Artículo adicionado DOF 13-12-1996. Reformado DOF 31-12-2001 ARTÍCULO 109 BIS 1.- La Secretaría deberá establecer los mecanismos y procedimientos necesarios, con el propósito de que los interesados realicen un solo trámite, en aquellos casos en que para la operación y funcionamiento de establecimientos industriales, comerciales o de servicios se requiera obtener diversos permisos, licencias o autorizaciones que deban ser otorgados por la propia dependencia.
 Artículo adicionado DOF 13-12-1996
 
 ## CAPÍTULO II
-Prevención y Control de la Contaminación de la Atmósfera Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo I)
-
-### ARTÍCULO 110
-.- Para la protección a la atmósfera se considerarán los siguientes criterios:
+Prevención y Control de la Contaminación de la Atmósfera Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo I) ARTÍCULO 110.- Para la protección a la atmósfera se considerarán los siguientes criterios:
 
 I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las regiones del país; y
 
 II. Las emisiones de contaminantes de la atmósfera, sean de fuentes artificiales o naturales, fijas o móviles, deben ser reducidas y controladas, para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio ecológico.
-
-### ARTÍCULO 110
-BIS. Para lograr la prevención, reducción y control de la contaminación lumínica en la atmósfera, se deberán considerar los siguientes objetivos:
+ARTÍCULO 110 BIS. Para lograr la prevención, reducción y control de la contaminación lumínica en la atmósfera, se deberán considerar los siguientes objetivos:
 
 a) Promover la eficiencia energética a través de un uso eficiente del alumbrado exterior, sin menoscabo de la seguridad que debe proporcionar a los peatones, los vehículos y las propiedades;
 
@@ -1399,10 +936,7 @@ b) Preservar al máximo posible las condiciones naturales de las horas nocturnas
 c) Prevenir, minimizar y corregir los efectos de la contaminación lumínica en el cielo nocturno y, en particular en el entorno de los observatorios astronómicos que trabajan dentro del espectro visible, y
 
 d) Reducir la intrusión lumínica en zonas distintas a las que se pretende iluminar, principalmente en entornos naturales e interior de edificios.
-Artículo adicionado DOF 18-01-2021
-
-### ARTÍCULO 111
-.- Para controlar, reducir o evitar la contaminación de la atmósfera, la Secretaría tendrá las siguientes facultades:
+Artículo adicionado DOF 18-01-2021 ARTÍCULO 111.- Para controlar, reducir o evitar la contaminación de la atmósfera, la Secretaría tendrá las siguientes facultades:
 I.- Expedir las normas oficiales mexicanas que establezcan la calidad ambiental de las distintas áreas, zonas o regiones del territorio nacional, con base en los valores de concentración máxima permisible para la salud pública de contaminantes en el ambiente, determinados por la Secretaría de Salud;
 II.- Integrar y mantener actualizado el inventario de las fuentes emisoras de contaminantes a la atmósfera de jurisdicción federal, y coordinarse con los gobiernos locales para la integración del inventario nacional y los regionales correspondientes;
 III.- Expedir las normas oficiales mexicanas que establezcan por contaminante y por fuente de contaminación, los niveles máximos permisibles de emisión de olores, gases así como de partículas sólidas y líquidas a la atmósfera provenientes de fuentes fijas y móviles;
@@ -1426,16 +960,10 @@ Fracción reformada DOF 18-01-2021
 XV. Expedir, en coordinación con la Secretaría de Energía, las normas oficiales mexicanas que establezcan y certifiquen los niveles máximos permisibles de la luz artificial en el medio ambiente, incluido el impacto de la luz intrusa, que causen contaminación lumínica, y Fracción adicionada DOF 18-01-2021
 
 XVI. Promover en coordinación con la Secretaría de Energía, a los gobiernos locales en la formulación y aplicación de programas para prevenir, reducir y controlar la contaminación lumínica, que tengan por objeto el cumplimiento de la normatividad aplicable.
-Fracción adicionada DOF 18-01-2021 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 111
-BIS.- Para la operación y funcionamiento de las fuentes fijas de jurisdicción federal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá autorización de la Secretaría.
+Fracción adicionada DOF 18-01-2021 Artículo reformado DOF 13-12-1996 ARTÍCULO 111 BIS.- Para la operación y funcionamiento de las fuentes fijas de jurisdicción federal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá autorización de la Secretaría.
 Para los efectos a que se refiere esta Ley, se consideran fuentes fijas de jurisdicción federal, las industrias química, del petróleo y petroquímica, de pinturas y tintas, automotriz, de celulosa y papel, metalúrgica, del vidrio, de generación de energía eléctrica, del asbesto, cementera y calera y de tratamiento de residuos peligrosos.
 El reglamento que al efecto se expida determinará los subsectores específicos pertenecientes a cada uno de los sectores industriales antes señalados, cuyos establecimientos se sujetarán a las disposiciones de la legislación federal, en lo que se refiere a la emisión de contaminantes a la atmósfera.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 112
-.- En materia de prevención y control de la contaminación atmosférica, los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, de conformidad con la distribución de atribuciones establecida en los artículos 7o., 8o. y 9o. de esta Ley, así como con la legislación local en la materia:
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 112.- En materia de prevención y control de la contaminación atmosférica, los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, de conformidad con la distribución de atribuciones establecida en los artículos 7o., 8o. y 9o. de esta Ley, así como con la legislación local en la materia:
 Párrafo reformado DOF 13-12-1996, 19-01-2018 I.- Controlarán la contaminación del aire en los bienes y zonas de jurisdicción local, así como en fuentes fijas que funcionen como establecimientos industriales, comerciales y de servicios, siempre que no estén comprendidos en el artículo 111 BIS de esta Ley;
 Fracción reformada DOF 13-12-1996 II.- Aplicarán los criterios generales para la protección a la atmósfera en los planes de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de industrias contaminantes;
 Fracción reformada DOF 13-12-1996 III.- Requerirán a los responsables de la operación de fuentes fijas de jurisdicción local, el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con lo dispuesto en el reglamento de la presente Ley y en las normas oficiales mexicanas respectivas;
@@ -1452,20 +980,10 @@ VIII. Tomarán las medidas preventivas necesarias para evitar contingencias ambi
 IX.- Elaborarán los informes sobre el estado del medio ambiente en la entidad, Municipio o demarcación territorial de la Ciudad de México correspondiente, que convengan con la Secretaría a través de los acuerdos de coordinación que se celebren;
 Fracción reformada DOF 19-01-2018 X.- Impondrán sanciones y medidas por infracciones a las leyes que al efecto expidan las legislaturas locales, o a los bandos y reglamentos de policía y buen gobierno que expidan los ayuntamientos, de acuerdo con esta Ley;
 Fracción reformada DOF 13-12-1996 XI.- Formularán y aplicarán, con base en las normas oficiales mexicanas que expida la Federación para establecer la calidad ambiental en el territorio nacional, programas de gestión de calidad del aire, y Fracción reformada DOF 13-12-1996 XII.- Ejercerán las demás facultades que les confieren las disposiciones legales y reglamentarias aplicables.
-Fracción adicionada DOF 13-12-1996
-
-### ARTÍCULO 113
-.- No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera, deberán ser observadas las previsiones de esta Ley y de las disposiciones reglamentarias que de ella emanen, así como las normas oficiales mexicanas expedidas por la Secretaría.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 114
-.- Las autoridades competentes promoverán, en las zonas que se hubieren determinado como aptas para uso industrial, próximas a áreas habitacionales, la instalación de industrias que utilicen tecnologías y combustibles que generen menor contaminación.
-
-### ARTÍCULO 115
-.- La Secretaría promoverá que en la determinación de usos del suelo que definan los programas de desarrollo urbano respectivos, se consideren las condiciones topográficas, climatológicas y meteorológicas, para asegurar la adecuada dispersión de contaminantes.
-
-### ARTÍCULO 116
-.- Para el otorgamiento de estímulos fiscales, las autoridades competentes considerarán a quienes:
+Fracción adicionada DOF 13-12-1996 ARTÍCULO 113.- No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera, deberán ser observadas las previsiones de esta Ley y de las disposiciones reglamentarias que de ella emanen, así como las normas oficiales mexicanas expedidas por la Secretaría.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 114.- Las autoridades competentes promoverán, en las zonas que se hubieren determinado como aptas para uso industrial, próximas a áreas habitacionales, la instalación de industrias que utilicen tecnologías y combustibles que generen menor contaminación.
+ARTÍCULO 115.- La Secretaría promoverá que en la determinación de usos del suelo que definan los programas de desarrollo urbano respectivos, se consideren las condiciones topográficas, climatológicas y meteorológicas, para asegurar la adecuada dispersión de contaminantes.
+ARTÍCULO 116.- Para el otorgamiento de estímulos fiscales, las autoridades competentes considerarán a quienes:
 
 I. Adquieran, instalen u operen equipo para el control de emisiones contaminantes a la atmósfera;
 
@@ -1476,10 +994,7 @@ III. Realicen investigación científica y tecnológica e innovación, cuya apli
 IV. Ubiquen o relocalicen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
 
 ## CAPÍTULO III
-Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo II)
-
-### ARTÍCULO 117
-.- Para la prevención y control de la contaminación del agua se considerarán los siguientes criterios:
+Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo II) ARTÍCULO 117.- Para la prevención y control de la contaminación del agua se considerarán los siguientes criterios:
 
 I. La prevención y control de la contaminación del agua, es fundamental para evitar que se reduzca su disponibilidad y para proteger los ecosistemas del país;
 
@@ -1490,9 +1005,7 @@ III. El aprovechamiento del agua en actividades productivas susceptibles de prod
 IV. Las aguas residuales de origen urbano deben recibir tratamiento previo a su descarga en ríos, cuencas, vasos, aguas marinas y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo; y
 
 V. La participación y corresponsabilidad de la sociedad es condición indispensable para evitar la contaminación del agua.
-
-### ARTÍCULO 118
-.- Los criterios para la prevención y control de la contaminación del agua serán considerados en:
+ARTÍCULO 118.- Los criterios para la prevención y control de la contaminación del agua serán considerados en:
 I.- La expedición de normas oficiales mexicanas para el uso, tratamiento y disposición de aguas residuales, para evitar riesgos y daños a la salud pública;
 Fracción reformada DOF 13-12-1996 II.- La formulación de las normas oficiales mexicanas que deberá satisfacer el tratamiento del agua para el uso y consumo humano, así como para la infiltración y descarga de aguas residuales en cuerpos receptores considerados aguas nacionales;
 Fracción reformada DOF 13-12-1996
@@ -1505,22 +1018,13 @@ V. Las concesiones, asignaciones, permisos y en general autorizaciones que deban
 
 VI. La organización, dirección y reglamentación de los trabajos de hidrología en cuencas, cauces y álveos de aguas nacionales, superficiales y subterráneos.
 VII.- La clasificación de cuerpos receptores de descarga de aguas residuales, de acuerdo a su capacidad de asimilación o dilución y la carga contaminante que éstos puedan recibir.
-Fracción adicionada DOF 13-12-1996
-
-### ARTÍCULO 119
-.- La Secretaría expedirá las normas oficiales mexicanas que se requieran para prevenir y controlar la contaminación de las aguas nacionales, conforme a lo dispuesto en esta Ley, en la Ley de Aguas Nacionales, su Reglamento y las demás disposiciones que resulten aplicables.
+Fracción adicionada DOF 13-12-1996 ARTÍCULO 119.- La Secretaría expedirá las normas oficiales mexicanas que se requieran para prevenir y controlar la contaminación de las aguas nacionales, conforme a lo dispuesto en esta Ley, en la Ley de Aguas Nacionales, su Reglamento y las demás disposiciones que resulten aplicables.
 Tratándose de Normas Oficiales Mexicanas que se requieran para prevenir la contaminación de agua, la Secretaría elaborará y expedirá una Norma Mexicana en torno a la biodegradabilidad sobre los detergentes. En cuanto al etiquetado de dichos productos, se observará el cumplimiento puntual de la norma o normas referentes a los productos y servicios; etiquetados y envasado para productos de aseo de uso doméstico. En lo conducente, la Secretaría se coordinará con la Secretaría de Marina.
-Párrafo adicionado DOF 31-12-2001. Reformado DOF 19-06-2007 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 119
-BIS.- En materia de prevención y control de la contaminación del agua, corresponde a los gobiernos de las entidades federativas y de los Municipios, por sí o a través de sus organismos públicos que administren el agua, de conformidad con la distribución de competencias establecida en esta Ley y conforme lo dispongan sus leyes locales en la materia:
+Párrafo adicionado DOF 31-12-2001. Reformado DOF 19-06-2007 Artículo reformado DOF 13-12-1996 ARTÍCULO 119 BIS.- En materia de prevención y control de la contaminación del agua, corresponde a los gobiernos de las entidades federativas y de los Municipios, por sí o a través de sus organismos públicos que administren el agua, de conformidad con la distribución de competencias establecida en esta Ley y conforme lo dispongan sus leyes locales en la materia:
 Párrafo reformado DOF 19-01-2018 I.- El control de las descargas de aguas residuales a los sistemas de drenaje y alcantarillado;
 II.- La vigilancia de las normas oficiales mexicanas correspondientes, así como requerir a quienes generen descargas a dichos sistemas y no cumplan con éstas, la instalación de sistemas de tratamiento;
 III.- Determinar el monto de los derechos correspondientes para que el municipio o autoridad de la entidad federativa respectiva, pueda llevar a cabo el tratamiento necesario, y en su caso, proceder a la imposición de las sanciones a que haya lugar, y Fracción reformada DOF 19-01-2018 IV.- Llevar y actualizar el registro de las descargas a los sistemas de drenaje y alcantarillado que administren, el que será integrado al registro nacional de descargas a cargo de la Secretaría.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 120
-.- Para evitar la contaminación del agua, quedan sujetos a regulación federal o local:
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 120.- Para evitar la contaminación del agua, quedan sujetos a regulación federal o local:
 
 I. Las descargas de origen industrial;
 
@@ -1533,13 +1037,8 @@ IV. Las descargas de desechos, sustancias o residuos generados en las actividade
 V. La aplicación de plaguicidas, fertilizantes y sustancias tóxicas;
 
 VI. Las infiltraciones que afecten los mantos acuíferos; y VII.- El vertimiento de residuos sólidos, materiales peligrosos y lodos provenientes del tratamiento de aguas residuales, en cuerpos y corrientes de agua.
-Fracción reformada DOF 13-12-1996
-
-### ARTÍCULO 121
-.- No podrán descargarse o infiltrarse en cualquier cuerpo o corriente de agua o en el suelo o subsuelo, aguas residuales que contengan contaminantes, sin previo tratamiento y el permiso o autorización de la autoridad federal, o de la autoridad local en los casos de descargas en aguas de jurisdicción local o a los sistemas de drenaje y alcantarillado de los centros de población.
-
-### ARTÍCULO 122
-.- Las aguas residuales provenientes de usos públicos urbanos y las de usos industriales o agropecuarios que se descarguen en los sistemas de drenaje y alcantarillado de las poblaciones o en las cuencas ríos, cauces, vasos y demás depósitos o corrientes de agua, así como las que por cualquier medio se infiltren en el subsuelo, y en general, las que se derramen en los suelos, deberán reunir las condiciones necesarias para prevenir;
+Fracción reformada DOF 13-12-1996 ARTÍCULO 121.- No podrán descargarse o infiltrarse en cualquier cuerpo o corriente de agua o en el suelo o subsuelo, aguas residuales que contengan contaminantes, sin previo tratamiento y el permiso o autorización de la autoridad federal, o de la autoridad local en los casos de descargas en aguas de jurisdicción local o a los sistemas de drenaje y alcantarillado de los centros de población.
+ARTÍCULO 122.- Las aguas residuales provenientes de usos públicos urbanos y las de usos industriales o agropecuarios que se descarguen en los sistemas de drenaje y alcantarillado de las poblaciones o en las cuencas ríos, cauces, vasos y demás depósitos o corrientes de agua, así como las que por cualquier medio se infiltren en el subsuelo, y en general, las que se derramen en los suelos, deberán reunir las condiciones necesarias para prevenir;
 Párrafo reformado DOF 13-12-1996
 
 I. Contaminación de los cuerpos receptores;
@@ -1547,65 +1046,29 @@ I. Contaminación de los cuerpos receptores;
 II. Interferencias en los procesos de depuración de las aguas; y
 
 III. Trastornos, impedimentos o alteraciones en los correctos aprovechamientos, o en el funcionamiento adecuado de los sistemas, y en la capacidad hidráulica en las cuencas, cauces, vasos, mantos acuíferos y demás depósitos de propiedad nacional, así como de los sistemas de alcantarillado.
-
-### ARTÍCULO 123
-.- Todas las descargas en las redes colectoras, ríos, acuíferos, cuencas, cauces, vasos, aguas marinas y demás depósitos o corrientes de agua y los derrames de aguas residuales en los suelos o su infiltración en terrenos, deberán satisfacer las normas oficiales mexicanas que para tal efecto se expidan, y en su caso, las condiciones particulares de descarga que determine la Secretaría o las autoridades locales. Corresponderá a quien genere dichas descargas, realizar el tratamiento previo requerido.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 124
-.- Cuando las aguas residuales afecten o puedan afectar fuentes de abastecimiento de agua, la Secretaría lo comunicará a la Secretaría de Salud y negará el permiso o autorización correspondiente, o revocará, y en su caso, ordenará la suspensión del suministro.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 125
-.- Se deroga.
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 126
-.- Los equipos de tratamiento de las aguas residuales de origen urbano que diseñen, operen o administren los municipios o las autoridades de las entidades federativas, deberán cumplir con las normas oficiales mexicanas que al efecto se expidan.
-Artículo reformado DOF 13-12-1996, 19-01-2018
-
-### ARTÍCULO 127
-.- La Secretaría, en coordinación con la Secretaría de Salud, emitirán opinión, con base en los estudios de la cuenca y sistemas correspondientes, para la programación y construcción de obras e instalaciones de purificación de aguas residuales de procedencia industrial.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 128
-.- Las aguas residuales provenientes de los sistemas de drenaje y alcantarillado urbano, podrán utilizarse en la industria y en la agricultura, si se someten en los casos que se requiera, al tratamiento que cumpla con las normas oficiales mexicanas emitidas por la Secretaría, y en su caso, por la Secretaría de Salud.
+ARTÍCULO 123.- Todas las descargas en las redes colectoras, ríos, acuíferos, cuencas, cauces, vasos, aguas marinas y demás depósitos o corrientes de agua y los derrames de aguas residuales en los suelos o su infiltración en terrenos, deberán satisfacer las normas oficiales mexicanas que para tal efecto se expidan, y en su caso, las condiciones particulares de descarga que determine la Secretaría o las autoridades locales. Corresponderá a quien genere dichas descargas, realizar el tratamiento previo requerido.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 124.- Cuando las aguas residuales afecten o puedan afectar fuentes de abastecimiento de agua, la Secretaría lo comunicará a la Secretaría de Salud y negará el permiso o autorización correspondiente, o revocará, y en su caso, ordenará la suspensión del suministro.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 125.- Se deroga.
+Artículo derogado DOF 13-12-1996 ARTÍCULO 126.- Los equipos de tratamiento de las aguas residuales de origen urbano que diseñen, operen o administren los municipios o las autoridades de las entidades federativas, deberán cumplir con las normas oficiales mexicanas que al efecto se expidan.
+Artículo reformado DOF 13-12-1996, 19-01-2018 ARTÍCULO 127.- La Secretaría, en coordinación con la Secretaría de Salud, emitirán opinión, con base en los estudios de la cuenca y sistemas correspondientes, para la programación y construcción de obras e instalaciones de purificación de aguas residuales de procedencia industrial.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 128.- Las aguas residuales provenientes de los sistemas de drenaje y alcantarillado urbano, podrán utilizarse en la industria y en la agricultura, si se someten en los casos que se requiera, al tratamiento que cumpla con las normas oficiales mexicanas emitidas por la Secretaría, y en su caso, por la Secretaría de Salud.
 Párrafo reformado DOF 13-12-1996 En los aprovechamientos existentes de aguas residuales en la agricultura, se promoverán acciones para mejorar la calidad del recurso, la reglamentación de los cultivos y las prácticas de riego.
-
-### ARTÍCULO 129
-.- El otorgamiento de asignaciones, autorizaciones, concesiones o permisos para la explotación, uso o aprovechamiento de aguas en actividades económicas susceptibles de contaminar dicho recurso, estará condicionado al tratamiento previo necesario de las aguas residuales que se produzcan.
-
-### ARTÍCULO 130
-. La Secretaría autorizará el vertido de aguas residuales en aguas marinas, de conformidad con lo dispuesto en la Ley de Aguas Nacionales, su Reglamento y las normas oficiales mexicanas que al respecto expida. Cuando el origen de las descargas provenga de fuentes móviles o de plataformas fijas en el mar territorial y la zona económica exclusiva, así como de instalaciones de tierra cuya descarga sea el mar, la Secretaría se coordinará con la Secretaría de Marina para la expedición de las autorizaciones correspondientes.
-Artículo reformado DOF 13-12-1996, 31-12-2001
-
-### ARTÍCULO 131
-.- Para la protección del medio marino, la Secretaría emitirá las normas oficiales mexicanas para la explotación, preservación y administración de los recursos naturales, vivos y abióticos, del lecho y el subsuelo del mar y de las aguas suprayacentes, así como las que deberán observarse para la realización de actividades de exploración y explotación en la zona económica exclusiva.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 132
-.- La Secretaría se coordinará con las Secretarías de Marina, de Energía, de Salud, de Turismo y de Comunicaciones y Transportes, a efecto de que dentro de sus respectivas atribuciones intervengan en la prevención y control de la contaminación del medio marino, así como en la preservación y restauración del equilibrio de sus ecosistemas, con arreglo a lo establecido en la presente convenciones internacionales de las que México forma parte y las demás disposiciones aplicables.
-Artículo reformado DOF 13-12-1996, 20-05-2013
-
-### ARTÍCULO 133
-.- La Secretaría, con la participación que en su caso corresponda a la Secretaría de Salud conforme a otros ordenamientos legales, realizará un sistemático y permanente monitoreo de la calidad de las aguas, para detectar la presencia de contaminantes o exceso de desechos orgánicos y aplicar las medidas que procedan. En los casos de aguas de jurisdicción local se coordinará con las autoridades de las entidades federativas y los Municipios.
+ARTÍCULO 129.- El otorgamiento de asignaciones, autorizaciones, concesiones o permisos para la explotación, uso o aprovechamiento de aguas en actividades económicas susceptibles de contaminar dicho recurso, estará condicionado al tratamiento previo necesario de las aguas residuales que se produzcan.
+ARTÍCULO 130. La Secretaría autorizará el vertido de aguas residuales en aguas marinas, de conformidad con lo dispuesto en la Ley de Aguas Nacionales, su Reglamento y las normas oficiales mexicanas que al respecto expida. Cuando el origen de las descargas provenga de fuentes móviles o de plataformas fijas en el mar territorial y la zona económica exclusiva, así como de instalaciones de tierra cuya descarga sea el mar, la Secretaría se coordinará con la Secretaría de Marina para la expedición de las autorizaciones correspondientes.
+Artículo reformado DOF 13-12-1996, 31-12-2001 ARTÍCULO 131.- Para la protección del medio marino, la Secretaría emitirá las normas oficiales mexicanas para la explotación, preservación y administración de los recursos naturales, vivos y abióticos, del lecho y el subsuelo del mar y de las aguas suprayacentes, así como las que deberán observarse para la realización de actividades de exploración y explotación en la zona económica exclusiva.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 132.- La Secretaría se coordinará con las Secretarías de Marina, de Energía, de Salud, de Turismo y de Comunicaciones y Transportes, a efecto de que dentro de sus respectivas atribuciones intervengan en la prevención y control de la contaminación del medio marino, así como en la preservación y restauración del equilibrio de sus ecosistemas, con arreglo a lo establecido en la presente convenciones internacionales de las que México forma parte y las demás disposiciones aplicables.
+Artículo reformado DOF 13-12-1996, 20-05-2013 ARTÍCULO 133.- La Secretaría, con la participación que en su caso corresponda a la Secretaría de Salud conforme a otros ordenamientos legales, realizará un sistemático y permanente monitoreo de la calidad de las aguas, para detectar la presencia de contaminantes o exceso de desechos orgánicos y aplicar las medidas que procedan. En los casos de aguas de jurisdicción local se coordinará con las autoridades de las entidades federativas y los Municipios.
 Artículo reformado DOF 13-12-1996, 19-01-2018
 
 ## CAPÍTULO IV
-Prevención y Control de la Contaminación del Suelo Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo III)
-
-### ARTÍCULO 134
-.- Para la prevención y control de la contaminación del suelo, se considerarán los siguientes criterios:
+Prevención y Control de la Contaminación del Suelo Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo III) ARTÍCULO 134.- Para la prevención y control de la contaminación del suelo, se considerarán los siguientes criterios:
 
 I. Corresponde al estado y la sociedad prevenir la contaminación del suelo;
 
 II. Deben ser controlados los residuos en tanto que constituyen la principal fuente de contaminación de los suelos;
 III.- Es necesario prevenir y reducir la generación de residuos sólidos, municipales e industriales; incorporar técnicas y procedimientos para su reuso y reciclaje, así como regular su manejo y disposición final eficientes;
 Fracción reformada DOF 13-12-1996 IV.- La utilización de plaguicidas, fertilizantes y sustancias tóxicas, debe ser compatible con el equilibrio de los ecosistemas y considerar sus efectos sobre la salud humana a fin de prevenir los daños que pudieran ocasionar, y Fracción reformada DOF 13-12-1996 V.- En los suelos contaminados por la presencia de materiales o residuos peligrosos, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones, de tal manera que puedan ser utilizados en cualquier tipo de actividad prevista por el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable.
-Fracción adicionada DOF 13-12-1996
-
-### ARTÍCULO 135
-.- Los criterios para prevenir y controlar la contaminación del suelo se consideran, en los siguientes casos:
+Fracción adicionada DOF 13-12-1996 ARTÍCULO 135.- Los criterios para prevenir y controlar la contaminación del suelo se consideran, en los siguientes casos:
 
 I. La ordenación y regulación del desarrollo urbano;
 
@@ -1614,9 +1077,7 @@ III.- La generación, manejo y disposición final de residuos sólidos, industri
 Fracción reformada DOF 13-12-1996
 
 IV. El otorgamiento de todo tipo de autorizaciones para la fabricación, importación, utilización y en general la realización de actividades relacionadas con plaguicidas, fertilizantes y sustancias tóxicas.
-
-### ARTÍCULO 136
-.- Los residuos que se acumulen o puedan acumularse y se depositen o infiltren en los suelos deberán reunir las condiciones necesarias para prevenir o evitar:
+ARTÍCULO 136.- Los residuos que se acumulen o puedan acumularse y se depositen o infiltren en los suelos deberán reunir las condiciones necesarias para prevenir o evitar:
 
 I. La contaminación del suelo;
 
@@ -1624,49 +1085,25 @@ II. Las alteraciones nocivas en el proceso biológico de los suelos;
 III.- Las alteraciones en el suelo que perjudiquen su aprovechamiento, uso o explotación, y Fracción reformada DOF 13-12-1996
 
 IV. Riesgos y problemas de salud.
-
-### ARTÍCULO 137
-.- Queda sujeto a la autorización de los Municipios o de la Ciudad de México, conforme a sus leyes locales en la materia y a las normas oficiales mexicanas que resulten aplicables, el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos municipales.
+ARTÍCULO 137.- Queda sujeto a la autorización de los Municipios o de la Ciudad de México, conforme a sus leyes locales en la materia y a las normas oficiales mexicanas que resulten aplicables, el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos municipales.
 Párrafo reformado DOF 19-01-2018 La Secretaría expedirá las normas a que deberán sujetarse los sitios, el diseño, la construcción y la operación de las instalaciones destinadas a la disposición final de residuos sólidos municipales.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 138
-.- La Secretaría promoverá la celebración de acuerdos de coordinación y asesoría con los gobiernos estatales y municipales para:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 138.- La Secretaría promoverá la celebración de acuerdos de coordinación y asesoría con los gobiernos estatales y municipales para:
 
 I. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos municipales; y
 
 II. La identificación de alternativas de reutilización y disposición final de residuos sólidos municipales, incluyendo la elaboración de inventarios de los mismos y sus fuentes generadoras.
-
-### ARTÍCULO 139
-.- Toda descarga, depósito o infiltración de sustancias o materiales contaminantes en los suelos se sujetará a lo que disponga esta Ley, la Ley de Aguas Nacionales, sus disposiciones reglamentarias y las normas oficiales mexicanas que para tal efecto expida la Secretaría.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 140
-. La generación, manejo y disposición final de los residuos de lenta degradación deberá sujetarse a lo que se establezca en las normas oficiales mexicanas que al respecto expida la Secretaría, en coordinación con la Secretaría de Economía.
-Artículo reformado DOF 13-12-1996, 09-04-2012
-
-### ARTÍCULO 141
-. La Secretaría, en coordinación con las Secretarías de Economía y de Salud, expedirá normas oficiales mexicanas para la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos.
+ARTÍCULO 139.- Toda descarga, depósito o infiltración de sustancias o materiales contaminantes en los suelos se sujetará a lo que disponga esta Ley, la Ley de Aguas Nacionales, sus disposiciones reglamentarias y las normas oficiales mexicanas que para tal efecto expida la Secretaría.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 140. La generación, manejo y disposición final de los residuos de lenta degradación deberá sujetarse a lo que se establezca en las normas oficiales mexicanas que al respecto expida la Secretaría, en coordinación con la Secretaría de Economía.
+Artículo reformado DOF 13-12-1996, 09-04-2012 ARTÍCULO 141. La Secretaría, en coordinación con las Secretarías de Economía y de Salud, expedirá normas oficiales mexicanas para la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos.
 Párrafo reformado DOF 09-04-2012 Asimismo, dichas Dependencias promoverán ante los organismos nacionales de normalización respectivos, la emisión de normas mexicanas en las materias a las que se refiere este precepto.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 142
-.- En ningún caso podrá autorizarse la importación de residuos para su derrame, depósito, confinamiento, almacenamiento, incineración o cualquier tratamiento para su destrucción o disposición final en el territorio nacional o en las zonas en las que la nación ejerce su soberanía y jurisdicción. Las autorizaciones para el tránsito por el territorio nacional de residuos no peligrosos con destino a otra Nación, sólo podrán otorgarse cuando exista previo consentimiento de ésta.
-
-### ARTÍCULO 143
-. Los plaguicidas, fertilizantes y demás materiales peligrosos, quedarán sujetos a las normas oficiales mexicanas que expidan en el ámbito de sus respectivas competencias, la Secretaría y las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de Salud y de Economía. El Reglamento de esta Ley establecerá la regulación, que dentro del mismo marco de coordinación deba observarse en actividades relacionadas con dichos materiales, incluyendo la disposición final de sus residuos, empaques y envases vacíos, medidas para evitar efectos adversos en los ecosistemas y los procedimientos para el otorgamiento de las autorizaciones correspondientes.
-Artículo reformado DOF 13-12-1996, 09-04-2012
-
-### ARTÍCULO 144
-. Atendiendo a lo dispuesto por la presente Ley, la Ley Federal de Sanidad Vegetal y las demás disposiciones legales y reglamentarías aplicables, la Secretaría coordinadamente con la Secretarías de Salud, de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Economía, participará en la determinación de restricciones arancelarias y no arancelarias relativas a la importación y exportación de materiales peligrosos.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 142.- En ningún caso podrá autorizarse la importación de residuos para su derrame, depósito, confinamiento, almacenamiento, incineración o cualquier tratamiento para su destrucción o disposición final en el territorio nacional o en las zonas en las que la nación ejerce su soberanía y jurisdicción. Las autorizaciones para el tránsito por el territorio nacional de residuos no peligrosos con destino a otra Nación, sólo podrán otorgarse cuando exista previo consentimiento de ésta.
+ARTÍCULO 143. Los plaguicidas, fertilizantes y demás materiales peligrosos, quedarán sujetos a las normas oficiales mexicanas que expidan en el ámbito de sus respectivas competencias, la Secretaría y las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de Salud y de Economía. El Reglamento de esta Ley establecerá la regulación, que dentro del mismo marco de coordinación deba observarse en actividades relacionadas con dichos materiales, incluyendo la disposición final de sus residuos, empaques y envases vacíos, medidas para evitar efectos adversos en los ecosistemas y los procedimientos para el otorgamiento de las autorizaciones correspondientes.
+Artículo reformado DOF 13-12-1996, 09-04-2012 ARTÍCULO 144. Atendiendo a lo dispuesto por la presente Ley, la Ley Federal de Sanidad Vegetal y las demás disposiciones legales y reglamentarías aplicables, la Secretaría coordinadamente con la Secretarías de Salud, de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Economía, participará en la determinación de restricciones arancelarias y no arancelarias relativas a la importación y exportación de materiales peligrosos.
 Párrafo reformado DOF 09-04-2012 No podrán otorgarse autorizaciones para la importación de plaguicidas, fertilizantes y demás materiales peligrosos, cuando su uso no esté permitido en el país en el que se hayan elaborado o fabricado.
 Artículo reformado DOF 13-12-1996
 
 ## CAPÍTULO V
-Actividades Consideradas como Altamente Riesgosas Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo IV)
-
-### ARTÍCULO 145
-.- La Secretaría promoverá que en la determinación de los usos del suelo se especifiquen las zonas en las que se permita el establecimiento de industrias, comercios o servicios considerados riesgosos por la gravedad de los efectos que puedan generar en los ecosistemas o en el ambiente tomándose en consideración:
+Actividades Consideradas como Altamente Riesgosas Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo IV) ARTÍCULO 145.- La Secretaría promoverá que en la determinación de los usos del suelo se especifiquen las zonas en las que se permita el establecimiento de industrias, comercios o servicios considerados riesgosos por la gravedad de los efectos que puedan generar en los ecosistemas o en el ambiente tomándose en consideración:
 I.- Las condiciones topográficas, meteorológicas, climatológicas, geológicas y sísmicas de las zonas;
 Fracción reformada DOF 13-12-1996
 
@@ -1679,63 +1116,31 @@ IV. La compatibilidad con otras actividades de las zonas;
 V. La infraestructura existente y necesaria para la atención de emergencias ecológicas; y
 
 VI. La infraestructura para la dotación de servicios básicos.
-
-### ARTÍCULO 146
-. La Secretaría, previa opinión de las Secretarías de Energía, de Economía, de Salud, de Gobernación y del Trabajo y Previsión Social, conforme al Reglamento que para tal efecto se expida, establecerá la clasificación de las actividades que deban considerarse altamente riesgosas en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas para el equilibrio ecológico o el ambiente, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento.
-Artículo reformado DOF 13-12-1996, 09-04-2012
-
-### ARTÍCULO 147
-.- La realización de actividades industriales, comerciales o de servicios altamente riesgosas, se llevarán a cabo con apego a lo dispuesto por esta Ley, las disposiciones reglamentarias que de ella emanen y las normas oficiales mexicanas a que se refiere el artículo anterior.
+ARTÍCULO 146. La Secretaría, previa opinión de las Secretarías de Energía, de Economía, de Salud, de Gobernación y del Trabajo y Previsión Social, conforme al Reglamento que para tal efecto se expida, establecerá la clasificación de las actividades que deban considerarse altamente riesgosas en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas para el equilibrio ecológico o el ambiente, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento.
+Artículo reformado DOF 13-12-1996, 09-04-2012 ARTÍCULO 147.- La realización de actividades industriales, comerciales o de servicios altamente riesgosas, se llevarán a cabo con apego a lo dispuesto por esta Ley, las disposiciones reglamentarias que de ella emanen y las normas oficiales mexicanas a que se refiere el artículo anterior.
 Quienes realicen actividades altamente riesgosas, en los términos del Reglamento correspondiente, deberán formular y presentar a la Secretaría un estudio de riesgo ambiental, así como someter a la aprobación de dicha dependencia y de las Secretarías de Gobernación, de Energía, de Comercio y Fomento Industrial, de Salud, y del Trabajo y Previsión Social, los programas para la prevención de accidentes en la realización de tales actividades, que puedan causar graves desequilibrios ecológicos.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 147
-BIS. Quienes realicen actividades altamente riesgosas, en los términos del Reglamento correspondiente, deberán contar con un seguro de riesgo ambiental. Para tal fin, la Secretaría con aprobación de las Secretarías de Gobernación, de Energía, de Economía, de Salud, y del Trabajo y Previsión Social integrará un Sistema Nacional de Seguros de Riesgo Ambiental.
-Artículo adicionado DOF 31-12-2001
-
-### ARTÍCULO 148
-.- Cuando para garantizar la seguridad de los vecinos de una industria que lleve a cabo actividades altamente riesgosas, sea necesario establecer una zona intermedia de salvaguarda, el Gobierno Federal podrá, mediante declaratoria, establecer restricciones a los usos urbanos que pudieran ocasionar riesgos para la población. La Secretaría promoverá, ante las autoridades locales competentes, que los planes o programas de desarrollo urbano establezcan que en dichas zonas no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 149
-.- Las entidades federativas regularán la realización de actividades que no sean consideradas altamente riesgosas, cuando éstas afecten el equilibrio de los ecosistemas o el ambiente dentro de la circunscripción territorial correspondiente, de conformidad con las normas oficiales mexicanas que resulten aplicables.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 147 BIS. Quienes realicen actividades altamente riesgosas, en los términos del Reglamento correspondiente, deberán contar con un seguro de riesgo ambiental. Para tal fin, la Secretaría con aprobación de las Secretarías de Gobernación, de Energía, de Economía, de Salud, y del Trabajo y Previsión Social integrará un Sistema Nacional de Seguros de Riesgo Ambiental.
+Artículo adicionado DOF 31-12-2001 ARTÍCULO 148.- Cuando para garantizar la seguridad de los vecinos de una industria que lleve a cabo actividades altamente riesgosas, sea necesario establecer una zona intermedia de salvaguarda, el Gobierno Federal podrá, mediante declaratoria, establecer restricciones a los usos urbanos que pudieran ocasionar riesgos para la población. La Secretaría promoverá, ante las autoridades locales competentes, que los planes o programas de desarrollo urbano establezcan que en dichas zonas no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 149.- Las entidades federativas regularán la realización de actividades que no sean consideradas altamente riesgosas, cuando éstas afecten el equilibrio de los ecosistemas o el ambiente dentro de la circunscripción territorial correspondiente, de conformidad con las normas oficiales mexicanas que resulten aplicables.
 La legislación local definirá las bases a fin de que la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, coordinen sus acciones respecto de las actividades a que se refiere este precepto.
 Artículo reformado DOF 13-12-1996, 19-01-2018
 
 ## CAPÍTULO VI
-Materiales y Residuos Peligrosos Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo V)
-
-### ARTÍCULO 150
-.- Los materiales y residuos peligrosos deberán ser manejados con arreglo a la presente Ley, su Reglamento y las normas oficiales mexicanas que expida la Secretaría, previa opinión de las Secretarías de Comercio y Fomento Industrial, de Salud, de Energía, de Comunicaciones y Transportes, de Marina y de Gobernación. La regulación del manejo de esos materiales y residuos incluirá según corresponda, su uso, recolección, almacenamiento, transporte, reuso, reciclaje, tratamiento y disposición final.
+Materiales y Residuos Peligrosos Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo V) ARTÍCULO 150.- Los materiales y residuos peligrosos deberán ser manejados con arreglo a la presente Ley, su Reglamento y las normas oficiales mexicanas que expida la Secretaría, previa opinión de las Secretarías de Comercio y Fomento Industrial, de Salud, de Energía, de Comunicaciones y Transportes, de Marina y de Gobernación. La regulación del manejo de esos materiales y residuos incluirá según corresponda, su uso, recolección, almacenamiento, transporte, reuso, reciclaje, tratamiento y disposición final.
 El Reglamento y las normas oficiales mexicanas a que se refiere el párrafo anterior, contendrán los criterios y listados que identifiquen y clasifiquen los materiales y residuos peligrosos por su grado de peligrosidad, considerando sus características y volúmenes; además, habrán de diferenciar aquellos de alta y baja peligrosidad. Corresponde a la Secretaría la regulación y el control de los materiales y residuos peligrosos.
 Párrafo reformado DOF 31-12-2001 Asimismo, la Secretaría en coordinación con las dependencias a que se refiere el presente artículo, expedirá las normas oficiales mexicanas en las que se establecerán los requisitos para el etiquetado y envasado de materiales y residuos peligrosos, así como para la evaluación de riesgo e información sobre contingencias y accidentes que pudieran generarse por su manejo, particularmente tratándose de sustancias químicas.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 151
-.- La responsabilidad del manejo y disposición final de los residuos peligrosos corresponde a quien los genera. En el caso de que se contrate los servicios de manejo y disposición final de los residuos peligrosos con empresas autorizadas por la Secretaría y los residuos sean entregados a dichas empresas, la responsabilidad por las operaciones será de éstas independientemente de la responsabilidad que, en su caso, tenga quien los generó.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 151.- La responsabilidad del manejo y disposición final de los residuos peligrosos corresponde a quien los genera. En el caso de que se contrate los servicios de manejo y disposición final de los residuos peligrosos con empresas autorizadas por la Secretaría y los residuos sean entregados a dichas empresas, la responsabilidad por las operaciones será de éstas independientemente de la responsabilidad que, en su caso, tenga quien los generó.
 Quienes generen, reusen o reciclen residuos peligrosos, deberán hacerlo del conocimiento de la Secretaría en los términos previstos en el Reglamento de la presente Ley.
 En las autorizaciones para el establecimiento de confinamientos de residuos peligrosos, sólo se incluirán los residuos que no puedan ser técnica y económicamente sujetos de reuso, reciclamiento o destrucción térmica o físico química, y no se permitirá el confinamiento de residuos peligrosos en estado líquido.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 151
-BIS.- Requiere autorización previa de la Secretaría:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 151 BIS.- Requiere autorización previa de la Secretaría:
 I.- La prestación de servicios a terceros que tenga por objeto la operación de sistemas para la recolección, almacenamiento, transporte, reuso, tratamiento, reciclaje, incineración y disposición final de residuos peligrosos;
 II.- La instalación y operación de sistemas para el tratamiento o disposición final de residuos peligrosos, o para su reciclaje cuando éste tenga por objeto la recuperación de energía, mediante su incineración, y III.- La instalación y operación, por parte del generador de residuos peligrosos, de sistemas para su reuso, reciclaje y disposición final, fuera de la instalación en donde se generaron dichos residuos.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 152
-.- La Secretaría promoverá programas tendientes a prevenir y reducir la generación de residuos peligrosos, así como a estimular su reuso y reciclaje.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 152.- La Secretaría promoverá programas tendientes a prevenir y reducir la generación de residuos peligrosos, así como a estimular su reuso y reciclaje.
 En aquellos casos en que los residuos peligrosos puedan ser utilizados en un proceso distinto al que los generó, el Reglamento de la presente Ley y las normas oficiales mexicanas que se expidan, deberán establecer los mecanismos y procedimientos que hagan posible su manejo eficiente desde el punto de vista ambiental y económico.
 Los residuos peligrosos que sean usados, tratados o reciclados en un proceso distinto al que los generó, dentro del mismo predio, serán sujetos a un control interno por parte de la empresa responsable, de acuerdo con las formalidades que establezca el Reglamento de la presente Ley.
 En el caso de que los residuos señalados en el párrafo anterior, sean transportados a un predio distinto a aquél en el que se generaron, se estará a lo dispuesto en la normatividad aplicable al transporte terrestre de residuos peligrosos.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 152
-BIS.- Cuando la generación, manejo o disposición final de materiales o residuos peligrosos, produzca contaminación del suelo, los responsables de dichas operaciones deberán llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones del mismo, con el propósito de que éste pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable, para el predio o zona respectiva.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 153
-.- La importación o exportación de materiales o residuos peligrosos se sujetará a las restricciones que establezca el Ejecutivo Federal, de conformidad con lo dispuesto en la Ley de Comercio Exterior. En todo caso deberán observarse las siguientes disposiciones:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 152 BIS.- Cuando la generación, manejo o disposición final de materiales o residuos peligrosos, produzca contaminación del suelo, los responsables de dichas operaciones deberán llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones del mismo, con el propósito de que éste pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable, para el predio o zona respectiva.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 153.- La importación o exportación de materiales o residuos peligrosos se sujetará a las restricciones que establezca el Ejecutivo Federal, de conformidad con lo dispuesto en la Ley de Comercio Exterior. En todo caso deberán observarse las siguientes disposiciones:
 Párrafo reformado DOF 13-12-1996
 
 I. Corresponderá a la Secretaría el control y la vigilancia ecológica de los materiales o residuos peligrosos importados o a exportarse, aplicando las medidas de seguridad que correspondan, sin perjuicio de lo que sobre este particular prevé la Ley Aduanera;
@@ -1761,27 +1166,16 @@ d) Cuando se determine que la autorización fue transferida a una persona distin
 Inciso reformado DOF 13-12-1996
 
 ## CAPÍTULO VII
-Energía Nuclear Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo VI)
-
-### ARTÍCULO 154
-.- La Secretaría de Energía y la Comisión Nacional de Seguridad Nuclear y Salvaguardias, con la participación que, en su caso, corresponda a la Secretaría de Salud, cuidarán que la exploración, explotación y beneficio de minerales radioactivos, el aprovechamiento de los combustibles nucleares, los usos de la energía nuclear y en general, las actividades relacionadas con la misma, se lleven a cabo con apego a las normas oficiales mexicanas sobre seguridad nuclear, radiológica y física de las instalaciones nucleares o radioactivas, de manera que se eviten riesgos a la salud humana y se asegure la preservación del equilibrio ecológico y la protección al ambiente, correspondiendo a la Secretaría realizar la evaluación de impacto ambiental.
+Energía Nuclear Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo VI) ARTÍCULO 154.- La Secretaría de Energía y la Comisión Nacional de Seguridad Nuclear y Salvaguardias, con la participación que, en su caso, corresponda a la Secretaría de Salud, cuidarán que la exploración, explotación y beneficio de minerales radioactivos, el aprovechamiento de los combustibles nucleares, los usos de la energía nuclear y en general, las actividades relacionadas con la misma, se lleven a cabo con apego a las normas oficiales mexicanas sobre seguridad nuclear, radiológica y física de las instalaciones nucleares o radioactivas, de manera que se eviten riesgos a la salud humana y se asegure la preservación del equilibrio ecológico y la protección al ambiente, correspondiendo a la Secretaría realizar la evaluación de impacto ambiental.
 Artículo reformado DOF 13-12-1996
 
 ## CAPÍTULO VIII — RUIDO, VIBRACIONES, ENERGÍA TÉRMICA, LUZ INTRUSA, OLORES Y CONTAMINACIÓN
-VISUAL Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo VII). Denominación reformada DOF 18-01-2021
-
-### ARTÍCULO 155
-. Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica, luz intrusa y la generación de contaminación visual, en cuanto rebasen los límites máximos establecidos en las normas oficiales mexicanas que para ese efecto expida la Secretaría, considerando los valores de concentración máxima permisibles para el ser humano de contaminantes en el ambiente que determine la Secretaría de Salud. Las autoridades federales o locales, según su esfera de competencia, adoptarán las medidas para impedir que se transgredan dichos límites y en su caso, aplicarán las sanciones correspondientes.
+VISUAL Denominación del Capítulo reformada DOF 13-12-1996 (se recorre, antes Capítulo VII). Denominación reformada DOF 18-01-2021 ARTÍCULO 155. Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica, luz intrusa y la generación de contaminación visual, en cuanto rebasen los límites máximos establecidos en las normas oficiales mexicanas que para ese efecto expida la Secretaría, considerando los valores de concentración máxima permisibles para el ser humano de contaminantes en el ambiente que determine la Secretaría de Salud. Las autoridades federales o locales, según su esfera de competencia, adoptarán las medidas para impedir que se transgredan dichos límites y en su caso, aplicarán las sanciones correspondientes.
 En la construcción de obras o instalaciones que generen energía térmica, luz intrusa, ruido o vibraciones, así como en la operación o funcionamiento de las existentes deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
-Artículo reformado DOF 13-12-1996, 18-01-2021
-
-### ARTÍCULO 156
-. Las normas oficiales mexicanas en materias objeto del presente Capítulo, establecerán los procedimientos a fin de prevenir y controlar la contaminación por ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores, y fijarán los límites de emisión respectivos.
+Artículo reformado DOF 13-12-1996, 18-01-2021 ARTÍCULO 156. Las normas oficiales mexicanas en materias objeto del presente Capítulo, establecerán los procedimientos a fin de prevenir y controlar la contaminación por ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores, y fijarán los límites de emisión respectivos.
 Párrafo reformado DOF 13-12-1996, 18-01-2021 La Secretaría de Salud realizará los análisis, estudios, investigaciones y vigilancia necesarias con el objeto de localizar el origen o procedencia, naturaleza, grado, magnitud y frecuencia de las emisiones para determinar cuándo se producen daños a la salud.
 La Secretaría, en coordinación con organismos públicos o privados, nacionales o internacionales, integrará la información relacionada con este tipo de contaminación, así como de métodos y tecnología de control y tratamiento de la misma.
-
-### ARTÍCULO 156
-BIS.- En materia de contaminación por ruido, la Secretaría expedirá las normas oficiales mexicanas para el establecimiento y operación de los sistemas de monitoreo del ruido.
+ARTÍCULO 156 BIS.- En materia de contaminación por ruido, la Secretaría expedirá las normas oficiales mexicanas para el establecimiento y operación de los sistemas de monitoreo del ruido.
 Los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México realizarán los monitoreos necesarios para la prevención y el control de la contaminación por ruido.
 Artículo adicionado DOF 29-03-2022
 
@@ -1789,117 +1183,62 @@ Artículo adicionado DOF 29-03-2022
 Participación Social e Información Ambiental Denominación del Título reformada DOF 13-12-1996
 
 ## CAPÍTULO I
-Participación Social Denominación del Capítulo reformada DOF 13-12-1996
-
-### ARTÍCULO 157
-.- El Gobierno Federal deberá promover la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental y de recursos naturales.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 158
-.- Para los efectos del artículo anterior, la Secretaría:
+Participación Social Denominación del Capítulo reformada DOF 13-12-1996 ARTÍCULO 157.- El Gobierno Federal deberá promover la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental y de recursos naturales.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 158.- Para los efectos del artículo anterior, la Secretaría:
 I.- Convocará, en el ámbito del Sistema Nacional de Planeación Democrática, a las organizaciones obreras, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, comunidades agrarias, pueblos y comunidades indígenas y afromexicanas, instituciones educativas, organizaciones sociales y privadas no lucrativas y demás personas interesadas para que manifiesten su opinión y propuestas;
 Fracción reformada DOF 13-12-1996, 01-04-2024 II.- Celebrará convenios de concertación con organizaciones obreras y grupos sociales para la protección del ambiente en los lugares de trabajo y unidades habitacionales; con pueblos y comunidades indígenas y afromexicanas, comunidades agrarias y demás organizaciones campesinas para el establecimiento, administración y manejo de áreas naturales protegidas, y para brindarles asesoría ecológica en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales; con organizaciones empresariales, en los casos previstos en esta Ley para la protección del ambiente; con instituciones educativas y académicas, para la realización de estudios e investigaciones en la materia; con organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones ecológicas conjuntas; así como con representaciones sociales y con particulares interesados en la preservación y restauración del equilibrio ecológico para la protección al ambiente;
 Fracción reformada DOF 13-12-1996, 01-04-2024 III.- Celebrará convenios con los medios de comunicación masiva para la difusión, información y promoción de acciones de preservación del equilibrio ecológico y la protección al ambiente;
 Fracción reformada DOF 13-12-1996
 
 IV. Promoverá el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente; y V.- Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de desechos. Para ello, la Secretaría podrá, en forma coordinada con las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México correspondientes, celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y Fracción reformada DOF 13-12-1996, 19-01-2018 VI.- Concertará acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos y comunidades indígenas y afromexicanas y demás personas físicas y morales interesadas, para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
-Fracción adicionada DOF 13-12-1996. Reformada DOF 01-04-2024
-
-### ARTÍCULO 159
-.- La Secretaría integrará órganos de consulta en los que participen entidades y dependencias de la administración pública, instituciones académicas y organizaciones sociales y empresariales. Dichos órganos tendrán funciones de asesoría, evaluación y seguimiento en materia de política ambiental y podrán emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento se sujetará a los acuerdos que para el efecto expida la Secretaría.
+Fracción adicionada DOF 13-12-1996. Reformada DOF 01-04-2024 ARTÍCULO 159.- La Secretaría integrará órganos de consulta en los que participen entidades y dependencias de la administración pública, instituciones académicas y organizaciones sociales y empresariales. Dichos órganos tendrán funciones de asesoría, evaluación y seguimiento en materia de política ambiental y podrán emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento se sujetará a los acuerdos que para el efecto expida la Secretaría.
 Cuando la Secretaría deba resolver un asunto sobre el cual los órganos a que se refiere el párrafo anterior hubiesen emitido una opinión, la misma deberá expresar las causas de aceptación o rechazo de dicha opinión.
 Artículo reformado DOF 13-12-1996
 
 ## CAPÍTULO II
-Derecho a la Información Ambiental Capítulo adicionado DOF 13-12-1996
-
-### ARTÍCULO 159
-BIS.- La Secretaría desarrollará un Sistema Nacional de Información Ambiental y de Recursos Naturales que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental nacional, que estará disponible para su consulta y que se coordinará y complementará con el Sistema de Cuentas Nacionales a cargo del Instituto Nacional de Estadística, Geografía e Informática.
+Derecho a la Información Ambiental Capítulo adicionado DOF 13-12-1996 ARTÍCULO 159 BIS.- La Secretaría desarrollará un Sistema Nacional de Información Ambiental y de Recursos Naturales que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental nacional, que estará disponible para su consulta y que se coordinará y complementará con el Sistema de Cuentas Nacionales a cargo del Instituto Nacional de Estadística, Geografía e Informática.
 En dicho Sistema, la Secretaría deberá integrar, entre otros aspectos, información relativa a los inventarios de recursos naturales existentes en el territorio nacional, a los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo, al ordenamiento ecológico del territorio, así como la información señalada en el artículo 109 BIS y la correspondiente a los registros, programas y acciones que se realicen para la preservación del equilibrio ecológico y la protección al ambiente.
 La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia ambiental y de preservación de recursos naturales, realizados en el país por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Nacional de Información Ambiental y de Recursos Naturales.
 Las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, participarán con la Secretaría en la integración del Sistema Nacional de Información Ambiental y de Recursos Naturales.
-Párrafo adicionado DOF 31-12-2001. Reformado DOF 19-01-2018 Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 159
-BIS 1.- La Secretaría deberá elaborar y publicar bianualmente un informe detallado de la situación general existente en el país en materia de equilibrio ecológico y protección al ambiente.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 159
-BIS 2.- La Secretaría editará una Gaceta en la que se publicarán las disposiciones jurídicas, normas oficiales mexicanas, decretos, reglamentos, acuerdos y demás actos administrativos, así como información de interés general en materia ambiental, que se publiquen por el Gobierno Federal o los gobiernos locales, o documentos internacionales en materia ambiental de interés para México, independientemente de su publicación en el Diario Oficial de la Federación o en otros órganos de difusión. Igualmente en dicha Gaceta se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y el aprovechamiento sustentable de los recursos naturales.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 159
-BIS 3.- Toda persona tendrá derecho a que la Secretaría, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta Ley. En su caso, los gastos que se generen, correrán por cuenta del solicitante.
+Párrafo adicionado DOF 31-12-2001. Reformado DOF 19-01-2018 Artículo adicionado DOF 13-12-1996 ARTÍCULO 159 BIS 1.- La Secretaría deberá elaborar y publicar bianualmente un informe detallado de la situación general existente en el país en materia de equilibrio ecológico y protección al ambiente.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 159 BIS 2.- La Secretaría editará una Gaceta en la que se publicarán las disposiciones jurídicas, normas oficiales mexicanas, decretos, reglamentos, acuerdos y demás actos administrativos, así como información de interés general en materia ambiental, que se publiquen por el Gobierno Federal o los gobiernos locales, o documentos internacionales en materia ambiental de interés para México, independientemente de su publicación en el Diario Oficial de la Federación o en otros órganos de difusión. Igualmente en dicha Gaceta se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y el aprovechamiento sustentable de los recursos naturales.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 159 BIS 3.- Toda persona tendrá derecho a que la Secretaría, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta Ley. En su caso, los gastos que se generen, correrán por cuenta del solicitante.
 Párrafo reformado DOF 19-01-2018 Para los efectos de lo dispuesto en el presente ordenamiento, se considera información ambiental, cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades ambientales en materia de agua, aire, suelo, flora, fauna y recursos naturales en general, así como sobre las actividades o medidas que les afectan o puedan afectarlos.
 Toda petición de información ambiental deberá presentarse por escrito, especificando claramente la información que se solicita y los motivos de la petición. Los solicitantes deberán identificarse indicando su nombre o razón social y domicilio.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 159
-BIS 4.- Las autoridades a que se refiere el artículo anterior, denegarán la entrega de información cuando:
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 159 BIS 4.- Las autoridades a que se refiere el artículo anterior, denegarán la entrega de información cuando:
 I.- Se considere por disposición legal que la información es confidencial o que por su propia naturaleza su difusión afecta la seguridad nacional;
 II.- Se trate de información relativa a asuntos que son materia de procedimientos judiciales o de inspección y vigilancia, pendientes de resolución;
 III.- Se trate de información aportada por terceros cuando los mismos no estén obligados por disposición legal a proporcionarla, o IV.- Se trate de información sobre inventarios e insumos y tecnologías de proceso, incluyendo la descripción del mismo.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 159
-BIS 5.- La autoridad ambiental deberá responder por escrito a los solicitantes de información ambiental en un plazo no mayor a veinte días a partir de la recepción de la petición respectiva. En caso de que la autoridad conteste negativamente la solicitud, deberá señalar las razones que motivaron su determinación.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 159 BIS 5.- La autoridad ambiental deberá responder por escrito a los solicitantes de información ambiental en un plazo no mayor a veinte días a partir de la recepción de la petición respectiva. En caso de que la autoridad conteste negativamente la solicitud, deberá señalar las razones que motivaron su determinación.
 Si transcurrido el plazo establecido en el párrafo anterior la autoridad ambiental no emite su respuesta por escrito, la petición se entenderá resuelta en sentido negativo para el promovente.
 La autoridad ambiental, dentro de los diez días siguientes a la solicitud de información, deberá notificar al generador o propietario de la misma de la recepción de la solicitud.
 Los afectados por actos de la Secretaría regulados en este Capítulo, podrán ser impugnados mediante la interposición del recurso de revisión, de conformidad con lo dispuesto en esta Ley y en la Ley Federal de Procedimiento Administrativo.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 159
-BIS 6.- Quien reciba información ambiental de las autoridades competentes, en los términos del presente Capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 159 BIS 6.- Quien reciba información ambiental de las autoridades competentes, en los términos del presente Capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 Artículo adicionado DOF 13-12-1996
 
 ## TÍTULO SEXTO
 Medidas de Control y de Seguridad y Sanciones
 
 ## CAPÍTULO I — Disposiciones Generales
-Denominación del Capítulo reformada DOF 13-12-1996
-
-### ARTÍCULO 160
-.- Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas y de comisión de delitos y sus sanciones, y procedimientos y recursos administrativos, cuando se trate de asuntos de competencia federal regulados por esta Ley, salvo que otras leyes regulen en forma específica dichas cuestiones, en relación con las materias de que trata este propio ordenamiento.
+Denominación del Capítulo reformada DOF 13-12-1996 ARTÍCULO 160.- Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas y de comisión de delitos y sus sanciones, y procedimientos y recursos administrativos, cuando se trate de asuntos de competencia federal regulados por esta Ley, salvo que otras leyes regulen en forma específica dichas cuestiones, en relación con las materias de que trata este propio ordenamiento.
 En las materias anteriormente señaladas, se aplicarán supletoriamente las disposiciones de las Leyes Federales de Procedimiento Administrativo y sobre Metrología y Normalización.
 Párrafo reformado DOF 13-12-1996 Tratándose de materias referidas en esta Ley que se encuentran reguladas por leyes especiales, el presente ordenamiento será de aplicación supletoria por lo que se refiere a los procedimientos de inspección y vigilancia.
-Párrafo adicionado DOF 13-12-1996 CAPITULO II Inspección y Vigilancia
-
-### ARTÍCULO 161
-.- La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven. Para tal efecto, la Secretaría podrá solicitar la intervención de la Guardia Nacional, previa suscripción de los convenios o acuerdos de colaboración que correspondan.
+Párrafo adicionado DOF 13-12-1996 CAPITULO II Inspección y Vigilancia ARTÍCULO 161.- La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven. Para tal efecto, la Secretaría podrá solicitar la intervención de la Guardia Nacional, previa suscripción de los convenios o acuerdos de colaboración que correspondan.
 Párrafo reformado DOF 17-12-2025 En las zonas marinas mexicanas la Secretaría, por sí o por conducto de la Secretaría de Marina, realizará los actos de inspección, vigilancia y, en su caso, de imposición de sanciones por violaciones a las disposiciones de esta Ley.
-Párrafo adicionado DOF 31-12-2001 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 162
-.- Las autoridades competentes podrán realizar, por conducto de personal debidamente autorizado, visitas de inspección, sin perjuicio de otras medidas previstas en las leyes que puedan llevar a cabo para verificar el cumplimiento de este ordenamiento.
+Párrafo adicionado DOF 31-12-2001 Artículo reformado DOF 13-12-1996 ARTÍCULO 162.- Las autoridades competentes podrán realizar, por conducto de personal debidamente autorizado, visitas de inspección, sin perjuicio de otras medidas previstas en las leyes que puedan llevar a cabo para verificar el cumplimiento de este ordenamiento.
 Dicho personal, al realizar las visitas de inspección, deberá contar con el documento oficial que los acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por autoridad competente, en la que se precisará el lugar o zona que habrá de inspeccionarse y el objeto de la diligencia.
-Párrafo reformado DOF 13-12-1996, 31-12-2001
-
-### ARTÍCULO 163
-. El personal autorizado, al iniciar la inspección, se identificará debidamente con la persona con quien se entienda la diligencia, exhibiéndole, para tal efecto credencial vigente con fotografía, expedida por autoridad competente que lo acredite para realizar visitas de inspección en la materia, y le mostrará la orden respectiva, entregándole copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
+Párrafo reformado DOF 13-12-1996, 31-12-2001 ARTÍCULO 163. El personal autorizado, al iniciar la inspección, se identificará debidamente con la persona con quien se entienda la diligencia, exhibiéndole, para tal efecto credencial vigente con fotografía, expedida por autoridad competente que lo acredite para realizar visitas de inspección en la materia, y le mostrará la orden respectiva, entregándole copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
 Párrafo reformado DOF 13-12-1996, 31-12-2001 En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
 En los casos en que no fuera posible encontrar en el lugar de la visita persona que pudiera ser designada como testigo, el personal actuante deberá asentar esta circunstancia en el acta administrativa que al efecto se levante, sin que ello afecte la validez de la misma.
-Párrafo adicionado DOF 31-12-2001
-
-### ARTÍCULO 164
-.- En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como lo previsto en el artículo 67 de la Ley Federal de Procedimiento Administrativo.
+Párrafo adicionado DOF 31-12-2001 ARTÍCULO 164.- En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como lo previsto en el artículo 67 de la Ley Federal de Procedimiento Administrativo.
 Párrafo reformado DOF 13-12-1996 Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentados en el acta respectiva, y para que ofrezca las pruebas que considere convenientes o haga uso de ese derecho en el término de cinco días siguientes a la fecha en que la diligencia se hubiere practicado.
 Párrafo reformado DOF 13-12-1996 A continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al interesado.
 Si la persona con quien se entendió la diligencia o los testigos, se negaren a firmar el acta, o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatorio.
-
-### ARTÍCULO 165
-.- La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el artículo 162 de esta Ley, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a la Ley. La información deberá mantenerse por la autoridad en absoluta reserva, si así lo solicita el interesado, salvo en caso de requerimiento judicial.
-
-### ARTÍCULO 166
-.- La autoridad competente podrá solicitar el auxilio de la fuerza pública o, en su caso, la intervención de la Guardia Nacional, para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
-Artículo reformado DOF 17-12-2025
-
-### ARTÍCULO 167
-. Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado, cuando proceda, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación que, en su caso, resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundando y motivando el requerimiento. Asimismo, deberá señalarse al interesado que cuenta con un término de quince días para que exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes en relación con la actuación de la Secretaría.
+ARTÍCULO 165.- La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el artículo 162 de esta Ley, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a la Ley. La información deberá mantenerse por la autoridad en absoluta reserva, si así lo solicita el interesado, salvo en caso de requerimiento judicial.
+ARTÍCULO 166.- La autoridad competente podrá solicitar el auxilio de la fuerza pública o, en su caso, la intervención de la Guardia Nacional, para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+Artículo reformado DOF 17-12-2025 ARTÍCULO 167. Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado, cuando proceda, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación que, en su caso, resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundando y motivando el requerimiento. Asimismo, deberá señalarse al interesado que cuenta con un término de quince días para que exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes en relación con la actuación de la Secretaría.
 Párrafo reformado DOF 31-12-2001 Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo tres días hábiles, presente por escrito sus alegatos.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 167
-Bis.- Las notificaciones de los actos administrativos dictados con motivo de la aplicación de esta Ley, se realizarán:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 167 Bis.- Las notificaciones de los actos administrativos dictados con motivo de la aplicación de esta Ley, se realizarán:
 
 I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos y resoluciones administrativas definitivas, sin perjuicio de que la notificación de estos actos pueda efectuarse en las oficinas de las Unidades Administrativas competentes de la Secretaría, si las personas a quienes deba notificarse se presentan en las mismas. En este último caso, se asentará la razón correspondiente;
 
@@ -1911,40 +1250,22 @@ Si los interesados, sus representantes legales o las personas autorizadas por el
 De toda notificación por rotulón se agregará, al expediente, un tanto de aquel, asentándose la razón correspondiente, y
 
 IV. Por instructivo, solamente en el caso señalado en el tercer párrafo del artículo 167 Bis 1 de la presente Ley.
-Artículo adicionado DOF 07-12-2005
-
-### ARTÍCULO 167
-Bis 1.- Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado en la población donde se encuentre la sede de las Unidades Administrativas de la Secretaría, o bien, personalmente en el recinto oficial de éstas, cuando comparezcan voluntariamente a recibirlas en los dos primeros casos, el notificador deberá cerciorarse que se trata del domicilio del interesado o del designado para esos efectos y deberá entregar el original del acto que se notifique y copia de la constancia de notificación respectiva, así como señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
+Artículo adicionado DOF 07-12-2005 ARTÍCULO 167 Bis 1.- Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado en la población donde se encuentre la sede de las Unidades Administrativas de la Secretaría, o bien, personalmente en el recinto oficial de éstas, cuando comparezcan voluntariamente a recibirlas en los dos primeros casos, el notificador deberá cerciorarse que se trata del domicilio del interesado o del designado para esos efectos y deberá entregar el original del acto que se notifique y copia de la constancia de notificación respectiva, así como señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
 Las notificaciones personales, se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará en un lugar visible del mismo, o con el vecino más inmediato.
 Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en su caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio, o con el vecino más cercano, lo que se hará constar en el acta de notificación, sin que ello afecte su validez.
 De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
-Artículo adicionado DOF 07-12-2005
-
-### ARTÍCULO 167
-Bis 2.- Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de los actos por notificar. Dichas publicaciones deberán efectuarse por dos días consecutivos en el Diario Oficial de la Federación o en la Gaceta o Periódico Oficial de la Entidad Federativa en la que tenga su sede la Unidad Administrativa que conozca del asunto y en uno de los periódicos diarios de mayor circulación en la Entidad Federativa correspondiente.
-Artículo adicionado DOF 07-12-2005
-
-### ARTÍCULO 167
-Bis 3.- Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día hábil siguiente a aquel en que se haya surtido efectos la notificación.
+Artículo adicionado DOF 07-12-2005 ARTÍCULO 167 Bis 2.- Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de los actos por notificar. Dichas publicaciones deberán efectuarse por dos días consecutivos en el Diario Oficial de la Federación o en la Gaceta o Periódico Oficial de la Entidad Federativa en la que tenga su sede la Unidad Administrativa que conozca del asunto y en uno de los periódicos diarios de mayor circulación en la Entidad Federativa correspondiente.
+Artículo adicionado DOF 07-12-2005 ARTÍCULO 167 Bis 3.- Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día hábil siguiente a aquel en que se haya surtido efectos la notificación.
 Se tendrá como fecha de notificación por correo certificado la que conste en el acuse de recibo.
 En las notificaciones por edictos se tendrá como fecha de notificación la de la última publicación en el Diario Oficial de la Federación o en la Gaceta o Periódico Oficial de la Entidad Federativa en la que se tenga su sede la Unidad Administrativa de la Secretaría que ordenó la publicación y en un de los periódicos diarios de mayor circulación en la Entidad Federativa correspondiente.
 Las notificaciones por rotulón surtirán sus efectos al día hábil siguiente al de la fijación del mismo.
-Artículo adicionado DOF 07-12-2005
-
-### ARTÍCULO 167
-Bis 4.- Toda notificación deberá efectuarse en un plazo máximo de quince días hábiles, contados a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que contra la misma proceda, órgano ante el cual hubiera de presentarse y plazo para su interposición.
-Artículo adicionado DOF 07-12-2005
-
-### ARTÍCULO 168
-.- Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
+Artículo adicionado DOF 07-12-2005 ARTÍCULO 167 Bis 4.- Toda notificación deberá efectuarse en un plazo máximo de quince días hábiles, contados a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que contra la misma proceda, órgano ante el cual hubiera de presentarse y plazo para su interposición.
+Artículo adicionado DOF 07-12-2005 ARTÍCULO 168.- Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 Durante el procedimiento, y antes de que se dicte resolución administrativa, el interesado y la Procuraduría Federal de Protección al Ambiente, a petición del primero, podrán convenir la realización de acciones para la reparación y compensación de los daños que se hayan ocasionado al ambiente.
 Párrafo adicionado DOF 31-12-2001. Reformado DOF 07-06-2013 En los convenios administrativos referidos en el párrafo anterior, podrán intervenir quienes sean parte en el procedimiento judicial previsto en la Ley Federal de Responsabilidad Ambiental, siempre que se trate de la misma infracción, hechos y daños.
 Párrafo adicionado DOF 07-06-2013 En la formulación y ejecución de los convenios se observará lo dispuesto por el artículo 169 de esta Ley, así como lo previsto por la Ley Federal de Responsabilidad Ambiental, en ellos podrá también acordarse la realización del examen metodológico de las operaciones del interesado a las que hace referencia el artículo 38 Bis, así como la atenuación y conmutación de las multas que resulten procedentes. En todo caso, deberá garantizarse el cumplimiento de las obligaciones del infractor, en cualquiera de las formas previstas en el Código Fiscal de la Federación.
 Párrafo adicionado DOF 07-06-2013 La celebración del convenio suspenderá el procedimiento administrativo y el término para la caducidad, a partir de la presentación de la solicitud a la autoridad, y hasta por un plazo de cuarenta y cinco días hábiles.
-Párrafo adicionado DOF 07-06-2013 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 169
-.- La resolución del procedimiento administrativo contendrá:
+Párrafo adicionado DOF 07-06-2013 Artículo reformado DOF 13-12-1996 ARTÍCULO 169.- La resolución del procedimiento administrativo contendrá:
 
 I. Las sanciones a que se haya hecho acreedor el responsable;
 
@@ -1957,21 +1278,12 @@ El infractor deberá informar a la autoridad ordenadora, por escrito, en forma d
 La procuraduría podrá realizar inspecciones para verificar el cumplimiento de las obligaciones del infractor. Cuando del acta que se levante al efecto, se desprenda su incumplimiento, podrá imponerse además de las sanciones previstas en el artículo 171 de esta Ley, una multa adicional que no exceda el monto previsto en dicho precepto.
 En los casos en que el infractor realice las medidas correctivas o de urgente aplicación, subsane las irregularidades detectadas, o cumpla con las obligaciones derivadas del convenio previsto en el artículo 168, en los plazos ordenados o acordados por la Procuraduría Federal de Protección al Ambiente, siempre y cuando el infractor no sea reincidente, ésta podrá revocar o modificar la sanción o sanciones impuestas.
 En los casos en que proceda, la autoridad federal hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
-Artículo reformado DOF 13-12-1996, 07-06-2013 CAPITULO III Medidas de Seguridad
-
-### ARTÍCULO 170
-.- Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, la Secretaría, fundada y motivadamente, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
+Artículo reformado DOF 13-12-1996, 07-06-2013 CAPITULO III Medidas de Seguridad ARTÍCULO 170.- Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, la Secretaría, fundada y motivadamente, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
 I.- La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen especímenes, productos o subproductos de especies de flora o de fauna silvestre, recursos forestales, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de este artículo;
 II.- El aseguramiento precautorio de materiales y residuos peligrosos, así como de especímenes, productos o subproductos de especies de flora o de fauna silvestre o su material genético, recursos forestales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad, o III.- La neutralización o cualquier acción análoga que impida que materiales o residuos peligrosos generen los efectos previstos en el primer párrafo de este artículo.
 Asimismo, la Secretaría podrá promover ante la autoridad competente, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 170
-BIS.- Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
-Artículo adicionado DOF 13-12-1996 CAPITULO IV Sanciones Administrativas
-
-### ARTÍCULO 171
-.- Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría, con una o más de las siguientes sanciones:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 170 BIS.- Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
+Artículo adicionado DOF 13-12-1996 CAPITULO IV Sanciones Administrativas ARTÍCULO 171.- Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría, con una o más de las siguientes sanciones:
 Párrafo reformado DOF 13-12-1996
 
 I. Multa por el equivalente de treinta a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción;
@@ -1989,13 +1301,8 @@ IV.- El decomiso de los instrumentos, ejemplares, productos o subproductos direc
 Fracción adicionada DOF 13-12-1996 Si una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido, conforme a la fracción I de este artículo.
 En el caso de reincidencia, el monto de la multa podrá ser hasta por tres veces del monto originalmente impuesto, así como la clausura definitiva.
 Párrafo reformado DOF 01-06-2012 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
-Párrafo adicionado DOF 13-12-1996
-
-### ARTÍCULO 172
-.- Cuando la gravedad de la infracción lo amerite, la autoridad, solicitará a quien los hubiere otorgado, la suspensión, revocación o cancelación de la concesión, permiso, licencia y en general de toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios, o para el aprovechamiento de recursos naturales que haya dado lugar a la infracción.
-
-### ARTÍCULO 173
-.- Para la imposición de las sanciones por infracciones a esta Ley, se tomará en cuenta:
+Párrafo adicionado DOF 13-12-1996 ARTÍCULO 172.- Cuando la gravedad de la infracción lo amerite, la autoridad, solicitará a quien los hubiere otorgado, la suspensión, revocación o cancelación de la concesión, permiso, licencia y en general de toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios, o para el aprovechamiento de recursos naturales que haya dado lugar a la infracción.
+ARTÍCULO 173.- Para la imposición de las sanciones por infracciones a esta Ley, se tomará en cuenta:
 
 I. La gravedad de la infracción, considerando principalmente los siguientes criterios: los daños que se hubieran producido o puedan producirse en la salud pública; la generación de desequilibrios ecológicos; la afectación de recursos naturales o de la biodiversidad y, en su caso, los niveles en que se hubieran rebasado los límites establecidos en la norma oficial mexicana aplicable;
 Fracción reformada DOF 13-12-1996, 31-12-2001
@@ -2004,56 +1311,32 @@ II. Las condiciones económicas del infractor, y III.- La reincidencia, si la hu
 Fracción reformada DOF 13-12-1996 IV.- El carácter intencional o negligente de la acción u omisión constitutiva de la infracción, y Fracción adicionada DOF 13-12-1996 V.- El beneficio directamente obtenido por el infractor por los actos que motiven la sanción.
 Fracción adicionada DOF 13-12-1996 En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Secretaría imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 Párrafo adicionado DOF 13-12-1996 La autoridad correspondiente, por sí o a solicitud del infractor, podrá otorgar a éste, la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previstos en el artículo 170 de esta Ley, y la autoridad justifique plenamente su decisión.
-Párrafo adicionado DOF 13-12-1996. Reformado DOF 31-12-2001
-
-### ARTÍCULO 174
-.- Cuando proceda como sanción el decomiso o la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones aplicables a la realización de inspecciones.
+Párrafo adicionado DOF 13-12-1996. Reformado DOF 31-12-2001 ARTÍCULO 174.- Cuando proceda como sanción el decomiso o la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones aplicables a la realización de inspecciones.
 En los casos en que se imponga como sanción la clausura temporal, la Secretaría deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 174
-BIS.- La Secretaría dará a los bienes decomisados alguno de los siguientes destinos:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 174 BIS.- La Secretaría dará a los bienes decomisados alguno de los siguientes destinos:
 
 I. Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de 5,000 mil veces el salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la autoridad podrá proceder a su venta directa;
 Fracción reformada DOF 31-12-2001 II.- Remate en subasta pública cuando el valor de lo decomisado exceda de 5,000 veces el salario diario mínimo general vigente en el Distrito Federal al momento de imponer la sanción;
 III.- Donación a organismos públicos e instituciones científicas o de enseñanza superior o de beneficencia pública, según la naturaleza del bien decomisado y de acuerdo a las funciones y actividades que realice el donatario, siempre y cuando no sean lucrativas. Tratándose de especies y subespecies de flora y fauna silvestre, éstas podrán ser donadas a zoológicos públicos siempre que se garantice la existencia de condiciones adecuadas para su desarrollo, o IV.- Destrucción cuando se trate de productos o subproductos, de flora y fauna silvestre, de productos forestales plagados o que tengan alguna enfermedad que impida su aprovechamiento, así como artes de pesca y caza prohibidos por las disposiciones jurídicas aplicables.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 174
-BIS 1.- Para efectos de lo previsto en las fracciones I y II del artículo anterior, únicamente serán procedentes dichos supuestos, cuando los bienes decomisados sean susceptibles de apropiación conforme a las disposiciones jurídicas aplicables.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 174 BIS 1.- Para efectos de lo previsto en las fracciones I y II del artículo anterior, únicamente serán procedentes dichos supuestos, cuando los bienes decomisados sean susceptibles de apropiación conforme a las disposiciones jurídicas aplicables.
 En la determinación del valor de los bienes sujetos a remate o venta, la Secretaría considerará el precio que respecto de dichos bienes corra en el mercado, al momento de realizarse la operación.
 En ningún caso, los responsables de la infracción que hubiera dado lugar al decomiso podrán participar ni beneficiarse de los actos señalados en el artículo 174 BIS de esta Ley, mediante los cuales se lleve a cabo la enajenación de los bienes decomisados.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 175
-.- La Secretaría podrá promover ante las autoridades federales o locales competentes, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales, o causar desequilibrio ecológico o pérdida de la biodiversidad.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 175
-BIS.- Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán a la integración de fondos para desarrollar programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta Ley.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 175.- La Secretaría podrá promover ante las autoridades federales o locales competentes, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales, o causar desequilibrio ecológico o pérdida de la biodiversidad.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 175 BIS.- Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán a la integración de fondos para desarrollar programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta Ley.
 Artículo adicionado DOF 13-12-1996
 
 ## CAPÍTULO V
-Recurso de Revisión Denominación del Capítulo reformada DOF 13-12-1996
-
-### ARTÍCULO 176
-.- Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los afectados, mediante el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, o ante las instancias jurisdiccionales competentes.
+Recurso de Revisión Denominación del Capítulo reformada DOF 13-12-1996 ARTÍCULO 176.- Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los afectados, mediante el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, o ante las instancias jurisdiccionales competentes.
 El recurso de revisión se interpondrá directamente ante la autoridad que emitió la resolución impugnada, quien en su caso, acordará su admisión, y el otorgamiento o denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico para su resolución definitiva.
 La resolución del procedimiento administrativo y la que recaiga al recurso administrativo de revisión, podrán controvertirse en vía de juicio ante los juzgados de distrito en materia administrativa. Cuando se impugne la resolución del recurso administrativo, se entenderá que simultáneamente se impugna la resolución administrativa recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso.
-Párrafo adicionado DOF 07-06-2013 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 177
-.- Cuando con la interposición del recurso de revisión, el promovente solicite la suspensión del decomiso, la autoridad podrá ordenar la devolución de los bienes respectivos al interesado, siempre y cuando:
+Párrafo adicionado DOF 07-06-2013 Artículo reformado DOF 13-12-1996 ARTÍCULO 177.- Cuando con la interposición del recurso de revisión, el promovente solicite la suspensión del decomiso, la autoridad podrá ordenar la devolución de los bienes respectivos al interesado, siempre y cuando:
 
 I. Sea procedente el recurso, y
 
 II. Se exhiba garantía por el monto del valor de lo decomisado, el cual será determinado por la Secretaría, de acuerdo con el precio que corra en el mercado, al momento en que deba otorgarse dicha garantía.
 En el supuesto en que no se cumplan los requisitos anteriores, la Secretaría determinará el destino final de los productos perecederos y de las especies de flora y fauna silvestre vivas, de conformidad con lo dispuesto en esta Ley y las demás que resulten aplicables.
 Por lo que se refiere a los bienes distintos a los señalados en el párrafo anterior, éstos se mantendrán en depósito y no podrá disponerse de ellos hasta en tanto cause estado la resolución correspondiente.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 178
-.- No procederá la suspensión del decomiso, en los siguientes casos:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 178.- No procederá la suspensión del decomiso, en los siguientes casos:
 
 I. Cuando se trate de especies de flora y fauna silvestre que carezcan de la concesión, permiso o autorización correspondiente;
 
@@ -2066,109 +1349,46 @@ IV. Cuando se trate de especies de flora y fauna silvestre decomisadas a extranj
 V. Cuando se trate de productos o subproductos de flora y fauna silvestre, armas de caza, artes de pesca y demás objetos o utensilios prohibidos por la normatividad aplicable, y
 
 VI. Cuando se trate de materias primas forestales maderables y no maderables, provenientes de aprovechamientos para los cuales no exista autorización.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 179
-.- Por lo que se refiere a los demás trámites relativos a la sustanciación del recurso de revisión a que se refiere el artículo 176 del presente ordenamiento, se estará a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 180
-.- Tratándose de obras o actividades que contravengan las disposiciones de esta Ley y de aquéllas a las cuales se aplica de manera supletoria, así como de los reglamentos y normas oficiales mexicanas derivadas de las mismas, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas o los reglamentos y normas oficiales mexicanas derivadas de la misma, las personas físicas y morales que tengan interés legítimo tendrán derecho a impugnar los actos administrativos correspondientes, así como a exigir que se lleven a cabo las acciones necesarias para que sean observadas las disposiciones jurídicas aplicables, siempre que demuestren en el procedimiento que dichas obras o actividades originan o pueden originar un daño al medio ambiente, los recursos naturales, la vida silvestre o la salud pública.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 179.- Por lo que se refiere a los demás trámites relativos a la sustanciación del recurso de revisión a que se refiere el artículo 176 del presente ordenamiento, se estará a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 180.- Tratándose de obras o actividades que contravengan las disposiciones de esta Ley y de aquéllas a las cuales se aplica de manera supletoria, así como de los reglamentos y normas oficiales mexicanas derivadas de las mismas, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas o los reglamentos y normas oficiales mexicanas derivadas de la misma, las personas físicas y morales que tengan interés legítimo tendrán derecho a impugnar los actos administrativos correspondientes, así como a exigir que se lleven a cabo las acciones necesarias para que sean observadas las disposiciones jurídicas aplicables, siempre que demuestren en el procedimiento que dichas obras o actividades originan o pueden originar un daño al medio ambiente, los recursos naturales, la vida silvestre o la salud pública.
 Para tal efecto, de manera optativa podrán interponer el recurso administrativo de revisión a que se refiere este Capítulo, o acudir al Tribunal Federal de Justicia Fiscal y Administrativa.
 Para los efectos del presente artículo, tendrán interés legítimo las personas físicas o morales de las comunidades posiblemente afectadas por dichas obras o actividades.
-Artículo reformado DOF 13-12-1996, 28-01-2011
-
-### ARTÍCULO 181
-.- En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación en la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el artículo anterior.
-Artículo reformado DOF 13-12-1996 CAPITULO VI De los Delitos del Orden Federal
-
-### ARTÍCULO 182
-.- En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable, formulará ante el Ministerio Público Federal la denuncia correspondiente.
+Artículo reformado DOF 13-12-1996, 28-01-2011 ARTÍCULO 181.- En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación en la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el artículo anterior.
+Artículo reformado DOF 13-12-1996 CAPITULO VI De los Delitos del Orden Federal ARTÍCULO 182.- En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable, formulará ante el Ministerio Público Federal la denuncia correspondiente.
 Toda persona podrá presentar directamente las denuncias penales que correspondan a los delitos ambientales previstos en la legislación aplicable.
 La Secretaría proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
 Procedimientos Penales. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido directo del ilícito, por sí mismo o a través de su representante legal.
-Párrafo adicionado DOF 31-12-2001 Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 183
-.- (Se deroga).
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 184
-.- (Se deroga).
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 185
-.- (Se deroga).
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 186
-.- (Se deroga).
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 187
-.- (Se deroga).
-Artículo derogado DOF 13-12-1996
-
-### ARTÍCULO 188
-.- Las leyes de las entidades federativas establecerán las sanciones penales y administrativas por violaciones en materia ambiental del orden local.
-Artículo reformado DOF 13-12-1996 CAPITULO VII Denuncia Popular
-
-### ARTÍCULO 189
-.- Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría Federal de Protección al Ambiente o ante otras autoridades todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
+Párrafo adicionado DOF 31-12-2001 Artículo reformado DOF 13-12-1996 ARTÍCULO 183.- (Se deroga).
+Artículo derogado DOF 13-12-1996 ARTÍCULO 184.- (Se deroga).
+Artículo derogado DOF 13-12-1996 ARTÍCULO 185.- (Se deroga).
+Artículo derogado DOF 13-12-1996 ARTÍCULO 186.- (Se deroga).
+Artículo derogado DOF 13-12-1996 ARTÍCULO 187.- (Se deroga).
+Artículo derogado DOF 13-12-1996 ARTÍCULO 188.- Las leyes de las entidades federativas establecerán las sanciones penales y administrativas por violaciones en materia ambiental del orden local.
+Artículo reformado DOF 13-12-1996 CAPITULO VII Denuncia Popular ARTÍCULO 189.- Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría Federal de Protección al Ambiente o ante otras autoridades todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
 Si en la localidad no existiere representación de la Procuraduría Federal de Protección al Ambiente, la denuncia se podrá formular ante la autoridad municipal o, a elección del denunciante, ante las oficinas más próximas de dicha representación.
 Si la denuncia fuera presentada ante la autoridad municipal y resulta del orden federal, deberá ser remitida para su atención y trámite a la Procuraduría Federal de Protección al Ambiente.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 190
-.- La denuncia popular podrá ejercitarse por cualquier persona, bastando que se presente por escrito y contenga:
+Artículo reformado DOF 13-12-1996 ARTÍCULO 190.- La denuncia popular podrá ejercitarse por cualquier persona, bastando que se presente por escrito y contenga:
 I.- El nombre o razón social, domicilio, teléfono si lo tiene, del denunciante y, en su caso, de su representante legal;
 II.- Los actos, hechos u omisiones denunciados;
 III.- Los datos que permitan identificar al presunto infractor o localizar la fuente contaminante, y IV.- Las pruebas que en su caso ofrezca el denunciante.
 Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Procuraduría Federal de Protección al Ambiente investigue de oficio los hechos constitutivos de la denuncia.
 No se admitirán denuncias notoriamente improcedentes o infundadas, aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
 Si el denunciante solicita a la Procuraduría Federal de Protección al Ambiente guardar secreto respecto de su identidad, por razones de seguridad e interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables le otorgan.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 191
-.- La Procuraduría Federal de Protección al Ambiente, una vez recibida la denuncia, acusará recibo de su recepción, le asignará un número de expediente y la registrará.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 191.- La Procuraduría Federal de Protección al Ambiente, una vez recibida la denuncia, acusará recibo de su recepción, le asignará un número de expediente y la registrará.
 En caso de recibirse dos o más denuncias por los mismos hechos, actos u omisiones, se acordará la acumulación en un solo expediente, debiéndose notificar a los denunciantes el acuerdo respectivo.
 Una vez registrada la denuncia, la Procuraduría Federal de Protección al Ambiente dentro de los 10 días siguientes a su presentación, notificará al denunciante el acuerdo de calificación correspondiente, señalando el trámite que se le ha dado a la misma.
 Si la denuncia presentada fuera competencia de otra autoridad, la Procuraduría Federal de Protección al Ambiente acusará de recibo al denunciante pero no admitirá la instancia y la turnará a la autoridad competente para su trámite y resolución, notificándole de tal hecho al denunciante, mediante acuerdo fundado y motivado.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 192
-.- Una vez admitida la instancia, la Procuraduría Federal de Protección al Ambiente llevará a cabo la identificación del denunciante, y hará del conocimiento la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, a fin de que presenten los documentos y pruebas que a su derecho convenga en un plazo máximo de 15 días hábiles, a partir de la notificación respectiva.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 192.- Una vez admitida la instancia, la Procuraduría Federal de Protección al Ambiente llevará a cabo la identificación del denunciante, y hará del conocimiento la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, a fin de que presenten los documentos y pruebas que a su derecho convenga en un plazo máximo de 15 días hábiles, a partir de la notificación respectiva.
 La Procuraduría Federal de Protección al Ambiente efectuará las diligencias necesarias con el propósito de determinar la existencia de actos, hechos u omisiones constitutivos de la denuncia.
 Asimismo, en los casos previstos en esta Ley, podrá iniciar los procedimientos de inspección y vigilancia que fueran procedentes, en cuyo caso se observarán las disposiciones respectivas del presente Título.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 193
-.- El denunciante podrá coadyuvar con la Procuraduría Federal de Protección al Ambiente, aportándole las pruebas, documentación e información que estime pertinentes. Dicha dependencia deberá manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 194
-.- La Procuraduría Federal de Protección al Ambiente podrá solicitar a las instituciones académicas, centros de investigación y organismos del sector público, social y privado, la elaboración de estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias que le sean presentadas.
-Artículo reformado DOF 13-12-1996
-
-### ARTÍCULO 195
-.- Si del resultado de la investigación realizada por la Procuraduría Federal de Protección al Ambiente, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante éstas la ejecución de las acciones procedentes.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 193.- El denunciante podrá coadyuvar con la Procuraduría Federal de Protección al Ambiente, aportándole las pruebas, documentación e información que estime pertinentes. Dicha dependencia deberá manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 194.- La Procuraduría Federal de Protección al Ambiente podrá solicitar a las instituciones académicas, centros de investigación y organismos del sector público, social y privado, la elaboración de estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias que le sean presentadas.
+Artículo reformado DOF 13-12-1996 ARTÍCULO 195.- Si del resultado de la investigación realizada por la Procuraduría Federal de Protección al Ambiente, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante éstas la ejecución de las acciones procedentes.
 Las recomendaciones que emita la Procuraduría Federal de Protección al Ambiente serán públicas, autónomas y no vinculatorias.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 196
-.- Cuando una denuncia popular no implique violaciones a la normatividad ambiental, ni afecte cuestiones de orden público e interés social, la Procuraduría Federal de Protección al Ambiente podrá sujetar la misma a un procedimiento de conciliación. En todo caso, se deberá escuchar a las partes involucradas.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 197
-.- En caso de que no se comprueben que los actos, hechos u omisiones denunciados producen o pueden producir desequilibrio ecológico o daños al ambiente o a los recursos naturales o contravengan las disposiciones de la presente Ley, la Procuraduría Federal de Protección al Ambiente lo hará del conocimiento del denunciante, a efecto de que éste emita las observaciones que juzgue convenientes.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 198
-.- La formulación de la denuncia popular, así como los acuerdos, resoluciones y recomendaciones que emita la Procuraduría Federal de Protección al Ambiente, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados conforme a las disposiciones jurídicas aplicables, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la instancia.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 199
-.- Los expedientes de denuncia popular que hubieren sido abiertos, podrán ser concluidos por las siguientes causas:
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 196.- Cuando una denuncia popular no implique violaciones a la normatividad ambiental, ni afecte cuestiones de orden público e interés social, la Procuraduría Federal de Protección al Ambiente podrá sujetar la misma a un procedimiento de conciliación. En todo caso, se deberá escuchar a las partes involucradas.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 197.- En caso de que no se comprueben que los actos, hechos u omisiones denunciados producen o pueden producir desequilibrio ecológico o daños al ambiente o a los recursos naturales o contravengan las disposiciones de la presente Ley, la Procuraduría Federal de Protección al Ambiente lo hará del conocimiento del denunciante, a efecto de que éste emita las observaciones que juzgue convenientes.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 198.- La formulación de la denuncia popular, así como los acuerdos, resoluciones y recomendaciones que emita la Procuraduría Federal de Protección al Ambiente, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados conforme a las disposiciones jurídicas aplicables, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la instancia.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 199.- Los expedientes de denuncia popular que hubieren sido abiertos, podrán ser concluidos por las siguientes causas:
 I.- Por incompetencia de la Procuraduría Federal de Protección al Ambiente para conocer de la denuncia popular planteada;
 II.- Por haberse dictado la recomendación correspondiente;
 III.- Cuando no existan contravenciones a la normatividad ambiental;
@@ -2176,33 +1396,15 @@ IV.- Por falta de interés del denunciante en los términos de este Capítulo;
 V.- Por haberse dictado anteriormente un acuerdo de acumulación de expedientes;
 VI.- Por haberse solucionado la denuncia popular mediante conciliación entre las partes;
 VII.- Por la emisión de una resolución derivada del procedimiento de inspección, o VIII.- Por desistimiento del denunciante.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 200
-.- Las leyes de las entidades federativas establecerán el procedimiento para la atención de la denuncia popular cuando se trate de actos, hechos u omisiones que produzcan o puedan producir desequilibrios ecológicos o daños al ambiente, por violaciones a la legislación local ambiental.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 201
-.- Las autoridades y servidores públicos involucrados en asuntos de la competencia de la Procuraduría Federal de Protección al Ambiente, o que por razón de sus funciones o actividades puedan proporcionar información pertinente, deberán cumplir en sus términos con las peticiones que dicha dependencia les formule en tal sentido.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 200.- Las leyes de las entidades federativas establecerán el procedimiento para la atención de la denuncia popular cuando se trate de actos, hechos u omisiones que produzcan o puedan producir desequilibrios ecológicos o daños al ambiente, por violaciones a la legislación local ambiental.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 201.- Las autoridades y servidores públicos involucrados en asuntos de la competencia de la Procuraduría Federal de Protección al Ambiente, o que por razón de sus funciones o actividades puedan proporcionar información pertinente, deberán cumplir en sus términos con las peticiones que dicha dependencia les formule en tal sentido.
 Las autoridades y servidores públicos a los que se les solicite información o documentación que se estime con carácter reservado, conforme a lo dispuesto en la legislación aplicable, lo comunicarán a la Procuraduría Federal de Protección al Ambiente. En este supuesto, dicha dependencia deberá manejar la información proporcionada bajo la más estricta confidencialidad.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 202
-. La procuraduría Federal de Protección al Ambiente, en el ámbito de sus atribuciones, está facultada para iniciar las acciones que procedan, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
-Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad, la Procuraduría Federal de Protección al Ambiente, así como cualquier legitimado a que se refiere el
-
-### artículo 862
-del Código Nacional de Procedimientos Civiles y Familiares, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en dicho ordenamiento.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 202. La procuraduría Federal de Protección al Ambiente, en el ámbito de sus atribuciones, está facultada para iniciar las acciones que procedan, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad, la Procuraduría Federal de Protección al Ambiente, así como cualquier legitimado a que se refiere el artículo 862 del Código Nacional de Procedimientos Civiles y Familiares, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en dicho ordenamiento.
 Párrafo reformado DOF 14-11-2025 Lo anterior también será aplicable respecto de aquellos actos, hechos u omisiones que violenten la legislación ambiental de las entidades federativas.
-Artículo adicionado DOF 13-12-1996. Reformado DOF 05-07-2007, 30-08-2011
-
-### ARTÍCULO 203
-.- Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona que contamine o deteriore el ambiente o afecte los recursos naturales o la biodiversidad, será responsable y estará obligada a reparar los daños causados, de conformidad con la legislación civil aplicable.
+Artículo adicionado DOF 13-12-1996. Reformado DOF 05-07-2007, 30-08-2011 ARTÍCULO 203.- Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona que contamine o deteriore el ambiente o afecte los recursos naturales o la biodiversidad, será responsable y estará obligada a reparar los daños causados, de conformidad con la legislación civil aplicable.
 El término para demandar la responsabilidad ambiental, será de cinco años contados a partir del momento en que se produzca el acto, hecho u omisión correspondiente.
-Artículo adicionado DOF 13-12-1996
-
-### ARTÍCULO 204
-.- Cuando por infracción a las disposiciones de esta Ley se hubieren ocasionado daños o perjuicios, los interesados podrán solicitar a la Secretaría, la formulación de un dictamen técnico al respecto, el cual tendrá valor de prueba, en caso de ser presentado en juicio.
+Artículo adicionado DOF 13-12-1996 ARTÍCULO 204.- Cuando por infracción a las disposiciones de esta Ley se hubieren ocasionado daños o perjuicios, los interesados podrán solicitar a la Secretaría, la formulación de un dictamen técnico al respecto, el cual tendrá valor de prueba, en caso de ser presentado en juicio.
 Artículo adicionado DOF 13-12-1996 ARTICULOS TRANSITORIOS PRIMERO.- Esta Ley entrará en vigor el día primero de marzo de mil novecientos ochenta y ocho.
 SEGUNDO.- Se abroga la Ley Federal de Protección al Ambiente, de treinta de diciembre de mil novecientos ochenta y uno, publicada en el Diario Oficial de la Federación el once de enero de mil novecientos ochenta y dos, y se derogan las demás disposiciones legales en lo que se opongan a las de la presente Ley.
 Hasta en tanto las legislaturas locales dicten las leyes, y los ayuntamientos las ordenanzas, reglamentos y bandos de policía y buen gobierno, para regular las materias que según las disposiciones de este ordenamiento son de competencia de estados y municipios, corresponderá a la Federación aplicar esta Ley en el ámbito local, coordinándose para ello con las autoridades estatales y, con su participación, con los municipios que corresponda, según el caso.
@@ -2270,14 +1472,9 @@ En tanto se expidan las disposiciones reglamentarias que se deriven del presente
 México, D.F., a 30 de octubre de 1996.- Dip. Carlos Humberto Aceves del Olmo, Presidente.- Sen.
 Melchor de los Santos Ordóñez, Presidente.- Dip. Sabino González Alba, Secretario.- Sen. Rosendo Villarreal Dávila, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-DECRETO por el que se adiciona una fracción XXXVI al artículo 3o., la fracción XX al
-
-### artículo 15
-y se reforma el artículo 39 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
-Publicado en el Diario Oficial de la Federación el 7 de enero de 2000 ÚNICO. Se adiciona una fracción XXXVI al artículo 3o., una fracción XX al artículo 15 y se reforma el
-
-### artículo 39
-de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ..........
+DECRETO por el que se adiciona una fracción XXXVI al artículo 3o., la fracción XX al artículo 15 y se reforma el artículo 39 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+Publicado en el Diario Oficial de la Federación el 7 de enero de 2000
+**ÚNICO.** Se adiciona una fracción XXXVI al artículo 3o., una fracción XX al artículo 15 y se reforma el artículo 39 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ..........
 
 ## TRANSITORIO
 
@@ -2295,18 +1492,16 @@ Se reforman los artículos 11, 12, 109 BIS, 130, 150 segundo párrafo, 162
 
 **PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 **SEGUNDO.** Los procedimientos y recursos administrativos que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución se sustanciarán conforme a las disposiciones vigentes en el momento en que se iniciaron.
-**TERCERO.** Para la firma y entrada en vigor de cualquier convenio o acuerdo a que se refiere el
-
-### artículo 11
-de esta Ley, las Entidades Federativas o Municipios participantes en ellos, habrán de contar con su propio programa de ordenamiento regional, particular o marino según corresponda.
+**TERCERO.** Para la firma y entrada en vigor de cualquier convenio o acuerdo a que se refiere el artículo 11 de esta Ley, las Entidades Federativas o Municipios participantes en ellos, habrán de contar con su propio programa de ordenamiento regional, particular o marino según corresponda.
 Equilibrio Ecológico y la Protección al Ambiente para el Establecimiento de Seguros y Primas por Riesgo Ambiental. Para tal efecto, la Secretaría, habrá de publicar este marco reglamentario, a más tardar en un año después de la entrada en vigor del presente Decreto.
 México, D.F., a 15 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Diego Fernández de Cevallos Ramos, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se expide la Ley General de Desarrollo Forestal Sustentable y se reforman y adicionan la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Orgánica de la Administración Pública Federal y la Ley de Premios, Estímulos y Recompensas Civiles.
-Publicado en el Diario Oficial de la Federación el 25 de febrero de 2003 ARTICULOS TRANSITORIOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE PRIMERO.- ..........
-SEGUNDO.- La presente Ley entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
-TERCERO A DECIMO PRIMERO.- ..........
+Publicado en el Diario Oficial de la Federación el 25 de febrero de 2003 ARTICULOS TRANSITORIOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+**PRIMERO.-**
+**SEGUNDO.-** La presente Ley entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+**TERCERO.** A DECIMO PRIMERO.- ..........
 ARTICULO SEGUNDO.- Se reforman los artículos 5 fracción XI, 100 y 104; se deroga la fracción VI del artículo 28; y se adiciona un segundo párrafo al artículo 4 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ..........
 ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE; LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL; Y LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.
 ARTICULO UNICO. Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
@@ -2356,10 +1551,7 @@ Se reforma el Artículo 6 de la Ley General del Equilibrio Ecológico y la Prote
 
 **Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 19 de abril de 2006.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcela González Salas P., Presidenta.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Patricia Garduño Morales, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-DECRETO por el que se adiciona una fracción VI al artículo 19; un párrafo tercero al
-
-### artículo 20
-BIS 2; y modifica el artículo 51 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+DECRETO por el que se adiciona una fracción VI al artículo 19; un párrafo tercero al artículo 20 BIS 2; y modifica el artículo 51 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 Publicado en el Diario Oficial de la Federación el 12 de febrero de 2007
 
 ### Artículo Primero
@@ -2380,10 +1572,7 @@ DECRETO por el que se adiciona y se reforma la Ley General del Equilibrio Ecoló
 Publicado en el Diario Oficial de la Federación el 19 de junio de 2007
 
 ### ARTÍCULO ÚNICO
-Se adiciona una fracción XI al artículo 89; y se reforma el segundo párrafo del
-
-### artículo 119
-, ambos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ..........
+Se adiciona una fracción XI al artículo 89; y se reforma el segundo párrafo del artículo 119, ambos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -2408,10 +1597,7 @@ DECRETO por el que se reforma y adiciona diversas disposiciones de la Ley Genera
 Publicado en el Diario Oficial de la Federación el 16 de mayo de 2008
 
 ### ARTÍCULO ÚNICO
-Se reforman las fracciones IX y X, los párrafos segundo, tercero y cuarto del
-
-### artículo 46
-; el primer párrafo del artículo 74; se adiciona una fracción XI al artículo 46; un artículo 55 BIS; una Sección V denominada "Establecimiento, Administración y Manejo de Áreas Destinadas Voluntariamente a la Conservación", al Capítulo I "Áreas Naturales Protegidas", del Título Segundo "Biodiversidad", con el artículo 77 BIS, y se deroga el segundo párrafo del artículo 59, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ……….
+Se reforman las fracciones IX y X, los párrafos segundo, tercero y cuarto del artículo 46; el primer párrafo del artículo 74; se adiciona una fracción XI al artículo 46; un artículo 55 BIS; una Sección V denominada "Establecimiento, Administración y Manejo de Áreas Destinadas Voluntariamente a la Conservación", al Capítulo I "Áreas Naturales Protegidas", del Título Segundo "Biodiversidad", con el artículo 77 BIS, y se deroga el segundo párrafo del artículo 59, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
@@ -2459,10 +1645,7 @@ DECRETO por el que se reforma y adiciona el artículo 180 de la Ley General del 
 Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
 ### Artículo Primero
-Se reforma el primer párrafo y se adicionan un segundo y tercer párrafos al
-
-### artículo 180
-de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ……….
+Se reforma el primer párrafo y se adicionan un segundo y tercer párrafos al artículo 180 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ……….
 
 ## TRANSITORIO
 
@@ -2476,10 +1659,7 @@ DECRETO por el que se adiciona una fracción XVII al Artículo 3o. de la Ley Gen
 Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
 ### Artículo Único
-Se adiciona una fracción XVII, recorriéndose en su orden las subsecuentes al
-
-### Artículo 3o
-de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ……….
+Se adiciona una fracción XVII, recorriéndose en su orden las subsecuentes al Artículo 3o de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ……….
 
 ## TRANSITORIO
 
@@ -2590,10 +1770,7 @@ Se adiciona un artículo 17 TER a la Ley General del Equilibrio Ecológico y la 
 El presente Decreto entrará en vigor en el siguiente ejercicio fiscal que corresponda a su publicación en el Diario Oficial de la Federación, debiendo los órganos correspondientes incluir las previsiones en sus anteproyectos de presupuesto.
 
 ### ARTÍCULO SEGUNDO
-Las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación contarán con un plazo no mayor a trescientos sesenta días naturales para llevar a cabo la instalación del sistema de captación de agua pluvial a que se refiere el
-
-### artículo 17
-TER de esta Ley.
+Las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación contarán con un plazo no mayor a trescientos sesenta días naturales para llevar a cabo la instalación del sistema de captación de agua pluvial a que se refiere el artículo 17 TER de esta Ley.
 México, D.F., a 3 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforma el artículo 132 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2013
@@ -2730,10 +1907,7 @@ Se reforma el artículo 87 Bis 2 de la Ley General del Equilibrio Ecológico y l
 **Segundo.-** Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar la legislación en un plazo no mayor a 360 días siguientes al día de su publicación en el Diario Oficial de la Federación, para dar cumplimiento al presente Decreto.
 Ciudad de México, a 14 de diciembre de 2016.- Sen. Pablo Escudero Morales, Presidente.- Dip.
 Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Lorena Cuellar Cisneros, Secretaria.- Dip. Raúl Domínguez Rex, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintitrés de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
-
-### Artículo 5o
-. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
+DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Décimo Segundo
@@ -2786,10 +1960,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 18 de enero de 2021
 
 ### Artículo Único
-Se reforman los artículos 5o., fracción XV; 7o., fracción VII; 8o., fracción VI; 11, fracción VII; 155 y 156, primer párrafo, así como la denominación del Capítulo VIII del Título Cuarto; y se adicionan las fracciones VI Bis y XX Bis al artículo 3o.; un artículo 110 Bis, y las fracciones XV y XVI al
-
-### artículo 111
-, todos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ……..
+Se reforman los artículos 5o., fracción XV; 7o., fracción VII; 8o., fracción VI; 11, fracción VII; 155 y 156, primer párrafo, así como la denominación del Capítulo VIII del Título Cuarto; y se adicionan las fracciones VI Bis y XX Bis al artículo 3o.; un artículo 110 Bis, y las fracciones XV y XVI al artículo 111, todos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -2896,9 +2067,7 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en relación con la participación de la Guardia Nacional en tareas de inspección y vigilancia.
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2025

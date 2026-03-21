@@ -100,10 +100,7 @@ Artículo reformado DOF 16-07-2025
 . La Secretaría tendrá las facultades siguientes:
 
 I. Recibir los Avisos de quienes realicen las Actividades Vulnerables a que se refiere la Sección Segunda del Capítulo III;
-I Bis. Establecer los requisitos para el alta y registro en el sistema electrónico que determine el Reglamento de la Ley de quienes realicen las Actividades Vulnerables establecidas en el
-
-### artículo 17
-de esta Ley y de las Entidades Colegiadas, así como recibir y administrar la información de dichos trámites;
+I Bis. Establecer los requisitos para el alta y registro en el sistema electrónico que determine el Reglamento de la Ley de quienes realicen las Actividades Vulnerables establecidas en el artículo 17 de esta Ley y de las Entidades Colegiadas, así como recibir y administrar la información de dichos trámites;
 Fracción adicionada DOF 16-07-2025
 
 II. Requerir la información, documentación, datos e imágenes necesarios para el ejercicio de sus facultades y proporcionar a la Unidad la información que le requiera en términos de la presente Ley;
@@ -460,10 +457,7 @@ Párrafo reformado DOF 16-07-2025 Dichos Avisos contendrán respecto del acto u 
 
 I. Datos generales de quien realice la Actividad Vulnerable;
 
-II. Datos generales de la persona Cliente o Usuaria y, en su caso, de la persona Beneficiario Controlador, así como la información sobre su actividad u ocupación de conformidad con el
-
-### artículo 18
-fracción II de esta Ley, y Fracción reformada DOF 16-07-2025
+II. Datos generales de la persona Cliente o Usuaria y, en su caso, de la persona Beneficiario Controlador, así como la información sobre su actividad u ocupación de conformidad con el artículo 18 fracción II de esta Ley, y Fracción reformada DOF 16-07-2025
 
 III. Descripción general de la Actividad Vulnerable sobre la cual se dé Aviso.
 Las y los notarios públicos podrán cumplir las obligaciones de presentar los Avisos que señala el inciso a) del Apartado A de la fracción XII del artículo 17 de la Ley, únicamente cuando sean presentados a través de los medios que establezcan las disposiciones fiscales federales para enviar las declaraciones y avisos que en materia fiscal correspondan, siempre y cuando contengan la información que requiere el presente artículo.
@@ -678,10 +672,7 @@ III. Incumplan con la obligación de presentar en tiempo los Avisos a que se ref
 La sanción prevista en esta fracción será aplicable cuando la presentación del Aviso se realice a más tardar dentro de los treinta días siguientes a la fecha en que debió haber sido presentado. En caso de que la extemporaneidad exceda este plazo, se aplicará la sanción prevista para el caso de omisión en el artículo 54, fracción II, de esta Ley;
 Párrafo reformado DOF 16-07-2025
 
-IV. Incumplan con la obligación de presentar los Avisos sin reunir los requisitos a que se refiere el
-
-### artículo 24
-de esta Ley;
+IV. Incumplan con la obligación de presentar los Avisos sin reunir los requisitos a que se refiere el artículo 24 de esta Ley;
 
 V. Incumplan con las obligaciones que imponen los artículos 33, 33 Bis y 33 Ter de esta Ley;
 Fracción reformada DOF 16-07-2025
@@ -698,10 +689,7 @@ Fracción reformada DOF 16-07-2025
 
 II. Se aplicará multa equivalente a dos mil y hasta diez mil veces el valor diario de la UMA en el caso de la fracción V del artículo 53 de esta Ley, y Fracción reformada DOF 16-07-2025
 
-III. Se aplicará multa equivalente a diez mil y hasta sesenta y cinco mil veces el valor diario de la UMA, o del diez al cien por ciento del valor del acto u operación, cuando sean cuantificables en dinero, la que resulte mayor en el caso de las fracciones VI y VII del
-
-### artículo 53
-de esta Ley.
+III. Se aplicará multa equivalente a diez mil y hasta sesenta y cinco mil veces el valor diario de la UMA, o del diez al cien por ciento del valor del acto u operación, cuando sean cuantificables en dinero, la que resulte mayor en el caso de las fracciones VI y VII del artículo 53 de esta Ley.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 54
@@ -817,10 +805,7 @@ DECRETO por el que se expide la Ley de la Fiscalía General de la República, se
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 ### Artículo Décimo Sexto
-Se reforman las fracciones XI y XIV, del artículo 3; el artículo 7; las fracciones III, IV, IX y X del artículo 8; el párrafo primero del artículo 9; el artículo 11; el artículo 45; el
-
-### artículo 47
-; el párrafo primero del artículo 50; y la fracción I del artículo 63 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, para quedar como sigue: ……..
+Se reforman las fracciones XI y XIV, del artículo 3; el artículo 7; las fracciones III, IV, IX y X del artículo 8; el párrafo primero del artículo 9; el artículo 11; el artículo 45; el artículo 47; el párrafo primero del artículo 50; y la fracción I del artículo 63 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -862,19 +847,9 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Fede
 
 ### Artículo Primero
 Se reforman el artículo 2; la fracción III, su inciso a), los párrafos primero,
-**segundo.** y subinciso ii) del inciso b), la fracción VI, la fracción XII, la fracción XIII y la fracción XIV, del
-
-### artículo 3
-; la fracción IV del artículo 4; el artículo 5; la fracción VII del artículo 6; la fracción IV del artículo 8; el primer párrafo del artículo 9; el artículo 11; la fracción I del artículo 15; el párrafo primero del artículo 16; la fracción I; la fracción II; el párrafo segundo de la fracción III; el párrafo segundo de la fracción IV; la fracción V; la fracción VI; la fracción VII; la fracción VIII, la fracción IX; el párrafo segundo de la fracción X; el párrafo primero, el segundo párrafo del inciso a), el párrafo segundo del inciso c), el inciso d), del apartado A, el párrafo primero y los incisos a) y c) del apartado B, de la fracción XII; la fracción XIII, párrafo primero e incisos d) y e) de la fracción XIV; la fracción XV; párrafos primero y segundo de la fracción XVI, del artículo 17; Las fracciones I, II, III, IV, V y VI del artículo 18; el artículo 20; el segundo párrafo del artículo 21; el artículo 22; el artículo 23; el primer párrafo, la fracción II y el tercer párrafo del
-
-### artículo 24
-; el artículo 25; el artículo 26; el tercer párrafo del artículo 27; el primer párrafo del artículo 31; el primer párrafo y las fracciones I a VII del artículo 32; el primer y segundo párrafos del artículo 33; el
-
-### artículo 34
-; el artículo 35; el artículo 38; el artículo 40; el artículo 45; el artículo 47; los párrafos primero y segundo del artículo 50; los párrafos primero y tercero del artículo 51; el segundo párrafo de la fracción III y la fracción V del artículo 53; las fracciones I a III del artículo 54; el artículo 55; el artículo 56; el artículo 58; el párrafo primero del artículo 59; el artículo 61, y el artículo 62; Se adicionan los párrafos tercero y cuarto a la fracción III, la fracción III Bis, la fracción IV Bis, la fracción IX Bis, la fracción XII Bis, la fracción XII Ter y la fracción XIII Bis al artículo 3; la fracción II Bis al artículo 4; las fracciones I Bis, VIII, IX, X y XI, recorriendo en su numeración el texto de la actual fracción VIII para quedar como fracción XII, al artículo 6; la fracción V Bis, un apartado D a la fracción XII, tercer párrafo de la fracción XVI recorriendo en su orden el texto del actual tercer párrafo para quedar como cuarto párrafo y un segundo párrafo recorriendo en su orden el texto de los actuales segundo y tercer párrafos para quedar como tercero y cuarto párrafos del artículo 17; las fracciones IV Bis, VII a la XI y un segundo párrafo al artículo 18; un tercer párrafo al
-
-### artículo 19
-; el artículo 22 Bis; la fracción VIII y el segundo párrafo al artículo 32; el Capítulo IV Bis, compuesto por los artículos 33 Bis, 33 Ter y 33 Quáter; el artículo 41 Bis; el artículo 51 Bis; el artículo 51 Ter; el artículo 54 Bis, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, para quedar como sigue: ……….
+**segundo.** y subinciso ii) del inciso b), la fracción VI, la fracción XII, la fracción XIII y la fracción XIV, del artículo 3; la fracción IV del artículo 4; el artículo 5; la fracción VII del artículo 6; la fracción IV del artículo 8; el primer párrafo del artículo 9; el artículo 11; la fracción I del artículo 15; el párrafo primero del artículo 16; la fracción I; la fracción II; el párrafo segundo de la fracción III; el párrafo segundo de la fracción IV; la fracción V; la fracción VI; la fracción VII; la fracción VIII, la fracción IX; el párrafo segundo de la fracción X; el párrafo primero, el segundo párrafo del inciso a), el párrafo segundo del inciso c), el inciso d), del apartado A, el párrafo primero y los incisos a) y c) del apartado B, de la fracción XII; la fracción XIII, párrafo primero e incisos d) y e) de la fracción XIV; la fracción XV; párrafos primero y segundo de la fracción XVI, del artículo 17; Las fracciones I, II, III, IV, V y VI del artículo 18; el artículo 20; el segundo párrafo del artículo 21; el artículo 22; el artículo 23; el primer párrafo, la fracción II y el tercer párrafo del artículo 24; el artículo 25; el artículo 26; el tercer párrafo del artículo 27; el primer párrafo del artículo 31; el primer párrafo y las fracciones I a VII del artículo 32; el primer y segundo párrafos del artículo 33; el artículo 34; el artículo 35; el artículo 38; el artículo 40; el artículo 45; el artículo 47; los párrafos primero y
+**segundo.** del artículo 50; los párrafos primero y tercero del artículo 51; el segundo párrafo de la fracción III y la fracción V del artículo 53; las fracciones I a III del artículo 54; el artículo 55; el artículo 56; el artículo 58; el párrafo primero del artículo 59; el artículo 61, y el artículo 62; Se adicionan los párrafos tercero y
+**cuarto.** a la fracción III, la fracción III Bis, la fracción IV Bis, la fracción IX Bis, la fracción XII Bis, la fracción XII Ter y la fracción XIII Bis al artículo 3; la fracción II Bis al artículo 4; las fracciones I Bis, VIII, IX, X y XI, recorriendo en su numeración el texto de la actual fracción VIII para quedar como fracción XII, al artículo 6; la fracción V Bis, un apartado D a la fracción XII, tercer párrafo de la fracción XVI recorriendo en su orden el texto del actual tercer párrafo para quedar como cuarto párrafo y un segundo párrafo recorriendo en su orden el texto de los actuales segundo y tercer párrafos para quedar como tercero y cuarto párrafos del artículo 17; las fracciones IV Bis, VII a la XI y un segundo párrafo al artículo 18; un tercer párrafo al artículo 19; el artículo 22 Bis; la fracción VIII y el segundo párrafo al artículo 32; el Capítulo IV Bis, compuesto por los artículos 33 Bis, 33 Ter y 33 Quáter; el artículo 41 Bis; el artículo 51 Bis; el artículo 51 Ter; el artículo 54 Bis, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, para quedar como sigue: ……….
 
 ## Transitorios
 

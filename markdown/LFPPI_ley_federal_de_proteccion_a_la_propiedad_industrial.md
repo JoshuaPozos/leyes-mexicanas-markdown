@@ -104,10 +104,7 @@ Por cada representante propietario será designado un suplente, quien asistirá 
 .- La persona Titular de la Dirección General es la representante legal del Instituto y será designada por la Junta de Gobierno, a indicación del Ejecutivo Federal, a través de la persona Titular de la Secretaría de Economía.
 
 ### Artículo 9
-.- La persona Titular de la Dirección General podrá delegar las facultades a que se refiere el
-
-### artículo 5
-de esta Ley, así como las demás que considere convenientes para el logro de los objetivos y metas institucionales, en servidores públicos subalternos, en los términos que se establezcan en los Acuerdos aprobados por la Junta de Gobierno y publicados en el Diario Oficial.
+.- La persona Titular de la Dirección General podrá delegar las facultades a que se refiere el artículo 5 de esta Ley, así como las demás que considere convenientes para el logro de los objetivos y metas institucionales, en servidores públicos subalternos, en los términos que se establezcan en los Acuerdos aprobados por la Junta de Gobierno y publicados en el Diario Oficial.
 
 ### Artículo 10
 .- La persona Titular de la Dirección General expedirá las reglas y especificaciones para la presentación de solicitudes en medios físicos o virtuales, así como los procedimientos, criterios, lineamientos y requisitos específicos para facilitar la operación del Instituto y garantizar la seguridad jurídica de los particulares, mediante Acuerdos publicados en el Diario Oficial.
@@ -331,10 +328,7 @@ La aplicación industrial de una secuencia total o parcial de un ácido nucleico
 
 ### Artículo 51
 .- Para determinar que una invención es nueva y resultado de una actividad inventiva se considerará el estado de la técnica en la fecha y hora de presentación de la solicitud de patente o, en su caso, de la prioridad reconocida.
-Además, para determinar si la invención es nueva, estarán incluidas en el estado de la técnica todas las solicitudes de patente o registro en trámite, presentadas en México con anterioridad a esa fecha y hora, o que reclamen una fecha de prioridad más antigua, aunque la publicación a que se refiere el
-
-### artículo 107
-de esta Ley, se realice con posterioridad.
+Además, para determinar si la invención es nueva, estarán incluidas en el estado de la técnica todas las solicitudes de patente o registro en trámite, presentadas en México con anterioridad a esa fecha y hora, o que reclamen una fecha de prioridad más antigua, aunque la publicación a que se refiere el artículo 107 de esta Ley, se realice con posterioridad.
 No quedará comprendido como parte del estado de la técnica, el contenido de dichas solicitudes cuando éstas hayan sido desechadas, retiradas, abandonadas o negadas, salvo que hubiesen sido objeto de publicación, conforme a esta Ley o a los Tratados Internacionales.
 
 ### Artículo 52
@@ -462,10 +456,7 @@ Cuando la impresión general que provoquen las características objeto de la sol
 Los registros de diseños industriales y sus renovaciones deberán ser publicados en la Gaceta.
 
 ### Artículo 79
-.- La renovación del registro de un diseño industrial deberá solicitarse por el titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro del plazo de gracia al que hace referencia la fracción II del
-
-### artículo 160
-de esta Ley.
+.- La renovación del registro de un diseño industrial deberá solicitarse por el titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro del plazo de gracia al que hace referencia la fracción II del artículo 160 de esta Ley.
 
 ### Artículo 80
 .- El derecho conferido por un registro de diseño industrial estará determinado por la descripción y reproducciones gráficas o fotográficas otorgadas.
@@ -608,10 +599,7 @@ El solicitante solo podrá efectuar la transformación de la solicitud dentro de
 .- Al recibir la solicitud el Instituto hará constar la fecha y hora de recepción; el número progresivo que le corresponda; el número de expediente; los documentos que la acompañan; el número de hojas, y, en su caso, el medio de recepción.
 
 ### Artículo 105
-.- El Instituto reconocerá como fecha de presentación de una solicitud de patente a la fecha y hora en que ésta sea recibida, siempre que la misma cumpla con los requisitos previstos en el
-
-### artículo 94
-, fracciones I, IV, VII, VIII y IX de esta Ley.
+.- El Instituto reconocerá como fecha de presentación de una solicitud de patente a la fecha y hora en que ésta sea recibida, siempre que la misma cumpla con los requisitos previstos en el artículo 94, fracciones I, IV, VII, VIII y IX de esta Ley.
 La fecha de presentación determinará la prelación entre las solicitudes.
 En caso de que la solicitud no cumpla con los requisitos señalados en el primer párrafo del presente artículo a la fecha en la que ésta se recibió, se tendrá como fecha de presentación a aquélla en la que se dé el cumplimiento correspondiente.
 
@@ -871,10 +859,7 @@ III.- Cuando la o las reivindicaciones excedan de la divulgación contenida en l
 IV.- Cuando sea resultado de una solicitud divisional que haya sido tramitada en contravención a lo dispuesto por el artículo 100 de esta Ley;
 V.- Cuando con motivo del procedimiento de rectificación o limitación previsto en los artículos 122 y 123 de esta Ley, se haya ampliado la materia protegida por el registro de modelo de utilidad;
 VI.- Cuando por error o inadvertencia se haya reconocido un derecho de prioridad y con ello se determinó indebidamente la novedad de la materia protegida;
-VII.- Cuando se haya concedido en contravención al artículo 50 de esta Ley, y VIII.- Cuando se haya concedido a quien no tenía el derecho a obtenerlo conforme a lo dispuesto en el
-
-### artículo 38
-de esta Ley.
+VII.- Cuando se haya concedido en contravención al artículo 50 de esta Ley, y VIII.- Cuando se haya concedido a quien no tenía el derecho a obtenerlo conforme a lo dispuesto en el artículo 38 de esta Ley.
 Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la Gaceta.
 Si las causales de nulidad afectan parcialmente al registro de modelo de utilidad, éste se declarará parcialmente nulo.
 En la resolución que declare la nulidad parcial, el Instituto ordenará se asiente en el título respectivo una anotación marginal, en la cual se harán constar las modificaciones a éste, así como las causas que la originaron.
@@ -885,20 +870,14 @@ I.- Cuando la materia protegida no pueda ser objeto de un registro de diseño in
 II.- Cuando la descripción y representaciones gráficas o fotográficas no permitan la comprensión clara y completa del diseño;
 III.- Cuando sea resultado de una solicitud divisional que haya sido tramitada en contravención a lo dispuesto por el artículo 100 de esta Ley;
 IV.- Cuando con motivo del procedimiento de rectificación o limitación a que se refieren los artículos 122 y 124 de esta Ley se haya ampliado la materia protegida o se hayan eliminado las características que le confieren novedad al diseño industrial;
-V.- Cuando por error o inadvertencia se haya reconocido un derecho de prioridad y con ello se determinó indebidamente la novedad de la materia protegida, y VI.- Cuando se haya concedido a quien no tenía el derecho a obtenerlo, conforme a lo dispuesto en el
-
-### artículo 38
-de esta Ley.
+V.- Cuando por error o inadvertencia se haya reconocido un derecho de prioridad y con ello se determinó indebidamente la novedad de la materia protegida, y VI.- Cuando se haya concedido a quien no tenía el derecho a obtenerlo, conforme a lo dispuesto en el artículo 38 de esta Ley.
 Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la Gaceta.
 Si las causales de nulidad afectan parcialmente al registro de diseño industrial, éste se declarará parcialmente nulo.
 En la resolución que declare la nulidad parcial, el Instituto ordenará se asiente en el título respectivo una anotación marginal, en la cual se harán constar las modificaciones a éste, así como las causas que la originaron.
 
 ### Artículo 157
 .- Un registro de un esquema de trazado protegido solo podrá ser declarado nulo en los siguientes casos:
-I.- Cuando el esquema de trazado no pueda ser objeto de un registro, en términos del artículo 83 de esta Ley, y II.- Cuando se haya concedido a quien no tenía el derecho a obtenerlo, conforme a lo dispuesto en el
-
-### artículo 38
-de esta Ley.
+I.- Cuando el esquema de trazado no pueda ser objeto de un registro, en términos del artículo 83 de esta Ley, y II.- Cuando se haya concedido a quien no tenía el derecho a obtenerlo, conforme a lo dispuesto en el artículo 38 de esta Ley.
 Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la Gaceta.
 
 ### Artículo 158
@@ -923,10 +902,7 @@ La caducidad a la que se refieren las fracciones I, II y IV del presente artícu
 
 ### Artículo 162
 .- El Instituto publicará de forma periódica en la Gaceta aquellas solicitudes, patentes o registros de modelo de utilidad, diseños industriales o esquemas de trazado de circuitos integrados, respecto de las cuales no llegó a constituirse el derecho exclusivo solicitado o éste una vez otorgado caducó; así como la información tecnológica que se encuentra en el estado de la técnica o que se ha incorporado al dominio público.
-Se exceptúan de lo anterior aquellas solicitudes que se encuentren en el supuesto previsto en el
-
-### artículo 24
-de esta Ley.
+Se exceptúan de lo anterior aquellas solicitudes que se encuentren en el supuesto previsto en el artículo 24 de esta Ley.
 El Instituto publicará cuando menos, semestralmente en la Gaceta, un listado de patentes relacionadas con invenciones susceptibles de ser empleadas en medicamentos alopáticos, en los términos previstos en el artículo 167 bis del Reglamento de Insumos para la Salud, y se coordinará con la autoridad sanitaria competente, para proporcionar la información que se requiera dentro del trámite de autorización de comercialización de medicamentos alopáticos.
 
 ## TÍTULO TERCERO — De los Secretos Industriales
@@ -1411,10 +1387,7 @@ Podrá solicitarse mediante una sola promoción, la inscripción de transferenci
 El solicitante deberá identificar cada una de las solicitudes o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes, o registros involucrados.
 
 ### Artículo 251
-.- Cuando exista un gravamen inscrito ante el Instituto, el beneficiario podrá presentar la renovación del registro de una marca, aviso o nombre comercial, de conformidad con lo establecido en el
-
-### artículo 237
-de esta Ley.
+.- Cuando exista un gravamen inscrito ante el Instituto, el beneficiario podrá presentar la renovación del registro de una marca, aviso o nombre comercial, de conformidad con lo establecido en el artículo 237 de esta Ley.
 
 ### Artículo 252
 .- Cuando se dé la fusión de personas morales se entenderá que existe una transmisión de los derechos sobre marcas registradas, salvo estipulación en contrario.
@@ -1663,10 +1636,7 @@ I.- La amonestación por escrito, por única ocasión, bajo el apercibimiento de
 
 ### Artículo 297
 .- Los términos de la declaración de protección de una denominación de origen o indicación geográfica podrán ser modificados en cualquier tiempo, de oficio o a petición de parte interesada, siguiendo el procedimiento establecido en este Capítulo.
-Si la solicitud se presenta a petición de parte interesada, ésta deberá contener lo previsto por el
-
-### artículo 274
-o, en su caso, el 275 de esta Ley, así como un señalamiento detallado de las modificaciones que se solicitan y las causas que las motivan. El Instituto resolverá lo conducente conforme a lo establecido en este Capítulo.
+Si la solicitud se presenta a petición de parte interesada, ésta deberá contener lo previsto por el artículo 274 o, en su caso, el 275 de esta Ley, así como un señalamiento detallado de las modificaciones que se solicitan y las causas que las motivan. El Instituto resolverá lo conducente conforme a lo establecido en este Capítulo.
 
 ## Capítulo III — De la Autorización de Uso
 
@@ -2240,10 +2210,7 @@ Los delitos a los que se refiere el presente artículo se perseguirán de oficio
 .- Para que el Ministerio Público ejercite la acción penal, en los supuestos previstos en las fracciones I y II del artículo 402, se requerirá que el Instituto en un plazo que no exceda de 30 días hábiles emita un dictamen técnico en el que no se prejuzgará sobre las acciones civiles o penales que procedan.
 
 ### Artículo 406
-.- Independientemente del ejercicio de la acción penal, el perjudicado por cualquiera de los delitos a que esta Ley se refiere podrá demandar del o de los autores de los mismos, la reparación y el pago de los daños y perjuicios sufridos con motivo de dichos delitos, en los términos previstos en el
-
-### artículo 396
-de esta Ley.
+.- Independientemente del ejercicio de la acción penal, el perjudicado por cualquiera de los delitos a que esta Ley se refiere podrá demandar del o de los autores de los mismos, la reparación y el pago de los daños y perjuicios sufridos con motivo de dichos delitos, en los términos previstos en el artículo 396 de esta Ley.
 
 ## Capítulo III — De los Procedimientos Jurisdiccionales
 
@@ -2304,9 +2271,7 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2026

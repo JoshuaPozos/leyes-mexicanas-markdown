@@ -128,10 +128,7 @@ XXXVIII. Persona Permisionaria: Persona física o moral autorizada por la Secret
 
 XXXIX. Persona usuaria: La persona que realiza desplazamientos haciendo uso del sistema de movilidad;
 
-XL. Personas con discapacidad: Personas a las que hace referencia la fracción XXVII del
-
-### artículo 2
-de Ley General para la Inclusión de las Personas con Discapacidad;
+XL. Personas con discapacidad: Personas a las que hace referencia la fracción XXVII del artículo 2 de Ley General para la Inclusión de las Personas con Discapacidad;
 
 XLI. Personas con movilidad limitada: Toda persona cuya movilidad se ha reducido por motivos de edad, embarazo y alguna otra situación que, sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares en el servicio
 
@@ -1237,10 +1234,7 @@ IV. Celebrar convenios de cooperación y coordinación en la materia;
 
 V. Capacitar a quienes realicen las auditorías de seguridad vial y estudios de mejoramiento de sitios con elevada incidencia de siniestros de tránsito, en materias de su competencia;
 
-VI. Fijar los límites de alcohol en la sangre y aire expirado, con base en lo establecido en el
-
-### artículo 49
-, que deberán ser los referentes en los operativos de alcoholimetría en todo el territorio nacional, y
+VI. Fijar los límites de alcohol en la sangre y aire expirado, con base en lo establecido en el artículo 49, que deberán ser los referentes en los operativos de alcoholimetría en todo el territorio nacional, y
 
 VII. Las demás previstas para el cumplimiento de la presente Ley.
 

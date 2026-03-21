@@ -14,16 +14,10 @@ SE EXPIDE LA  .
 : Se expide la Ley Orgánica de la Universidad Autónoma Agraria Antonio Narro. .
 
 ## Capítulo I — De la Naturaleza y los Objetivos.
-
-### ARTÍCULO 1
-. Se crea la Universidad Autónoma Agraria Antonio Narro, como un organismo público descentralizado, con personalidad jurídica propia, patrimonio propio y dotado de Autonomía en los términos de la Fracción VII del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, con todas las facultades que en el mismo se establecen.
-
-### ARTÍCULO 2
-. La sede de la Universidad Autónoma Agraria Antonio Narro será la localidad de Buenavista, municipio de Saltillo de Zaragoza, Estado de Coahuila.
+ARTÍCULO 1. Se crea la Universidad Autónoma Agraria Antonio Narro, como un organismo público descentralizado, con personalidad jurídica propia, patrimonio propio y dotado de Autonomía en los términos de la Fracción VII del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, con todas las facultades que en el mismo se establecen.
+ARTÍCULO 2. La sede de la Universidad Autónoma Agraria Antonio Narro será la localidad de Buenavista, municipio de Saltillo de Zaragoza, Estado de Coahuila.
 Podrá establecer unidades de investigación, de servicios o de postgrado en cualquier lugar de la república, mediante convenio con instituciones de educación superior o de investigación científica de otras entidades, avalados por las correspondientes autoridades educativas.
-
-### ARTÍCULO 3
-. La Universidad, basada en el principio de autonomía, tendrá por objetivos fundamentales:
+ARTÍCULO 3. La Universidad, basada en el principio de autonomía, tendrá por objetivos fundamentales:
 
 I. Impartir educación y formar recursos humanos en las diferentes áreas y niveles, en el campo de las ciencias agrarias y en otras que la sociedad requiera, buscando que desarrollen el juicio crítico, la vocación humanista, los valores democráticos y los principios nacionalistas, y que resulten capaces de contribuir a la solución de los problemas del país en general y de su medio rural, en particular;
 
@@ -32,9 +26,7 @@ II. Realizar investigación en las áreas de su competencia, cuyos resultados fa
 III. Preservar, promover, investigar y acrecentar la cultura, la ciencia y la tecnología en general, y en forma particular, las que se relacionan directamente con su naturaleza y misión de servicio, dentro de un proceso de intercambio sistemático con la sociedad, para contribuir al desarrollo sustentable.
 
 ## Capítulo II — De su Patrimonio.
-
-### ARTÍCULO 4
-. El patrimonio de la Universidad estará constituido por:
+ARTÍCULO 4. El patrimonio de la Universidad estará constituido por:
 
 I. Todos los bienes que, al momento de su creación, sean propiedad de la Universidad Autónoma Agraria Antonio Narro creada por el Congreso del Estado de Coahuila, en Decreto de 4 de Abril de 1989, como su patrimonio en los términos de la Ley Orgánica, así como los bienes que haya adquirido con posterioridad;
 
@@ -47,14 +39,10 @@ IV. Las aportaciones y legados que reciba de particulares, de instituciones púb
 V. Los ingresos autogenerados que obtenga por la producción, explotación o comercialización de bienes, o la prestación de servicios, y
 
 VI. Los bienes muebles e inmuebles, los derechos reales y personales y todos los ingresos que adquiera por cualquier título legal.
-
-### ARTÍCULO 5
-. Todos los bienes muebles e inmuebles que constituyen el patrimonio de la Universidad tendrán el carácter de inalienables e imprescriptibles, y no se podrá constituir sobre los mismos ningún gravamen, mientras no se desafecten del servicio a que están destinados, previo acuerdo del H. Consejo Universitario, excepción hecha de los recursos a que se refiere la fracción V del artículo anterior. En caso de ser desafectados se aplicarán a dichos bienes las disposiciones del derecho común.
+ARTÍCULO 5. Todos los bienes muebles e inmuebles que constituyen el patrimonio de la Universidad tendrán el carácter de inalienables e imprescriptibles, y no se podrá constituir sobre los mismos ningún gravamen, mientras no se desafecten del servicio a que están destinados, previo acuerdo del H. Consejo Universitario, excepción hecha de los recursos a que se refiere la fracción V del artículo anterior. En caso de ser desafectados se aplicarán a dichos bienes las disposiciones del derecho común.
 
 ## Capítulo III — De sus Atribuciones.
-
-### ARTÍCULO 6
-. La Universidad, para el logro de sus objetivos, tendrá las siguientes atribuciones:
+ARTÍCULO 6. La Universidad, para el logro de sus objetivos, tendrá las siguientes atribuciones:
 
 I. Establecer, organizar y modificar su gobierno, estructura, funciones y dependencias en la forma que esta Ley Orgánica, el Estatuto y los reglamentos lo determinen;
 
@@ -85,12 +73,8 @@ XIII. Establecer, en los términos que señale la Ley Orgánica, el Estatuto y l
 XIV. Preservar y desarrollar todos los servicios que se prestan a la Comunidad Universitaria de acuerdo a su capacidad y a sus necesidades.
 
 ## Capítulo IV — De la Comunidad Universitaria y de sus Autoridades.
-
-### ARTÍCULO 7
-. La Comunidad Universitaria estará constituida por sus autoridades, profesoresinvestigadores y alumnos, en los términos que especifiquen el Estatuto y los reglamentos internos.
-
-### ARTÍCULO 8
-. Son autoridades de la Universidad:
+ARTÍCULO 7. La Comunidad Universitaria estará constituida por sus autoridades, profesoresinvestigadores y alumnos, en los términos que especifiquen el Estatuto y los reglamentos internos.
+ARTÍCULO 8. Son autoridades de la Universidad:
 
 I. El H. Consejo Universitario;
 
@@ -101,21 +85,13 @@ III. El Consejo Directivo;
 IV. Los Titulares de las Unidades Regionales; y
 
 V. Las demás que contemple el Estatuto Universitario.
-
-### ARTÍCULO 9
-. Las autoridades universitarias serán electas por la Comunidad o designadas por el órgano o autoridad que corresponda, cada una de acuerdo a los términos y modalidades establecidos por esta Ley Orgánica, el Estatuto Universitario y sus Reglamentos.
+ARTÍCULO 9. Las autoridades universitarias serán electas por la Comunidad o designadas por el órgano o autoridad que corresponda, cada una de acuerdo a los términos y modalidades establecidos por esta Ley Orgánica, el Estatuto Universitario y sus Reglamentos.
 
 ## Capítulo V — Del H. Consejo Universitario y sus Comisiones.
-
-### ARTÍCULO 10
-. El H. Consejo Universitario será la máxima autoridad de la Universidad y estará integrado paritariamente por profesores-investigadores y alumnos, electos de conformidad con el Estatuto y los reglamentos respectivos. El cargo de Consejero Universitario será honorario.
-
-### ARTÍCULO 11
-. El Consejo sesionará de manera ordinaria dos veces por año en al menos cuatro sesiones, y de manera extraordinaria cada vez que sea convocado, en los términos de la normatividad vigente.
+ARTÍCULO 10. El H. Consejo Universitario será la máxima autoridad de la Universidad y estará integrado paritariamente por profesores-investigadores y alumnos, electos de conformidad con el Estatuto y los reglamentos respectivos. El cargo de Consejero Universitario será honorario.
+ARTÍCULO 11. El Consejo sesionará de manera ordinaria dos veces por año en al menos cuatro sesiones, y de manera extraordinaria cada vez que sea convocado, en los términos de la normatividad vigente.
 El Consejo trabajará en sesiones plenarias y en comisiones temáticas.
-
-### ARTÍCULO 12
-. Corresponde al H. Consejo Universitario:
+ARTÍCULO 12. Corresponde al H. Consejo Universitario:
 
 II. Reformar, adicionar y abrogar las disposiciones internas;
 
@@ -154,23 +130,14 @@ XVIII. Nombrar al contralor interno de acuerdo al procedimiento que se señale p
 XIX. Publicar los acuerdos tomados; y
 
 XX. Ejercer las demás facultades que esta Ley Orgánica y el Estatuto le señale.
-
-### ARTÍCULO 13
-. Para la validez de los acuerdos en los asuntos a que se refieren las fracciones I, II, IV, V, VI, VII, VIII, IX, X, XII, XVI, y XVII del artículo 12, se requiere el dictamen previo de la comisión respectiva.
+ARTÍCULO 13. Para la validez de los acuerdos en los asuntos a que se refieren las fracciones I, II, IV, V, VI, VII, VIII, IX, X, XII, XVI, y XVII del artículo 12, se requiere el dictamen previo de la comisión respectiva.
 Para la validez de los acuerdos relacionados con las fracciones I, II, IV, VI, VIII, X y XIV en el caso de remoción del artículo 12, se requerirá sin excepción, el voto aprobatorio de no menos de dos terceras partes de los miembros del H. Consejo Universitario.
 
 ## Capítulo VI — Del Consejo Directivo.
+ARTÍCULO 14. El Consejo Directivo se integrará y funcionará de acuerdo a lo que determine esta Ley Orgánica, el Estatuto y el reglamento correspondientes.
+ARTÍCULO 15. Corresponde al Consejo Directivo, según lo que establezca el Estatuto y los reglamentos respectivos:
 
-### ARTÍCULO 14
-. El Consejo Directivo se integrará y funcionará de acuerdo a lo que determine esta Ley Orgánica, el Estatuto y el reglamento correspondientes.
-
-### ARTÍCULO 15
-. Corresponde al Consejo Directivo, según lo que establezca el Estatuto y los reglamentos respectivos:
-
-I. Participar en el proceso de elección de las autoridades a que se refieren las fracciones II y IV del
-
-### artículo 8
-de esta Ley Orgánica;
+I. Participar en el proceso de elección de las autoridades a que se refieren las fracciones II y IV del artículo 8 de esta Ley Orgánica;
 
 II. Participar en la definición de políticas generales de planes y programas institucionales, y en su seguimiento y evaluación;
 
@@ -181,15 +148,9 @@ IV. Colaborar en la gestión de los recursos para el cumplimiento de los fines d
 V. Las demás que le asigne el Estatuto.
 
 ## Capítulo VII — Del Rector.
-
-### ARTÍCULO 16
-. El Rector será la máxima autoridad ejecutora de la Universidad.
-
-### ARTÍCULO 17
-. El Rector, será el representante legal de la Universidad, durará en su encargo cuatro años y no podrá ser reelecto. En los casos de ausencia temporal, será substituido en la forma y términos que establezca el Estatuto y los reglamentos.
-
-### ARTÍCULO 18
-. Para ser Rector se requiere:
+ARTÍCULO 16. El Rector será la máxima autoridad ejecutora de la Universidad.
+ARTÍCULO 17. El Rector, será el representante legal de la Universidad, durará en su encargo cuatro años y no podrá ser reelecto. En los casos de ausencia temporal, será substituido en la forma y términos que establezca el Estatuto y los reglamentos.
+ARTÍCULO 18. Para ser Rector se requiere:
 
 I. Ser ciudadano mexicano por nacimiento en pleno goce de sus derechos;
 
@@ -202,18 +163,14 @@ IV. Ser profesor-investigador de tiempo completo e indeterminado, con antigüeda
 V. No estar comprendido en alguna de las causas de inhabilitación o incapacidad que se establecen en el Estatuto para ser Consejero Universitario; y
 
 VI. Los demás requisitos que señalen el Estatuto y sus reglamentos.
-
-### ARTÍCULO 19
-. La elección de Rector se realizará de acuerdo al siguiente procedimiento:
+ARTÍCULO 19. La elección de Rector se realizará de acuerdo al siguiente procedimiento:
 
 I. El Consejo Directivo, considerando los méritos de los aspirantes y una consulta a la Comunidad Universitaria, propondrá al H. Consejo Universitario una terna de candidatos elegibles, de acuerdo con los términos que para tal efecto determine este ordenamiento, el Estatuto y las disposiciones respectivas;
 
 II. Una vez conocida la propuesta de los candidatos hecha por el Consejo Directivo, el H. Consejo Universitario la someterá a votación universal y secreta de la Comunidad Universitaria, de acuerdo a lo establecido en el Estatuto, los Reglamentos y las disposiciones correspondientes; y
 
 III. Será Rector electo el que determine la Comunidad Universitaria, de acuerdo a los resultados de la votación, conforme a lo que disponga el Estatuto y reglamento respectivo.
-
-### ARTÍCULO 20
-. El Rector, tendrá las siguientes facultades y obligaciones:
+ARTÍCULO 20. El Rector, tendrá las siguientes facultades y obligaciones:
 
 I. Cumplir y hacer cumplir esta Ley Orgánica, el Estatuto y los reglamentos que de ella emanen;
 
@@ -240,13 +197,9 @@ XI. Celebrar todo tipo de convenios para el cumplimiento de los fines de la Univ
 XII. Las demás que señale este ordenamiento, así como las normas y disposiciones reglamentarias de la Universidad.
 
 ## Capítulo VIII — Del Patronato.
-
-### ARTÍCULO 21
-. El Patronato estará integrado por un Presidente, un Vicepresidente, un Secretario, un Tesorero y tres vocales.
+ARTÍCULO 21. El Patronato estará integrado por un Presidente, un Vicepresidente, un Secretario, un Tesorero y tres vocales.
 Los miembros del Patronato serán mexicanos y de reconocida solvencia moral. Durarán en su cargo ocho años y podrán ser reelectos. El cargo de miembro del Patronato será honorario.
-
-### ARTÍCULO 22
-. Corresponde al Patronato:
+ARTÍCULO 22. Corresponde al Patronato:
 
 I. Procurar los ingresos necesarios para el financiamiento de la Universidad;
 
@@ -258,21 +211,10 @@ IV. Acrecentar el patrimonio de la Universidad.
 Ejercer las demás atribuciones que le confieran este ordenamiento y las normas y disposiciones reglamentarias de la Universidad.
 
 ## Capítulo IX — Disposiciones Generales.
-
-### ARTÍCULO 23
-. Para la elección de los titulares de las unidades regionales se seguirá el mismo procedimiento que para Rector, aunque sólo votará la Comunidad Universitaria de la unidad correspondiente.
-
-### ARTÍCULO 24
-. Para que un trabajador académico sea considerado sujeto de una relación laboral, deberá someterse a los procedimientos de selección que determine el Estatuto y reglamentos y disposiciones legales.
-
-### ARTÍCULO 25
-. Los sindicatos o asociaciones de personal académico, personal administrativo y alumnos serán independientes de los órganos de gobierno de la Universidad y se organizarán en la forma en que los propios interesados determinen.
-
-### ARTÍCULO 26
-. Las disposiciones y reglamentos que emanen de las autoridades a que se refiere el
-
-### artículo 8
-, fracción V, deberá ser conforme a los preceptos contenidos en esta Ley Orgánica y las
+ARTÍCULO 23. Para la elección de los titulares de las unidades regionales se seguirá el mismo procedimiento que para Rector, aunque sólo votará la Comunidad Universitaria de la unidad correspondiente.
+ARTÍCULO 24. Para que un trabajador académico sea considerado sujeto de una relación laboral, deberá someterse a los procedimientos de selección que determine el Estatuto y reglamentos y disposiciones legales.
+ARTÍCULO 25. Los sindicatos o asociaciones de personal académico, personal administrativo y alumnos serán independientes de los órganos de gobierno de la Universidad y se organizarán en la forma en que los propios interesados determinen.
+ARTÍCULO 26. Las disposiciones y reglamentos que emanen de las autoridades a que se refiere el artículo 8, fracción V, deberá ser conforme a los preceptos contenidos en esta Ley Orgánica y las
 
 ## Transitorios
 

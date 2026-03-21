@@ -260,10 +260,7 @@ Las personas consejeras independientes no pueden ocupar, durante el tiempo de su
 ### Artículo 20
 .- Las personas consejeras señaladas en las fracciones I a la V del artículo 18 pueden ser suplidas por la persona servidora pública que al efecto designen, con nivel mínimo inmediato inferior. Tratándose de la persona que presida el Consejo de Administración, su suplente asume todas las funciones de aquélla.
 Las personas consejeras independientes no tienen suplentes y deben ejercer su cargo de manera personal.
-Tratándose de las sesiones de comités, las personas consejeras a que se refieren las fracciones I a la V del
-
-### artículo 18
-de la presente Ley, pueden designar a distintas personas suplentes con nivel mínimo de las dos jerarquías inferiores a la de aquellas.
+Tratándose de las sesiones de comités, las personas consejeras a que se refieren las fracciones I a la V del artículo 18 de la presente Ley, pueden designar a distintas personas suplentes con nivel mínimo de las dos jerarquías inferiores a la de aquellas.
 
 ### Artículo 21
 .- Las personas servidoras públicas que sean integrantes del Consejo de Administración deben actuar con imparcialidad y en beneficio y el mejor interés de Petróleos Mexicanos, deben separar en todo momento los intereses de la Secretaría de Estado o empresa pública del Estado a la que pertenezcan, por lo que no se entiende que realizan sus funciones o votan en su representación.

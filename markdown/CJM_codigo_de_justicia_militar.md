@@ -471,10 +471,7 @@ Artículo reformado DOF 22-07-1994, 16-05-2016 TITULO QUINTO De la competencia C
 
 ### Artículo 57
 .- Son delitos contra la disciplina militar:
-I.- Los especificados en el Libro Segundo de este Código, con las excepciones previstas en el
-
-### artículo 337
-Bis;
+I.- Los especificados en el Libro Segundo de este Código, con las excepciones previstas en el artículo 337 Bis;
 Fracción reformada DOF 13-06-2014 II.- Los del orden común o federal, siempre y cuando no tenga la condición de civil el sujeto pasivo que resiente sobre su persona la afectación producida por la conducta delictiva o la persona titular del bien jurídico tutelado o puesto en peligro por la acción u omisión prevista en ley penal como delito, en los siguientes supuestos:
 Párrafo reformado DOF 13-06-2014 a).- Que fueren cometidos por el personal militar, en los momentos de estar en servicio o con motivo de actos del mismo;
 Inciso reformado DOF 16-07-2025 b).- Que fueren cometidos por el personal militar en un buque de guerra o en edificio o punto militar u ocupado militarmente o siempre que, como consecuencia, se produzca tumulto o desorden en la tropa que se encuentre en el sitio donde el delito se haya cometido o se interrumpa o perjudique el servicio militar;
@@ -731,10 +728,7 @@ I. Cuando se trate de delitos en los que sólo se puede proceder por querella ne
 
 II. Cuando la ley exija algún requisito previo, o indispensable respecto del imputado, si tal requisito no se hubiere actualizado.
 En los casos de delitos flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo las reglas de disciplina y jerarquía para cometer de modo violento y reiterado o con fines predominantemente lucrativos algunos de los delitos señalados por la ley como graves.
-Cuando el indiciado fuese detenido o se presentare voluntariamente será inmediatamente registrado por el Ministerio Público, quien tendrá la obligación de hacerle saber las garantías consagradas en el
-
-### artículo 20
-Constitucional.
+Cuando el indiciado fuese detenido o se presentare voluntariamente será inmediatamente registrado por el Ministerio Público, quien tendrá la obligación de hacerle saber las garantías consagradas en el artículo 20 Constitucional.
 El registro de detención que realicen la Policía Ministerial Militar y el Ministerio Público en todos los casos antes citados, deberá contener, al menos lo siguiente:
 
 I. Nombre, grado y en su caso apodo del detenido;
@@ -1154,10 +1148,7 @@ III.- que no hayan sabido antes que se iba a cometer el nuevo delito, y IV.- que
 Artículo reformado DOF 16-07-2025
 
 ### Artículo 114
-.- El que empleando alguno de los medios de que hablan las fracciones I, II y III del
-
-### artículo 109
-y II del 111, compela o induzca a otro a cometer un delito será responsable de los demás delitos que cometa su coautor o su cómplice, solamente en los siguientes casos:
+.- El que empleando alguno de los medios de que hablan las fracciones I, II y III del artículo 109 y II del 111, compela o induzca a otro a cometer un delito será responsable de los demás delitos que cometa su coautor o su cómplice, solamente en los siguientes casos:
 I.- Cuando el nuevo delito sea un medio adecuado para la ejecución del otro;
 II.- cuando sea consecuencia necesaria o natural de éste, o de los medios concertados.
 Pero ni aun en estos dos casos tendrá responsabilidad por los nuevos delitos, si éstos dejaran de serlo si él los ejecutare.
@@ -1427,10 +1418,7 @@ CAPITULO VI Aplicación de penas a los cómplices y encubridores
 .- A los encubridores de primera clase se les impondrá la pena que fija el precepto que antecede, y, además, si fueren de la categoría de cabo en adelante, suspensión de empleo de dieciséis a cincuenta días.
 
 ### Artículo 168
-.- Si los encubridores fueren de segunda clase, además de la pena mencionada en el
-
-### artículo 166
-, sufrirán la de suspensión de empleo, por el término de seis meses a un año.
+.- Si los encubridores fueren de segunda clase, además de la pena mencionada en el artículo 166, sufrirán la de suspensión de empleo, por el término de seis meses a un año.
 
 ### Artículo 169
 .- Si los encubridores fueren de tercera clase, se les impondrá, además de la pena señalada en el artículo 166, la de destitución del empleo que desempeñen.
@@ -1793,10 +1781,7 @@ Artículo reformado DOF 16-07-2025
 .- Las penas establecidas en el artículo 241, se reducirán, si lo que se hubiere sustraído fuere devuelto antes de tres días, contados desde que hubiere sido descubierto el delito en la corporación o dependencia:
 I.- A dos meses de prisión si el valor de lo sustraído no excediere de veinte Unidades de Medida y Actualización;
 Fracción reformada DOF 16-07-2025 II.- A cuatro meses de prisión, si ese valor excediere de veinte Unidades de Medida y Actualización y no pasare de doscientas, y Fracción reformada DOF 16-07-2025 III.- A un año de prisión en los demás casos, aumentando quince días por cada veinte Unidades de Medida y Actualización o fracción de exceso, sobre doscientas, pero sin que la pena pueda exceder de ocho años de prisión.
-Fracción reformada DOF 16-07-2025 Si la devolución se efectuare después de tres días, y antes de que se pronuncie sentencia definitiva, la pena aplicable consistirá en el mínimo de la privativa de libertad correspondiente, conforme al indicado
-
-### artículo 241
-y en la destitución que el mismo precepto establece.
+Fracción reformada DOF 16-07-2025 Si la devolución se efectuare después de tres días, y antes de que se pronuncie sentencia definitiva, la pena aplicable consistirá en el mínimo de la privativa de libertad correspondiente, conforme al indicado artículo 241 y en la destitución que el mismo precepto establece.
 Párrafo reformado DOF 13-06-2014 Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 22-07-1994
 
 ### Artículo 244
@@ -1929,10 +1914,7 @@ Fracción reformada DOF 16-07-2025 IV.- El que sin estar desempeñando servicio 
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 268
-.- En los casos del artículo anterior y en aquellos a que se refieren las fracciones I y II del
-
-### artículo 270
-, si la deserción se hubiere efectuado en campaña se aumentarán en dos años las penas privativas de libertad señaladas en esos preceptos.
+.- En los casos del artículo anterior y en aquellos a que se refieren las fracciones I y II del artículo 270, si la deserción se hubiere efectuado en campaña se aumentarán en dos años las penas privativas de libertad señaladas en esos preceptos.
 Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 13-06-2014
 
 ### Artículo 269
@@ -2100,10 +2082,7 @@ Fe de erratas al párrafo DOF 27-09-1933. Reformado DOF 29-06-2005
 .- Si en la orden cuyo cumplimiento se trate de impedir, concurriere alguna de las circunstancias especificadas en los artículos 288 y 289, las disposiciones contenidas en esos preceptos, serán igualmente aplicables a los casos comprendidos en el artículo que antecede.
 
 ### Artículo 292
-.- Cuando la insubordinación consistiere en vías de hecho o estuviere comprendida en el
-
-### artículo 290
-, si se cometiere en marcha para atacar al enemigo, frente a él, esperando a la defensiva, bajo su persecución o durante la retirada, se aplicará pena de treinta a sesenta años de prisión sin tener en cuenta las disposiciones de los artículos 119 fracción III, 288 y 289.
+.- Cuando la insubordinación consistiere en vías de hecho o estuviere comprendida en el artículo 290, si se cometiere en marcha para atacar al enemigo, frente a él, esperando a la defensiva, bajo su persecución o durante la retirada, se aplicará pena de treinta a sesenta años de prisión sin tener en cuenta las disposiciones de los artículos 119 fracción III, 288 y 289.
 Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 29-06-2005 CAPITULO II Abuso de autoridad
 
 ### Artículo 293
@@ -4877,13 +4856,7 @@ DECRETO por el que se reforman diversos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ### ARTÍCULO ÚNICO
-Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al
-
-### artículo 47
-de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del
-
-### artículo 51
-de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
+Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
 
 ## TRANSITORIO
 
@@ -5016,10 +4989,7 @@ DECRETO por el que se reforman y derogan diversas disposiciones del Código de d
 Publicado en el Diario Oficial de la Federación el 21 de junio de 2018
 
 ### Artículo Primero
-Se reforman los artículos 211, 213, primer párrafo y 216, fracción I; y se deroga el
-
-### artículo 212
-del Código de Justicia Militar, para quedar como sigue: ……..
+Se reforman los artículos 211, 213, primer párrafo y 216, fracción I; y se deroga el artículo 212 del Código de Justicia Militar, para quedar como sigue: ……..
 
 ## Transitorio
 

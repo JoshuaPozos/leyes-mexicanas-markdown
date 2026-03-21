@@ -14,57 +14,27 @@ SE CREA LA   Y REFORMA LA FRACCIÓN IV, DEL ARTÍCULO 7o. DE LA LEY GENERAL DE E
 Se crea la Ley General de Derechos Lingüísticos de los Pueblos Indígenas conforme al texto siguiente.
 
 ## Capítulo I — DISPOSICIONES GENERALES
-
-### ARTÍCULO 1
-. La presente Ley es de orden público e interés social, de observancia general en los Estados Unidos Mexicanos y tiene por objeto regular el reconocimiento y protección de los derechos lingüísticos, individuales y colectivos de los pueblos y comunidades indígenas, así como la promoción del uso cotidiano y desarrollo de las lenguas indígenas, bajo un contexto de respeto a sus derechos.
-Artículo reformado DOF 15-12-2015
-
-### ARTÍCULO 2
-. Las lenguas indígenas son aquellas que proceden de los pueblos existentes en el territorio nacional antes del establecimiento del Estado Mexicano, además de aquellas provenientes de otros pueblos indoamericanos, igualmente preexistentes que se han arraigado en el territorio nacional con posterioridad y que se reconocen por poseer un conjunto ordenado y sistemático de formas orales funcionales y simbólicas de comunicación.
-
-### ARTÍCULO 3
-. Las lenguas indígenas son parte integrante del patrimonio cultural y lingüístico nacional.
+ARTÍCULO 1. La presente Ley es de orden público e interés social, de observancia general en los Estados Unidos Mexicanos y tiene por objeto regular el reconocimiento y protección de los derechos lingüísticos, individuales y colectivos de los pueblos y comunidades indígenas, así como la promoción del uso cotidiano y desarrollo de las lenguas indígenas, bajo un contexto de respeto a sus derechos.
+Artículo reformado DOF 15-12-2015 ARTÍCULO 2. Las lenguas indígenas son aquellas que proceden de los pueblos existentes en el territorio nacional antes del establecimiento del Estado Mexicano, además de aquellas provenientes de otros pueblos indoamericanos, igualmente preexistentes que se han arraigado en el territorio nacional con posterioridad y que se reconocen por poseer un conjunto ordenado y sistemático de formas orales funcionales y simbólicas de comunicación.
+ARTÍCULO 3. Las lenguas indígenas son parte integrante del patrimonio cultural y lingüístico nacional.
 La diversidad de lenguas indígenas es una de las principales expresiones de la composición pluricultural de la Nación Mexicana.
-Artículo reformado DOF 15-12-2015
-
-### ARTÍCULO 4
-.- Las lenguas indígenas que se reconozcan en los términos de la presente Ley y el español son lenguas nacionales por su origen histórico y tendrán la misma validez, garantizando en todo momento los derechos humanos a la no discriminación y acceso a la justicia de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia de los que el Estado Mexicano sea parte.
-Artículo reformado DOF 15-12-2015
-
-### ARTÍCULO 5
-. El Estado a través de sus tres órdenes de gobierno, -Federación, Entidades Federativas y municipios-, en los ámbitos de sus respectivas competencias, reconocerá, protegerá y promoverá la preservación, desarrollo y uso de las lenguas indígenas nacionales.
-
-### ARTÍCULO 6
-. El Estado adoptará e instrumentará las medidas necesarias para asegurar que los medios de comunicación masiva difundan la realidad y la diversidad lingüística y cultural de la Nación Mexicana. Además, destinará un porcentaje del tiempo que dispone en los medios de comunicación masiva concesionados, de acuerdo a la legislación aplicable, para la emisión de programas en las diversas lenguas nacionales habladas en sus áreas de cobertura, y de programas culturales en los que se promueva la literatura, tradiciones orales y el uso de las lenguas indígenas nacionales de las diversas regiones del país.
-
-### ARTÍCULO 7
-. Las lenguas indígenas serán válidas, al igual que el español, para cualquier asunto o trámite de carácter público, así como para acceder plenamente a la gestión, servicios e información pública. Al Estado corresponde garantizar el ejercicio de los derechos previstos en este artículo, conforme a lo siguiente: a).- En el Distrito Federal y las demás entidades federativas con municipios o comunidades que hablen lenguas indígenas, los Gobiernos correspondientes, en consulta con las comunidades indígenas originarias y migrantes, determinarán cuáles de sus dependencias administrativas adoptarán e instrumentarán las medidas para que las instancias requeridas puedan atender y resolver los asuntos que se les planteen en lenguas indígenas. b).- En los municipios con comunidades que hablen lenguas indígenas, se adoptarán e instrumentarán las medidas a que se refiere el párrafo anterior, en todas sus instancias.
+Artículo reformado DOF 15-12-2015 ARTÍCULO 4.- Las lenguas indígenas que se reconozcan en los términos de la presente Ley y el español son lenguas nacionales por su origen histórico y tendrán la misma validez, garantizando en todo momento los derechos humanos a la no discriminación y acceso a la justicia de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia de los que el Estado Mexicano sea parte.
+Artículo reformado DOF 15-12-2015 ARTÍCULO 5. El Estado a través de sus tres órdenes de gobierno, -Federación, Entidades Federativas y municipios-, en los ámbitos de sus respectivas competencias, reconocerá, protegerá y promoverá la preservación, desarrollo y uso de las lenguas indígenas nacionales.
+ARTÍCULO 6. El Estado adoptará e instrumentará las medidas necesarias para asegurar que los medios de comunicación masiva difundan la realidad y la diversidad lingüística y cultural de la Nación Mexicana. Además, destinará un porcentaje del tiempo que dispone en los medios de comunicación masiva concesionados, de acuerdo a la legislación aplicable, para la emisión de programas en las diversas lenguas nacionales habladas en sus áreas de cobertura, y de programas culturales en los que se promueva la literatura, tradiciones orales y el uso de las lenguas indígenas nacionales de las diversas regiones del país.
+ARTÍCULO 7. Las lenguas indígenas serán válidas, al igual que el español, para cualquier asunto o trámite de carácter público, así como para acceder plenamente a la gestión, servicios e información pública. Al Estado corresponde garantizar el ejercicio de los derechos previstos en este artículo, conforme a lo siguiente: a).- En el Distrito Federal y las demás entidades federativas con municipios o comunidades que hablen lenguas indígenas, los Gobiernos correspondientes, en consulta con las comunidades indígenas originarias y migrantes, determinarán cuáles de sus dependencias administrativas adoptarán e instrumentarán las medidas para que las instancias requeridas puedan atender y resolver los asuntos que se les planteen en lenguas indígenas. b).- En los municipios con comunidades que hablen lenguas indígenas, se adoptarán e instrumentarán las medidas a que se refiere el párrafo anterior, en todas sus instancias.
 La Federación y las entidades federativas tendrán disponibles y difundirán a través de textos, medios audiovisuales e informáticos: leyes, reglamentos, así como los contenidos de los programas, obras, servicios dirigidos a las comunidades indígenas, en la lengua de sus correspondientes beneficiarios.
-
-### ARTÍCULO 8
-. Ninguna persona podrá ser sujeto a cualquier tipo de discriminación a causa o en virtud de la lengua que hable.
+ARTÍCULO 8. Ninguna persona podrá ser sujeto a cualquier tipo de discriminación a causa o en virtud de la lengua que hable.
 
 ## Capítulo II — DE LOS DERECHOS DE LOS HABLANTES DE LENGUAS INDÍGENAS
-
-### ARTÍCULO 9
-. Es derecho de todo mexicano comunicarse en la lengua de la que sea hablante, sin restricciones en el ámbito público o privado, en forma oral o escrita, en todas sus actividades sociales, económicas, políticas, culturales, religiosas y cualesquiera otras.
-
-### ARTÍCULO 10
-. El Estado garantizará el derecho de los pueblos y comunidades indígenas el acceso a la jurisdicción del Estado en la lengua indígena nacional de que sean hablantes. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos.
+ARTÍCULO 9. Es derecho de todo mexicano comunicarse en la lengua de la que sea hablante, sin restricciones en el ámbito público o privado, en forma oral o escrita, en todas sus actividades sociales, económicas, políticas, culturales, religiosas y cualesquiera otras.
+ARTÍCULO 10. El Estado garantizará el derecho de los pueblos y comunidades indígenas el acceso a la jurisdicción del Estado en la lengua indígena nacional de que sean hablantes. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos.
 Las autoridades federales responsables de la procuración y administración de justicia, incluyendo las agrarias y laborales, proveerán lo necesario a efecto de que en los juicios que realicen, los indígenas sean asistidos gratuitamente, en todo tiempo, por intérpretes y defensores que tengan conocimiento de su lengua indígena y cultura.
 En los términos del artículo 5o., en las entidades federativas y en los municipios con comunidades que hablen lenguas indígenas, se adoptarán e instrumentarán las medidas a que se refiere el párrafo anterior, en las instancias que se requieran.
-
-### ARTÍCULO 11
-. Las autoridades educativas federales y de las entidades federativas, garantizarán que la población indígena tenga acceso a la educación obligatoria, bilingüe e intercultural, y adoptarán las medidas necesarias para que en el sistema educativo se asegure el respeto a la dignidad e identidad de las personas, así como a la práctica y uso de su lengua indígena. Asimismo, en los niveles medio y superior, se fomentará la interculturalidad, el multilingüismo y el respeto a la diversidad y los derechos lingüísticos.
-Artículo reformado DOF 15-12-2015
-
-### ARTÍCULO 12
-. La sociedad y en especial los habitantes y las instituciones de los pueblos y las comunidades indígenas serán corresponsables en la realización de los objetivos de esta Ley, y participantes activos en el uso y la enseñanza de las lenguas en el ámbito familiar, comunitario y regional para la rehabilitación lingüística.
+ARTÍCULO 11. Las autoridades educativas federales y de las entidades federativas, garantizarán que la población indígena tenga acceso a la educación obligatoria, bilingüe e intercultural, y adoptarán las medidas necesarias para que en el sistema educativo se asegure el respeto a la dignidad e identidad de las personas, así como a la práctica y uso de su lengua indígena. Asimismo, en los niveles medio y superior, se fomentará la interculturalidad, el multilingüismo y el respeto a la diversidad y los derechos lingüísticos.
+Artículo reformado DOF 15-12-2015 ARTÍCULO 12. La sociedad y en especial los habitantes y las instituciones de los pueblos y las comunidades indígenas serán corresponsables en la realización de los objetivos de esta Ley, y participantes activos en el uso y la enseñanza de las lenguas en el ámbito familiar, comunitario y regional para la rehabilitación lingüística.
 
 ## Capítulo III — DE LA DISTRIBUCIÓN, CONCURRENCIA Y COORDINACIÓN DE COMPETENCIAS
-
-### ARTÍCULO 13
-. Corresponde al Estado en sus distintos órdenes de gobierno la creación de instituciones y la realización de actividades en sus respectivos ámbitos de competencia, para lograr los objetivos generales de la presente Ley, y en particular las siguientes:
+ARTÍCULO 13. Corresponde al Estado en sus distintos órdenes de gobierno la creación de instituciones y la realización de actividades en sus respectivos ámbitos de competencia, para lograr los objetivos generales de la presente Ley, y en particular las siguientes:
 
 I. Incluir dentro de los planes y programas, nacionales, estatales y municipales en materia de educación y cultura indígena las políticas y acciones tendientes a la protección, preservación, promoción y desarrollo bajo un contexto de respeto y reconocimiento de las diversas lenguas indígenas nacionales, contando con la participación de los pueblos y comunidades indígenas;
 Fracción reformada DOF 15-12-2015
@@ -101,9 +71,7 @@ XV. Instrumentar las medidas necesarias para que en los municipios en donde al m
 Fracción adicionada DOF 06-04-2010. Reformada DOF 18-10-2023
 
 ## Capítulo IV — DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS
-
-### ARTÍCULO 14
-. Se crea el Instituto Nacional de Lenguas Indígenas, como organismo descentralizado de la Administración Pública Federal, de servicio público y social, con personalidad jurídica y patrimonio propio, sectorizado en la Secretaría de Cultura, cuyo objeto es promover el fortalecimiento, preservación y desarrollo de las lenguas indígenas que se hablan en el territorio nacional, el conocimiento y disfrute de la riqueza cultural de la Nación, y asesorar a los tres órdenes de gobierno para articular las políticas públicas necesarias en la materia. Para el cumplimiento de este objeto, el Instituto tendrá las siguientes características y atribuciones:
+ARTÍCULO 14. Se crea el Instituto Nacional de Lenguas Indígenas, como organismo descentralizado de la Administración Pública Federal, de servicio público y social, con personalidad jurídica y patrimonio propio, sectorizado en la Secretaría de Cultura, cuyo objeto es promover el fortalecimiento, preservación y desarrollo de las lenguas indígenas que se hablan en el territorio nacional, el conocimiento y disfrute de la riqueza cultural de la Nación, y asesorar a los tres órdenes de gobierno para articular las políticas públicas necesarias en la materia. Para el cumplimiento de este objeto, el Instituto tendrá las siguientes características y atribuciones:
 Párrafo reformado DOF 17-12-2015
 
 a) Diseñar estrategias e instrumentos para el desarrollo de las lenguas indígenas nacionales, en coordinación con los tres órdenes de gobierno y los pueblos y comunidades indígenas.
@@ -130,52 +98,26 @@ j) Informar sobre la aplicación de lo que dispone la Constitución, los tratado
 k) Promover y apoyar la creación y funcionamiento de institutos en los estados y municipios, conforme a las leyes aplicables de las entidades federativas, según la presencia de las lenguas indígenas nacionales en los territorios respectivos.
 
 l) Celebrar convenios, con apego a la Constitución Política de los Estados Unidos Mexicanos, con personas físicas o morales y con organismos públicos o privados, nacionales, internacionales o extranjeros, con apego a las actividades propias del Instituto y a la normatividad aplicable.
-
-### ARTÍCULO 15
-. La administración del Instituto Nacional de Lenguas Indígenas estará a cargo de un Consejo Nacional, como órgano colectivo de gobierno, y un Director General responsable del funcionamiento del propio Instituto. El domicilio legal del Instituto será la Ciudad de México, Distrito Federal.
-
-### ARTÍCULO 16
-. El Consejo Nacional se integrará de manera paritaria, con: siete representantes de la Administración Pública Federal, tres representantes de escuelas, instituciones de educación superior y universidades indígenas, y tres representantes de instituciones académicas y organismos civiles que se hayan distinguido por la promoción, preservación y defensa del uso de las lenguas indígenas. Para garantizar el principio de paridad de género, el total de integrantes del Consejo Nacional no deberá exceder de 7 personas del mismo género.
+ARTÍCULO 15. La administración del Instituto Nacional de Lenguas Indígenas estará a cargo de un Consejo Nacional, como órgano colectivo de gobierno, y un Director General responsable del funcionamiento del propio Instituto. El domicilio legal del Instituto será la Ciudad de México, Distrito Federal.
+ARTÍCULO 16. El Consejo Nacional se integrará de manera paritaria, con: siete representantes de la Administración Pública Federal, tres representantes de escuelas, instituciones de educación superior y universidades indígenas, y tres representantes de instituciones académicas y organismos civiles que se hayan distinguido por la promoción, preservación y defensa del uso de las lenguas indígenas. Para garantizar el principio de paridad de género, el total de integrantes del Consejo Nacional no deberá exceder de 7 personas del mismo género.
 Quienes representan a la Administración Pública Federal son: 1).- La persona titular de la Secretaría de Cultura, quien lo presidirá en su carácter de titular de la coordinadora de sector, con fundamento en lo establecido en la Ley Federal de las Entidades Paraestatales. 2).- Una persona representante de la Secretaría de Hacienda y Crédito Público con el nivel de Subsecretaría. 3).- Una persona representante de la Secretaría de Bienestar. 4).- Una persona representante de la Secretaría de Infraestructura, Comunicaciones y Transportes. 5).- Una persona representante de la Secretaría de Educación Pública. 6).- Una persona representante del Instituto Nacional de los Pueblos Indígenas. 7).- Una persona representante de la Secretaría de Relaciones Exteriores.
 La persona titular de la Dirección General será designada por la persona titular de la Presidencia del Ejecutivo Federal, a propuesta de una terna integrada de manera paritaria y presentada por el Consejo Nacional, y podrá permanecer en el cargo por un periodo máximo de 6 años; debiendo ser preferentemente una persona hablante nativa de alguna lengua indígena; con experiencia relacionada con alguna de las actividades sustantivas del Instituto y gozar de reconocido prestigio profesional y académico en la investigación, desarrollo, difusión y uso de las lenguas indígenas.
-Artículo reformado DOF 15-12-2015, 17-12-2015, 17-01-2022, 28-04-2022
-
-### ARTÍCULO 17
-. Las reglas de funcionamiento del órgano de gobierno, la estructura administrativa y operativa, así como las facultades y reglas de ejecución del órgano de dirección del instituto, se establecerán en el Reglamento Interno del organismo y que serán expedidas por el Consejo Nacional.
+Artículo reformado DOF 15-12-2015, 17-12-2015, 17-01-2022, 28-04-2022 ARTÍCULO 17. Las reglas de funcionamiento del órgano de gobierno, la estructura administrativa y operativa, así como las facultades y reglas de ejecución del órgano de dirección del instituto, se establecerán en el Reglamento Interno del organismo y que serán expedidas por el Consejo Nacional.
 El órgano de gobierno se reunirá cada seis meses de manera ordinaria, y de manera extraordinaria cuando sea convocado por su Presidente; se integrará por la mayoría de sus integrantes, y sus decisiones se adoptarán con la mayoría de los presentes.
-
-### ARTÍCULO 18
-. Para el cumplimiento de sus atribuciones la persona titular de la Dirección General tendrá las facultades de dominio, de administración y para pleitos y cobranzas, incluyendo las que requieran de cláusula especial, sin más limitaciones que las específicas que le llegue a imponer en forma general el Estatuto o temporales por parte del Consejo Nacional.
-Artículo reformado DOF 28-04-2022
-
-### ARTÍCULO 19
-. El órgano de vigilancia administrativa del Instituto Nacional de Lenguas Indígenas estará integrado por una Comisaria o Comisario Público Propietario y su correspondiente persona Suplente, designadas por la Secretaría de la Función Pública, en observancia al principio de paridad de género.
-Artículo reformado DOF 09-04-2012, 28-04-2022
-
-### ARTÍCULO 20
-. El Consejo Nacional del Instituto Nacional de Lenguas Indígenas, previa consulta a los estudios particulares de los Institutos Nacional de Antropología e Historia y Nacional de Estadística, Geografía e Informática, a propuesta conjunta de los representantes de los pueblos y comunidades indígenas, y de las instituciones académicas que formen parte del propio Consejo, hará el catálogo de las lenguas indígenas; el catálogo será publicado en el Diario Oficial de la Federación.
-
-### ARTÍCULO 21
-. El patrimonio del Instituto Nacional de Lenguas Indígenas se integrará con los bienes que enseguida se enumeran:
+ARTÍCULO 18. Para el cumplimiento de sus atribuciones la persona titular de la Dirección General tendrá las facultades de dominio, de administración y para pleitos y cobranzas, incluyendo las que requieran de cláusula especial, sin más limitaciones que las específicas que le llegue a imponer en forma general el Estatuto o temporales por parte del Consejo Nacional.
+Artículo reformado DOF 28-04-2022 ARTÍCULO 19. El órgano de vigilancia administrativa del Instituto Nacional de Lenguas Indígenas estará integrado por una Comisaria o Comisario Público Propietario y su correspondiente persona Suplente, designadas por la Secretaría de la Función Pública, en observancia al principio de paridad de género.
+Artículo reformado DOF 09-04-2012, 28-04-2022 ARTÍCULO 20. El Consejo Nacional del Instituto Nacional de Lenguas Indígenas, previa consulta a los estudios particulares de los Institutos Nacional de Antropología e Historia y Nacional de Estadística, Geografía e Informática, a propuesta conjunta de los representantes de los pueblos y comunidades indígenas, y de las instituciones académicas que formen parte del propio Consejo, hará el catálogo de las lenguas indígenas; el catálogo será publicado en el Diario Oficial de la Federación.
+ARTÍCULO 21. El patrimonio del Instituto Nacional de Lenguas Indígenas se integrará con los bienes que enseguida se enumeran:
 
 I. La cantidad que anualmente le fije como subsidio el Gobierno Federal, a través del Presupuesto de Egresos;
 
 II. Con los productos que adquiera por las obras que realice y por la venta de sus publicaciones, y
 
 III. Los que adquiera por herencia, legados, donaciones o por cualquier otro título de personas o de instituciones públicas o privadas.
-
-### ARTÍCULO 22
-. Para garantizar el cumplimiento de las obligaciones y atribuciones señaladas en esta Ley y conforme a lo dispuesto en el penúltimo párrafo del Apartado B, del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de derechos y cultura indígena, la Cámara de Diputados del Congreso de la Unión, las Legislaturas de las Entidades Federativas y los Ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas en los presupuestos de egresos que aprueben para proteger, promover, preservar, usar y desarrollar las lenguas indígenas.
-
-### ARTÍCULO 23
-.- Las relaciones laborales del Instituto Nacional de Lenguas Indígenas y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional.
-Artículo reformado DOF 18-06-2010
-
-### ARTÍCULO 24
-. El Instituto Nacional de Lenguas Indígenas y sus correlativos estatales en su caso, promoverán que las autoridades correspondientes expidan las leyes que sancionen y penalicen la comisión de cualquier tipo de discriminación, exclusión y explotación de las personas hablantes de lenguas indígenas nacionales, o que transgredan las disposiciones que establecen derechos a favor de los hablantes de lenguas indígenas nacionales, consagrados en esta ley.
-
-### ARTÍCULO 25
-. Las autoridades, instituciones, servidores y funcionarios públicos que contravengan lo dispuesto en la presente ley serán sujetos de responsabilidad, de conformidad con lo previsto en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos referente a la responsabilidad de los servidores públicos y sus leyes reglamentarias.
+ARTÍCULO 22. Para garantizar el cumplimiento de las obligaciones y atribuciones señaladas en esta Ley y conforme a lo dispuesto en el penúltimo párrafo del Apartado B, del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de derechos y cultura indígena, la Cámara de Diputados del Congreso de la Unión, las Legislaturas de las Entidades Federativas y los Ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas en los presupuestos de egresos que aprueben para proteger, promover, preservar, usar y desarrollar las lenguas indígenas.
+ARTÍCULO 23.- Las relaciones laborales del Instituto Nacional de Lenguas Indígenas y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional.
+Artículo reformado DOF 18-06-2010 ARTÍCULO 24. El Instituto Nacional de Lenguas Indígenas y sus correlativos estatales en su caso, promoverán que las autoridades correspondientes expidan las leyes que sancionen y penalicen la comisión de cualquier tipo de discriminación, exclusión y explotación de las personas hablantes de lenguas indígenas nacionales, o que transgredan las disposiciones que establecen derechos a favor de los hablantes de lenguas indígenas nacionales, consagrados en esta ley.
+ARTÍCULO 25. Las autoridades, instituciones, servidores y funcionarios públicos que contravengan lo dispuesto en la presente ley serán sujetos de responsabilidad, de conformidad con lo previsto en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos referente a la responsabilidad de los servidores públicos y sus leyes reglamentarias.
 
 ### ARTÍCULO SEGUNDO
 ..........

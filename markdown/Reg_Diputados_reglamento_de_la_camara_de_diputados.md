@@ -292,10 +292,7 @@ VI. Tenga imposibilidad jurídica determinada por una autoridad competente.
 
 I. Haber sido sancionado con la pérdida del cargo, en términos de lo dispuesto en el artículo 62 constitucional;
 
-II. No concurrir al desempeño de su función en los términos que dispone el primer párrafo del
-
-### artículo 63
-constitucional;
+II. No concurrir al desempeño de su función en los términos que dispone el primer párrafo del artículo 63 constitucional;
 
 III. Muerte o enfermedad que provoque una incapacidad permanente que impida el desempeño del cargo;
 
@@ -566,10 +563,7 @@ Artículo reformado DOF 20-04-2011, 28-12-2016
 Artículo reformado DOF 20-04-2011 CAPITULO III Del Orden del Día
 
 ## Sección Primera
-Integración y Contenido
-
-### Artículo 59
-. 1. La Mesa Directiva integrará el proyecto del Orden del día de las sesiones que dará a conocer al Pleno con las propuestas que reciba oportunamente de la Junta, los dictámenes y resoluciones que le turnen las comisiones, así como los asuntos que reciba de la Cámara de Senadores, los otros dos Poderes de la Unión, los Poderes de los Estados, los poderes locales de la Ciudad de México, los Municipios y los organismos públicos o en su caso, de los particulares.
+Integración y Contenido Artículo 59. 1. La Mesa Directiva integrará el proyecto del Orden del día de las sesiones que dará a conocer al Pleno con las propuestas que reciba oportunamente de la Junta, los dictámenes y resoluciones que le turnen las comisiones, así como los asuntos que reciba de la Cámara de Senadores, los otros dos Poderes de la Unión, los Poderes de los Estados, los poderes locales de la Ciudad de México, los Municipios y los organismos públicos o en su caso, de los particulares.
 Numeral reformado DOF 04-05-2016 2. Cuando la Junta remita los asuntos a la Mesa Directiva, señalará los nombres de los diputados o diputadas que intervendrán en tribuna. 3. Tendrán prioridad aquellos asuntos que impliquen un mayor interés público y los que por término constitucional, legal o reglamentario, requieran discusión y votación inmediata en el Pleno.
 
 ### Artículo 60
@@ -943,10 +937,7 @@ II. Copia simple de la versión estenográfica de la Reunión de la comisión en
 
 III. Copia simple de la versión estenográfica de la discusión del dictamen ante el Pleno, y
 
-IV. Otros documentos obtenidos dentro del proceso de elaboración del dictamen a que se refiere el
-
-### artículo 176
-, numeral 1, fracciones II y III de este Reglamento.
+IV. Otros documentos obtenidos dentro del proceso de elaboración del dictamen a que se refiere el artículo 176, numeral 1, fracciones II y III de este Reglamento.
 
 ### Artículo 95
 . 1. En el caso de minutas a las que hace referencia el artículo 72 constitucional:
@@ -989,10 +980,7 @@ c) La minuta será discutida en sus términos y sin mayor trámite como el prime
 
 d) La minuta se discutirá y tendrá que ser aprobada por mayoría absoluta, de lo contrario, se tendrá por desechada.
 
-V. Cuando la minuta que contenga un proyecto de ley o decreto con carácter preferente sea desechada, en todo o en parte, o modificada por la Cámara, ésta deberá devolverla, acompañada de las observaciones pertinentes, a la Cámara de Senadores, para los efectos del
-
-### artículo 72
-, Apartados D o E, de la Constitución.
+V. Cuando la minuta que contenga un proyecto de ley o decreto con carácter preferente sea desechada, en todo o en parte, o modificada por la Cámara, ésta deberá devolverla, acompañada de las observaciones pertinentes, a la Cámara de Senadores, para los efectos del artículo 72, Apartados D o E, de la Constitución.
 Numeral derogado DOF 20-04-2011. Adicionado DOF 31-12-2012 CAPITULO II Del Trámite de los Asuntos ante el Pleno
 
 ### Artículo 96
@@ -1702,15 +1690,9 @@ I. La Cámara remitirá a cada comisión, el Plan Nacional de Desarrollo y los a
 
 II. La Cámara solicitará los informes sobre el cumplimiento de los resultados alcanzados en los planes y programas sectoriales y los enviará a las comisiones que corresponda, a fin de que estás los confronten con los objetivos enunciados en el Plan Nacional de Desarrollo;
 
-III. La comisión podrá solicitar la comparecencia de los funcionarios públicos enunciados en el
+III. La comisión podrá solicitar la comparecencia de los funcionarios públicos enunciados en el artículo 93 de la Constitución, quienes comparecerán bajo protesta de decir verdad y podrán ser sujetos de interpelación, ante la propia comisión;
 
-### artículo 93
-de la Constitución, quienes comparecerán bajo protesta de decir verdad y podrán ser sujetos de interpelación, ante la propia comisión;
-
-IV. La comisión podrá solicitar mayor información a los servidores públicos enunciados en el
-
-### artículo 93
-de la Constitución, que se correspondan con las materias de su competencia, mediante la pregunta parlamentaria, y
+IV. La comisión podrá solicitar mayor información a los servidores públicos enunciados en el artículo 93 de la Constitución, que se correspondan con las materias de su competencia, mediante la pregunta parlamentaria, y
 
 V. La comisión formulará un documento anual en el que conste el análisis de este informe, que deberá remitirse a la Mesa Directiva, para que dé cuenta al Pleno, se difunda en los medios electrónicos de la Cámara y sea publicado en la Gaceta. 2. Las comisiones ordinarias formularán una opinión fundada a la Comisión de Presupuesto y Cuenta Pública respecto de los Informes Trimestrales que presenten las dependencias del Poder Ejecutivo Federal, dentro de los sesenta días naturales contados a partir de su recepción. Dichas opiniones tendrán por objeto hacer aportaciones a esa comisión sobre aspectos presupuestales específicos, en relación al cumplimiento de los objetivos de los programas del correspondiente ramo de la Administración Pública Federal, y para que sean consideradas en la revisión de la Cuenta Pública.
 
@@ -2878,34 +2860,32 @@ b) El Acuerdo de la Conferencia para la dirección y programación de los trabaj
 
 c) El Acuerdo de la Conferencia para la dirección y programación de los trabajos legislativos, que establece los lineamientos para acreditar las asistencias de las diputadas y los diputados a las sesiones plenarias, así como para la justificación de las inasistencias, publicado en la Gaceta Parlamentaria número 2100, del 27 de septiembre de 2006;
 
-d) El Acuerdo de la Mesa Directiva mediante el cual se especifican los criterios para las justificaciones de inasistencias y los permisos del propio órgano de gobierno en términos del
+d) El Acuerdo de la Mesa Directiva mediante el cual se especifican los criterios para las justificaciones de inasistencias y los permisos del propio órgano de gobierno en términos del artículo 20, numeral 1, inciso B) de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicado en la Gaceta Parlamentaria el 12 de octubre de 2006;
 
-### artículo 20
-, numeral 1, inciso B) de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicado en la Gaceta Parlamentaria el 12 de octubre de 2006;
-
-e) El Acuerdo de la Mesa Directiva, mediante el cual se define la fecha en que habrá de aplicarse el acuerdo que establece los lineamientos para acreditar las asistencias de las diputadas y los diputados a las Sesiones Plenarias, así como la justificación de las inasistencias, en términos del
-
-### artículo 20
-, numeral 1, inciso b), de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicado en la Gaceta Parlamentaria el 28 de octubre de 2006;
+e) El Acuerdo de la Mesa Directiva, mediante el cual se define la fecha en que habrá de aplicarse el acuerdo que establece los lineamientos para acreditar las asistencias de las diputadas y los diputados a las Sesiones Plenarias, así como la justificación de las inasistencias, en términos del artículo 20, numeral 1, inciso b), de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicado en la Gaceta Parlamentaria el 28 de octubre de 2006;
 
 f) El Acuerdo de la Mesa Directiva por el que se determina continuar observando y aplicando los acuerdos relacionados con la conducción y el funcionamiento de los trabajos del Pleno formulados por la Conferencia, en tanto se realizan las modificaciones pertinentes o en su caso, se expiden los que correspondan para la LXI Legislatura, publicado en la Gaceta Parlamentaria, año XII, número 2848, el viernes 18 de septiembre de 2009, el 18 de septiembre de 2009 (sic DOF 24-12-2010);
 
 g) El Acuerdo de la Conferencia para la dirección y programación de los trabajos legislativos, mediante el que se determina que las directivas de las comisiones deberán informar a ese órgano parlamentario sobre la asistencia de servidores públicos federales, aprobado el 28 de febrero de 2007, y
 
 h) El Acuerdo de la Conferencia para la dirección y programación de los trabajos legislativos por el que se establecen las Normas relativas al funcionamiento de las comisiones y comités de la Cámara de Diputados, publicado en la Gaceta Parlamentaria número 2907-IV, del martes 8 de diciembre de 2009.
-Tercero. Quedan sin efecto para la Cámara de Diputados, las disposiciones contenidas en el en el Diario Oficial de la Federación el 20 de marzo de 1934 y sus reformas.
-Cuarto. La Mesa Directiva y la Junta, tendrán a su cargo los procedimientos de divulgación y capacitación de los contenidos del presente Reglamento tanto entre los diputados y las diputadas, como entre el personal de la Cámara, para lo que podrán contar con la participación de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias.
-Quinto. La Cámara, a través de la Conferencia y dentro de los cuatro meses siguientes a la vigencia del presente Decreto, deberá disponer las acciones y medidas necesarias para regularizar y concluir el proceso de instrumentación del Servicio de Carrera de la Cámara, en su vertiente parlamentaria.
+**Tercero.** Quedan sin efecto para la Cámara de Diputados, las disposiciones contenidas en el en el Diario Oficial de la Federación el 20 de marzo de 1934 y sus reformas.
+**Cuarto.** La Mesa Directiva y la Junta, tendrán a su cargo los procedimientos de divulgación y capacitación de los contenidos del presente Reglamento tanto entre los diputados y las diputadas, como entre el personal de la Cámara, para lo que podrán contar con la participación de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias.
+**Quinto.** La Cámara, a través de la Conferencia y dentro de los cuatro meses siguientes a la vigencia del presente Decreto, deberá disponer las acciones y medidas necesarias para regularizar y concluir el proceso de instrumentación del Servicio de Carrera de la Cámara, en su vertiente parlamentaria.
 En dicho proceso, se dejarán a salvo los derechos adquiridos del personal hasta ahora considerado como Aspirante al Servicio de Carrera en la vertiente parlamentaria que se encuentre en activo y con permanencia ininterrumpida en la institución desde la adquisición de tal calidad.
 La Conferencia deberá verificar que los Aspirantes al Servicio de Carrera cumplan con los requisitos que prevé el Estatuto en materia de ingreso y que no se encuentren en los supuestos de separación previstos por dicho ordenamiento.
 Para establecer un nuevo programa de instrumentación del Servicio de Carrera de la Cámara en sus dos vertientes, la Conferencia expedirá los lineamientos respectivos, ordenará y vigilará que se realicen las acciones necesarias para la constitución de los órganos que prevé el Estatuto en materia de Servicio de Carrera y tendrá hasta antes de que concluya el Segundo Periodo Ordinario de Sesiones del tercer año de ejercicio de la LXI Legislatura para concluir el proceso de instrumentación del programa.
-Artículo reformado DOF 20-04-2011 Sexto. Los autores de las iniciativas presentadas del 1 de septiembre de 2009 hasta la entrada en vigor del Reglamento de la Cámara de Diputados, que no hayan sido dictaminadas, podrán solicitar a la Mesa Directiva que sus propuestas sean procesadas bajo las reglas que señala el ordenamiento a través de escrito libre, hasta el 30 de septiembre de 2011. De lo contrario, la Mesa Directiva acordará la programación para que las iniciativas se turnen de nueva cuenta a comisiones y les corra el término, a partir de su recepción oficial.
-Artículo reformado DOF 20-04-2011 Séptimo. Las Mesas Directivas de la Cámara de Diputados y de la Cámara de Senadores, podrán acordar los procedimientos a los que se sujetarán las Minutas pendientes de dictamen en la Cámara de Diputados, presentadas desde el 1 de septiembre de 2009, hasta la fecha de entrada en vigor del presente Reglamento. Entre tanto, se atenderán en la Cámara de Diputados conforme a lo dispuesto en su Reglamento.
-Artículo reformado DOF 20-04-2011 Octavo. La Conferencia resolverá respecto de todas las iniciativas, minutas y proposiciones con punto de acuerdo, presentadas antes del 1 de septiembre de 2009, que se encuentran pendientes de dictamen.
-Noveno. Todas aquellas disposiciones del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos que sean materia de Congreso General, así como de la Comisión Permanente, seguirán vigentes en tanto no se expida el ordenamiento específico.
-Décimo. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias tendrá seis meses a partir de la entrada en vigor del presente reglamento, para establecer los Criterios para Inscripciones de Honor en el Recinto de la Cámara de Diputados, a que se refiere el artículo 262 de este Reglamento.
-Décimo Primero. El término para dictaminar las iniciativas en materia de Inscripciones de Honor que la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias haya recibido a partir del 1 de septiembre de 2009, no correrá sino hasta que entren en vigor los Criterios para Inscripciones de Honor en la Cámara de Diputados.
-Décimo Segundo. (Se deroga) Artículo derogado DOF 20-04-2011 Décimo Tercero. (Se deroga) Artículo derogado DOF 20-04-2011 SALON DE SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 15 de diciembre de 2010.- Dip. Jorge Carlos Ramírez Marín, Presidente.Rúbrica.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbrica.
+Artículo reformado DOF 20-04-2011
+**Sexto.** Los autores de las iniciativas presentadas del 1 de septiembre de 2009 hasta la entrada en vigor del Reglamento de la Cámara de Diputados, que no hayan sido dictaminadas, podrán solicitar a la Mesa Directiva que sus propuestas sean procesadas bajo las reglas que señala el ordenamiento a través de escrito libre, hasta el 30 de septiembre de 2011. De lo contrario, la Mesa Directiva acordará la programación para que las iniciativas se turnen de nueva cuenta a comisiones y les corra el término, a partir de su recepción oficial.
+Artículo reformado DOF 20-04-2011
+**Séptimo.** Las Mesas Directivas de la Cámara de Diputados y de la Cámara de Senadores, podrán acordar los procedimientos a los que se sujetarán las Minutas pendientes de dictamen en la Cámara de Diputados, presentadas desde el 1 de septiembre de 2009, hasta la fecha de entrada en vigor del presente Reglamento. Entre tanto, se atenderán en la Cámara de Diputados conforme a lo dispuesto en su Reglamento.
+Artículo reformado DOF 20-04-2011
+**Octavo.** La Conferencia resolverá respecto de todas las iniciativas, minutas y proposiciones con punto de acuerdo, presentadas antes del 1 de septiembre de 2009, que se encuentran pendientes de dictamen.
+**Noveno.** Todas aquellas disposiciones del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos que sean materia de Congreso General, así como de la Comisión Permanente, seguirán vigentes en tanto no se expida el ordenamiento específico.
+**Décimo.** La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias tendrá seis meses a partir de la entrada en vigor del presente reglamento, para establecer los Criterios para Inscripciones de Honor en el Recinto de la Cámara de Diputados, a que se refiere el artículo 262 de este Reglamento.
+**Décimo Primero.** El término para dictaminar las iniciativas en materia de Inscripciones de Honor que la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias haya recibido a partir del 1 de septiembre de 2009, no correrá sino hasta que entren en vigor los Criterios para Inscripciones de Honor en la Cámara de Diputados.
+**Décimo Segundo.** (Se deroga) Artículo derogado DOF 20-04-2011
+**Décimo Tercero.** (Se deroga) Artículo derogado DOF 20-04-2011 SALON DE SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 15 de diciembre de 2010.- Dip. Jorge Carlos Ramírez Marín, Presidente.Rúbrica.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Reglamento de la Cámara de Diputados.
 Publicado en el Diario Oficial de la Federación el 20 de abril de 2011
 
@@ -2936,10 +2916,7 @@ DECRETO por el que se reforman y adicionan diversos artículos del Reglamento de
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2012
 
 ### Artículo Único
-Se reforman el numeral 1 del artículo 81, el segundo párrafo del artículo 107, el numeral 3 del artículo 177, los numerales 1, 2 y 4 del artículo 182. Se adicionan al artículo 3 numeral 1, una fracción IX, recorriéndose la actual a la fracción X, y se recorren en su orden las subsecuentes fracciones XI a la XXV, un segundo párrafo al numeral 2 del artículo 69, una fracción III al numeral 2 del
-
-### artículo 82
-, un numeral 3 al artículo 88, un numeral 3 al artículo 89, un numeral 3 al artículo 95, un numeral 5 al artículo 146 y un numeral 4 al artículo 183, del Reglamento de la Cámara de Diputados, para quedar como sigue: ……….
+Se reforman el numeral 1 del artículo 81, el segundo párrafo del artículo 107, el numeral 3 del artículo 177, los numerales 1, 2 y 4 del artículo 182. Se adicionan al artículo 3 numeral 1, una fracción IX, recorriéndose la actual a la fracción X, y se recorren en su orden las subsecuentes fracciones XI a la XXV, un segundo párrafo al numeral 2 del artículo 69, una fracción III al numeral 2 del artículo 82, un numeral 3 al artículo 88, un numeral 3 al artículo 89, un numeral 3 al artículo 95, un numeral 5 al artículo 146 y un numeral 4 al artículo 183, del Reglamento de la Cámara de Diputados, para quedar como sigue: ……….
 
 ## TRANSITORIO
 
@@ -3088,10 +3065,7 @@ Se adiciona un numeral 3 al artículo 261 del Reglamento de la Cámara de Diputa
 **Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 **Segundo.** La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, emitirá en los sesenta días siguientes a la aprobación del presente Decreto, el Reglamento que regula la entrega de esta condecoración.
 SALÓN DE SESIONES DE LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN.- Ciudad de México, a 27 de abril de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.Rúbrica.- Dip. Ramón Bañales Arambula, Secretario.- Rúbrica.
-DECRETO por el que se adiciona una fracción XIX, recorriéndose en su orden la actual, al
-
-### artículo 6
-del Reglamento de la Cámara de Diputados, en materia de derechos lingüísticos de las diputadas y los diputados.
+DECRETO por el que se adiciona una fracción XIX, recorriéndose en su orden la actual, al artículo 6 del Reglamento de la Cámara de Diputados, en materia de derechos lingüísticos de las diputadas y los diputados.
 Publicado en el Diario Oficial de la Federación el 18 de octubre de 2016
 
 ### Artículo Único
@@ -3116,10 +3090,7 @@ DECRETO por el que se reforman y derogan diversas disposiciones del Reglamento d
 Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2016
 
 ### Artículo Único
-Se reforman los artículos 8, fracción VIII y el inciso b) de la fracción XIII; 33, numeral 1; 35, numeral 1; 44, numeral 2; 47, fracción III; 56, numeral 1, y la fracción IV; 57, numeral 1; 138, numeral 2, fracción I; 192, numeral 2; 242, numeral 1; 245, numeral 2; 247, numeral 1, fracción II y se deroga la Sección Sexta del Capítulo I del Título Tercero, que comprende los artículos 40, 41, 42 y 43 y el
-
-### artículo 238
-del Reglamento de la Cámara de Diputados, para quedar como sigue: ………
+Se reforman los artículos 8, fracción VIII y el inciso b) de la fracción XIII; 33, numeral 1; 35, numeral 1; 44, numeral 2; 47, fracción III; 56, numeral 1, y la fracción IV; 57, numeral 1; 138, numeral 2, fracción I; 192, numeral 2; 242, numeral 1; 245, numeral 2; 247, numeral 1, fracción II y se deroga la Sección Sexta del Capítulo I del Título Tercero, que comprende los artículos 40, 41, 42 y 43 y el artículo 238 del Reglamento de la Cámara de Diputados, para quedar como sigue: ………
 
 ## Transitorio
 
@@ -3151,10 +3122,7 @@ DECRETO por el que se adicionan los artículos 2, 150, 180 y 242 del Reglamento 
 Publicado en el Diario Oficial de la Federación el 19 de mayo de 2017
 
 ### Artículo Único
-Se adicionan la fracción XVIII, recorriéndose en su orden la actual, al numeral 1 del
-
-### artículo 2
-; la fracción XVII, recorriéndose en su orden la actual, al numeral 1 del artículo 150; un numeral 4 al artículo 180; y un numeral 2 al artículo 242 del Reglamento de la Cámara de Diputados, para quedar como sigue: ……..
+Se adicionan la fracción XVIII, recorriéndose en su orden la actual, al numeral 1 del artículo 2; la fracción XVII, recorriéndose en su orden la actual, al numeral 1 del artículo 150; un numeral 4 al artículo 180; y un numeral 2 al artículo 242 del Reglamento de la Cámara de Diputados, para quedar como sigue: ……..
 
 ## Transitorio
 
@@ -3170,10 +3138,7 @@ Se reforma el artículo 109 del Reglamento de la Cámara de Diputados, para qued
 
 **Único.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 SALÓN DE SESIONES DE LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN.- Ciudad de México a 12 de diciembre de 2017.- Dip. Martha Hilda González Calderón, Vicepresidenta.- Rúbrica.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbrica.
-DECRETO por el que se reforman la fracción IV del artículo 104 y la fracción III del
-
-### artículo 105
-del Reglamento de la Cámara de Diputados.
+DECRETO por el que se reforman la fracción IV del artículo 104 y la fracción III del artículo 105 del Reglamento de la Cámara de Diputados.
 Publicado en el Diario Oficial de la Federación el 15 de febrero de 2018
 
 ### Artículo Único
@@ -3352,10 +3317,7 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del R
 Publicado en el Diario Oficial de la Federación el 7 de mayo de 2025
 
 ### Artículo Único
-Se reforman los artículos 2, numeral 1, fracciones XII y XIII; 66, numeral 1, fracción III; 183, numeral 1; 231, numeral 3; 233, numeral 1, fracción III; 312, numerales 2 y 3; y 313, numerales 1 y 2; se adiciona el numeral 7, al artículo 29 y se derogan los numerales 2, 3 y 4 del artículo 183, el
-
-### artículo 185
-, y la fracción IV, numeral 1 y el numeral 2, del artículo 233 del Reglamento de la Cámara de Diputados, para quedar como sigue: ……..
+Se reforman los artículos 2, numeral 1, fracciones XII y XIII; 66, numeral 1, fracción III; 183, numeral 1; 231, numeral 3; 233, numeral 1, fracción III; 312, numerales 2 y 3; y 313, numerales 1 y 2; se adiciona el numeral 7, al artículo 29 y se derogan los numerales 2, 3 y 4 del artículo 183, el artículo 185, y la fracción IV, numeral 1 y el numeral 2, del artículo 233 del Reglamento de la Cámara de Diputados, para quedar como sigue: ……..
 
 ## Transitorio
 

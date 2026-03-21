@@ -496,10 +496,7 @@ III. Visa de visitante para realizar trámites de adopción, que autoriza al ext
 
 IV. Visa de residencia temporal, que autoriza al extranjero para presentarse en cualquier lugar destinado al tránsito internacional de personas y solicitar su ingreso a territorio nacional, con el objeto de permanecer por un tiempo no mayor a cuatro años.
 
-V. Visa de residente temporal estudiante, que autoriza al extranjero para presentarse en cualquier lugar destinado al tránsito internacional de personas y solicitar su ingreso a territorio nacional, con el objeto de permanecer por el tiempo que duren los cursos, estudios, proyectos de investigación o formación que acredite que se llevarán a cabo en instituciones educativas pertenecientes al sistema educativo nacional, y realizar actividades remuneradas conforme a lo dispuesto por la fracción VIII del
-
-### artículo 52
-de esta Ley.
+V. Visa de residente temporal estudiante, que autoriza al extranjero para presentarse en cualquier lugar destinado al tránsito internacional de personas y solicitar su ingreso a territorio nacional, con el objeto de permanecer por el tiempo que duren los cursos, estudios, proyectos de investigación o formación que acredite que se llevarán a cabo en instituciones educativas pertenecientes al sistema educativo nacional, y realizar actividades remuneradas conforme a lo dispuesto por la fracción VIII del artículo 52 de esta Ley.
 
 VI. Visa de residencia permanente, que autoriza al extranjero para presentarse en cualquier lugar destinado al tránsito internacional de personas y solicitar su ingreso a territorio nacional, con el objeto de permanecer de manera indefinida.
 Los criterios para emitir visas serán establecidos en el Reglamento y los lineamientos serán determinados en conjunto por la Secretaría y la Secretaría de Relaciones Exteriores, privilegiando una gestión migratoria congruente que otorgue facilidades en la expedición de visas a fin de favorecer los flujos migratorios ordenados y regulares privilegiando la dignidad de los migrantes.
@@ -616,10 +613,7 @@ En el caso de niñas, niños y adolescentes acompañados y separados, la autoriz
 El Instituto podrá negar el otorgamiento de la autorización a aquellas personas adultas de quien la Procuraduría de Protección hubiera determinado ser contrarios al interés superior de la niña, niño o adolescente de quien se trate.
 Inciso reformado DOF 11-11-2020
 
-c) Ser solicitante de asilo político, de reconocimiento de la condición de refugiado o de protección complementaria del Estado Mexicano, hasta en tanto no se resuelva su situación migratoria. Si la solicitud es positiva se les otorgará la condición de estancia de residente permanente, en términos del
-
-### artículo 54
-de esta Ley.
+c) Ser solicitante de asilo político, de reconocimiento de la condición de refugiado o de protección complementaria del Estado Mexicano, hasta en tanto no se resuelva su situación migratoria. Si la solicitud es positiva se les otorgará la condición de estancia de residente permanente, en términos del artículo 54 de esta Ley.
 También la Secretaría podrá autorizar la condición de estancia de visitante por razones humanitarias a los extranjeros que no se ubiquen en los supuestos anteriores, cuando exista una causa humanitaria o de interés público que haga necesaria su internación o regularización en el país, en cuyo caso contarán con permiso para trabajar a cambio de una remuneración.
 
 VI. VISITANTE CON FINES DE ADOPCIÓN. Autoriza al extranjero vinculado con un proceso de adopción en los Estados Unidos Mexicanos, a permanecer en el país hasta en tanto se dicte la resolución ejecutoriada y en su caso, se inscriba en el registro civil la nueva acta del niño, niña o adolescente adoptado, así como se expida el pasaporte respectivo y todos los trámites necesarios para garantizar la salida del niño, niña o adolescente del país. La expedición de esta autorización solo procederá respecto de ciudadanos de países con los que los Estados Unidos Mexicanos haya suscrito algún convenio en la materia.
@@ -699,10 +693,7 @@ VI. Hermanos, siempre y cuando sean niñas, niños y adolescentes y no hayan con
 . La Secretaría, podrá establecer mediante disposiciones administrativas de carácter general que se publicarán en el Diario Oficial de la Federación, un sistema de puntos para que los extranjeros puedan adquirir la residencia permanente sin cumplir con los cuatro años de residencia previa. Los extranjeros que ingresen a territorio nacional por la vía del sistema de puntos contarán con permiso de trabajo y tendrán derecho a la preservación de la unidad familiar por lo que podrán ingresar con o solicitar posteriormente el ingreso de las personas señaladas en el artículo 55 de esta Ley.
 La Secretaría a través del Sistema de Puntos, permitirá a los extranjeros adquirir la residencia permanente en el país. Dicho sistema deberá considerar como mínimo lo siguiente:
 
-I. Los criterios para el ingreso por la vía del sistema de puntos, tomando en cuenta lo establecido en el
-
-### artículo 18
-, fracción II de esta Ley para el establecimiento de cuotas para el ingreso de extranjeros al territorio nacional;
+I. Los criterios para el ingreso por la vía del sistema de puntos, tomando en cuenta lo establecido en el artículo 18, fracción II de esta Ley para el establecimiento de cuotas para el ingreso de extranjeros al territorio nacional;
 
 II. Las capacidades del solicitante tomando en cuenta entre otros aspectos el nivel educativo; la experiencia laboral; las aptitudes en áreas relacionadas con el desarrollo de la ciencia y la tecnología; los reconocimientos internacionales, así como las aptitudes para desarrollar actividades que requiera el país, y
 
@@ -917,10 +908,7 @@ Párrafo adicionado DOF 11-11-2020
 La orden por la que se disponga la revisión migratoria deberá estar fundada y motivada; ser expedida por el Instituto y precisar el responsable de la diligencia y el personal asignado para la realización de la misma; la duración de la revisión y la zona geográfica o el lugar en el que se efectuará.
 
 ### Artículo 98
-. Si con motivo de la revisión migratoria se detecta que algún extranjero no cuenta con documentos que acrediten su situación migratoria regular en el país, se procederá en los términos del
-
-### artículo 100
-de esta Ley.
+. Si con motivo de la revisión migratoria se detecta que algún extranjero no cuenta con documentos que acrediten su situación migratoria regular en el país, se procederá en los términos del artículo 100 de esta Ley.
 En caso de detectar niñas, niños o adolescentes migrantes, la autoridad migratoria deberá, en coadyuvancia, notificar inmediatamente a la Procuraduría de Protección y hacer la canalización al Sistema DIF correspondiente. En ningún caso se llevará a cabo la presentación de una niña, niño o adolescente ni se iniciará el Procedimiento Administrativo Migratorio previo a dicha notificación. El Instituto emitirá un acta de canalización en la que conste la notificación a la Procuraduría de Protección y la canalización de la niña, niño o adolescente al Sistema DIF.
 La presentación de la persona extranjera a cuyo cuidado se encuentren niñas, niños o adolescentes presentes durante la revisión migratoria, se pospondrá hasta el momento en que se apersone la Procuraduría de Protección y se levante el correspondiente oficio de canalización del caso de las niñas, niños o adolescentes de que se trate a la Procuraduría.
 Si de la revisión migratoria se determina la presentación de una persona extranjera y ésta manifiesta la existencia de niñas, niños o adolescentes a su cargo, quienes derivado de la presentación de la persona ante el Instituto, pudieran quedar en desamparo, las autoridades migratorias deberán tomar toda la información conducente y notificar inmediatamente a la Procuraduría de Protección para que proceda de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes.
@@ -1089,10 +1077,7 @@ El procedimiento que deberá seguir el Instituto para la detección, identificac
 ENCUENTREN IRREGULARMENTE EN TERRITORIO NACIONAL
 
 ### Artículo 114
-. Corresponde de manera exclusiva al titular del Poder Ejecutivo Federal expulsar del territorio nacional al extranjero cuya permanencia juzgue inconveniente, conforme a lo dispuesto en el
-
-### artículo 33
-de la Constitución Política de los Estados Unidos Mexicanos.
+. Corresponde de manera exclusiva al titular del Poder Ejecutivo Federal expulsar del territorio nacional al extranjero cuya permanencia juzgue inconveniente, conforme a lo dispuesto en el artículo 33 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Artículo 115
 . El Instituto contará con los mecanismos de retorno asistido y deportación para hacer abandonar el territorio nacional a aquél extranjero que no observó las disposiciones contenidas en esta Ley y su Reglamento.
@@ -1437,13 +1422,10 @@ ARTÍCULOS SEGUNDO A NOVENO. ……….
 
 DEL DECRETO POR EL QUE EXPIDE LA   Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
 **PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del
-
-### artículo 3o
-. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
 Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
-TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
-CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+**TERCERO.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+**CUARTO.** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
 México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma y adiciona el artículo 112 de la Ley de Migración.
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2013
@@ -1459,10 +1441,7 @@ DECRETO por el que se reforman los artículos 3 y 25 de la Ley de Migración.
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
 
 ### Artículo Único
-Se adiciona una fracción XXVII, recorriéndose las subsecuentes en su orden, al
-
-### artículo 3
-y se reforma el artículo 25 de la Ley de Migración, para quedar como sigue: ………
+Se adiciona una fracción XXVII, recorriéndose las subsecuentes en su orden, al artículo 3 y se reforma el artículo 25 de la Ley de Migración, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -1559,10 +1538,7 @@ Publicado en el Diario Oficial de la Federación el 11 de noviembre de 2020
 
 ### Artículo Primero
 Se adicionan las fracciones V, XX, XXI, XXII y XXV, recorriendo en su numeración a las subsecuentes del artículo 3; un segundo párrafo al artículo 6; las fracciones X y XI, recorriendo en su numeración a las subsecuentes del artículo 20; un párrafo tercero al artículo 71; un párrafo segundo al artículo 79; los párrafos tercero, cuarto y quinto al artículo 95; los párrafos segundo,
-**tercero.** y cuarto al artículo 98; se reforman la fracción XIX recorrida del artículo 3; el primer párrafo del
-
-### artículo 6
-; el segundo párrafo del artículo 11; las fracciones IV, VII y IX del artículo 20; el artículo 29; el inciso b) de la fracción V del artículo 52; el párrafo segundo del artículo 68; el primer párrafo del artículo 71; los artículos 73 y 74; el artículo 99; las fracciones II y III del artículo 107; la fracción XIII del artículo 109; el artículo 112; el párrafo segundo y sus fracciones I y II y el párrafo tercero del artículo 120; se suprime la fracción XIV, recorriendo en su numeración las subsecuentes del artículo 109; de la Ley de Migración, para quedar como sigue: ……..
+**tercero.** y cuarto al artículo 98; se reforman la fracción XIX recorrida del artículo 3; el primer párrafo del artículo 6; el segundo párrafo del artículo 11; las fracciones IV, VII y IX del artículo 20; el artículo 29; el inciso b) de la fracción V del artículo 52; el párrafo segundo del artículo 68; el primer párrafo del artículo 71; los artículos 73 y 74; el artículo 99; las fracciones II y III del artículo 107; la fracción XIII del artículo 109; el artículo 112; el párrafo segundo y sus fracciones I y II y el párrafo tercero del artículo 120; se suprime la fracción XIV, recorriendo en su numeración las subsecuentes del artículo 109; de la Ley de Migración, para quedar como sigue: ……..
 
 ## Transitorios
 

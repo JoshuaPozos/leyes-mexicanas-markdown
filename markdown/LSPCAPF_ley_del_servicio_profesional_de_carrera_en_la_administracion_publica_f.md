@@ -50,10 +50,7 @@ VIII. Catálogo: Catálogo de Puestos de la Administración Pública Federal Cen
 IX. Servidor Público de Carrera: Persona física integrante del Servicio Profesional de Carrera en la Administración Pública Federal, que desempeña un cargo de confianza en alguna dependencia.
 
 ### Artículo 4
-.- Los servidores públicos de carrera se clasificarán en servidores públicos eventuales y titulares. Los eventuales son aquellos que, siendo de primer nivel de ingreso se encuentran en su primer año de desempeño, los que hubieren ingresado con motivo de los casos excepcionales que señala el
-
-### artículo 34
-y aquellos que ingresen por motivo de un convenio.
+.- Los servidores públicos de carrera se clasificarán en servidores públicos eventuales y titulares. Los eventuales son aquellos que, siendo de primer nivel de ingreso se encuentran en su primer año de desempeño, los que hubieren ingresado con motivo de los casos excepcionales que señala el artículo 34 y aquellos que ingresen por motivo de un convenio.
 El servidor público de carrera ingresará al Sistema a través de un concurso de selección y sólo podrá ser nombrado y removido en los casos y bajo los procedimientos previstos por esta Ley.
 
 ### Artículo 5

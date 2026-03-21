@@ -337,10 +337,7 @@ VIII. Las demás, que se requieran para el cumplimiento de los objetivos del Sis
 ### Artículo 26
 .- El Sistema Nacional tiene los siguientes objetivos:
 
-I. Promover la igualdad sustantiva entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación; sin distinción de ningún tipo, en los términos del último párrafo del
-
-### artículo 1o
-. y artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos;
+I. Promover la igualdad sustantiva entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación; sin distinción de ningún tipo, en los términos del último párrafo del artículo 1o. y artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos;
 Fracción reformada DOF 30-03-2022, 16-12-2024, 15-01-2026
 
 II. Contribuir al adelanto de las mujeres;
@@ -642,10 +639,7 @@ México, D.F., a 1 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, President
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2013
 
 ### Artículo Único
-Se reforman los artículos 1; la fracción I y las actuales fracciones II y III que pasan a ser VII y VIII del artículo 5; las fracciones V y VI del artículo 17; las fracciones II y III del artículo 33; el primer párrafo y las fracciones X y XI del artículo 34; las fracciones II y III del artículo 37; las fracciones IX y X del artículo 40 y las fracciones II y III del artículo 42; y se adicionan las fracciones II; III, IV, V y VI al
-
-### artículo 5
-, recorriéndose las subsecuentes; las fracciones VII, VIII, IX, X y XI del artículo 17; una fracción IV al artículo 33; una fracción XII al artículo 34; la fracción IV al artículo 37; una fracción XI al artículo 40 y las fracciones IV y V al artículo 42, de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue: ………
+Se reforman los artículos 1; la fracción I y las actuales fracciones II y III que pasan a ser VII y VIII del artículo 5; las fracciones V y VI del artículo 17; las fracciones II y III del artículo 33; el primer párrafo y las fracciones X y XI del artículo 34; las fracciones II y III del artículo 37; las fracciones IX y X del artículo 40 y las fracciones II y III del artículo 42; y se adicionan las fracciones II; III, IV, V y VI al artículo 5, recorriéndose las subsecuentes; las fracciones VII, VIII, IX, X y XI del artículo 17; una fracción IV al artículo 33; una fracción XII al artículo 34; la fracción IV al artículo 37; una fracción XI al artículo 40 y las fracciones IV y V al artículo 42, de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue: ………
 
 ## Transitorio
 
@@ -662,10 +656,7 @@ Se reforma la fracción XI del Artículo 34 de la Ley General para la Igualdad e
 **Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 **Segundo.-** Las dependencias de la Administración Pública Federal y estatales, en coordinación con la Secretaría del Trabajo y Previsión Social, la Secretaría de Economía y el Instituto Nacional de las Mujeres deberán adecuar las normas oficiales mexicanas, modelos, procesos y manuales para la certificación existentes, a fin de dar cumplimiento a las disposiciones establecidas en un plazo máximo de 90 días, contados a partir del inicio de la vigencia del presente Decreto, atendiendo para su aplicabilidad al principio de progresividad.
 México, D.F., a 9 de octubre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Laura Barrera Fortoul, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de noviembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-DECRETO por el que se reforman las fracciones X y XI, y se adiciona una fracción XII al
-
-### artículo 17
-de la Ley General para la Igualdad entre Mujeres y Hombres.
+DECRETO por el que se reforman las fracciones X y XI, y se adiciona una fracción XII al artículo 17 de la Ley General para la Igualdad entre Mujeres y Hombres.
 Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2014
 
 ### ARTÍCULO ÚNICO
@@ -741,10 +732,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Fede
 Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
 
 ### ARTÍCULO SEGUNDO
-Se reforma el artículo 1; las fracciones II y III del artículo 17; la fracción V del
-
-### artículo 36
-, y se adiciona una fracción V al artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue: ……..
+Se reforma el artículo 1; las fracciones II y III del artículo 17; la fracción V del artículo 36, y se adiciona una fracción V al artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue: ……..
 
 ## Transitorios
 

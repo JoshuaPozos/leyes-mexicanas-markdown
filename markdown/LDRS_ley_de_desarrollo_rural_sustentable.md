@@ -1434,10 +1434,7 @@ Quienes hagan uso productivo de las tierras deberán seleccionar técnicas y cul
 Los programas para la tecnificación del riego que realicen los diferentes órdenes de gobierno darán atención prioritaria a las regiones en las que se registre sobreexplotación de los recursos hidráulicos subterráneos o degradación de la calidad de las aguas, en correspondencia con los compromisos de organizaciones y productores de ajustar la explotación de los recursos en términos que garanticen la sustentabilidad de la producción.
 
 ### Artículo 169
-.- El Gobierno Federal, a través de los programas de fomento estimulará a los productores de bienes y servicios para la adopción de tecnologías de producción que optimicen el uso del agua y la energía e incrementen la productividad sustentable, a través de los contratos previstos en el
-
-### artículo 53
-de esta Ley.
+.- El Gobierno Federal, a través de los programas de fomento estimulará a los productores de bienes y servicios para la adopción de tecnologías de producción que optimicen el uso del agua y la energía e incrementen la productividad sustentable, a través de los contratos previstos en el artículo 53 de esta Ley.
 
 ### Artículo 170
 .- La Comisión Intersecretarial, con la participación del Consejo Mexicano, determinará zonas de reconversión productiva que deberá atender de manera prioritaria, cuando la fragilidad, la degradación o sobreutilización de los recursos naturales así lo amerite.
@@ -1558,10 +1555,7 @@ La Comisión Intersecretarial, a través de la instancia correspondiente según 
 .- La Comisión Intersecretarial, con la participación del Consejo Mexicano, propondrá la asignación de estímulos fiscales a las acciones de producción, reconversión, industrialización e inversión que se realicen en el medio rural en el marco de las disposiciones de la presente Ley y la normatividad aplicable.
 
 ### Artículo 188
-.- Los apoyos económicos que proporcionen los tres órdenes de gobierno estarán sujetos a los criterios de generalidad, temporalidad y protección de las finanzas públicas, a que se refiere el
-
-### artículo 28
-de la Constitución Política de los Estados Unidos Mexicanos para el otorgamiento de subsidios, así como a los compromisos contraídos por el Gobierno Mexicano en la suscripción de convenios y tratados internacionales.
+.- Los apoyos económicos que proporcionen los tres órdenes de gobierno estarán sujetos a los criterios de generalidad, temporalidad y protección de las finanzas públicas, a que se refiere el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos para el otorgamiento de subsidios, así como a los compromisos contraídos por el Gobierno Mexicano en la suscripción de convenios y tratados internacionales.
 Los programas que formulen la Secretaría y demás dependencias del Poder Ejecutivo Federal, así como los acordados entre éste y los demás órdenes de gobierno que concurren para lograr el desarrollo rural sustentable, definirán esquemas de apoyos, transferencias y estímulos para el fomento de las actividades agropecuarias y no agropecuarias, cuyos objetivos serán fortalecer la producción interna y la balanza comercial de alimentos, materias primas, productos manufacturados y servicios diversos que se realicen en las zonas rurales; promover las adecuaciones estructurales a las cadenas productivas y reducir las condiciones de desigualdad de los productores agropecuarios, forestales y de pesca, y demás sujetos de la sociedad rural, así como lograr su rentabilidad y competitividad en el marco de la globalización económica.
 Los diversos programas e instrumentos que se requieran para cumplir con los lineamientos definidos en el artículo 22 de esta Ley, estarán previstos dentro del Proyecto de Presupuesto de Egresos de la Federación. La normatividad para la operación de estos programas será propuesta por la Comisión Intersecretarial, por medio de la Secretaría y demás dependencias que concurren en el fomento agropecuario y en el desarrollo rural sustentable.
 
@@ -1642,10 +1636,7 @@ Se reforma el artículo 37, fracción I; y se adicionan los artículos 33, con u
 **ÚNICO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de abril de 2010.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Maria Dolores del Rio Sanchez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
-DECRETO por el que se reforma el primer párrafo y se adiciona un tercer párrafo al
-
-### artículo 84
-de la Ley de Desarrollo Rural Sustentable.
+DECRETO por el que se reforma el primer párrafo y se adiciona un tercer párrafo al artículo 84 de la Ley de Desarrollo Rural Sustentable.
 Publicado en el Diario Oficial de la Federación el 18 de junio de 2010
 
 ### ARTÍCULO ÚNICO

@@ -26,10 +26,7 @@ Se deroga la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrat
 ### Artículo 1
 . La presente Ley es de orden público e interés general y tiene por objeto determinar la integración, organización, atribuciones y funcionamiento del Tribunal Federal de Justicia Administrativa.
 El Tribunal Federal de Justicia Administrativa es un órgano jurisdiccional con autonomía para emitir sus fallos y con jurisdicción plena.
-Formará parte del Sistema Nacional Anticorrupción y estará sujeto a las bases establecidas en el
-
-### artículo 113
-de la Constitución Política de los Estados Unidos Mexicanos, en la Ley General correspondiente y en el presente ordenamiento.
+Formará parte del Sistema Nacional Anticorrupción y estará sujeto a las bases establecidas en el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, en la Ley General correspondiente y en el presente ordenamiento.
 Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
 El presupuesto aprobado por la Cámara de Diputados para el Tribunal Federal de Justicia Administrativa, se ejercerá con autonomía y conforme a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y las disposiciones legales aplicables, bajo los principios de legalidad, certeza, independencia, honestidad, responsabilidad y transparencia. Su administración será eficiente para lograr la eficacia de la justicia administrativa bajo el principio de rendición de cuentas.
 Dicho ejercicio deberá realizarse con base en los principios de honestidad, responsabilidad, eficiencia, eficacia, transparencia, rendición de cuentas, austeridad, racionalidad y bajo estos principios estará sujeto a la evaluación y control de los órganos correspondientes.
@@ -188,10 +185,7 @@ Transcurrido el plazo señalado en el párrafo anterior sin que se haya emitido 
 En ambos casos el plazo para redactar la resolución será de cinco días hábiles. Las resoluciones emitidas de forma colegiada por esta Sección deberán ser firmadas por los tres Magistrados y por el Secretario Adjunto de la Sección.
 
 ### Artículo 12
-. Las sesiones ordinarias de los plenos se celebrarán dentro de los períodos a que alude el
-
-### artículo 8
-de esta Ley, en los días y horas que fijen cada uno. También podrán sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes, la que deberá ser presentada al Presidente del Tribunal a fin de que emita la convocatoria correspondiente.
+. Las sesiones ordinarias de los plenos se celebrarán dentro de los períodos a que alude el artículo 8 de esta Ley, en los días y horas que fijen cada uno. También podrán sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes, la que deberá ser presentada al Presidente del Tribunal a fin de que emita la convocatoria correspondiente.
 
 ### Artículo 13
 . La Primera y la Segunda Sección cuentan con competencia administrativa y fiscal, y la Tercera con competencia en responsabilidades administrativas.
@@ -443,10 +437,7 @@ Las sesiones de la Junta de Gobierno y Administración serán públicas, sólo e
 
 ### Artículo 26
 . El Presidente del Tribunal lo será también de la Junta de Gobierno y Administración. En el caso de faltas temporales del Presidente del Tribunal, será suplido por los Magistrados de Sala Superior integrantes de dicha Junta, siguiendo el orden alfabético de sus apellidos.
-Ante la falta definitiva, renuncia o sustitución de los Magistrados previstos en las fracciones II y III del
-
-### artículo 22
-de esta Ley que integren la Junta de Gobierno y Administración, el Pleno General designará a un nuevo integrante para concluir el periodo del Magistrado faltante. El Magistrado designado para concluir el periodo no estará impedido para ser electo como integrante de la Junta de Gobierno y Administración en el periodo inmediato siguiente.
+Ante la falta definitiva, renuncia o sustitución de los Magistrados previstos en las fracciones II y III del artículo 22 de esta Ley que integren la Junta de Gobierno y Administración, el Pleno General designará a un nuevo integrante para concluir el periodo del Magistrado faltante. El Magistrado designado para concluir el periodo no estará impedido para ser electo como integrante de la Junta de Gobierno y Administración en el periodo inmediato siguiente.
 Las faltas temporales de los Magistrados que integren la Junta de Gobierno y Administración serán suplidas por los Magistrados de Sala Superior o de Sala Regional que determine el Pleno General de la Sala Superior, según sea el caso, siempre que sean elegibles para ello en los términos de esta Ley.
 
 ### Artículo 27
@@ -746,10 +737,7 @@ Los Oficiales Jurisdiccionales deberán ser mexicanos, mayores de dieciocho año
 ### Artículo 51
 . El Tribunal contará con un sistema profesional de carrera jurisdiccional, basado en los principios de honestidad, eficiencia, capacidad y experiencia, el cual comprenderá a los servidores públicos a que se refieren las fracciones VI a IX del artículo 42 de esta Ley.
 El sistema abarcará las fases de ingreso, promoción, permanencia y retiro de dichos servidores públicos, de manera que se procure la excelencia por medio de concursos y evaluaciones periódicas, y de acuerdo con los procedimientos y criterios establecidos en el Estatuto correspondiente.
-Con base en lo previsto en este artículo, el Tribunal establecerá y regulará, mediante disposiciones generales, el sistema de carrera de los servidores públicos previstos en las fracciones XI y XIII del
-
-### artículo 42
-de esta Ley.
+Con base en lo previsto en este artículo, el Tribunal establecerá y regulará, mediante disposiciones generales, el sistema de carrera de los servidores públicos previstos en las fracciones XI y XIII del artículo 42 de esta Ley.
 
 ### Artículo 52
 . El Presidente del Tribunal será electo por el Pleno General de la Sala Superior en la primera sesión del año siguiente a aquél en que concluya el periodo del Presidente en funciones. Durará en su cargo tres años y no podrá ser reelecto para ningún otro periodo.
@@ -1015,10 +1003,7 @@ Los juicios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica
 En los casos de nombramientos de Magistrados que integren la Tercera Sección, y las Salas Especializadas en materia de Responsabilidades Administrativas, el Titular del Ejecutivo Federal deberá enviar sus propuestas al Senado, a más tardar en el periodo ordinario de Sesiones del Congreso de la Unión inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas.
 Los Magistrados a que se refiere el párrafo anterior, mantendrán su adscripción a la Sección Tercera y a las Salas Especializadas en materia de Responsabilidades Administrativas, al menos durante los
 **primero.** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
-A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del
-
-### artículo 16
-de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
+A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
 Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del Tribunal Federal de Justicia Administrativa en el periodo inmediato al que concluye.
 Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia Fiscal y Administrativa, se entenderán referidas al Tribunal Federal de Justicia Administrativa.
 Ciudad de México, a 6 de julio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Juan Manuel Celis Aguirre, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.

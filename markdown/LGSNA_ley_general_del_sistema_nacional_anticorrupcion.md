@@ -53,10 +53,7 @@ II. Comisión Ejecutiva: el órgano técnico auxiliar de la Secretaría Ejecutiv
 
 III. Comité Coordinador: la instancia a la que hace referencia el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, encargada de la coordinación y eficacia del Sistema Nacional;
 
-IV. Comité de Participación Ciudadana: la instancia colegiada a que se refiere la fracción II del
-
-### artículo 113
-de la Constitución Política de los Estados Unidos Mexicanos, el cual contará con las facultades que establece esta Ley;
+IV. Comité de Participación Ciudadana: la instancia colegiada a que se refiere la fracción II del artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, el cual contará con las facultades que establece esta Ley;
 
 V. Días: días hábiles;
 
@@ -350,10 +347,7 @@ III. Conservación, uso, destino, afectación, enajenación y baja de bienes mue
 IV. Responsabilidades administrativas de Servidores públicos, y
 
 V. Transparencia y acceso a la información pública, conforme a la ley de la materia.
-La Secretaría de la Función Pública y el órgano interno de control, como excepción a lo previsto en el
-
-### artículo 37
-de la Ley Orgánica de la Administración Pública Federal, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
+La Secretaría de la Función Pública y el órgano interno de control, como excepción a lo previsto en el artículo 37 de la Ley Orgánica de la Administración Pública Federal, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 
 ### Artículo 28
 . El órgano de gobierno estará integrado por los miembros del Comité Coordinador y será presidido por el Presidente del Comité de Participación Ciudadana.
@@ -648,10 +642,7 @@ Los juicios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica
 En los casos de nombramientos de Magistrados que integren la Tercera Sección, y las Salas Especializadas en materia de Responsabilidades Administrativas, el Titular del Ejecutivo Federal deberá enviar sus propuestas al Senado, a más tardar en el periodo ordinario de Sesiones del Congreso de la Unión inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas.
 Los Magistrados a que se refiere el párrafo anterior, mantendrán su adscripción a la Sección Tercera y a las Salas Especializadas en materia de Responsabilidades Administrativas, al menos durante los
 **primero.** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
-A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del
-
-### artículo 16
-de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
+A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
 Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del Tribunal Federal de Justicia Administrativa en el periodo inmediato al que concluye.
 Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia Fiscal y Administrativa, se entenderán referidas al Tribunal Federal de Justicia Administrativa.
 Ciudad de México, a 6 de julio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Juan Manuel Celis Aguirre, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.

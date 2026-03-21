@@ -5,9 +5,7 @@
 
 ---
 
-
-### ARTÍCULO 123
-CONSTITUCIONAL LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL Nueva Ley Publicada en el Diario Oficial de la Federación el 28 de diciembre de 1963 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+ARTÍCULO 123 CONSTITUCIONAL LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL Nueva Ley Publicada en el Diario Oficial de la Federación el 28 de diciembre de 1963 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ADOLFO LOPEZ MATEOS, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO:
 El Congreso de los Estados Unidos Mexicanos, decreta:
@@ -30,14 +28,9 @@ Artículo reformado DOF 03-05-2006
 ### Artículo 5o
 .- Son trabajadores de confianza:
 I.- Los que integran la planta de la Presidencia de la República y aquéllos cuyo nombramiento o ejercicio requiera la aprobación expresa del Presidente de la República;
-Fracción reformada DOF 21-02-1983
-
-### ARTÍCULO 123
-CONSTITUCIONAL II.- En el Poder Ejecutivo, los de las dependencias y los de las entidades comprendidas dentro del régimen del apartado “B” del artículo 123 Constitucional, que desempeñan funciones que conforme a los catálogos a que alude el artículo 20 de esta Ley sean de: a).- Dirección, como consecuencia del ejercicio de sus atribuciones legales, que de manera permanente y general le confieren la representatividad e implican poder de decisión en el ejercicio del mando a nivel directores generales, directores de área, adjuntos, subdirectores y jefes de departamento. b).- Inspección, vigilancia y fiscalización: exclusivamente a nivel de las jefaturas y subjefaturas, cuando estén considerados en el presupuesto de la dependencia o entidad de que se trate, así como el personal técnico que en forma exclusiva y permanente esté desempeñando tales funciones ocupando puestos que a la fecha son de confianza. c).- Manejo de fondos o valores, cuando se implique la facultad legal de disponer de éstos, determinando su aplicación o destino. El personal de apoyo queda excluido. d).- Auditoría: a nivel de auditores y sub-auditores generales, así como el personal técnico que en forma exclusiva y permanente desempeñe tales funciones, siempre que presupuestalmente dependa de las Contralorías o de las Areas de Auditoría. e).- Control directo de adquisiciones: cuando tengan la representación de la dependencia o entidad de que se trate, con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal encargado de apoyar con elementos técnicos estas decisiones y que ocupe puestos presupuestalmente considerados en estas áreas de las dependencias y entidades con tales características. f).- En almacenes e inventarios, el responsable de autorizar el ingreso o salida de bienes o valores y su destino o la baja y alta en inventarios. g).- Investigación científica, siempre que implique facultades para determinar el sentido y la forma de la investigación que se lleve a cabo. h).- Asesoría o Consultoría, únicamente cuando se proporcione a los siguientes servicios públicos superiores; Secretario, Sub-secretario, Oficial Mayor, Coordinador General y Director General en las dependencias del Gobierno Federal o sus equivalentes en las Entidades. i).- El personal adscrito presupuestalmente a las Secretarías particulares o Ayudantías. j).- Los Secretarios particulares de: Secretario, Sub-Secretario, Oficial Mayor y Director General de las dependencias del Ejecutivo Federal o sus equivalentes en las entidades, así como los destinados presupuestalmente al servicio de los funcionarios a que se refiere la fracción I de este artículo. k).- Los Agentes del Ministerio Público Federal y del Distrito Federal. l).- Los Agentes de las Policías Judiciales y los miembros de las Policías Preventivas.
+Fracción reformada DOF 21-02-1983 ARTÍCULO 123 CONSTITUCIONAL II.- En el Poder Ejecutivo, los de las dependencias y los de las entidades comprendidas dentro del régimen del apartado “B” del artículo 123 Constitucional, que desempeñan funciones que conforme a los catálogos a que alude el artículo 20 de esta Ley sean de: a).- Dirección, como consecuencia del ejercicio de sus atribuciones legales, que de manera permanente y general le confieren la representatividad e implican poder de decisión en el ejercicio del mando a nivel directores generales, directores de área, adjuntos, subdirectores y jefes de departamento. b).- Inspección, vigilancia y fiscalización: exclusivamente a nivel de las jefaturas y subjefaturas, cuando estén considerados en el presupuesto de la dependencia o entidad de que se trate, así como el personal técnico que en forma exclusiva y permanente esté desempeñando tales funciones ocupando puestos que a la fecha son de confianza. c).- Manejo de fondos o valores, cuando se implique la facultad legal de disponer de éstos, determinando su aplicación o destino. El personal de apoyo queda excluido. d).- Auditoría: a nivel de auditores y sub-auditores generales, así como el personal técnico que en forma exclusiva y permanente desempeñe tales funciones, siempre que presupuestalmente dependa de las Contralorías o de las Areas de Auditoría. e).- Control directo de adquisiciones: cuando tengan la representación de la dependencia o entidad de que se trate, con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal encargado de apoyar con elementos técnicos estas decisiones y que ocupe puestos presupuestalmente considerados en estas áreas de las dependencias y entidades con tales características. f).- En almacenes e inventarios, el responsable de autorizar el ingreso o salida de bienes o valores y su destino o la baja y alta en inventarios. g).- Investigación científica, siempre que implique facultades para determinar el sentido y la forma de la investigación que se lleve a cabo. h).- Asesoría o Consultoría, únicamente cuando se proporcione a los siguientes servicios públicos superiores; Secretario, Sub-secretario, Oficial Mayor, Coordinador General y Director General en las dependencias del Gobierno Federal o sus equivalentes en las Entidades. i).- El personal adscrito presupuestalmente a las Secretarías particulares o Ayudantías. j).- Los Secretarios particulares de: Secretario, Sub-Secretario, Oficial Mayor y Director General de las dependencias del Ejecutivo Federal o sus equivalentes en las entidades, así como los destinados presupuestalmente al servicio de los funcionarios a que se refiere la fracción I de este artículo. k).- Los Agentes del Ministerio Público Federal y del Distrito Federal. l).- Los Agentes de las Policías Judiciales y los miembros de las Policías Preventivas.
 Han de considerarse de base todas las categorías que con aquella clasificación consigne el Catálogo de Empleos de la Federación, para el personal docente de la Secretaría de Educación Pública.
-
-### ARTÍCULO 123
-CONSTITUCIONAL La clasificación de los puestos de confianza en cada una de las dependencias o entidades, formará parte de su catálogo de puestos.
+ARTÍCULO 123 CONSTITUCIONAL La clasificación de los puestos de confianza en cada una de las dependencias o entidades, formará parte de su catálogo de puestos.
 Fracción reformada DOF 31-12-1975, 21-02-1983, 12-01-1984 III.- En el Poder Legislativo:
 A. En la Cámara de Diputados: Secretario General, Secretarios de Servicios, Coordinadores, Contralor Interno, Directores Generales, Directores, Subdirectores, Jefes de Departamento, Secretarios Particulares, Secretarías Privadas, Subcontralores, Auditores, Secretarios Técnicos, Asesores, Consultores, Investigadores, Secretarios de Enlace, Titulares de la Unidad o Centro de Estudios, Agentes de Resguardo Parlamentario, Agentes de Protección Civil, Supervisores de las áreas administrativas, técnicas y parlamentarias, y el personal del Servicio de Carrera.
 B. En la Auditoría Superior de la Federación: Auditor Superior, Auditores Especiales, Titulares de las Unidades, Directores Generales, Directores, Subdirectores, Jefes de Departamento, Auditores, Visitadores, Inspectores, Asesores y Secretarios Particulares, Vigilantes, Supervisores de las áreas administrativas y técnicas.
@@ -53,9 +46,7 @@ c) Manejo de fondos o valores, cuando implique la facultad legal de disponer de 
 d) Auditoría: a nivel de auditores y subauditores generales, así como el personal técnico que en forma exclusiva y permanente desempeñe tales funciones, siempre que presupuestalmente dependa de la Contraloría o de las áreas de Auditoría.
 
 e) Control directo de adquisiciones: cuando tengan la representación de la Cámara de Diputados con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal encargado de apoyar con elementos técnicos estas decisiones y que ocupe puestos presupuestalmente considerados en estas áreas de la Cámara de Diputados con tales características.
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+ARTÍCULO 123 CONSTITUCIONAL
 
 f) En almacén e inventarios, el responsable de autorizar el ingreso o salida de bienes o valores y su destino o la baja y alta en inventarios;
 
@@ -87,10 +78,7 @@ Artículo adicionado DOF 23-04-2021
 
 ### Artículo 11
 .- En lo no previsto por esta ley o disposiciones especiales, se aplicarán supletoriamente, y en su orden, la Ley Federal del Trabajo, el Código Nacional de Procedimientos Civiles y Familiares, las leyes del orden común, la costumbre, el uso, los principios generales de derecho y la equidad.
-Artículo reformado DOF 14-11-2025 TITULO SEGUNDO Derechos y Obligaciones de los Trabajadores y de los Titulares
-
-### ARTÍCULO 123
-CONSTITUCIONAL CAPITULO I
+Artículo reformado DOF 14-11-2025 TITULO SEGUNDO Derechos y Obligaciones de los Trabajadores y de los Titulares ARTÍCULO 123 CONSTITUCIONAL CAPITULO I
 
 ### Artículo 12
 .- Los trabajadores prestarán sus servicios en virtud de nombramiento expedido por el funcionario facultado para extenderlo o por estar incluidos en las listas de raya de trabajadores temporales, para obra determinada o por tiempo fijo.
@@ -116,9 +104,7 @@ V.- El sueldo y demás prestaciones que habrá de percibir el trabajador, y VI.-
 ### Artículo 16
 .- Cuando un trabajador sea trasladado de una población a otra, la Dependencia en que preste sus servicios, dará a conocer previamente al trabajador las causas del traslado, y tendrá la obligación de sufragar los gastos de viaje y menaje de casa, excepto cuando el traslado se hubiere solicitado por el trabajador.
 Si el traslado es por período mayor de seis meses, el trabajador tendrá derecho a que se le cubran previamente los gastos que origine el transporte de menaje de casa indispensable para la instalación de su cónyuge y de sus familiares en línea recta ascendentes o descendentes, o colaterales en segundo grado, siempre que estén bajo su dependencia económica. Asimismo, tendrá derecho a que se le cubran los gastos de traslado de su cónyuge y parientes mencionados en este párrafo, salvo que el traslado se deba a solicitud del propio trabajador.
-
-### ARTÍCULO 123
-CONSTITUCIONAL Solamente se podrá ordenar el traslado de un trabajador por las siguientes causas:
+ARTÍCULO 123 CONSTITUCIONAL Solamente se podrá ordenar el traslado de un trabajador por las siguientes causas:
 I.- Por reorganización o necesidades del servicio debidamente justificadas;
 II.- Por desaparición del centro de trabajo;
 III.- Por permuta debidamente autorizada; y IV.- Por fallo del Tribunal Federal de Conciliación y Arbitraje.
@@ -158,9 +144,7 @@ Artículo reformado DOF 21-02-1983, 03-05-2006 CAPITULO II
 
 ### Artículo 27
 .- Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro.
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+ARTÍCULO 123 CONSTITUCIONAL
 
 ### Artículo 28
 .- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
@@ -184,10 +168,7 @@ CAPITULO III
 Párrafo reformado DOF 31-12-1984 Los niveles de sueldo del tabulador que consignen sueldos equivalentes al salario mínimo deberán incrementarse en el mismo porcentaje en que se aumente éste.
 Párrafo reformado DOF 31-12-1984 A trabajo igual, desempeñado en las mismas condiciones y jornada, deberá corresponder salario igual, sin tener en cuenta el sexo ni el género.
 Párrafo adicionado DOF 15-01-2026 En cumplimiento de las obligaciones del Estado de eliminar la brecha salarial de género, se promoverán acciones para erradicar las prácticas retributivas desiguales y garantizar la igualdad sustantiva, de conformidad con lo dispuesto en la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
-Párrafo adicionado DOF 15-01-2026
-
-### ARTÍCULO 123
-CONSTITUCIONAL La Secretaría de Hacienda y Crédito Público, tomando en cuenta la opinión de la Federación de Sindicatos de Trabajadores al Servicio del Estado, fijará las normas, lineamientos y políticas que permitan establecer las diferencias en las remuneraciones asignadas para los casos de alcances en los niveles de tabulador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
+Párrafo adicionado DOF 15-01-2026 ARTÍCULO 123 CONSTITUCIONAL La Secretaría de Hacienda y Crédito Público, tomando en cuenta la opinión de la Federación de Sindicatos de Trabajadores al Servicio del Estado, fijará las normas, lineamientos y políticas que permitan establecer las diferencias en las remuneraciones asignadas para los casos de alcances en los niveles de tabulador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
 Párrafo reformado DOF 03-05-2006 En los Poderes de la Unión, los tabuladores salariales serán determinados por sus respectivos órganos competentes, de conformidad con su régimen interno y se integrarán a sus respectivos presupuestos anuales de egresos.
 Párrafo adicionado DOF 03-05-2006 Artículo reformado DOF 21-02-1983, 12-01-1984
 
@@ -217,10 +198,7 @@ Artículo derogado DOF 31-12-1984
 I.- De deudas contraídas con el Estado, por concepto de anticipos de salarios, pagos hechos con exceso, errores o pérdidas debidamente comprobados;
 II.- Del cobro de cuotas sindicales o de aportación de fondos para la constitución de cooperativas y de cajas de ahorro, siempre que el trabajador hubiese manifestado previamente, de una manera expresa, su conformidad;
 III.- De los descuentos ordenados por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado con motivo de obligaciones contraídas por los trabajadores;
-IV.- De los descuentos ordenados por autoridad judicial competente, para cubrir alimentos que fueren exigidos al trabajador, y
-
-### ARTÍCULO 123
-CONSTITUCIONAL V.- De cubrir obligaciones a cargo del trabajador, en las que haya consentido, derivadas de la adquisición o del uso de habitaciones legalmente consideras como baratas, siempre que la afectación se haga mediante fideicomiso en institución nacional de crédito autorizada al efecto.
+IV.- De los descuentos ordenados por autoridad judicial competente, para cubrir alimentos que fueren exigidos al trabajador, y ARTÍCULO 123 CONSTITUCIONAL V.- De cubrir obligaciones a cargo del trabajador, en las que haya consentido, derivadas de la adquisición o del uso de habitaciones legalmente consideras como baratas, siempre que la afectación se haga mediante fideicomiso en institución nacional de crédito autorizada al efecto.
 VI.- Del pago de abonos para cubrir préstamos provenientes del fondo de la vivienda destinados a la adquisición, construcción, reparación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del 20% del salario.
 Fracción adicionada DOF 28-12-1972 El monto total de los descuentos no podrá exceder del treinta por ciento del importe del salario total, excepto en los casos a que se refieren las fracciones III, IV, V y VI de este artículo.
 Párrafo reformado DOF 28-12-1972
@@ -246,10 +224,7 @@ Artículo adicionado DOF 31-12-1975. Reformado DOF 23-10-1978 CAPITULO IV
 
 ### Artículo 43
 .- Son obligaciones de los titulares a que se refiere el Artículo 1o. de esta Ley:
-Párrafo reformado DOF 31-12-1975, 31-12-1984 I.- Preferir en igualdad de condiciones, de conocimientos, aptitudes y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieren; a quienes representen la única fuente de ingreso familiar; a los Veteranos de la Revolución; a los supervivientes de la
-
-### ARTÍCULO 123
-CONSTITUCIONAL invasión norteamericana de 1914; a los que con anterioridad les hubieren prestado servicios y a los que acrediten tener mejores derechos conforme al escalafón.
+Párrafo reformado DOF 31-12-1975, 31-12-1984 I.- Preferir en igualdad de condiciones, de conocimientos, aptitudes y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieren; a quienes representen la única fuente de ingreso familiar; a los Veteranos de la Revolución; a los supervivientes de la ARTÍCULO 123 CONSTITUCIONAL invasión norteamericana de 1914; a los que con anterioridad les hubieren prestado servicios y a los que acrediten tener mejores derechos conforme al escalafón.
 Párrafo reformado DOF 31-12-1974 Para los efectos del párrafo que antecede, en cada una de las dependencias se formarán los escalafones de acuerdo con las bases establecidas en el título tercero de esta ley;
 II.- Cumplir con todos los servicios de higiene y de prevención de accidentes a que están obligados los patrones en general;
 III.- Reinstalar a los trabajadores en las plazas de las cuales los hubieren separado y ordenar el pago de los salarios caídos, a que fueren condenados por laudo ejecutoriado. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldo;
@@ -271,10 +246,7 @@ f) Establecimiento de escuelas de Administración Pública en las que se imparta
 
 g) Propiciar cualquier medida que permita a los trabajadores de su Dependencia, el arrendamiento o la compra de habitaciones baratas.
 
-h) Constitución de depósitos en favor de los trabajadores con aportaciones sobre sus sueldos básicos o salarios, para integrar un fondo de la vivienda a fin de establecer sistemas de financiamiento que permitan otorgar a éstos, crédito barato y suficiente para que adquieran en propiedad o condominio, habitaciones cómodas e higiénicas; para
-
-### ARTÍCULO 123
-CONSTITUCIONAL construirlas, repararlas o mejorarlas o para el pago de pasivos adquiridos por dichos conceptos.
+h) Constitución de depósitos en favor de los trabajadores con aportaciones sobre sus sueldos básicos o salarios, para integrar un fondo de la vivienda a fin de establecer sistemas de financiamiento que permitan otorgar a éstos, crédito barato y suficiente para que adquieran en propiedad o condominio, habitaciones cómodas e higiénicas; para ARTÍCULO 123 CONSTITUCIONAL construirlas, repararlas o mejorarlas o para el pago de pasivos adquiridos por dichos conceptos.
 Las aportaciones que se hagan a dicho fondo serán enteradas al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, cuya Ley regulará los procedimientos y formas conforme a los cuales se otorgarán y adjudicarán los créditos correspondientes.
 La omisión a esta obligación constituye una falta administrativa grave, la cual será sancionada en términos de la Ley General de Responsabilidades Administrativas.
 Párrafo adicionado DOF 22-11-2021 Inciso adicionado DOF 28-12-1972 VII.- Proporcionar a los trabajadores que no estén incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, las prestaciones sociales a que tengan derecho de acuerdo con la ley y los reglamentos en vigor;
@@ -289,9 +261,7 @@ I.- Desempeñar sus labores con la intensidad, cuidado y esmero apropiados, suje
 II.- Observar buenas costumbres dentro del servicio.
 III.- Cumplir con las obligaciones que les impongan las condiciones generales de trabajo.
 IV.- Guardar reserva de los asuntos que lleguen a su conocimiento con motivo de su trabajo.
-
-### ARTÍCULO 123
-CONSTITUCIONAL V.- Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus compañeros.
+ARTÍCULO 123 CONSTITUCIONAL V.- Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus compañeros.
 VI.- Asistir puntualmente a sus labores;
 VII.- No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo, y VIII.- Asistir a los institutos de capacitación, para mejorar su preparación y eficiencia. CAPITULO VI
 
@@ -313,9 +283,7 @@ V.- Por resolución del Tribunal Federal de Conciliación y Arbitraje, en los ca
 a) Cuando el trabajador incurriere en faltas de probidad u honradez o en actos de violencia, amagos, injurias, o malos tratamientos contra sus jefes o compañeros o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio.
 
 b) Cuando faltare por más de tres días consecutivos a sus labores sin causa justificada.
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+ARTÍCULO 123 CONSTITUCIONAL
 
 c) Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, materias primas y demás objetos relacionados con el trabajo.
 
@@ -339,9 +307,7 @@ Párrafo reformado DOF 31-12-1975
 
 ### Artículo 46
 Bis.- Cuando el trabajador incurra en alguna de las causales a que se refiere la fracción V del artículo anterior, el jefe superior de la oficina procederá a levantar acta administrativa, con intervención del trabajador y un representante del Sindicato respectivo, en la que con toda precisión se asentarán los hechos, la declaración del trabajador afectado y las de los testigos de cargo y de descargo que se propongan, la que se firmará por los que en ella intervengan y por dos testigos de asistencia, debiendo entregarse en ese mismo acto, una copia al trabajador y otra al representante sindical.
-
-### ARTÍCULO 123
-CONSTITUCIONAL Si a juicio del Titular procede demandar ante el Tribunal Federal de Conciliación y Arbitraje la terminación de los efectos del nombramiento del trabajador, a la demanda se acompañarán, como instrumentos base de la acción, el acta administrativa y los documentos que, al formularse ésta, se hayan agregado a la misma.
+ARTÍCULO 123 CONSTITUCIONAL Si a juicio del Titular procede demandar ante el Tribunal Federal de Conciliación y Arbitraje la terminación de los efectos del nombramiento del trabajador, a la demanda se acompañarán, como instrumentos base de la acción, el acta administrativa y los documentos que, al formularse ésta, se hayan agregado a la misma.
 Artículo adicionado DOF 31-12-1975 TITULO TERCERO Del Escalafón CAPITULO I
 
 ### Artículo 47
@@ -364,10 +330,7 @@ a) Por conocimientos: La posesión de los principios teóricos y prácticos que 
 b) Por aptitud: La suma de facultades físicas y mentales, la iniciativa, laboriosidad y la eficiencia para llevar a cabo una actividad determinada.
 
 c) Por antigüedad: El tiempo de servicios prestados a la dependencia correspondiente, o a otra distinta cuyas relaciones laborales se rijan por la presente Ley, siempre que el trabajador haya sido sujeto de un proceso de reasignación con motivo de la reorganización de servicios, o de los efectos de la desconcentración administrativa aun cuando la reasignación tuviere lugar por voluntad del trabajador.
-Inciso reformado DOF 15-01-1980 En el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, las plazas de Directores y Subdirectores de Clínicas, Jefes de División Quirúrgica y de División Médica; Jefes de Servicios de Especialidad Médica y Quirúrgica y Jefes de Laboratorio Médico, serán ocupadas por oposición entre los trabajadores de la misma Institución. Para calificar la oposición, la Comisión de Escalafón se asesorará de las Academias Nacionales de Medicina y de Cirugía, según el caso, las que rendirán el dictamen correspondiente, mismo que servirá de base para la designación. En el caso de que las Academias mencionadas declaren desierto el concurso para ocupar las plazas de Jefes de División
-
-### ARTÍCULO 123
-CONSTITUCIONAL de Medicina y Cirugía y Jefes de Especialidad Médica y Quirúrgica, podrá convocarse a oposición abierta entre todos los especialistas de la rama en la República.
+Inciso reformado DOF 15-01-1980 En el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, las plazas de Directores y Subdirectores de Clínicas, Jefes de División Quirúrgica y de División Médica; Jefes de Servicios de Especialidad Médica y Quirúrgica y Jefes de Laboratorio Médico, serán ocupadas por oposición entre los trabajadores de la misma Institución. Para calificar la oposición, la Comisión de Escalafón se asesorará de las Academias Nacionales de Medicina y de Cirugía, según el caso, las que rendirán el dictamen correspondiente, mismo que servirá de base para la designación. En el caso de que las Academias mencionadas declaren desierto el concurso para ocupar las plazas de Jefes de División ARTÍCULO 123 CONSTITUCIONAL de Medicina y Cirugía y Jefes de Especialidad Médica y Quirúrgica, podrá convocarse a oposición abierta entre todos los especialistas de la rama en la República.
 
 ### Artículo 51
 .- Las vacantes se otorgarán a los trabajadores de la categoría inmediata inferior que acrediten mejores derechos en la valoración y calificación de los factores escalafonarios.
@@ -405,9 +368,7 @@ CAPITULO III
 
 ### Artículo 61
 .- La vacante se otorgará al trabajador que habiendo sido aprobado de acuerdo con el reglamento respectivo obtenga la mejor calificación.
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+ARTÍCULO 123 CONSTITUCIONAL
 
 ### Artículo 62
 .- Las plazas de última categoría de nueva creación o las disponibles en cada grupo, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren, y previo estudio realizado por el Titular de la Dependencia, tomando en cuenta la opinión del Sindicato, que justifique su ocupación, serán cubiertas en un 50% libremente por los Titulares y el restante 50% por los candidatos que proponga el Sindicato.
@@ -439,10 +400,7 @@ Artículo derogado DOF 01-05-2019
 .- Todos los trabajadores tienen derecho a formar parte de un sindicato y a constituir sindicatos, sin necesidad de autorización previa.
 El trabajador ejercerá en todo momento de su libertad de adhesión o separación en un sindicato.
 Asimismo, a nadie se le puede obligar a formar parte de un sindicato, a no formar parte de él o a permanecer en el mismo.
-La elección de las directivas sindicales se hará mediante voto personal, libre, directo y secreto de los afiliados, previa convocatoria que se emitirá con una anticipación no menor a quince días y que se difundirá entre todos los miembros del sindicato. El sindicato deberá notificar la convocatoria al Tribunal Federal de Conciliación y Arbitraje con la misma anticipación, el cual podrá verificar el procedimiento de
-
-### ARTÍCULO 123
-CONSTITUCIONAL elección por conducto de los servidores públicos o fedatarios que designe para tal efecto. Las elecciones que no cumplan estos requisitos serán nulas.
+La elección de las directivas sindicales se hará mediante voto personal, libre, directo y secreto de los afiliados, previa convocatoria que se emitirá con una anticipación no menor a quince días y que se difundirá entre todos los miembros del sindicato. El sindicato deberá notificar la convocatoria al Tribunal Federal de Conciliación y Arbitraje con la misma anticipación, el cual podrá verificar el procedimiento de ARTÍCULO 123 CONSTITUCIONAL elección por conducto de los servidores públicos o fedatarios que designe para tal efecto. Las elecciones que no cumplan estos requisitos serán nulas.
 Artículo reformado DOF 01-05-2019
 
 ### Artículo 69
@@ -474,9 +432,7 @@ XI. Proporcionar apoyo o servicios institucionales para actividades de campaña 
 XII. Realizar aportaciones o solicitar contribuciones a subordinados para financiar campañas o actividades sindicales.
 
 XIII. Usar recursos o programas institucionales con la finalidad de posicionar o promover ante la base trabajadora a una persona servidora pública o dirigente sindical.
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+ARTÍCULO 123 CONSTITUCIONAL
 
 XIV. Negarse sin causa justificada a entregar información solicitada por la autoridad sindical o laboral competente, relacionada con el desarrollo de elecciones o procesos democráticos sindicales.
 
@@ -510,10 +466,7 @@ El Tribunal Federal de Conciliación y Arbitraje, al recibir la solicitud de reg
 Artículo reformado DOF 01-05-2019
 
 ### Artículo 74
-.- Los trabajadores que por su conducta o falta de solidaridad fueren expulsados de un sindicato, perderán por ese solo hecho todos los derechos sindicales que esta ley concede. La expulsión sólo podrá votarse por la mayoría de los miembros del sindicato respectivo o con la aprobación de las
-
-### ARTÍCULO 123
-CONSTITUCIONAL dos terceras partes de los delegados sindicales a sus congresos o convenciones nacionales y previa defensa del acusado. La expulsión deberá ser comprendida en la orden del día.
+.- Los trabajadores que por su conducta o falta de solidaridad fueren expulsados de un sindicato, perderán por ese solo hecho todos los derechos sindicales que esta ley concede. La expulsión sólo podrá votarse por la mayoría de los miembros del sindicato respectivo o con la aprobación de las ARTÍCULO 123 CONSTITUCIONAL dos terceras partes de los delegados sindicales a sus congresos o convenciones nacionales y previa defensa del acusado. La expulsión deberá ser comprendida en la orden del día.
 
 ### Artículo 75
 .- Queda prohibido todo acto de reelección dentro de los sindicatos.
@@ -551,9 +504,7 @@ Fracción derogada DOF 01-05-2019
 ### Artículo 82
 .- Los sindicatos se disolverán:
 I.- Por el voto de las dos terceras partes de los miembros que los integren y II.- Porque dejen de reunir los requisitos señalados por el Artículo 71.
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+ARTÍCULO 123 CONSTITUCIONAL
 
 ### Artículo 83
 .- En los casos de violación a lo dispuesto en el Artículo 79, el Tribunal Federal de Conciliación y Arbitraje determinará la cancelación del registro de la directiva o del registro del sindicato, según corresponda.
@@ -590,9 +541,7 @@ Fracción recorrida DOF 31-12-1974
 
 ### Artículo 91
 .- Las condiciones generales de trabajo de cada dependencia serán autorizadas previamente por la Secretaría de Hacienda y Crédito Público, en los términos de la Ley Orgánica del Presupuesto de Egresos de la Federación, cuando contengan prestaciones económicas que signifiquen erogaciones con cargo al Gobierno Federal y que deban cubrirse a través del Presupuesto de Egresos de la Federación, sin cuyo requisito no podrá exigirse al Estado su cumplimiento.
-
-### ARTÍCULO 123
-CONSTITUCIONAL CAPITULO III
+ARTÍCULO 123 CONSTITUCIONAL CAPITULO III
 
 ### Artículo 92
 .- Huelga es la suspensión temporal del trabajo como resultado de una coalición de trabajadores, decretada en la forma y términos que esta Ley establece.
@@ -629,9 +578,7 @@ Si la huelga es legal, procederá desde luego a la conciliación de las partes, 
 
 ### Artículo 102
 .- Si la declaración de huelga se considera legal, por el Tribunal Federal de Conciliación y Arbitraje, y si transcurrido el plazo de diez días a que se refiere el artículo 95, no se hubiere llegado a un entendimiento entre las partes, los trabajadores podrán suspender las labores.
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+ARTÍCULO 123 CONSTITUCIONAL
 
 ### Artículo 103
 .- Si la suspensión de labores se lleva a cabo antes de los diez días del emplazamiento, el Tribunal declarará que no existe el estado de huelga; fijará a los trabajadores un plazo de veinticuatro horas para que reanuden sus labores, apercibiéndolos de que si no lo hacen, quedarán cesados sin responsabilidad para el Estado, salvo en casos de fuerza mayor o de error no imputable a los trabajadores, y declarará que el Estado o funcionarios afectados no han incurrido en responsabilidad.
@@ -643,10 +590,7 @@ CONSTITUCIONAL
 .- Si el Tribunal resuelve que la huelga es ilegal, quedarán cesados por este solo hecho, sin responsabilidad para los titulares, los trabajadores que hubieren suspendido sus labores.
 
 ### Artículo 106
-.- La huelga será declarada ilegal y delictuosa cuando la mayoría de los huelguistas ejecuten actos violentos contra las personas o las propiedades, o cuando se decreten en los casos del
-
-### artículo 29
-Constitucional.
+.- La huelga será declarada ilegal y delictuosa cuando la mayoría de los huelguistas ejecuten actos violentos contra las personas o las propiedades, o cuando se decreten en los casos del artículo 29 Constitucional.
 
 ### Artículo 107
 .- En tanto que no se declare ilegal, inexistente o terminado un estado de huelga, el Tribunal y las autoridades civiles y militares deberán respetar el derecho que ejerciten los trabajadores, dándoles las garantías y prestándoles auxilio que soliciten.
@@ -666,9 +610,7 @@ TITULO QUINTO De los Riesgos Profesionales y de las Enfermedades no Profesionale
 
 ### Artículo 111
 .- Los trabajadores que sufran enfermedades no profesionales, tendrán derecho a que se les concedan licencias, para dejar de concurrir a sus labores, previo dictamen y la consecuente vigilancia médica, en los siguientes términos:
-
-### ARTÍCULO 123
-CONSTITUCIONAL I.- A los empleados que tengan menos de un año de servicios, se les podrá conceder licencia por enfermedad no profesional, hasta quince días con goce de sueldo íntegro y hasta quince días más con medio sueldo.
+ARTÍCULO 123 CONSTITUCIONAL I.- A los empleados que tengan menos de un año de servicios, se les podrá conceder licencia por enfermedad no profesional, hasta quince días con goce de sueldo íntegro y hasta quince días más con medio sueldo.
 II.- A los que tengan de uno a cinco años de servicios, hasta treinta días con goce de sueldo íntegro y hasta treinta días más con medio sueldo.
 III.- A los que tengan de cinco a diez años de servicios, hasta cuarenta y cinco días con goce de sueldo íntegro y hasta cuarenta y cinco días más con medio sueldo, y IV.- A los que tengan de diez años de servicio en adelante, hasta sesenta días con goce de sueldo integro y hasta sesenta días más con medio sueldo.
 En los casos previstos en las fracciones anteriores, si al vencer las licencias con sueldo y medio sueldo continúa la incapacidad, se prorrogará al trabajador la licencia, ya sin goce de sueldo, hasta totalizar en conjunto cincuenta y dos semanas, de acuerdo con el artículo 22 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
@@ -690,10 +632,7 @@ II.- En cuatro meses:
 
 a) En caso de despido o suspensión injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la Ley concede, contados a partir del momento en que sea notificado el trabajador, del despido o suspensión.
 
-b) En supresión de plazas, las acciones para que se les otorgue otra equivalente a la suprimida o la indemnización de Ley, y
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+b) En supresión de plazas, las acciones para que se les otorgue otra equivalente a la suprimida o la indemnización de Ley, y ARTÍCULO 123 CONSTITUCIONAL
 
 c) La facultad de los funcionarios para suspender, cesar o disciplinar a sus trabajadores, contado el término desde que sean conocidas las causas.
 
@@ -717,10 +656,7 @@ I.- Por la sola presentación de la demanda respectiva ante el Tribunal Federal 
 
 ### Artículo 117
 .- Para los efectos de la prescripción los meses se regularán por el número de días que les correspondan; el primer día se contará completo y cuando sea inhábil el último, no se tendrá por completa la prescripción; sino cumplido el primer día hábil siguiente.
-TITULO SEPTIMO Del Tribunal Federal de Conciliación y Arbitraje y del procedimiento ante el mismo
-
-### ARTÍCULO 123
-CONSTITUCIONAL CAPITULO I
+TITULO SEPTIMO Del Tribunal Federal de Conciliación y Arbitraje y del procedimiento ante el mismo ARTÍCULO 123 CONSTITUCIONAL CAPITULO I
 
 ### Artículo 118
 .- El Tribunal Federal de Conciliación y Arbitraje será colegiado, funcionará en Pleno y en Salas, se integrará cuando menos con tres Salas, las que podrán aumentarse cuando así se requiera.
@@ -748,9 +684,7 @@ V.- Asignar los expedientes a cada una de las salas, conforme a las normas que e
 VI.- Vigilar que se cumplan los laudos dictados por el Pleno;
 VII.- Vigilar el correcto funcionamiento de las Salas y de las Salas Auxiliares;
 VIII.- Rendir los informes relativos a los amparos que se interpongan en contra de los laudos y de las resoluciones dictadas por el Pleno;
-
-### ARTÍCULO 123
-CONSTITUCIONAL IX.- Llevar la correspondencia oficial del Tribunal salvo las reservadas a los Presidentes de las Salas, y X.- Las demás que le confieran las Leyes.
+ARTÍCULO 123 CONSTITUCIONAL IX.- Llevar la correspondencia oficial del Tribunal salvo las reservadas a los Presidentes de las Salas, y X.- Las demás que le confieran las Leyes.
 Artículo adicionado DOF 12-01-1984
 
 ### Artículo 120-B
@@ -773,9 +707,7 @@ Artículo adicionado DOF 12-01-1984
 .- Para ser Magistrado del Tribunal Federal de Conciliación y Arbitraje se requiere:
 Párrafo reformado DOF 12-01-1984 I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 Fracción reformada DOF 23-01-1998 II.- Ser mayor de 25 años, y III.- No haber sido condenado, por delitos contra la propiedad o a sufrir pena mayor de un año de prisión por cualquier otra clase de delitos intencionales.
-
-### ARTÍCULO 123
-CONSTITUCIONAL El Presidente del Tribunal y los Presidentes de Sala y de Sala Auxiliar, así como el Magistrado nombrado por el Gobierno Federal, deberán poseer título profesional de Licenciado en Derecho, legalmente expedido cuando menos cinco años antes de la designación, y tener un mínimo de tres años de experiencia acreditable en materia laboral.
+ARTÍCULO 123 CONSTITUCIONAL El Presidente del Tribunal y los Presidentes de Sala y de Sala Auxiliar, así como el Magistrado nombrado por el Gobierno Federal, deberán poseer título profesional de Licenciado en Derecho, legalmente expedido cuando menos cinco años antes de la designación, y tener un mínimo de tres años de experiencia acreditable en materia laboral.
 Párrafo reformado DOF 12-01-1984 El Magistrado representate de los trabajadores, deberá haber servido al Estado como empleado de base, por período no menor de cinco años, precisamente anterior a la fecha de la designación.
 Párrafo reformado DOF 12-01-1984
 
@@ -792,10 +724,7 @@ Los Secretarios de Acuerdos, Actuarios y el personal administrativo del Tribunal
 El Secretario General de Acuerdos, los Secretarios Generales Auxiliares, los Secretarios de Acuerdos y el Jefe de Actuarios, deberán satisfacer los siguientes requisitos:
 I.- Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
 II.- Tener título legalmente expedido de Licenciado en Derecho, y III.- No haber sido condenados por delito intencional sancionado con pena corporal.
-Artículo reformado DOF 12-01-1984
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+Artículo reformado DOF 12-01-1984 ARTÍCULO 123 CONSTITUCIONAL
 
 ### Artículo 123
 .- El Tribunal, por conducto del Pleno, nombrará, removerá o suspenderá a sus trabajadores en los términos de esta Ley.
@@ -822,10 +751,7 @@ Artículo adicionado DOF 12-01-1984
 ### Artículo 124-B
 .- A cada una de las Salas corresponde:
 I.- Conocer, tramitar y resolver los conflictos individuales que se susciten entre los titulares de las dependencias o entidades y sus trabajadores, y que le sean asignados, de conformidad con lo establecido en el Reglamento Interior, y II.- Las demás que les confieran las Leyes.
-Artículo adicionado DOF 12-01-1984
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+Artículo adicionado DOF 12-01-1984 ARTÍCULO 123 CONSTITUCIONAL
 
 ### Artículo 124-C
 .- A las Salas Auxiliares corresponde:
@@ -845,10 +771,7 @@ Artículo adicionado DOF 12-01-1984 CAPITULO III
 ### Artículo 127
 Bis.- El procedimiento para resolver las controversias relativas a la terminación de los efectos del nombramiento de los trabajadores ante el Tribunal Federal de Conciliación y Arbitraje, se desarrollará en la siguiente forma:
 I.- La Dependencia presentará por escrito su demanda, acompañada del acta administrativa y de los documentos a que se alude el artículo 46 bis, solicitando en el mismo acto el desahogo de las demás pruebas que sea posible rendir durante la audiencia a que se refiere la siguiente fracción;
-II.- Dentro de los tres días siguientes a la presentación de la demanda se correrá traslado de la misma al demandado, quien dispondrá de nueve días hábiles para contestar por escrito, acompañando las pruebas que obren en su poder, señalando el lugar o lugares en donde se encuentren los documentos que no posea, para el efecto de que el Tribunal los solicite, y proponiendo la práctica de pruebas durante la audiencia a la que se refiere la fracción siguiente; y III.- Fijados los términos de la controversia y reunidas las pruebas que se hubiesen presentado con la demanda y la contestación, el Tribunal citara a una audiencia que se celebrará dentro de los quince días siguientes de recibida la contestación, en la que se desahogaran pruebas, se escucharán los alegatos de las partes y se dictarán los puntos resolutivos del laudo, que se engrosará dentro de los cinco días siguientes a la fecha de la celebración de la audiencia, salvo cuando a juicio del Tribunal se requiera la
-
-### ARTÍCULO 123
-CONSTITUCIONAL práctica de otras diligencias para mejor proveer, en cuyo caso se ordenará que se lleven a cabo y una vez desahogadas se dictará el laudo dentro de quince días.
+II.- Dentro de los tres días siguientes a la presentación de la demanda se correrá traslado de la misma al demandado, quien dispondrá de nueve días hábiles para contestar por escrito, acompañando las pruebas que obren en su poder, señalando el lugar o lugares en donde se encuentren los documentos que no posea, para el efecto de que el Tribunal los solicite, y proponiendo la práctica de pruebas durante la audiencia a la que se refiere la fracción siguiente; y III.- Fijados los términos de la controversia y reunidas las pruebas que se hubiesen presentado con la demanda y la contestación, el Tribunal citara a una audiencia que se celebrará dentro de los quince días siguientes de recibida la contestación, en la que se desahogaran pruebas, se escucharán los alegatos de las partes y se dictarán los puntos resolutivos del laudo, que se engrosará dentro de los cinco días siguientes a la fecha de la celebración de la audiencia, salvo cuando a juicio del Tribunal se requiera la ARTÍCULO 123 CONSTITUCIONAL práctica de otras diligencias para mejor proveer, en cuyo caso se ordenará que se lleven a cabo y una vez desahogadas se dictará el laudo dentro de quince días.
 Artículo adicionado DOF 31-12-1975
 
 ### Artículo 128
@@ -858,10 +781,7 @@ I.- Las que versen sobre personalidad;
 II.- Las que versen sobre competencia;
 III.- Las que versen sobre admisión de pruebas;
 IV.- Las que versen sobre nulidad de actuaciones;
-V.- El laudo, en el caso de las Salas, y VI.- Las que versen sobre el desistimiento de la acción de los trabajadores, en los términos del
-
-### artículo 140
-de esta Ley.
+V.- El laudo, en el caso de las Salas, y VI.- Las que versen sobre el desistimiento de la acción de los trabajadores, en los términos del artículo 140 de esta Ley.
 Artículo reformado DOF 20-01-1967, 12-01-1984
 
 ### Artículo 129
@@ -874,9 +794,7 @@ A la demanda acompañará las pruebas de que disponga y los documentos que acred
 
 ### Artículo 130
 .- La contestación de la demanda se presentará en un término que no exceda de cinco días, contados a partir del siguiente a la fecha de su notificación; deberá referirse a todos y cada uno de los hechos que comprenda la demanda, y ofrecer pruebas en los términos de la fracción V del artículo anterior.
-
-### ARTÍCULO 123
-CONSTITUCIONAL Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal, se ampliará el término en un día mas por cada 40 kms. de distancia o fracción que exceda de la mitad.
+ARTÍCULO 123 CONSTITUCIONAL Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal, se ampliará el término en un día mas por cada 40 kms. de distancia o fracción que exceda de la mitad.
 
 ### Artículo 131
 .- El Tribunal, tan luego como reciba la contestación de la demanda una vez transcurrido el plazo para contestarla, ordenará la práctica de las diligencias que fueren necesarias y citará a las partes y, en su caso, a los testigos y peritos, para la audiencia de pruebas, alegatos y resolución.
@@ -910,10 +828,7 @@ Los titulares podrán hacerse representar por apoderados que acrediten ese cará
 ### Artículo 140
 .- Se tendrá por desistida de la acción y de la demanda intentada, a toda persona que no haga promoción alguna en el término de tres meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. El Tribunal, de oficio o a petición de parte, una vez transcurrido este término, declarará la caducidad.
 No operará la caducidad, aún cuando el término transcurra, por el desahogo de diligencias que deban practicarse fuera del local del Tribunal o por estar pendientes de recibirse informes o copias certificadas que hayan sido solicitadas.
-Artículo reformado DOF 20-01-1967
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+Artículo reformado DOF 20-01-1967 ARTÍCULO 123 CONSTITUCIONAL
 
 ### Artículo 141
 .- Los incidentes que se susciten con motivo de la personalidad de las partes o de sus representantes de la competencia del Tribunal, del interés de tercero, de nulidad de actuaciones u otros motivos, serán resueltos de plano.
@@ -952,10 +867,7 @@ CAPITULO II
 
 ### Artículo 151
 .- Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecución y comisionará a un actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución, apercibiéndola da que, de no hacerlo, se procederá conforme a lo dispuesto en el capítulo anterior.
-TITULO NOVENO
-
-### ARTÍCULO 123
-CONSTITUCIONAL De los Conflictos entre el Poder Judicial de la Federación y sus servidores CAPITULO I
+TITULO NOVENO ARTÍCULO 123 CONSTITUCIONAL De los Conflictos entre el Poder Judicial de la Federación y sus servidores CAPITULO I
 
 ### Artículo 152
 .- Los conflictos entre el Poder Judicial de la Federación y sus servidoras o servidores, serán resueltos por una Comisión de Conflictos Laborales del Poder Judicial de la Federación.
@@ -985,10 +897,7 @@ b) Una o uno nombrado por el Sindicato de Trabajadores del Poder Judicial de la 
 
 c) Una o un tercero ajeno a los mencionados en los incisos anteriores, designado de común acuerdo por las y los demás integrantes de la Comisión.
 La o el representante del Sindicato, así como la tercera ajena o el tercero ajeno, a que se hace referencia en los incisos b) y c), de las fracciones I y II de este artículo, serán las mismas personas en ambos supuestos.
-Artículo reformado DOF 07-06-2021
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+Artículo reformado DOF 07-06-2021 ARTÍCULO 123 CONSTITUCIONAL
 
 ### Artículo 155
 .- La comisión funcionará con un Secretario de Acuerdos que autorice y dé fe de lo actuado; y contará con los actuarios y la planta de empleados que sea necesaria. Los sueldos y gastos que origine la comisión se incluirán en el Presupuesto de Egresos del Poder Judicial de la Federación.
@@ -1022,9 +931,7 @@ Artículo reformado DOF 07-06-2021 TITULO DECIMO De las Correcciones Disciplinar
 a) A los particulares que faltaren al respeto y al orden debidos durante las actuaciones del Tribunal, y
 
 b) A los empleados del propio Tribunal, por las faltas que cometan en el desempeño de sus funciones.
-
-### ARTÍCULO 123
-CONSTITUCIONAL
+ARTÍCULO 123 CONSTITUCIONAL
 
 ### Artículo 163
 .- Las correcciones a que alude el artículo anterior serán:
@@ -1063,35 +970,19 @@ Las sanciones serán impuestas por el Tribunal Federal de Conciliación y Arbitr
 .- El registro de los Sindicatos ante el Tribunal de Arbitraje, hecho durante la vigencia del Estatuto Jurídico, prorrogará plenamente sus efectos en el Tribunal Federal de Conciliación y Arbitraje.
 Joaquín Gamboa Pascoe.- D. P.- Rúbrica.- Lic. Manuel Moreno Sánchez, S. P.- Rúbrica.- J.
 Guadalupe Mata López, D. S.- Rúbrica.- Lic. Carlos Román Celis, S. S.- Rúbrica.
-En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintisiete días del
-
-### ARTÍCULO 123
-CONSTITUCIONAL mes de diciembre de mil novecientos sesenta y tres.- Adolfo López Mateos.-Rúbrica.- El Subsecretario de Gobernación encargado del Despacho, Luis Echeverría. Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario de Marina, Manuel Zermeño Araico.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortíz Mena.- Rúbrica.- El Secretario del Patrimonio Nacional, Eduardo Bustamante.-Rúbrica.- El Secretario de Industria y Comercio, Raúl Salinas Lozano.Rúbrica.- El Secretario de Agricultura y Ganadería, Julián Rodríguez Adame.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Walter C. Buchanan.- Rúbrica.- El Secretario de Obras Públicas, Javier Barros Sierra.- Rúbrica.- El Secretario de Recursos Hidráulicos, Alfredo del Mazo.- Rúbrica.- El Secretario de Educación Pública, Jaime Torres Bodet.- Rúbrica.- El Secretario de Salubridad y Asistencia, José Alvarez Amézquita.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.- El Secretario de la Presidencia, Donato Miranda Fonseca.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Roberto Barrios.- Rúbrica.- El Jefe del Departamento de Turismo, Francisco González de la Vega.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ernesto P. Uruchurtu.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA A partir de 1998 DECRETO por el que se reforman diversos ordenamientos legales.
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintisiete días del ARTÍCULO 123 CONSTITUCIONAL mes de diciembre de mil novecientos sesenta y tres.- Adolfo López Mateos.-Rúbrica.- El Subsecretario de Gobernación encargado del Despacho, Luis Echeverría. Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario de Marina, Manuel Zermeño Araico.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortíz Mena.- Rúbrica.- El Secretario del Patrimonio Nacional, Eduardo Bustamante.-Rúbrica.- El Secretario de Industria y Comercio, Raúl Salinas Lozano.Rúbrica.- El Secretario de Agricultura y Ganadería, Julián Rodríguez Adame.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Walter C. Buchanan.- Rúbrica.- El Secretario de Obras Públicas, Javier Barros Sierra.- Rúbrica.- El Secretario de Recursos Hidráulicos, Alfredo del Mazo.- Rúbrica.- El Secretario de Educación Pública, Jaime Torres Bodet.- Rúbrica.- El Secretario de Salubridad y Asistencia, José Alvarez Amézquita.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.- El Secretario de la Presidencia, Donato Miranda Fonseca.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Roberto Barrios.- Rúbrica.- El Jefe del Departamento de Turismo, Francisco González de la Vega.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ernesto P. Uruchurtu.- Rúbrica.
+ARTÍCULO 123 CONSTITUCIONAL ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA A partir de 1998 DECRETO por el que se reforman diversos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ### ARTÍCULO ÚNICO
-Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al
-
-### artículo 47
-de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
-Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del
-
-### artículo 51
-de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
+Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
+Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
 
 ## TRANSITORIO
 
 **ÚNICO.-** El presente Decreto entrará en vigor el 20 de marzo de 1998.
-México, D.F., a 12 de diciembre de 1997.- Sen. Heladio Ramírez López, Presidente.- Dip. Luis Meneses Murillo, Presidente.- Sen. José Antonio Valdivia, Secretario.- Dip. Jaime Castro López, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del
-
-### ARTÍCULO 123
-CONSTITUCIONAL mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se reforma y adiciona la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 Constitucional.
+México, D.F., a 12 de diciembre de 1997.- Sen. Heladio Ramírez López, Presidente.- Dip. Luis Meneses Murillo, Presidente.- Sen. José Antonio Valdivia, Secretario.- Dip. Jaime Castro López, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del ARTÍCULO 123 CONSTITUCIONAL mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se reforma y adiciona la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 Constitucional.
 Publicado en el Diario Oficial de la Federación el 3 de mayo de 2006
 
 ### ARTÍCULO PRIMERO
@@ -1108,9 +999,7 @@ Se modifica el tercer párrafo y se adiciona un cuarto párrafo al artículo 32,
 .
 **ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 6 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Carlos Chaurand Arzate, Vicepresidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de abril de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se adicionan y reforman diversas disposiciones de la Ley General de Salud; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se adicionan y reforman diversas disposiciones de la Ley General de Salud; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 Publicado en el Diario Oficial de la Federación el 2 de abril de 2014
 
 ### Artículo Segundo
@@ -1121,9 +1010,7 @@ Se reforma el artículo 28 de la Ley Federal de los Trabajadores al Servicio del
 **PRIMERO.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 **SEGUNDO.** Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
 México, D.F., a 20 de febrero de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se expide la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, y se reforman diversas disposiciones de la Ley Federal del Trabajo; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley General de Títulos y Operaciones de Crédito; de la Ley de Instituciones de Crédito y de la Ley Agraria.
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se expide la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, y se reforman diversas disposiciones de la Ley Federal del Trabajo; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley General de Títulos y Operaciones de Crédito; de la Ley de Instituciones de Crédito y de la Ley Agraria.
 Publicado en el Diario Oficial de la Federación el 22 de junio de 2018
 
 ### ARTÍCULO TERCERO
@@ -1135,30 +1022,17 @@ Se reforman las fracciones I y se adiciona una fracción IV al artículo 115 de 
 **SEGUNDO.** El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
 **TERCERO.** Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del apartado B) del
-
-### Artículo 123
-Constitucional.
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del apartado B) del Artículo 123 Constitucional.
 Publicado en el Diario Oficial de la Federación el 1 de mayo de 2019
 
 ### Artículo Único
-Se reforma el párrafo primero del artículo 69; los artículos 71; 73; 78 y 84; se adicionan un párrafo segundo, tercero y cuarto al artículo 69; se deroga el artículo 68 y la fracción V del
-
-### artículo 79
-de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del apartado B) del Artículo 123 Constitucional, para quedar como sigue: ………
+Se reforma el párrafo primero del artículo 69; los artículos 71; 73; 78 y 84; se adicionan un párrafo segundo, tercero y cuarto al artículo 69; se deroga el artículo 68 y la fracción V del artículo 79 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del apartado B) del Artículo 123 Constitucional, para quedar como sigue: ………
 
 ## Transitorio
 
 **Único.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 30 de abril de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del
-
-### Artículo 123
-Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral.
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral.
 Publicado en el Diario Oficial de la Federación el 23 de abril de 2021
 
 ### Artículo Séptimo
@@ -1174,15 +1048,10 @@ Artículo reformado DOF 31-07-2021
 **Cuarto.** Para fines de lo dispuesto en el párrafo tercero del artículo 41 de la Ley Federal del Trabajo, tratándose de empresas que operan bajo un régimen de subcontratación, no será requisito la transmisión de los bienes objeto de la empresa o establecimiento hasta el 1 de septiembre de 2021, siempre que la persona contratista transfiera a la persona beneficiaria a los trabajadores en dicho plazo. En todo caso se deberán reconocer los derechos laborales, incluida su antigüedad, que se hubieran generado por el efecto de la relación de trabajo.
 Artículo reformado DOF 31-07-2021
 **Quinto.** Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros patronales por clase, de las señaladas en el artículo 73 de la Ley del Seguro Social, para realizar la inscripción de sus trabajadores a nivel nacional, tendrán hasta el 1 de septiembre de 2021 para dar de baja dichos registros patronales y de ser procedente, solicitar al mencionado Instituto se le otorgue un registro patronal en términos de lo dispuesto por el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
-Párrafo reformado DOF 31-07-2021
-
-### ARTÍCULO 123
-CONSTITUCIONAL Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social.
-Sexto. Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del
-
-### artículo 15
-A de la Ley del Seguro Social, y tendrán hasta el 1 de septiembre de 2021 para proporcionarla. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
-Artículo reformado DOF 31-07-2021 Séptimo. Para efectos de la Ley del Seguro Social, desde la entrada en vigor de la presente reforma y hasta el 1 de septiembre de 2021, se considerará como sustitución patronal la migración de trabajadores de las empresas que operaban bajo el régimen de subcontratación laboral, siempre y cuando la empresa destino de los trabajadores reconozca sus derechos laborales, incluyendo la antigüedad de los mismos y los riesgos de trabajo terminados, ante las instancias legales correspondientes.
+Párrafo reformado DOF 31-07-2021 ARTÍCULO 123 CONSTITUCIONAL Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social.
+**Sexto.** Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del artículo 15 A de la Ley del Seguro Social, y tendrán hasta el 1 de septiembre de 2021 para proporcionarla. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+Artículo reformado DOF 31-07-2021
+**Séptimo.** Para efectos de la Ley del Seguro Social, desde la entrada en vigor de la presente reforma y hasta el 1 de septiembre de 2021, se considerará como sustitución patronal la migración de trabajadores de las empresas que operaban bajo el régimen de subcontratación laboral, siempre y cuando la empresa destino de los trabajadores reconozca sus derechos laborales, incluyendo la antigüedad de los mismos y los riesgos de trabajo terminados, ante las instancias legales correspondientes.
 Párrafo reformado DOF 31-07-2021 En estos supuestos aplicarán las siguientes reglas, para efectos de la determinación de la clase, fracción y prima del Seguro de Riesgos de Trabajo: 1.- La empresa que absorba a los trabajadores deberá auto clasificarse conforme a los criterios que se establecen en los artículos 71, 73 y 75 de la Ley del Seguro Social, y de acuerdo a los artículos 18, 20 y al Catálogo de Actividades previsto en el artículo 196, todos del Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, debiendo conservar la prima con la que venía cotizando la empresa que tenía los trabajadores registrados en el IMSS, siempre y cuando dicha empresa haya estado correctamente clasificada conforme a los riesgos inherentes a la actividad de la negociación de que se trataba y a las disposiciones normativas aplicables, en caso contrario deberá cotizar con la prima media de la clase que le corresponda. 2.- Tratándose de una empresa que absorba a los trabajadores de otra u otras empresas, con la misma o distintas clases, y que en virtud de ello deban ajustar su clasificación a las nuevas actividades que llevará a cabo; la clase y fracción se determinará atendiendo a los riesgos inherentes a la actividad de la negociación de que se trate y la prima se obtendrá de aplicar el procedimiento siguiente:
 
 a) Por cada registro patronal, tanto de la empresa que absorbe como de la otra u otras empresas a sustituir, se multiplicará la prima asignada por el total de los salarios base de cotización de los trabajadores comprendidos en el mismo. El salario base de cotización a considerar, será el del mes previo al que se comunique la sustitución al Instituto.
@@ -1192,18 +1061,14 @@ b) Se sumarán los productos obtenidos conforme al inciso anterior y el resultad
 c) La prima así obtenida se aplicará al registro patronal de la empresa que absorbe a los trabajadores y estará vigente hasta el último día del mes de febrero posterior a la sustitución.
 
 d) Para efectos de la determinación de la prima del ejercicio siguiente, la empresa que absorbe a los trabajadores deberá considerar los riesgos de trabajo terminados que les hubiesen ocurrido a dichos trabajadores en el ejercicio correspondiente.
-
-### ARTÍCULO 123
-CONSTITUCIONAL Lo anterior, siempre y cuando las empresas que se pretendan sustituir hayan estado correctamente clasificadas conforme a los riesgos inherentes a la actividad de la o las negociaciones de que se trataban y a las disposiciones normativas aplicables, en caso contrario deberán cotizar a la prima media de la clase que les corresponda.
+ARTÍCULO 123 CONSTITUCIONAL Lo anterior, siempre y cuando las empresas que se pretendan sustituir hayan estado correctamente clasificadas conforme a los riesgos inherentes a la actividad de la o las negociaciones de que se trataban y a las disposiciones normativas aplicables, en caso contrario deberán cotizar a la prima media de la clase que les corresponda.
 Las empresas que cuenten a la fecha de la entrada en vigor de las presentes disposiciones con un Convenio de Subrogación de Servicios Médicos con Reversión de Cuotas vigente, y que en términos de estas disposiciones lleven a cabo una sustitución patronal, no serán objeto de modificación de las condiciones pactadas en el mismo. Vencido el plazo de 90 días naturales aplicarán las reglas previstas tanto en la Ley del Seguro Social como en el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
-Octavo. Dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+**Octavo.** Dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refiere el inciso f) del artículo 29 Bis, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
-Noveno. Las conductas delictivas que hayan sido cometidas con anterioridad a la entrada en vigor del presente Decreto serán sancionadas de conformidad con la legislación vigente al momento de la comisión de los hechos.
-Décimo. Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores.
+**Noveno.** Las conductas delictivas que hayan sido cometidas con anterioridad a la entrada en vigor del presente Decreto serán sancionadas de conformidad con la legislación vigente al momento de la comisión de los hechos.
+**Décimo.** Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores.
 Ciudad de México, a 20 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 23 de abril de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Publicado en el Diario Oficial de la Federación el 7 de junio de 2021
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Publicado en el Diario Oficial de la Federación el 7 de junio de 2021
 
 ### Artículo Tercero
 Se reforman los artículos 152; 153; 154; 156; 159; 160 y 161, y se adiciona un párrafo segundo al artículo 152; las fracciones I y II, así como un párrafo segundo al artículo 154, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, para quedar como sigue: ………
@@ -1227,57 +1092,43 @@ c) Las nuevas categorías de la Carrera Judicial.
 IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
 
 V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
-
-### ARTÍCULO 123
-CONSTITUCIONAL Segundo. Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
-Tercero. El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
-Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
-Quinto. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
-Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
-Séptimo. Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
-Octavo. Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
-Noveno. Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
-Décimo. Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el
-
-### artículo 228
-de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
-Décimo Primero. Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
-Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
-Décimo Tercero. [Con el fin de implementar la reforma constitucional al Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará en ese encargo hasta el 30 de noviembre de 2024. Asimismo, el Consejero de la Judicatura Federal
-
-### ARTÍCULO 123
-CONSTITUCIONAL nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2016 concluirá su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de febrero de 2026; el Consejero de la Judicatura Federal nombrado por el Ejecutivo Federal el 18 de noviembre de 2019 concluirá el 17 de noviembre de 2026; las Consejeras de la Judicatura Federal designadas por el Senado de la República el 20 de noviembre de 2019 concluirán su encargo el 19 de noviembre de 2026; y el Consejero de la Judicatura Federal designado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2019 durará en funciones hasta el 30 de noviembre de 2026.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 17-11-2021 y publicada DOF 18-02-2022 Ciudad de México, a 22 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
+ARTÍCULO 123 CONSTITUCIONAL
+**Segundo.** Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+**Tercero.** El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
+**Cuarto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Quinto.** Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
+**Sexto.** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**Séptimo.** Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
+**Octavo.** Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
+**Noveno.** Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
+**Décimo.** Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
+**Décimo Primero.** Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
+**Décimo Segundo.** Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
+**Décimo Tercero.** [Con el fin de implementar la reforma constitucional al Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará en ese encargo hasta el 30 de noviembre de 2024. Asimismo, el Consejero de la Judicatura Federal ARTÍCULO 123 CONSTITUCIONAL nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2016 concluirá su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de febrero de 2026; el Consejero de la Judicatura Federal nombrado por el Ejecutivo Federal el 18 de noviembre de 2019 concluirá el 17 de noviembre de 2026; las Consejeras de la Judicatura Federal designadas por el Senado de la República el 20 de noviembre de 2019 concluirán su encargo el 19 de noviembre de 2026; y el Consejero de la Judicatura Federal designado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2019 durará en funciones hasta el 30 de noviembre de 2026.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 17-11-2021 y publicada DOF 18-02-2022 Ciudad de México, a 22 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. María Merced González González, Secretaria.- Dip.
 María Guadalupe Díaz Avilez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de junio de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y Séptimo del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral", publicado el 23 de abril de 2021.
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se reforman los Artículos Transitorios Primero, Tercero, Cuarto,
+**Quinto.** , Sexto y Séptimo del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral", publicado el 23 de abril de 2021.
 Publicado en el Diario Oficial de la Federación el 31 de julio de 2021
 
 ### Artículo Único
-Se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y Séptimo del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral”, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue: ……..
+Se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y
+**Séptimo.** del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral”, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue: ……..
 
 ## Transitorio
 
 **Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 30 de julio de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en Culiacán, Sinaloa, a 30 de julio de 2021.- Andrés Manuel López Obrador.- Rúbrica.
 La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión.
+ARTÍCULO 123 CONSTITUCIONAL PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión.
 Notificados al Congreso de la Unión para efectos legales el 17 de noviembre de 2021 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/398/2021 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el dieciséis de noviembre de dos mil veintiuno, resolvió la acción de inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión, en los términos siguientes: “PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
-SEGUNDO. Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
-TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que los efectos de la decisión decretada en este fallo surtirán a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación.
-Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice a las
-
-### ARTÍCULO 123
-CONSTITUCIONAL Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal.
+**SEGUNDO.** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
+**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que los efectos de la decisión decretada en este fallo surtirán a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación.
+Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice a las ARTÍCULO 123 CONSTITUCIONAL Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal.
 Atentamente Ciudad de México; 16 de noviembre de 2021 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 17 de noviembre de 2021 a las 13:35 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se adicionan diversas disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y de la Ley General de Responsabilidades Administrativas.
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se adicionan diversas disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y de la Ley General de Responsabilidades Administrativas.
 Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021
 
 ### Artículo Segundo
@@ -1290,24 +1141,18 @@ Se adiciona un párrafo tercero al inciso h) de la fracción VI del artículo 43
 Ciudad de México, a 14 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 María Celeste Sánchez Sugía, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 95/2021 y su acumulada 105/2021, así como los Votos Aclaratorio y Concurrente del señor Ministro Alberto Pérez Dayán, Particulares y Concurrentes de la señora Ministra Norma Lucía Piña Hernández y del señor Ministro Luis María Aguilar Morales y Concurrente del señor Ministro Jorge Mario Pardo Rebolledo.
+ARTÍCULO 123 CONSTITUCIONAL SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 95/2021 y su acumulada 105/2021, así como los Votos Aclaratorio y Concurrente del señor Ministro Alberto Pérez Dayán, Particulares y Concurrentes de la señora Ministra Norma Lucía Piña Hernández y del señor Ministro Luis María Aguilar Morales y Concurrente del señor Ministro Jorge Mario Pardo Rebolledo.
 Publicada en el Diario Oficial de la Federación el 18 de febrero de 2022 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021 PROMOVENTES: DIVERSOS INTEGRANTES DE LAS CÁMARAS DE SENADORES Y DE DIPUTADOS DEL CONGRESO DE LA UNIÓN PONENTE: MINISTRO JOSÉ FERNANDO FRANCO GONZÁLEZ SALAS SECRETARIOS: ROBERTO FRAGA JIMÉNEZ MANUEL POBLETE RÍOS Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación correspondiente al dieciséis de noviembre de dos mil veintiuno. ……… 187. Por lo expuesto y fundado, se resuelve:
-PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
-SEGUNDO. Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II Procedimientos Civiles’, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
-TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.** Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
+**SEGUNDO.** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II Procedimientos Civiles’, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
+**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; haciéndolo por medios electrónicos y, en su oportunidad, archívese el expediente.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……..
-
-### ARTÍCULO 123
-CONSTITUCIONAL El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
+ARTÍCULO 123 CONSTITUCIONAL El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
 Firman el señor Ministro Presidente y el Ponente con el Secretario General de Acuerdos, quien da fe.
 Presidente, Ministro Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- Ponente, Ministro José Fernando Franco González Salas.- Firmado electrónicamente.- Secretario General de Acuerdos, Licenciado Rafael Coello Cetina.- Firmado electrónicamente.
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de cincuenta y seis fojas útiles, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del dieciséis de noviembre dos mil veintiuno. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a treinta y uno de enero de dos mil veintidós.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, en materia de erradicación de la brecha salarial por razones de género.
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Trabajo y de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, en materia de erradicación de la brecha salarial por razones de género.
 Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2024
 
 ### Artículo Segundo
@@ -1319,9 +1164,7 @@ Se adiciona un segundo párrafo al artículo 28 de la Ley Federal de los Trabaja
 **Segundo.-** Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
 Ciudad de México, a 11 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip.
 Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Alan Sahir Márquez Becerra, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 ### Artículo Trigésimo
@@ -1336,16 +1179,9 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
-Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia
-
-### ARTÍCULO 123
-CONSTITUCIONAL Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia ARTÍCULO 123 CONSTITUCIONAL Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.
 Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2025
 
 ### Artículo Primero
@@ -1357,9 +1193,7 @@ Se adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio
 **Segundo.** Dentro de los 45 días siguientes a la entrada en vigor del presente Decreto y de conformidad con lo previsto en el mismo, las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones normativas correspondientes.
 Ciudad de México, a 26 de noviembre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip.
 Kenia López Rabadán, Presidenta.- Sen. Lizeth Sánchez García, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-### ARTÍCULO 123
-CONSTITUCIONAL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.
+ARTÍCULO 123 CONSTITUCIONAL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 ### Artículo Cuarto
@@ -1374,6 +1208,4 @@ Se adicionan los párrafos tercero y cuarto y, se recorren en su orden los actua
 **Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
 **Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
 **Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
-
-### ARTÍCULO 123
-CONSTITUCIONAL Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+ARTÍCULO 123 CONSTITUCIONAL Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

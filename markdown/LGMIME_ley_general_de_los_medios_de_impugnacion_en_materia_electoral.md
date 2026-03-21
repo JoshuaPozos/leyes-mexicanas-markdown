@@ -42,10 +42,7 @@ c) El juicio de revisión constitucional electoral, para garantizar la constituc
 d) El juicio para dirimir los conflictos o diferencias laborales entre el Instituto Nacional Electoral y sus personas servidoras públicas.
 
 ### Artículo 4
-. 1. Corresponde a los órganos del Instituto Nacional Electoral conocer y resolver el recurso de revisión administrativa y al Tribunal Electoral del Poder Judicial de la Federación los demás medios de impugnación previstos en el artículo anterior, en la forma y términos establecidos por esta Ley y por los acuerdos generales que en aplicación de la misma dicte la Sala Superior. 2. Para la sustanciación y resolución de los medios de impugnación de la competencia del Tribunal Electoral del Poder Judicial de la Federación, a falta de disposición expresa, se estará a lo dispuesto en
-
-### Artículo 5
-. 1. Las autoridades federales, las de las entidades federativas, las de los municipios y las de las demarcaciones territoriales de Ciudad de México, así como partidos políticos, personas candidatas, organizaciones y agrupaciones políticas o ciudadanas y todas aquellas personas físicas o morales que, con motivo del trámite, sustanciación y resolución de los medios de impugnación a que se refiere el párrafo 2, del artículo 3, de esta Ley, no cumplan las disposiciones del presente ordenamiento o desacaten las resoluciones que dicte el Tribunal Electoral del Poder Judicial de la Federación, serán sancionadas en los términos de esta Ley.
+. 1. Corresponde a los órganos del Instituto Nacional Electoral conocer y resolver el recurso de revisión administrativa y al Tribunal Electoral del Poder Judicial de la Federación los demás medios de impugnación previstos en el artículo anterior, en la forma y términos establecidos por esta Ley y por los acuerdos generales que en aplicación de la misma dicte la Sala Superior. 2. Para la sustanciación y resolución de los medios de impugnación de la competencia del Tribunal Electoral del Poder Judicial de la Federación, a falta de disposición expresa, se estará a lo dispuesto en Artículo 5. 1. Las autoridades federales, las de las entidades federativas, las de los municipios y las de las demarcaciones territoriales de Ciudad de México, así como partidos políticos, personas candidatas, organizaciones y agrupaciones políticas o ciudadanas y todas aquellas personas físicas o morales que, con motivo del trámite, sustanciación y resolución de los medios de impugnación a que se refiere el párrafo 2, del artículo 3, de esta Ley, no cumplan las disposiciones del presente ordenamiento o desacaten las resoluciones que dicte el Tribunal Electoral del Poder Judicial de la Federación, serán sancionadas en los términos de esta Ley.
 
 ## TÍTULO SEGUNDO — De las reglas comunes aplicables a los medios de impugnación
 
@@ -132,10 +129,7 @@ b) En los asuntos de competencia de los órganos del Instituto Nacional Electora
 
 a) La actora que, legitimada, lo presente por sí misma o, en su caso, a través de representante, en los términos de este ordenamiento;
 
-b) La autoridad responsable o el partido político en el caso previsto en el inciso f), del párrafo 1, del
-
-### artículo 38
-de esta Ley, que haya realizado el acto o emitido la resolución que se impugna, y
+b) La autoridad responsable o el partido político en el caso previsto en el inciso f), del párrafo 1, del artículo 38 de esta Ley, que haya realizado el acto o emitido la resolución que se impugna, y
 
 c) El tercero interesado, que puede ser el ciudadano, el partido político, la coalición, el candidato, la organización o la agrupación política o de ciudadano con interés legítimo en la causa, derivado de un derecho incompatible con el que pretende la parte actora. 2. Los candidatos, en cuanto a los medios de impugnación previstos en el Libro Segundo de este ordenamiento, pueden participar como coadyuvantes del partido político que los registró, de conformidad con las reglas siguientes:
 
@@ -401,10 +395,7 @@ En estos casos, la persona titular de la Dirección Ejecutiva Jurídica y de lo 
 a) Certificará que se cumpla con lo establecido en los artículos 8 y 9 de esta Ley;
 
 b) Desechará de plano cuando se acredite alguna de las causales de notoria improcedencia señaladas en el párrafo 1, del artículo 10, de esta Ley.
-En caso de que el promovente no haya cumplido con los requisitos previstos en el párrafo 3, del
-
-### artículo 9
-, de esta Ley, le requerirá para que los cumpla dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente, con el apercibimiento que, de no hacerlo, se le desechará de plano el recurso;
+En caso de que el promovente no haya cumplido con los requisitos previstos en el párrafo 3, del artículo 9, de esta Ley, le requerirá para que los cumpla dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente, con el apercibimiento que, de no hacerlo, se le desechará de plano el recurso;
 
 c) Tendrá por no presentado el escrito del tercero interesado cuando se presente en forma extemporánea o se den los supuestos previstos en el párrafo 5 del artículo 17 de este ordenamiento.
 Cuando el compareciente no acompañe los documentos para acreditar la personería, se le requerirá para que los presente dentro de las veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente, con el apercibimiento que, de no hacerlo, se tendrá por no presentado dicho escrito;

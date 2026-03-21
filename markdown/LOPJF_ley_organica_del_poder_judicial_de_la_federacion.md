@@ -504,10 +504,7 @@ Los órganos jurisdiccionales a que se refiere el precepto anterior tendrán las
 .
 Las y los Jueces de Distrito de amparo en materia penal conocerán:
 
-I. De los juicios de amparo que se promuevan contra resoluciones judiciales del orden penal; contra actos de cualquier autoridad que afecten la libertad personal, salvo que se trate de correcciones disciplinarias o de medios de apremio impuestos fuera de procedimiento penal, y contra los actos que importen peligro de privación de la vida, deportación, destierro o alguno de los prohibidos por el
-
-### artículo 22
-de la Constitución Política de los Estados Unidos Mexicanos;
+I. De los juicios de amparo que se promuevan contra resoluciones judiciales del orden penal; contra actos de cualquier autoridad que afecten la libertad personal, salvo que se trate de correcciones disciplinarias o de medios de apremio impuestos fuera de procedimiento penal, y contra los actos que importen peligro de privación de la vida, deportación, destierro o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. De los juicios de amparo que se promueven conforme a la fracción VII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que sea procedente contra resoluciones dictadas en los incidentes de reparación del daño exigible a personas distintas de los inculpados o imputados, o en los de responsabilidad civil, por los mismos tribunales que conozcan o hayan conocido de los procesos respectivos, o por tribunales diversos, en los juicios de responsabilidad civil, cuando la acción se funde en la comisión de un delito;
 
@@ -1665,10 +1662,7 @@ Además de la imposición de la responsabilidad administrativa que corresponda, 
 .
 Incurrirá en falta administrativa no grave la persona servidora pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
 
-I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el
-
-### artículo 16
-de la Ley General de Responsabilidades Administrativas;
+I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas;
 
 II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir faltas administrativas, en términos del artículo 93 de la Ley General de Responsabilidades Administrativas;
 
@@ -1970,10 +1964,7 @@ XIV. Ser persona heredera, legataria, donataria o fiadora de alguna de las perso
 
 XV. Ser cónyuge, hija o hijo de la persona servidora pública, acreedora, deudora o fiadora de alguna de las personas interesadas;
 
-XVI. Haber sido Juez, Jueza, Magistrada o Magistrado en el mismo asunto, en otra instancia. No es motivo de impedimento para las y los Magistrados de los Tribunales Colegiados de Apelación el conocer del recurso de apelación contra sentencias del orden penal cuando hubiesen resuelto recursos de apelación en el mismo asunto en contra de los autos a que se refieren las fracciones I a IX y XI del
-
-### artículo 467
-, y fracción I del artículo 468 del Código Nacional de Procedimientos Penales;
+XVI. Haber sido Juez, Jueza, Magistrada o Magistrado en el mismo asunto, en otra instancia. No es motivo de impedimento para las y los Magistrados de los Tribunales Colegiados de Apelación el conocer del recurso de apelación contra sentencias del orden penal cuando hubiesen resuelto recursos de apelación en el mismo asunto en contra de los autos a que se refieren las fracciones I a IX y XI del artículo 467, y fracción I del artículo 468 del Código Nacional de Procedimientos Penales;
 
 XVII. Haber sido persona agente del Ministerio Público, integrante de jurado, perita, perito, testigo, apoderada, apoderado, patrona, patrono, defensora o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto en favor o en contra de alguna de las personas interesadas. Tratándose de juicios de amparo, se observará lo dispuesto en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, y
 
@@ -2522,10 +2513,7 @@ De su integración y funcionamiento en la Sala Superior
 
 ### Artículo 268
 .
-Para el ejercicio de sus funciones la Sala Superior contará con un secretario o secretaria general de acuerdos y un subsecretario o subsecretaria general de acuerdos que serán nombrados o nombradas en los términos del
-
-### artículo 255
-de esta Ley.
+Para el ejercicio de sus funciones la Sala Superior contará con un secretario o secretaria general de acuerdos y un subsecretario o subsecretaria general de acuerdos que serán nombrados o nombradas en los términos del artículo 255 de esta Ley.
 
 ## SECCIÓN 2 — a.
 De sus atribuciones
@@ -2927,11 +2915,8 @@ Tratándose de persona sentenciada, el juez de ejecución podrá considerar la r
 Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
 **Sexto.** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
 **Séptimo.** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-**Octavo.** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del
-
-### artículo 73
-de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
-Noveno. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
-Décimo. En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Octavo.** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
+**Noveno.** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+**Décimo.** En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 Ciudad de México, a 25 de noviembre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip.
 Kenia López Rabadán, Presidenta.- Sen. Simey Olvera Bautista, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

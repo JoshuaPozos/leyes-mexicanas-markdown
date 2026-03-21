@@ -153,10 +153,7 @@ Estas disposiciones se aplicarán, en lo conducente, a los casos de ocupación t
 ### Artículo 20
 .- La indemnización deberá pagarse en moneda nacional a más tardar dentro de los cuarenta y cinco días hábiles siguientes a la publicación del decreto de expropiación, sin perjuicio de que se convenga su pago en especie.
 Salvo en los casos a que se refiere el artículo 8o de la Ley, la autoridad podrá proceder a la ocupación del bien o a la disposición del derecho objeto de la expropiación una vez cubierto el monto de la indemnización fijado en el avalúo.
-En caso de que el afectado controvierta el monto de la indemnización, se estará a lo dispuesto en el
-
-### artículo 11
-del presente ordenamiento. Esta circunstancia no será impedimento para que la autoridad proceda a la ocupación del bien o a la disposición del derecho expropiado.
+En caso de que el afectado controvierta el monto de la indemnización, se estará a lo dispuesto en el artículo 11 del presente ordenamiento. Esta circunstancia no será impedimento para que la autoridad proceda a la ocupación del bien o a la disposición del derecho expropiado.
 La indemnización por la ocupación temporal o por la limitación de dominio consistirá en una compensación a valor de mercado, así como los daños y perjuicios, si los hubiere, que pudieran ocasionarse por la ejecución de dichas medidas, misma que deberá pagarse conforme al plazo referido en el párrafo primero de este artículo.
 Artículo reformado DOF 22-12-1993, 05-06-2009
 
@@ -207,17 +204,15 @@ ARTÍCULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN 
 **TERCERO.-** Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 México, D.F., a 3 de diciembre de 1997.- Dip. Juan Cruz Martínez, Presidente.- Sen. Heladio Ramírez López, Presidente.- Dip. Francisco Rodríguez García, Secretario.- Sen. José Antonio Valdivia, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-DECRETO por el que se reforman los artículos 2o, 3o, 4o, 5o, 6o, 7o, 8o, 20 y 20 bis y se adicionan un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al
-
-### artículo 1o
-todos de la Ley de Expropiación.
+DECRETO por el que se reforman los artículos 2o, 3o, 4o, 5o, 6o, 7o, 8o, 20 y 20 bis y se adicionan un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al artículo 1o todos de la Ley de Expropiación.
 Publicado en el Diario Oficial de la Federación el 5 de junio de 2009
 
 ### ARTÍCULO ÚNICO
 Se REFORMAN los artículos 2o, 3o, 4o, 5o, 6o, 7o, 8o, 20 y 20 bis y se ADICIONAN un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al artículo 1o todos de la Ley de Expropiación, para quedar en los siguientes términos: ……….
-ARTÍCULOS TRANSITORIOS Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-Tercero. Los procedimientos y expedientes de expropiación que se encuentren en curso a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+ARTÍCULOS TRANSITORIOS
+**Primero.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.** Los procedimientos y expedientes de expropiación que se encuentren en curso a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
 No obstante lo anterior, las dependencias y entidades que dentro de los procedimientos en curso no hayan otorgado la garantía de audiencia a los posibles afectados, deberán hacerlo en lo conducente, en términos del artículo 2o del presente Decreto.
 México, D. F., a 30 de abril de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. José Manuel del Río Virgen, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se expide la Ley de Asociaciones Público Privadas, y se reforman, adicionan y derogan diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas; la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Expropiación; la Ley General de Bienes Nacionales y el Código Federal de Procedimientos Civiles.

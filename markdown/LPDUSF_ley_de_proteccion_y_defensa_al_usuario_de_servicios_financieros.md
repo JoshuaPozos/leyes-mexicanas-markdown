@@ -826,10 +826,7 @@ II. El auxilio de la fuerza pública.
 Artículo reformado DOF 05-01-2000
 
 ### Artículo 84
-.- Para verificar el cumplimiento de los laudos, la Comisión Nacional requerirá al director general o al funcionario que realice las actividades de éste, para que compruebe dentro de las setenta y dos horas siguientes, haber pagado o restituido el servicio financiero demandado, en los términos del
-
-### artículo 81
-, las prestaciones a que hubiere sido condenada la Institución Financiera; en caso de omitir tal comprobación, la Comisión Nacional impondrá a la propia Institución Financiera una multa que podrá ser hasta por el importe de lo condenado o bien la establecida en el artículo 94, fracción VII y requerirá nuevamente a dicho funcionario para que compruebe el cumplimiento puntual dentro de los quince días hábiles siguientes. Si no lo hiciere, se procederá en términos del artículo 81 y, en su caso, resultarán aplicables las disposiciones relativas a desacato de una orden judicial.
+.- Para verificar el cumplimiento de los laudos, la Comisión Nacional requerirá al director general o al funcionario que realice las actividades de éste, para que compruebe dentro de las setenta y dos horas siguientes, haber pagado o restituido el servicio financiero demandado, en los términos del artículo 81, las prestaciones a que hubiere sido condenada la Institución Financiera; en caso de omitir tal comprobación, la Comisión Nacional impondrá a la propia Institución Financiera una multa que podrá ser hasta por el importe de lo condenado o bien la establecida en el artículo 94, fracción VII y requerirá nuevamente a dicho funcionario para que compruebe el cumplimiento puntual dentro de los quince días hábiles siguientes. Si no lo hiciere, se procederá en términos del artículo 81 y, en su caso, resultarán aplicables las disposiciones relativas a desacato de una orden judicial.
 Sin perjuicio de lo anterior, la parte afectada podrá solicitar a la Comisión Nacional el envío del expediente al juez competente para su ejecución, la cual realizará conforme a lo previsto en su propia ley.
 Artículo reformado DOF 05-01-2000
 
@@ -1277,10 +1274,7 @@ Se adiciona un segundo y tercer párrafo al artículo 52 de la Ley de Protecció
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ### ARTÍCULO SEGUNDO
-La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, será la autoridad responsable para los efectos legales conducentes, derivados del
-
-### Artículo Segundo
-del presente Decreto.
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, será la autoridad responsable para los efectos legales conducentes, derivados del Artículo Segundo del presente Decreto.
 México, D. F., a 31 de marzo de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. Margarita Arenas Guzmán, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y la Ley de Protección y Defensa al Usuario de Servicios Financieros.
@@ -1379,10 +1373,7 @@ DECRETO por el que se expide la Ley para Regular las Instituciones de Tecnologí
 Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018
 
 ### ARTÍCULO SÉPTIMO
-Se reforma el artículo 2o., fracción IV, y se adiciona un párrafo cuarto al
-
-### artículo 50
-Bis, recorriéndose el párrafo subsecuente de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para quedar como sigue: ………
+Se reforma el artículo 2o., fracción IV, y se adiciona un párrafo cuarto al artículo 50 Bis, recorriéndose el párrafo subsecuente de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para quedar como sigue: ………
 
 ## TRANSITORIO
 
@@ -1418,7 +1409,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

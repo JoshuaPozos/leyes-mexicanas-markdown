@@ -757,26 +757,17 @@ DECRETO por el que se reforma la fracción V y adiciona un segundo párrafo a di
 Publicado en el Diario Oficial de la Federación el 12 de julio de 2018
 
 ### Artículo Único
-Se reforma la fracción V y se adiciona un segundo párrafo a dicha fracción del
-
-### artículo 5o
-. de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue: ………
+Se reforma la fracción V y se adiciona un segundo párrafo a dicha fracción del artículo 5o. de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue: ………
 
 ## Transitorio
 
 **Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de julio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-DECRETO por el que se reforma la fracción III del artículo 5o., y se adiciona el inciso d al
-
-### artículo 5o
-. a la Ley de los Derechos de las Personas Adultas Mayores.
+DECRETO por el que se reforma la fracción III del artículo 5o., y se adiciona el inciso d al artículo 5o. a la Ley de los Derechos de las Personas Adultas Mayores.
 Publicado en el Diario Oficial de la Federación el 12 de julio de 2018
 
 ### Artículo Único
-Se reforma la fracción III del artículo 5o., y se adiciona el inciso d a la fracción III del
-
-### artículo 5o
-. de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue: ……..
+Se reforma la fracción III del artículo 5o., y se adiciona el inciso d a la fracción III del artículo 5o. de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue: ……..
 
 ## Transitorio
 
@@ -823,18 +814,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
 **Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del
-
-### artículo 88
-del presente Decreto.
+**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Salud, de la Ley General para la Igualdad entre Mujeres y Hombres y de la Ley de los Derechos de las Personas Adultas Mayores.
 Publicado en el Diario Oficial de la Federación el 30 de marzo de 2022

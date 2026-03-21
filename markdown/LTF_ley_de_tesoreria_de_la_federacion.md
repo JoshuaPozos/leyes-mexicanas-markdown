@@ -441,10 +441,7 @@ La aplicación de la multa a que se refiere este artículo no releva ni libera d
 ### Artículo 60
 .- La Tesorería, de conformidad con el procedimiento previsto en el Reglamento, podrá imponer las multas que correspondan a los particulares que cometan las infracciones previstas en los artículos 56 y 57 de esta Ley, conforme a lo siguiente:
 
-I. Multa por el importe equivalente de 10,000 a 1,700,000 unidades de inversión, sin que la multa mínima pueda ser menor al 1% del monto que se haya dejado de concentrar o enterar, en cuyo caso se aplicará dicho porcentaje como mínimo, cuando se cometa la infracción prevista en el
-
-### artículo 56
-, fracción I de esta Ley;
+I. Multa por el importe equivalente de 10,000 a 1,700,000 unidades de inversión, sin que la multa mínima pueda ser menor al 1% del monto que se haya dejado de concentrar o enterar, en cuyo caso se aplicará dicho porcentaje como mínimo, cuando se cometa la infracción prevista en el artículo 56, fracción I de esta Ley;
 
 II. Multa por el importe equivalente de 27,000 a 700,000 unidades de inversión, cuando se cometa la infracción señalada en el artículo 56, fracción II de esta Ley, y
 

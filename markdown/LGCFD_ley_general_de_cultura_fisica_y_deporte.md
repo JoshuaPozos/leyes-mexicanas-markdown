@@ -341,10 +341,7 @@ XXXIII. Ratificar los nombramientos de apoderados que recaigan en personas ajena
 XXXIV. Ejercer las facultades que la Ley Federal de las Entidades Paraestatales y su Reglamento asigna a los Órganos de Gobierno de las entidades.
 
 ### Artículo 20
-. El Director General del organismo será nombrado y removido por el Presidente de la República, debiendo recaer tal nombramiento en persona que reúna los requisitos señalados en el
-
-### artículo 21
-de la Ley Federal de las Entidades Paraestatales.
+. El Director General del organismo será nombrado y removido por el Presidente de la República, debiendo recaer tal nombramiento en persona que reúna los requisitos señalados en el artículo 21 de la Ley Federal de las Entidades Paraestatales.
 
 ### Artículo 21
 . El Director General tendrá las siguientes atribuciones y obligaciones:
@@ -1240,10 +1237,7 @@ Artículo reformado DOF 01-06-2016
 . Cuando se determinen casos de dopaje dentro o fuera de competición, las asociaciones deportivas nacionales cuyos atletas hayan resultado positivos, tendrán la obligación de hacer del conocimiento de la CONADE y el COM, cuando corresponda, dicha situación.
 
 ### Artículo 123
-. La CONADE, conjuntamente con las Autoridades Federales, de las entidades federativas y Municipales, del sector salud y los integrantes del SINADE, promoverá e impulsará las medidas de prevención y control del uso de sustancias y de la práctica de los métodos referidos en el
-
-### artículo 118
-de la presente Ley. Asimismo, realizará informes y estudios sobre las causas y efectos del uso de dichas sustancias.
+. La CONADE, conjuntamente con las Autoridades Federales, de las entidades federativas y Municipales, del sector salud y los integrantes del SINADE, promoverá e impulsará las medidas de prevención y control del uso de sustancias y de la práctica de los métodos referidos en el artículo 118 de la presente Ley. Asimismo, realizará informes y estudios sobre las causas y efectos del uso de dichas sustancias.
 Artículo reformado DOF 19-01-2018
 
 ### Artículo 124
@@ -1583,14 +1577,12 @@ Se reforman las fracciones XXIII del artículo 30; I y II del artículo 140 y se
 **Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 8 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
-
-### Artículo 5o
-. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
+DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Décimo Noveno
-Se modifica el nombre de la Sección Segunda, Capítulo I, Título Segundo y se reforman los artículos 1; 2, párrafo primero y fracción II; 6; 7; 11, fracción II; 15; 16, fracción II; 30, fracciones III y VIII; 32, párrafos primero y tercero; 33; 34, párrafo primero y fracciones II y V; 35, primer párrafo y fracciones I, II, III, IV, y V; 36; 37, párrafo primero; 38; 39; 40; 41, párrafo primero y fracción I; 41 Bis, párrafo primero y fracciones II en su primer párrafo, III, IV, V, VIII y XI; 42; 48, párrafo segundo; 51, fracciones III, IV y V; 88, párrafos segundo y tercero; 89, párrafo primero; 93; 95, párrafo primero; 98 Bis, párrafo segundo; 101; 105, párrafo primero; 111, fracción V; 119, párrafo tercero; 123; 137, párrafo primero; 139, párrafos segundo y sexto; 140, fracción IV; y 142, párrafo segundo de la Ley General de Cultura Física y Deporte, para quedar como sigue: ………..
+Se modifica el nombre de la Sección Segunda, Capítulo I, Título Segundo y se reforman los artículos 1; 2, párrafo primero y fracción II; 6; 7; 11, fracción II; 15; 16, fracción II; 30, fracciones III y VIII; 32, párrafos primero y tercero; 33; 34, párrafo primero y fracciones II y V; 35, primer párrafo y fracciones I, II, III, IV, y V; 36; 37, párrafo primero; 38; 39; 40; 41, párrafo primero y fracción I; 41 Bis, párrafo primero y fracciones II en su primer párrafo, III, IV, V, VIII y XI; 42; 48, párrafo segundo; 51, fracciones III, IV y V; 88, párrafos segundo y tercero; 89, párrafo primero; 93; 95, párrafo primero; 98 Bis, párrafo segundo; 101; 105, párrafo primero; 111, fracción V; 119, párrafo tercero; 123; 137, párrafo
+**primero.** ; 139, párrafos segundo y sexto; 140, fracción IV; y 142, párrafo segundo de la Ley General de Cultura Física y Deporte, para quedar como sigue: ………..
 
 ## Transitorios
 
@@ -1771,13 +1763,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2022
 
 ### Artículo Único
-Se reforman la fracción XXVIII del artículo 30; el primer párrafo del artículo 73; y el
-
-### artículo 101
-; y se adicionan una fracción VII, recorriéndose en su orden las fracciones subsecuentes al
-
-### artículo 5
-, y una fracción VIII, recorriéndose en su orden las fracciones subsecuentes al artículo 79 de la Ley General de Cultura Física y Deporte, para quedar como sigue: ……..
+Se reforman la fracción XXVIII del artículo 30; el primer párrafo del artículo 73; y el artículo 101; y se adicionan una fracción VII, recorriéndose en su orden las fracciones subsecuentes al artículo 5, y una fracción VIII, recorriéndose en su orden las fracciones subsecuentes al artículo 79 de la Ley General de Cultura Física y Deporte, para quedar como sigue: ……..
 
 ## Transitorio
 
@@ -1788,10 +1774,7 @@ DECRETO por el que se adiciona una fracción V al artículo 13 de la Ley General
 Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2022
 
 ### Artículo Único
-Se adiciona una fracción V, recorriéndose en su orden la fracción subsecuente, al
-
-### artículo 13
-de la Ley General de Cultura Física y Deporte, para quedar como sigue: …….
+Se adiciona una fracción V, recorriéndose en su orden la fracción subsecuente, al artículo 13 de la Ley General de Cultura Física y Deporte, para quedar como sigue: …….
 
 ## Transitorio
 
@@ -1821,7 +1804,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

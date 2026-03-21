@@ -63,10 +63,7 @@ V.- Elegir anualmente a un miembro de la Junta Directiva que reemplazará al de 
 VI.- Autorizar el presupuesto anual de ingresos y egresos de la Universidad;
 VII.- Aprobar los estados financieros que, con el dictamen del auditor externo, someta a su consideración el Patronato;
 VIII.- Autorizar los planes de organización académica, las especialidades profesionales y las modalidades que se establezcan en la Universidad; y IX.- Ejercer las demás atribuciones que le confieran este ordenamiento y las normas y disposiciones reglamentarias de la Universidad.
-ARTICULO 14.- El Rector General de la Universidad deberá reunir los requisitos a que se refiere el
-
-### artículo 8
-de esta ley.
+ARTICULO 14.- El Rector General de la Universidad deberá reunir los requisitos a que se refiere el artículo 8 de esta ley.
 ARTICULO 15.- El Rector General de la Universidad será el representante legal de la institución.
 Durará en su cargo cuatro años y no podrá ser reelecto.
 ARTICULO 16.- Son facultades y obligaciones del Rector General:
@@ -117,10 +114,7 @@ I.- El Director de la División, quien lo presidirá;
 II.- Los Jefes de departamento de la misma división; y III.- Un representante del personal académico y otro de los alumnos por cada departamento.
 El representante del personal académico y el de los alumnos durarán en su cargo un año y no podrán ser reelectos para el período inmediato.
 ARTICULO 29.- Corresponde a los Consejos Divisionales:
-I.- Formular los planes y programas académicos de la división para los efectos de la fracción I del
-
-### artículo 23
-de esta ley;
+I.- Formular los planes y programas académicos de la división para los efectos de la fracción I del artículo 23 de esta ley;
 II.- Designar a los jefes de los departamentos que integren la división, de las ternas que les propongan los respectivos rectores;
 III.- Presentar al Consejo Académico respectivo el anteproyecto de presupuesto anual de ingresos y egresos de la división;
 IV.- Planear el desarrollo y funcionamiento de la división;
@@ -134,10 +128,7 @@ No podrán hacerse designaciones de profesores interinos para un plazo mayor de 
 ARTICULO 33.- El Rector General hará, en los términos de las normas y disposiciones reglamentarias, las designaciones o remociones del personal académico, técnico y administrativo que no estén reservadas a otros órganos de la Universidad.
 ARTICULO 34.- Las asociaciones de alumnos serán independientes de los órganos de la Universidad y se organizarán democráticamente en la forma que los mismos estudiantes determinen.
 ARTICULO 35.- Las relaciones de trabajo entre la Universidad Autónoma Metropolitana y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B) del artículo 123 constitucional.
-ARTICULO 36.- Serán considerados trabajadores de confianza el Rector General, el Secretario General, el Abogado General, los rectores, los secretarios de las unidades universitarias, el Tesorero General, el Contralor, los directores de división, los jefes de departamento, directores y subdirectores generales, jefes y subjefes de departamento administrativo, supervisores, visitadores, inspectores, coordinadores, investigadores científicos, abogados, contadores, auditores, cajeros, pagadores, auxiliares de compras, almacenistas, intendentes, secretarios particulares y auxiliares, consultores y asesores técnicos y demás personal que tenga ese carácter, de conformidad con lo dispuesto por el
-
-### artículo 5o
-. de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B) del artículo 123 constitucional.
+ARTICULO 36.- Serán considerados trabajadores de confianza el Rector General, el Secretario General, el Abogado General, los rectores, los secretarios de las unidades universitarias, el Tesorero General, el Contralor, los directores de división, los jefes de departamento, directores y subdirectores generales, jefes y subjefes de departamento administrativo, supervisores, visitadores, inspectores, coordinadores, investigadores científicos, abogados, contadores, auditores, cajeros, pagadores, auxiliares de compras, almacenistas, intendentes, secretarios particulares y auxiliares, consultores y asesores técnicos y demás personal que tenga ese carácter, de conformidad con lo dispuesto por el artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B) del artículo 123 constitucional.
 ARTICULO 37.- El personal de la Universidad Autónoma Metropolitana quedará incorporado al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 ARTICULOS TRANSITORIOS PRIMERO.- Esta ley entrará en vigor a los quince días de la fecha de su publicación en el "Diario Oficial" de la Federación.
 SEGUNDO.- Para el establecimiento de la primera junta Directiva no se exigirá el requisito establecido en el artículo 7 de esta ley y se integrará por dos profesores o investigadores distinguidos que, por cada una de las respectivas instituciones, designen el Rector de la Universidad Nacional Autónoma de México, el Director General del Instituto Politécnico Nacional, el Presidente de El Colegio de México y el Director del Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional, más uno que designará el Secretario General Ejecutivo de la Asociación Nacional de Universidades e Institutos de Enseñanza Superior.

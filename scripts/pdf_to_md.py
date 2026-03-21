@@ -77,8 +77,10 @@ def clean_page_markers(line: str, marker_re: re.Pattern) -> str:
 
 
 def is_article_heading(line: str) -> bool:
-    """Detecta líneas que abren un artículo: 'Artículo 5', 'Artículo 4-A', etc."""
-    return bool(re.match(r'^Artículo\s+\d+', line.strip(), re.IGNORECASE))
+    """Detecta líneas que abren un artículo: 'Artículo 5', 'Artículo 4-A', etc.
+    Solo reconoce 'Artículo' con A mayúscula para evitar falsos positivos
+    de referencias mid-sentence como 'el artículo 96 de esta Ley'."""
+    return bool(re.match(r'^Artículo\s+\d+', line.strip()))
 
 
 def split_article_heading(line: str) -> tuple[str, str | None]:
@@ -89,7 +91,6 @@ def split_article_heading(line: str) -> tuple[str, str | None]:
     m = re.match(
         r'^(Artículo\s+\d[\w\-]*(?:\s+[A-ZÁÉÍÓÚÑ]{1,2}\.)?)\s*(.*)',
         line.strip(),
-        re.IGNORECASE,
     )
     if m:
         heading = m.group(1).strip().rstrip('.')
@@ -118,7 +119,7 @@ _ORDINALS_TC = (
 )
 
 ARTICLE_ORDINAL_RE = re.compile(
-    rf'^(ARTÍCULO\s+{_ORDINALS}(?:\s+A\s+ARTÍCULO\s+{_ORDINALS})?)\s*(.*)', re.IGNORECASE
+    rf'^((?:ARTÍCULO|Artículo)\s+{_ORDINALS_TC}(?:\s+[Aa]\s+(?:ARTÍCULO|Artículo)\s+{_ORDINALS_TC})?)\s*(.*)'
 )
 TRANSITORIO_HEADING_RE = re.compile(r'^(Transitorios?)\b', re.IGNORECASE)
 TRANSITORIO_ORDINAL_RE = re.compile(
@@ -130,6 +131,15 @@ FRACCION_ROMAN_RE = re.compile(r'^([IVXL]{1,7})\.\s')
 
 # Incisos: a), b), c), etc.
 INCISO_RE = re.compile(r'^[a-z]\)\s')
+
+# Preposiciones/artículos que al final del buffer indican que el siguiente
+# "Artículo N" es una referencia mid-sentence, no un heading real.
+_ARTICLE_REF_TRAILING_RE = re.compile(
+    r'\b(?:el|del|al|los|las|un|una|dicho|mismo|citado|referido|'
+    r'previsto|señalado|establecido|dispuesto|contenido|mencionado|'
+    r'indicado|en|conforme|según)\s*$',
+    re.IGNORECASE,
+)
 
 
 def _is_roman_numeral(s: str) -> bool:
@@ -549,7 +559,11 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
 
         # --- Detectar ARTÍCULO + ORDINAL como heading (decretos) ---
         am = ARTICLE_ORDINAL_RE.match(stripped)
-        if am and stripped[:8].upper().startswith('ARTÍCULO'):
+        if am:
+            # Guardia de contexto: si el buffer termina con preposición, es referencia.
+            if buffer and _ARTICLE_REF_TRAILING_RE.search(buffer.rstrip()):
+                buffer = (buffer + " " + stripped).strip()
+                continue
             if buffer:
                 joined.append(buffer.strip())
                 buffer = ""
@@ -563,6 +577,11 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
 
         # --- Artículo numérico ---
         if is_article_heading(stripped):
+            # Guardia de contexto: si el buffer termina con preposición/artículo
+            # ("el", "del", "al", etc.) es una referencia mid-sentence, no heading.
+            if buffer and _ARTICLE_REF_TRAILING_RE.search(buffer.rstrip()):
+                buffer = (buffer + " " + stripped).strip()
+                continue
             if buffer:
                 joined.append(buffer.strip())
                 buffer = ""

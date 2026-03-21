@@ -681,10 +681,7 @@ II.- De sorpresa, de noche o con niebla, sostener las fuerzas de su mando el ata
 .- La Condecoración del Mérito Naval se concederá previa la justificación respectiva, a cuyo efecto cualquier Oficial General, Jefe u Oficial que presencie alguna acción distinguida, aun cuando no tenga mando de gente de mar, dará parte especial por los conductos de Ordenanza al Comandante en Jefe de la Escuadra o a la autoridad militar a quien corresponda, a fin de que, mandada practicar la averiguación conducente para comprobar el hecho, el Comandante en Jefe o autoridad de referencia, dé cuenta con el resultado a la Secretaría del ramo, exponiendo su opinión acerca del mérito contraído.
 
 ### Artículo 130
-.- Para premiar grandes inventos, a los autores de obras de reconocido mérito sobre asuntos relacionados con la profesión de marina o eminentes servicios en la Armada, que no acrediten mérito de guerra, se concederán cruces de la denominación, forma y materia que las expresadas en el
-
-### artículo 119
-, diferenciándose solamente en la cinta y el esmalte de la estrella, que serán blancos.
+.- Para premiar grandes inventos, a los autores de obras de reconocido mérito sobre asuntos relacionados con la profesión de marina o eminentes servicios en la Armada, que no acrediten mérito de guerra, se concederán cruces de la denominación, forma y materia que las expresadas en el artículo 119, diferenciándose solamente en la cinta y el esmalte de la estrella, que serán blancos.
 
 ### Artículo 131
 .- Como un mismo individuo puede hacerse acreedor a una Condecoración del Mérito Naval, por acciones de peligro, así como por actos de verdadero estudio, en que el interesado sea el autor de algún invento u obra de notoria utilidad para la Armada, se le concederá la condecoración respectiva, aunque aparezca la misma persona portando dos de igual clase, siempre que sea con las diferencias señaladas para cada una, según el motivo por el que hayan sido obtenidas.

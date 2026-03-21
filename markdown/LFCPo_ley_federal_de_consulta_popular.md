@@ -203,10 +203,7 @@ Sólo se podrá formular una pregunta en la petición de consulta popular.
 Asimismo, deberá designarse como representante a uno de los legisladores promoventes para recibir notificaciones.
 
 ### Artículo 23
-. La solicitud que provenga de los ciudadanos, además de los requisitos previstos en el
-
-### artículo 21
-de esta Ley, deberá complementarse con:
+. La solicitud que provenga de los ciudadanos, además de los requisitos previstos en el artículo 21 de esta Ley, deberá complementarse con:
 
 I. Nombre completo y domicilio del representante para recibir notificaciones, y
 
@@ -276,13 +273,7 @@ Fracción reformada y recorrida DOF 19-05-2021
 ### Artículo 28
 . Cuando la petición provenga de los ciudadanos se seguirá el siguiente procedimiento:
 
-I. Recibida la petición por la Presidencia de la Mesa Directiva de la Cámara que corresponda, la publicará en su Gaceta, dará cuenta de la misma y solicitará al Instituto que en un plazo de treinta días naturales, verifique que ha sido suscrita bajo los parámetros establecidos en el
-
-### artículo 35
-, fracción VIII, numeral 1o., inciso c) de la Constitución Federal y la fracción III del
-
-### artículo 12
-de la presente Ley;
+I. Recibida la petición por la Presidencia de la Mesa Directiva de la Cámara que corresponda, la publicará en su Gaceta, dará cuenta de la misma y solicitará al Instituto que en un plazo de treinta días naturales, verifique que ha sido suscrita bajo los parámetros establecidos en el artículo 35, fracción VIII, numeral 1o., inciso c) de la Constitución Federal y la fracción III del artículo 12 de la presente Ley;
 Fracción reformada DOF 19-05-2021
 
 II. En el caso de que el Instituto determine que no cumple con el requisito señalado en la fracción anterior, y una vez que dicha determinación quede firme frente a cualquier impugnación o vencido el plazo para que sea presentada, la Presidencia de la Mesa Directiva de la Cámara que corresponda, publicará el informe en su Gaceta, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido;
@@ -355,10 +346,7 @@ V. Los ciudadanos hayan sido dados de baja de la lista nominal por alguno de los
 Fracción reformada DOF 19-05-2021
 
 ### Artículo 34
-. Finalizada la verificación correspondiente, el Secretario Ejecutivo del Instituto presentará un informe detallado y desagregado a la Cámara solicitante del Congreso dentro del plazo señalado en el
-
-### artículo 33
-de esta Ley, el resultado de la revisión de que los ciudadanos aparecen en la lista nominal de electores del Instituto, el cual deberá contener:
+. Finalizada la verificación correspondiente, el Secretario Ejecutivo del Instituto presentará un informe detallado y desagregado a la Cámara solicitante del Congreso dentro del plazo señalado en el artículo 33 de esta Ley, el resultado de la revisión de que los ciudadanos aparecen en la lista nominal de electores del Instituto, el cual deberá contener:
 
 I. El número total de ciudadanos firmantes;
 
@@ -602,18 +590,10 @@ ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman, a
 Publicado en el Diario Oficial de la Federación el 19 de mayo de 2021
 
 ### Artículo Único
-Se reforman los artículos 3 y 4; el primer y tercer párrafo del artículo 5; los artículos 7 y 8; la fracción II, pasando a ser VI, recorriéndose en su orden las fracciones III, IV, V y VI, para quedar como II, III, IV y V respectivamente, y la actual fracción VI del artículo 9; las fracciones I y actual IV del
+Se reforman los artículos 3 y 4; el primer y tercer párrafo del artículo 5; los artículos 7 y 8; la fracción II, pasando a ser VI, recorriéndose en su orden las fracciones III, IV, V y VI, para quedar como II, III, IV y V respectivamente, y la actual fracción VI del artículo 9; las fracciones I y actual IV del artículo 11; la fracción III del artículo 12; el artículo 13; los párrafos primero y tercero del artículo 14; las fracciones I, III y el tercer párrafo del artículo 15; los párrafos segundo y tercero del artículo 16; el artículo 20; la fracción II del artículo 21; las fracciones I, el inciso a) de la II, las fracciones III, IV, las actuales V y VI del artículo 26; las fracciones I, y actuales II, V y VI del artículo 27; las fracciones I, II, IV y sus incisos
 
-### artículo 11
-; la fracción III del artículo 12; el artículo 13; los párrafos primero y tercero del artículo 14; las fracciones I, III y el tercer párrafo del artículo 15; los párrafos segundo y tercero del artículo 16; el artículo 20; la fracción II del artículo 21; las fracciones I, el inciso a) de la II, las fracciones III, IV, las actuales V y VI del artículo 26; las fracciones I, y actuales II, V y VI del artículo 27; las fracciones I, II, IV y sus incisos
-
-a) y c) y VI del artículo 28; las fracciones II y III del artículo 30; la denominación del Capítulo III para quedar "DE LAS ATRIBUCIONES DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE CONSULTA POPULAR"; el segundo párrafo del artículo 32; la fracción V del artículo 33; la fracción VI del
-
-### artículo 34
-; el artículo 35; el primer párrafo y sus fracciones II, III, IV y V, y el segundo párrafo del artículo 43; las fracciones I y actuales III IV, que pasan a ser II y III, y el segundo párrafo del artículo 45; los artículos 47; 48; 52; el primer párrafo del artículo 53; las fracciones I y II del artículo 54; los artículos 56; 57; 58 y 63, se adicionan un apartado A con las fracciones I y II vigentes y un apartado B con las fracciones I y II en el artículo 6; una fracción III, recorriéndose en su orden las actuales fracciones III y IV, para quedar como fracciones IV y V, respectivamente, y una fracción VI, recorriéndose en su orden las actuales fracciones V y VI, para quedar como VII y VIII, respectivamente, en el artículo 11; un cuarto párrafo en el artículo 12; los párrafos cuarto y quinto en el artículo 15; una fracción V, recorriéndose en su orden las actuales fracciones V y VI, para quedar como fracciones VI y VII, respectivamente, en el
-
-### artículo 26
-; una fracción II recorriéndose en su orden las actuales fracciones II, III, IV, V y VI, para quedar como fracciones III, IV, V, VI y VII, respectivamente, en el artículo 27; los párrafos segundo, tercero y cuarto en el artículo 48; un inciso c), recorriéndose en su orden el actual inciso c) para quedar como inciso d), de la fracción V y los párrafos segundo y tercero en el artículo 53, y se derogan el cuarto párrafo del artículo 14; el tercer párrafo del artículo 43; la fracción II, recorriéndose en su orden las actuales III y IV, para quedar como II y III, respectivamente, del artículo 45, y el primer párrafo, quedando el segundo párrafo como párrafo único, en el artículo 52 de la Ley Federal de Consulta Popular, para quedar como sigue: ……..
+a) y c) y VI del artículo 28; las fracciones II y III del artículo 30; la denominación del Capítulo III para quedar "DE LAS ATRIBUCIONES DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE CONSULTA POPULAR"; el segundo párrafo del artículo 32; la fracción V del artículo 33; la fracción VI del artículo 34; el artículo 35; el primer párrafo y sus fracciones II, III, IV y V, y el segundo párrafo del artículo 43; las fracciones I y actuales III IV, que pasan a ser II y III, y el segundo párrafo del artículo 45; los artículos 47; 48; 52; el primer párrafo del artículo 53; las fracciones I y II del artículo 54; los artículos 56; 57; 58 y 63, se adicionan un apartado A con las fracciones I y II vigentes y un apartado B con las fracciones I y II en el artículo 6; una fracción III, recorriéndose en su orden las actuales fracciones III y IV, para quedar como fracciones IV y V, respectivamente, y una fracción VI, recorriéndose en su orden las actuales fracciones V y VI, para quedar como VII y VIII, respectivamente, en el artículo 11; un cuarto párrafo en el artículo 12; los párrafos cuarto y quinto en el artículo 15; una fracción V, recorriéndose en su orden las actuales fracciones V y VI, para quedar como fracciones VI y VII, respectivamente, en el artículo 26; una fracción II recorriéndose en su orden las actuales fracciones II, III, IV, V y VI, para quedar como fracciones III, IV, V, VI y VII, respectivamente, en el artículo 27; los párrafos segundo, tercero y
+**cuarto.** en el artículo 48; un inciso c), recorriéndose en su orden el actual inciso c) para quedar como inciso d), de la fracción V y los párrafos segundo y tercero en el artículo 53, y se derogan el cuarto párrafo del artículo 14; el tercer párrafo del artículo 43; la fracción II, recorriéndose en su orden las actuales III y IV, para quedar como II y III, respectivamente, del artículo 45, y el primer párrafo, quedando el segundo párrafo como párrafo único, en el artículo 52 de la Ley Federal de Consulta Popular, para quedar como sigue: ……..
 
 ## Transitorios
 

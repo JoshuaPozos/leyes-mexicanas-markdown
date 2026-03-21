@@ -17,27 +17,17 @@ LEY DE VIVIENDA
 ## TÍTULO PRIMERO — DE LAS DISPOSICIONES GENERALES
 
 ## CAPÍTULO ÚNICO
-
-### ARTÍCULO 1
-.- La presente Ley es reglamentaria del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos en materia de vivienda. Sus disposiciones son de orden público e interés social y tienen por objeto establecer y regular la política nacional, los programas, los instrumentos y apoyos para que toda familia pueda disfrutar de vivienda digna y decorosa.
+ARTÍCULO 1.- La presente Ley es reglamentaria del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos en materia de vivienda. Sus disposiciones son de orden público e interés social y tienen por objeto establecer y regular la política nacional, los programas, los instrumentos y apoyos para que toda familia pueda disfrutar de vivienda digna y decorosa.
 La vivienda es un área prioritaria para el desarrollo nacional. El Estado impulsará y organizará las actividades inherentes a la materia, por sí y con la participación de los sectores social y privado, de acuerdo con las disposiciones de esta Ley.
 La política nacional y los programas, así como el conjunto de instrumentos y apoyos que señala este ordenamiento, conducirán el desarrollo y promoción de las actividades de las dependencias y entidades de la Administración Pública Federal en materia de vivienda, su coordinación con los gobiernos de las entidades federativas y municipios, y la concertación con los sectores social y privado, a fin de sentar las bases para aspirar a un desarrollo nacional más equitativo, que integre entre sí a los centros de población más desarrollados con los centros de desarrollo productivo, considerando también a los de menor desarrollo, para corregir las disparidades regionales y las inequidades sociales derivadas de un desordenado crecimiento de las zonas urbanas.
 Párrafo reformado DOF 24-03-2014 Los programas, instrumentos y apoyos de vivienda se diseñarán, implementarán y evaluarán con perspectiva de género y de derechos humanos.
-Párrafo adicionado DOF 15-01-2026 LEY DE VIVIENDA
-
-### ARTÍCULO 2
-.- Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, salubridad, cuente con espacios habitables y auxiliares, así como con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
-Artículo reformado DOF 20-04-2015
-
-### ARTÍCULO 3
-.- Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e inclusión social y con perspectiva de género de manera que toda persona, sin importar su origen étnico o nacional, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales o el estado civil, pueda ejercer su derecho constitucional a la vivienda. Se priorizará la atención a grupos en situación de vulnerabilidad y marginación, con énfasis en las mujeres jefas de familia o víctimas de violencias de género.
+Párrafo adicionado DOF 15-01-2026 LEY DE VIVIENDA ARTÍCULO 2.- Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, salubridad, cuente con espacios habitables y auxiliares, así como con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
+Artículo reformado DOF 20-04-2015 ARTÍCULO 3.- Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e inclusión social y con perspectiva de género de manera que toda persona, sin importar su origen étnico o nacional, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales o el estado civil, pueda ejercer su derecho constitucional a la vivienda. Se priorizará la atención a grupos en situación de vulnerabilidad y marginación, con énfasis en las mujeres jefas de familia o víctimas de violencias de género.
 Párrafo reformado DOF 16-06-2011, 15-01-2026 Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, así como el combate a la invasión de predios y al crecimiento irregular de las ciudades.
 Las dependencias y entidades de la Administración Pública Federal que lleven a cabo u otorguen financiamiento para programas o acciones de vivienda, quedan sujetas a las disposiciones de esta Ley y demás ordenamientos que resulten aplicables.
 Los organismos encargados de financiar programas de vivienda para los trabajadores, conforme a la obligación prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, se regirán en los términos de las leyes que regulan su propia organización y funcionamiento y coordinarán sus lineamientos de política general y objetivos a lo que marca esta Ley y el Plan Nacional de Desarrollo.
 Los representantes gubernamentales en los órganos de gobierno, administración y vigilancia de dichos organismos, cuidarán que sus actividades se ajusten a lo dispuesto en esta Ley.
-
-### ARTÍCULO 4
-.- Para los efectos de esta Ley, se entenderá por:
+ARTÍCULO 4.- Para los efectos de esta Ley, se entenderá por:
 
 I. Autoproducción de vivienda: el proceso de gestión de suelo, construcción y distribución de vivienda bajo el control directo de sus usuarios de forma individual o colectiva, la cual puede desarrollarse mediante la contratación de terceros o por medio de procesos de autoconstrucción;
 
@@ -77,18 +67,13 @@ XIII. Sistema de Información: el Sistema Nacional de Información e Indicadores
 XIV. Suelo: los terrenos física y legalmente susceptibles de ser destinados predominantemente al uso habitacional conforme a las disposiciones aplicables, y Fracción recorrida DOF 20-04-2015. Reformada DOF 14-05-2019
 
 XV. Secretaría: La Secretaría de Desarrollo Agrario, Territorial y Urbano.
-Fracción adicionada DOF 14-05-2019
-
-### ARTÍCULO 5
-.- Las políticas y los programas públicos de vivienda, así como los instrumentos y apoyos a la vivienda deberán considerar los distintos tipos y modalidades de producción habitacional, entre otras: la promovida empresarialmente y la autoproducida o autoconstruida, en propiedad, arrendamiento o en otras formas legítimas de tenencia; así como para las diversas necesidades habitacionales: adquisición o habilitación de suelo; lotes con servicios mínimos; parques de materiales; mejoramiento de vivienda;
+Fracción adicionada DOF 14-05-2019 ARTÍCULO 5.- Las políticas y los programas públicos de vivienda, así como los instrumentos y apoyos a la vivienda deberán considerar los distintos tipos y modalidades de producción habitacional, entre otras: la promovida empresarialmente y la autoproducida o autoconstruida, en propiedad, arrendamiento o en otras formas legítimas de tenencia; así como para las diversas necesidades habitacionales: adquisición o habilitación de suelo; lotes con servicios mínimos; parques de materiales; mejoramiento de vivienda;
 LEY DE VIVIENDA sustitución de vivienda; vivienda nueva; y, capacitación, asistencia integral e investigación de vivienda y suelo, propiciando que la oferta de vivienda digna refleje los costos de suelo, de infraestructura, servicios, edificación, financiamiento y titulación más bajos de los mercados respectivos, para lo cual incorporarán medidas de información, competencia, transparencia y las demás que sean convenientes para lograr este propósito.
 
 ## TÍTULO SEGUNDO — DE LA POLÍTICA NACIONAL DE VIVIENDA
 
 ## CAPÍTULO I — De los lineamientos
-
-### ARTÍCULO 6
-.- La Política Nacional de Vivienda tiene por objeto cumplir los fines de esta Ley y deberá considerar los siguientes lineamientos:
+ARTÍCULO 6.- La Política Nacional de Vivienda tiene por objeto cumplir los fines de esta Ley y deberá considerar los siguientes lineamientos:
 
 I. Promover oportunidades de acceso a la vivienda para la población, preferentemente para aquella que se encuentre en situación de pobreza, marginación, vulnerabilidad, con especial énfasis en mujeres jefas de familia o víctimas de violencias de género;
 Fracción reformada DOF 15-01-2026
@@ -121,9 +106,7 @@ XII. Vigilar la correcta aplicación de los indicadores de marginación, que emi
 Fracción adicionada DOF 24-03-2014. Reformada DOF 15-01-2026
 
 ## CAPÍTULO II — De la programación
-
-### ARTÍCULO 7
-.- La programación del sector público en materia de vivienda se establecerá en:
+ARTÍCULO 7.- La programación del sector público en materia de vivienda se establecerá en:
 
 I. El Programa Nacional de Vivienda;
 
@@ -136,9 +119,7 @@ IV. Los programas de la Comisión y de las dependencias y demás entidades de la
 V. Los programas de las entidades federativas, municipios y alcaldías.
 Fracción reformada DOF 14-05-2019 Los programas federales a que se refiere este artículo se elaborarán con perspectiva de género y de derechos humanos, de conformidad con las disposiciones de esta Ley y demás ordenamientos aplicables. En el caso de los programas de las entidades federativas, municipios y alcaldías se observará la legislación local.
 Párrafo reformado DOF 14-05-2019, 15-01-2026 Los programas, proyectos, estímulos, apoyos, instrumentos económicos, así como las acciones que se lleven a cabo por la aplicación de la presente Ley y demás disposiciones en la materia, en los que se ejerzan recursos de carácter federal, se sujetarán a la disponibilidad que para tal fin se contemple en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y deberán observar las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, la Ley de Ingresos de la Federación y del Presupuesto de Egresos de la Federación para el ejercicio fiscal de que se trate.
-
-### ARTÍCULO 8
-.- El Programa Nacional de Vivienda contendrá:
+ARTÍCULO 8.- El Programa Nacional de Vivienda contendrá:
 
 I. Un diagnóstico de la situación habitacional de todo el país, así como un señalamiento específico de sus principales problemas y tendencias;
 LEY DE VIVIENDA
@@ -179,22 +160,14 @@ XVII. Los requerimientos mínimos que deban ser materia de coordinación con ent
 
 XVIII. Los demás que señale el Plan Nacional de Desarrollo y otros ordenamientos legales.
 Las dependencias y entidades que participen en la instrumentación de las acciones previstas en este artículo, en el ámbito de sus respectivas competencias, se coordinarán con la Comisión para efectos de su ejecución.
-
-### ARTÍCULO 9
-.- El Programa Nacional de Vivienda será formulado por la Secretaría, aprobado por el Presidente de la República mediante decreto y estará sometido a un proceso permanente de control y evaluación, observando lo dispuesto en este ordenamiento y, en lo conducente, en la Ley de Planeación y la Ley General de Desarrollo Social.
+ARTÍCULO 9.- El Programa Nacional de Vivienda será formulado por la Secretaría, aprobado por el Presidente de la República mediante decreto y estará sometido a un proceso permanente de control y evaluación, observando lo dispuesto en este ordenamiento y, en lo conducente, en la Ley de Planeación y la Ley General de Desarrollo Social.
 Párrafo reformado DOF 14-05-2019 En la formulación del Programa Nacional se considerarán las propuestas de los gobiernos de las entidades federativas y de los municipios, así como de los sectores social y privado.
 El Programa, una vez aprobado y publicado en el Diario Oficial de la Federación, será obligatorio para las dependencias y entidades de la Administración Pública Federal en el ámbito de sus respectivas competencias, y orientará la planeación y programación de las acciones de las entidades federativas y municipios en la materia.
-
-### ARTÍCULO 10
-.- Los programas institucionales en materia de vivienda deberán ajustarse a la Ley de Planeación y a lo dispuesto por esta Ley y el Programa Nacional de Vivienda.
+ARTÍCULO 10.- Los programas institucionales en materia de vivienda deberán ajustarse a la Ley de Planeación y a lo dispuesto por esta Ley y el Programa Nacional de Vivienda.
 Las entidades de la Administración Pública Federal que lleven a cabo programas de vivienda u otorguen financiamiento, deberán enviar sus programas operativos anuales a la Comisión para su opinión, la cual será remitida a la Secretaría de Hacienda y Crédito Público, a fin de que se considere en el proceso de presupuestación.
-
-### ARTÍCULO 11
-.- Las dependencias y entidades de la Administración Pública Federal que lleven a cabo acciones de vivienda formularán sus programas anuales que servirán de base para la integración de sus anteproyectos de presupuesto.
+ARTÍCULO 11.- Las dependencias y entidades de la Administración Pública Federal que lleven a cabo acciones de vivienda formularán sus programas anuales que servirán de base para la integración de sus anteproyectos de presupuesto.
 En su caso, los mecanismos financieros y las acciones de vivienda previstos en dichos programas se regirán por las reglas de operación que emitan los titulares de las dependencias o aprueben los órganos de gobierno de las entidades, además de observar las disposiciones aplicables. En este último caso, deberán considerar los lineamientos de la Dependencia coordinadora de sector.
-
-### ARTÍCULO 12
-.- Las dependencias, entidades y organismos de la Administración Pública Federal que tengan a su cargo el financiamiento, instrumentación o ejecución de programas y acciones de vivienda, los evaluarán anualmente por sí o a través de organismos independientes, que podrán ser instituciones de educación superior, de investigación científica u organizaciones especializadas en la materia, con el fin de determinar el cumplimiento de los objetivos de la presente Ley y la congruencia de las diversas acciones realizadas con la Política y el Programa Nacional de Vivienda.
+ARTÍCULO 12.- Las dependencias, entidades y organismos de la Administración Pública Federal que tengan a su cargo el financiamiento, instrumentación o ejecución de programas y acciones de vivienda, los evaluarán anualmente por sí o a través de organismos independientes, que podrán ser instituciones de educación superior, de investigación científica u organizaciones especializadas en la materia, con el fin de determinar el cumplimiento de los objetivos de la presente Ley y la congruencia de las diversas acciones realizadas con la Política y el Programa Nacional de Vivienda.
 Sin perjuicio de lo establecido en las disposiciones presupuestales aplicables, cuando se utilicen recursos federales, las evaluaciones deberán sujetarse a las normas y lineamientos que determine la Comisión en los términos de esta Ley, así como en lo que corresponda, a lo dispuesto en la Ley General de Desarrollo Social.
 LEY DE VIVIENDA Las dependencias, entidades y organismos señalados en el párrafo primero del presente artículo, así como los gobiernos de las entidades federativas y los municipios que financien, instrumenten o ejecuten programas de vivienda con recursos federales, tendrán la obligación de proporcionar toda la información y las facilidades necesarias para la realización de la evaluación.
 Los resultados de las evaluaciones deberán enviarse a la Comisión, a la Comisión Intersecretarial, al Consejo Nacional de Evaluación de la Política de Desarrollo Social, al Consejo y a las comisiones que atiendan los asuntos de vivienda de las Cámaras de Diputados y Senadores del Congreso de la Unión.
@@ -204,9 +177,7 @@ Dichas instancias podrán emitir las sugerencias y recomendaciones que considere
 ## TÍTULO TERCERO — DEL SISTEMA NACIONAL DE VIVIENDA
 
 ## CAPÍTULO I — De su objeto e integración
-
-### ARTÍCULO 13
-.- Se establece el Sistema Nacional de Vivienda como un mecanismo permanente de coordinación y concertación entre los sectores público, social y privado, que tiene por objeto:
+ARTÍCULO 13.- Se establece el Sistema Nacional de Vivienda como un mecanismo permanente de coordinación y concertación entre los sectores público, social y privado, que tiene por objeto:
 
 I. Coordinar y concertar las acciones para cumplir los objetivos, prioridades y estrategias de la política nacional de vivienda;
 
@@ -217,9 +188,7 @@ III. Promover y garantizar la participación articulada de todos los factores pr
 IV. Fortalecer la coordinación entre el Gobierno Federal y los gobiernos de las entidades federativas y municipios, así como inducir acciones de concertación con los sectores social y privado, y
 
 V. Promover la coordinación interinstitucional entre las diferentes instancias federales relacionadas con la vivienda.
-
-### ARTÍCULO 14
-.- El Sistema Nacional de Vivienda estará integrado por:
+ARTÍCULO 14.- El Sistema Nacional de Vivienda estará integrado por:
 
 I. El Consejo;
 
@@ -234,14 +203,9 @@ V. Los gobiernos de las entidades federativas, de los municipios y, en su caso, 
 Fracción reformada DOF 14-05-2019
 
 ## CAPÍTULO II — De las competencias
-
-### ARTÍCULO 15
-.- Las atribuciones en materia de vivienda serán ejercidas por el Gobierno Federal, las entidades federativas, los municipios y las alcaldías en sus respectivos ámbitos de competencia.
+ARTÍCULO 15.- Las atribuciones en materia de vivienda serán ejercidas por el Gobierno Federal, las entidades federativas, los municipios y las alcaldías en sus respectivos ámbitos de competencia.
 Las atribuciones que en materia de vivienda tiene el Ejecutivo Federal serán ejercidas por la Secretaría, la Comisión y por las dependencias y entidades de la Administración Pública Federal, según el ámbito de competencia que ésta y otras leyes les confieran.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 16
-.- Corresponde al Gobierno Federal, por conducto de la Secretaría:
+Artículo reformado DOF 14-05-2019 ARTÍCULO 16.- Corresponde al Gobierno Federal, por conducto de la Secretaría:
 
 I. Formular, ejecutar, conducir, coordinar, evaluar y dar seguimiento a la Política Nacional de Vivienda y el programa nacional en la materia, así como proponer, en su caso, las adecuaciones correspondientes, de conformidad con los objetivos y prioridades que marque el Plan Nacional de Desarrollo;
 
@@ -281,10 +245,7 @@ XVII. Promover los instrumentos y mecanismos que propicien la simplificación y 
 XVIII. Coordinar las acciones necesarias para el otorgamiento y entrega del Premio Nacional de Vivienda, y
 
 XIX. Las demás que le otorguen la presente Ley u otros ordenamientos.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 17
-.- La Secretaría promoverá que los gobiernos de las entidades federativas expidan sus respectivas leyes de vivienda en donde establezcan la responsabilidad y compromiso de los gobiernos de las entidades federativas, municipales y, en su caso alcaldías, en el ámbito de sus atribuciones para la solución de los problemas habitacionales de sus comunidades, con perspectiva de género y de derechos humanos. Entre otras tareas y responsabilidades, deberá promoverse que:
+Artículo reformado DOF 14-05-2019 ARTÍCULO 17.- La Secretaría promoverá que los gobiernos de las entidades federativas expidan sus respectivas leyes de vivienda en donde establezcan la responsabilidad y compromiso de los gobiernos de las entidades federativas, municipales y, en su caso alcaldías, en el ámbito de sus atribuciones para la solución de los problemas habitacionales de sus comunidades, con perspectiva de género y de derechos humanos. Entre otras tareas y responsabilidades, deberá promoverse que:
 Párrafo reformado DOF 14-05-2019, 15-01-2026 A.- Los gobiernos de las entidades federativas asuman las siguientes atribuciones:
 Párrafo reformado DOF 14-05-2019
 
@@ -323,14 +284,9 @@ VII. Coordinar acciones en materia de suelo y vivienda con otros municipios u ot
 Fracción reformada DOF 24-03-2014, 14-05-2019 LEY DE VIVIENDA
 
 ## CAPÍTULO III — De la Comisión Nacional de Vivienda
-
-### ARTÍCULO 18
-.- Se crea la Comisión como un organismo descentralizado, de utilidad pública e interés social, con personalidad jurídica y patrimonio propio. Su domicilio será en la Ciudad de México.
+ARTÍCULO 18.- Se crea la Comisión como un organismo descentralizado, de utilidad pública e interés social, con personalidad jurídica y patrimonio propio. Su domicilio será en la Ciudad de México.
 Párrafo reformado DOF 14-05-2019 La Ley Federal de las Entidades Paraestatales se aplicará a la Comisión en lo que no se oponga esta Ley.
-Reforma DOF 14-05-2019: Derogó del artículo el entonces párrafo tercero
-
-### ARTÍCULO 19
-.- Corresponde a la Comisión:
+Reforma DOF 14-05-2019: Derogó del artículo el entonces párrafo tercero ARTÍCULO 19.- Corresponde a la Comisión:
 
 I. Formular y ejecutar su programa institucional, así como las disposiciones y reglas de operación necesarias para llevar a cabo las acciones de vivienda del gobierno federal orientadas a proteger y garantizar el derecho de las personas a disfrutar de una vivienda digna y decorosa, principalmente de la población de menores ingresos o en situación de pobreza;
 Fracción reformada DOF 14-05-2019
@@ -403,17 +359,10 @@ Fracción reformada DOF 14-05-2019
 XXIV. Participar en la elaboración, revisión y aprobación de las Normas Oficiales Mexicanas y en las Normas Mexicanas que correspondan de acuerdo a su competencia y de conformidad a las disposiciones jurídicas aplicables, y Fracción adicionada DOF 14-05-2019
 
 XXV. Las demás que le otorguen la presente Ley u otros ordenamientos.
-Fracción recorrida DOF 14-05-2019
-
-### ARTÍCULO 20
-.- La Comisión contará con patrimonio propio que estará constituido por los bienes, derechos y obligaciones que adquiera o que se les asignen o adjudiquen; los que adquieran por cualquier LEY DE VIVIENDA título jurídico; las ministraciones presupuestales y donaciones que se le otorguen; los rendimientos que obtengan por virtud de sus operaciones; y, los ingresos que reciban por cualquier otro concepto.
+Fracción recorrida DOF 14-05-2019 ARTÍCULO 20.- La Comisión contará con patrimonio propio que estará constituido por los bienes, derechos y obligaciones que adquiera o que se les asignen o adjudiquen; los que adquieran por cualquier LEY DE VIVIENDA título jurídico; las ministraciones presupuestales y donaciones que se le otorguen; los rendimientos que obtengan por virtud de sus operaciones; y, los ingresos que reciban por cualquier otro concepto.
 La gestión de la Comisión estará sometida al régimen del Presupuesto Anual de la Administración Pública Federal, así como a las reglas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública Federal.
-
-### ARTÍCULO 21
-.- Para su operación, administración y funcionamiento, la Comisión contará con una Junta Gobierno y un Director General, así como con las unidades administrativas necesarias para cumplir con su objeto.
-
-### ARTÍCULO 22
-.- La Junta de Gobierno de la Comisión estará integrada por:
+ARTÍCULO 21.- Para su operación, administración y funcionamiento, la Comisión contará con una Junta Gobierno y un Director General, así como con las unidades administrativas necesarias para cumplir con su objeto.
+ARTÍCULO 22.- La Junta de Gobierno de la Comisión estará integrada por:
 
 I. Secretaría de Desarrollo Agrario, Territorial y Urbano, preside la Junta;
 Fracción reformada DOF 14-05-2019
@@ -437,10 +386,7 @@ VII. Secretaría de Medio Ambiente y Recursos Naturales, y Fracción reformada D
 
 VIII. El Director General de la Comisión, quien fungirá como Secretario Técnico, que tendrá voz pero no voto;
 Los miembros propietarios deberán tener, cuando menos, el nivel de Subsecretario, y cada uno de ellos nombrará un suplente, quien deberá tener nivel de Director General o su equivalente.
-Párrafo reformado DOF 14-05-2019
-
-### ARTÍCULO 23
-.- La Junta de Gobierno tendrá las atribuciones indelegables siguientes:
+Párrafo reformado DOF 14-05-2019 ARTÍCULO 23.- La Junta de Gobierno tendrá las atribuciones indelegables siguientes:
 
 I. Aprobar el Estatuto Orgánico, así como la demás normatividad necesaria para el funcionamiento de la Comisión, a propuesta del Director General de la Comisión;
 
@@ -470,14 +416,10 @@ XII. Conocer y resolver aquellos asuntos que someta a su consideración el Direc
 XIII. Conocer y resolver aquellos asuntos que por su importancia, trascendencia o características especiales así lo ameriten, y
 
 XIV. Las demás que determine esta Ley y el Estatuto Orgánico de la Comisión.
-
-### ARTÍCULO 24
-.- La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que proponga el Director General de la Comisión.
+ARTÍCULO 24.- La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que proponga el Director General de la Comisión.
 La Junta de Gobierno sesionará válidamente con la asistencia de la mitad más uno de sus miembros.
 Sus decisiones se tomarán por mayoría de votos de los miembros presentes.
-
-### ARTÍCULO 25
-.- El Director General de la Comisión tendrá la representación legal de la misma, además de las facultades y obligaciones establecidas por los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales, contará con las siguientes facultades:
+ARTÍCULO 25.- El Director General de la Comisión tendrá la representación legal de la misma, además de las facultades y obligaciones establecidas por los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales, contará con las siguientes facultades:
 
 I. Ejercer las funciones de su competencia por acuerdo del Presidente de la República y asistir a las reuniones a que se refiere el Artículo 7o. de la Ley Orgánica de la Administración Pública Federal;
 
@@ -498,21 +440,13 @@ VII. Presentar ante el Presidente de la República y la Junta de Gobierno el Inf
 VIII. Proponer a la Junta de Gobierno, las condiciones generales de trabajo de la Comisión, y
 
 IX. Las demás que determine esta Ley y el Estatuto Orgánico de la Comisión.
-
-### ARTÍCULO 26
-.- La Comisión contará con un órgano de vigilancia que estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de Función Pública.
+ARTÍCULO 26.- La Comisión contará con un órgano de vigilancia que estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de Función Pública.
 Asimismo, contará con un órgano de control interno que será parte integrante de su estructura y desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública.
-
-### ARTÍCULO 27
-.- Las dependencias y entidades de la Administración Pública Federal tendrán la obligación de proporcionar la información o cooperación técnica que la Comisión les solicite, en términos de la normatividad aplicable.
+ARTÍCULO 27.- Las dependencias y entidades de la Administración Pública Federal tendrán la obligación de proporcionar la información o cooperación técnica que la Comisión les solicite, en términos de la normatividad aplicable.
 
 ## CAPÍTULO IV — Del Consejo Nacional de Vivienda
-
-### ARTÍCULO 28
-.- El Consejo será la instancia de consulta y asesoría del Ejecutivo Federal, que tendrá por objeto proponer medidas para la planeación, formulación, instrumentación, ejecución y seguimiento de la Política Nacional de Vivienda.
-
-### ARTÍCULO 29
-.- Para el cumplimiento de su objeto, el Consejo tendrá las siguientes funciones:
+ARTÍCULO 28.- El Consejo será la instancia de consulta y asesoría del Ejecutivo Federal, que tendrá por objeto proponer medidas para la planeación, formulación, instrumentación, ejecución y seguimiento de la Política Nacional de Vivienda.
+ARTÍCULO 29.- Para el cumplimiento de su objeto, el Consejo tendrá las siguientes funciones:
 
 I. Conocer, analizar y formular propuestas respecto de las políticas de vivienda contenidas en el Programa Nacional de Vivienda y en los programas que de éste se deriven, y emitir opiniones sobre su cumplimiento;
 
@@ -530,9 +464,7 @@ VI. Solicitar y recibir información de las distintas dependencias y entidades q
 VII. Emitir los lineamientos para su operación y funcionamiento, y
 
 VIII. Aprobar la creación de comités y grupos de trabajo para la atención de temas específicos y emitir los lineamientos para su operación.
-
-### ARTÍCULO 30
-.- El Ejecutivo Federal determinará la forma de integración del Consejo, atendiendo principios de pluralidad y equidad, considerando el régimen federal del país y la representatividad de los sectores público, social y privado. El Consejo sesionará de manera ordinaria cuando menos una vez por semestre, y de manera extraordinaria cuando así se requiera.
+ARTÍCULO 30.- El Ejecutivo Federal determinará la forma de integración del Consejo, atendiendo principios de pluralidad y equidad, considerando el régimen federal del país y la representatividad de los sectores público, social y privado. El Consejo sesionará de manera ordinaria cuando menos una vez por semestre, y de manera extraordinaria cuando así se requiera.
 El Consejo se integrará con:
 
 I. El titular del Ejecutivo Federal, quien lo presidirá;
@@ -558,18 +490,11 @@ VIII. Representantes de universidades e instituciones de educación superior, re
 
 IX. Representantes de instituciones u organismos que apoyan y asesoran la producción social de vivienda.
 Fracción adicionada DOF 14-05-2019 El Consejo definirá, con base en los principios de pluralidad y equidad, la participación mediante invitación respecto a los representantes incluidos en las fracciones V a IX de este artículo.
-Párrafo adicionado DOF 14-05-2019 LEY DE VIVIENDA
-
-### ARTÍCULO 31
-.- La participación en el Consejo será a título honorífico, por lo que sus integrantes no percibirán retribución o contraprestación alguna.
+Párrafo adicionado DOF 14-05-2019 LEY DE VIVIENDA ARTÍCULO 31.- La participación en el Consejo será a título honorífico, por lo que sus integrantes no percibirán retribución o contraprestación alguna.
 
 ## CAPÍTULO V — De la Comisión Intersecretarial de Vivienda
-
-### ARTÍCULO 32
-.- La Comisión Intersecretarial será la instancia de carácter permanente del Ejecutivo Federal que tendrá por objeto garantizar que la ejecución de los programas y el fomento de las acciones de vivienda, se realice de manera coordinada a fin de dar cumplimiento a la Política Nacional de Vivienda.
-
-### ARTÍCULO 33
-.- La Comisión Intersecretarial será presidida por el Titular del Ejecutivo Federal, a través del Titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano o por quien éste designe y estará integrada por los titulares de las siguientes secretarías de estado:
+ARTÍCULO 32.- La Comisión Intersecretarial será la instancia de carácter permanente del Ejecutivo Federal que tendrá por objeto garantizar que la ejecución de los programas y el fomento de las acciones de vivienda, se realice de manera coordinada a fin de dar cumplimiento a la Política Nacional de Vivienda.
+ARTÍCULO 33.- La Comisión Intersecretarial será presidida por el Titular del Ejecutivo Federal, a través del Titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano o por quien éste designe y estará integrada por los titulares de las siguientes secretarías de estado:
 Párrafo reformado DOF 23-06-2017
 
 I. De Bienestar;
@@ -597,10 +522,7 @@ XI. Desarrollo Agrario, Territorial y Urbano.
 Fracción reformada DOF 24-03-2014 A las sesiones de la Comisión Intersecretarial podrán ser invitados a participar otras dependencias y entidades de la Administración Pública Federal, de acuerdo con los temas de que se trate.
 El Presidente de la Comisión Intersecretarial podrá ser suplido en sus ausencias por quien él mismo determine. Los demás integrantes de la Comisión Intersecretarial deberán designar a su respectivo suplente, que será el Subsecretario, Director General, o equivalente que tenga mayor relación con la materia de vivienda.
 Párrafo reformado DOF 14-05-2019 La Comisión Intersecretarial contará con un Secretario Ejecutivo, que será el Titular de la Comisión.
-LEY DE VIVIENDA
-
-### ARTÍCULO 34
-.- Para cumplir con su objeto, la Comisión Intersecretarial tendrá las siguientes funciones:
+LEY DE VIVIENDA ARTÍCULO 34.- Para cumplir con su objeto, la Comisión Intersecretarial tendrá las siguientes funciones:
 
 I. Vincular las acciones de fomento al crecimiento económico, de desarrollo social, desarrollo urbano, desarrollo rural, ordenación del territorio, mejoramiento ambiental y aprovechamiento óptimo de los recursos naturales, con la Política Nacional de Vivienda;
 
@@ -618,21 +540,13 @@ VI. Aprobar la creación de subcomisiones y grupos de trabajo para la atención 
 VII. Elaborar y aprobar su Reglamento Interno para su organización y funcionamiento, y
 
 VIII. Las demás que determine el Titular del Ejecutivo Federal.
-
-### ARTÍCULO 35
-.- Los acuerdos de la Comisión Intersecretarial serán obligatorios para las dependencias que la integran y se ejecutarán de conformidad con las atribuciones que les confieren la Ley Orgánica de la Administración Pública Federal y demás disposiciones aplicables. Asimismo, en su carácter de coordinadoras de sector, deberán promover la participación de las entidades que les estén agrupadas para el cumplimiento de los mismos.
-
-### ARTÍCULO 36
-.- Los acuerdos de la Comisión Intersecretarial deberán notificarse a la Comisión Intersecretarial de Desarrollo Social, con el fin de garantizar la integralidad en el diseño y ejecución de la Política Nacional de Desarrollo Social. Asimismo se deberán notificar al Consejo, con la finalidad de aportarle elementos para la realización de sus funciones.
-
-### ARTÍCULO 37
-.- La Comisión Intersecretarial sesionará de manera ordinaria, cuando menos, una vez por trimestre y de manera extraordinaria las veces que resulte necesario.
+ARTÍCULO 35.- Los acuerdos de la Comisión Intersecretarial serán obligatorios para las dependencias que la integran y se ejecutarán de conformidad con las atribuciones que les confieren la Ley Orgánica de la Administración Pública Federal y demás disposiciones aplicables. Asimismo, en su carácter de coordinadoras de sector, deberán promover la participación de las entidades que les estén agrupadas para el cumplimiento de los mismos.
+ARTÍCULO 36.- Los acuerdos de la Comisión Intersecretarial deberán notificarse a la Comisión Intersecretarial de Desarrollo Social, con el fin de garantizar la integralidad en el diseño y ejecución de la Política Nacional de Desarrollo Social. Asimismo se deberán notificar al Consejo, con la finalidad de aportarle elementos para la realización de sus funciones.
+ARTÍCULO 37.- La Comisión Intersecretarial sesionará de manera ordinaria, cuando menos, una vez por trimestre y de manera extraordinaria las veces que resulte necesario.
 La Comisión Intersecretarial aprovechará las estructuras administrativas de las dependencias que la integran.
 
 ## CAPÍTULO VI — De la Coordinación
-
-### ARTÍCULO 38
-.- Para cumplir con el objeto de esta Ley, el Ejecutivo Federal, a través de la Secretaría y con la participación que corresponda a las demás dependencias y entidades de la Administración LEY DE VIVIENDA Pública Federal, celebrará convenios y acuerdos en los términos de esta Ley, los cuales tendrán por objeto:
+ARTÍCULO 38.- Para cumplir con el objeto de esta Ley, el Ejecutivo Federal, a través de la Secretaría y con la participación que corresponda a las demás dependencias y entidades de la Administración LEY DE VIVIENDA Pública Federal, celebrará convenios y acuerdos en los términos de esta Ley, los cuales tendrán por objeto:
 Párrafo reformado DOF 14-05-2019
 
 I. Establecer los mecanismos para garantizar una adecuada distribución de responsabilidades, así como la congruencia y complementariedad entre las políticas, programas y acciones federales de vivienda y suelo, con los de las entidades federativas, municipios y alcaldías;
@@ -668,24 +582,15 @@ XIII. Promover mecanismos de coordinación y planeación que permitan identifica
 
 XIV. La realización de las demás acciones tendientes a cumplir con los fines previstos en esa Ley.
 Fracción recorrida DOF 24-03-2014 LEY DE VIVIENDA En los convenios y acuerdos que señala este artículo, lo referido al suelo tendrá que observar las disposiciones correspondientes que establece la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y demás ordenamientos aplicables.
-Párrafo reformado DOF 14-05-2019
-
-### ARTÍCULO 39
-.- El Gobierno Federal, a través de los acuerdos o convenios que celebre con los gobiernos de las entidades federativas y municipios, podrá transferir recursos económicos para complementar la realización de sus proyectos de vivienda y suelo, destinados a la población en situación de pobreza.
+Párrafo reformado DOF 14-05-2019 ARTÍCULO 39.- El Gobierno Federal, a través de los acuerdos o convenios que celebre con los gobiernos de las entidades federativas y municipios, podrá transferir recursos económicos para complementar la realización de sus proyectos de vivienda y suelo, destinados a la población en situación de pobreza.
 En los propios acuerdos o convenios se establecerán los términos y condiciones necesarios que permitan asegurar la correcta aplicación, utilización y destino de los recursos, así como los criterios para su control y evaluación, de conformidad con el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y demás normatividad aplicable. Los gobiernos estatales y municipales prestarán todas las facilidades para que el Ejecutivo Federal verifique la correcta aplicación de dichos recursos.
 En los casos en que tales recursos se utilicen para fines distintos, se estará a lo previsto en la legislación aplicable acerca de las responsabilidades administrativas, civiles y penales correspondientes.
 El Gobierno Federal brindará asesoría y apoyo a las entidades federativas y municipios, a fin de que ambos órdenes de gobierno cuenten con mayor capacidad técnica y operativa.
-
-### ARTÍCULO 40
-.- En situaciones de desastre el Gobierno Federal, en coordinación con las entidades federativas y municipios, deberá establecer programas de vivienda emergente para la atención a damnificados.
+ARTÍCULO 40.- En situaciones de desastre el Gobierno Federal, en coordinación con las entidades federativas y municipios, deberá establecer programas de vivienda emergente para la atención a damnificados.
 
 ## CAPÍTULO VII — De la Concertación con los Sectores Social y Privado
-
-### ARTÍCULO 41
-.- El Ejecutivo Federal promoverá la participación de los sectores social y privado en la instrumentación de los programas y acciones de vivienda.
-
-### ARTÍCULO 42
-.- Los acuerdos y convenios que se celebren con los sectores social y privado podrán tener por objeto:
+ARTÍCULO 41.- El Ejecutivo Federal promoverá la participación de los sectores social y privado en la instrumentación de los programas y acciones de vivienda.
+ARTÍCULO 42.- Los acuerdos y convenios que se celebren con los sectores social y privado podrán tener por objeto:
 
 I. Buscar el acceso del mayor número de personas a la vivienda, estableciendo mecanismos que beneficien preferentemente a la población en situación de pobreza;
 
@@ -709,97 +614,52 @@ IX. Impulsar y desarrollar modelos educativos para formar especialistas en vivie
 X. Las demás acciones que acuerden las partes para el cumplimiento de esta Ley.
 
 ## CAPÍTULO VIII — Del Sistema Nacional de Información e Indicadores de Vivienda
-
-### ARTÍCULO 43
-.- Se crea el Sistema de Información, que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de la Política Nacional de Vivienda, así como para el fortalecimiento de la oferta articulada de vivienda en el país.
+ARTÍCULO 43.- Se crea el Sistema de Información, que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de la Política Nacional de Vivienda, así como para el fortalecimiento de la oferta articulada de vivienda en el país.
 La Secretaría integrará y administrará el Sistema de Información, el cual se sujetará, en lo conducente, a las disposiciones previstas en la Ley del Sistema Nacional de Información Estadística y Geográfica y se conformará con la información que proporcionen las dependencias y entidades de la Administración Pública Federal en aspectos vinculados con la vivienda y el suelo, así como la que permita identificar la evolución y crecimiento del mercado con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
 Párrafo reformado DOF 20-04-2015, 14-05-2019 La Secretaría propondrá al Instituto Nacional de Estadística, Geografía e Informática los indicadores que en materia de vivienda deberán considerarse en el levantamiento de censos nacionales, encuestas de vivienda, económicas y sociodemográficas, y otros conteos.
 Párrafo reformado DOF 14-05-2019 Asimismo, ambas instancias se coordinarán para que dentro de la integración de las cuentas nacionales se desagregue una cuenta específica de vivienda, que se denominará Cuenta Satélite de Vivienda en México, que permita conocer a profundidad el efecto del sector en el contexto global de la economía.
-
-### ARTÍCULO 44
-.- El Sistema de Información contendrá los elementos que permita mantener actualizado el inventario habitacional, determinar los cálculos sobre el rezago y las necesidades de vivienda, su calidad y espacios, su acceso a los servicios básicos, así como la adecuada planeación de la oferta de vivienda, los requerimientos de suelo y la focalización de programas y acciones en la materia.
+ARTÍCULO 44.- El Sistema de Información contendrá los elementos que permita mantener actualizado el inventario habitacional, determinar los cálculos sobre el rezago y las necesidades de vivienda, su calidad y espacios, su acceso a los servicios básicos, así como la adecuada planeación de la oferta de vivienda, los requerimientos de suelo y la focalización de programas y acciones en la materia.
 Entre otros indicadores de evaluación, deberán considerarse los siguientes: metas por cobertura territorial; beneficiarios por grupos de ingreso en veces el salario mínimo y modalidades de programas, ya sea que se trate de vivienda nueva, sustitución de vivienda, en arrendamiento o del mejoramiento del parque habitacional; evaluación de los productos habitacionales en términos de su ubicación en los centros de población con respecto a las fuentes de empleo, habitabilidad de la vivienda y adaptabilidad a las condiciones culturales, sociales y ambientales de las regiones; y, evaluación de los precios de suelo, de las medidas de control para evitar su especulación y sus efectos en los programas habitacionales.
-
-### ARTÍCULO 45
-.- La Secretaría, en coordinación con la Comisión diseñarán y promoverán mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia LEY DE VIVIENDA de financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 46
-.- Los gobiernos de las entidades federativas y de los municipios, las organizaciones de los sectores social y privado, así como las instituciones de educación superior y de investigación, proporcionarán la información correspondiente en el marco de los acuerdos y convenios que al efecto se celebren con la Comisión, en la que se deberá tomar en cuenta las prioridades comunes para la región y la conjunción de recursos para financiar proyectos que detonen el desarrollo de la vivienda.
+ARTÍCULO 45.- La Secretaría, en coordinación con la Comisión diseñarán y promoverán mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia LEY DE VIVIENDA de financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 46.- Los gobiernos de las entidades federativas y de los municipios, las organizaciones de los sectores social y privado, así como las instituciones de educación superior y de investigación, proporcionarán la información correspondiente en el marco de los acuerdos y convenios que al efecto se celebren con la Comisión, en la que se deberá tomar en cuenta las prioridades comunes para la región y la conjunción de recursos para financiar proyectos que detonen el desarrollo de la vivienda.
 Artículo reformado DOF 24-03-2014
 
 ## TÍTULO CUARTO — DEL FINANCIAMIENTO PARA LA VIVIENDA
 
 ## CAPÍTULO I — De las Disposiciones Generales para el Financiamiento de la Vivienda
-
-### ARTÍCULO 47
-.- Los instrumentos y apoyos en materia de financiamiento para la realización de las acciones de vivienda serán el crédito, los subsidios que para tal efecto destinen el Gobierno Federal y los gobiernos de las entidades federativas, los municipios y en su caso las alcaldías, así como el ahorro de los particulares y otras aportaciones de los sectores público, social y privado.
+ARTÍCULO 47.- Los instrumentos y apoyos en materia de financiamiento para la realización de las acciones de vivienda serán el crédito, los subsidios que para tal efecto destinen el Gobierno Federal y los gobiernos de las entidades federativas, los municipios y en su caso las alcaldías, así como el ahorro de los particulares y otras aportaciones de los sectores público, social y privado.
 La Secretaría fomentará, esquemas financieros y programas que combinen recursos provenientes del crédito, ahorro, subsidio y otras aportaciones con perspectiva de género, para generar opciones que respondan a las necesidades de vivienda de los distintos sectores de la población, preferentemente de los que se encuentren en situación de pobreza, vulnerabilidad o marginación, con énfasis en las mujeres jefas de familia o víctimas de violencias de género y a los productores sociales.
-Párrafo reformado DOF 15-01-2026 Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 48
-.- Las inversiones que realicen las dependencias y entidades de la Administración Pública Federal, así como las entidades y organismos encargados de ejecutar o financiar programas de vivienda para los trabajadores conforme a lo previsto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, deberán ser congruentes con las necesidades de mejoramiento del parque habitacional y los requerimientos de vivienda en sus distintos tipos y modalidades, de acuerdo al diagnóstico que se establezca en el Programa Nacional de Vivienda.
+Párrafo reformado DOF 15-01-2026 Artículo reformado DOF 14-05-2019 ARTÍCULO 48.- Las inversiones que realicen las dependencias y entidades de la Administración Pública Federal, así como las entidades y organismos encargados de ejecutar o financiar programas de vivienda para los trabajadores conforme a lo previsto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, deberán ser congruentes con las necesidades de mejoramiento del parque habitacional y los requerimientos de vivienda en sus distintos tipos y modalidades, de acuerdo al diagnóstico que se establezca en el Programa Nacional de Vivienda.
 Las inversiones a que se refiere el párrafo anterior deberán guardar proporcionalidad y equidad entre las diferentes regiones y grupos de ingreso, atendiendo a las diversas necesidades de la población y a sus distintas modalidades de atención.
 En la formulación de sus presupuestos se considerarán la visión de mediano y largo plazo, así como la continuidad y complementariedad que requieren los programas habitacionales.
-
-### ARTÍCULO 49
-.- Las reglas de operación de los programas de las dependencias, entidades y organismos de la Administración Pública Federal en materia de mejoramiento de vivienda, contemplarán mecanismos de complementariedad a las aportaciones que realicen los gobiernos de las entidades federativas y municipios para la aplicación de dichos programas.
-
-### ARTÍCULO 50
-.- El Gobierno Federal, por conducto de sus dependencias y entidades competentes, en los términos de las disposiciones jurídicas aplicables y de conformidad con las disponibilidades presupuestales, implementará y fomentará un sistema de estímulos y apoyos a los gobiernos de las LEY DE VIVIENDA entidades federativas y municipales que aporten recursos para la ejecución de programas federales en materia de vivienda.
-
-### ARTÍCULO 51
-.- Los programas, fondos y recursos federales destinados a satisfacer las necesidades de vivienda de la población en situación de pobreza, se sujetarán a lo dispuesto en esta Ley, en la Ley General de Desarrollo Social y en las reglas de operación correspondientes.
-
-### ARTÍCULO 52
-.- El Ejecutivo Federal, por conducto de sus dependencias y entidades competentes, se coordinará con las entidades federativas donde se ubiquen pueblos y comunidades indígenas y afromexicanas, para orientar las acciones y los montos de inversión pública federal destinados a programas de vivienda, en los términos que establece la fracción IV del apartado B del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+ARTÍCULO 49.- Las reglas de operación de los programas de las dependencias, entidades y organismos de la Administración Pública Federal en materia de mejoramiento de vivienda, contemplarán mecanismos de complementariedad a las aportaciones que realicen los gobiernos de las entidades federativas y municipios para la aplicación de dichos programas.
+ARTÍCULO 50.- El Gobierno Federal, por conducto de sus dependencias y entidades competentes, en los términos de las disposiciones jurídicas aplicables y de conformidad con las disponibilidades presupuestales, implementará y fomentará un sistema de estímulos y apoyos a los gobiernos de las LEY DE VIVIENDA entidades federativas y municipales que aporten recursos para la ejecución de programas federales en materia de vivienda.
+ARTÍCULO 51.- Los programas, fondos y recursos federales destinados a satisfacer las necesidades de vivienda de la población en situación de pobreza, se sujetarán a lo dispuesto en esta Ley, en la Ley General de Desarrollo Social y en las reglas de operación correspondientes.
+ARTÍCULO 52.- El Ejecutivo Federal, por conducto de sus dependencias y entidades competentes, se coordinará con las entidades federativas donde se ubiquen pueblos y comunidades indígenas y afromexicanas, para orientar las acciones y los montos de inversión pública federal destinados a programas de vivienda, en los términos que establece la fracción IV del apartado B del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 En todos los casos, deberá considerarse la participación de los propios pueblos y comunidades indígenas y afromexicanas, y en su caso, de los municipios, así como la concertación de acciones con los sectores privado y social.
-Artículo reformado DOF 01-04-2024
-
-### ARTÍCULO 53
-.- Las dependencias y entidades federales que realicen acciones de vivienda deberán dar publicidad a los listados de beneficiarios de las acciones que realicen, una vez realizado el proceso de selección correspondiente, a través de los medios y en los lugares que se consideren con mayor posibilidad de difusión en la localidad de que se trate.
+Artículo reformado DOF 01-04-2024 ARTÍCULO 53.- Las dependencias y entidades federales que realicen acciones de vivienda deberán dar publicidad a los listados de beneficiarios de las acciones que realicen, una vez realizado el proceso de selección correspondiente, a través de los medios y en los lugares que se consideren con mayor posibilidad de difusión en la localidad de que se trate.
 
 ## CAPÍTULO II — Del Crédito para la Vivienda
-
-### ARTÍCULO 54
-.- El sector público, con la participación que corresponda de los sectores social y privado, diseñará, coordinará, concertará y fomentará esquemas para que el crédito destinado a los distintos tipos, modalidades y necesidades de vivienda sea accesible a toda la población, de conformidad con las previsiones de esta Ley y demás disposiciones aplicables.
+ARTÍCULO 54.- El sector público, con la participación que corresponda de los sectores social y privado, diseñará, coordinará, concertará y fomentará esquemas para que el crédito destinado a los distintos tipos, modalidades y necesidades de vivienda sea accesible a toda la población, de conformidad con las previsiones de esta Ley y demás disposiciones aplicables.
 Para la ejecución y complementación de dichos esquemas se procurarán mecanismos de cofinanciamiento entre instituciones públicas, privadas o del sector social, para ampliar las posibilidades económicas de la población en la realización de las acciones de vivienda.
 Para fortalecer la capacidad de pago de la población en situación de pobreza, los recursos provenientes del crédito podrán complementarse con subsidios federales, de las entidades federativas y de los municipios, cuyo otorgamiento se sujetará a lo dispuesto por esta Ley y demás ordenamientos aplicables.
-
-### ARTÍCULO 55
-.- El Gobierno Federal desarrollará y fomentará instrumentos de seguro y garantía para impulsar el acceso al crédito público y privado a todos los sectores de la población, preferentemente el destinado a la población en situación de pobreza.
+ARTÍCULO 55.- El Gobierno Federal desarrollará y fomentará instrumentos de seguro y garantía para impulsar el acceso al crédito público y privado a todos los sectores de la población, preferentemente el destinado a la población en situación de pobreza.
 Las dependencias y entidades que otorguen créditos para vivienda con recursos fiscales, deberán proporcionar la información de los beneficiarios a la Secretaría, quien la remitirá a la Secretaría de Bienestar para su integración en el padrón único de beneficiarios previsto en la Ley General de Desarrollo Social.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 56
-.- Los organismos que financien vivienda para los trabajadores, en cumplimiento a la obligación que consigna el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, se LEY DE VIVIENDA regirán por lo previsto en sus respectivas leyes orgánicas y observarán, en lo conducente, la aplicación de las normas a que se refiere este capítulo.
-
-### ARTÍCULO 57
-.- La Comisión; el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado y la Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, deberán emitir reglas de carácter general que permitan canalizar recursos a tasas preferenciales para la población de bajos recursos, así como la movilidad habitacional en viviendas financiadas por ellos, mediante procedimientos para facilitar, en su caso, el arrendamiento o transmisión del uso por cualquier título de dichas viviendas.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 58
-.- Las instituciones de banca de desarrollo vinculadas con el sector de vivienda, deberán diseñar e instrumentar mecanismos que fomenten la concurrencia de diversas fuentes de financiamiento para generar oportunidades que faciliten a la población en situación de pobreza, el acceso a una vivienda, de conformidad con las disposiciones aplicables y las reglas que al efecto expida la Secretaría de Hacienda y Crédito Público.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 56.- Los organismos que financien vivienda para los trabajadores, en cumplimiento a la obligación que consigna el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, se LEY DE VIVIENDA regirán por lo previsto en sus respectivas leyes orgánicas y observarán, en lo conducente, la aplicación de las normas a que se refiere este capítulo.
+ARTÍCULO 57.- La Comisión; el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado y la Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, deberán emitir reglas de carácter general que permitan canalizar recursos a tasas preferenciales para la población de bajos recursos, así como la movilidad habitacional en viviendas financiadas por ellos, mediante procedimientos para facilitar, en su caso, el arrendamiento o transmisión del uso por cualquier título de dichas viviendas.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 58.- Las instituciones de banca de desarrollo vinculadas con el sector de vivienda, deberán diseñar e instrumentar mecanismos que fomenten la concurrencia de diversas fuentes de financiamiento para generar oportunidades que faciliten a la población en situación de pobreza, el acceso a una vivienda, de conformidad con las disposiciones aplicables y las reglas que al efecto expida la Secretaría de Hacienda y Crédito Público.
 
 ## CAPÍTULO III — Del Ahorro para la Vivienda
-
-### ARTÍCULO 59
-.- Para el otorgamiento del financiamiento destinado a los distintos tipos, modalidades y necesidades de vivienda, se fomentarán programas que incorporen el ahorro previo de los beneficiarios, aprovechando a las instituciones de crédito y a las instancias de captación de ahorro popular, particularmente las entidades de ahorro y crédito popular autorizadas por las leyes aplicables en la materia.
+ARTÍCULO 59.- Para el otorgamiento del financiamiento destinado a los distintos tipos, modalidades y necesidades de vivienda, se fomentarán programas que incorporen el ahorro previo de los beneficiarios, aprovechando a las instituciones de crédito y a las instancias de captación de ahorro popular, particularmente las entidades de ahorro y crédito popular autorizadas por las leyes aplicables en la materia.
 Para tales efectos, el Ejecutivo Federal concertará con las instituciones del sector financiero, las facilidades y estímulos para implementar los programas de ahorro, enganches y financiamiento para la adquisición de vivienda.
-
-### ARTÍCULO 60
-.- Se fomentarán programas que estipulen que al cumplimiento pactado de los depósitos en los montos y plazos de ahorro, se establezcan compromisos de crédito, subsidio o ambos, según corresponda, sin perjuicio de los demás requisitos de elegibilidad que establezcan las disposiciones aplicables, considerando las condiciones socioeconómicas de ahorro de los beneficiarios.
+ARTÍCULO 60.- Se fomentarán programas que estipulen que al cumplimiento pactado de los depósitos en los montos y plazos de ahorro, se establezcan compromisos de crédito, subsidio o ambos, según corresponda, sin perjuicio de los demás requisitos de elegibilidad que establezcan las disposiciones aplicables, considerando las condiciones socioeconómicas de ahorro de los beneficiarios.
 
 ## CAPÍTULO IV — De los Subsidios
-
-### ARTÍCULO 61
-.- Los subsidios que en materia de vivienda y de suelo otorgue el Gobierno Federal se destinarán exclusivamente a los hogares en situación de pobreza, la cual se definirá, identificará y medirá de acuerdo a lo previsto en la Ley General de Desarrollo Social y su Reglamento.
+ARTÍCULO 61.- Los subsidios que en materia de vivienda y de suelo otorgue el Gobierno Federal se destinarán exclusivamente a los hogares en situación de pobreza, la cual se definirá, identificará y medirá de acuerdo a lo previsto en la Ley General de Desarrollo Social y su Reglamento.
 La Secretaría de Desarrollo Social deberá elaborar anualmente, una estimación fundamentada que determine el monto de recursos federales requeridos para cumplimentar la política de subsidios.
 Para la estimación de los recursos a que se refiere el párrafo anterior, se deberá considerar el rezago habitacional, las necesidades de vivienda, la condición de pobreza de los hogares, así como el grado de marginación de la comunidad rural o urbana, entre otros.
 Dicha estimación se presentará conjuntamente con el Proyecto de Presupuesto de Egresos de la Federación que el Ejecutivo Federal remita a la Cámara de Diputados del Congreso de la Unión, quién deberá considerarla para la aprobación del Presupuesto de Egresos de la Federación para el ejercicio LEY DE VIVIENDA fiscal que corresponda, tomando en cuenta los compromisos que, en su caso, deriven de los programas que se realicen en cumplimiento a lo dispuesto por el presente ordenamiento.
-
-### ARTÍCULO 62
-.- Los programas federales que otorguen subsidios para la vivienda se sujetarán a lo que determine el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente. Para el otorgamiento de los subsidios, las dependencias y entidades competentes deberán observar los siguientes criterios:
+ARTÍCULO 62.- Los programas federales que otorguen subsidios para la vivienda se sujetarán a lo que determine el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente. Para el otorgamiento de los subsidios, las dependencias y entidades competentes deberán observar los siguientes criterios:
 
 I. Atender a la población en situación de pobreza;
 
@@ -812,99 +672,48 @@ IV. Los subsidios deberán ser establecidos con equidad, tanto para los hogares 
 V. Los montos y procedimientos de asignación de los subsidios deberán ser transparentes, y establecer con claridad la temporalidad y responsables de su ejercicio, control y seguimiento, y
 
 VI. Para distribuir los subsidios entre las entidades federativas, los municipios y los hogares a beneficiar, se deberán tomar en consideración las condiciones de rezago, necesidades habitacionales, modalidades de atención y el grado de marginación o pobreza, entre otros.
-
-### ARTÍCULO 63
-.- Para garantizar la aplicación de los principios de equidad e inclusión social en el acceso a los subsidios, el Gobierno Federal elaborará reglas para su distribución atendiendo lo dispuesto en el artículo 3 de esta Ley.
-
-### ARTÍCULO 64
-.- Las instancias que otorguen subsidios federales en materia de vivienda, deberán proporcionar la información de los beneficiarios a la Secretaría, quien la remitirá a la Secretaría de Bienestar para su integración en el padrón único de beneficiarios previsto en la Ley General de Desarrollo Social.
+ARTÍCULO 63.- Para garantizar la aplicación de los principios de equidad e inclusión social en el acceso a los subsidios, el Gobierno Federal elaborará reglas para su distribución atendiendo lo dispuesto en el artículo 3 de esta Ley.
+ARTÍCULO 64.- Las instancias que otorguen subsidios federales en materia de vivienda, deberán proporcionar la información de los beneficiarios a la Secretaría, quien la remitirá a la Secretaría de Bienestar para su integración en el padrón único de beneficiarios previsto en la Ley General de Desarrollo Social.
 Artículo reformado DOF 14-05-2019
 
 ## TÍTULO QUINTO — DEL SUELO
 
 ## CAPÍTULO ÚNICO
-
-### ARTÍCULO 65
-.- Los apoyos e instrumentos que el Gobierno Federal establezca en materia de suelo, se dirigirán a:
+ARTÍCULO 65.- Los apoyos e instrumentos que el Gobierno Federal establezca en materia de suelo, se dirigirán a:
 
 I. Apoyar a los gobiernos de las entidades federativas y municipios, en la generación de una oferta de suelo para el desarrollo de acciones de vivienda, y
 
 II. Fomentar esquemas y programas que contemplen recursos provenientes de crédito, ahorro y subsidio, para la adquisición de suelo.
-
-### ARTÍCULO 66
-.- El Gobierno Federal, por conducto de la Secretaría y con la participación de las demás dependencias y entidades competentes de la Administración Pública Federal, instrumentará LEY DE VIVIENDA acciones, programas y estímulos que induzcan la colaboración y coordinación con los gobiernos de las entidades federativas y municipios y alcaldías, así como la participación de propietarios y desarrolladores, para generar suelo con servicios, preferentemente para beneficio de la población en situación de pobreza, marginación o vulnerabilidad y de los productores sociales de vivienda, para lo cual celebrará los convenios y acuerdos necesarios.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 67
-.- La Comisión, con el apoyo de la banca de desarrollo, instrumentará programas de acompañamiento para el mejoramiento progresivo de la vivienda, en beneficio de la población en situación de pobreza a la que le haya sido asignado un lote en los términos del artículo anterior o lo haya adquirido por otra vía.
-
-### ARTÍCULO 68
-.- La adquisición de suelo o la constitución de reservas territoriales destinada a fines habitacionales deberá observar las disposiciones legales en materia de asentamientos humanos, agraria y ambiental aplicables. Esta disposición se aplicará a todo tipo de operaciones inmobiliarias.
-
-### ARTÍCULO 69
-.- Los programas apoyados con recursos de las dependencias, entidades u organismos federales, que se destinen a la constitución de reservas territoriales y de aprovechamiento de suelo para su incorporación al desarrollo habitacional, deberán observar los planes y programas de desarrollo urbano vigentes de las entidades federativas, los municipios y alcaldías.
+ARTÍCULO 66.- El Gobierno Federal, por conducto de la Secretaría y con la participación de las demás dependencias y entidades competentes de la Administración Pública Federal, instrumentará LEY DE VIVIENDA acciones, programas y estímulos que induzcan la colaboración y coordinación con los gobiernos de las entidades federativas y municipios y alcaldías, así como la participación de propietarios y desarrolladores, para generar suelo con servicios, preferentemente para beneficio de la población en situación de pobreza, marginación o vulnerabilidad y de los productores sociales de vivienda, para lo cual celebrará los convenios y acuerdos necesarios.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 67.- La Comisión, con el apoyo de la banca de desarrollo, instrumentará programas de acompañamiento para el mejoramiento progresivo de la vivienda, en beneficio de la población en situación de pobreza a la que le haya sido asignado un lote en los términos del artículo anterior o lo haya adquirido por otra vía.
+ARTÍCULO 68.- La adquisición de suelo o la constitución de reservas territoriales destinada a fines habitacionales deberá observar las disposiciones legales en materia de asentamientos humanos, agraria y ambiental aplicables. Esta disposición se aplicará a todo tipo de operaciones inmobiliarias.
+ARTÍCULO 69.- Los programas apoyados con recursos de las dependencias, entidades u organismos federales, que se destinen a la constitución de reservas territoriales y de aprovechamiento de suelo para su incorporación al desarrollo habitacional, deberán observar los planes y programas de desarrollo urbano vigentes de las entidades federativas, los municipios y alcaldías.
 Cuando se trate de suelo de origen ejidal o comunal, la promoción de su incorporación al desarrollo urbano deberá hacerse con la intervención del Instituto Nacional del Suelo Sustentable, en los términos de las disposiciones aplicables.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 70
-.- El Gobierno Federal promoverá e impulsará proyectos inmobiliarios en los que se transfieran tierras de uso común o parceladas a sociedades mercantiles o civiles en las que participen ejidatarios o comuneros, dando prioridad de acceso a los productores sociales de vivienda, de conformidad con esta Ley, la Ley Agraria y demás disposiciones aplicables.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 70.- El Gobierno Federal promoverá e impulsará proyectos inmobiliarios en los que se transfieran tierras de uso común o parceladas a sociedades mercantiles o civiles en las que participen ejidatarios o comuneros, dando prioridad de acceso a los productores sociales de vivienda, de conformidad con esta Ley, la Ley Agraria y demás disposiciones aplicables.
 
 ## TÍTULO SEXTO — DE LA CALIDAD Y SUSTENTABILIDAD DE LA VIVIENDA
 
 ## CAPÍTULO ÚNICO
-
-### ARTÍCULO 71
-.- Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Secretaría promoverá, en coordinación con las autoridades competentes tanto federales como locales, que en el desarrollo de las acciones habitacionales en sus distintas modalidades y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y espacios auxiliares suficientes en función al número de usuarios, provea de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural, la accesibilidad, y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
+ARTÍCULO 71.- Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Secretaría promoverá, en coordinación con las autoridades competentes tanto federales como locales, que en el desarrollo de las acciones habitacionales en sus distintas modalidades y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y espacios auxiliares suficientes en función al número de usuarios, provea de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural, la accesibilidad, y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
 Párrafo reformado DOF 20-04-2015, 14-05-2019, 14-06-2024 Asimismo, promoverá el uso de energías renovables mediante las nuevas ecotecnologías aplicables a la vivienda, de acuerdo a las regiones bioclimáticas del país, utilizando equipos y sistemas normalizados en cualquiera de sus modalidades.
 Párrafo adicionado DOF 26-12-2013 LEY DE VIVIENDA Las autoridades del Gobierno Federal, las entidades federativas, los municipios y las alcaldías en el ámbito de sus respectivas competencias, verificarán que se dé cumplimiento a lo dispuesto en esta Ley en materia de calidad y sustentabilidad de la vivienda, y a las disposiciones legales y reglamentarias correspondientes.
-Párrafo reformado DOF 14-05-2019
-
-### ARTÍCULO 72
-.- La Secretaría, con base en el modelo normativo que al efecto formule, promoverá que las autoridades competentes expidan, apliquen y mantengan en vigor y permanentemente actualizadas disposiciones legales, normas oficiales mexicanas, códigos de procesos de edificación y reglamentos de construcción que contengan los requisitos técnicos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan responsabilidades generales, así como por cada etapa del proceso de producción de vivienda.
+Párrafo reformado DOF 14-05-2019 ARTÍCULO 72.- La Secretaría, con base en el modelo normativo que al efecto formule, promoverá que las autoridades competentes expidan, apliquen y mantengan en vigor y permanentemente actualizadas disposiciones legales, normas oficiales mexicanas, códigos de procesos de edificación y reglamentos de construcción que contengan los requisitos técnicos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan responsabilidades generales, así como por cada etapa del proceso de producción de vivienda.
 Aquellas localidades que no cuenten con las disposiciones previstas en el párrafo anterior, tomarán como referente el modelo formulado por la Secretaría. Este modelo incluirá requisitos técnicos que garanticen la seguridad estructural, la habitabilidad, la eficiencia y sustentabilidad de la vivienda.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 73
-.- Las acciones de suelo y vivienda financiadas con recursos federales, así como las de los organismos que financien vivienda para los trabajadores en cumplimiento a la obligación que consigna el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, deberán observar los lineamientos que en materia de equipamiento, infraestructura y vinculación con el entorno establezca la Secretaría, escuchando la opinión de la Comisión para cada grupo objetivo de la población, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y demás disposiciones aplicables.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 74
-.- Las acciones de vivienda que se realicen en las entidades federativas y municipios, deberán ser congruentes con las necesidades de cada centro de población y con los planes y programas que regulan el uso y el aprovechamiento del suelo, a fin de garantizar un desarrollo urbano ordenado.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 73.- Las acciones de suelo y vivienda financiadas con recursos federales, así como las de los organismos que financien vivienda para los trabajadores en cumplimiento a la obligación que consigna el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, deberán observar los lineamientos que en materia de equipamiento, infraestructura y vinculación con el entorno establezca la Secretaría, escuchando la opinión de la Comisión para cada grupo objetivo de la población, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y demás disposiciones aplicables.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 74.- Las acciones de vivienda que se realicen en las entidades federativas y municipios, deberán ser congruentes con las necesidades de cada centro de población y con los planes y programas que regulan el uso y el aprovechamiento del suelo, a fin de garantizar un desarrollo urbano ordenado.
 Además, establecerán las previsiones para dotar a los desarrollos de vivienda que cumplan con lo anterior, de infraestructura y equipamiento básico y adoptarán las medidas conducentes para mitigar los posibles impactos sobre el medio ambiente.
-
-### ARTÍCULO 75
-.- Con la finalidad de promover una adecuada convivencia social, la administración y mantenimiento de conjuntos habitacionales y en general de la vivienda multifamiliar quedará a cargo o dirección de los usuarios, conforme a las disposiciones aplicables.
+ARTÍCULO 75.- Con la finalidad de promover una adecuada convivencia social, la administración y mantenimiento de conjuntos habitacionales y en general de la vivienda multifamiliar quedará a cargo o dirección de los usuarios, conforme a las disposiciones aplicables.
 La Secretaría y la Comisión promoverán que las autoridades locales expidan instrumentos normativos que regulen dichos conjuntos y sus diversos regímenes de propiedad, atendiendo a las distintas regiones, tipos y condiciones culturales y urbanas de la población.
 La Secretaría podrá emitir opiniones, cuando las entidades federativas se lo soliciten, respecto a la implementación de programas y acciones que permitan elevar la calidad de la vivienda y eficientar sus procesos productivos.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 76
-.- La Secretaría y la Comisión promoverán que las autoridades de las entidades federativas, los municipios y las alcaldías celebren acuerdos y convenios con los sectores social y privado, que tengan por objeto el mejoramiento de las condiciones de convivencia, impulsar la dotación y administración de la infraestructura, los equipamientos y los servicios urbanos necesarios, así como el LEY DE VIVIENDA financiamiento compartido para el adecuado mantenimiento sustentable de las unidades y desarrollos habitacionales.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 77
-.- La Secretaría y la Comisión fomentarán la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotécnicas y de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y cumplan con los principios de una vivienda digna y decorosa.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 76.- La Secretaría y la Comisión promoverán que las autoridades de las entidades federativas, los municipios y las alcaldías celebren acuerdos y convenios con los sectores social y privado, que tengan por objeto el mejoramiento de las condiciones de convivencia, impulsar la dotación y administración de la infraestructura, los equipamientos y los servicios urbanos necesarios, así como el LEY DE VIVIENDA financiamiento compartido para el adecuado mantenimiento sustentable de las unidades y desarrollos habitacionales.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 77.- La Secretaría y la Comisión fomentarán la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotécnicas y de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y cumplan con los principios de una vivienda digna y decorosa.
 Párrafo reformado DOF 14-05-2019 Asimismo, promoverá que las tecnologías, sean acordes con los requerimientos sociales, regionales y a las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
-
-### ARTÍCULO 78
-.- El modelo normativo, las normas mexicanas aplicables al diseño arquitectónico de la vivienda y los prototipos constructivos deberán considerar los espacios interiores y exteriores que faciliten la accesibilidad de sus habitantes; la eficiencia de los sistemas funcionales, constructivos y de servicio; la tipificación y modulación de sus elementos y componentes, respetando las distintas zonas del país, los recursos naturales, el ahorro de energía y las modalidades habitacionales.
+ARTÍCULO 78.- El modelo normativo, las normas mexicanas aplicables al diseño arquitectónico de la vivienda y los prototipos constructivos deberán considerar los espacios interiores y exteriores que faciliten la accesibilidad de sus habitantes; la eficiencia de los sistemas funcionales, constructivos y de servicio; la tipificación y modulación de sus elementos y componentes, respetando las distintas zonas del país, los recursos naturales, el ahorro de energía y las modalidades habitacionales.
 Párrafo reformado DOF 14-06-2024 En este tipo de normas se deberá considerar las condiciones y características de los espacios habitables y auxiliares y seguridad para los diferentes tipos de vivienda y de sus etapas de construcción.
-Párrafo reformado DOF 20-04-2015
-
-### ARTÍCULO 79
-.- La Secretaría de Economía, considerando la opinión de la Secretaría, dictará las disposiciones necesarias para regular y orientar la transferencia de tecnología aplicable a la vivienda y establecer por sí o a través de organismos nacionales de normalización las normas mexicanas relativas a la calidad y desempeño de bienes y servicios básicos para la construcción de vivienda.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 80
-.- Las dependencias y entidades de la Administración Pública Federal apoyarán de manera prioritaria la aplicación de las normas a que se refiere este capítulo. La Secretaría promoverá el reconocimiento público de aquellos agentes que realicen sus acciones bajo los criterios señalados en la presente Ley.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 81
-.- El Gobierno Federal fomentará en los tres órdenes de gobierno, en el ámbito de sus respectivas competencias, la utilización de insumos básicos para la construcción de vivienda, que cumplan con las normas oficiales mexicanas y las normas mexicanas, para que los mismos aseguren la calidad y sustentabilidad de la vivienda.
-Artículo reformado DOF 23-06-2017
-
-### ARTÍCULO 82
-.- La Comisión promoverá la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
+Párrafo reformado DOF 20-04-2015 ARTÍCULO 79.- La Secretaría de Economía, considerando la opinión de la Secretaría, dictará las disposiciones necesarias para regular y orientar la transferencia de tecnología aplicable a la vivienda y establecer por sí o a través de organismos nacionales de normalización las normas mexicanas relativas a la calidad y desempeño de bienes y servicios básicos para la construcción de vivienda.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 80.- Las dependencias y entidades de la Administración Pública Federal apoyarán de manera prioritaria la aplicación de las normas a que se refiere este capítulo. La Secretaría promoverá el reconocimiento público de aquellos agentes que realicen sus acciones bajo los criterios señalados en la presente Ley.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 81.- El Gobierno Federal fomentará en los tres órdenes de gobierno, en el ámbito de sus respectivas competencias, la utilización de insumos básicos para la construcción de vivienda, que cumplan con las normas oficiales mexicanas y las normas mexicanas, para que los mismos aseguren la calidad y sustentabilidad de la vivienda.
+Artículo reformado DOF 23-06-2017 ARTÍCULO 82.- La Comisión promoverá la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
 
 I. La atención a programas de vivienda emergente para atención a damnificados, derivados de desastres;
 
@@ -912,30 +721,19 @@ II. Apoyar programas de producción social de vivienda, particularmente aquéllo
 
 III. La conformación de paquetes de materiales para las familias en situación de pobreza.
 LEY DE VIVIENDA Asimismo, promoverá la celebración de convenios para el otorgamiento de asesoría y capacitación a los adquirentes de materiales para el uso adecuado de los productos, sobre sistemas constructivos y prototipos arquitectónicos, así como para la obtención de licencias y permisos de construcción necesarios.
-
-### ARTÍCULO 83
-.- La Secretaría y la Comisión promoverán el uso de materiales y productos que contribuyan a evitar efluentes y emisiones que deterioren el medio ambiente, así como aquellos que propicien ahorro de energía, uso eficiente de agua, un ambiente más confortable y saludable dentro de la vivienda de acuerdo con las características climáticas de la región. Lo anterior, de conformidad con la normatividad aplicable en la materia.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 84
-.- Las dependencias y entidades competentes de la Administración Pública Federal diseñarán mecanismos de promoción para la innovación e intercambio tecnológico en la producción y el empleo de materiales y productos para la construcción de vivienda, privilegiando a las instituciones públicas de investigación y educación superior del país.
+ARTÍCULO 83.- La Secretaría y la Comisión promoverán el uso de materiales y productos que contribuyan a evitar efluentes y emisiones que deterioren el medio ambiente, así como aquellos que propicien ahorro de energía, uso eficiente de agua, un ambiente más confortable y saludable dentro de la vivienda de acuerdo con las características climáticas de la región. Lo anterior, de conformidad con la normatividad aplicable en la materia.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 84.- Las dependencias y entidades competentes de la Administración Pública Federal diseñarán mecanismos de promoción para la innovación e intercambio tecnológico en la producción y el empleo de materiales y productos para la construcción de vivienda, privilegiando a las instituciones públicas de investigación y educación superior del país.
 
 ## TÍTULO SÉPTIMO — DE LA PRODUCCIÓN SOCIAL DE VIVIENDA
 
 ## CAPÍTULO I — De los Instrumentos y Programas
-
-### ARTÍCULO 85
-.- El Gobierno Federal deberá apoyar la producción social de vivienda en sus diversos tipos y modalidades, mediante el desarrollo de instrumentos jurídicos, programáticos, financieros, administrativos y de fomento.
-
-### ARTÍCULO 86
-.- La Comisión fomentará, en coordinación con las dependencias y entidades federales, así como con las entidades federativas y municipios, el desarrollo de programas de suelo y vivienda dirigidos a:
+ARTÍCULO 85.- El Gobierno Federal deberá apoyar la producción social de vivienda en sus diversos tipos y modalidades, mediante el desarrollo de instrumentos jurídicos, programáticos, financieros, administrativos y de fomento.
+ARTÍCULO 86.- La Comisión fomentará, en coordinación con las dependencias y entidades federales, así como con las entidades federativas y municipios, el desarrollo de programas de suelo y vivienda dirigidos a:
 
 I. Autoproductores y autoconstructores, individuales o colectivos, para sus distintos tipos, modalidades y necesidades de vivienda, y
 
 II. Otros productores y agentes técnicos especializados que operen sin fines de lucro tales como los organismos no gubernamentales, asociaciones gremiales e instituciones de asistencia privada.
-
-### ARTÍCULO 87
-.- Las políticas y programas dirigidos al estímulo y apoyo de la producción social de vivienda y a la vivienda de las comunidades rurales y de los pueblos y comunidades indígenas y afromexicanas deberán:
+ARTÍCULO 87.- Las políticas y programas dirigidos al estímulo y apoyo de la producción social de vivienda y a la vivienda de las comunidades rurales y de los pueblos y comunidades indígenas y afromexicanas deberán:
 Párrafo reformado DOF 01-04-2024
 
 I. Contemplar todo el proceso de producción habitacional, incluyendo los distintos tipos, modalidades y necesidades de vivienda;
@@ -951,48 +749,28 @@ V. Focalizar preferentemente a la mujer sostén de la familia, las acciones de f
 
 VI. Atender las distintas formas legales de propiedad y posesión de la tierra, así como de tenencia individual o colectiva, en propiedad privada o no, adecuando los diversos instrumentos y productos financieros al efecto.
 Tratándose de las comunidades rurales, pueblos y comunidades indígenas y afromexicanas deberán ser reconocidas y atendidas sus características culturales, respetando sus formas de asentamiento territorial y favoreciendo los sistemas constructivos acordes con el entorno bioclimático de las regiones, así como sus modos de producción de vivienda, sin menoscabo de gozar los beneficios de la tecnología y el adelanto científico.
-Párrafo reformado DOF 01-04-2024
-
-### ARTÍCULO 88
-.- La Comisión, en coordinación con los organismos de vivienda y con las entidades federales, estatales y municipales fomentará en los programas y proyectos de producción social de vivienda la inclusión de actividades productivas y el desarrollo de actividades generadoras de ingreso orientadas al fortalecimiento económico de la población participante en ellos, de conformidad con lo establecido en las disposiciones aplicables.
-
-### ARTÍCULO 89
-.- Como apoyo al desarrollo de la producción social de vivienda, la Comisión fomentará la realización de convenios de capacitación, investigación y desarrollo tecnológico con universidades, organismos no gubernamentales y consultores especializados, entre otros.
-
-### ARTÍCULO 90
-.- Las acciones y recursos que las dependencias y entidades del Gobierno Federal programen o destinen para el fomento y estímulo a la producción social de vivienda, deberán guardar proporcionalidad y equidad entre las distintas regiones del país, atendiendo a los distintos tipos, modalidades y necesidades de vivienda.
-
-### ARTÍCULO 91
-.- Las organizaciones de la sociedad civil que tengan por objeto la adquisición, mejoramiento, construcción o producción social de la vivienda, así como el otorgamiento de asesoría integral en la materia, serán objeto de acciones de fomento por parte de las dependencias y entidades de la Administración Pública Federal, para lo cual se sujetarán, además de lo dispuesto en la presente ley, a la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil.
+Párrafo reformado DOF 01-04-2024 ARTÍCULO 88.- La Comisión, en coordinación con los organismos de vivienda y con las entidades federales, estatales y municipales fomentará en los programas y proyectos de producción social de vivienda la inclusión de actividades productivas y el desarrollo de actividades generadoras de ingreso orientadas al fortalecimiento económico de la población participante en ellos, de conformidad con lo establecido en las disposiciones aplicables.
+ARTÍCULO 89.- Como apoyo al desarrollo de la producción social de vivienda, la Comisión fomentará la realización de convenios de capacitación, investigación y desarrollo tecnológico con universidades, organismos no gubernamentales y consultores especializados, entre otros.
+ARTÍCULO 90.- Las acciones y recursos que las dependencias y entidades del Gobierno Federal programen o destinen para el fomento y estímulo a la producción social de vivienda, deberán guardar proporcionalidad y equidad entre las distintas regiones del país, atendiendo a los distintos tipos, modalidades y necesidades de vivienda.
+ARTÍCULO 91.- Las organizaciones de la sociedad civil que tengan por objeto la adquisición, mejoramiento, construcción o producción social de la vivienda, así como el otorgamiento de asesoría integral en la materia, serán objeto de acciones de fomento por parte de las dependencias y entidades de la Administración Pública Federal, para lo cual se sujetarán, además de lo dispuesto en la presente ley, a la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil.
 
 ## CAPÍTULO II — De las Sociedades Cooperativas de Vivienda
-
-### ARTÍCULO 92
-.- Son sociedades cooperativas de vivienda aquéllas que se constituyan con objeto de construir, adquirir, arrendar, mejorar, mantener, administrar o financiar viviendas, o de producir, obtener o distribuir materiales básicos de construcción para sus socios.
+ARTÍCULO 92.- Son sociedades cooperativas de vivienda aquéllas que se constituyan con objeto de construir, adquirir, arrendar, mejorar, mantener, administrar o financiar viviendas, o de producir, obtener o distribuir materiales básicos de construcción para sus socios.
 La constitución, administración, vigilancia y disolución de las sociedades cooperativas de vivienda se regirán por las disposiciones previstas en la Ley General de Sociedades Cooperativas, en este capítulo y en los demás ordenamientos aplicables.
 Las oficinas encargadas de los Registros Públicos de la Propiedad y del Comercio deberán remitir a la Comisión en forma gratuita, copia certificada de todos los documentos que sean objeto de inscripción por parte de las sociedades cooperativas de vivienda, en un plazo no mayor de 30 días hábiles contados a LEY DE VIVIENDA partir de que se haya realizado la inscripción correspondiente, a fin de que se consideren en el Sistema de Información.
-
-### ARTÍCULO 93
-.- El patrimonio de las sociedades cooperativas será variable y se integrará por:
+ARTÍCULO 93.- El patrimonio de las sociedades cooperativas será variable y se integrará por:
 
 I. El capital social constituido por las partes sociales que suscriban e integren los socios, que serán nominativas, indivisibles y de igual valor, y
 
 II. Los excedentes que resulten de la actividad propia de la sociedad cooperativa, la reserva legal, el fondo de fomento cooperativo, las donaciones, subsidios, herencias y legados recibidos de personas físicas y morales, públicas o privadas, nacionales o internacionales y por la suma adicional que se perciba de los socios como compensación por gastos de mantenimiento de las viviendas y servicios comunes.
 Las sociedades cooperativas de vivienda podrán constituir las comisiones, fondos y reservas sociales que considere necesarios la asamblea general.
-
-### ARTÍCULO 94
-.- La Ley General de Sociedades Cooperativas se aplicará de manera supletoria en lo que no se oponga a la presente Ley.
+ARTÍCULO 94.- La Ley General de Sociedades Cooperativas se aplicará de manera supletoria en lo que no se oponga a la presente Ley.
 
 ## TÍTULO OCTAVO — DE LA DENUNCIA POPULAR Y LAS RESPONSABILIDADES
 
 ## CAPÍTULO I — De la Denuncia Popular
-
-### ARTÍCULO 95
-.- Toda persona podrá denunciar ante la Secretaría o ante otras autoridades competentes todo hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con la vivienda.
-Artículo reformado DOF 14-05-2019
-
-### ARTÍCULO 96
-.- La denuncia popular podrá ejercitarse por cualquier persona, por escrito y debe constar de:
+ARTÍCULO 95.- Toda persona podrá denunciar ante la Secretaría o ante otras autoridades competentes todo hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con la vivienda.
+Artículo reformado DOF 14-05-2019 ARTÍCULO 96.- La denuncia popular podrá ejercitarse por cualquier persona, por escrito y debe constar de:
 
 I. El nombre o razón social, domicilio y demás datos que permitan la identificación del denunciante y, en su caso, de su representante legal;
 
@@ -1004,9 +782,7 @@ IV. Las pruebas que en su caso ofrezca el denunciante.
 La denuncia se tramitará y resolverá conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 ## CAPÍTULO II — De las Responsabilidades
-
-### ARTÍCULO 97
-.- Los servidores públicos que intervengan en los programas habitacionales que utilicen indebidamente su posición, para beneficiarse o favorecer a terceros en los procesos de producción y LEY DE VIVIENDA adquisición de vivienda, construcción de obras de infraestructura o en operaciones inmobiliarias, serán sancionados conforme a lo dispuesto por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos o en Toda persona tendrá derecho al acceso a la información pública sobre vivienda, en los términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+ARTÍCULO 97.- Los servidores públicos que intervengan en los programas habitacionales que utilicen indebidamente su posición, para beneficiarse o favorecer a terceros en los procesos de producción y LEY DE VIVIENDA adquisición de vivienda, construcción de obras de infraestructura o en operaciones inmobiliarias, serán sancionados conforme a lo dispuesto por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos o en Toda persona tendrá derecho al acceso a la información pública sobre vivienda, en los términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 ## TRANSITORIOS
 
@@ -1030,10 +806,7 @@ LEY DE VIVIENDA DECRETO por el que se adiciona un segundo párrafo al artículo 
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013
 
 ### Artículo Único
-Se adiciona un segundo párrafo, recorriéndose el subsecuente en su orden, al
-
-### artículo 71
-de la Ley de Vivienda, para quedar como sigue: ………
+Se adiciona un segundo párrafo, recorriéndose el subsecuente en su orden, al artículo 71 de la Ley de Vivienda, para quedar como sigue: ………
 
 ## Transitorio
 
@@ -1085,16 +858,9 @@ LEY DE VIVIENDA DECRETO por el que se reforman y adicionan diversas disposicione
 Publicado en el Diario Oficial de la Federación el 14 de mayo de 2019
 
 ### Artículo Único
-Se reforman la fracción V y el segundo párrafo del artículo 7; el primer párrafo del
-
-### artículo 9
-; las fracciones III, IV y V del artículo 14; el primer párrafo del artículo 15; el primer párrafo del
-
-### artículo 16
-; el primer párrafo, las fracciones III y IV del apartado A, el primer párrafo y las fracciones I, V y VII del apartado B del artículo 17; el primer párrafo del artículo 18; las fracciones I, II y XX del artículo 19; las fracciones I, II, III, IV, V, VI, VII y el segundo párrafo del artículo 22; las fracciones II, III, IV, VI y VII del
-
-### artículo 30
-; la fracción I y el tercer párrafo del artículo 33; el primer párrafo, las fracciones I, IX y el segundo párrafo del artículo 38; los párrafos segundo y tercero del artículo 43; artículo 45; artículo 47; el segundo párrafo del artículo 55; artículo 57; artículo 64; artículo 66; artículo 69; el primero y tercer párrafos del artículo 71; artículo 72; artículo 73; el segundo y tercer párrafos del artículo 75; artículo 76; el primer párrafo del artículo 77; artículo 79; artículo 80; artículo 83; artículo 95; se adicionan la fracción XV al artículo 4; el segundo párrafo al artículo 15; las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX al artículo 16; las fracciones XXIV y XXV al artículo 19; una fracción IX y un tercer párrafo al artículo 30; y se derogan el tercer párrafo del artículo 18; las fracciones III, IV, V, VI, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX del artículo 19; la fracción V del artículo 25 de la Ley de Vivienda, para quedar como sigue: ……..
+Se reforman la fracción V y el segundo párrafo del artículo 7; el primer párrafo del artículo 9; las fracciones III, IV y V del artículo 14; el primer párrafo del artículo 15; el primer párrafo del artículo 16; el primer párrafo, las fracciones III y IV del apartado A, el primer párrafo y las fracciones I, V y VII del apartado B del artículo 17; el primer párrafo del artículo 18; las fracciones I, II y XX del artículo 19; las fracciones I, II, III, IV, V, VI, VII y el segundo párrafo del artículo 22; las fracciones II, III, IV, VI y VII del artículo 30; la fracción I y el tercer párrafo del artículo 33; el primer párrafo, las fracciones I, IX y el
+**segundo.** párrafo del artículo 38; los párrafos segundo y tercero del artículo 43; artículo 45; artículo 47; el
+**segundo.** párrafo del artículo 55; artículo 57; artículo 64; artículo 66; artículo 69; el primero y tercer párrafos del artículo 71; artículo 72; artículo 73; el segundo y tercer párrafos del artículo 75; artículo 76; el primer párrafo del artículo 77; artículo 79; artículo 80; artículo 83; artículo 95; se adicionan la fracción XV al artículo 4; el segundo párrafo al artículo 15; las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX al artículo 16; las fracciones XXIV y XXV al artículo 19; una fracción IX y un tercer párrafo al artículo 30; y se derogan el tercer párrafo del artículo 18; las fracciones III, IV, V, VI, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX del artículo 19; la fracción V del artículo 25 de la Ley de Vivienda, para quedar como sigue: ……..
 
 ## Transitorios
 

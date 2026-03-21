@@ -552,10 +552,7 @@ Fe de erratas al artículo DOF 13-09-1935 CAPITULO V Seguro contra la responsabi
 ### Artículo 145
 .- En el seguro contra la responsabilidad, la empresa se obliga hasta el límite de la suma asegurada a pagar la indemnización que el asegurado deba a un tercero a consecuencia de un hecho que cause un daño previsto en el contrato de seguro.
 Tratándose de los seguros obligatorios a que hace referencia el artículo 150 Bis de esta Ley, la empresa estará obligada a cubrir los riesgos asegurados hasta los montos indemnizatorios o las sumas aseguradas por persona o por bien, así como, en su caso, los acumulados por evento, que se establezcan en las disposiciones legales respectivas o en las administrativas de carácter general que se deriven de las mismas, vigentes al celebrarse el contrato.
-Párrafo reformado DOF 24-04-2006 Para los riesgos respecto de los cuales las disposiciones a que se refiere el párrafo anterior no determinen el monto indemnizatorio o la suma asegurada obligatorios, se estará a lo dispuesto en el
-
-### artículo 86
-de la presente Ley para determinar el límite de la suma asegurada.
+Párrafo reformado DOF 24-04-2006 Para los riesgos respecto de los cuales las disposiciones a que se refiere el párrafo anterior no determinen el monto indemnizatorio o la suma asegurada obligatorios, se estará a lo dispuesto en el artículo 86 de la presente Ley para determinar el límite de la suma asegurada.
 Párrafo adicionado DOF 24-04-2006 Artículo reformado DOF 02-01-2002
 
 ### Artículo 145
@@ -943,10 +940,7 @@ Se reforma el artículo 81; se adicionan las fracciones I y II al mismo artícul
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ### ARTÍCULO SEGUNDO
-La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, será la autoridad responsable para los efectos legales conducentes, derivados del
-
-### Artículo Segundo
-del presente Decreto.
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, será la autoridad responsable para los efectos legales conducentes, derivados del Artículo Segundo del presente Decreto.
 México, D. F., a 31 de marzo de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. Margarita Arenas Guzmán, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.

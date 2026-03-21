@@ -1766,10 +1766,7 @@ IV. Si no se hiciera por el mismo propietario o persona especialmente autorizada
 .- Se considerarán como modalidades marítimas del contrato de compraventa internacional aquellas en que al menos un tramo del transporte se realice por vía marítima.
 
 ### Artículo 255
-.- Toda compraventa marítima estará regida por la Convención de las Naciones Unidas sobre los Contratos de Compraventa Internacional de Mercaderías, por la Convención sobre Prescripción en Materia de Compraventa Internacional de Mercaderías, por la Convención sobre la Representación en la Compraventa Internacional de Mercancías, y de modo supletorio por el Código de Comercio y el
-
-### Artículo 256
-.- Cuando en los contratos regulados por el presente título, los contratantes se refieran al o los Términos Internacionales de Comercio -en los sucesivo INCOTERM o INCOTERMS respectivamente- de la Cámara Internacional de Comercio, se entenderá que el contrato celebrado corresponde a alguna de las modalidades marítimas según sea el caso, tal y como se conozcan en su edición vigente al momento de la celebración del contrato, salvo que parte del contenido obligacional del mismo se hubiere modificado mediante convenio por correspondencia de cualquier medio de transmisión de datos cruzada entre las partes; en cuyo caso se entenderá que la compraventa marítima fue modificada en los términos de la referida correspondencia.
+.- Toda compraventa marítima estará regida por la Convención de las Naciones Unidas sobre los Contratos de Compraventa Internacional de Mercaderías, por la Convención sobre Prescripción en Materia de Compraventa Internacional de Mercaderías, por la Convención sobre la Representación en la Compraventa Internacional de Mercancías, y de modo supletorio por el Código de Comercio y el Artículo 256.- Cuando en los contratos regulados por el presente título, los contratantes se refieran al o los Términos Internacionales de Comercio -en los sucesivo INCOTERM o INCOTERMS respectivamente- de la Cámara Internacional de Comercio, se entenderá que el contrato celebrado corresponde a alguna de las modalidades marítimas según sea el caso, tal y como se conozcan en su edición vigente al momento de la celebración del contrato, salvo que parte del contenido obligacional del mismo se hubiere modificado mediante convenio por correspondencia de cualquier medio de transmisión de datos cruzada entre las partes; en cuyo caso se entenderá que la compraventa marítima fue modificada en los términos de la referida correspondencia.
 
 ### Artículo 257
 .- Si un contrato aún no ha sido celebrado, pero de la correspondencia cruzada entre las partes se derivan los términos del mismo, y éstas han empezado a ejecutarlo, se entenderá que el contrato existe y es válido en los términos en que las partes lo hayan convenido en su correspondencia posterior a la celebración.
@@ -2186,10 +2183,7 @@ c) Prestar los servicios a que se refiere el artículo 42 de esta Ley, sin permi
 d) Incumplir con lo dispuesto en el artículo 177 de esta Ley;
 Fracción con incisos adicionada DOF 07-12-2020
 
-X. Los capitanes o patrones de embarcaciones por no cumplir con la obligación establecida en el
-
-### artículo 161
-de esta Ley;
+X. Los capitanes o patrones de embarcaciones por no cumplir con la obligación establecida en el artículo 161 de esta Ley;
 Fracción adicionada DOF 07-12-2020
 
 XI. Los concesionarios, por incumplimiento de lo establecido en el artículo 63 de esta Ley;
@@ -2282,10 +2276,7 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 2014
 
 ### Artículo Primero
 Se reforman los artículos 8, fracción VI; 55, párrafos primero, segundo, cuarto y
-**quinto.** ; 56; 57, fracciones III y IV, y se adicionan las fracciones XIV y XV al artículo 2; un párrafo sexto al
-
-### artículo 55
-de la Ley de Navegación y Comercio Marítimos, para quedar como sigue: ……….
+**quinto.** ; 56; 57, fracciones III y IV, y se adicionan las fracciones XIV y XV al artículo 2; un párrafo sexto al artículo 55 de la Ley de Navegación y Comercio Marítimos, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
@@ -2366,7 +2357,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

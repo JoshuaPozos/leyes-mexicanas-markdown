@@ -1001,10 +1001,7 @@ Del Derecho a la Seguridad Jurídica y al Debido Proceso
 . Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognitivo y grado de madurez y con base en el deber reforzado de protección para asegurar la igualdad sustantiva y su derecho a una vida libre de violencias, estarán obligadas a observar, cuando menos a:
 Párrafo reformado DOF 23-06-2017, 15-01-2026
 
-I. Garantizar la protección y prevalencia del interés superior de la niñez a que se refiere el
-
-### artículo 2
-de la presente Ley;
+I. Garantizar la protección y prevalencia del interés superior de la niñez a que se refiere el artículo 2 de la presente Ley;
 
 II. Garantizar el ejercicio de los derechos de niñas, niños y adolescentes, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, esta Ley y demás disposiciones aplicables;
 
@@ -1957,10 +1954,7 @@ Fracción reformada DOF 26-03-2024
 
 III. Respecto de los concesionarios de radio, televisión, la difusión o transmisión de imágenes, voz o datos que afecten o impidan objetivamente el desarrollo integral de niñas, niños o adolescentes, o que hagan apología del delito, en contravención al artículo 68 de esta Ley y a las disposiciones específicas que regulen la difusión y transmisión de contenidos;
 
-IV. Respecto de los concesionarios de radio y televisión y de quien dirija medios impresos, la violación a la intimidad personal o familiar de niñas, niños o adolescentes, a que se refiere el
-
-### artículo 77
-de esta Ley;
+IV. Respecto de los concesionarios de radio y televisión y de quien dirija medios impresos, la violación a la intimidad personal o familiar de niñas, niños o adolescentes, a que se refiere el artículo 77 de esta Ley;
 
 V. Respecto de los concesionarios de radio y televisión y de quien dirija medios impresos, la realización de entrevistas o su difusión, sin la autorización a que se refiere el artículo 78 de esta Ley;
 
@@ -1970,10 +1964,7 @@ VII. Respecto de los concesionarios de radio y televisión y de quien dirija med
 VII Bis. Respecto de los distribuidores, comercializadores y arrendadores de videojuegos, la distribución, publicitación, exhibición, venta y arrendamiento de videojuegos, en contravención a lo dispuesto en el artículo 69 Bis de esta Ley;
 Fracción adicionada DOF 09-03-2018
 
-VIII. Respecto de profesionales en trabajo social o psicología que intervengan en procedimientos de adopción que no cuenten con la autorización del Sistema Nacional DIF a que se refiere el
-
-### artículo 31
-de esta Ley, en los casos competencia de dicho Sistema, y
+VIII. Respecto de profesionales en trabajo social o psicología que intervengan en procedimientos de adopción que no cuenten con la autorización del Sistema Nacional DIF a que se refiere el artículo 31 de esta Ley, en los casos competencia de dicho Sistema, y
 
 IX. Las demás contravenciones a lo dispuesto en esta Ley, competencia del orden federal.
 
@@ -2103,10 +2094,7 @@ Se reforma la fracción XX del artículo 13; se adiciona un Capítulo Vigésimo 
 Ciudad de México, a 24 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 Publicado en el Diario Oficial de la Federación 3 de junio de 2019
-**Único.-** Se reforman la fracción I del artículo 1, el párrafo segundo del artículo 2, el párrafo primero del
-
-### artículo 5
-, el párrafo cuarto del artículo 22, los párrafos primero, segundo, tercero, cuarto y quinto y la fracción I del artículo 26, el párrafo primero y la fracción III del artículo 29, el párrafo primero y las fracciones I y V del artículo 30, y la fracción II del artículo 111; y se adicionan una fracción XV al artículo 6o., los párrafos sexto a décimo del artículo 26, las fracciones VI y VII al artículo 30, los artículos 30 Bis, 30 Bis 1, 30 Bis 2, 30 Bis 3, 30 Bis 4, 30 Bis 5, 30 Bis 6, 30 Bis 7, 30 Bis 8, 30 Bis 9, 30 Bis 10, 30 Bis 11, 30 Bis 12, 30 Bis 13, 30 Bis 14, 30 Bis 15, los párrafos segundo y tercero, recorriéndose en su orden los actuales párrafos segundo, tercero, cuarto y quinto para ser los párrafos cuarto, quinto, sexto y séptimo, y un párrafo octavo al artículo 31 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue: …….
+**Único.-** Se reforman la fracción I del artículo 1, el párrafo segundo del artículo 2, el párrafo primero del artículo 5, el párrafo cuarto del artículo 22, los párrafos primero, segundo, tercero, cuarto y quinto y la fracción I del artículo 26, el párrafo primero y la fracción III del artículo 29, el párrafo primero y las fracciones I y V del artículo 30, y la fracción II del artículo 111; y se adicionan una fracción XV al artículo 6o., los párrafos sexto a décimo del artículo 26, las fracciones VI y VII al artículo 30, los artículos 30 Bis, 30 Bis 1, 30 Bis 2, 30 Bis 3, 30 Bis 4, 30 Bis 5, 30 Bis 6, 30 Bis 7, 30 Bis 8, 30 Bis 9, 30 Bis 10, 30 Bis 11, 30 Bis 12, 30 Bis 13, 30 Bis 14, 30 Bis 15, los párrafos segundo y tercero, recorriéndose en su orden los actuales párrafos segundo, tercero, cuarto y quinto para ser los párrafos cuarto, quinto, sexto y séptimo, y un párrafo octavo al artículo 31 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue: …….
 
 ## Transitorios
 
@@ -2190,10 +2178,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Fede
 Publicado en el Diario Oficial de la Federación 28 de abril de 2022
 
 ### ARTÍCULO NOVENO
-Se reforma el primer párrafo y sus fracciones I y V y, el segundo párrafo del
-
-### artículo 124
-; y el artículo 127 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue: ……..
+Se reforma el primer párrafo y sus fracciones I y V y, el segundo párrafo del artículo 124; y el artículo 127 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -2317,10 +2302,7 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
 Publicado en el Diario Oficial de la Federación 15 de enero de 2026
 
 ### Artículo Décimo
-Se reforman los artículos 1, fracción III; 2, fracciones I y III; 3, primer párrafo; 12; 13, segundo párrafo; 83, primer párrafo; 90 y 114, segundo párrafo y se adicionan una fracción IV al
-
-### artículo 2
-; un párrafo tercero al artículo 10, de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue: ……..
+Se reforman los artículos 1, fracción III; 2, fracciones I y III; 3, primer párrafo; 12; 13, segundo párrafo; 83, primer párrafo; 90 y 114, segundo párrafo y se adicionan una fracción IV al artículo 2; un párrafo tercero al artículo 10, de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue: ……..
 
 ## Transitorios
 

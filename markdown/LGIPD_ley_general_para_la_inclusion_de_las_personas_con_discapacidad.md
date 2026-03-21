@@ -852,10 +852,7 @@ DECRETO por el que se reforman y adicionan los artículos 2, 29 y 32 de la Ley G
 Publicado en el Diario Oficial de la Federación el 6 de enero de 2023
 
 ### Artículo Único
-Se reforman los artículos 29 y 32, fracción I y se adiciona una fracción XIX Bis al
-
-### artículo 2
-de la Ley General para la Inclusión de las Personas con Discapacidad, para quedar como sigue: ……..
+Se reforman los artículos 29 y 32, fracción I y se adiciona una fracción XIX Bis al artículo 2 de la Ley General para la Inclusión de las Personas con Discapacidad, para quedar como sigue: ……..
 
 ## Transitorios
 

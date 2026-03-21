@@ -8,10 +8,7 @@
 TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 8 de enero de 1986 Fe de erratas DOF 09-01-1986 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
 MIGUEL DE LA MADRID H., Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO "El Congreso de los Estados Unidos Mexicanos, decreta:
-TITULO PRIMERO Disposiciones Generales CAPITULO I De los Ambitos de Aplicación de la Ley ARTICULO 1o.- La presente Ley es reglamentaria de los párrafos Cuarto, Quinto, Sexto y Octavo del
-
-### Artículo 27
-de la Constitución Política de los Estados Unidos Mexicanos, en lo relativo a las zonas marinas mexicanas.
+TITULO PRIMERO Disposiciones Generales CAPITULO I De los Ambitos de Aplicación de la Ley ARTICULO 1o.- La presente Ley es reglamentaria de los párrafos Cuarto, Quinto, Sexto y Octavo del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, en lo relativo a las zonas marinas mexicanas.
 ARTICULO 2o.- La presente Ley es de jurisdicción federal, rige en las zonas marinas que forman parte del territorio nacional y, en lo aplicable, más allá de éste en las zonas marinas donde la Nación ejerce derechos de soberanía, jurisdicciones y otros derechos. Sus disposiciones son de orden público, en el marco del sistema nacional de planeación democrática.
 ARTICULO 3o.- Las zonas marinas mexicanas son:
 
@@ -94,10 +91,7 @@ ARTICULO 49.- El Poder Ejecutivo Federal vigilará que, al ejercitar los Estados
 ARTICULO 50.- La Zona Económica Exclusiva Mexicana se extiende a 200 millas marinas (370,400 metros) contadas desde las líneas de base a partir de las cuales, de conformidad con el Artículo 26 de esta Ley, se mide la anchura del Mar Territorial.
 ARTICULO 51.- Las islas gozan de zona económica exclusiva pero no así las rocas no aptas para mantener habitación humana o vida económica propia.
 ARTICULO 52.- El límite interior de la Zona Económica Exclusiva coincide idénticamente con el límite exterior del Mar Territorial, determinado de conformidad con el Artículo 26 de esta Ley, y con las disposiciones pertinentes de su Reglamento, y que aparezca en las cartas reconocidas oficialmente por los Estados Unidos Mexicanos.
-ARTICULO 53.- El límite exterior de la Zona Económica Exclusiva mexicana es la línea cada uno de cuyos puntos está del punto más próximo de las líneas de base del Mar Territorial determinadas en el
-
-### Artículo 26
-de esta Ley, a una distancia de 200 millas marinas (370,400 metros).
+ARTICULO 53.- El límite exterior de la Zona Económica Exclusiva mexicana es la línea cada uno de cuyos puntos está del punto más próximo de las líneas de base del Mar Territorial determinadas en el Artículo 26 de esta Ley, a una distancia de 200 millas marinas (370,400 metros).
 ARTICULO 54.- El límite exterior de la Zona Económica Exclusiva, en consecuencia, está constituido por una serie de arcos que unen los puntos cuyas coordenadas geográficas fueron publicadas por Decreto en el Diario Oficial de la Federación, el 7 de junio de 1976, y que aparezcan en las cartas oficialmente reconocidas por los Estados Unidos Mexicanos.
 ARTICULO 55.- El Poder Ejecutivo Federal velará porque se respete, con sujeción a las disposiciones pertinentes de esta Ley, de su Reglamento y del derecho internacional, las libertades de navegación y sobrevuelo, en la Zona Económica Exclusiva mexicana por las embarcaciones y aeronaves de todos los Estados, sean ribereños o sin litoral.
 ARTICULO 56.- El Poder Ejecutivo Federal dictará medidas adecuadas de administración y conservación para que los recursos vivos no se vean amenazados por una explotación excesiva, determinará la captura permisible de recursos vivos en la Zona Económica Exclusiva y, sin perjuicio de lo anterior, promoverá la utilización óptima de dichos recursos. Cuando el total de la captura permisible de una especie sea mayor que la capacidad para pescar y cazar de las embarcaciones nacionales, el Poder Ejecutivo Federal dará acceso a embarcaciones extranjeras al excedente de la captura permisible de acuerdo con el interés nacional y bajo las condiciones que señale la legislación mexicana de pesca.
@@ -114,10 +108,7 @@ ARTICULO 65.- En los lugares donde el borde exterior del margen continental de l
 ## TRANSITORIOS
 
 ARTICULO PRIMERO.- La presente Ley entrará en vigor en la fecha de su publicación en el Diario Oficial de la Federación.
-ARTICULO SEGUNDO.- La presente Ley deroga la Ley Reglamentaria del Párrafo Octavo del
-
-### Artículo 27
-Constitucional, relativo a la Zona Económica Exclusiva, publicada en el Diario Oficial de la Federación el 13 de febrero de 1976.
+ARTICULO SEGUNDO.- La presente Ley deroga la Ley Reglamentaria del Párrafo Octavo del Artículo 27 Constitucional, relativo a la Zona Económica Exclusiva, publicada en el Diario Oficial de la Federación el 13 de febrero de 1976.
 ARTICULO TERCERO.- La presente Ley deroga todas las disposiciones legales en vigor que se le opongan. Las materias no previstas en esta Ley relacionadas con actividades en las zonas marinas de jurisdicción nacional, se regirán por la legislación nacional en vigor en lo que no se le opongan.
 ARTICULO CUARTO.- Las infracciones a lo dispuesto en la presente Ley serán sancionadas por las autoridades nacionales competentes de conformidad con los ordenamientos nacionales aplicables a sus distintas materias.
 México, D. F., a 18 de diciembre de 1985.- Sen. Socorro Díaz Palacios, Presidenta.- Dip. Fernando Ortiz Arana, Presidente.- Sen. Guillermo Mercado Romero, Secretario.- Dip. Reyes Rodolfo Flores Z., Secretario.- Rúbricas.

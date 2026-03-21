@@ -153,10 +153,7 @@ LI. Usuaria Final: Particular que adquiere para su consumo Gas Natural o Petrol�
 LII. Zona de Salvaguarda: Área de reserva en la que el Estado prohíbe las actividades de Exploración y Extracción de Hidrocarburos.
 
 ### Artículo 6
-.- Las actividades de Exploración y Extracción de Hidrocarburos, a que se refiere la fracción I del
-
-### artículo 3
-de esta Ley, se consideran estratégicas en los términos del párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos. Sólo la Nación las lleva a cabo, por conducto de personas Asignatarias y Contratistas, en términos de la presente Ley.
+.- Las actividades de Exploración y Extracción de Hidrocarburos, a que se refiere la fracción I del artículo 3 de esta Ley, se consideran estratégicas en los términos del párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos. Sólo la Nación las lleva a cabo, por conducto de personas Asignatarias y Contratistas, en términos de la presente Ley.
 Las actividades de Reconocimiento y Exploración Superficial, así como las actividades referidas en las fracciones II a V del artículo 3 de esta Ley, pueden llevarse a cabo por Petróleos Mexicanos, cualquier otra empresa pública del Estado o entidad paraestatal, así como por cualquier persona, previa autorización o permiso, según corresponda, en los términos de la presente Ley y de las disposiciones reglamentarias, técnicas y de cualquier otra regulación que se expida.
 
 ## Capítulo II — De la Planeación y Control del Sector
@@ -302,10 +299,7 @@ a) El Área de Asignación y su vigencia;
 
 b) Las capacidades técnicas, operativas, de ejecución, financieras o de experiencia que deben cumplir las Personas Morales que participen en el procedimiento de selección correspondiente;
 
-c) El modelo de Contrato Mixto para la Asignación correspondiente, conforme a lo previsto en el
-
-### artículo 28
-de la presente Ley;
+c) El modelo de Contrato Mixto para la Asignación correspondiente, conforme a lo previsto en el artículo 28 de la presente Ley;
 
 d) La propuesta de términos técnicos y operativos para la Asignación para Desarrollo Mixto, y
 
@@ -611,10 +605,7 @@ El concesionario minero que realice la Exploración o Extracción de Hidrocarbur
 
 ### Artículo 57
 .- La Secretaría de Energía, a petición del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, debe contratar a Petróleos Mexicanos o a una empresa filial de Petróleos Mexicanos, para que a cambio de una contraprestación, comercialice los Hidrocarburos que el Estado obtenga como resultado de los Contratos para la Exploración y Extracción.
-Con independencia de lo dispuesto en el párrafo anterior, las facultades del Banco de México previstas en el
-
-### artículo 34
-de la Ley del Banco de México resultan aplicables a cualquier persona que comercialice Hidrocarburos que se obtengan como resultado de Asignaciones o Contratos para la Exploración y Extracción e ingrese divisas al país, así como a Petróleos Mexicanos y sus empresas filiales.
+Con independencia de lo dispuesto en el párrafo anterior, las facultades del Banco de México previstas en el artículo 34 de la Ley del Banco de México resultan aplicables a cualquier persona que comercialice Hidrocarburos que se obtengan como resultado de Asignaciones o Contratos para la Exploración y Extracción e ingrese divisas al país, así como a Petróleos Mexicanos y sus empresas filiales.
 
 ### Artículo 58
 .- Respecto de los Contratos para la Exploración y Extracción, corresponde a la Secretaría de Energía:
@@ -640,10 +631,7 @@ IX. Aprobar los planes de Exploración o de desarrollo para la Extracción, que 
 
 X. Administrar y supervisar, en materia técnica, los Contratos para la Exploración y Extracción. La administración y supervisión técnica de los contratos pueden realizarse con el apoyo de auditores o inspectores externos, mediante la contratación de los servicios correspondientes;
 
-XI. Autorizar la cesión del control corporativo o de las operaciones, en términos de lo establecido en el
-
-### artículo 40
-de esta Ley y en los lineamientos que al efecto emita;
+XI. Autorizar la cesión del control corporativo o de las operaciones, en términos de lo establecido en el artículo 40 de esta Ley y en los lineamientos que al efecto emita;
 
 XII. Apoyar técnicamente a la Secretaría de Hacienda y Crédito Público y al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo en el ejercicio de sus funciones, en términos de la Ley de Ingresos sobre Hidrocarburos;
 
@@ -672,10 +660,7 @@ De la información obtenida de las actividades de Reconocimiento y Exploración 
 ### Artículo 60
 .- Pertenece a la Nación la información geológica, geofísica, petrofísica, petroquímica y, en general, la que se obtenga o se haya obtenido de las actividades de Reconocimiento y Exploración Superficial, así como de Exploración y Extracción, llevadas a cabo por parte de Petróleos Mexicanos, o por cualquier persona.
 Corresponde a la Secretaría de Energía el acopio, resguardo, uso, administración y actualización, así como la publicación de la información referida en el presente artículo, por medio de la plataforma de información electrónica que establezca.
-Se prohíbe a Petróleos Mexicanos, así como a los Particulares, publicar, entregar o allegarse de información a la que se refiere el párrafo anterior, por medios distintos a los contemplados por esta Ley o sin contar con el consentimiento previo de la Secretaría de Energía. Lo anterior, sin perjuicio del aprovechamiento comercial de la información que sea obtenida por personas Asignatarias, Contratistas o Autorizadas, conforme a lo dispuesto en el
-
-### artículo 61
-de la presente Ley.
+Se prohíbe a Petróleos Mexicanos, así como a los Particulares, publicar, entregar o allegarse de información a la que se refiere el párrafo anterior, por medios distintos a los contemplados por esta Ley o sin contar con el consentimiento previo de la Secretaría de Energía. Lo anterior, sin perjuicio del aprovechamiento comercial de la información que sea obtenida por personas Asignatarias, Contratistas o Autorizadas, conforme a lo dispuesto en el artículo 61 de la presente Ley.
 
 ### Artículo 61
 .- La información que se obtenga de las actividades de Reconocimiento y Exploración Superficial debe entregarse a la Secretaría de Energía. Esta información incluye:
@@ -1120,10 +1105,7 @@ XIII. Incumplir con la entrega de la información que permita a la Secretaría d
 
 XIV. No contar con los equipos y programas informáticos para llevar los controles volumétricos referidos en el artículo 119, fracción XXII de este ordenamiento, o contando con éstos, no los mantenga en operación en todo momento, los altere, inutilice o destruya;
 
-XV. No contar con los controles volumétricos de Hidrocarburos o petrolíferos a que hace referencia el
-
-### artículo 119
-, fracción XXIII, de esta Ley;
+XV. No contar con los controles volumétricos de Hidrocarburos o petrolíferos a que hace referencia el artículo 119, fracción XXIII, de esta Ley;
 
 XVI. No generar o conservar los reportes de información de controles volumétricos de Hidrocarburos o petrolíferos a que hace referencia el artículo 119, fracción XXI, de esta Ley, de manera reiterada;
 
@@ -1483,10 +1465,7 @@ n) El incumplimiento a lo dispuesto en los artículos 133, fracciones I, II, IV,
 
 o) Realizar actividades de desarrollo y producción de Hidrocarburos sin el sistema de medición aprobado por la Secretaría de Energía, con multa de entre seis millones novecientas mil a trece millones setecientas cincuenta mil veces el valor diario de la Unidad de Medida y Actualización;
 
-p) Publicar, entregar o allegarse de información propiedad de la Nación a la que se refiere el
-
-### artículo 60
-de esta Ley, por medios distintos a los contemplados en la misma o sin contar con el consentimiento previo de la Secretaría de Energía con multa de entre ciento setenta y dos mil a quinientas dieciséis mil veces el valor diario de la Unidad de Medida y Actualización, y
+p) Publicar, entregar o allegarse de información propiedad de la Nación a la que se refiere el artículo 60 de esta Ley, por medios distintos a los contemplados en la misma o sin contar con el consentimiento previo de la Secretaría de Energía con multa de entre ciento setenta y dos mil a quinientas dieciséis mil veces el valor diario de la Unidad de Medida y Actualización, y
 
 q) Las demás violaciones al Título Segundo de esta Ley y a sus disposiciones reglamentarias, así como a la regulación, lineamientos y disposiciones administrativas competencia de la Secretaría de Energía, con multa de entre diecisiete mil doscientas a quinientas dieciséis mil veces el valor diario de la Unidad de Medida y Actualización;
 
@@ -1504,10 +1483,7 @@ c) Proporcionar información falsa, alterada o simular registros de contabilidad
 
 I. La Secretaría de Energía debe sancionar:
 
-a) La realización de actividades reguladas en el ámbito de su competencia, establecidas en el
-
-### artículo 76
-, fracción I de esta Ley, cuya adquisición lícita no se compruebe al momento de una verificación, con multa de entre ciento treinta y ocho mil a seiscientas noventa mil veces el valor diario de la Unidad de Medida y Actualización;
+a) La realización de actividades reguladas en el ámbito de su competencia, establecidas en el artículo 76, fracción I de esta Ley, cuya adquisición lícita no se compruebe al momento de una verificación, con multa de entre ciento treinta y ocho mil a seiscientas noventa mil veces el valor diario de la Unidad de Medida y Actualización;
 
 b) El incumplimiento de los términos y condiciones que se establezcan en los permisos que haya otorgado, con multa de entre ciento setenta y dos mil a seiscientas noventa mil veces el valor diario de la Unidad de Medida y Actualización;
 
@@ -1532,10 +1508,7 @@ Tratándose de las infracciones previstas en el inciso e) de esta fracción, en 
 
 II. La Comisión Nacional de Energía debe sancionar:
 
-a) La realización de actividades reguladas en el ámbito de su competencia, establecidas en el
-
-### artículo 76
-, fracción II de esta Ley, cuya adquisición lícita no se compruebe al momento de una verificación, con multas de entre cinto treinta y ocho mil a seiscientas noventa mil veces el valor diario de la Unidad de Medida y Actualización;
+a) La realización de actividades reguladas en el ámbito de su competencia, establecidas en el artículo 76, fracción II de esta Ley, cuya adquisición lícita no se compruebe al momento de una verificación, con multas de entre cinto treinta y ocho mil a seiscientas noventa mil veces el valor diario de la Unidad de Medida y Actualización;
 
 b) El incumplimiento de los términos y condiciones que se establezcan en los permisos que haya otorgado, con multa de entre treinta y cuatro mil a trescientas cuarenta y cuatro mil veces el valor diario de la Unidad de Medida y Actualización;
 
@@ -1763,10 +1736,7 @@ Las servidumbres legales de Hidrocarburos se pueden decretar por vía jurisdicci
 Los peritos que se designen por la autoridad jurisdiccional deben observar lo dispuesto en el artículo 136 de la presente Ley y, en lo conducente, lo señalado en las fracciones V a VII del artículo 133 de esta Ley.
 
 ### Artículo 142
-.- La contraprestación que corresponda por la servidumbre legal de Hidrocarburos que se decrete por vía administrativa, se determina con base en las propuestas que se hayan formulado conforme a la fracción II del
-
-### artículo 139
-de la presente Ley.
+.- La contraprestación que corresponda por la servidumbre legal de Hidrocarburos que se decrete por vía administrativa, se determina con base en las propuestas que se hayan formulado conforme a la fracción II del artículo 139 de la presente Ley.
 Tratándose de las demás modalidades de adquisición o afectación por figuras de derecho público, la indemnización respectiva se determina considerando lo dispuesto en el artículo 136 y, en su caso, los valores de los avalúos que se obtengan conforme a la fracción II del artículo 139 de esta Ley.
 
 ### Artículo 143
@@ -1833,10 +1803,7 @@ III. La identificación, caracterización, predicción y valoración de los posi
 IV. Las medidas de prevención y mitigación, y los planes de gestión social elaborados de forma participativa y propuestos por los interesados en desarrollar el proyecto. definir el monto de inversión anual de los planes de gestión social, así como los contenidos específicos, características y las modalidades de las manifestaciones de impacto social, así como el pago del derecho o aprovechamiento correspondiente, conforme a la normatividad aplicable.
 
 ### Artículo 153
-.- Las personas interesadas en obtener un permiso o una autorización para desarrollar proyectos en materia de Hidrocarburos, así como las personas Asignatarias y Contratistas deben presentar a la Secretaría de Energía, la solicitud de autorización de la Manifestación de Impacto Social del Sector Energético a que se refiere el
-
-### artículo 152
-de esta Ley, salvo en los casos siguientes:
+.- Las personas interesadas en obtener un permiso o una autorización para desarrollar proyectos en materia de Hidrocarburos, así como las personas Asignatarias y Contratistas deben presentar a la Secretaría de Energía, la solicitud de autorización de la Manifestación de Impacto Social del Sector Energético a que se refiere el artículo 152 de esta Ley, salvo en los casos siguientes:
 
 I. Los permisos de importación y exportación de Hidrocarburos y Petrolíferos se otorgan con base en la Ley de Comercio Exterior;
 

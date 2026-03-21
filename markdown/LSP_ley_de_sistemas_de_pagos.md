@@ -185,10 +185,7 @@ I. Deberá notificar por escrito al presunto infractor los hechos que se le impu
 II. El presunto infractor tendrá un plazo de cinco días hábiles bancarios, contado a partir del día hábil bancario siguiente al de la notificación correspondiente, para manifestar lo que a su interés convenga, ofrecer pruebas y formular alegatos por escrito.
 
 ### Artículo 26
-. En caso de que el presunto infractor no hiciere uso del derecho de audiencia citado en el
-
-### artículo 25
-precedente dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvirtuar los hechos imputados y las disposiciones que se consideren infringidas, el Banco de México impondrá la multa que corresponda en términos de los artículos 23 y 24 de esta Ley, debiendo tomar en cuenta, para la fijación de su importe, lo siguiente:
+. En caso de que el presunto infractor no hiciere uso del derecho de audiencia citado en el artículo 25 precedente dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvirtuar los hechos imputados y las disposiciones que se consideren infringidas, el Banco de México impondrá la multa que corresponda en términos de los artículos 23 y 24 de esta Ley, debiendo tomar en cuenta, para la fijación de su importe, lo siguiente:
 
 I. La gravedad de la infracción;
 
@@ -303,7 +300,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

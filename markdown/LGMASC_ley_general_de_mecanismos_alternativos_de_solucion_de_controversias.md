@@ -84,10 +84,7 @@ XX. Sistema de Convenios. Resguardo electrónico del registro de los convenios, 
 
 XXI. Sistema Nacional de Información de Convenios. Resguardo electrónico de la información contenida en el Sistema de Convenios de los Poderes Judiciales Federal o de las entidades federativas, a cargo del Consejo de la Judicatura Federal;
 
-XXII. Solución de Controversias en Línea. Procedimiento no jurisdiccional para llevar a cabo electrónicamente los mecanismos alternativos de solución de controversias enlistados en el
-
-### artículo 4
-de esta Ley; los que utilicen sistemas automatizados y sistemas de justicia descentralizada;
+XXII. Solución de Controversias en Línea. Procedimiento no jurisdiccional para llevar a cabo electrónicamente los mecanismos alternativos de solución de controversias enlistados en el artículo 4 de esta Ley; los que utilicen sistemas automatizados y sistemas de justicia descentralizada;
 
 XXIII. Suscripción. Es la firma del convenio por las partes y la persona facilitadora, y
 

@@ -428,10 +428,7 @@ La Secretaría deberá emitir una resolución fundada y motivada sobre este hech
 
 ### Artículo 49
 . Los refugiados y aquellos extranjeros que requieren protección complementaria de conformidad con los Tratados Internacionales de observancia obligatoria en México y demás ordenamientos aplicables, podrán residir en cualquier lugar de la República Mexicana debiendo informar a la Secretaría sus cambios de residencia, de conformidad con lo establecido en el reglamento.
-La Secretaría podrá determinar el lugar de residencia de solicitantes, refugiados o extranjeros que requieran o reciban protección complementaria, solamente cuando se emitan lineamientos conforme al
-
-### artículo 26
-de esta Ley.
+La Secretaría podrá determinar el lugar de residencia de solicitantes, refugiados o extranjeros que requieran o reciban protección complementaria, solamente cuando se emitan lineamientos conforme al artículo 26 de esta Ley.
 
 ### Artículo 50
 . Los refugiados y aquellos extranjeros que requieran protección complementaria de conformidad con los Tratados Internacionales de observancia obligatoria en México y demás ordenamientos aplicables, estarán exentos del pago de derechos por concepto de servicios migratorios.

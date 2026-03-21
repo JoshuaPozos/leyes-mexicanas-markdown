@@ -160,10 +160,7 @@ Fe de erratas al artículo DOF 28-08-1934
 .- La razón social se formará con el nombre de uno o más socios, y cuando en ella no figuren los de todos, se le añadirán las palabras y compañía u otras equivalentes.
 
 ### Artículo 28
-.- Cualquiera persona extraña a la sociedad que haga figurar o permita que figure su nombre en la razón social, quedará sujeta a la responsabilidad ilimitada y solidaria que establece el
-
-### artículo 25
-.
+.- Cualquiera persona extraña a la sociedad que haga figurar o permita que figure su nombre en la razón social, quedará sujeta a la responsabilidad ilimitada y solidaria que establece el artículo 25.
 
 ### Artículo 29
 .- El ingreso o separación de un socio no impedirá que continúe la misma razón social hasta entonces empleada; pero si el nombre del socio que se separe apareciere en la razón social, deberá agregarse a ésta la palabra “sucesores”.
@@ -426,10 +423,7 @@ Las acciones a que se refiere este inciso, computarán para la determinación de
 
 d) Implementen mecanismos a seguir en caso de que los accionistas no lleguen a acuerdos respecto de asuntos específicos.
 
-e) Amplíen, limiten o nieguen el derecho de suscripción preferente a que se refiere el
-
-### artículo 132
-de la Ley General de Sociedades Mercantiles.
+e) Amplíen, limiten o nieguen el derecho de suscripción preferente a que se refiere el artículo 132 de la Ley General de Sociedades Mercantiles.
 
 f) Permitan limitar la responsabilidad en los daños y perjuicios ocasionados por sus consejeros y funcionarios, derivados de los actos que ejecuten o por las decisiones que adopten, siempre que no se trate de actos dolosos o de mala fe, o bien, ilícitos conforme a ésta u otras leyes.
 Fracción adicionada DOF 13-06-2014
@@ -800,10 +794,7 @@ D) Un estado que muestre, debidamente explicados y clasificados, los resultados 
 E) Un estado que muestre los cambios en la situación financiera durante el ejercicio.
 F) Un estado que muestre los cambios en las partidas que integran el patrimonio social, acaecidos durante el ejercicio.
 G) Las notas que sean necesarias para completar o aclarar la información que suministren los estados anteriores.
-A la información anterior se agregará el informe de los comisarios a que se refiere la fracción IV del
-
-### artículo 166
-.
+A la información anterior se agregará el informe de los comisarios a que se refiere la fracción IV del artículo 166.
 Artículo reformado DOF 23-01-1981
 
 ### Artículo 173
@@ -819,10 +810,7 @@ Artículo derogado DOF 23-01-1981
 Artículo derogado DOF 23-01-1981
 
 ### Artículo 176
-.- La falta de presentación oportuna del informe a que se refiere el enunciado general del
-
-### artículo 172
-, será motivo para que la Asamblea General de Accionistas acuerde la remoción del Administrador o Consejo de Administración, o de los Comisarios, sin perjuicio de que se les exijan las responsabilidades en que respectivamente hubieren incurrido.
+.- La falta de presentación oportuna del informe a que se refiere el enunciado general del artículo 172, será motivo para que la Asamblea General de Accionistas acuerde la remoción del Administrador o Consejo de Administración, o de los Comisarios, sin perjuicio de que se les exijan las responsabilidades en que respectivamente hubieren incurrido.
 Artículo reformado DOF 23-01-1981
 
 ### Artículo 177
@@ -1153,20 +1141,14 @@ II.- Cobrar lo que se deba a la sociedad y pagar lo que ella deba;
 III.- Vender los bienes de la sociedad;
 IV.- Liquidar a cada socio su haber social;
 V.- Practicar el balance final de la liquidación, que deberá someterse a la discusión y aprobación de los socios, en la forma que corresponda, según la naturaleza de la sociedad.
-El balance final, una vez aprobado, se depositará en el Registro Público de Comercio; deberá publicarse en el sistema electrónico establecido por la Secretaría de Economía previsto en el
-
-### artículo 50
-Bis del Código de Comercio;
+El balance final, una vez aprobado, se depositará en el Registro Público de Comercio; deberá publicarse en el sistema electrónico establecido por la Secretaría de Economía previsto en el artículo 50 Bis del Código de Comercio;
 Párrafo reformado DOF 24-01-2018 VI.- Obtener del Registro Público de Comercio la cancelación de la inscripción del contrato social, una vez concluida la liquidación.
 Lo dispuesto en las fracciones anteriores no será aplicable cuando el nombramiento del liquidador se realice conforme al procedimiento del artículo 249 Bis 1 de esta Ley.
 Párrafo adicionado DOF 24-01-2018
 
 ### Artículo 243
 .- Ningún socio podrá exigir de los liquidadores la entrega total del haber que le corresponda; pero sí la parcial que sea compatible con los intereses de los acreedores de la sociedad, mientras no estén extinguidos sus créditos pasivos, o se haya depositado su importe si se presentare inconveniente para hacer su pago.
-El acuerdo sobre distribución parcial deberá publicarse en el sistema electrónico establecido por la Secretaría de Economía, y los acreedores tendrán el derecho de oposición en la forma y términos del
-
-### artículo 9o
-.
+El acuerdo sobre distribución parcial deberá publicarse en el sistema electrónico establecido por la Secretaría de Economía, y los acreedores tendrán el derecho de oposición en la forma y términos del artículo 9o.
 Párrafo reformado DOF 13-06-2014
 
 ### Artículo 244
@@ -1342,10 +1324,7 @@ Artículo derogado DOF 11-06-1992. Adicionado DOF 14-03-2016
 
 ### Artículo 265
 .- Todas las acciones señaladas en la fracción IX del artículo 264 deberán pagarse dentro del término de un año contado desde la fecha en que la sociedad quede inscrita en el Registro Público de Comercio.
-Cuando se haya suscrito y pagado la totalidad del capital social, la sociedad deberá publicar un aviso en el sistema electrónico establecido por la Secretaría de Economía en términos de lo dispuesto en el
-
-### artículo 50
-Bis del Código de Comercio.
+Cuando se haya suscrito y pagado la totalidad del capital social, la sociedad deberá publicar un aviso en el sistema electrónico establecido por la Secretaría de Economía en términos de lo dispuesto en el artículo 50 Bis del Código de Comercio.
 Artículo adicionado DOF 14-03-2016
 
 ### Artículo 266
@@ -1367,10 +1346,7 @@ I. Todo accionista tendrá derecho a participar en las decisiones de la sociedad
 
 II. Los accionistas tendrán voz y voto, las acciones serán de igual valor y conferirán los mismos derechos;
 
-III. Cualquier accionista podrá someter asuntos a consideración de la Asamblea, para que sean incluidos en el orden del día, siempre y cuando lo solicite al administrador por escrito o por medios electrónicos, si se acuerda un sistema de información de acuerdo con lo dispuesto en el
-
-### artículo 89
-del Código de Comercio;
+III. Cualquier accionista podrá someter asuntos a consideración de la Asamblea, para que sean incluidos en el orden del día, siempre y cuando lo solicite al administrador por escrito o por medios electrónicos, si se acuerda un sistema de información de acuerdo con lo dispuesto en el artículo 89 del Código de Comercio;
 
 IV. El administrador enviará a todos los accionistas el asunto sujeto a votación por escrito o por cualquier medio electrónico si se acuerda un sistema de información de acuerdo con lo dispuesto en el artículo 89 del Código de Comercio, señalando la fecha para emitir el voto respectivo;
 
@@ -1482,10 +1458,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 14 de marzo de 2016
 
 ### Artículo Único
-Se reforman el párrafo segundo del artículo 1o.; el párrafo primero del artículo 20; la denominación del Capítulo XIV para quedar como “De la sociedad por acciones simplificada”, los artículos 260, 261, 262, 263 y 264; se adicionan una fracción VII al artículo 1o.; un párrafo quinto al
-
-### artículo 2o
-., y se recorren los subsecuentes; un segundo párrafo al artículo 5o.; los artículos 265, 266, 267, 268, 269, 270, 271, 272 y 273 de la Ley General de Sociedades Mercantiles para quedar como sigue: ……..
+Se reforman el párrafo segundo del artículo 1o.; el párrafo primero del artículo 20; la denominación del Capítulo XIV para quedar como “De la sociedad por acciones simplificada”, los artículos 260, 261, 262, 263 y 264; se adicionan una fracción VII al artículo 1o.; un párrafo quinto al artículo 2o., y se recorren los subsecuentes; un segundo párrafo al artículo 5o.; los artículos 265, 266, 267, 268, 269, 270, 271, 272 y 273 de la Ley General de Sociedades Mercantiles para quedar como sigue: ……..
 
 ## Transitorio
 
@@ -1497,13 +1470,7 @@ Publicado en el Diario Oficial de la Federación el 24 de enero de 2018
 
 ### Artículo Único
 Se reforman los artículos 232, párrafos segundo, tercero y cuarto; 236, párrafo
-**segundo.** ; 238, párrafo primero; 242, segundo párrafo de la fracción V; se adicionan una fracción VI, al
-
-### artículo 229
-; un segundo párrafo al artículo 237; un tercer párrafo al artículo 238; un segundo párrafo al
-
-### artículo 240
-; un segundo párrafo al artículo 241; un segundo párrafo al artículo 242; un segundo párrafo al artículo 245; un segundo párrafo al artículo 246; un segundo párrafo al artículo 247; los artículos 249 Bis y 249 Bis 1 de la Ley General de Sociedades Mercantiles, para quedar como sigue: ………
+**segundo.** ; 238, párrafo primero; 242, segundo párrafo de la fracción V; se adicionan una fracción VI, al artículo 229; un segundo párrafo al artículo 237; un tercer párrafo al artículo 238; un segundo párrafo al artículo 240; un segundo párrafo al artículo 241; un segundo párrafo al artículo 242; un segundo párrafo al artículo 245; un segundo párrafo al artículo 246; un segundo párrafo al artículo 247; los artículos 249 Bis y 249 Bis 1 de la Ley General de Sociedades Mercantiles, para quedar como sigue: ………
 
 ## Transitorio
 
@@ -1521,12 +1488,10 @@ Se adicionan un párrafo segundo y el actual párrafo segundo pasa a ser el pár
 
 **Único.-** El presente Decreto entrará en vigor a los seis meses contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Sofía del Sagrario De León Maza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una Sociedad por Acciones Simplificada conforme a lo dispuesto en el
-
-### artículo 260
-de la Ley General de Sociedades Mercantiles.
-Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2022 PRIMERO. El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada corresponde a 1.0780.
-SEGUNDO. Para efectos de lo dispuesto en el segundo párrafo del artículo 260 de la Ley General de Sociedades Mercantiles, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de $6,783,425.40 (Seis millones setecientos ochenta y tres mil cuatrocientos veinticinco pesos 40/100 M.N.).
+ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una Sociedad por Acciones Simplificada conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles.
+Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2022
+**PRIMERO.** El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada corresponde a 1.0780.
+**SEGUNDO.** Para efectos de lo dispuesto en el segundo párrafo del artículo 260 de la Ley General de Sociedades Mercantiles, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de $6,783,425.40 (Seis millones setecientos ochenta y tres mil cuatrocientos veinticinco pesos 40/100 M.N.).
 
 ## TRANSITORIO
 
@@ -1547,34 +1512,28 @@ Se reforman los artículos 81, segundo párrafo; 186 y 194, primer párrafo; y s
 **Cuarto.-** Las sociedades constituidas antes de la reforma referida en el artículo tercero transitorio, deberán sujetarse a dicha disposición publicando las convocatorias en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio con los requisitos establecidos en dicha reforma, independientemente de que sus estatutos contemplen que se realizarán por otro medio.
 Ciudad de México, a 12 de septiembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen.
 Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de octubre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, conforme a lo dispuesto en el
-
-### artículo 260
-de la Ley General de Sociedades Mercantiles.
-Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2023 PRIMERO. El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, aplicable a 2024, corresponde a 1.0432.
-SEGUNDO. Para efectos informativos, se da a conocer que, como resultado de la aplicación del factor de actualización señalado en el numeral anterior a la cantidad prevista en el artículo Segundo del “Acuerdo por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles”, publicado en el Diario Oficial de la Federación el 27 de diciembre de 2022, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de $7,076,469.38 (siete millones setenta y seis mil cuatrocientos sesenta y nueve pesos 38/100 M.N.)
+ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles.
+Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2023
+**PRIMERO.** El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, aplicable a 2024, corresponde a 1.0432.
+**SEGUNDO.** Para efectos informativos, se da a conocer que, como resultado de la aplicación del factor de actualización señalado en el numeral anterior a la cantidad prevista en el artículo Segundo del “Acuerdo por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles”, publicado en el Diario Oficial de la Federación el 27 de diciembre de 2022, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de $7,076,469.38 (siete millones setenta y seis mil cuatrocientos sesenta y nueve pesos 38/100 M.N.)
 
 ## TRANSITORIO
 
 **ÚNICO.** El presente Acuerdo entrará en vigor el 1 de enero de 2024.
 Ciudad de México, a 19 de diciembre de 2023.- La Secretaria de Economía, Raquel Buenrostro Sánchez.- Rúbrica.
-ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, conforme a lo dispuesto en el
-
-### artículo 260
-de la Ley General de Sociedades Mercantiles.
-Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2024 PRIMERO. El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, aplicable a 2025, corresponde a 1.0455.
-SEGUNDO. Para efectos informativos, se da a conocer que, como resultado de la aplicación del factor de actualización señalado en el numeral anterior a la cantidad prevista en el artículo Segundo del "Acuerdo por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles", publicado en el Diario Oficial de la Federación el 28 de diciembre de 2023, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de $7,398,448.74 (siete millones trescientos noventa y ocho mil cuatrocientos cuarenta y ocho pesos 74/100 M.N.).
+ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles.
+Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2024
+**PRIMERO.** El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, aplicable a 2025, corresponde a 1.0455.
+**SEGUNDO.** Para efectos informativos, se da a conocer que, como resultado de la aplicación del factor de actualización señalado en el numeral anterior a la cantidad prevista en el artículo Segundo del "Acuerdo por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles", publicado en el Diario Oficial de la Federación el 28 de diciembre de 2023, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de $7,398,448.74 (siete millones trescientos noventa y ocho mil cuatrocientos cuarenta y ocho pesos 74/100 M.N.).
 
 ## TRANSITORIO
 
 **ÚNICO.** El presente Acuerdo entra en vigor el 1 de enero de 2025.
 Ciudad de México, a 26 de diciembre de 2024.- El Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.
-ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, conforme a lo dispuesto en el
-
-### artículo 260
-de la Ley General de Sociedades Mercantiles.
-Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2025 PRIMERO. El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, aplicable a 2026, corresponde a 1.0379.
-SEGUNDO. Para efectos informativos, se da a conocer que, como resultado de la aplicación del factor de actualización señalado en el numeral anterior a la cantidad prevista en el artículo Segundo del "Acuerdo por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles", publicado en el Diario Oficial de la Federación el 30 de diciembre de 2024, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de $7,678,849.94 (siete millones seiscientos setenta y ocho mil ochocientos cuarenta y nueve pesos 94/100 M.N.).
+ACUERDO por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles.
+Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2025
+**PRIMERO.** El factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada, aplicable a 2026, corresponde a 1.0379.
+**SEGUNDO.** Para efectos informativos, se da a conocer que, como resultado de la aplicación del factor de actualización señalado en el numeral anterior a la cantidad prevista en el artículo Segundo del "Acuerdo por el que se da a conocer el factor de actualización a los ingresos totales anuales de una sociedad por acciones simplificada conforme a lo dispuesto en el artículo 260 de la Ley General de Sociedades Mercantiles", publicado en el Diario Oficial de la Federación el 30 de diciembre de 2024, los ingresos totales anuales de una sociedad por acciones simplificada no podrán rebasar de $7,678,849.94 (siete millones seiscientos setenta y ocho mil ochocientos cuarenta y nueve pesos 94/100 M.N.).
 
 ## TRANSITORIO
 

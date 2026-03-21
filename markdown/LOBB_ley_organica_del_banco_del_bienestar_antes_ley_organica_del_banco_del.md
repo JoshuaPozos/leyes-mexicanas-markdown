@@ -163,10 +163,7 @@ I. De las operaciones que celebre la Institución con personas físicas o morale
 II. De las operaciones concertadas por la Institución con instituciones del extranjero privadas, gubernamentales o intergubernamentales.
 
 ### Artículo 11
-.- En adición a lo dispuesto en el penúltimo párrafo del artículo 383 de la Ley General de Títulos y Operaciones de Crédito, y como excepción a lo dispuesto en el inciso a) de la fracción XIX del
-
-### artículo 106
-de la Ley de Instituciones de Crédito, en los contratos de fideicomiso que celebre la Institución, inclusive en aquellos que constituya para cumplir obligaciones laborales a su cargo, ésta podrá actuar en el mismo negocio como fiduciaria y como fideicomisaria y realizar operaciones con la propia Institución en el cumplimiento de fideicomisos.
+.- En adición a lo dispuesto en el penúltimo párrafo del artículo 383 de la Ley General de Títulos y Operaciones de Crédito, y como excepción a lo dispuesto en el inciso a) de la fracción XIX del artículo 106 de la Ley de Instituciones de Crédito, en los contratos de fideicomiso que celebre la Institución, inclusive en aquellos que constituya para cumplir obligaciones laborales a su cargo, ésta podrá actuar en el mismo negocio como fiduciaria y como fideicomisaria y realizar operaciones con la propia Institución en el cumplimiento de fideicomisos.
 
 ## CAPÍTULO III
 Capital Social

@@ -13,10 +13,7 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 
 ### Artículo 1o
 . La presente Ley es reglamentaria de los artículos 25, 27 fracción XX y 28 de la Constitución Política de los Estados Unidos Mexicanos y es de observancia general en toda la República Mexicana.
-Sus disposiciones son de orden público y están dirigidas a coadyuvar al desarrollo rural del país, estableciendo acciones de impulso a la productividad y competitividad, como medidas de apoyo tendientes a reducir las asimetrías con respecto a otros países de conformidad con lo que establece el
-
-### artículo 13
-fracción IX y demás disposiciones de la Ley de Desarrollo Rural Sustentable.
+Sus disposiciones son de orden público y están dirigidas a coadyuvar al desarrollo rural del país, estableciendo acciones de impulso a la productividad y competitividad, como medidas de apoyo tendientes a reducir las asimetrías con respecto a otros países de conformidad con lo que establece el artículo 13 fracción IX y demás disposiciones de la Ley de Desarrollo Rural Sustentable.
 La aplicación de esta Ley corresponde a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 ### Artículo 2o

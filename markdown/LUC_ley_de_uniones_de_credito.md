@@ -74,10 +74,7 @@ Si las autoridades no hacen el requerimiento de información dentro del plazo co
 Salvo disposición expresa en contrario, los plazos para que las autoridades contesten empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
 
 ### Artículo 10
-.- El plazo a que se refiere el artículo anterior no será aplicable a las promociones relacionadas con las autorizaciones relativas a la constitución, fusión, escisión y liquidación de las uniones. En estos casos no podrá exceder de ciento ochenta días el plazo para que las autoridades administrativas resuelvan lo que corresponda, siendo aplicables las demás reglas a que se refiere el
-
-### artículo 9
-de esta Ley.
+.- El plazo a que se refiere el artículo anterior no será aplicable a las promociones relacionadas con las autorizaciones relativas a la constitución, fusión, escisión y liquidación de las uniones. En estos casos no podrá exceder de ciento ochenta días el plazo para que las autoridades administrativas resuelvan lo que corresponda, siendo aplicables las demás reglas a que se refiere el artículo 9 de esta Ley.
 
 ### Artículo 11
 .- Las autoridades administrativas competentes, a solicitud de parte interesada, podrán ampliar los plazos establecidos en la presente Ley, sin que dicha ampliación exceda en ningún caso de la mitad del plazo previsto originalmente en las disposiciones aplicables, cuando así lo exija el asunto y no tengan conocimiento de que se perjudica a terceros en sus derechos.
@@ -338,10 +335,7 @@ En el evento de que la escisión produzca la extinción de la unión escindente,
 TITULO TERCERO De las operaciones CAPITULO I Disposiciones generales
 
 ### Artículo 39
-.- Las uniones estarán clasificadas en tres niveles de operación conforme al capital mínimo suscrito y pagado exigido por esta Ley, y podrán realizar las operaciones en términos de lo previsto en el
-
-### artículo 40
-siguiente.
+.- Las uniones estarán clasificadas en tres niveles de operación conforme al capital mínimo suscrito y pagado exigido por esta Ley, y podrán realizar las operaciones en términos de lo previsto en el artículo 40 siguiente.
 
 ### Artículo 40
 .- Las uniones, en los términos de su autorización y dependiendo del nivel de operaciones que les corresponda, sólo podrán realizar las siguientes operaciones:
@@ -492,10 +486,7 @@ III. El importe total de las inversiones en plantas industriales, sociedades com
 Cuando tengan saldos insolutos provenientes de créditos destinados a la adquisición de plantas industriales, sociedades comerciales o de servicios, o empresas propietarias de dichas plantas, las uniones no podrán acordar devoluciones de capital con derecho a retiro.
 
 IV. El importe total del valor de los activos en operaciones de arrendamiento puro a las que se refiere la fracción XXV del artículo 40, no podrá exceder del cien por ciento del capital contable de la unión.
-Fracción adicionada DOF 10-01-2014 Lo dispuesto en las fracciones I y III anteriores, es sin perjuicio de lo previsto en la fracción V del
-
-### artículo 103
-de esta Ley.
+Fracción adicionada DOF 10-01-2014 Lo dispuesto en las fracciones I y III anteriores, es sin perjuicio de lo previsto en la fracción V del artículo 103 de esta Ley.
 CAPITULO III Reglas especiales
 
 ### Artículo 50
@@ -597,10 +588,7 @@ Párrafo adicionado DOF 10-01-2014
 ### Artículo 62
 .- Las operaciones con personas relacionadas que deban ser sometidas a la aprobación del consejo de administración, se presentarán por conducto y con la opinión favorable del comité de crédito respectivo. De otorgarse la aprobación, la unión deberá presentar a la Comisión, copia del acuerdo, certificada por el secretario del consejo de administración, en el que conste la aprobación del consejo e informarle del otorgamiento y, en su caso renovación, así como la forma de pago o extinción de estos créditos, en los términos que señale la propia Comisión.
 Las operaciones con personas a que se refiere el artículo 61 de esta Ley cuyo importe en su conjunto no exceda del equivalente en moneda nacional a 500,000 unidades de inversión o el cinco por ciento del capital social pagado de la unión, el que sea menor, no requerirán de la aprobación del consejo de administración; sin embargo, deberán hacerse de su conocimiento y poner a su disposición toda la información relativa a las citadas operaciones de manera agregada, al igual que a la asamblea general de accionistas.
-El consejo de administración de las instituciones podrá delegar sus facultades a un comité de consejeros, cuya función será exclusivamente la aprobación de operaciones con personas relacionadas, en aquellas operaciones donde el importe no exceda de dos millones de unidades de inversión. Dicho comité se integrará por un mínimo de cuatro y un máximo de siete consejeros, de los cuales, por lo menos, una tercera parte deberán ser consejeros independientes, en términos de lo dispuesto en el
-
-### artículo 27
-de la presente Ley.
+El consejo de administración de las instituciones podrá delegar sus facultades a un comité de consejeros, cuya función será exclusivamente la aprobación de operaciones con personas relacionadas, en aquellas operaciones donde el importe no exceda de dos millones de unidades de inversión. Dicho comité se integrará por un mínimo de cuatro y un máximo de siete consejeros, de los cuales, por lo menos, una tercera parte deberán ser consejeros independientes, en términos de lo dispuesto en el artículo 27 de la presente Ley.
 Las resoluciones del comité requerirán del acuerdo de las tres cuartas partes de los miembros presentes en la sesión.
 El citado comité deberá presentar un informe de su gestión al consejo de administración con la periodicidad que éste le indique, sin que ésta exceda de ciento ochenta días.
 La suma total de los montos de crédito dispuestos, más las líneas de apertura de crédito irrevocable otorgados a personas relacionadas, no podrá exceder del cien por ciento del capital contable de la unión.
@@ -815,10 +803,7 @@ La Comisión formulará directamente a las uniones los requerimientos de informa
 La contratación de los servicios o comisiones a que se refiere este artículo, no eximirá a las uniones, ni a sus directivos, delegados fiduciarios, empleados y demás personas que ocupen un empleo, cargo o comisión en la unión, de la obligación de observar lo establecido en el presente ordenamiento legal y en las disposiciones de carácter general que emanen de éste.
 
 ### Artículo 95
-.- La Comisión podrá, previo derecho de audiencia de las uniones, suspender o limitar de manera parcial la celebración de las operaciones activas, pasivas y de servicios a que se refiere el
-
-### artículo 40
-de esta Ley, cuando dichas operaciones se ubiquen en cualquiera de los supuestos siguientes:
+.- La Comisión podrá, previo derecho de audiencia de las uniones, suspender o limitar de manera parcial la celebración de las operaciones activas, pasivas y de servicios a que se refiere el artículo 40 de esta Ley, cuando dichas operaciones se ubiquen en cualquiera de los supuestos siguientes:
 
 I. No se cuente con la infraestructura o controles internos necesarios para realizar las operaciones y servicios respectivos, conforme a las disposiciones aplicables;
 
@@ -1353,13 +1338,7 @@ Párrafo adicionado DOF 10-01-2014 La violación a las disposiciones a que se re
 Párrafo reformado DOF 10-01-2014 Los servidores públicos de la Secretaría y de la Comisión, las uniones, sus miembros del consejo de administración, administradores, directores generales y demás directivos, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 ### Artículo 130
-.- Los delitos previstos en esta Ley sólo admitirán comisión dolosa. La acción penal en los delitos previstos en esta Ley, perseguibles por petición de la Secretaría, por la unión ofendida, o por quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría o la unión o quien tenga interés jurídico tengan conocimiento del delito y del probable responsable, y si no tienen ese conocimiento, en cinco años que se computarán conforme a las reglas establecidas en el
-
-### Artículo 131
-.- Serán sancionados con prisión de dos a siete años todo aquél que habiendo sido removido, suspendido o inhabilitado, por resolución firme de la Comisión, en términos de lo previsto en el
-
-### artículo 93
-de esta Ley, continúe desempeñando las funciones respecto de las cuales fue removido o suspendido o bien, ocupe un empleo, cargo o comisión, dentro del sistema financiero mexicano, a pesar de encontrarse suspendido o inhabilitado para ello.
+.- Los delitos previstos en esta Ley sólo admitirán comisión dolosa. La acción penal en los delitos previstos en esta Ley, perseguibles por petición de la Secretaría, por la unión ofendida, o por quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría o la unión o quien tenga interés jurídico tengan conocimiento del delito y del probable responsable, y si no tienen ese conocimiento, en cinco años que se computarán conforme a las reglas establecidas en el Artículo 131.- Serán sancionados con prisión de dos a siete años todo aquél que habiendo sido removido, suspendido o inhabilitado, por resolución firme de la Comisión, en términos de lo previsto en el artículo 93 de esta Ley, continúe desempeñando las funciones respecto de las cuales fue removido o suspendido o bien, ocupe un empleo, cargo o comisión, dentro del sistema financiero mexicano, a pesar de encontrarse suspendido o inhabilitado para ello.
 
 ### Artículo 132
 .- Las penas previstas en esta Ley, se reducirán en un tercio cuando se acredite haber reparado el daño o haber resarcido el perjuicio ocasionado.
@@ -1477,19 +1456,10 @@ ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman, a
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014 UNIONES DE CRÉDITO
 
 ### ARTÍCULO NOVENO
-Se REFORMAN el inciso a) de la fracción IV del artículo 3o; el artículo 20; el
-
-### artículo 21
-; el tercer párrafo del artículo 22; las fracciones I a IV del artículo 23; el primer párrafo del
-
-### artículo 26
-; el artículo 30; el quinto párrafo del artículo 38; las fracciones I, VII y XXV y el cuarto párrafo del artículo 40; el artículo 45; el segundo y tercer párrafos del artículo 78; los incisos c) y d) de la fracción II del primer párrafo del artículo 80; el primero y tercer párrafos del artículo 93; la fracción III y el segundo párrafo del artículo 97; el artículo 99; la fracción I del artículo 103; las fracciones I, inciso e) y III, inciso a) del primer párrafo y segundo párrafo del artículo 104; fracción I del artículo 105; el primero y segundo párrafos del artículo 108; las fracciones I, II, y III, incisos a), d) y e) del artículo 110; el artículo 112; el segundo párrafo del artículo 113; el artículo 114; el artículo 116; la fracción I, el párrafo segundo, el encabezado y los incisos iii. y iv. del párrafo tercero y el párrafo octavo del artículo 129; se ADICIONAN un segundo párrafo al artículo 23; el artículo 44 bis; un tercer párrafo con sus incisos a. y b. a la fracción II y la fracción III del artículo 47; un tercer párrafo, pasando los actuales párrafos tercero, cuarto y quinto, a ser los párrafos cuarto, quinto y sexto del artículo 48; una fracción IV al artículo 49; un párrafo primero, pasando el actual primero a ser segundo, y los párrafos tercero y cuarto, al artículo 61; los párrafos primero a quinto, pasando los actuales párrafos primero a tercero, a ser los párrafos sexto, séptimo y octavo al artículo 62; un cuarto párrafo al artículo 78; un inciso e) a la fracción II del primer párrafo del
-
-### artículo 80
-; el artículo 98 Bis; un segundo párrafo a la fracción I del artículo 103; un inciso g) a la fracción I, del artículo 104; un segundo párrafo al artículo 106; un segundo párrafo al inciso b) de la fracción III, y una fracción IV con sus incisos a) al f) al artículo 110; un Capítulo II Bis “De los programas de autocorrección” al Título Sexto que comprenderá de los artículos 119 Bis a 119 Bis 3; los numerales v y vi al tercer párrafo, los párrafos octavo, noveno y décimo, pasando los actuales párrafos octavo y noveno a ser los párrafos décimo primero y décimo segundo del artículo 129 y se DEROGAN el cuarto párrafo del
-
-### artículo 18
-y el segundo párrafo del artículo 22 todos de la Ley de Uniones de Crédito, para quedar como sigue: ……… Disposiciones Transitorias
+Se REFORMAN el inciso a) de la fracción IV del artículo 3o; el artículo 20; el artículo 21; el tercer párrafo del artículo 22; las fracciones I a IV del artículo 23; el primer párrafo del artículo 26; el artículo 30; el quinto párrafo del artículo 38; las fracciones I, VII y XXV y el cuarto párrafo del artículo 40; el artículo 45; el segundo y tercer párrafos del artículo 78; los incisos c) y d) de la fracción II del primer párrafo del artículo 80; el primero y tercer párrafos del artículo 93; la fracción III y el segundo párrafo del artículo 97; el artículo 99; la fracción I del artículo 103; las fracciones I, inciso e) y III, inciso a) del primer párrafo y segundo párrafo del artículo 104; fracción I del artículo 105; el primero y segundo párrafos del artículo 108; las fracciones I, II, y III, incisos a), d) y e) del artículo 110; el artículo 112; el
+**segundo.** párrafo del artículo 113; el artículo 114; el artículo 116; la fracción I, el párrafo segundo, el encabezado y los incisos iii. y iv. del párrafo tercero y el párrafo octavo del artículo 129; se ADICIONAN un segundo párrafo al artículo 23; el artículo 44 bis; un tercer párrafo con sus incisos a. y b. a la fracción II y la fracción III del artículo 47; un tercer párrafo, pasando los actuales párrafos tercero, cuarto y quinto, a ser los párrafos cuarto, quinto y sexto del artículo 48; una fracción IV al artículo 49; un párrafo primero, pasando el actual primero a ser segundo, y los párrafos tercero y cuarto, al artículo 61; los párrafos
+**primero.** a quinto, pasando los actuales párrafos primero a tercero, a ser los párrafos sexto, séptimo y
+**octavo.** al artículo 62; un cuarto párrafo al artículo 78; un inciso e) a la fracción II del primer párrafo del artículo 80; el artículo 98 Bis; un segundo párrafo a la fracción I del artículo 103; un inciso g) a la fracción I, del artículo 104; un segundo párrafo al artículo 106; un segundo párrafo al inciso b) de la fracción III, y una fracción IV con sus incisos a) al f) al artículo 110; un Capítulo II Bis “De los programas de autocorrección” al Título Sexto que comprenderá de los artículos 119 Bis a 119 Bis 3; los numerales v y vi al tercer párrafo, los párrafos octavo, noveno y décimo, pasando los actuales párrafos octavo y noveno a ser los párrafos décimo primero y décimo segundo del artículo 129 y se DEROGAN el cuarto párrafo del artículo 18 y el segundo párrafo del artículo 22 todos de la Ley de Uniones de Crédito, para quedar como sigue: ……… Disposiciones Transitorias
 
 ### ARTÍCULO DÉCIMO
 En relación con las modificaciones a que se refieren el Artículo Noveno de este Decreto, se estará a lo siguiente:
@@ -1535,7 +1505,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

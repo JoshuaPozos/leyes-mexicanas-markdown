@@ -10,21 +10,12 @@ ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, a su
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 
 ## TÍTULO I — DISPOSICIONES GENERALES
-
-### ARTÍCULO 1o
-.- La presente Ley es de interés público y de observancia general en todo el país. Tiene por objeto establecer las bases y procedimientos para la constitución, organización y funcionamiento de las organizaciones ganaderas en el país, que se integren para la protección de los intereses de sus miembros; así como los criterios que sustenten el desarrollo y mejoramiento de los procesos productivos y de comercialización de los productos ganaderos.
+ARTÍCULO 1o.- La presente Ley es de interés público y de observancia general en todo el país. Tiene por objeto establecer las bases y procedimientos para la constitución, organización y funcionamiento de las organizaciones ganaderas en el país, que se integren para la protección de los intereses de sus miembros; así como los criterios que sustenten el desarrollo y mejoramiento de los procesos productivos y de comercialización de los productos ganaderos.
 La aplicación e interpretación administrativa de las disposiciones contenidas en este ordenamiento corresponde al Ejecutivo Federal por conducto de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
-Párrafo reformado DOF 09-04-2012
-
-### ARTÍCULO 2o
-.- En lo no previsto por esta Ley, se aplicará supletoriamente la Ley Federal de Procedimiento Administrativo y la legislación civil o mercantil que corresponda.
-
-### ARTÍCULO 3o
-.- El Ejecutivo Federal, a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, coordinará sus acciones con las demás dependencias y entidades de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y municipios, en el ámbito de sus correspondientes atribuciones para la debida aplicación de esta Ley.
+Párrafo reformado DOF 09-04-2012 ARTÍCULO 2o.- En lo no previsto por esta Ley, se aplicará supletoriamente la Ley Federal de Procedimiento Administrativo y la legislación civil o mercantil que corresponda.
+ARTÍCULO 3o.- El Ejecutivo Federal, a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, coordinará sus acciones con las demás dependencias y entidades de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y municipios, en el ámbito de sus correspondientes atribuciones para la debida aplicación de esta Ley.
 Párrafo reformado DOF 09-04-2012 Las organizaciones ganaderas a las que se refiere esta Ley, serán consideradas de interés público, por lo que tanto el Gobierno Federal como los gobiernos de las entidades federativas y municipios, les darán todo su apoyo para la realización del objeto señalado en el artículo 5o. de este ordenamiento.
-
-### ARTÍCULO 4o
-.- Para los efectos de esta Ley se entiende por:
+ARTÍCULO 4o.- Para los efectos de esta Ley se entiende por:
 Página
 
 I. Actividad ganadera: Conjunto de acciones para la explotación racional de especies animales orientadas a la producción de carne, leche, huevo, miel, piel, lana y otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano;
@@ -64,9 +55,7 @@ XVI. Unión ganadera regional especializada: organización que agrupa a cuando m
 Página
 
 ## CAPÍTULO I — Del objeto
-
-### ARTÍCULO 5o
-.- Las organizaciones ganaderas a que se refiere esta Ley tendrán por objeto:
+ARTÍCULO 5o.- Las organizaciones ganaderas a que se refiere esta Ley tendrán por objeto:
 
 I. Promover y fomentar entre sus asociados la adopción de tecnologías adecuadas para el desarrollo sustentable y sostenible y la explotación racional de las diversas especies ganaderas;
 
@@ -100,59 +89,34 @@ XIV. Establecer fideicomisos cuyo objeto sea el de promover el consumo de produc
 XV. Las demás que se deriven de su naturaleza, de sus estatutos y las que les señalen otros ordenamientos legales.
 
 ## CAPÍTULO II — De la constitución, organización y registro
-
-### ARTÍCULO 6o
-.- Los ganaderos del país tendrán en todo momento el derecho de asociarse libre y voluntariamente, de conformidad al artículo noveno Constitucional.
+ARTÍCULO 6o.- Los ganaderos del país tendrán en todo momento el derecho de asociarse libre y voluntariamente, de conformidad al artículo noveno Constitucional.
 Las asociaciones ganaderas locales y las uniones ganaderas regionales podrán ser de carácter general o especializado.
-
-### ARTÍCULO 7o
-.- La Secretaría registrará la constitución, organización y funcionamiento de las organizaciones ganaderas, previo cumplimiento de los requisitos establecidos en la presente Ley, sus Reglamentos y demás disposiciones aplicables.
+ARTÍCULO 7o.- La Secretaría registrará la constitución, organización y funcionamiento de las organizaciones ganaderas, previo cumplimiento de los requisitos establecidos en la presente Ley, sus Reglamentos y demás disposiciones aplicables.
 Las organizaciones ganaderas a que se refiere esta Ley gozarán de personalidad jurídica, una vez que queden registradas.
 Las organizaciones ganaderas constituidas en los términos de esta Ley, tienen a su favor la presunción de ser representativas de la producción pecuaria de la localidad o región en que operen.
-
-### ARTÍCULO 8o
-.- Las asociaciones ganaderas locales generales estarán integradas por lo menos, por treinta ganaderos organizados en unidades de producción individuales o colectivas, criadores de cuando menos cinco vientres bovinos o su equivalencia en otras especies, conforme lo disponga el reglamento de esta Ley.
+ARTÍCULO 8o.- Las asociaciones ganaderas locales generales estarán integradas por lo menos, por treinta ganaderos organizados en unidades de producción individuales o colectivas, criadores de cuando menos cinco vientres bovinos o su equivalencia en otras especies, conforme lo disponga el reglamento de esta Ley.
 Las asociaciones ganaderas locales especializadas estarán integradas por lo menos, por diez ganaderos criadores de cualquier especie-producto animal determinada, conforme lo establezca el reglamento y de acuerdo con las equivalencias determinadas en el mismo.
 Los productores podrán solicitar en cualquier momento, su ingreso a las asociaciones ganaderas locales, generales o especializadas, en términos del reglamento de esta Ley.
-
-### ARTÍCULO 9o
-.- Las uniones ganaderas regionales generales o estatales y especializadas, se constituirán cuando se encuentren agrupadas y funcionando cuando menos, con el treinta por ciento de las asociaciones ganaderas locales generales o especializadas, de una región ganadera o de un estado, y tengan como mínimo tres meses de funcionamiento, contado a partir de la fecha de su registro por parte de la Secretaría.
-
-### ARTÍCULO 10
-.- La Confederación Nacional de Organizaciones Ganaderas, denominación reservada exclusivamente para la organización ganadera nacional registrada por la Secretaría, se integrará con las uniones ganaderas regionales, generales o estatales y especializadas, y residirá en la capital de la República.
+ARTÍCULO 9o.- Las uniones ganaderas regionales generales o estatales y especializadas, se constituirán cuando se encuentren agrupadas y funcionando cuando menos, con el treinta por ciento de las asociaciones ganaderas locales generales o especializadas, de una región ganadera o de un estado, y tengan como mínimo tres meses de funcionamiento, contado a partir de la fecha de su registro por parte de la Secretaría.
+ARTÍCULO 10.- La Confederación Nacional de Organizaciones Ganaderas, denominación reservada exclusivamente para la organización ganadera nacional registrada por la Secretaría, se integrará con las uniones ganaderas regionales, generales o estatales y especializadas, y residirá en la capital de la República.
 Página Los asuntos del conocimiento de la Confederación Nacional de Organizaciones Ganaderas, se resolverán mediante el sistema de votación que establezca el reglamento de esta Ley; cada unión ganadera representará dos votos que se ejercerán por conducto de sus delegados.
-
-### ARTÍCULO 11
-.- Sin perjuicio de las organizaciones a las que se refiere la fracción IX del artículo 4o. de este ordenamiento, se podrán constituir organizaciones nacionales de productores por rama especializada o por especie producto, las cuales gozarán de autonomía en términos del presente ordenamiento y tendrán en todo tiempo el derecho de ingresar a la Confederación Nacional de Organizaciones Ganaderas, de conformidad con el reglamento de esta Ley.
-
-### ARTÍCULO 12
-.- La Confederación Nacional de Organizaciones Ganaderas en representación de todas las uniones ganaderas regionales, promoverá ante el Gobierno Federal, los proyectos, iniciativas o gestiones que tiendan a cumplir las finalidades que esta Ley determina.
+ARTÍCULO 11.- Sin perjuicio de las organizaciones a las que se refiere la fracción IX del artículo 4o. de este ordenamiento, se podrán constituir organizaciones nacionales de productores por rama especializada o por especie producto, las cuales gozarán de autonomía en términos del presente ordenamiento y tendrán en todo tiempo el derecho de ingresar a la Confederación Nacional de Organizaciones Ganaderas, de conformidad con el reglamento de esta Ley.
+ARTÍCULO 12.- La Confederación Nacional de Organizaciones Ganaderas en representación de todas las uniones ganaderas regionales, promoverá ante el Gobierno Federal, los proyectos, iniciativas o gestiones que tiendan a cumplir las finalidades que esta Ley determina.
 Las asociaciones ganaderas locales y uniones ganaderas regionales, generales o estatales y especializadas, podrán acudir en representación de sus afiliados ante los gobiernos municipal y estatal, respectivamente, según el domicilio de las mismas y de la autoridad ante quien proceda gestionar.
-
-### ARTÍCULO 13
-.- La Secretaría abrirá un registro de las organizaciones ganaderas que se constituyan de acuerdo con esta Ley, en el cual se asentarán el Acta Constitutiva y los Estatutos de las mismas, el número e identidad de sus afiliados, las de liquidación y disolución y en general, los actos y documentos que modifiquen sus inscripciones. Asimismo llevará a cabo el registro de los fierros marcas y tatuajes que hayan sido autorizados en los municipios por la delegación correspondiente, en los términos que establezca el reglamento.
+ARTÍCULO 13.- La Secretaría abrirá un registro de las organizaciones ganaderas que se constituyan de acuerdo con esta Ley, en el cual se asentarán el Acta Constitutiva y los Estatutos de las mismas, el número e identidad de sus afiliados, las de liquidación y disolución y en general, los actos y documentos que modifiquen sus inscripciones. Asimismo llevará a cabo el registro de los fierros marcas y tatuajes que hayan sido autorizados en los municipios por la delegación correspondiente, en los términos que establezca el reglamento.
 La movilización de ganado que se efectúe en la República Mexicana con motivos de transmisión de propiedad o con cualquier otro propósito, se llevarán a cabo siempre y cuando:
 A) Se acredite debidamente la propiedad con la factura de compraventa correspondiente;
 B) Se obtenga la certificación de la Asociación Local que exista en el municipio y;
 C) Se compruebe que se ha cumplido con los requisitos zoosanitarios.
 Los Estatutos de las organizaciones ganaderas en los términos que establezca el reglamento deberán consignar, cuando menos, normas relativas a la integración, facultades y funcionamiento de sus órganos; al patrimonio de la organización; a los sistemas de elección de sus dirigentes, a la duración de los cargos directivos y las incompatibilidades para su desempeño, así como las relativas a los derechos y obligaciones de sus asociados.
-
-### ARTÍCULO 14
-.- Las organizaciones ganaderas a que se refiere esta Ley, como organizaciones de consulta y colaboración del Estado, estarán obligadas a proporcionar todos los informes que les solicite la Secretaría, relativos a censos ganaderos, padrón de productores y otras consultas y servicios en materia ganadera.
-
-### ARTÍCULO 15
-.- Es obligación de la Secretaría proporcionar los servicios técnicos, estímulos y demás apoyos para el fomento y desarrollo de la ganadería y de las organizaciones ganaderas que se constituyan de acuerdo a esta Ley; así como de la Secretaría de Hacienda y Crédito Público apoyar a las organizaciones ganaderas constituidas en términos de esta Ley para recaudar las cuotas especiales de sus agremiados que estén destinadas a promover el consumo de productos, el consumo de productos y subproductos pecuarios, la racionalización de sus excedentes temporales y el fortalecimiento del sector pecuario para mantener y expandir los usos domésticos y exteriores de la producción nacional.
-Página
-
-### ARTÍCULO 16
-.- Las organizaciones a que se refiere esta Ley, no tendrán más propósitos que los establecidos en el artículo 5o. de este ordenamiento; no serán de carácter lucrativo aunque realicen actividades remuneradas sobre el proceso económico de la producción ganadera a favor del sostenimiento de la asociación, procurándose en todo tiempo la proporcionalidad de la distribución de los recursos entre las diversas organizaciones.
+ARTÍCULO 14.- Las organizaciones ganaderas a que se refiere esta Ley, como organizaciones de consulta y colaboración del Estado, estarán obligadas a proporcionar todos los informes que les solicite la Secretaría, relativos a censos ganaderos, padrón de productores y otras consultas y servicios en materia ganadera.
+ARTÍCULO 15.- Es obligación de la Secretaría proporcionar los servicios técnicos, estímulos y demás apoyos para el fomento y desarrollo de la ganadería y de las organizaciones ganaderas que se constituyan de acuerdo a esta Ley; así como de la Secretaría de Hacienda y Crédito Público apoyar a las organizaciones ganaderas constituidas en términos de esta Ley para recaudar las cuotas especiales de sus agremiados que estén destinadas a promover el consumo de productos, el consumo de productos y subproductos pecuarios, la racionalización de sus excedentes temporales y el fortalecimiento del sector pecuario para mantener y expandir los usos domésticos y exteriores de la producción nacional.
+Página ARTÍCULO 16.- Las organizaciones a que se refiere esta Ley, no tendrán más propósitos que los establecidos en el artículo 5o. de este ordenamiento; no serán de carácter lucrativo aunque realicen actividades remuneradas sobre el proceso económico de la producción ganadera a favor del sostenimiento de la asociación, procurándose en todo tiempo la proporcionalidad de la distribución de los recursos entre las diversas organizaciones.
 Tampoco podrán, bajo pena de disolución, obligar a sus asociados a la realización de actividades políticas partidistas ni a la adopción de militancia partidista alguna.
 La participación política de sus agremiados en lo individual, se realizará libre y voluntariamente en los términos de lo señalado por los artículos 35, fracción III y 41, fracción I, parte final del segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## CAPÍTULO III — De la disolución
-
-### ARTÍCULO 17
-.- Las organizaciones ganaderas se disolverán:
+ARTÍCULO 17.- Las organizaciones ganaderas se disolverán:
 
 I. Por acuerdo de las dos terceras partes de sus asociados en asamblea general ordinaria que deberá ser convocada especialmente para este efecto, o por la imposibilidad de seguir realizando los objetivos que señala esta Ley y sus estatutos;
 
@@ -162,43 +126,21 @@ III. Porque el número de asociados llegue a ser inferior al mínimo necesario q
 
 IV. En caso de que la Secretaría emita resolución que revoque su registro, por las causas previstas en esta Ley, o por resolución judicial que haya causado ejecutoria.
 Disuelta la organización se procederá a su liquidación, en los términos legales aplicables.
-
-### ARTÍCULO 18
-.- La liquidación estará a cargo de al menos un representante de la Secretaría, uno de la Confederación Nacional de Organizaciones Ganaderas y otro de la organización ganadera de que se trate, conforme al procedimiento que establezca el reglamento.
+ARTÍCULO 18.- La liquidación estará a cargo de al menos un representante de la Secretaría, uno de la Confederación Nacional de Organizaciones Ganaderas y otro de la organización ganadera de que se trate, conforme al procedimiento que establezca el reglamento.
 
 ## TÍTULO III — DE LAS SANCIONES ADMINISTRATIVAS Y DEL RECURSO DE REVISIÓN
-
-### ARTÍCULO 19
-.- Para la imposición de las sanciones previstas en esta Ley, su Reglamento y demás disposiciones aplicables, la Secretaría se sujetará a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
-
-### ARTÍCULO 20
-.- A quien por sí o por interpósita persona, haga uso indebido de las distintas denominaciones de las organizaciones ganaderas a las que se refiere esta Ley, se impondrá multa de quinientos a mil días de salario mínimo general diario vigente en el Distrito Federal al momento de cometer la infracción. Igual sanción se impondrá a quien se ostente como representante de una organización ganadera, sin contar con el registro correspondiente.
+ARTÍCULO 19.- Para la imposición de las sanciones previstas en esta Ley, su Reglamento y demás disposiciones aplicables, la Secretaría se sujetará a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
+ARTÍCULO 20.- A quien por sí o por interpósita persona, haga uso indebido de las distintas denominaciones de las organizaciones ganaderas a las que se refiere esta Ley, se impondrá multa de quinientos a mil días de salario mínimo general diario vigente en el Distrito Federal al momento de cometer la infracción. Igual sanción se impondrá a quien se ostente como representante de una organización ganadera, sin contar con el registro correspondiente.
 En caso de reincidencia se duplicará la multa impuesta por la infracción anterior, sin que su monto exceda del doble del máximo.
-Página
-
-### ARTÍCULO 21
-.- Las organizaciones ganaderas que a juicio de la Secretaría, no desempeñen con diligencia las actividades de coadyuvancia en materia de sanidad animal previstas en la fracción VIII del
-
-### artículo 5o
-. de esta Ley, se les impondrá multa de ochocientos a mil seiscientos días de salario mínimo general diario vigente en el Distrito Federal. La reincidencia será motivo suficiente para que la Secretaría les cancele su registro.
-
-### ARTÍCULO 22
-.- A aquellas organizaciones ganaderas que incumplan lo estipulado por el artículo 14 de esta Ley, se les impondrá multa de trescientos a seiscientos días de salario mínimo general diario vigente en el Distrito Federal.
-
-### ARTÍCULO 23
-.- Los afectados por los actos y resoluciones de la Secretaría que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión en términos de la Ley Federal de Procedimiento Administrativo.
+Página ARTÍCULO 21.- Las organizaciones ganaderas que a juicio de la Secretaría, no desempeñen con diligencia las actividades de coadyuvancia en materia de sanidad animal previstas en la fracción VIII del artículo 5o. de esta Ley, se les impondrá multa de ochocientos a mil seiscientos días de salario mínimo general diario vigente en el Distrito Federal. La reincidencia será motivo suficiente para que la Secretaría les cancele su registro.
+ARTÍCULO 22.- A aquellas organizaciones ganaderas que incumplan lo estipulado por el artículo 14 de esta Ley, se les impondrá multa de trescientos a seiscientos días de salario mínimo general diario vigente en el Distrito Federal.
+ARTÍCULO 23.- Los afectados por los actos y resoluciones de la Secretaría que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión en términos de la Ley Federal de Procedimiento Administrativo.
 
 ## TÍTULO IV — DE LA SOLUCIÓN DE CONTROVERSIAS
-
-### ARTÍCULO 24
-.- Los conflictos que se susciten con motivo de la organización y funcionamiento de las organizaciones a que se refiere esta Ley, serán resueltos en términos de sus estatutos.
-
-### ARTÍCULO 25
-.- Tratándose de conflictos entre asociaciones ganaderas locales o entre éstas y las uniones ganaderas regionales, la Secretaría intervendrá a petición de parte en los términos de su reglamento.
+ARTÍCULO 24.- Los conflictos que se susciten con motivo de la organización y funcionamiento de las organizaciones a que se refiere esta Ley, serán resueltos en términos de sus estatutos.
+ARTÍCULO 25.- Tratándose de conflictos entre asociaciones ganaderas locales o entre éstas y las uniones ganaderas regionales, la Secretaría intervendrá a petición de parte en los términos de su reglamento.
 Cuando la controversia se origine por causas vinculadas con la Confederación Nacional de Organizaciones Ganaderas, la competencia para resolverlos será de la Secretaría, de acuerdo con las normas reglamentarias aplicables.
-
-### ARTÍCULO 26
-.- Las resoluciones que en estos casos emita la Secretaría, serán definitivas y no admitirán ulterior recurso administrativo.
+ARTÍCULO 26.- Las resoluciones que en estos casos emita la Secretaría, serán definitivas y no admitirán ulterior recurso administrativo.
 
 ## TRANSITORIOS
 

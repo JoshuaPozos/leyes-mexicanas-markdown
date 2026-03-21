@@ -708,9 +708,7 @@ México, D.F., a 14 de diciembre de 2004.- Sen. Diego Fernández de Cevallos Ram
 Marcos Morales Torres, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Cámaras Empresariales y sus Confederaciones y del Código de Comercio.
 Publicado en el Diario Oficial de la Federación el 9 de junio de 2009
-
-### Artículo primero
-Se reforman la fracción XI, del artículo 16 y se adiciona una fracción VIII, recorriéndose las fracciones VIII a X, manteniendo su contenido para quedar como fracciones IX, X y XI del artículo 22 de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue: ……….
+**Artículo primero.** Se reforman la fracción XI, del artículo 16 y se adiciona una fracción VIII, recorriéndose las fracciones VIII a X, manteniendo su contenido para quedar como fracciones IX, X y XI del artículo 22 de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue: ……….
 
 ## TRANSITORIO
 
@@ -722,10 +720,7 @@ DECRETO por el que se adiciona la fracción XIV al artículo 7 de la Ley de Cám
 Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
 
 ### Artículo Único
-Se adiciona la fracción XIV, recorriéndose la actual XIV para pasar a ser XV, al
-
-### artículo 7
-de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue: ……..
+Se adiciona la fracción XIV, recorriéndose la actual XIV para pasar a ser XV, al artículo 7 de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue: ……..
 
 ## Transitorio
 

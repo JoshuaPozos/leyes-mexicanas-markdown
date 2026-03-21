@@ -479,10 +479,7 @@ El artículo 112, fracción III de la Ley de Instituciones de Crédito vigente h
 Las instituciones de banca múltiple contarán con un plazo de 120 días naturales a partir de la fecha de publicación del presente Decreto para modificar sus estatutos sociales y los títulos representativos de su capital social, conforme a lo previsto en el mismo. Tratándose de la modificación de los estatutos sociales, éstos deberán someterse a la aprobación de la Secretaría de Hacienda y Crédito Público.
 
 ### ARTÍCULO DÉCIMO SÉPTIMO
-Las instituciones de crédito que tengan vínculos de negocio establecidos con personas que a la entrada en vigor del presente Decreto, se encuentren realizando operaciones al amparo del artículo 92, tendrán un plazo que no podrá exceder de dos meses para adecuarse a lo señalado en dicho artículo y en las disposiciones de carácter general a que se refiere el
-
-### artículo 46
-Bis 1 de esta Ley, a partir del día siguiente al de la entrada en vigor de dichas disposiciones.
+Las instituciones de crédito que tengan vínculos de negocio establecidos con personas que a la entrada en vigor del presente Decreto, se encuentren realizando operaciones al amparo del artículo 92, tendrán un plazo que no podrá exceder de dos meses para adecuarse a lo señalado en dicho artículo y en las disposiciones de carácter general a que se refiere el artículo 46 Bis 1 de esta Ley, a partir del día siguiente al de la entrada en vigor de dichas disposiciones.
 
 ### ARTÍCULO DÉCIMO OCTAVO
 Las instituciones que a la entrada en vigor de este Decreto, se ubiquen en alguno de los supuestos previstos en las fracciones III y IV del artículo 45-P, deberán de ajustarse a lo dispuesto en el Capítulo IV de esta Ley, en un plazo que no podrá exceder de doce meses contados a partir de dicha fecha.

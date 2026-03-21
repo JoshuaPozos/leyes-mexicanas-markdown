@@ -51,10 +51,7 @@ VIII. Realizar avalúos que tendrán la misma fuerza probatoria que las leyes as
 IX. Practicar operaciones de fideicomiso y llevar a cabo mandatos y comisiones relativos a su fin, cuando por ley se le asigne a la Sociedad esa encomienda; cuando se trate de actos que coadyuven a la consecución de su objetivo o bien cuando la propia Sociedad constituya fideicomisos para cumplir obligaciones laborales a su cargo;
 
 X. Actuar como representante común de tenedores de títulos de crédito representativos de financiamiento a la vivienda;
-Fracción reformada DOF 22-06-2006 X Bis. Realizar aportaciones para la constitución de instituciones de seguros de los ramos de crédito a la vivienda y garantía financiera o invertir en el capital social de éstas, en los términos del
-
-### artículo 24
-Bis de esta Ley;
+Fracción reformada DOF 22-06-2006 X Bis. Realizar aportaciones para la constitución de instituciones de seguros de los ramos de crédito a la vivienda y garantía financiera o invertir en el capital social de éstas, en los términos del artículo 24 Bis de esta Ley;
 Fracción adicionada DOF 22-06-2006 X Ter. Invertir, con la previa autorización de la Secretaría de Hacienda y Crédito Público, en el capital social de las empresas que le presten servicios complementarios o auxiliares en la administración o en la realización del objeto de la propia Sociedad o realizar aportaciones para la constitución de este tipo de empresas, en cuyo caso éstas no serán consideradas de participación estatal y, por lo tanto, no estarán sujetas a las disposiciones aplicables a las entidades de la Administración Pública Federal Paraestatal, así como contratar sus servicios sin que resulte aplicable para tal efecto la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público;
 Fracción adicionada DOF 22-06-2006. Reformada DOF 20-08-2008, 10-01-2014 X Quáter. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
 Fracción adicionada DOF 10-01-2014
@@ -411,10 +408,7 @@ Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto po
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica Publicado en el Diario Oficial de la Federación el 22 de junio de 2006
 
 ### ARTÍCULO PRIMERO
-Se REFORMAN los artículos 1o.; 2o., primer párrafo; 4o, fracciones IV, V, VI y X; 14; 15, primer párrafo; 16; 17, primer y segundo párrafo y fracciones I a IV; 18, primer y último párrafo y fracciones II, IV y V; 20, fracciones I, III y V; 22, fracción X; 23, primer y segundo párrafo; 24; 29 y 31, primer, tercer y último párrafo, y se ADICIONAN las fracciones X Bis y X Ter al artículo 4o; las fracciones V y VI y tercer y cuarto párrafos al artículo 17; las fracciones I Bis, I Ter, III Bis y VI y un tercer párrafo al
-
-### artículo 18
-; las fracciones I Bis, I Ter y IV Bis al artículo 20; la fracción II Bis al artículo 22; cuatro párrafos al final del artículo 23; el artículo 23 Bis; y un Capítulo Cuarto Bis, denominado "De la participación de la Sociedad en Instituciones de Seguros", que comprende los artículos 24 Bis; 24 Ter y 24 Quáter a la Ley Orgánica de Sociedad Hipotecaria Federal, para quedar como sigue: ..........
+Se REFORMAN los artículos 1o.; 2o., primer párrafo; 4o, fracciones IV, V, VI y X; 14; 15, primer párrafo; 16; 17, primer y segundo párrafo y fracciones I a IV; 18, primer y último párrafo y fracciones II, IV y V; 20, fracciones I, III y V; 22, fracción X; 23, primer y segundo párrafo; 24; 29 y 31, primer, tercer y último párrafo, y se ADICIONAN las fracciones X Bis y X Ter al artículo 4o; las fracciones V y VI y tercer y cuarto párrafos al artículo 17; las fracciones I Bis, I Ter, III Bis y VI y un tercer párrafo al artículo 18; las fracciones I Bis, I Ter y IV Bis al artículo 20; la fracción II Bis al artículo 22; cuatro párrafos al final del artículo 23; el artículo 23 Bis; y un Capítulo Cuarto Bis, denominado "De la participación de la Sociedad en Instituciones de Seguros", que comprende los artículos 24 Bis; 24 Ter y 24 Quáter a la Ley Orgánica de Sociedad Hipotecaria Federal, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -428,10 +422,7 @@ DECRETO por el que se reforma y adiciona diversas disposiciones de la Ley Orgán
 Publicado en el Diario Oficial de la Federación el 20 de agosto de 2008
 
 ### ARTÍCULO PRIMERO
-Se REFORMAN los artículos 2o. primer párrafo; 4o. fracción X Ter; 5o.; 14 fracción I, inciso e); 17 fracción I; 20, fracción VI; 22 fracciones I y II Bis; 23 quinto y sexto párrafos; 23 Bis fracción I, incisos d) y e); 24 Quáter primer párrafo, y 29; se ADICIONAN la fracciones V Bis y V Ter al
-
-### artículo 4o
-.; un cuarto párrafo al artículo 16 que recorre el actual al quinto párrafo; las fracciones VII, VIII con los incisos a), b) y c), IX y X al artículo 20; un segundo párrafo a la fracción I y las fracciones II Bis 1 y III Bis al artículo 22; el inciso f) a la fracción I y la fracción II Bis al artículo 23 Bis, y el artículo 33 de la Ley Orgánica de Sociedad Hipotecaria Federal, para quedar como sigue: ..........
+Se REFORMAN los artículos 2o. primer párrafo; 4o. fracción X Ter; 5o.; 14 fracción I, inciso e); 17 fracción I; 20, fracción VI; 22 fracciones I y II Bis; 23 quinto y sexto párrafos; 23 Bis fracción I, incisos d) y e); 24 Quáter primer párrafo, y 29; se ADICIONAN la fracciones V Bis y V Ter al artículo 4o.; un cuarto párrafo al artículo 16 que recorre el actual al quinto párrafo; las fracciones VII, VIII con los incisos a), b) y c), IX y X al artículo 20; un segundo párrafo a la fracción I y las fracciones II Bis 1 y III Bis al artículo 22; el inciso f) a la fracción I y la fracción II Bis al artículo 23 Bis, y el artículo 33 de la Ley Orgánica de Sociedad Hipotecaria Federal, para quedar como sigue: ..........
 
 ### ARTÍCULO SEGUNDO
 Se deroga el artículo Noveno Transitorio del Decreto por el cual se expidió la Ley Orgánica de Sociedad Hipotecaria Federal, publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, para quedar como sigue: ..........

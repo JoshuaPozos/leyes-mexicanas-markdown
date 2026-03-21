@@ -1301,10 +1301,7 @@ II. Con el equivalente de 50 a 50000 veces la Unidad de Medida y Actualización 
 III. Con el equivalente de 200 a 75000 veces la Unidad de Medida y Actualización a quien cometa alguna de las infracciones señaladas en las fracciones III y XXV del artículo 122 de la presente Ley.
 Fracción adicionada DOF 19-12-2016. Reformada DOF 16-07-2025 La imposición de las multas se realizará con base en la Unidad de Medida y Actualización al momento de cometerse la infracción.
 Párrafo reformado DOF 19-12-2016 En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
-La autoridad correspondiente podrá otorgar al infractor la opción a que se refiere el párrafo final del
-
-### artículo 173
-de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, si éste se obliga a reparar el daño cometido mediante el restablecimiento de las condiciones anteriores a su comisión o a realizar una inversión equivalente en los términos que se establezcan, en cuyo caso se observará lo previsto en esa disposición.
+La autoridad correspondiente podrá otorgar al infractor la opción a que se refiere el párrafo final del artículo 173 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, si éste se obliga a reparar el daño cometido mediante el restablecimiento de las condiciones anteriores a su comisión o a realizar una inversión equivalente en los términos que se establezcan, en cuyo caso se observará lo previsto en esa disposición.
 
 ### Artículo 128
 . En el caso de que se imponga el decomiso como sanción, el infractor estará obligado a cubrir los gastos que se hubieren realizado para la protección, conservación, liberación o el cuidado, según corresponda, de los ejemplares de vida silvestre que hubiesen sido asegurados. Las cantidades respectivas tendrán el carácter de crédito fiscal y serán determinadas por la Secretaría en las resoluciones que concluyan los procedimientos de inspección correspondientes.
@@ -1374,10 +1371,7 @@ Se adiciona el artículo 60 Bis 1 a la Ley General de Vida Silvestre, para queda
 **PRIMERO.-** El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 **SEGUNDO.-** Se derogan todas las disposiciones legales que contravengan al mismo.
 México, D.F., a 27 de abril de 2006.- Sen. Carlos Chaurand Arzate, Vicepresidente.- Dip. Marcela González Salas P., Presidenta.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-DECRETO por el que se adiciona un artículo 60 TER; y se adiciona un segundo párrafo al
-
-### artículo 99
-; todos ellos de la Ley General de Vida Silvestre.
+DECRETO por el que se adiciona un artículo 60 TER; y se adiciona un segundo párrafo al artículo 99; todos ellos de la Ley General de Vida Silvestre.
 Publicado en el Diario Oficial de la Federación el 1º de febrero de 2007
 
 ### Artículo Primero
@@ -1410,10 +1404,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 6 de abril de 2010
 
 ### ARTÍCULO SEGUNDO
-Se reforman las actuales fracciones XXIII y XL del artículo 3o. y se adicionan una fracción XVII, recorriéndose en su orden las demás fracciones al artículo 3o.; un artículo 27 Bis y un
-
-### artículo 27
-Bis 1 todos de la Ley General de Vida Silvestre, para quedar como sigue: ……….
+Se reforman las actuales fracciones XXIII y XL del artículo 3o. y se adicionan una fracción XVII, recorriéndose en su orden las demás fracciones al artículo 3o.; un artículo 27 Bis y un artículo 27 Bis 1 todos de la Ley General de Vida Silvestre, para quedar como sigue: ……….
 
 ## TRANSITORIO
 
@@ -1539,10 +1530,7 @@ DECRETO por el que se adiciona un párrafo segundo al artículo 87 Bis 2 de la L
 Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2013
 
 ### Artículo Segundo
-Se adicionan las fracciones X, XXVI y XLVII, recorriéndose las subsecuentes, al
-
-### artículo 3o
-. de la Ley General de Vida Silvestre, para quedar como sigue: ………
+Se adicionan las fracciones X, XXVI y XLVII, recorriéndose las subsecuentes, al artículo 3o. de la Ley General de Vida Silvestre, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -1559,10 +1547,7 @@ Se reforman los artículos 27 y 78; y se adiciona un artículo 78 Bis a la Ley G
 
 **Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **Segundo.** El Ejecutivo Federal contará con un plazo de dieciocho meses para armonizar el Reglamento respectivo.
-**Tercero.** La Secretaría emitirá guías técnicas que establezcan los requerimientos mínimos necesarios para el manejo de cada especie en confinamiento de acuerdo a lo establecido en el último párrafo del
-
-### artículo 78
-Bis, en un plazo de dieciocho meses.
+**Tercero.** La Secretaría emitirá guías técnicas que establezcan los requerimientos mínimos necesarios para el manejo de cada especie en confinamiento de acuerdo a lo establecido en el último párrafo del artículo 78 Bis, en un plazo de dieciocho meses.
 México, D. F., a 21 de noviembre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma el primer párrafo del artículo 62 de la Ley General de Vida Silvestre.
 Publicado en el Diario Oficial de la Federación el 19 de marzo de 2014
@@ -1622,10 +1607,7 @@ DECRETO por el que se reforma y adiciona el artículo 127 de la Ley General de V
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
 
 ### Artículo Único
-Se reforman las fracciones I y II, el segundo párrafo y se adiciona una fracción III al
-
-### artículo 127
-de la Ley General de Vida Silvestre, para quedar como sigue: ……….
+Se reforman las fracciones I y II, el segundo párrafo y se adiciona una fracción III al artículo 127 de la Ley General de Vida Silvestre, para quedar como sigue: ……….
 
 ## Transitorio
 
@@ -1633,14 +1615,12 @@ de la Ley General de Vida Silvestre, para quedar como sigue: ……….
 Ciudad de México, a 8 de noviembre de 2016.- Sen. Pablo Escudero Morales, Presidente.- Dip.
 Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Itzel Sarahí Ríos de la Mora, Secretaria.- Dip.
 Isaura Ivanova Pool Pech, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
-
-### Artículo 5o
-. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Sociedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
+DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Sociedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Décimo Cuarto
-Se reforman los artículos 6o.; 7o., primer párrafo y fracción III; 8o.; 9o., párrafo cuarto; 10, primer párrafo y fracciones VI, VIII, IX y X; 11, primer párrafo, fracción VIII y el párrafo tercero; 13; 16, párrafo tercero; 29 y 89, párrafo quinto de la Ley General de Vida Silvestre, para quedar como sigue: ……….
+Se reforman los artículos 6o.; 7o., primer párrafo y fracción III; 8o.; 9o., párrafo cuarto; 10, primer párrafo y fracciones VI, VIII, IX y X; 11, primer párrafo, fracción VIII y el párrafo
+**tercero.** ; 13; 16, párrafo tercero; 29 y 89, párrafo quinto de la Ley General de Vida Silvestre, para quedar como sigue: ……….
 
 ## Transitorio
 
@@ -1678,24 +1658,22 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
 **Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del
-
-### artículo 88
-del presente Decreto.
+**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman y adicionan los artículos 47 Bis 4; 60 Bis; 122 y 127 de la Ley General de Vida Silvestre.
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 ### Artículo Único
-Se reforman el párrafo primero y la fracción III del artículo 47 Bis 4; el artículo 60 Bis; la fracción XVII del artículo 122; la fracción III del artículo 127, y se adicionan la fracción VIII al párrafo primero del artículo 47 Bis 4 y, la fracción XXV al artículo 122, de la Ley General de Vida Silvestre, para quedar como sigue: …….
+Se reforman el párrafo primero y la fracción III del artículo 47 Bis 4; el artículo 60 Bis; la fracción XVII del artículo 122; la fracción III del artículo 127, y se adicionan la fracción VIII al párrafo
+**primero.** del artículo 47 Bis 4 y, la fracción XXV al artículo 122, de la Ley General de Vida Silvestre, para quedar como sigue: …….
 
 ## Transitorios
 

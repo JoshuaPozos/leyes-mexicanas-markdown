@@ -1148,10 +1148,7 @@ Se considera reincidente al infractor que incurra más de una vez en conductas q
 .- En los casos en que la gravedad de la infracción lo amerite, la Secretaría solicitará a las autoridades, que hubieren otorgado, la suspensión, revocación o cancelación de las concesiones, licencias, permisos y autorizaciones en general para la realización de las actividades que hayan dado lugar a la comisión de la infracción.
 
 ### Artículo 111
-.- Sin perjuicio de la obligación de remediar el sitio a que se refiere esta Ley, la autoridad correspondiente podrá otorgar al infractor la opción a que se refieren el artículo 168 y el párrafo final del
-
-### artículo 173
-de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+.- Sin perjuicio de la obligación de remediar el sitio a que se refiere esta Ley, la autoridad correspondiente podrá otorgar al infractor la opción a que se refieren el artículo 168 y el párrafo final del artículo 173 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido previamente a que la Secretaría imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 En la resolución administrativa correspondiente, se señalarán o, en su caso, adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor.
 Párrafo adicionado DOF 22-05-2006 Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias e irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo.
@@ -1387,10 +1384,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2014
 
 ### ARTÍCULO PRIMERO
-Se reforman la fracción VIII del artículo 19, la fracción III del artículo 28 y el
-
-### artículo 98
-; se adicionan una fracción X al artículo 19, recorriéndose la subsecuente en su orden y dos párrafos al artículo 100, a la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue: ………
+Se reforman la fracción VIII del artículo 19, la fracción III del artículo 28 y el artículo 98; se adicionan una fracción X al artículo 19, recorriéndose la subsecuente en su orden y dos párrafos al artículo 100, a la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue: ………
 
 ## TRANSITORIOS
 
@@ -1423,10 +1417,7 @@ Se reforma el artículo 47 de la Ley General para la Prevención y Gestión Inte
 **Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 **Segundo.** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría realizará las reformas a que haya lugar al Reglamento de la presente Ley.
 México, D.F., a 8 de abril de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Graciela Saldaña Fraire, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de mayo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
-
-### Artículo 5o
-. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
+DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Décimo Quinto
@@ -1501,10 +1492,7 @@ DECRETO por el que se expide la Ley General de Economía Circular y, se reforman
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2026
 
 ### Artículo Tercero
-Se reforman los artículos 2, fracción XII; 5, fracciones II, XXIV y XLIII; 35, fracción I; 95; y 106, fracción II, y se adiciona un párrafo tercero, recorriéndose en su orden el último párrafo, al
-
-### artículo 25
-, de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue: …….
+Se reforman los artículos 2, fracción XII; 5, fracciones II, XXIV y XLIII; 35, fracción I; 95; y 106, fracción II, y se adiciona un párrafo tercero, recorriéndose en su orden el último párrafo, al artículo 25, de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue: …….
 
 ## Transitorios
 

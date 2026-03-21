@@ -159,10 +159,7 @@ II.- Formular los lineamientos generales a los que se sujetarán las actividades
 III.- Dictar las medidas específicas que juzgue convenientes para el mejor desempeño de las funciones de la Comisión;
 
 IV. Distribuir y delegar funciones en los términos del Reglamento Interno;
-Fracción reformada DOF 26-11-2001 V.- Presentar anualmente a los Poderes de la Unión, un informe de actividades, en los términos del
-
-### artículo 52
-de esta Ley.
+Fracción reformada DOF 26-11-2001 V.- Presentar anualmente a los Poderes de la Unión, un informe de actividades, en los términos del artículo 52 de esta Ley.
 Fracción reformada DOF 26-11-2001, 30-06-2006 VI.- Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
 VII. Aprobar y emitir las recomendaciones públicas y acuerdos que resulten de las investigaciones realizadas por los visitadores;
@@ -581,14 +578,8 @@ ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman di
 Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ### ARTÍCULO ÚNICO
-Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al
-
-### artículo 47
-de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
-Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del
-
-### artículo 51
-de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
+Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
+Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
 
 ## TRANSITORIO
 
@@ -666,10 +657,7 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
 Publicado en el Diario Oficial de la Federación el 15 de junio de 2012
 
 ### ARTÍCULO PRIMERO
-Se reforman el párrafo primero del artículo 4o, y el párrafo primero del
-
-### artículo 5o
-; se adiciona la fracción XV del artículo 6o; y se deroga la fracción III del artículo 7o; se adicionan las fracciones X y XI recorriéndose la siguiente fracción del artículo 15; y se adiciona un tercer párrafo con cuatro incisos al artículo 46, y un artículo 73 bis a la Ley de la Comisión Nacional de los Derechos Humanos, para quedar como sigue: ……….
+Se reforman el párrafo primero del artículo 4o, y el párrafo primero del artículo 5o; se adiciona la fracción XV del artículo 6o; y se deroga la fracción III del artículo 7o; se adicionan las fracciones X y XI recorriéndose la siguiente fracción del artículo 15; y se adiciona un tercer párrafo con cuatro incisos al artículo 46, y un artículo 73 bis a la Ley de la Comisión Nacional de los Derechos Humanos, para quedar como sigue: ……….
 
 ## TRANSITORIO
 
@@ -801,10 +789,7 @@ Se reforman el segundo párrafo del artículo 10 y el primer párrafo del artíc
 **Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
-Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo Cuadragésimo Quinto.- Se reforman la fracción V del artículo 9o; y la fracción VIII del
-
-### artículo 24
-Quinquies de la Ley de la Comisión Nacional de los Derechos Humanos, para quedar como sigue: ………
+Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo Cuadragésimo Quinto.- Se reforman la fracción V del artículo 9o; y la fracción VIII del artículo 24 Quinquies de la Ley de la Comisión Nacional de los Derechos Humanos, para quedar como sigue: ………
 
 ## Transitorios
 

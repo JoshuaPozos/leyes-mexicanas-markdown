@@ -332,10 +332,7 @@ Párrafo reformado DOF 07-06-2024
 Artículo reformado DOF 07-06-2024
 
 ### Artículo 26
-. Se impondrá pena de 20 a 40 años de prisión y de 2 mil a 20 mil días multa, al padre, madre, tutor o persona que tiene autoridad sobre quien se ejerce la conducta que entregue o reciba de forma ilegal, ilícita, irregular o incluso mediante adopción, a una persona menor de dieciocho años con el fin de abusar o explotar de ella sexualmente o cualquiera de las formas de explotación a que se refiere el
-
-### artículo 10
-de la presente Ley.
+. Se impondrá pena de 20 a 40 años de prisión y de 2 mil a 20 mil días multa, al padre, madre, tutor o persona que tiene autoridad sobre quien se ejerce la conducta que entregue o reciba de forma ilegal, ilícita, irregular o incluso mediante adopción, a una persona menor de dieciocho años con el fin de abusar o explotar de ella sexualmente o cualquiera de las formas de explotación a que se refiere el artículo 10 de la presente Ley.
 En todos los casos en que se acredite esta conducta se declarará nula la adopción.
 
 ### Artículo 27
@@ -446,10 +443,7 @@ El Ministerio Público Federal o de las entidades federativas podrá tomar medid
 Párrafo reformado DOF 19-01-2018
 
 ### Artículo 46
-. La responsabilidad de las personas jurídicas será determinada conforme a lo señalado
-
-### Artículo 47
-. Los sentenciados por los delitos a que se refiere la presente Ley no tendrán derecho a los beneficios de la libertad preparatoria, sustitución, conmutación de la pena o cualquier otro que implique reducción de la condena.
+. La responsabilidad de las personas jurídicas será determinada conforme a lo señalado Artículo 47. Los sentenciados por los delitos a que se refiere la presente Ley no tendrán derecho a los beneficios de la libertad preparatoria, sustitución, conmutación de la pena o cualquier otro que implique reducción de la condena.
 Quienes colaboren proporcionando datos fehacientes o suficientes elementos de convicción a la autoridad en la investigación y persecución de otros miembros de la delincuencia organizada o de bandas de personas dedicadas a la comisión de delitos en materia de trata de personas y para la localización y sobre Readaptación Social de Sentenciados, tendrán derecho a los beneficios citados en el primer PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS párrafo del presente artículo, siempre que concurran todas las condiciones que a continuación se enuncian:
 
 I. El sentenciado haya cometido uno de los delitos sancionados con una pena que no exceda de cuatro años de prisión;
@@ -1490,10 +1484,7 @@ Se adiciona un segundo párrafo a la fracción II del artículo 62 de la Ley Gen
 
 **ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 11 de febrero de 2014.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
-
-### Artículo 5o
-. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
+PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Cuarto
@@ -1564,10 +1555,7 @@ PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DECRETO por el
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
 
 ### Artículo Único
-Se reforman los artículos 4o., fracción XVII, incisos a), b) y d); 10, fracción VII; 18; 24, tercer párrafo; 25; 42, fracciones VII y VIII; 51, primer párrafo y fracción I; 62, fracciones IV, V, primer párrafo y VI; 67, fracción I; 70; 90, fracción VI; 92, fracción I; 114, fracciones III y VI; se adicionan las fracciones XII, XIII y XIV al artículo 3o.; un segundo y tercer párrafos al artículo 14; una fracción IV y un último párrafo al artículo 21; un segundo párrafo al artículo 35; un tercer párrafo a la fracción V del
-
-### artículo 62
-, de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y Para la Protección y Asistencia a las Víctimas de Estos Delitos, para quedar como sigue: …….
+Se reforman los artículos 4o., fracción XVII, incisos a), b) y d); 10, fracción VII; 18; 24, tercer párrafo; 25; 42, fracciones VII y VIII; 51, primer párrafo y fracción I; 62, fracciones IV, V, primer párrafo y VI; 67, fracción I; 70; 90, fracción VI; 92, fracción I; 114, fracciones III y VI; se adicionan las fracciones XII, XIII y XIV al artículo 3o.; un segundo y tercer párrafos al artículo 14; una fracción IV y un último párrafo al artículo 21; un segundo párrafo al artículo 35; un tercer párrafo a la fracción V del artículo 62, de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y Para la Protección y Asistencia a las Víctimas de Estos Delitos, para quedar como sigue: …….
 
 ## Transitorios
 
@@ -1586,7 +1574,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

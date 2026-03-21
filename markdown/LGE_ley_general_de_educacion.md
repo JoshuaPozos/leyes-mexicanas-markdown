@@ -64,10 +64,7 @@ Además de impartir educación en los términos establecidos en la Constitución
 
 I. Universal, al ser un derecho humano que corresponde a todas las personas por igual, por lo que:
 
-a) Extenderá sus beneficios sin discriminación alguna, de conformidad con lo dispuesto en el
-
-### artículo 1o
-. de la Constitución Política de los Estados Unidos Mexicanos, y
+a) Extenderá sus beneficios sin discriminación alguna, de conformidad con lo dispuesto en el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos, y
 
 b) Tendrá especial énfasis en el estudio de la realidad y las culturas nacionales;
 
@@ -633,10 +630,7 @@ Una vez identificadas las tradiciones orales, escritas, conocimientos culturales
 Artículo adicionado DOF 07-06-2024
 
 ### Artículo 58
-. Las autoridades educativas consultarán de manera previa, libre, informada, culturalmente adecuada y de buena fe, de acuerdo con las disposiciones legales nacionales e internacionales vigentes en la materia, cada vez que se adopten medidas susceptibles de afectar a los pueblos y comunidades indígenas y afromexicanas, en materia educativa, respetando su autodeterminación en los términos del
-
-### artículo 2o
-. de la Constitución Política de los Estados Unidos Mexicanos.
+. Las autoridades educativas consultarán de manera previa, libre, informada, culturalmente adecuada y de buena fe, de acuerdo con las disposiciones legales nacionales e internacionales vigentes en la materia, cada vez que se adopten medidas susceptibles de afectar a los pueblos y comunidades indígenas y afromexicanas, en materia educativa, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 Para el cumplimiento de lo establecido en el párrafo anterior, la Secretaría se coordinará con el Instituto Nacional de los Pueblos Indígenas, el Instituto Nacional de las Lenguas Indígenas, la Comisión para la Mejora Continua de la Educación, así como sus homólogas en las entidades federativas para coadyuvar en los procesos de consulta relativas a las acciones que afecten a los pueblos y comunidades indígenas y afromexicanas.
 Será obligación del Estado, constituir un comité de seguimiento de la Consulta, conformado por los 68 pueblos indígenas y uno afromexicano.
 Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
@@ -1152,10 +1146,7 @@ XVII. Las demás que con tal carácter establezcan esta Ley y otras disposicione
 ### Artículo 115
 . Adicionalmente a las atribuciones exclusivas a las que se refieren los artículos 113 y 114, corresponde a las autoridades educativas federal, de los Estados y Ciudad de México, de manera concurrente, las atribuciones siguientes:
 
-I. Promover y prestar servicios educativos, distintos de los previstos en las fracciones I y V del
-
-### artículo 114
-, de acuerdo con las necesidades nacionales, regionales y estatales;
+I. Promover y prestar servicios educativos, distintos de los previstos en las fracciones I y V del artículo 114, de acuerdo con las necesidades nacionales, regionales y estatales;
 
 II. Participar en las actividades tendientes para la admisión, promoción y reconocimiento, de conformidad con lo dispuesto en la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
 
@@ -1163,10 +1154,7 @@ III. Determinar y formular planes y programas de estudio, distintos de los previ
 
 IV. Ejecutar programas para la inducción, actualización, capacitación y superación de maestras y maestros de educación media superior, los que deberán sujetarse, en lo conducente, a lo dispuesto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
 
-V. Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción VI del
-
-### artículo 114
-, de acuerdo con los lineamientos generales que la Secretaría expida. Asimismo, podrán autorizar que las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales que la Secretaría expida en términos del artículo 144 de esta Ley.
+V. Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción VI del artículo 114, de acuerdo con los lineamientos generales que la Secretaría expida. Asimismo, podrán autorizar que las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales que la Secretaría expida en términos del artículo 144 de esta Ley.
 Las autoridades educativas podrán revocar las referidas autorizaciones cuando se presente algún incumplimiento que en términos de los mencionados lineamientos amerite dicha sanción.
 Lo anterior con independencia de las infracciones que pudieran configurarse, en términos de lo previsto en esta Ley.
 Las constancias de revalidación y equivalencia de estudios deberán ser registradas en el Sistema de Información y Gestión Educativa, en los términos que establezca la Secretaría;
@@ -1211,10 +1199,7 @@ El Ejecutivo Federal y el gobierno de cada entidad federativa podrán celebrar c
 Además de las atribuciones concurrentes señaladas en esta Ley, las autoridades educativas federal, de los Estados y de la Ciudad de México, en el ámbito de sus competencias, tendrán las correspondientes en materia de educación superior que se establezcan en la Ley General de Educación Superior.
 
 ### Artículo 116
-. El ayuntamiento de cada municipio podrá, sin perjuicio de la concurrencia de las autoridades educativas federal y de los Estados, promover y prestar servicios educativos de cualquier tipo o modalidad. También podrá realizar actividades de las enumeradas en las fracciones VIII a X del
-
-### artículo 115
-. Los ayuntamientos y alcaldías de la Ciudad de México coadyuvarán al mantenimiento de los planteles educativos y de los servicios de seguridad, agua y luz de éstos.
+. El ayuntamiento de cada municipio podrá, sin perjuicio de la concurrencia de las autoridades educativas federal y de los Estados, promover y prestar servicios educativos de cualquier tipo o modalidad. También podrá realizar actividades de las enumeradas en las fracciones VIII a X del artículo 115. Los ayuntamientos y alcaldías de la Ciudad de México coadyuvarán al mantenimiento de los planteles educativos y de los servicios de seguridad, agua y luz de éstos.
 El gobierno de cada entidad federativa, promoverá la participación directa del ayuntamiento para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales.
 El gobierno de cada entidad federativa y los ayuntamientos, podrán celebrar convenios para coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
 Para la admisión, promoción y reconocimiento del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan, deberán observar lo dispuesto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros.
@@ -1425,10 +1410,7 @@ Las autoridades educativas, en coordinación con las instituciones de educación
 ## Capítulo V — De la participación de los medios de comunicación
 
 ### Artículo 139
-. Los medios de comunicación masiva, de conformidad con el marco jurídico que les rige, en el desarrollo de sus actividades contribuirán al logro de los fines de la educación previstos en el
-
-### artículo 15
-, conforme a los criterios establecidos en el artículo 16 de la presente Ley.
+. Los medios de comunicación masiva, de conformidad con el marco jurídico que les rige, en el desarrollo de sus actividades contribuirán al logro de los fines de la educación previstos en el artículo 15, conforme a los criterios establecidos en el artículo 16 de la presente Ley.
 
 ### Artículo 140
 . La Secretaría promoverá, ante las autoridades competentes, las acciones necesarias para dar cumplimiento al artículo anterior, con apego a las disposiciones legales aplicables.
@@ -1444,10 +1426,7 @@ Las instituciones del Sistema Educativo Nacional expedirán certificados y otorg
 La Secretaría promoverá que los estudios con validez oficial en la República sean reconocidos en el extranjero.
 
 ### Artículo 142
-. Los estudios realizados con validez oficial en sistemas educativos extranjeros podrán adquirir validez oficial en el Sistema Educativo Nacional, mediante su revalidación, para lo cual deberá cumplirse con las normas y criterios generales que determine la Secretaría conforme a lo previsto en el
-
-### artículo 144
-de esta Ley.
+. Los estudios realizados con validez oficial en sistemas educativos extranjeros podrán adquirir validez oficial en el Sistema Educativo Nacional, mediante su revalidación, para lo cual deberá cumplirse con las normas y criterios generales que determine la Secretaría conforme a lo previsto en el artículo 144 de esta Ley.
 La revalidación podrá otorgarse por niveles educativos, por grados escolares, créditos académicos, por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
 
 ### Artículo 143
@@ -1844,10 +1823,7 @@ La Secretaría de Educación Pública, hasta que no se lleve a cabo el proceso d
 **Noveno.** Las autoridades educativas, en coordinación con las autoridades correspondientes, realizarán consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas o afromexicanas relativo a la aplicación de las disposiciones que, en materia de educación indígena, son contempladas en este Decreto; hasta en tanto, las autoridades educativas no realizarán ninguna acción derivada de la aplicación de dichas disposiciones.
 **Décimo.** La Secretaría, conforme a lo establecido en el artículo 23 de la Ley General de Educación, realizará las modificaciones a los planes y programas de estudio para adecuar su contenido conforme a lo establecido en referida norma, con la finalidad de que, para el inicio del ciclo escolar de 2021-2022, los libros de texto cumplan con lo establecido por la ley en la materia. De igual forma, instrumentará las acciones necesarias para instrumentar lo señalado en esta disposición.
 **Décimo Primero.** La Secretaría emitirá los Principios Rectores y Objetivos de la educación inicial, en un plazo de noventa días naturales siguientes a la publicación de la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
-**Décimo Segundo.** Las autoridades educativas, en el ámbito de su competencia, preverán de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar la prestación de educación inicial, con el fin de lograr la universalidad de dicho servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el
-
-### Artículo Décimo Segundo
-Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
+**Décimo Segundo.** Las autoridades educativas, en el ámbito de su competencia, preverán de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar la prestación de educación inicial, con el fin de lograr la universalidad de dicho servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
 En tanto se transita hacia la universalidad de la educación inicial, el Estado dará prioridad a la prestación de servicios de educación inicial, a niñas y niños en condiciones de vulnerabilidad y en riesgo de exclusión, considerando las condiciones socioeconómicas de sus madres y padres de familia o tutores.
 **Décimo Tercero.** En un plazo de ciento veinte días contados a partir de la entrada en vigor de este Decreto, la Secretaría presentará la Agenda Educativa Digital para el aprovechamiento de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en la impartición de la educación.
 **Décimo Cuarto.** La Secretaría, propondrá al Consejo Nacional de Autoridades Educativas en la sesión inmediata que corresponda a la entrada en vigor del presente Decreto, los lineamientos para su operación y funcionamiento.
@@ -1876,23 +1852,19 @@ VISTOS, para resolver el expediente relativo a la acción de inconstitucionalida
 Esta determinación que, se insiste, constituye una evolución en el criterio de esta Suprema Corte de Justicia de la Nación, precisa que en el supuesto de que una norma o un ordenamiento general no esté específicamente relacionado con los grupos vulnerables que deben ser privilegiados con una consulta, esto es, que no se refieran única y exclusivamente a ellos, sino que, en el contexto general, estén inmiscuidos, las normas por invalidar son precisamente las que les afecten, pero sin alcanzar a invalidar toda la norma. Por el contrario, cuando las normas se dirijan específicamente a estos grupos vulnerables, la falta de consulta invalida todo ese ordenamiento.
 En el asunto que se resuelve, sólo se impugnaron los artículos 56, 57 y 58 contenidos en el Capítulo VI, y 61 a 68 contenidos en el Capítulo VIII, en los que el legislador federal reguló la educación indígena y la inclusiva; de ahí que la determinación de cómo invalidar la ley impugnada debe sustentarse en una consideración sustantiva y relevante, a saber, que la ley tiene un ámbito material y personal más amplio que desborda la regulación de comunidades originarias y personas con discapacidad, puesto que, aunque las atañe, esta ley no tiene por objeto central o específico una regulación que les sea exclusiva.
 Efectivamente, la Ley General de Educación se emitió en cumplimiento al deber impuesto en el
-
-### artículo séptimo
-transitorio del decreto de reforma constitucional en materia educativa publicado en el Diario Oficial de la Federación el quince de mayo de dos mil diecinueve, a efecto de garantizar el derecho a la educación que reconoce el artículo 3 de la Constitución general y los tratados internacionales de los que México es parte.
+**artículo séptimo.** transitorio del decreto de reforma constitucional en materia educativa publicado en el Diario Oficial de la Federación el quince de mayo de dos mil diecinueve, a efecto de garantizar el derecho a la educación que reconoce el artículo 3 de la Constitución general y los tratados internacionales de los que México es parte.
 Así, el vicio de la falta de consultas como etapa del proceso legislativo que dio origen a la ley impugnada no tiene un impacto en toda la Ley General de Educación, ya que ésta no tiene como objeto específico y exclusivo la regulación de la educación indígena y afromexicana y la inclusiva, sino diversos aspectos vinculados con todo el sistema educativo nacional.
 Por tanto, dada la facultad de este Tribunal Pleno de establecer y fijar los alcances de sus sentencias para, por una parte, lograr la mayor efectividad de sus decisiones y, por otra, evitar que se generen daños a la sociedad mayores que la permanencia de la inconstitucionalidad decretada; y en atención a que, en la especie, una declaratoria de invalidez total generaría un vacío normativo con daños graves a la sociedad mayores que los generados con la permanencia de los preceptos declarados inconstitucionales, porque dejaría al país sin Ley General de Educación, impactando en los derechos de toda la sociedad; con fundamento en los artículos 41, fracción IV, y 42, párrafos primero y tercero, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, se declara la invalidez de la Ley General de Educación publicada en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, únicamente en sus artículos 56, 57 y 58 –contenidos en el Capítulo VI "De la educación indígena"–, y 61 a 68 –contenidos en el Capítulo VIII "De la educación inclusiva"–.
-Al respecto, tomando en consideración las serias dificultades y riesgos que implicaría celebrar las consultas respectivas durante la pandemia por el virus SARS-COV2, y el desarrollo de las elecciones que se han celebrado en el país y que, consecuentemente, tendrán implicaciones en el relevo de las autoridades, con fundamento en el artículo 45 de la propia Ley Reglamentaria de las Fracciones I y II del
-
-### Artículo 105
-de la Constitución Política de los Estados Unidos Mexicanos, así como con apoyo en la jurisprudencia del Tribunal Pleno P./J. 84/2007 de rubro: "ACCIÓN DE INCONSTITUCIONALIDAD. LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN CUENTA CON AMPLIAS FACULTADES PARA DETERMINAR LOS EFECTOS DE LAS SENTENCIAS ESTIMATORIAS", la invalidez declarada no tendrá efectos retroactivos, pero surtirá efectos a partir de los dieciocho meses siguientes a la notificación que se haga al Congreso de la Unión de los puntos resolutivos de esta resolución, a efecto de que, por una parte, no se provoque un vacío legislativo en relación con la materia del artículo 3 de la Constitución Federal y, por otra, no se prive a los grupos indígenas y a las personas con discapacidad de los posibles efectos benéficos de las normas que se declaran inválidas.
+Al respecto, tomando en consideración las serias dificultades y riesgos que implicaría celebrar las consultas respectivas durante la pandemia por el virus SARS-COV2, y el desarrollo de las elecciones que se han celebrado en el país y que, consecuentemente, tendrán implicaciones en el relevo de las autoridades, con fundamento en el artículo 45 de la propia Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como con apoyo en la jurisprudencia del Tribunal Pleno P./J. 84/2007 de rubro: "ACCIÓN DE INCONSTITUCIONALIDAD. LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN CUENTA CON AMPLIAS FACULTADES PARA DETERMINAR LOS EFECTOS DE LAS SENTENCIAS ESTIMATORIAS", la invalidez declarada no tendrá efectos retroactivos, pero surtirá efectos a partir de los dieciocho meses siguientes a la notificación que se haga al Congreso de la Unión de los puntos resolutivos de esta resolución, a efecto de que, por una parte, no se provoque un vacío legislativo en relación con la materia del artículo 3 de la Constitución Federal y, por otra, no se prive a los grupos indígenas y a las personas con discapacidad de los posibles efectos benéficos de las normas que se declaran inválidas.
 Invalidez que no se limita a la expulsión del orden jurídico de las normas declaradas inconstitucionales, sino que conlleva la obligación constitucional de que el referido órgano legislativo desarrolle las consultas correspondientes –cumpliendo con los parámetros establecidos en el considerando sexto de esta determinación– y, dentro del plazo de postergación de los efectos de invalidez antes precisado, con base en los resultados de dichas consultas, emita la regulación que corresponda en materia de educación indígena y afromexicana, así como de educación inclusiva.
 En el entendido de que las consultas no deben limitarse a los preceptos declarados inconstitucionales, sino que deberán tener un carácter abierto, a efecto de otorgar la posibilidad de que se facilite el diálogo democrático y busque la participación de los grupos involucrados en relación con cualquier aspecto regulado en la Ley General de Educación que esté relacionado directamente con su condición indígena y afromexicana o de discapacidad.
 Por lo expuesto y fundado, se resuelve:
-PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-SEGUNDO. Se reconoce la validez de los artículos 106, párrafo último, en su porción normativa "a partir del 4o. grado de primaria", y 109 de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, al tenor del considerando séptimo de esta decisión.
-TERCERO. Se declara la invalidez de los artículos 56, 57 y 58 –Capítulo VI "De la educación indígena"–, así como del 61 al 68 –Capítulo VIII "De la educación inclusiva"– de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, en los términos del considerando sexto de esta determinación.
-CUARTO. La declaratoria de invalidez decretada surtirá sus efectos a los dieciocho meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que, dentro del referido plazo, previo desarrollo de la respectiva consulta a los pueblos y comunidades indígenas y afromexicanas, así como a las personas con discapacidad, dicho Congreso deberá legislar en las materias de educación indígena y de educación inclusiva, en los términos precisados en el considerando octavo de esta sentencia.
-QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.** Se reconoce la validez de los artículos 106, párrafo último, en su porción normativa "a partir del 4o. grado de primaria", y 109 de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, al tenor del considerando séptimo de esta decisión.
+**TERCERO.** Se declara la invalidez de los artículos 56, 57 y 58 –Capítulo VI "De la educación indígena"–, así como del 61 al 68 –Capítulo VIII "De la educación inclusiva"– de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, en los términos del considerando sexto de esta determinación.
+**CUARTO.** La declaratoria de invalidez decretada surtirá sus efectos a los dieciocho meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que, dentro del referido plazo, previo desarrollo de la respectiva consulta a los pueblos y comunidades indígenas y afromexicanas, así como a las personas con discapacidad, dicho Congreso deberá legislar en las materias de educación indígena y de educación inclusiva, en los términos precisados en el considerando
+**octavo.** de esta sentencia.
+**QUINTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……..
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.

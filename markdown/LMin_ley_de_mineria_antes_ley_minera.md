@@ -359,10 +359,7 @@ Fracción adicionada DOF 08-05-2023
 IX. Áreas naturales protegidas;
 Fracción adicionada DOF 08-05-2023
 
-X. Zonas sin disponibilidad de agua, de conformidad con lo establecido en el párrafo tercero del
-
-### artículo 6
-de la presente Ley, y Fracción adicionada DOF 08-05-2023
+X. Zonas sin disponibilidad de agua, de conformidad con lo establecido en el párrafo tercero del artículo 6 de la presente Ley, y Fracción adicionada DOF 08-05-2023
 
 XI. Zonas en las que la actividad minera ponga en riesgo a la población.
 Fracción adicionada DOF 08-05-2023 Reforma DOF 08-05-2023: Derogó del artículo los entonces párrafos segundo (antes reformado DOF 28-04-2005) y tercero a quinto Artículo reformado DOF 24-12-1996
@@ -1011,10 +1008,7 @@ LEY DE MINERÍA ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el qu
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996
 
 ### ARTÍCULO TERCERO
-Se reforman el artículo 1o., la fracción VI y el último párrafo del artículo 9o., el párrafo segundo del artículo 13, el artículo 14, la fracción II del artículo 16, el párrafo primero del
-
-### artículo 20
-, la fracción II y los párrafos segundo y tercero del artículo 27, el párrafo segundo del artículo 33, el artículo 34, la fracción V del artículo 55 y las fracciones VI y VII del artículo 57; se adicionan un párrafo tercero al artículo 13, pasando el actual párrafo tercero a ser cuarto, y el artículo 13 A, y se derogan el último párrafo de los artículos 11 y 33, el artículo 35 y la fracción VIII del artículo 46 de la Ley Minera, para quedar como sigue: ..........
+Se reforman el artículo 1o., la fracción VI y el último párrafo del artículo 9o., el párrafo segundo del artículo 13, el artículo 14, la fracción II del artículo 16, el párrafo primero del artículo 20, la fracción II y los párrafos segundo y tercero del artículo 27, el párrafo segundo del artículo 33, el artículo 34, la fracción V del artículo 55 y las fracciones VI y VII del artículo 57; se adicionan un párrafo tercero al artículo 13, pasando el actual párrafo tercero a ser cuarto, y el artículo 13 A, y se derogan el último párrafo de los artículos 11 y 33, el artículo 35 y la fracción VIII del artículo 46 de la Ley Minera, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -1025,20 +1019,11 @@ LEY DE MINERÍA DECRETO por el que se reforman, adicionan y derogan diversas dis
 Publicado en el Diario Oficial de la Federación el 28 de abril de 2005
 
 ### ARTÍCULO ÚNICO
-SE REFORMAN los artículos 1, 2; las fracciones I, II, IV, V, VI, VII y VIII del
-
-### artículo 4
-; la fracción V del artículo 5; las fracciones IV y IX del artículo 7; el artículo 9; el primer y segundo párrafos del artículo 10; el artículo 13; 13 A, y se cambia su denominación a 13 BIS; las fracciones V y VII del artículo 14; el segundo párrafo del artículo 14; el párrafo cuarto pasando a ser segundo y el párrafo sexto pasando a ser tercero del artículo 15; el segundo párrafo y la fracción II del
-
-### artículo 16
-; la fracción II del artículo 17; el primer párrafo y las fracciones I, IV, V, VII, X Y XII del artículo 19; el artículo 20; el primer párrafo del artículo 22; el artículo 27; el primer párrafo al artículo 28; el artículo 30; el primer párrafo del artículo 31; el primer párrafo del artículo 34; el artículo 36; la fracción II del
-
-### artículo 37
-; el artículo 41; la fracción III del artículo 42; el primer párrafo del artículo 43; las fracciones I, VI y VII del artículo 46; las fracciones II, V, VI y VII y el penúltimo párrafo del artículo 55; la fracción I del
-
-### artículo 56
-; el párrafo tercero y la fracción XI del artículo 57; el artículo 59; SE ADICIONA la fracción II BIS, al artículo 4, la fracción IV Bis al artículo 7, un artículo 12 BIS; un artículo 35 BIS; un artículo 57 BIS;
-SE DEROGA la fracción III del artículo 4; las fracciones I y VI del artículo 14; los párrafos segundo, tercero y quinto del artículo 15; el segundo párrafo, pasando el tercero a ser segundo del artículo 29; la fracción IV del artículo 37; el segundo párrafo, pasando el tercero a ser segundo del artículo 52; la fracción IV del artículo 55; el segundo párrafo, pasando el tercero a ser segundo, el cuarto a ser tercero y el quinto a ser cuarto del artículo 57; todos ellos de la Ley Minera, para quedar de la siguiente manera: ..........
+SE REFORMAN los artículos 1, 2; las fracciones I, II, IV, V, VI, VII y VIII del artículo 4; la fracción V del artículo 5; las fracciones IV y IX del artículo 7; el artículo 9; el primer y
+**segundo.** párrafos del artículo 10; el artículo 13; 13 A, y se cambia su denominación a 13 BIS; las fracciones V y VII del artículo 14; el segundo párrafo del artículo 14; el párrafo cuarto pasando a ser
+**segundo.** y el párrafo sexto pasando a ser tercero del artículo 15; el segundo párrafo y la fracción II del artículo 16; la fracción II del artículo 17; el primer párrafo y las fracciones I, IV, V, VII, X Y XII del artículo 19; el artículo 20; el primer párrafo del artículo 22; el artículo 27; el primer párrafo al artículo 28; el artículo 30; el primer párrafo del artículo 31; el primer párrafo del artículo 34; el artículo 36; la fracción II del artículo 37; el artículo 41; la fracción III del artículo 42; el primer párrafo del artículo 43; las fracciones I, VI y VII del artículo 46; las fracciones II, V, VI y VII y el penúltimo párrafo del artículo 55; la fracción I del artículo 56; el párrafo tercero y la fracción XI del artículo 57; el artículo 59; SE ADICIONA la fracción II BIS, al artículo 4, la fracción IV Bis al artículo 7, un artículo 12 BIS; un artículo 35 BIS; un artículo 57 BIS;
+SE DEROGA la fracción III del artículo 4; las fracciones I y VI del artículo 14; los párrafos segundo,
+**tercero.** y quinto del artículo 15; el segundo párrafo, pasando el tercero a ser segundo del artículo 29; la fracción IV del artículo 37; el segundo párrafo, pasando el tercero a ser segundo del artículo 52; la fracción IV del artículo 55; el segundo párrafo, pasando el tercero a ser segundo, el cuarto a ser tercero y el quinto a ser cuarto del artículo 57; todos ellos de la Ley Minera, para quedar de la siguiente manera: ..........
 
 ## TRANSITORIOS
 
@@ -1079,20 +1064,14 @@ LEY DE MINERÍA DECRETO por el que se expide la Ley de Hidrocarburos y se reform
 Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014
 
 ### ARTÍCULO TERCERO
-Se reforman los artículos 4, fracción VIII; 5, fracción I; el primer párrafo al
-
-### artículo 20
-; 27, fracción XI, y 55, fracción XII; se adicionan un segundo, tercer, cuarto y quinto párrafos al
-
-### artículo 6
-; y se deroga las fracciones XIII, XIV y XV del artículo 7; la fracción XIII del artículo 19; las fracciones XII, XIII y XIV del artículo 27 y las fracciones IX, X y XI del artículo 55 de la Ley Minera, para quedar como sigue: ………
+Se reforman los artículos 4, fracción VIII; 5, fracción I; el primer párrafo al artículo 20; 27, fracción XI, y 55, fracción XII; se adicionan un segundo, tercer, cuarto y quinto párrafos al artículo 6; y se deroga las fracciones XIII, XIV y XV del artículo 7; la fracción XIII del artículo 19; las fracciones XII, XIII y XIV del artículo 27 y las fracciones IX, X y XI del artículo 55 de la Ley Minera, para quedar como sigue: ………
 
 ### ARTÍCULO CUARTO
 Se establecen las siguientes disposiciones transitorias de la Ley Minera:
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- Se abroga el Reglamento de la Ley Minera en materia de Gas Asociado a los Yacimientos de Carbón Mineral, publicado en el Diario Oficial de la Federación el 16 de diciembre de 2008.
-Tercero.- Las áreas en que hubo o haya asignaciones mineras con potencial para la extracción de gas asociado a los yacimientos de carbón, se considerarán como reservadas, para ello el Ejecutivo Federal mediante Decreto publicado en el Diario Oficial de la Federación establecerá esta Reserva conforme al procedimiento establecido en la presente Ley. Lo previsto en este transitorio no será aplicable para las concesiones mineras que se encuentren vigentes a la entrada en vigor de este Decreto.
-Cuarto.- Tratándose de concesiones mineras vigentes a la fecha de la entrada en vigor del presente Decreto, no se requerirá el estudio a que se refiere el artículo 6 de la Ley.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga el Reglamento de la Ley Minera en materia de Gas Asociado a los Yacimientos de Carbón Mineral, publicado en el Diario Oficial de la Federación el 16 de diciembre de 2008.
+**Tercero.-** Las áreas en que hubo o haya asignaciones mineras con potencial para la extracción de gas asociado a los yacimientos de carbón, se considerarán como reservadas, para ello el Ejecutivo Federal mediante Decreto publicado en el Diario Oficial de la Federación establecerá esta Reserva conforme al procedimiento establecido en la presente Ley. Lo previsto en este transitorio no será aplicable para las concesiones mineras que se encuentren vigentes a la entrada en vigor de este Decreto.
+**Cuarto.-** Tratándose de concesiones mineras vigentes a la fecha de la entrada en vigor del presente Decreto, no se requerirá el estudio a que se refiere el artículo 6 de la Ley.
 La Secretaría y la Secretaría de Energía podrán elaborar reglas para que las actividades mineras vigentes a la entrada en vigor del presente Decreto coexistan con las actividades de exploración y extracción de petróleo y demás hidrocarburos. ………
 
 ## TRANSITORIOS
@@ -1104,10 +1083,7 @@ LEY DE MINERÍA DECRETO por el que se reforman y adicionan diversas disposicione
 Publicado en el Diario Oficial de la Federación el 20 de abril de 2022
 
 ### Artículo Único
-Se reforman los artículos 1; 9, párrafo primero; 10, párrafo primero; y se adicionan un
-
-### artículo 5
-Bis, y un párrafo tercero, recorriéndose los actuales párrafos tercero y cuarto, al artículo 10 de la Ley Minera, para quedar como sigue: ……….
+Se reforman los artículos 1; 9, párrafo primero; 10, párrafo primero; y se adicionan un artículo 5 Bis, y un párrafo tercero, recorriéndose los actuales párrafos tercero y cuarto, al artículo 10 de la Ley Minera, para quedar como sigue: ……….
 
 ## Transitorios
 
@@ -1128,28 +1104,12 @@ Se reforman la denominación de la Ley Minera para quedar como Ley de Minería; 
 **primero.** , fracciones I y II y párrafo segundo, que pasa a ser párrafo tercero; 44, párrafo primero; 45, párrafo primero; 46, párrafo primero y las fracciones III y VI; 48; 52, párrafo primero; la denominación del CAPÍTULO SÉPTIMO para quedar como De las Verificaciones, Sanciones y Recursos; 53, párrafo
 **primero.** y las fracciones I, II, III, IV, V y VI; 55, párrafo primero, fracciones II, III, VII, XII y XIII; 56, párrafo
 **primero.** ; 57, párrafos primero, fracciones I, IV, V, VI, VII, VIII, XI y XII y los actuales segundo y cuarto, que pasan a ser párrafo cuarto y octavo, respectivamente; 57 Bis párrafo primero y segundo; 58; se adicionan un párrafo segundo al artículo 1; una fracción IV al artículo 3; los párrafos sexto, séptimo y
-**octavo.** al artículo 6; el artículo 6 Bis; las fracciones XVIII, XIX, XX, XXI y XXII al párrafo primero del
-
-### artículo 7
-; el artículo 10 Bis; un párrafo quinto al artículo 12; un párrafo cuarto al artículo 13 y se recorren los párrafos cuarto y quinto actuales para pasar a ser quinto y sexto; los incisos a, b, c, d, e, f, g, h e i a la fracción I, las fracciones IV, V y VI al párrafo primero y los párrafos segundo, tercero, cuarto, quinto, sexto, octavo, noveno y décimo y se recorre el actual párrafo segundo para pasar a ser el párrafo séptimo del artículo 13 Bis; las fracciones VIII, IX, X y XI al párrafo primero del artículo 14; un artículo 14 Bis; los párrafos tercero, cuarto y sexto al artículo 15, pasando el actual párrafo tercero a ser párrafo quinto; un
-
-### artículo 15
-Bis; las fracciones I, II y III al párrafo primero del artículo 18; la fracción XIV al párrafo primero y los párrafos segundo, tercero y cuarto al artículo 19, un artículo 19 Bis; un párrafo tercero al artículo 20; un párrafo quinto al artículo 23; las fracciones XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII y XXIV al párrafo primero del artículo 27; un párrafo segundo al artículo 28; la fracción IV al párrafo primero del
-
-### artículo 40
-; las fracciones VI, VII, VIII, IX, X y XI al párrafo primero y los párrafos segundo y tercero del
-
-### artículo 42
-; las fracciones III y IV del párrafo primero y un párrafo segundo al artículo 43; la fracción VII al
-
-### artículo 53
-; el artículo 53 Bis; las fracciones XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI al artículo 55; la fracción XIII del párrafo primero y los párrafos segundo, tercero, quinto y séptimo del artículo 57; 57 Ter; un párrafo segundo al artículo 58; el CAPÍTULO OCTAVO, denominado De las notificaciones, con su
-
-### artículo 60
-; el CAPÍTULO NOVENO, denominado Del cierre de minas, con sus artículos 61, 62 y 63 y el CAPÍTULO DÉCIMO, denominado De los delitos, con sus artículos 64 y 65, y se derogan el párrafo segundo del artículo 6; el párrafo cuarto del artículo 12, el artículo 12 Bis; el párrafo segundo del artículo 13, las fracciones IV, V y VII del párrafo primero, y los párrafos segundo, tercero, cuarto y quinto del
-
-### artículo 14
-; el actual párrafo tercero del artículo 15; el párrafo primero y las fracciones I, II y III del párrafo LEY DE MINERÍA segundo y el párrafo tercero del artículo 16; las fracciones I y II del párrafo primero y el párrafo segundo del artículo 17; las fracciones III, V, VI y XII del artículo 19; los párrafos segundo y tercero del artículo 21; la fracción IV y el párrafo segundo del artículo 26; la fracción VI del párrafo primero y el párrafo tercero del artículo 27; el párrafo segundo del artículo 28; el artículo 32; el artículo 33; la fracción III del párrafo primero y el párrafo segundo del artículo 40; el párrafo segundo del artículo 41; la fracción II del artículo 42; el párrafo segundo del artículo 44; el párrafo segundo del artículo 45; el artículo 50; los párrafos segundo y tercero del artículo 55; la fracción IV del artículo 56; las fracciones II y X del párrafo primero y párrafo tercero del artículo 57, de la Ley Minera, para quedar como sigue: ……..
+**octavo.** al artículo 6; el artículo 6 Bis; las fracciones XVIII, XIX, XX, XXI y XXII al párrafo primero del artículo 7; el artículo 10 Bis; un párrafo quinto al artículo 12; un párrafo cuarto al artículo 13 y se recorren los párrafos cuarto y quinto actuales para pasar a ser quinto y sexto; los incisos a, b, c, d, e, f, g, h e i a la fracción I, las fracciones IV, V y VI al párrafo primero y los párrafos segundo, tercero, cuarto, quinto,
+**sexto.** , octavo, noveno y décimo y se recorre el actual párrafo segundo para pasar a ser el párrafo séptimo del artículo 13 Bis; las fracciones VIII, IX, X y XI al párrafo primero del artículo 14; un artículo 14 Bis; los párrafos tercero, cuarto y sexto al artículo 15, pasando el actual párrafo tercero a ser párrafo quinto; un artículo 15 Bis; las fracciones I, II y III al párrafo primero del artículo 18; la fracción XIV al párrafo primero y los párrafos segundo, tercero y cuarto al artículo 19, un artículo 19 Bis; un párrafo tercero al artículo 20; un párrafo quinto al artículo 23; las fracciones XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII y XXIV al párrafo primero del artículo 27; un párrafo segundo al artículo 28; la fracción IV al párrafo primero del artículo 40; las fracciones VI, VII, VIII, IX, X y XI al párrafo primero y los párrafos segundo y tercero del artículo 42; las fracciones III y IV del párrafo primero y un párrafo segundo al artículo 43; la fracción VII al artículo 53; el artículo 53 Bis; las fracciones XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI al artículo 55; la fracción XIII del párrafo primero y los párrafos segundo, tercero, quinto y séptimo del artículo 57; 57 Ter; un párrafo segundo al artículo 58; el CAPÍTULO OCTAVO, denominado De las notificaciones, con su artículo 60; el CAPÍTULO NOVENO, denominado Del cierre de minas, con sus artículos 61, 62 y 63 y el CAPÍTULO DÉCIMO, denominado De los delitos, con sus artículos 64 y 65, y se derogan el párrafo
+**segundo.** del artículo 6; el párrafo cuarto del artículo 12, el artículo 12 Bis; el párrafo segundo del artículo 13, las fracciones IV, V y VII del párrafo primero, y los párrafos segundo, tercero, cuarto y quinto del artículo 14; el actual párrafo tercero del artículo 15; el párrafo primero y las fracciones I, II y III del párrafo LEY DE MINERÍA
+**segundo.** y el párrafo tercero del artículo 16; las fracciones I y II del párrafo primero y el párrafo segundo del artículo 17; las fracciones III, V, VI y XII del artículo 19; los párrafos segundo y tercero del artículo 21; la fracción IV y el párrafo segundo del artículo 26; la fracción VI del párrafo primero y el párrafo tercero del artículo 27; el párrafo segundo del artículo 28; el artículo 32; el artículo 33; la fracción III del párrafo
+**primero.** y el párrafo segundo del artículo 40; el párrafo segundo del artículo 41; la fracción II del artículo 42; el párrafo segundo del artículo 44; el párrafo segundo del artículo 45; el artículo 50; los párrafos
+**segundo.** y tercero del artículo 55; la fracción IV del artículo 56; las fracciones II y X del párrafo primero y párrafo tercero del artículo 57, de la Ley Minera, para quedar como sigue: ……..
 
 ## Transitorios
 

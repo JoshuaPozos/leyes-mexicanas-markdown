@@ -281,10 +281,7 @@ I. Cuando haya dejado de prestar sus servicios en el sector público y le haya s
 II. Cuando la obligación de pago pactada en el contrato respectivo sea superior al descuento convenido, o
 
 III. Cuando la persona acreditada cumpla con los requisitos de otros programas específicos de reestructura que emita el Instituto por acuerdo de su Junta Directiva, incluyendo los destinados a las personas trabajadoras que pudieran haber caído en mora.
-En todos los casos las reestructuraciones procederán siempre y cuando se reúnan los requisitos y se sujeten a los esquemas que, para tal efecto, emita la Junta Directiva, atendiendo lo dispuesto en el
-
-### artículo 177
-, último párrafo, de la presente Ley.
+En todos los casos las reestructuraciones procederán siempre y cuando se reúnan los requisitos y se sujeten a los esquemas que, para tal efecto, emita la Junta Directiva, atendiendo lo dispuesto en el artículo 177, último párrafo, de la presente Ley.
 Artículo adicionado DOF 08-05-2023
 
 ### Artículo 21
@@ -462,10 +459,7 @@ Se suspenderá el pago del subsidio en caso de incumplimiento a la orden del Ins
 . La mujer Trabajadora, la pensionada, la cónyuge, la concubina o, en su caso, la mujer con quien la o el Trabajador o la o el Pensionado haya suscrito una unión civil, así como la hija de la o el Trabajador o de la o el Pensionado, soltera, menor de dieciocho años que dependa económicamente de éstos, según las condiciones del artículo siguiente, tendrán derecho a:
 Párrafo reformado DOF 20-01-2023
 
-I. Asistencia obstétrica necesaria a partir del día en que el Instituto certifique el estado de embarazo. La certificación señalará la fecha probable del parto para los efectos del artículo 28 de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del
-
-### artículo 123
-Constitucional;
+I. Asistencia obstétrica necesaria a partir del día en que el Instituto certifique el estado de embarazo. La certificación señalará la fecha probable del parto para los efectos del artículo 28 de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123 Constitucional;
 
 II. A la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y ayuda para la lactancia cuando, según dictamen médico, exista incapacidad física o laboral para amamantar al hijo. Esta ayuda será proporcionada en especie, hasta por un lapso de seis meses con posterioridad al nacimiento, y se entregará a la madre o, a falta de esta, a la persona encargada de alimentarlo;
 Fracción reformada DOF 02-04-2014
@@ -1541,10 +1535,7 @@ La existencia del supuesto a que se refiere este artículo deberá comprobarse a
 . El monto, los intereses, la forma, el lugar y las obligaciones de pago respectivas de los créditos otorgados a las personas trabajadoras a que se refiere la fracción I del artículo 169 de esta Ley se determinarán en el contrato que al efecto se celebre.
 Asimismo, los créditos citados devengarán intereses únicamente sobre el saldo insoluto de los mismos a la tasa de interés que determine la Junta Directiva.
 Dicha tasa deberá ser menor al promedio cobrado por la banca comercial para créditos hipotecarios.
-Las cantidades que se descuenten a las personas trabajadoras con motivo de los créditos a que alude el presente artículo, se pactarán en el contrato que se celebre al respecto, conforme a lo previsto en el
-
-### artículo 20
-de esta Ley.
+Las cantidades que se descuenten a las personas trabajadoras con motivo de los créditos a que alude el presente artículo, se pactarán en el contrato que se celebre al respecto, conforme a lo previsto en el artículo 20 de esta Ley.
 En todo caso el descuento será correlativo a la referencia sobre la cual se otorgó: salario básico, pensión y, en su caso, la suma de las compensaciones correspondientes.
 La aplicación de las aportaciones subsecuentes al otorgamiento del crédito, así como los pagos anticipados que realice la persona trabajadora o pensionada al crédito, será pactada en el mismo instrumento.
 Cada crédito se otorgará con el plazo establecido en el contrato, mismo que no podrá exceder de treinta años.
@@ -1683,10 +1674,7 @@ En caso de que las participaciones federales afectadas no fueren suficientes par
 La Secretaría de Hacienda y Crédito Público, en el ámbito de sus atribuciones, llevará a cabo, cuando así proceda, la afectación de las participaciones y transferencias federales en el supuesto a que se refiere el presente artículo. A efecto de lo anterior, los convenios de incorporación deberán contar con la previa opinión de dicha Secretaría.
 
 ### Artículo 205
-. Los convenios de incorporación deberán prever que los seguros, servicios y prestaciones que se proporcionen a los Trabajadores incorporados al Instituto por virtud del convenio sean iguales a los que se brindan a los Trabajadores incorporados en términos de lo previsto en el
-
-### artículo 1o
-. de esta Ley.
+. Los convenios de incorporación deberán prever que los seguros, servicios y prestaciones que se proporcionen a los Trabajadores incorporados al Instituto por virtud del convenio sean iguales a los que se brindan a los Trabajadores incorporados en términos de lo previsto en el artículo 1o. de esta Ley.
 A tal efecto, a los Trabajadores incorporados les será aplicable el Sueldo Básico calculándose sus años de cotización a partir de la celebración del convenio, salvo en el caso previsto en el párrafo siguiente.
 En los convenios de incorporación que incluyan reconocimiento de antigüedad deberán pagarse o garantizarse previamente las Reservas que resulten de los estudios actuariales para el puntual cumplimiento de los seguros, prestaciones y servicios que señala esta Ley y realizarse las Aportaciones necesarias a las Cuentas Individuales de los Trabajadores incorporados para que su saldo sea equivalente a la antigüedad que se les pretenda reconocer.
 Igualmente, en los casos de sustitución de régimen de seguridad social, las Reservas constituidas deberán transferirse en favor del Instituto en la forma y términos en que se convenga.

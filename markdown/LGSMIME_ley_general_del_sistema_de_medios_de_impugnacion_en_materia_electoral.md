@@ -123,10 +123,7 @@ CAPITULO V De las partes
 
 a) El actor, que será quien estando legitimado lo presente por sí mismo o, en su caso, a través de representante, en los términos de este ordenamiento;
 
-b) La autoridad responsable o el partido político en el caso previsto en el inciso g) del párrafo 1 del
-
-### artículo 80
-de esta ley, que haya realizado el acto o emitido la resolución que se impugna, y Inciso reformado DOF 01-07-2008
+b) La autoridad responsable o el partido político en el caso previsto en el inciso g) del párrafo 1 del artículo 80 de esta ley, que haya realizado el acto o emitido la resolución que se impugna, y Inciso reformado DOF 01-07-2008
 
 c) El tercero interesado, que es el ciudadano, el partido político, la coalición, el candidato, la organización o la agrupación política o de ciudadanos, según corresponda, con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor. 2. Para los efectos de los incisos a) y c) del párrafo que antecede, se entenderá por promovente al actor que presente un medio de impugnación, y por compareciente el tercero interesado que presente un escrito, ya sea que lo hagan por sí mismos o a través de la persona que los represente, siempre y cuando justifiquen plenamente la legitimación para ello. 3. Los candidatos, exclusivamente por lo que se refiere a los medios de impugnación previstos en el Libro Segundo de este ordenamiento, podrán participar como coadyuvantes del partido político que los registró, de conformidad con las reglas siguientes:
 
@@ -261,10 +258,7 @@ e) Si el medio de impugnación reúne todos los requisitos establecidos por este
 f) Cerrada la instrucción, el magistrado electoral procederá a formular el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y lo someterá a la consideración de la Sala. 2. La no aportación de las pruebas ofrecidas, en ningún supuesto será motivo para desechar el medio de impugnación o para tener por no presentado el escrito del tercero interesado. En todo caso, la Sala resolverá con los elementos que obren en autos. 3. Para la sustanciación de los recursos de revisión se aplicarán las reglas contenidas en el Capítulo III del Título Segundo del Libro Segundo de esta ley.
 
 ### Artículo 20
-1. Si la autoridad u órgano partidista responsable incumple con la obligación prevista en el inciso b) del párrafo 1 del artículo 17, u omite enviar cualquiera de los documentos a que se refiere el párrafo 1 del
-
-### artículo 18
-, ambos de esta ley, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos, se estará a lo siguiente:
+1. Si la autoridad u órgano partidista responsable incumple con la obligación prevista en el inciso b) del párrafo 1 del artículo 17, u omite enviar cualquiera de los documentos a que se refiere el párrafo 1 del artículo 18, ambos de esta ley, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos, se estará a lo siguiente:
 Párrafo reformado DOF 01-07-2008
 
 a) El presidente de la Sala competente del Tribunal Electoral tomará las medidas necesarias para su cumplimiento, aplicando, en su caso, el medio de apremio que juzgue pertinente; y
@@ -437,10 +431,7 @@ a) Las resoluciones que recaigan a los recursos de revisión previstos en el Tí
 b) Los actos o resoluciones de cualquiera de los órganos del Instituto Federal Electoral que no sean impugnables a través del recurso de revisión y que causen un perjuicio al partido político o agrupación política con registro, que teniendo interés jurídico lo promueva. 2. En la etapa de resultados y declaraciones de validez de las elecciones, el recurso de apelación será procedente para impugnar las resoluciones que recaigan a los recursos de revisión promovidos en los términos del párrafo 2 del artículo 35 de esta ley.
 
 ### Artículo 41
-1. El recurso de apelación será procedente para impugnar el informe que rinda la Dirección Ejecutiva del Registro Federal de Electores a la Comisión Nacional de Vigilancia y al Consejo General del Instituto, relativo a las observaciones hechas por los partidos políticos a las listas nominales de electores, en los
-
-### Artículo 42
-1. En cualquier tiempo, el recurso de apelación será procedente para impugnar la determinación y, en Procedimientos Electorales realice el Consejo General del Instituto Federal Electoral.
+1. El recurso de apelación será procedente para impugnar el informe que rinda la Dirección Ejecutiva del Registro Federal de Electores a la Comisión Nacional de Vigilancia y al Consejo General del Instituto, relativo a las observaciones hechas por los partidos políticos a las listas nominales de electores, en los Artículo 42 1. En cualquier tiempo, el recurso de apelación será procedente para impugnar la determinación y, en Procedimientos Electorales realice el Consejo General del Instituto Federal Electoral.
 
 ### Artículo 43
 1. En el caso a que se refiere el artículo 41 de esta ley, se aplicarán las reglas especiales siguientes:
@@ -495,10 +486,7 @@ II. Las personas físicas o jurídicas que se ostenten como acreedores del parti
 Inciso adicionado DOF 01-07-2008 CAPITULO IV De la sustanciación
 
 ### Artículo 46
-1. Todos los recursos de apelación interpuestos dentro de los cinco días anteriores al de la elección, serán resueltos junto con los juicios de inconformidad con los que guarden relación. El promovente deberá señalar la conexidad de la causa. Cuando los recursos a que se refiere este párrafo no guarden relación con algún juicio de inconformidad serán archivados como asuntos definitivamente concluidos. 2. En el caso a que se refiere el artículo 41 de esta ley, en la sentencia que se dicte se concederá un plazo razonable para que la autoridad competente informe del cumplimiento a la misma, antes de que el Consejo General sesione para declarar la validez y definitividad del Padrón Electoral y de los listados Electorales. 3. Para la resolución de los recursos de apelación en el supuesto a que se refiere el párrafo 1 del
-
-### artículo 42
-del presente ordenamiento, la citación a las partes para celebrar audiencia sólo procederá cuando a juicio de la Sala Superior del Tribunal Electoral, por la naturaleza de las pruebas ofrecidas o recabadas, sea indispensable desahogarlas ante las partes. En este caso, la audiencia se llevará a cabo con o sin la asistencia de las mismas y en la fecha que al efecto se señale. El magistrado electoral acordará lo conducente. Los interesados podrán comparecer por sí mismos o a través de representante debidamente autorizado.
+1. Todos los recursos de apelación interpuestos dentro de los cinco días anteriores al de la elección, serán resueltos junto con los juicios de inconformidad con los que guarden relación. El promovente deberá señalar la conexidad de la causa. Cuando los recursos a que se refiere este párrafo no guarden relación con algún juicio de inconformidad serán archivados como asuntos definitivamente concluidos. 2. En el caso a que se refiere el artículo 41 de esta ley, en la sentencia que se dicte se concederá un plazo razonable para que la autoridad competente informe del cumplimiento a la misma, antes de que el Consejo General sesione para declarar la validez y definitividad del Padrón Electoral y de los listados Electorales. 3. Para la resolución de los recursos de apelación en el supuesto a que se refiere el párrafo 1 del artículo 42 del presente ordenamiento, la citación a las partes para celebrar audiencia sólo procederá cuando a juicio de la Sala Superior del Tribunal Electoral, por la naturaleza de las pruebas ofrecidas o recabadas, sea indispensable desahogarlas ante las partes. En este caso, la audiencia se llevará a cabo con o sin la asistencia de las mismas y en la fecha que al efecto se señale. El magistrado electoral acordará lo conducente. Los interesados podrán comparecer por sí mismos o a través de representante debidamente autorizado.
 CAPITULO V De las sentencias
 
 ### Artículo 47
@@ -811,10 +799,7 @@ Instituciones y Procedimientos Electorales;
 
 f) Haber mediado dolo o error en la computación de los votos y siempre que ello sea determinante para el resultado de la votación;
 
-g) Permitir a ciudadanos sufragar sin Credencial para Votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación, salvo los
-
-### artículo 85
-de esta ley;
+g) Permitir a ciudadanos sufragar sin Credencial para Votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación, salvo los artículo 85 de esta ley;
 
 h) Haber impedido el acceso de los representantes de los partidos políticos o haberlos expulsado, sin causa justificada;
 
@@ -1134,10 +1119,7 @@ Capítulo adicionado DOF 23-05-2014
 
 a) De las sentencias dictadas por la Sala Regional Especializada del Tribunal Electoral;
 
-b) De las medidas cautelares que emita el Instituto a que se refiere el Apartado D, Base III del
-
-### artículo 41
-de la Constitución, y
+b) De las medidas cautelares que emita el Instituto a que se refiere el Apartado D, Base III del artículo 41 de la Constitución, y
 
 c) Del acuerdo de desechamiento que emita el Instituto a una denuncia. 2. La Sala Superior del Tribunal Electoral será competente para conocer de este recurso. 3. El plazo para impugnar las sentencias emitidas por la Sala Regional Especializada del Tribunal Electoral referidas en el presente artículo, será de tres días, contados a partir del día siguiente al en que se haya notificado la resolución correspondiente, con excepción del recurso que se interponga en contra de las medidas cautelares emitidas por el Instituto, en cuyo caso el plazo será de cuarenta y ocho horas, contadas a partir de la imposición de dichas medidas.
 Artículo adicionado DOF 23-05-2014
@@ -1223,10 +1205,7 @@ DECRETO por el que se expide la Ley General de Instituciones y Procedimientos El
 Publicado en el Diario Oficial de la Federación el 23 de mayo de 2014
 
 ### ARTÍCULO SEGUNDO
-Se REFORMAN los párrafos 1 y 2 del artículo 2; los incisos a), del párrafo 2 del artículo 3; el párrafo 2 del artículo 34 y el párrafo 1 del artículo 40; se ADICIONAN un párrafo 3 al
-
-### artículo 2
-; un inciso f) al párrafo 2 del artículo 3; un inciso d) al párrafo primero del artículo 13; un CAPÍTULO CUARTO que se denominará “De la nulidad de las elecciones federales y locales” que contiene un artículo 78 Bis al TÍTULO SEXTO del LIBRO SEGUNDO; y un LIBRO SEXTO denominado “Del recurso de revisión del Procedimiento Especial Sancionador” con un TÍTULO ÚNICO denominado “De las reglas particulares” y un CAPÍTULO ÚNICO denominado “De la procedencia y competencia” conformado por los artículos 109 y 110, a la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue: ………
+Se REFORMAN los párrafos 1 y 2 del artículo 2; los incisos a), del párrafo 2 del artículo 3; el párrafo 2 del artículo 34 y el párrafo 1 del artículo 40; se ADICIONAN un párrafo 3 al artículo 2; un inciso f) al párrafo 2 del artículo 3; un inciso d) al párrafo primero del artículo 13; un CAPÍTULO CUARTO que se denominará “De la nulidad de las elecciones federales y locales” que contiene un artículo 78 Bis al TÍTULO SEXTO del LIBRO SEGUNDO; y un LIBRO SEXTO denominado “Del recurso de revisión del Procedimiento Especial Sancionador” con un TÍTULO ÚNICO denominado “De las reglas particulares” y un CAPÍTULO ÚNICO denominado “De la procedencia y competencia” conformado por los artículos 109 y 110, a la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue: ………
 
 ## TRANSITORIOS
 
@@ -1238,10 +1217,7 @@ Se REFORMAN los párrafos 1 y 2 del artículo 2; los incisos a), del párrafo 2 
 
 **Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 15 de mayo de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
-
-### Artículo 5o
-. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
+DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Sexto
@@ -1357,13 +1333,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 15 de octubre de 2024
 
 ### Artículo Único
-Se reforman el numeral 1 y sus incisos a) y c) del artículo 50; los incisos a) y b) del numeral 1 del artículo 53; los incisos a) y c) del numeral 1 y el numeral 2 del artículo 55; el inciso b) del numeral 1 del artículo 61; el numeral 1 del artículo 71; y el artículo 79, y se adicionan el numeral 2 al
-
-### artículo 49
-; el inciso f) al numeral 1 del artículo 50; el inciso c) al numeral 1 del artículo 53; el numeral 3 al
-
-### artículo 54
-; el numeral 3 al artículo 55; el numeral 2 al artículo 61; el artículo 77 Ter; el inciso i) al numeral 1 del artículo 80; el Libro Séptimo denominado “Del Juicio Electoral”, conformado por los artículos 111 y 112, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue: ………
+Se reforman el numeral 1 y sus incisos a) y c) del artículo 50; los incisos a) y b) del numeral 1 del artículo 53; los incisos a) y c) del numeral 1 y el numeral 2 del artículo 55; el inciso b) del numeral 1 del artículo 61; el numeral 1 del artículo 71; y el artículo 79, y se adicionan el numeral 2 al artículo 49; el inciso f) al numeral 1 del artículo 50; el inciso c) al numeral 1 del artículo 53; el numeral 3 al artículo 54; el numeral 3 al artículo 55; el numeral 2 al artículo 61; el artículo 77 Ter; el inciso i) al numeral 1 del artículo 80; el Libro Séptimo denominado “Del Juicio Electoral”, conformado por los artículos 111 y 112, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -1384,7 +1354,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

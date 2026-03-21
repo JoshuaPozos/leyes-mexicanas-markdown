@@ -488,10 +488,7 @@ DECRETO por el que se reforman y derogan diversas disposiciones de la Ley para e
 Publicado en el Diario Oficial de la Federación el 13 de agosto de 2019
 
 ### Artículo Único
-Se reforman los artículos 18, primer párrafo, fracciones V y XIV, y párrafo cuarto; 19; 24, tercer párrafo y 25, primer párrafo y se deroga la fracción XVIII del artículo 3, y la fracción X del
-
-### artículo 18
-de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue: ……..
+Se reforman los artículos 18, primer párrafo, fracciones V y XIV, y párrafo cuarto; 19; 24, tercer párrafo y 25, primer párrafo y se deroga la fracción XVIII del artículo 3, y la fracción X del artículo 18 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue: ……..
 
 ## Transitorios
 

@@ -46,10 +46,7 @@ Para el inicio de los trabajos de elaboración del Plan Nacional de Desarrollo s
 Artículo reformado DOF 16-02-2018
 
 ### Artículo 6o
-.- El Presidente de la República informará al Congreso de la Unión sobre el estado general que guarda la administración pública del país, haciendo mención expresa de las acciones y los resultados obtenidos relacionados con la ejecución del Plan Nacional de Desarrollo, los Programas Sectoriales y, en su caso, los programas especiales, así como lo concerniente al cumplimiento de las disposiciones del
-
-### artículo 2o
-. Constitucional en materia de derechos y cultura indígena.
+.- El Presidente de la República informará al Congreso de la Unión sobre el estado general que guarda la administración pública del país, haciendo mención expresa de las acciones y los resultados obtenidos relacionados con la ejecución del Plan Nacional de Desarrollo, los Programas Sectoriales y, en su caso, los programas especiales, así como lo concerniente al cumplimiento de las disposiciones del artículo 2o. Constitucional en materia de derechos y cultura indígena.
 El contenido de la Cuenta Pública Federal deberá relacionarse, en lo conducente, con la información a que alude este artículo, a fin de permitir a la Cámara de Diputados su análisis con relación a los objetivos y prioridades del Plan Nacional de Desarrollo y de los Programas Sectoriales.
 Artículo reformado DOF 13-06-2003, 09-04-2012, 16-02-2018
 
@@ -445,10 +442,7 @@ DECRETO por el que se expide la Ley General en Materia de Humanidades, Ciencias,
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 ### Artículo Tercero
-Se reforman los artículos 17, fracción I; 27 y 29, párrafo segundo y se adiciona al
-
-### artículo 17
-, fracción I, el párrafo segundo, de la Ley de Planeación, para quedar como sigue: ……..
+Se reforman los artículos 17, fracción I; 27 y 29, párrafo segundo y se adiciona al artículo 17, fracción I, el párrafo segundo, de la Ley de Planeación, para quedar como sigue: ……..
 
 ## Transitorios
 

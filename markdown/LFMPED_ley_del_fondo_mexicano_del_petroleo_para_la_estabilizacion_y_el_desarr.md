@@ -61,10 +61,7 @@ Para efectos de lo dispuesto en el párrafo anterior, el Coordinador Ejecutivo t
 
 I. Ejecutar los acuerdos e instrucciones del Comité para efecto de ejercer las funciones a que se refiere el primer párrafo del presente artículo;
 
-II. Realizar el cálculo de las contraprestaciones que, conforme a los contratos citados en el
-
-### artículo 1
-de esta Ley, correspondan a los contratistas respectivos, así como instruir el pago de las mismas;
+II. Realizar el cálculo de las contraprestaciones que, conforme a los contratos citados en el artículo 1 de esta Ley, correspondan a los contratistas respectivos, así como instruir el pago de las mismas;
 
 III. Informar bimestralmente al Comité de la situación financiera del Fondo Mexicano del Petróleo, incluyendo ingresos, egresos, inversiones y demás información y operaciones relevantes;
 
@@ -75,10 +72,7 @@ V. Autorizar la reserva de información en posesión del Coordinador Ejecutivo y
 VI. Las demás que determine el Comité que correspondan a las atribuciones de éste.
 El Comité designará a un contralor interno que tendrá a su cargo examinar y dictaminar el desempeño de las funciones que correspondan al Coordinador Ejecutivo y su personal.
 El Coordinador Ejecutivo y el personal a que se refiere el primer párrafo del presente artículo, así como el contralor interno referido en el párrafo anterior, serán trabajadores del Banco de México, quienes deberán satisfacer los requisitos de contratación establecidos para todo el personal del Banco. Las remuneraciones que correspondan al Coordinador Ejecutivo y demás personal citado serán cubiertas con cargo a los honorarios fiduciarios, sujeto a la aprobación del Comité, así como a la política salarial del fiduciario.
-El Coordinador Ejecutivo será delegado fiduciario del Fondo Mexicano del Petróleo para llevar a cabo los actos a que se refiere el presente artículo y deberá cumplir con los requisitos establecidos en el
-
-### artículo 9
-, fracciones I a IV y VII, de esta Ley.
+El Coordinador Ejecutivo será delegado fiduciario del Fondo Mexicano del Petróleo para llevar a cabo los actos a que se refiere el presente artículo y deberá cumplir con los requisitos establecidos en el artículo 9, fracciones I a IV y VII, de esta Ley.
 Sin perjuicio de lo dispuesto en las demás disposiciones aplicables, el Coordinador Ejecutivo estará sujeto a lo establecido en el artículo 25 de esta Ley.
 
 ### Artículo 8
@@ -404,13 +398,7 @@ DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisió
 Publicado en el Diario Oficial de la Federación el 18 de marzo de 2025
 
 ### ARTÍCULO NOVENO
-Se reforman la fracción I del artículo 4; los incisos d) y f) de la fracción II del
-
-### artículo 8
-; la fracción VII del artículo 9; la fracción I del artículo 16; el tercer párrafo del artículo 22, y el
-
-### artículo 24
-de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, para quedar como sigue: ……..
+Se reforman la fracción I del artículo 4; los incisos d) y f) de la fracción II del artículo 8; la fracción VII del artículo 9; la fracción I del artículo 16; el tercer párrafo del artículo 22, y el artículo 24 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, para quedar como sigue: ……..
 
 ## Transitorios
 

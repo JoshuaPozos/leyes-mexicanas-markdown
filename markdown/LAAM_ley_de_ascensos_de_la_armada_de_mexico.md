@@ -9,10 +9,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 25 de junio de 200
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 LEY DE ASCENSOS DE LA ARMADA DE MEXICO TITULO PRIMERO Generalidades CAPITULO UNICO Bases generales ARTICULO 1o.- La presente Ley tiene por objeto regular los ascensos del personal de la Armada de México y será aplicable en igualdad de oportunidades entre mujeres y hombres. Ascenso es el acto mediante el cual el Mando promueve al personal militar en servicio activo al grado superior en el orden jerárquico dentro de la escala que fija la Ley Orgánica de la Armada de México.
-Artículo reformado DOF 26-01-2011, 17-12-2025 ARTICULO 2o.- Es facultad del Mando Supremo ascender al personal de Vicealmirantes, Contralmirantes, Capitanes de Navío y Capitanes de Fragata, de conformidad con lo dispuesto por el
-
-### artículo 89
-, fracción IV de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley.
+Artículo reformado DOF 26-01-2011, 17-12-2025 ARTICULO 2o.- Es facultad del Mando Supremo ascender al personal de Vicealmirantes, Contralmirantes, Capitanes de Navío y Capitanes de Fragata, de conformidad con lo dispuesto por el artículo 89, fracción IV de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley.
 Artículo reformado DOF 27-08-2010, 17-12-2025 ARTICULO 3o.- Es facultad del Alto Mando ascender al personal de Capitanes de Corbeta y Oficiales, previo acuerdo del Mando Supremo, según lo establecido en la presente Ley y demás disposiciones aplicables.
 Artículo reformado DOF 27-08-2010 ARTICULO 4o.- Es facultad del Alto Mando ascender al personal de clases y marinería según lo establecido en la presente Ley y demás disposiciones aplicables.
 Párrafo reformado DOF 27-08-2010

@@ -184,10 +184,7 @@ I. Construir, operar y explotar vías férreas, que sean vía general de comunic
 Las personas concesionarias o asignatarias podrán contratar con terceras personas la construcción, operación, conservación y mantenimiento de las vías férreas, pero, en todo momento, la persona concesionaria o asignataria será la única responsable ante la Secretaría o la Agencia, según corresponda, por las obligaciones establecidas a su cargo en la respectiva concesión o asignación, y Párrafo reformado DOF 16-07-2025
 
 II. Prestar el servicio público de transporte ferroviario.
-Las concesiones o asignaciones de que trata el presente artículo podrán comprender los permisos para prestar Servicios Auxiliares, caso en el cual no será necesario obtener el permiso a que se refiere el
-
-### artículo 15
-de la presente Ley.
+Las concesiones o asignaciones de que trata el presente artículo podrán comprender los permisos para prestar Servicios Auxiliares, caso en el cual no será necesario obtener el permiso a que se refiere el artículo 15 de la presente Ley.
 Párrafo reformado DOF 16-07-2025
 
 ### Artículo 8
@@ -772,9 +769,7 @@ Se reforma la fracción VII del artículo 6 Bis de la Ley Reglamentaria del Serv
 Ciudad de México, a 17 de octubre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintinueve de noviembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforma el artículo 46 de la Ley Reglamentaria del Servicio Ferroviario.
 Publicado en el Diario Oficial de la Federación el 24 de abril de 2018
-
-### Artículo único
-Se reforman los párrafos segundo, tercero y cuarto del artículo 46 de la Ley Reglamentaria del Servicio Ferroviario, para quedar como sigue: ………
+**Artículo único.-** Se reforman los párrafos segundo, tercero y cuarto del artículo 46 de la Ley Reglamentaria del Servicio Ferroviario, para quedar como sigue: ………
 
 ## Transitorio
 
@@ -894,7 +889,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

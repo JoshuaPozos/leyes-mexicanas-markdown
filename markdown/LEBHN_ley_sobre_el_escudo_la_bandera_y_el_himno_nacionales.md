@@ -8,13 +8,8 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 8 de febrero de 1984 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 MIGUEL DE LA MADRID HURTADO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO: "El Congreso de los Estados Unidos Mexicanos, decreta: .
-CAPITULO PRIMERO De los Símbolos Patrios
-
-### ARTÍCULO 1o
-.- El Escudo, la Bandera y el Himno Nacionales, son los Símbolos Patrios de los Estados Unidos Mexicanos. La presente Ley es de orden público y regula sus características y difusión, así como el uso del Escudo y de la Bandera, los honores a esta última y la ejecución del Himno.
-
-### ARTÍCULO 1o
-. Bis.- Para efectos de la presente Ley, se entenderá por:
+CAPITULO PRIMERO De los Símbolos Patrios ARTÍCULO 1o.- El Escudo, la Bandera y el Himno Nacionales, son los Símbolos Patrios de los Estados Unidos Mexicanos. La presente Ley es de orden público y regula sus características y difusión, así como el uso del Escudo y de la Bandera, los honores a esta última y la ejecución del Himno.
+ARTÍCULO 1o. Bis.- Para efectos de la presente Ley, se entenderá por:
 
 I. Autoridades: a los entes públicos que integran a los poderes Ejecutivo, Legislativo y Judicial de los tres órdenes de gobierno, así como los entes públicos que conforme a las disposiciones jurídicas de dichos órdenes de gobierno les confieren autonomía de éstos;
 
@@ -25,74 +20,30 @@ III. Uso Oficial: a la utilización de los Símbolos Patrios por las Autoridades
 IV. Abanderamiento: a la entrega oficial de la Bandera Nacional a las Autoridades e Instituciones;
 
 V. Autoridad Encargada de Abanderar: al representante del Poder Ejecutivo de la Federación, de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México.
-Artículo adicionado DOF 11-05-2018 CAPITULO SEGUNDO De las características de los Símbolos Patrios
-
-### ARTÍCULO 2o
-.- El Escudo Nacional está constituido por un águila mexicana, con el perfil izquierdo expuesto, la parte superior de las alas en un nivel más alto que el penacho y ligeramente desplegadas en actitud de combate; con el plumaje de sustentación hacia abajo tocando la cola y las plumas de ésta en abanico natural. Posada su garra izquierda sobre un nopal florecido que nace en una peña que emerge de un lago, sujeta con la derecha y con el pico, en actitud de devorar, a una serpiente curvada, de modo que armonice con el conjunto. Varias pencas del nopal se ramifican a los lados. Dos ramas, una de encino al frente del águila y otra de laurel al lado opuesto, forman entre ambas un semicírculo inferior y se unen por medio de un listón dividido en tres franjas que, cuando se representa el Escudo Nacional en colores naturales, corresponden a los de la Bandera Nacional.
+Artículo adicionado DOF 11-05-2018 CAPITULO SEGUNDO De las características de los Símbolos Patrios ARTÍCULO 2o.- El Escudo Nacional está constituido por un águila mexicana, con el perfil izquierdo expuesto, la parte superior de las alas en un nivel más alto que el penacho y ligeramente desplegadas en actitud de combate; con el plumaje de sustentación hacia abajo tocando la cola y las plumas de ésta en abanico natural. Posada su garra izquierda sobre un nopal florecido que nace en una peña que emerge de un lago, sujeta con la derecha y con el pico, en actitud de devorar, a una serpiente curvada, de modo que armonice con el conjunto. Varias pencas del nopal se ramifican a los lados. Dos ramas, una de encino al frente del águila y otra de laurel al lado opuesto, forman entre ambas un semicírculo inferior y se unen por medio de un listón dividido en tres franjas que, cuando se representa el Escudo Nacional en colores naturales, corresponden a los de la Bandera Nacional.
 Cuando el Escudo Nacional se reproduzca en el reverso de la Bandera Nacional, el águila mexicana se presentará posada en su garra derecha, sujetando con la izquierda y el pico la serpiente curvada.
 Párrafo adicionado DOF 09-05-1995 Un modelo del Escudo Nacional, autenticado por los tres poderes de la Unión, permanecerá depositado en el Archivo General de la Nación, uno en el Museo Nacional de Historia y otro en la Casa de Moneda.
-
-### ARTÍCULO 3o
-.- La Bandera Nacional consiste en un rectángulo dividido en tres franjas verticales de medidas idénticas, con los colores en el siguiente orden a partir del asta: verde, blanco y rojo. En la franja blanca y al centro, tiene el Escudo Nacional, con un diámetro de tres cuartas partes del ancho de dicha franja. La proporción entre anchura y longitud de la bandera, es de cuatro a siete. Podrá llevar un lazo o corbata de los mismos colores, al pie de la moharra.
+ARTÍCULO 3o.- La Bandera Nacional consiste en un rectángulo dividido en tres franjas verticales de medidas idénticas, con los colores en el siguiente orden a partir del asta: verde, blanco y rojo. En la franja blanca y al centro, tiene el Escudo Nacional, con un diámetro de tres cuartas partes del ancho de dicha franja. La proporción entre anchura y longitud de la bandera, es de cuatro a siete. Podrá llevar un lazo o corbata de los mismos colores, al pie de la moharra.
 Un modelo de la Bandera Nacional, autenticado por los tres poderes de la Unión, permanecerá depositado en el Archivo General de la Nación y otro en el Museo Nacional de Historia.
-
-### ARTÍCULO 4o
-.- La letra y música del Himno Nacional son las que aparecen en el capítulo especial de esta Ley. El texto y música del Himno Nacional, autenticados por los tres poderes de la Unión, permanecerán depositados en el Archivo General de la Nación, en la Biblioteca Nacional y en el Museo Nacional de Historia.
-CAPITULO TERCERO Del Uso y Difusión del Escudo Nacional
-
-### ARTÍCULO 5o
-.- Toda reproducción del Escudo Nacional deberá corresponder fielmente al modelo a que se refiere el Artículo 2o. de esta Ley, el cual no podrá variarse o alterarse bajo ninguna circunstancia.
-Artículo reformado DOF 21-01-2008
-
-### ARTÍCULO 6o
-.- Las Autoridades podrán hacer Uso Oficial del Escudo Nacional sin autorización de la Secretaría de Gobernación. Asimismo, las Instituciones y personas físicas, previa autorización de la Secretaría de Gobernación y apegándose estrictamente a lo establecido en los artículos 2o. y 5o. de la presente Ley, podrán reproducir el Escudo Nacional cuando contribuya al culto y respeto de dicho Símbolo Patrio, así como a difundir su origen, historia y significado.
+ARTÍCULO 4o.- La letra y música del Himno Nacional son las que aparecen en el capítulo especial de esta Ley. El texto y música del Himno Nacional, autenticados por los tres poderes de la Unión, permanecerán depositados en el Archivo General de la Nación, en la Biblioteca Nacional y en el Museo Nacional de Historia.
+CAPITULO TERCERO Del Uso y Difusión del Escudo Nacional ARTÍCULO 5o.- Toda reproducción del Escudo Nacional deberá corresponder fielmente al modelo a que se refiere el Artículo 2o. de esta Ley, el cual no podrá variarse o alterarse bajo ninguna circunstancia.
+Artículo reformado DOF 21-01-2008 ARTÍCULO 6o.- Las Autoridades podrán hacer Uso Oficial del Escudo Nacional sin autorización de la Secretaría de Gobernación. Asimismo, las Instituciones y personas físicas, previa autorización de la Secretaría de Gobernación y apegándose estrictamente a lo establecido en los artículos 2o. y 5o. de la presente Ley, podrán reproducir el Escudo Nacional cuando contribuya al culto y respeto de dicho Símbolo Patrio, así como a difundir su origen, historia y significado.
 Cuando las Autoridades hagan Uso Oficial del Escudo Nacional en monedas, medallas, sellos, papel, edificios, vehículos y sitios de Internet, en la reproducción de dicho Símbolo Patrio sólo se podrán inscribir las palabras "Estados Unidos Mexicanos", las cuales deben formar un semicírculo superior en relación con el Escudo Nacional.
-Artículo reformado DOF 21-01-2008, 11-05-2018 CAPITULO CUARTO Del Uso, Difusión y Honores de la Bandera Nacional
-
-### ARTÍCULO 7o
-.- Las Autoridades podrán inscribir su denominación en la Bandera Nacional, siempre que ello contribuya al culto y respeto de dicho Símbolo Patrio, no invada el Escudo Nacional y el ejemplar se apegue estrictamente a lo establecido en el artículo 3o. de la presente Ley.
+Artículo reformado DOF 21-01-2008, 11-05-2018 CAPITULO CUARTO Del Uso, Difusión y Honores de la Bandera Nacional ARTÍCULO 7o.- Las Autoridades podrán inscribir su denominación en la Bandera Nacional, siempre que ello contribuya al culto y respeto de dicho Símbolo Patrio, no invada el Escudo Nacional y el ejemplar se apegue estrictamente a lo establecido en el artículo 3o. de la presente Ley.
 Las Instituciones, previa autorización de la Secretaría de Gobernación, podrán inscribir su denominación o razón social en la Bandera Nacional conforme a lo establecido en el párrafo anterior.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 8o
-.- Corresponde a la Secretaría de Gobernación promover y regular, a través de lineamientos, el Abanderamiento, en términos de esta Ley y su Reglamento.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 9o
-.- En festividades cívicas o ceremonias oficiales en que esté presente la Bandera Nacional, deberán rendírsele los honores que le corresponden en los términos previstos en esta Ley y los Reglamentos aplicables; honores que, cuando menos, consistirán en el saludo civil simultáneo de todos los presentes, de acuerdo con el Artículo 14 de esta misma Ley.
-
-### ARTÍCULO 10
-.- El 24 de febrero se establece solemnemente como Día de la Bandera. En este día se deberán transmitir programas especiales de radio y televisión destinados a difundir la historia y significación de la Bandera Nacional. En esta fecha, las Autoridades realizarán jornadas cívicas en conmemoración, veneración y exaltación de la Bandera Nacional.
-Artículo reformado DOF 20-10-2007, 11-05-2018
-
-### ARTÍCULO 11
-.- En los inmuebles de las Autoridades que por sus características lo permitan, se deberán rendir honores a la Bandera Nacional con carácter obligatorio los días 24 de febrero, 15 y 16 de septiembre y 20 de noviembre de cada año.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 8o.- Corresponde a la Secretaría de Gobernación promover y regular, a través de lineamientos, el Abanderamiento, en términos de esta Ley y su Reglamento.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 9o.- En festividades cívicas o ceremonias oficiales en que esté presente la Bandera Nacional, deberán rendírsele los honores que le corresponden en los términos previstos en esta Ley y los Reglamentos aplicables; honores que, cuando menos, consistirán en el saludo civil simultáneo de todos los presentes, de acuerdo con el Artículo 14 de esta misma Ley.
+ARTÍCULO 10.- El 24 de febrero se establece solemnemente como Día de la Bandera. En este día se deberán transmitir programas especiales de radio y televisión destinados a difundir la historia y significación de la Bandera Nacional. En esta fecha, las Autoridades realizarán jornadas cívicas en conmemoración, veneración y exaltación de la Bandera Nacional.
+Artículo reformado DOF 20-10-2007, 11-05-2018 ARTÍCULO 11.- En los inmuebles de las Autoridades que por sus características lo permitan, se deberán rendir honores a la Bandera Nacional con carácter obligatorio los días 24 de febrero, 15 y 16 de septiembre y 20 de noviembre de cada año.
 Las Autoridades y las Instituciones podrán rendir honores a la Bandera Nacional, observando la solemnidad y el ritual descrito en los artículos 9o., 12, 14 y 42 de esta Ley y su Reglamento. En dichos honores se deberá interpretar el Himno Nacional.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 12
-.- Los honores a la Bandera Nacional se harán siempre con antelación a los que deban rendirse a personas.
-
-### ARTÍCULO 13
-.- La Bandera Nacional saludará, mediante ligera inclinación, sin tocar el suelo, solamente a otra Bandera, nacional o extranjera; en ceremonia especial, a los restos o símbolos de los héroes de la Patria; y para corresponder el saludo del Presidente de la República o de un Jefe de Estado extranjero en caso de reciprocidad internacional. Fuera de estos casos, no saludará a personas o símbolo alguno.
-
-### ARTÍCULO 14
-.- El saludo civil a la Bandera Nacional se hará en posición de firme, colocando la mano derecha extendida sobre el pecho, con la palma hacia abajo, a la altura del corazón. Los varones saludarán, además con la cabeza descubierta. El Presidente de la República, como Jefe Supremo de las fuerzas armadas, la saludará militarmente.
-
-### ARTÍCULO 15
-.- En los edificios sede de las Autoridades y de las representaciones diplomáticas y consulares de México en el extranjero, así como en los edificios de las Autoridades e Instituciones que presten servicios educativos y médicos y en las oficinas migratorias, aduanas, capitanías de puerto, aeropuertos, y en plazas públicas que las propias Autoridades determinen dentro de su territorio, deberá izarse la Bandera Nacional en las fechas establecidas en el artículo 18 de esta Ley y conforme a dicha disposición. Todas las naves aéreas y marítimas mexicanas portarán la Bandera Nacional y la usarán conforme a las Leyes y Reglamentos aplicables.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 12.- Los honores a la Bandera Nacional se harán siempre con antelación a los que deban rendirse a personas.
+ARTÍCULO 13.- La Bandera Nacional saludará, mediante ligera inclinación, sin tocar el suelo, solamente a otra Bandera, nacional o extranjera; en ceremonia especial, a los restos o símbolos de los héroes de la Patria; y para corresponder el saludo del Presidente de la República o de un Jefe de Estado extranjero en caso de reciprocidad internacional. Fuera de estos casos, no saludará a personas o símbolo alguno.
+ARTÍCULO 14.- El saludo civil a la Bandera Nacional se hará en posición de firme, colocando la mano derecha extendida sobre el pecho, con la palma hacia abajo, a la altura del corazón. Los varones saludarán, además con la cabeza descubierta. El Presidente de la República, como Jefe Supremo de las fuerzas armadas, la saludará militarmente.
+ARTÍCULO 15.- En los edificios sede de las Autoridades y de las representaciones diplomáticas y consulares de México en el extranjero, así como en los edificios de las Autoridades e Instituciones que presten servicios educativos y médicos y en las oficinas migratorias, aduanas, capitanías de puerto, aeropuertos, y en plazas públicas que las propias Autoridades determinen dentro de su territorio, deberá izarse la Bandera Nacional en las fechas establecidas en el artículo 18 de esta Ley y conforme a dicha disposición. Todas las naves aéreas y marítimas mexicanas portarán la Bandera Nacional y la usarán conforme a las Leyes y Reglamentos aplicables.
 En los edificios de las Autoridades e Instituciones que prestan servicios educativos, deberá rendirse honores a la Bandera Nacional los lunes, al inicio de las labores escolares o en una hora que las propias Autoridades e Instituciones determinen en ese día, así como al inicio y fin del ciclo escolar.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 16
-.- En los edificios y lugares a que se refiere el primer párrafo del artículo 15 de esta Ley, la Bandera Nacional permanecerá izada todos los días del año, salvo en casos fortuitos o de fuerza mayor.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 17
-.- Las Banderas para los inmuebles a que se refieren los artículos anteriores, tendrán las dimensiones y la conservación adecuadas a su uso y dignidad, y se confiarán al cuidado del personal que para el efecto se designe, el cual vigilará que en las fechas correspondientes sean izadas y arriadas puntualmente, con los honores relativos, en donde fuere posible.
-
-### ARTÍCULO 18
-.- En los edificios y lugares a que se refiere el primer párrafo del artículo 15 de esta Ley, la Bandera Nacional deberá izarse:
+Artículo reformado DOF 11-05-2018 ARTÍCULO 16.- En los edificios y lugares a que se refiere el primer párrafo del artículo 15 de esta Ley, la Bandera Nacional permanecerá izada todos los días del año, salvo en casos fortuitos o de fuerza mayor.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 17.- Las Banderas para los inmuebles a que se refieren los artículos anteriores, tendrán las dimensiones y la conservación adecuadas a su uso y dignidad, y se confiarán al cuidado del personal que para el efecto se designe, el cual vigilará que en las fechas correspondientes sean izadas y arriadas puntualmente, con los honores relativos, en donde fuere posible.
+ARTÍCULO 18.- En los edificios y lugares a que se refiere el primer párrafo del artículo 15 de esta Ley, la Bandera Nacional deberá izarse:
 
 I. A toda asta en las fechas y conmemoraciones siguientes: 1. 9 de enero:
 Conmemoración de la Señora 6 Mono, gobernante mixteca; 2. 16 de enero:
@@ -180,174 +131,66 @@ Aniversario de la muerte de Dolores Jiménez y Muro, en 1925; 30. 3 de noviembre
 Aniversario de la muerte de Elena Arizmendi, en 1949; 31. 25 de noviembre:
 Día Internacional de la eliminación de la violencia contra la mujer, y 32. 22 de diciembre:
 Aniversario de la muerte de José María Morelos, en 1815.
-Artículo reformado DOF 09-01-1991, 09-05-1995, 03-01-2005, 03-02-2006, 02-06-2006, 20-10-2007, 17-06-2011, 20-12-2011, 17-01-2012, 10-06-2013, 16-04-2014, 27-01-2015, 01-12-2016, 11-05-2018, 23-03-2022, 19-01-2023, 21-07-2025
-
-### ARTÍCULO 19
-.- En acontecimientos de excepcional importancia para el país, el Presidente de la República podrá acordar el izamiento de la Bandera Nacional en días distintos a los señalados en el artículo anterior. Igual facultad se establece para los Gobernadores de la Entidades Federativas, en casos semejantes dentro de sus respectivas jurisdicciones.
-
-### ARTÍCULO 20
-.- Derogado Artículo derogado DOF 11-05-2018
-
-### ARTÍCULO 21
-.- Es obligatorio para todos los planteles educativos del país, oficiales o particulares, poseer una Bandera Nacional, con objeto de utilizarla en actos cívicos y afirmar entre los alumnos el culto y respeto que a ella se le debe profesar.
-
-### ARTÍCULO 22
-.- Cuando una Bandera Nacional sea condecorada, la insignia respectiva se le prenderá en la corbata.
-
-### ARTÍCULO 23
-.- En los actos oficiales de carácter internacional que se efectúen en la República, sólo podrán izarse o concurrir las banderas de los países con los que el Gobierno Mexicano sostenga relaciones diplomáticas, y se les tributarán los mismos honores que a la Bandera Nacional. En actos internacionales de carácter deportivo, cultural o de otra naturaleza, en que México sea país sede, podrán izarse o concurrir aun las banderas de los países con los que México no mantenga relaciones diplomáticas, con apego al ceremonial correspondiente.
-
-### ARTÍCULO 23
-Bis.- En los eventos deportivos de carácter internacional que se celebren dentro del territorio nacional, el Abanderamiento y la ejecución del Himno Nacional, así como el uso de la Bandera Nacional, se ajustarán a lo previsto en el presente ordenamiento y a su Reglamento.
-Artículo adicionado DOF 11-05-2018
-
-### ARTÍCULO 24
-.- Cuando a una ceremonia concurran la Bandera Nacional y una o más banderas de países extranjeros, se harán primero los honores a la Nacional y, en seguida, a las demás, en el orden que corresponda.
+Artículo reformado DOF 09-01-1991, 09-05-1995, 03-01-2005, 03-02-2006, 02-06-2006, 20-10-2007, 17-06-2011, 20-12-2011, 17-01-2012, 10-06-2013, 16-04-2014, 27-01-2015, 01-12-2016, 11-05-2018, 23-03-2022, 19-01-2023, 21-07-2025 ARTÍCULO 19.- En acontecimientos de excepcional importancia para el país, el Presidente de la República podrá acordar el izamiento de la Bandera Nacional en días distintos a los señalados en el artículo anterior. Igual facultad se establece para los Gobernadores de la Entidades Federativas, en casos semejantes dentro de sus respectivas jurisdicciones.
+ARTÍCULO 20.- Derogado Artículo derogado DOF 11-05-2018 ARTÍCULO 21.- Es obligatorio para todos los planteles educativos del país, oficiales o particulares, poseer una Bandera Nacional, con objeto de utilizarla en actos cívicos y afirmar entre los alumnos el culto y respeto que a ella se le debe profesar.
+ARTÍCULO 22.- Cuando una Bandera Nacional sea condecorada, la insignia respectiva se le prenderá en la corbata.
+ARTÍCULO 23.- En los actos oficiales de carácter internacional que se efectúen en la República, sólo podrán izarse o concurrir las banderas de los países con los que el Gobierno Mexicano sostenga relaciones diplomáticas, y se les tributarán los mismos honores que a la Bandera Nacional. En actos internacionales de carácter deportivo, cultural o de otra naturaleza, en que México sea país sede, podrán izarse o concurrir aun las banderas de los países con los que México no mantenga relaciones diplomáticas, con apego al ceremonial correspondiente.
+ARTÍCULO 23 Bis.- En los eventos deportivos de carácter internacional que se celebren dentro del territorio nacional, el Abanderamiento y la ejecución del Himno Nacional, así como el uso de la Bandera Nacional, se ajustarán a lo previsto en el presente ordenamiento y a su Reglamento.
+Artículo adicionado DOF 11-05-2018 ARTÍCULO 24.- Cuando a una ceremonia concurran la Bandera Nacional y una o más banderas de países extranjeros, se harán primero los honores a la Nacional y, en seguida, a las demás, en el orden que corresponda.
 La Bandera Nacional ocupará el lugar de honor cuando estén presentes una o más banderas extranjeras.
-
-### ARTÍCULO 25
-.- Para el Abanderamiento se observará lo siguiente:
+ARTÍCULO 25.- Para el Abanderamiento se observará lo siguiente:
 
 I. La Autoridad Encargada de Abanderar tomará la Bandera Nacional y se dirigirá al representante de la Autoridad o Institución quien recibirá el Símbolo Patrio, de conformidad con lo siguiente: "Ciudadanos (o jóvenes, niños, alumnos, o la denominación o razón social que corresponda a la Autoridad o Institución): Vengo, en nombre de México, a encomendar a su patriotismo, esta Bandera que simboliza su independencia, su honor, sus instituciones y la integridad de su territorio. ¿Protestan honrarla y defenderla con lealtad y constancia?".
 La escolta de la Autoridad o Institución abanderada contestará: "Sí, protesto".
 La Autoridad Encargada de Abanderar proseguirá: "Al concederles el honor de ponerla en sus manos, la Patria confía en que, como buenos y leales mexicanos, sabrán cumplir su protesta", y
 
 II. Realizada la protesta a que se refiere la fracción anterior, la Autoridad Encargada de Abanderar entregará la Bandera Nacional al representante de la Autoridad o Institución para recibirla, quien a su vez la pasará al abanderado de la escolta. Si hay banda de música y de guerra tocarán simultáneamente el Himno Nacional y "Bandera", a cuyos acordes el abanderado con su escolta pasará a colocarse al lugar más relevante del recinto o local. En caso de que no haya banda de guerra solamente se tocará o cantará el Himno Nacional.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 26
-.- Cuando haya varias Autoridades o Instituciones que reciban la Bandera Nacional en un Abanderamiento, éstas deben proceder de conformidad con lo previsto en el Reglamento de esta Ley.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 27
-.- Cuando las escoltas de las Autoridades o Instituciones desfilen con la Bandera Nacional, el abanderado se colocará la portabandera, de modo que la cuja caiga sobre su cadera derecha e introducirá el regatón de la asta en la cuja y con la mano derecha a la altura del hombro mantendrá la Bandera Nacional y cuidará que quede ligeramente inclinada hacia adelante, evitando siempre que toque el suelo.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 28
-.- Al hacer alto, se sacará el asta de la cuja y se bajará hasta que el regatón toque el suelo a diez centímetros, aproximadamente, a la derecha de la punta del pie de ese costado, sosteniéndola con la mano derecha a la altura del pecho, en posición vertical.
-
-### ARTÍCULO 29
-.- En ceremonias de duración prolongada, el abanderado y el personal de la escolta podrán ser sustituidos.
-
-### ARTÍCULO 30
-.- Cuando dos grupos que lleven la Bandera Nacional se encuentren sobre la marcha, los abanderados, al llegar a seis pasos de distancia uno de otro, subirán la mano derecha en el asta a la altura de los ojos; después de haber dado dos pasos inclinarán la Bandera con lentitud hacia el frente sin que toque el suelo y la mantendrán en esta posición hasta que hayan rebasado cuatro pasos, momento en el cual volverán a levantarla del mismo modo, y cuando hayan avanzado dos pasos más, bajarán la mano a su puesto. Si uno de los grupos estuviere de pie firme, el abanderado sólo contestará el saludo en la forma prevista por el artículo 13.
-
-### ARTÍCULO 31
-.- El vehículo que use el Presidente de la República podrá llevar la Bandera Nacional.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 26.- Cuando haya varias Autoridades o Instituciones que reciban la Bandera Nacional en un Abanderamiento, éstas deben proceder de conformidad con lo previsto en el Reglamento de esta Ley.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 27.- Cuando las escoltas de las Autoridades o Instituciones desfilen con la Bandera Nacional, el abanderado se colocará la portabandera, de modo que la cuja caiga sobre su cadera derecha e introducirá el regatón de la asta en la cuja y con la mano derecha a la altura del hombro mantendrá la Bandera Nacional y cuidará que quede ligeramente inclinada hacia adelante, evitando siempre que toque el suelo.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 28.- Al hacer alto, se sacará el asta de la cuja y se bajará hasta que el regatón toque el suelo a diez centímetros, aproximadamente, a la derecha de la punta del pie de ese costado, sosteniéndola con la mano derecha a la altura del pecho, en posición vertical.
+ARTÍCULO 29.- En ceremonias de duración prolongada, el abanderado y el personal de la escolta podrán ser sustituidos.
+ARTÍCULO 30.- Cuando dos grupos que lleven la Bandera Nacional se encuentren sobre la marcha, los abanderados, al llegar a seis pasos de distancia uno de otro, subirán la mano derecha en el asta a la altura de los ojos; después de haber dado dos pasos inclinarán la Bandera con lentitud hacia el frente sin que toque el suelo y la mantendrán en esta posición hasta que hayan rebasado cuatro pasos, momento en el cual volverán a levantarla del mismo modo, y cuando hayan avanzado dos pasos más, bajarán la mano a su puesto. Si uno de los grupos estuviere de pie firme, el abanderado sólo contestará el saludo en la forma prevista por el artículo 13.
+ARTÍCULO 31.- El vehículo que use el Presidente de la República podrá llevar la Bandera Nacional.
 En el extranjero, los Jefes de Misión Diplomática podrán portar, en asta, la Bandera Nacional en el vehículo que utilicen.
-
-### ARTÍCULO 32
-.- Las personas físicas podrán usar la Bandera Nacional en sus vehículos o exhibirla en sus lugares de residencia o de trabajo, siempre y cuando observen el respeto que corresponde a dicho Símbolo Patrio. En estos casos, la Bandera Nacional podrá ser de cualquier dimensión.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 32
-Bis.- Las personas físicas e Instituciones no podrán usar la Bandera Nacional para promover su imagen, bienes o servicios.
-Artículo adicionado DOF 11-05-2018
-
-### ARTÍCULO 33
-.- Los ejemplares de la Bandera Nacional destinados al comercio deben apegarse a lo establecido en el artículo 3o. de este ordenamiento. No se podrán comercializar los ejemplares de la Bandera Nacional que contengan las inscripciones realizadas conforme al artículo 7o. de esta Ley.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 33
-Bis.- Los accesorios en que se reproduzcan la Bandera o el Himno Nacionales para efectos comerciales, deberán cumplir con los requisitos que establezca el Reglamento de esta Ley, de conformidad con lo previsto en la presente Ley.
-Artículo adicionado DOF 11-05-2018
-
-### ARTÍCULO 34
-. La Banda Presidencial constituye una forma de presentación de la Bandera Nacional y es emblema del Poder Ejecutivo Federal, por lo que sólo podrá ser portada por el Presidente de la República, y tendrá los colores de la Bandera Nacional en franjas de igual anchura colocadas longitudinalmente, correspondiendo el color verde a la franja superior. Llevará el Escudo Nacional sobre los tres colores, bordado en hilo dorado, a la altura del pecho del portador, y los extremos de la Banda rematarán con un fleco dorado.
-Artículo reformado DOF 23-06-2010, 30-11-2018
-
-### ARTÍCULO 35
-.- El Presidente de la República portará la Banda Presidencial en las ceremonias oficiales de mayor solemnidad, pero tendrá obligación de llevarla:
+ARTÍCULO 32.- Las personas físicas podrán usar la Bandera Nacional en sus vehículos o exhibirla en sus lugares de residencia o de trabajo, siempre y cuando observen el respeto que corresponde a dicho Símbolo Patrio. En estos casos, la Bandera Nacional podrá ser de cualquier dimensión.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 32 Bis.- Las personas físicas e Instituciones no podrán usar la Bandera Nacional para promover su imagen, bienes o servicios.
+Artículo adicionado DOF 11-05-2018 ARTÍCULO 33.- Los ejemplares de la Bandera Nacional destinados al comercio deben apegarse a lo establecido en el artículo 3o. de este ordenamiento. No se podrán comercializar los ejemplares de la Bandera Nacional que contengan las inscripciones realizadas conforme al artículo 7o. de esta Ley.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 33 Bis.- Los accesorios en que se reproduzcan la Bandera o el Himno Nacionales para efectos comerciales, deberán cumplir con los requisitos que establezca el Reglamento de esta Ley, de conformidad con lo previsto en la presente Ley.
+Artículo adicionado DOF 11-05-2018 ARTÍCULO 34. La Banda Presidencial constituye una forma de presentación de la Bandera Nacional y es emblema del Poder Ejecutivo Federal, por lo que sólo podrá ser portada por el Presidente de la República, y tendrá los colores de la Bandera Nacional en franjas de igual anchura colocadas longitudinalmente, correspondiendo el color verde a la franja superior. Llevará el Escudo Nacional sobre los tres colores, bordado en hilo dorado, a la altura del pecho del portador, y los extremos de la Banda rematarán con un fleco dorado.
+Artículo reformado DOF 23-06-2010, 30-11-2018 ARTÍCULO 35.- El Presidente de la República portará la Banda Presidencial en las ceremonias oficiales de mayor solemnidad, pero tendrá obligación de llevarla:
 I.- En la transmisión del Poder Ejecutivo Federal;
 II.- Al rendir anualmente su informe ante el Congreso de la Unión;
 Fracción reformada DOF 09-01-1991 III.- En la conmemoración del Grito de Dolores, la noche del 15 de septiembre, y IV.- Al recibir las cartas credenciales de los embajadores y ministros acreditados ante el Gobierno Mexicano.
-
-### ARTÍCULO 36
-.- La Banda Presidencial deberá colocarse del hombro derecho al costado izquierdo, debajo del saco y unida a nivel de la cintura, excepto en la ceremonia de transmisión del Poder Ejecutivo Federal, en la que sucesivamente la portarán, descubierta en su totalidad, el Presidente saliente y el entrante.
-
-### ARTÍCULO 37
-.- En la ceremonia de transmisión del Poder Ejecutivo Federal, una vez que el Presidente entrante haya rendido la protesta constitucional, el saliente entregará la Banda al Presidente del Congreso de la Unión, quien la pondrá en manos del Presidente de la República para que éste se la coloque a sí mismo.
-CAPITULO QUINTO De la Ejecución y Difusión del Himno Nacional
-
-### ARTÍCULO 38
-.- El canto, ejecución, reproducción y circulación del Himno Nacional, se apegarán a la letra y música de la versión establecida en la presente Ley. La interpretación del Himno se hará siempre de manera respetuosa y en un ámbito que permita observar la debida solemnidad.
-
-### ARTÍCULO 39
-.- Queda estrictamente prohibido alterar la letra o música del Himno Nacional y ejecutarlo total o parcialmente con composiciones o arreglos. Asimismo, se prohíbe cantar o ejecutar el Himno Nacional con fines de lucro.
+ARTÍCULO 36.- La Banda Presidencial deberá colocarse del hombro derecho al costado izquierdo, debajo del saco y unida a nivel de la cintura, excepto en la ceremonia de transmisión del Poder Ejecutivo Federal, en la que sucesivamente la portarán, descubierta en su totalidad, el Presidente saliente y el entrante.
+ARTÍCULO 37.- En la ceremonia de transmisión del Poder Ejecutivo Federal, una vez que el Presidente entrante haya rendido la protesta constitucional, el saliente entregará la Banda al Presidente del Congreso de la Unión, quien la pondrá en manos del Presidente de la República para que éste se la coloque a sí mismo.
+CAPITULO QUINTO De la Ejecución y Difusión del Himno Nacional ARTÍCULO 38.- El canto, ejecución, reproducción y circulación del Himno Nacional, se apegarán a la letra y música de la versión establecida en la presente Ley. La interpretación del Himno se hará siempre de manera respetuosa y en un ámbito que permita observar la debida solemnidad.
+ARTÍCULO 39.- Queda estrictamente prohibido alterar la letra o música del Himno Nacional y ejecutarlo total o parcialmente con composiciones o arreglos. Asimismo, se prohíbe cantar o ejecutar el Himno Nacional con fines de lucro.
 Para cantar o ejecutar los himnos de otras naciones en territorio nacional, se deberá tramitar la autorización correspondiente ante la Secretaría de Gobernación, sin perjuicio de lo que señalen las disposiciones de cada país.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 39
-Bis.- Los pueblos y comunidades indígenas y afromexicanas podrán cantar el Himno Nacional, traducido a la lengua que en cada caso corresponda.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 39 Bis.- Los pueblos y comunidades indígenas y afromexicanas podrán cantar el Himno Nacional, traducido a la lengua que en cada caso corresponda.
 Los pueblos y comunidades indígenas y afromexicanas, a través de sus autoridades o representantes, podrán solicitar a la Secretaría de Gobernación la autorización de sus propias traducciones del Himno Nacional, previo dictamen del Instituto Nacional de Lenguas Indígenas. La Secretaría de Gobernación llevará el registro de las traducciones autorizadas.
 El Instituto Nacional de Lenguas Indígenas podrá asesorar a los pueblos y comunidades indígenas y afromexicanas en las traducciones que realicen del Himno Nacional a sus lenguas.
-Artículo adicionado DOF 07-12-2005. Reformado DOF 17-12-2015, 11-05-2018, 01-04-2024
-
-### ARTÍCULO 40
-.- Las ediciones o reproducciones del Himno Nacional deberán apegarse estrictamente a la letra y partitura de la música establecida en los artículos 57 y 58 de esta Ley.
+Artículo adicionado DOF 07-12-2005. Reformado DOF 17-12-2015, 11-05-2018, 01-04-2024 ARTÍCULO 40.- Las ediciones o reproducciones del Himno Nacional deberán apegarse estrictamente a la letra y partitura de la música establecida en los artículos 57 y 58 de esta Ley.
 Cualquier persona física o moral, que realice una exhibición sobre el Himno Nacional o sus autores, o que tengan motivos de aquél, ya sea en espectáculos de teatro, cine, radio, televisión u otros homólogos, necesitarán de la autorización de las secretarías de Gobernación y Cultura, conforme a sus respectivas competencias.
-Artículo reformado DOF 17-12-2015, 11-05-2018
-
-### ARTÍCULO 41
-.- Los concesionarios de uso comercial, público y social que presten servicios de radiodifusión a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión están obligados a transmitir, dentro de los tiempos del Estado, el Himno Nacional a las seis y veinticuatro horas y, en el caso de la televisión, además, simultáneamente la imagen de la Bandera Nacional.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 42
-.- El Himno Nacional sólo se ejecutará, total o parcialmente, en actos solemnes de carácter oficial, cívico, cultural, escolar o deportivo, y para rendir honores tanto a la Bandera Nacional como al Presidente de la República. En estos dos últimos casos, se ejecutará la música del coro, de la primera estrofa y se terminará con la repetición de la del coro.
+Artículo reformado DOF 17-12-2015, 11-05-2018 ARTÍCULO 41.- Los concesionarios de uso comercial, público y social que presten servicios de radiodifusión a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión están obligados a transmitir, dentro de los tiempos del Estado, el Himno Nacional a las seis y veinticuatro horas y, en el caso de la televisión, además, simultáneamente la imagen de la Bandera Nacional.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 42.- El Himno Nacional sólo se ejecutará, total o parcialmente, en actos solemnes de carácter oficial, cívico, cultural, escolar o deportivo, y para rendir honores tanto a la Bandera Nacional como al Presidente de la República. En estos dos últimos casos, se ejecutará la música del coro, de la primera estrofa y se terminará con la repetición de la del coro.
 En los eventos deportivos organizados en territorio nacional por las asociaciones o sociedades deportivas a que se refiere la Ley General de Cultura Física y Deporte, podrán rendir honores a la Bandera Nacional con la interpretación del Himno Nacional de manera previa a la realización de dichos eventos. Los honores deberán realizarse de manera respetuosa y solemne.
-Párrafo adicionado DOF 11-05-2018
-
-### ARTÍCULO 43
-.- En el caso de ejecución del Himno Nacional para hacer honores al Presidente de la República, las bandas de guerra tocarán "Marcha de Honor"; cuando el Himno sea entonado, las bandas de guerra permanecerán en silencio, pero en el caso de honores a la bandera, la banda de música ejecutará el Himno y las de guerra tocarán "Bandera" simultáneamente. En ninguna ceremonia se ejecutará el Himno Nacional más de dos veces para hacer honores a la Bandera ni más de dos veces para rendir honores al Presidente de la República.
-
-### ARTÍCULO 44
-.- Durante solemnidades cívicas en que conjuntos corales entonen el Himno Nacional, las bandas de guerra guardarán silencio.
-
-### ARTÍCULO 45
-.- La demostración civil de respeto al Himno Nacional se hará en posición de firme. Los varones, con la cabeza descubierta.
-
-### ARTÍCULO 46
-.- Es obligatoria la enseñanza del Himno Nacional en todas las escuelas de educación básica.
+Párrafo adicionado DOF 11-05-2018 ARTÍCULO 43.- En el caso de ejecución del Himno Nacional para hacer honores al Presidente de la República, las bandas de guerra tocarán "Marcha de Honor"; cuando el Himno sea entonado, las bandas de guerra permanecerán en silencio, pero en el caso de honores a la bandera, la banda de música ejecutará el Himno y las de guerra tocarán "Bandera" simultáneamente. En ninguna ceremonia se ejecutará el Himno Nacional más de dos veces para hacer honores a la Bandera ni más de dos veces para rendir honores al Presidente de la República.
+ARTÍCULO 44.- Durante solemnidades cívicas en que conjuntos corales entonen el Himno Nacional, las bandas de guerra guardarán silencio.
+ARTÍCULO 45.- La demostración civil de respeto al Himno Nacional se hará en posición de firme. Los varones, con la cabeza descubierta.
+ARTÍCULO 46.- Es obligatoria la enseñanza del Himno Nacional en todas las escuelas de educación básica.
 Cada año las autoridades educativas señaladas en la Ley General de Educación convocarán a un concurso de coros infantiles sobre la interpretación del Himno Nacional, donde participen los alumnos de educación básica del Sistema Educativo Nacional.
-Artículo reformado DOF 07-12-2005, 11-05-2018
-
-### ARTÍCULO 47
-.- Cuando en una ceremonia de carácter oficial deban tocarse el Himno Nacional y otro extranjero, se ejecutará el patrio en primer lugar. En actos de carácter internacional en los que México sea país sede, se estará a lo que establezca el ceremonial correspondiente.
-
-### ARTÍCULO 48
-.- Las embajadas o consulados de México, procurarán que en conmemoraciones mexicanas de carácter solemne, sea ejecutado el Himno Nacional.
-
-### ARTÍCULO 49
-.- La Secretaría de Relaciones Exteriores, previa consulta con la Secretaría de Gobernación, autorizará a través de las representaciones diplomáticas de México acreditadas en el extranjero, la ejecución o canto del Himno Nacional Mexicano, en espectáculos o reuniones sociales que no sean cívicas, que tengan lugar en el extranjero. Asimismo, la Secretaría de Relaciones Exteriores, a través de dichas representaciones, solicitará del gobierno ante el cual se hallen acreditadas, que se prohíba la ejecución o canto del Himno Nacional Mexicano con fines comerciales.
-CAPITULO SEXTO Disposiciones Generales
-
-### ARTÍCULO 50
-.- El uso del Escudo y la Bandera Nacionales, así como la ejecución del Himno Patrio por las fuerzas armadas del país, se regirá por las leyes, reglamentos y disposiciones respectivas.
-
-### ARTÍCULO 51
-.- El Poder Ejecutivo de la Federación, de las entidades federativas o de los municipios y demarcaciones territoriales de la Ciudad de México, deberán promover, en el ámbito de sus respectivas competencias, el culto a los Símbolos Patrios.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 52
-.- En casos de reciprocidad, el Ejecutivo Federal, por conducto de la Secretaría de Gobernación, podrá regular, en territorio nacional, el uso de la Bandera y la Ejecución del Himno Nacional de un país extranjero.
-
-### ARTÍCULO 53
-.- La Secretaría de Relaciones Exteriores vigilará que en las Embajadas o Consulados de México sea ejecutado el Himno Nacional y cumplido el ceremonial de la Bandera Nacional, en las conmemoraciones de carácter solemne.
+Artículo reformado DOF 07-12-2005, 11-05-2018 ARTÍCULO 47.- Cuando en una ceremonia de carácter oficial deban tocarse el Himno Nacional y otro extranjero, se ejecutará el patrio en primer lugar. En actos de carácter internacional en los que México sea país sede, se estará a lo que establezca el ceremonial correspondiente.
+ARTÍCULO 48.- Las embajadas o consulados de México, procurarán que en conmemoraciones mexicanas de carácter solemne, sea ejecutado el Himno Nacional.
+ARTÍCULO 49.- La Secretaría de Relaciones Exteriores, previa consulta con la Secretaría de Gobernación, autorizará a través de las representaciones diplomáticas de México acreditadas en el extranjero, la ejecución o canto del Himno Nacional Mexicano, en espectáculos o reuniones sociales que no sean cívicas, que tengan lugar en el extranjero. Asimismo, la Secretaría de Relaciones Exteriores, a través de dichas representaciones, solicitará del gobierno ante el cual se hallen acreditadas, que se prohíba la ejecución o canto del Himno Nacional Mexicano con fines comerciales.
+CAPITULO SEXTO Disposiciones Generales ARTÍCULO 50.- El uso del Escudo y la Bandera Nacionales, así como la ejecución del Himno Patrio por las fuerzas armadas del país, se regirá por las leyes, reglamentos y disposiciones respectivas.
+ARTÍCULO 51.- El Poder Ejecutivo de la Federación, de las entidades federativas o de los municipios y demarcaciones territoriales de la Ciudad de México, deberán promover, en el ámbito de sus respectivas competencias, el culto a los Símbolos Patrios.
+Artículo reformado DOF 11-05-2018 ARTÍCULO 52.- En casos de reciprocidad, el Ejecutivo Federal, por conducto de la Secretaría de Gobernación, podrá regular, en territorio nacional, el uso de la Bandera y la Ejecución del Himno Nacional de un país extranjero.
+ARTÍCULO 53.- La Secretaría de Relaciones Exteriores vigilará que en las Embajadas o Consulados de México sea ejecutado el Himno Nacional y cumplido el ceremonial de la Bandera Nacional, en las conmemoraciones de carácter solemne.
 Además, destinará un sitio destacado en cada Embajada o Consulado para ubicar la Bandera Nacional.
-
-### ARTÍCULO 54
-.- Las autoridades educativas dictarán las medidas para que en todas las instituciones del Sistema Educativo Nacional, se profundice en la enseñanza de la historia y significación de los símbolos patrios. Convocará y regulará, asimismo, en los términos del reglamento correspondiente, concursos nacionales sobre los símbolos patrios de los Estados Unidos Mexicanos.
-
-### ARTÍCULO 54
-Bis.- Cuando se requiera destruir alguna réplica de la Bandera Nacional, se hará mediante la incineración, en acto respetuoso y solemne, de conformidad con las especificaciones que el reglamento correspondiente determine.
-Artículo adicionado DOF 09-05-1995 CAPITULO SEPTIMO Competencias, Infracciones y Sanciones Denominación del Capítulo reformada DOF 11-05-2018
-
-### ARTÍCULO 55
-.- Compete a la Secretaría de Gobernación vigilar el cumplimiento de esta Ley; en esa función serán sus auxiliares todas las autoridades del país. Queda a cargo de las autoridades educativas vigilar su cumplimiento en los planteles educativos. Lo anterior se llevará a cabo de conformidad con los reglamentos correspondientes.
-Artículo reformado DOF 09-05-1995
-
-### ARTÍCULO 56
-.- Constituyen infracción a esta Ley las conductas siguientes:
+ARTÍCULO 54.- Las autoridades educativas dictarán las medidas para que en todas las instituciones del Sistema Educativo Nacional, se profundice en la enseñanza de la historia y significación de los símbolos patrios. Convocará y regulará, asimismo, en los términos del reglamento correspondiente, concursos nacionales sobre los símbolos patrios de los Estados Unidos Mexicanos.
+ARTÍCULO 54 Bis.- Cuando se requiera destruir alguna réplica de la Bandera Nacional, se hará mediante la incineración, en acto respetuoso y solemne, de conformidad con las especificaciones que el reglamento correspondiente determine.
+Artículo adicionado DOF 09-05-1995 CAPITULO SEPTIMO Competencias, Infracciones y Sanciones Denominación del Capítulo reformada DOF 11-05-2018 ARTÍCULO 55.- Compete a la Secretaría de Gobernación vigilar el cumplimiento de esta Ley; en esa función serán sus auxiliares todas las autoridades del país. Queda a cargo de las autoridades educativas vigilar su cumplimiento en los planteles educativos. Lo anterior se llevará a cabo de conformidad con los reglamentos correspondientes.
+Artículo reformado DOF 09-05-1995 ARTÍCULO 56.- Constituyen infracción a esta Ley las conductas siguientes:
 
 I. Alterar o modificar las características de la Bandera Nacional establecidas en el artículo 3o. de esta Ley;
 
@@ -365,22 +208,13 @@ VII. Portar la banda presidencial;
 
 VIII. Alterar la letra o música del Himno Nacional que establecen los artículos 57 y 58 de esta Ley, y ejecutarlo total o parcialmente en composiciones o arreglos, en contravención de lo previsto en el artículo 39 del presente ordenamiento;
 
-IX. Cantar o ejecutar el Himno Nacional con fines de lucro, en contravención de lo previsto en el
-
-### artículo 39
-de esta Ley;
+IX. Cantar o ejecutar el Himno Nacional con fines de lucro, en contravención de lo previsto en el artículo 39 de esta Ley;
 
 X. Cantar o ejecutar los himnos de otras naciones, sin la autorización a que se refiere el segundo párrafo del artículo 39 de esta Ley, y
 
 XI. Omitir la transmisión del Himno Nacional en los tiempos del Estado, en términos del artículo 41 de esta Ley y demás disposiciones jurídicas aplicables.
-Artículo reformado DOF 11-05-2018
-
-### ARTÍCULO 56
-Bis.- El procedimiento para imponer las sanciones a las infracciones a que se refiere el artículo anterior, se tramitará en términos del Título Cuarto de la Ley Federal de Procedimiento Administrativo.
-Artículo adicionado DOF 11-05-2018
-
-### ARTÍCULO 56
-Ter.- Las infracciones a la presente Ley serán impuestas y sancionadas por la Secretaría de Gobernación considerando los criterios siguientes:
+Artículo reformado DOF 11-05-2018 ARTÍCULO 56 Bis.- El procedimiento para imponer las sanciones a las infracciones a que se refiere el artículo anterior, se tramitará en términos del Título Cuarto de la Ley Federal de Procedimiento Administrativo.
+Artículo adicionado DOF 11-05-2018 ARTÍCULO 56 Ter.- Las infracciones a la presente Ley serán impuestas y sancionadas por la Secretaría de Gobernación considerando los criterios siguientes:
 
 I. La gravedad de la conducta constitutiva de la infracción;
 
@@ -392,14 +226,8 @@ IV. La capacidad económica y grado de instrucción del infractor, y
 
 V. La reincidencia, en su caso, de la conducta constitutiva de la infracción.
 Se consideran graves las infracciones a que se refieren las fracciones I, II, IV, VI, VII y IX del artículo 56 de esta Ley.
-Artículo adicionado DOF 11-05-2018
-
-### ARTÍCULO 56
-Quáter.- Las sanciones señaladas en esta Ley son aplicables sin perjuicio de la responsabilidad administrativa, civil o penal de quienes incurran en ellas.
-Artículo adicionado DOF 11-05-2018
-
-### ARTÍCULO 56
-Quintus.- A los infractores de la presente Ley, se les podrá imponer una o varias de las sanciones siguientes:
+Artículo adicionado DOF 11-05-2018 ARTÍCULO 56 Quáter.- Las sanciones señaladas en esta Ley son aplicables sin perjuicio de la responsabilidad administrativa, civil o penal de quienes incurran en ellas.
+Artículo adicionado DOF 11-05-2018 ARTÍCULO 56 Quintus.- A los infractores de la presente Ley, se les podrá imponer una o varias de las sanciones siguientes:
 
 I. Amonestación con apercibimiento;
 
@@ -410,10 +238,7 @@ III. Multa adicional a la prevista en la fracción anterior de hasta diez mil ve
 IV. Arresto hasta por treinta y seis horas, y
 
 V. Las demás que establezcan otras disposiciones jurídicas aplicables.
-Artículo adicionado DOF 11-05-2018 CAPITULO ESPECIAL De la Letra y Música del Himno Nacional
-
-### ARTÍCULO 57
-.- La letra oficial del Himno Nacional es la siguiente:
+Artículo adicionado DOF 11-05-2018 CAPITULO ESPECIAL De la Letra y Música del Himno Nacional ARTÍCULO 57.- La letra oficial del Himno Nacional es la siguiente:
 CORO Mexicanos, al grito de guerra El acero aprestad y el bridón, y retiemble en sus centros la tierra Al sonoro rugir del cañón.
 I Ciña ¡oh patria! tus sienes de oliva De la paz el arcángel divino, Que en el cielo tu eterno destino Por el dedo de Dios se escribió.
 Más si osare un extraño enemigo Profanar con su planta tu suelo, Piensa ¡oh patria querida! que el cielo Un soldado en cada hijo te dio.
@@ -421,9 +246,7 @@ CORO II ¡Guerra, guerra sin tregua al que intente De la patria manchar los blas
 Y tus templos, palacios y torres Se derrumben con hórrido estruendo, Y sus ruinas existan diciendo:
 De mil héroes la patria aquí fue.
 CORO IV ¡Patria! ¡patria! Tus hijos te juran Exhalar en tus aras su aliento, Si el clarín con su bélico acento Los convoca a lidiar con valor. ¡Para ti las guirnaldas de oliva! ¡Un recuerdo para ellos de gloria! ¡Un laurel para ti de victoria! ¡Un sepulcro para ellos de honor! CORO Mexicanos, al grito de guerra El acero aprestad y el bridón, Y retiemble en sus centros la tierra Al sonoro rugir del cañón.
-
-### ARTÍCULO 58
-.- La música oficial del Himno Nacional es la siguiente:
+ARTÍCULO 58.- La música oficial del Himno Nacional es la siguiente:
 
 Cono 7a EA UTA i are bri.
 Me-x1 — canosal grito..de gue. —— rra El a — ce-roa-pres.tad yel Yan E mM La ET ee | ae Ye Se SS eS SS ee eS a 2 La il." Ce — Ha E de. oo AAA e Es ha E o E 22. L.,.Lk € — — Ss a SS ss —— A PP A = er: a2 ZEN
@@ -486,9 +309,7 @@ TE a, e — —— — EI —h ++ 1 ee SSS ñón. Ciñat0h ite i pa.trieftus jal
 
 == + Ade do. +2 =1 = == A SSS SS
 
-
-### ARTÍCULO 59
-.- Derogado
+ARTÍCULO 59.- Derogado
 
 a > > a do LA A A Pa? E Co ——l—] I — iy Y —y os vi no,Queenel cielo tueter_nodes..ti.no Porel de dode Diosseescri — E -— Se Ge SS a Se, a a ——]b emo ¿bel
 
@@ -523,10 +344,7 @@ _f HF ——.——.—].— 1 —Ú ——]]]——— o aS ee eee a ier — �
 
 E Ji —a — Sy Fee y a e y o ai 0 ae = ne —— , = Se ee E E (E a == ==—a ————Á D =I — — b ba h y *
 
-Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018
-
-### ARTÍCULO 60
-.- Derogado Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018
+Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018 ARTÍCULO 60.- Derogado Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018
 
 ## TRANSITORIOS
 

@@ -161,10 +161,7 @@ Tratándose de bienes cuyo proceso de fabricación sea superior a sesenta días 
 Las dependencias y entidades podrán, dentro de su presupuesto autorizado, bajo su responsabilidad y por razones fundadas y motivadas, autorizar el pago de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
 
 ### Artículo 17
-. En los procedimientos de contratación de carácter internacional abierto, las dependencias y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el país y que cuenten con el porcentaje de contenido nacional indicado en el
-
-### artículo 39
-, fracción I, de esta Ley, los cuales deberán contar, en la comparación económica de las proposiciones, con un margen hasta del quince por ciento de preferencia en el precio respecto de los bienes de importación, conforme a las reglas que establezca la Secretaría, previa opinión de la Secretaría de Economía.
+. En los procedimientos de contratación de carácter internacional abierto, las dependencias y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el país y que cuenten con el porcentaje de contenido nacional indicado en el artículo 39, fracción I, de esta Ley, los cuales deberán contar, en la comparación económica de las proposiciones, con un margen hasta del quince por ciento de preferencia en el precio respecto de los bienes de importación, conforme a las reglas que establezca la Secretaría, previa opinión de la Secretaría de Economía.
 
 ### Artículo 18
 . A efecto de que los procedimientos de contratación sean efectuados con responsabilidad social y de manera sostenible, las dependencias y entidades deberán tomar en consideración, al menos, los siguientes aspectos:
@@ -509,10 +506,7 @@ V. Los requisitos que deberán cumplir los interesados en participar en el proce
 
 VI. El señalamiento de que, para intervenir en el acto de presentación y apertura de proposiciones, bastará que los licitantes presenten un escrito en el que su firmante manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por su representada, sin que resulte necesario acreditar su personalidad jurídica;
 
-VII. El señalamiento de que el licitante deberá estar inscrito en el registro a que hace referencia el
-
-### artículo 86
-de esta Ley;
+VII. El señalamiento de que el licitante deberá estar inscrito en el registro a que hace referencia el artículo 86 de esta Ley;
 
 VIII. La forma en que los licitantes deberán acreditar su existencia legal y personalidad jurídica, para efectos de la suscripción de las proposiciones y, en su caso, firma del contrato;
 
@@ -638,10 +632,7 @@ Las actas a que se refiere el párrafo anterior, para efectos de notificación p
 
 ### Artículo 51
 . Las dependencias y entidades procederán a declarar desierta una licitación, cuando la totalidad de las proposiciones presentadas no reúnan los requisitos solicitados o los precios de todos los bienes, arrendamientos o servicios ofertados no resulten aceptables.
-En los casos en que no existan proveedores nacionales, en los lineamientos de contratación específicos a que se refiere el último párrafo del artículo 4 de esta Ley, podrá establecerse un porcentaje menor al utilizado para determinar el precio no aceptable, sin que el mismo pueda ser inferior al cinco por ciento. Los resultados de la investigación y del cálculo para determinar la inaceptabilidad del precio ofertado se incluirán en el fallo a que alude el
-
-### artículo 49
-de esta Ley.
+En los casos en que no existan proveedores nacionales, en los lineamientos de contratación específicos a que se refiere el último párrafo del artículo 4 de esta Ley, podrá establecerse un porcentaje menor al utilizado para determinar el precio no aceptable, sin que el mismo pueda ser inferior al cinco por ciento. Los resultados de la investigación y del cálculo para determinar la inaceptabilidad del precio ofertado se incluirán en el fallo a que alude el artículo 49 de esta Ley.
 Cuando se declare desierta una licitación o alguna partida y persista la necesidad de contratar con el carácter y requisitos solicitados en la primera licitación, la dependencia o entidad podrá emitir una segunda convocatoria, o bien optar por el supuesto de excepción previsto en el artículo 54, fracción VII, de esta Ley. Cuando los requisitos o el carácter sean modificados con respecto a la primera convocatoria, se deberá convocar a un nuevo procedimiento.
 Las dependencias y entidades podrán cancelar una licitación, partidas o conceptos incluidos en estas, hasta antes de emitir el fallo, cuando se presente caso fortuito; fuerza mayor; existan circunstancias justificadas que extingan la necesidad para adquirir los bienes, arrendamientos o servicios, o que de continuarse con el procedimiento se pudiera ocasionar un daño o perjuicio a la propia dependencia o entidad. La determinación de dar por cancelada la licitación, partidas o conceptos, deberá precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes, y no será procedente contra ella recurso alguno, sin embargo, podrán interponer la inconformidad en términos del Título Séptimo, Capítulo Primero de esta Ley.
 Para el caso del diálogo competitivo, la Secretaría o, en su caso, la dependencia o entidad que lo lleve a cabo podrá declararlo desierto o cancelarlo en los términos a que se refieren los párrafos anteriores.
@@ -1327,10 +1318,7 @@ V. Decretar la nulidad total del procedimiento de contratación;
 VI. Decretar la nulidad del acto impugnado, para efectos de su reposición, subsistiendo la validez del procedimiento o acto en la parte que no fue materia de la declaratoria de nulidad, y
 
 VII. Ordenar la firma del contrato, cuando haya resultado fundada la inconformidad promovida en términos del artículo 95, fracción V, de esta Ley.
-En los casos de las fracciones II y III de este artículo, cuando la inconformidad se haya promovido con el propósito de retrasar o entorpecer la contratación, se sancionará al inconforme, previo procedimiento, en términos del
-
-### artículo 89
-, primer párrafo de la presente Ley. Para ese efecto, podrá tomarse en consideración la conducta de los licitantes o postulantes en el diálogo competitivo en anteriores procedimientos de contratación o de inconformidad.
+En los casos de las fracciones II y III de este artículo, cuando la inconformidad se haya promovido con el propósito de retrasar o entorpecer la contratación, se sancionará al inconforme, previo procedimiento, en términos del artículo 89, primer párrafo de la presente Ley. Para ese efecto, podrá tomarse en consideración la conducta de los licitantes o postulantes en el diálogo competitivo en anteriores procedimientos de contratación o de inconformidad.
 La resolución que ponga fin a la instancia de inconformidad o, en su caso, a la intervención de oficio podrá impugnarse por el inconforme o tercero interesado mediante el recurso de revisión previsto en la Ley Federal de Procedimiento Administrativo, o bien, cuando proceda, ante las instancias jurisdiccionales competentes.
 
 ### Artículo 105

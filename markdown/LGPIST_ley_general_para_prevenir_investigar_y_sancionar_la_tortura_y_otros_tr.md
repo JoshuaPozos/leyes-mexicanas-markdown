@@ -146,10 +146,7 @@ Las órdenes de los superiores jerárquicos de cometer el delito de tortura son 
 .- Las contravenciones a las disposiciones que prevé esta Ley cometidas por Servidores Públicos, serán sancionadas en términos de la legislación aplicable en materia de responsabilidad administrativa, civil, penal y, en su caso, política.
 
 ### Artículo 12
-.- En el caso de la imposición de una multa, será aplicable el concepto días multa previsto
-
-### Artículo 13
-.- Los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes; así como los delitos vinculados, deben ser perseguidos, investigados, procesados y sancionados conforme a las reglas de autoría, participación y concurso previstas en la legislación penal aplicable, y las reglas de acumulación de procesos previstas en el Código Nacional de Procedimientos Penales.
+.- En el caso de la imposición de una multa, será aplicable el concepto días multa previsto Artículo 13.- Los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes; así como los delitos vinculados, deben ser perseguidos, investigados, procesados y sancionados conforme a las reglas de autoría, participación y concurso previstas en la legislación penal aplicable, y las reglas de acumulación de procesos previstas en el Código Nacional de Procedimientos Penales.
 Los superiores jerárquicos serán considerados autores del delito de tortura en los términos de lo previsto en la legislación penal aplicable.
 
 ### Artículo 14
@@ -842,10 +839,7 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 ### Artículo Décimo Segundo
 Se reforman la actual fracción XVIII pasando a ser la fracción VIII y la actual fracción VIII pasando a ser la fracción IX recorriéndose las subsecuentes en su orden hasta la fracción XVIII del artículo 5; la fracción IV y el párrafo tercero del artículo 22; el artículo 23; el párrafo
-**tercero.** del artículo 33; el párrafo primero del artículo 35; el artículo 42; el párrafo primero del artículo 43; el párrafo primero del artículo 53; la denominación del Título Cuarto; el artículo 55; el artículo 56; el
-
-### artículo 57
-; los párrafos primero y segundo del artículo 58; el párrafo único y la fracción IX del artículo 59; las fracciones II y VIII del artículo 60; el párrafo primero del artículo 68; el párrafo primero del artículo 70; la fracción XI del artículo 78; el párrafo primero del artículo 85; el artículo 89; la fracción V, del artículo 92 y el párrafo tercero del artículo 95 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, para quedar como sigue: ………..
+**tercero.** del artículo 33; el párrafo primero del artículo 35; el artículo 42; el párrafo primero del artículo 43; el párrafo primero del artículo 53; la denominación del Título Cuarto; el artículo 55; el artículo 56; el artículo 57; los párrafos primero y segundo del artículo 58; el párrafo único y la fracción IX del artículo 59; las fracciones II y VIII del artículo 60; el párrafo primero del artículo 68; el párrafo primero del artículo 70; la fracción XI del artículo 78; el párrafo primero del artículo 85; el artículo 89; la fracción V, del artículo 92 y el párrafo tercero del artículo 95 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, para quedar como sigue: ………..
 
 ## Transitorios
 

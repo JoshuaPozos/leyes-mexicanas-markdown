@@ -10833,10 +10833,7 @@ Descripción modificada DOF 18-11-2022 9705.39.99 Las demás. Pza Ex. Ex. 97.06 
 ## Capítulo 98
 Operaciones especiales Notas. 1. Cuando por su naturaleza, composición, presentación o denominación, las mercancías pudieran ser clasificadas en otros Capítulos de la Nomenclatura, éstas se clasificarán en el presente Capítulo cuando correspondan a alguna de las siguientes operaciones especiales:
 
-a) importaciones o exportaciones de muestras y muestrarios que cumplan con lo previsto en el
-
-### artículo 2o
-. fracción II, Regla Complementaria 7a, inciso d), de la presente Ley (partida 98.01);
+a) importaciones o exportaciones de muestras y muestrarios que cumplan con lo previsto en el artículo 2o. fracción II, Regla Complementaria 7a, inciso d), de la presente Ley (partida 98.01);
 
 b) importaciones de mercancías a que se refieren los incisos a) primer párrafo y b) primer párrafo de la Regla 8a de las Complementarias para la interpretación y aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, realizadas por empresas que cuenten con registro de empresa fabricante (partida 98.02). Las mercancías a que se refiere el inciso a) segundo párrafo, gozarán de la tasa arancelaria establecida en las fracciones arancelarias de la partida 98.02 y deberán clasificarse en los Capítulos 01 al 97 de la Tarifa, según les corresponda;
 

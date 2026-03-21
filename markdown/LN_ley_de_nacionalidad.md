@@ -66,10 +66,7 @@ Fracción reformada DOF 12-01-2005 (se recorre)
 .- Son personas morales de nacionalidad mexicana las que se constituyan conforme a las leyes mexicanas y tengan en el territorio nacional su domicilio legal.
 
 ### Artículo 9o
-.- Las personas físicas y morales extranjeras deberán cumplir con lo señalado por el
-
-### artículo 27
-constitucional.
+.- Las personas físicas y morales extranjeras deberán cumplir con lo señalado por el artículo 27 constitucional.
 
 ### Artículo 10
 .- El interesado podrá ser representado en los procedimientos a que se refiere esta Ley mediante poder notarial o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante la propia autoridad.
@@ -267,10 +264,7 @@ Se adiciona la fracción VI, pasando la actual a ser la fracción VII, al artíc
 México, D.F., a 7 de diciembre de 2004.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen.
 Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen.
 Sara I. Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-DECRETO por el que se adiciona un segundo párrafo al inciso a) de la fracción I del
-
-### artículo 20
-de la Ley de Nacionalidad.
+DECRETO por el que se adiciona un segundo párrafo al inciso a) de la fracción I del artículo 20 de la Ley de Nacionalidad.
 Publicado en el Diario Oficial de la Federación el 23 de abril de 2012
 
 ### Artículo Único

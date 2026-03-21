@@ -175,10 +175,7 @@ V. Cuando sea necesario impedir la concurrencia al mercado interno de mercancía
 VI. Cuando se trate de situaciones no previstas por las normas oficiales mexicanas en lo referente a seguridad nacional, salud pública, sanidad fitopecuaria o ecología, de acuerdo a la legislación en la materia.
 
 ### Artículo 17
-.- El establecimiento de las medidas de regulación y restricción no arancelarias a la exportación, importación, circulación o tránsito de mercancías, a que se refieren las fracciones III y IV del
-
-### artículo 4o
-., deberán previamente someterse a la opinión de la Comisión y publicarse en el Diario Oficial de la Federación. Las dependencias del Ejecutivo Federal competentes para expedir o hacer cumplir estas medidas deberán publicar en el Diario Oficial de la Federación los procedimientos para su expedición o cumplimiento, e informar a la Comisión acerca de la administración de dichas medidas y procedimientos.
+.- El establecimiento de las medidas de regulación y restricción no arancelarias a la exportación, importación, circulación o tránsito de mercancías, a que se refieren las fracciones III y IV del artículo 4o., deberán previamente someterse a la opinión de la Comisión y publicarse en el Diario Oficial de la Federación. Las dependencias del Ejecutivo Federal competentes para expedir o hacer cumplir estas medidas deberán publicar en el Diario Oficial de la Federación los procedimientos para su expedición o cumplimiento, e informar a la Comisión acerca de la administración de dichas medidas y procedimientos.
 Las medidas de regulación y restricción no arancelarias a la exportación e importación de mercancías, a que se refiere la fracción III del artículo 4o., deberán expedirse por acuerdo de la Secretaría o, en su caso, conjuntamente con la autoridad competente. Estas medidas consistirán en permisos previos, cupos máximos, marcado de país de origen, certificaciones, cuotas compensatorias y los demás instrumentos que se consideren adecuados para los fines de esta Ley. Las cuotas compensatorias sólo se aplicarán en el caso previsto en la fracción V del artículo anterior.
 
 ### Artículo 17 A
@@ -192,10 +189,7 @@ Artículo adicionado DOF 24-01-2006
 Este análisis podrá tomar en cuenta, entre otros, el impacto sobre los siguientes factores: precios, empleo, competitividad de las cadenas productivas, ingresos del gobierno, ganancias del sector productivo, costo de la medida para los consumidores, variedad y calidad de la oferta disponible y nivel de competencia de los mercados.
 
 ### Artículo 19
-.- No obstante lo dispuesto en el artículo 17, las dependencias del Ejecutivo Federal competentes podrán establecer medidas de regulación o restricción no arancelarias a la exportación, importación, circulación o tránsito de mercancías en los casos previstos en las fracciones III a VI del
-
-### artículo 15
-y VI del artículo 16 sin someterlas a la opinión de la Comisión, siempre que:
+.- No obstante lo dispuesto en el artículo 17, las dependencias del Ejecutivo Federal competentes podrán establecer medidas de regulación o restricción no arancelarias a la exportación, importación, circulación o tránsito de mercancías en los casos previstos en las fracciones III a VI del artículo 15 y VI del artículo 16 sin someterlas a la opinión de la Comisión, siempre que:
 
 I. Se trate de una situación de emergencia susceptible de producir un daño difícilmente reparable de seguirse el procedimiento señalado en el artículo 17;
 
@@ -374,10 +368,7 @@ En dichas circunstancias, la Secretaría podrá considerar que existe daño, inc
 Artículo reformado DOF 13-03-2003 TITULO VI MEDIDAS DE SALVAGUARDA CAPITULO UNICO
 
 ### Artículo 45
-.- Las medidas de salvaguarda son aquellas que, en los términos de la fracción II del
-
-### artículo 4o
-., regulan o restringen temporalmente las importaciones de mercancías idénticas, similares o directamente competidoras a las de producción nacional en la medida necesaria para prevenir o remediar el daño grave a la rama de producción nacional de que se trate y facilitar el ajuste de los productores nacionales.
+.- Las medidas de salvaguarda son aquellas que, en los términos de la fracción II del artículo 4o., regulan o restringen temporalmente las importaciones de mercancías idénticas, similares o directamente competidoras a las de producción nacional en la medida necesaria para prevenir o remediar el daño grave a la rama de producción nacional de que se trate y facilitar el ajuste de los productores nacionales.
 Estas medidas sólo se impondrán cuando se haya constatado que las importaciones han aumentado en tal cantidad, en términos absolutos o en relación con la producción nacional, y se realizan en condiciones tales que causan o amenazan causar un daño grave a la rama de producción nacional de que se trate.
 Las medidas de salvaguarda podrán consistir, entre otras, en aranceles específicos o ad-valorem, permisos previos o cupos, o alguna combinación de los anteriores.
 Para la determinación de la existencia de daño grave o amenaza de daño grave se entenderá por rama de producción nacional el conjunto de productores nacionales de las mercancías idénticas o similares o directamente competidoras o aquéllos cuya producción conjunta constituya una proporción importante de la producción nacional total de dichas mercancías.
@@ -755,10 +746,7 @@ IV. Omitir la presentación a la Secretaría de los documentos o informes en los
 V. Derogada;
 Fracción reformada DOF 13-03-2003. Derogada DOF 21-12-2006
 
-VI. Divulgar información confidencial o utilizar ésta para beneficio personal, en los términos del
-
-### artículo 80
-de esta Ley o, en relación a los mecanismos de solución de controversias establecidos en los tratados o convenios internacionales de los que México sea parte, con multa proporcional al perjuicio que se ocasione o al beneficio que se obtenga por la divulgación o uso de dicha información.
+VI. Divulgar información confidencial o utilizar ésta para beneficio personal, en los términos del artículo 80 de esta Ley o, en relación a los mecanismos de solución de controversias establecidos en los tratados o convenios internacionales de los que México sea parte, con multa proporcional al perjuicio que se ocasione o al beneficio que se obtenga por la divulgación o uso de dicha información.
 Para los efectos de este artículo, se entenderá por salario mínimo el general diario vigente en el Distrito Federal al momento de cometerse la infracción.
 Para la aplicación de la multa a que se refiere la fracción VI de este artículo, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, así como los antecedentes, circunstancias personales y situación económica del infractor.
 Párrafo reformado DOF 21-12-2006 Las multas a que se refiere este artículo se impondrán independientemente de las sanciones penales y civiles que corresponda, en los términos de legislación aplicable. Para la imposición de las multas se deberá oír previamente al presunto infractor.
@@ -815,10 +803,7 @@ IV. Cuando se interponga el juicio ante el Tribunal Federal de Justicia Fiscal y
 Fracción reformada DOF 31-12-2000, 13-03-2003
 
 ### Artículo 97
-.- En relación a las resoluciones y actos a que se refieren las fracciones IV, V, VI y VIII del
-
-### Artículo 94
-, cualquier parte interesada podrá optar por acudir a los mecanismos alternativos de solución de controversias en materia de prácticas desleales contenidos en tratados comerciales internacionales de los que México sea parte. De optarse por tales mecanismos:
+.- En relación a las resoluciones y actos a que se refieren las fracciones IV, V, VI y VIII del Artículo 94, cualquier parte interesada podrá optar por acudir a los mecanismos alternativos de solución de controversias en materia de prácticas desleales contenidos en tratados comerciales internacionales de los que México sea parte. De optarse por tales mecanismos:
 Párrafo reformado DOF 22-12-1993
 
 I. No procederá el recurso de revocación previsto en el artículo 94 ni el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa contra dichas resoluciones, ni contra la resolución de la Secretaría dictada como consecuencia de la decisión que emane de dichos mecanismos alternativos, y se entenderá que la parte interesada que ejerza la opción acepta la resolución que resulte del mecanismo alternativo de solución de controversias;
@@ -842,10 +827,7 @@ Fracción reformada DOF 31-12-2000, 13-03-2003
 **PRIMERO.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **SEGUNDO.-** Se abroga la Ley Reglamentaria del Artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en Materia de Comercio Exterior, publicada en el Diario Oficial de la Federación el 13 de enero de 1986, la Ley que Establece el Régimen de Exportación del Oro, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980 y las demás disposiciones u ordenamientos que se le opongan.
 **TERCERO.-** En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor el Reglamento contra Prácticas Desleales de Comercio Internacional, el Reglamento Sobre Permisos de Importación y Exportación de Mercancías Sujetas a Restricciones, el Decreto que establece la Organización y Funciones de la Comisión de Aranceles y Controles al Comercio Exterior, el Decreto por el que se establece el Premio Nacional de Exportación y las demás disposiciones expedidas con anterioridad en todo lo que no se le opongan.
-**CUARTO.-** Los procedimientos administrativos a que se refiere este ordenamiento que se encuentren en trámite al momento de su entrada en vigor, se resolverán en los términos de la Ley Reglamentaria del
-
-### artículo 131
-de la Constitución Política de los Estados Unidos Mexicanos en materia de Comercio Exterior.
+**CUARTO.-** Los procedimientos administrativos a que se refiere este ordenamiento que se encuentren en trámite al momento de su entrada en vigor, se resolverán en los términos de la Ley Reglamentaria del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en materia de Comercio Exterior.
 México, D. F., a 13 de julio de 1993.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Romeo Flores Leal, Presidente.- Sen. Ramón Serrano Ahumada, Secretario.- Dip. Luis Moreno Bustamante, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA FE de erratas a la Ley de Comercio Exterior, publicada el 27 de julio de 1993.
 Publicada en el Diario Oficial de la Federación el 25 de agosto de 1993 Página 60, primera columna, renglón 20, dice:
@@ -886,13 +868,8 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Comercio Exterior.
 Publicado en el Diario Oficial de la Federación el 13 de marzo de 2003 ARTICULO UNICO: Se REFORMAN los artículos; 28; 29; 31, párrafo segundo y fracción I; 32, en su párrafo segundo; 35; 36; 37; la denominación del Capítulo IV del Título V; 39; 40; 41; 42; 43; 44; 45; 46; 47, párrafo primero; 48, párrafo primero, así como las fracciones I a III; nombre del Capítulo I del Título VII; 49, primer párrafo; 50, el párrafo primero y su fracción II, así como el párrafo segundo; 52; 53, párrafo
 **primero.** ; 57, el párrafo primero, la fracción III y el segundo párrafo; 59 párrafos primero y segundo; 64; 66; 67; 68, párrafo primero; 70; 71; 74; 75; 76, párrafo primero; 77; 80, párrafos primero y segundo; 83; 86; 88; 90, primer párrafo y del segundo párrafo la fracción III; 91; 93, fracciones III y V; 94, fracción IX; 95, párrafos segundo, tercero y cuarto; 96 fracción IV; 97, fracción I; 98, fracción III; se ADICIONAN un tercer párrafo al artículo 23; un párrafo segundo al artículo 33; las fracciones I a III al párrafo primero y un tercer párrafo al artículo 39; un penúltimo párrafo al artículo 42; las fracciones I y II al párrafo primero y un párrafo segundo al artículo 44; un párrafo cuarto al artículo 45; un párrafo segundo al artículo 47; un último párrafo al artículo 48; un párrafo segundo al artículo 51; un párrafo tercero al artículo 53; un párrafo
-**segundo.** , con las fracciones I a III, así como un último párrafo al artículo 64; un segundo párrafo, recorriéndose el actual párrafo segundo para pasar a ser el tercer párrafo, así como un último párrafo, al
-
-### artículo 68
-; las fracciones I y II al primer párrafo y un último párrafo al artículo 70; el artículo 70 A; el
-
-### artículo 70
-B; las fracciones I a V al primer párrafo, así como un último párrafo al artículo 71; un párrafo segundo al artículo 72; los párrafos segundo, tercero, cuarto y quinto al artículo 83, pasando los actuales párrafos segundo, tercero y cuarto a ser los respectivos párrafos sexto, séptimo y octavo de dicho artículo; un Capítulo V denominado “Procedimientos Especiales” al Título VII, que comprende del artículo 89A al 89F; y las fracciones X y XI al artículo 94, pasando la actual fracción X a ser la fracción XII; y se DEROGAN la fracción IV del artículo 48; y el artículo 60; todos ellos de la LEY DE COMERCIO EXTERIOR, para quedar como sigue: ..........
+**segundo.** , con las fracciones I a III, así como un último párrafo al artículo 64; un segundo párrafo, recorriéndose el actual párrafo segundo para pasar a ser el tercer párrafo, así como un último párrafo, al artículo 68; las fracciones I y II al primer párrafo y un último párrafo al artículo 70; el artículo 70 A; el artículo 70 B; las fracciones I a V al primer párrafo, así como un último párrafo al artículo 71; un párrafo
+**segundo.** al artículo 72; los párrafos segundo, tercero, cuarto y quinto al artículo 83, pasando los actuales párrafos segundo, tercero y cuarto a ser los respectivos párrafos sexto, séptimo y octavo de dicho artículo; un Capítulo V denominado “Procedimientos Especiales” al Título VII, que comprende del artículo 89A al 89F; y las fracciones X y XI al artículo 94, pasando la actual fracción X a ser la fracción XII; y se DEROGAN la fracción IV del artículo 48; y el artículo 60; todos ellos de la LEY DE COMERCIO EXTERIOR, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 

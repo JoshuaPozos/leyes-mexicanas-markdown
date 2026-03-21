@@ -19,10 +19,7 @@ Se expide la Ley de la Guardia Nacional, para quedar como sigue:
 Generalidades de la Ley
 
 ### Artículo 1
-. La presente Ley es de orden público, de aplicación en todo el territorio nacional, reglamentaria del
-
-### artículo 21
-de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional.
+. La presente Ley es de orden público, de aplicación en todo el territorio nacional, reglamentaria del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional.
 
 ### Artículo 2
 . Para efectos de la presente Ley se observarán las siguientes definiciones:
@@ -539,10 +536,7 @@ Cuando las personas militares con formación profesional tengan la misma antigü
 . Los militares con formación policial especialistas no tendrán escalafones; para su control, la Guardia Nacional de los servicios correspondientes o quienes hagan sus veces, llevarán un registro organizado por grados, antigüedad y especialidades.
 
 ### Artículo 36
-. El personal de confianza de la Guardia Nacional no podrá ser considerado dentro de los grados del personal militar con formación policial ni dentro de los escalafones de los mismos; se sujetará a lo prescrito en el contrato respectivo y a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del
-
-### Artículo 123
-Constitucional, así como a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y a la demás normatividad aplicable.
+. El personal de confianza de la Guardia Nacional no podrá ser considerado dentro de los grados del personal militar con formación policial ni dentro de los escalafones de los mismos; se sujetará a lo prescrito en el contrato respectivo y a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, así como a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y a la demás normatividad aplicable.
 
 ### Artículo 37
 . Los militares con formación policial que integren el personal de la Guardia Nacional se harán merecedores a un grado en la escala jerárquica, de acuerdo con la presente Ley y su Reglamento.

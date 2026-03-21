@@ -8,10 +8,7 @@
 DE ARMAS QUÍMICAS LEY FEDERAL PARA EL CONTROL DE SUSTANCIAS QUÍMICAS SUSCEPTIBLES DE DESVÍO PARA LA FABRICACIÓN DE ARMAS QUÍMICAS Nueva Ley publicada en el Diario Oficial de la Federación el 9 de junio de 2009 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
-SE EXPIDE LA LEY FEDERAL PARA EL CONTROL DE SUSTANCIAS QUÍMICAS SUSCEPTIBLES DE DESVÍO PARA LA FABRICACIÓN DE ARMAS QUÍMICAS; Y ADICIONA UNA
-
-### ARTÍCULO PRIMERO
-Se expide la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas.
+SE EXPIDE LA LEY FEDERAL PARA EL CONTROL DE SUSTANCIAS QUÍMICAS SUSCEPTIBLES DE DESVÍO PARA LA FABRICACIÓN DE ARMAS QUÍMICAS; Y ADICIONA UNA ARTÍCULO PRIMERO. Se expide la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas.
 LEY FEDERAL PARA EL CONTROL DE SUSTANCIAS QUÍMICAS SUSCEPTIBLES DE DESVÍO PARA LA FABRICACIÓN DE ARMAS QUÍMICAS.
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
@@ -438,10 +435,7 @@ e) Variaciones o modificaciones en relación con la declaración inmediata anter
 
 f) Información adicional que estime pertinente aportar voluntariamente en razón del objetivo de la Convención y la presente Ley;
 
-II. Durante el mes de agosto de cada año, respecto de Actividades Reguladas a que se refiere el
-
-### artículo 2
-, fracción I, inciso a) de la presente Ley, que prevea realizar en el periodo de enero a diciembre del año subsecuente, con los datos a que se refieren los incisos a), b) y f) de la fracción anterior y los siguientes:
+II. Durante el mes de agosto de cada año, respecto de Actividades Reguladas a que se refiere el artículo 2, fracción I, inciso a) de la presente Ley, que prevea realizar en el periodo de enero a diciembre del año subsecuente, con los datos a que se refieren los incisos a), b) y f) de la fracción anterior y los siguientes:
 
 a) Tipo, cantidad, nombre químico, nombre común o comercial, fórmula estructural, número de registro CAS, si lo tuviere asignado, fracción arancelaria, Uso Final, Destino Final y Usuario Final de las sustancias químicas relacionadas en el Listado Nacional, que tenga proyectado utilizar en alguna actividad regulada, incluyendo la descripción del método empleado y los plazos para su ejecución;
 
@@ -553,10 +547,7 @@ Para cada inspección, la Secretaría integrará un Grupo Nacional de Acompañam
 DE ARMAS QUÍMICAS
 
 ### Artículo 40
-. La persona con quien se entienda la diligencia deberá permitir a los miembros del Grupo de Inspección Internacional y a los miembros del Grupo Nacional de Acompañamiento, el acceso al Polígono de Inspección en los términos previstos en la orden escrita a que se hace referencia en el
-
-### artículo 37
-de la presente Ley.
+. La persona con quien se entienda la diligencia deberá permitir a los miembros del Grupo de Inspección Internacional y a los miembros del Grupo Nacional de Acompañamiento, el acceso al Polígono de Inspección en los términos previstos en la orden escrita a que se hace referencia en el artículo 37 de la presente Ley.
 Con el fin de garantizar la seguridad del desarrollo de la diligencia de inspección, el jefe del Grupo Nacional de Acompañamiento podrá solicitar el auxilio de la fuerza de seguridad pública.
 
 ### Artículo 41
@@ -604,10 +595,7 @@ III. A quien realice transferencias de sustancias químicas del Grupo 3 del List
 
 I. A quien realice transferencias de sustancias químicas del Grupo 1 del Listado Nacional con personas físicas o morales de Estados no Parte de la Convención;
 
-II. A quien produzca, adquiera, conserve, transfiera o emplee sustancias químicas del Grupo 1 del Listado Nacional, para fines distintos a los previstos en el inciso a) de la fracción I del
-
-### artículo 7
-de la presente Ley;
+II. A quien produzca, adquiera, conserve, transfiera o emplee sustancias químicas del Grupo 1 del Listado Nacional, para fines distintos a los previstos en el inciso a) de la fracción I del artículo 7 de la presente Ley;
 
 III. A quien produzca, adquiera, conserve, transfiera o emplee sustancias químicas del Grupo 1 del Listado Nacional, sin la autorización correspondiente o en cantidades superiores a las autorizadas;
 
@@ -827,10 +815,7 @@ Fe de erratas al Apéndice DOF 03-07-2009. Apéndice Uno reformado en su totalid
 **Octavo.** Los sujetos obligados que operen con anterioridad a la entrada en vigor del presente Decreto y aquellos que se constituyan antes de que entre en funcionamiento el Registro, presentarán su solicitud de inscripción al Registro a más tardar dentro de los noventa días naturales siguientes a la entrada en funcionamiento del Registro y su declaración inicial a más tardar dentro de los noventa días naturales siguientes a la inscripción en el Registro.
 **Noveno.** En los trámites respectivos, además de las disposiciones legales y administrativas que a la entrada en vigor del presente Decreto, establezcan requisitos para el otorgamiento de autorizaciones, permisos o licencias, relacionadas con la elaboración, producción, consumo y Transferencia de sustancias químicas enunciadas en el Listado Nacional, deberán observarse los requisitos de presentación de constancias de inscripción y de declaración, previstos en este Decreto.
 **Décimo.** Para la realización de las funciones de la Autoridad Nacional y el ejercicio de las atribuciones de la Secretaría, se utilizarán los recursos materiales, humanos y financieros asignados a las dependencias, instituciones, órganos y unidades administrativas que los componen, de conformidad con las responsabilidades que les correspondan, por lo que no requerirán recursos adicionales para tal fin.
-**Décimo Primero.** Para estar en condiciones de presentar las declaraciones iniciales previstas en el
-
-### artículo 20
-de la Ley Federal para el control de Sustancias Químicas susceptibles de Desvío para la Fabricación de Armas Químicas, los sujetos obligados que a la fecha de entrada en vigor del presente Decreto, realicen cualquiera de las Actividades Reguladas, deberán manifestar, en su caso, el tipo, cantidad, nombre químico, nombre común o comercial, fórmula estructural, número de registro CAS, si lo tuviere asignado, fracción arancelaria, Uso Final, Destino Final y Usuario Final de sustancias químicas y precursores relacionados en el Listado Nacional, de las que tenga posesión o sea propietario, así como los documentos que acrediten esta información.
+**Décimo Primero.** Para estar en condiciones de presentar las declaraciones iniciales previstas en el artículo 20 de la Ley Federal para el control de Sustancias Químicas susceptibles de Desvío para la Fabricación de Armas Químicas, los sujetos obligados que a la fecha de entrada en vigor del presente Decreto, realicen cualquiera de las Actividades Reguladas, deberán manifestar, en su caso, el tipo, cantidad, nombre químico, nombre común o comercial, fórmula estructural, número de registro CAS, si lo tuviere asignado, fracción arancelaria, Uso Final, Destino Final y Usuario Final de sustancias químicas y precursores relacionados en el Listado Nacional, de las que tenga posesión o sea propietario, así como los documentos que acrediten esta información.
 De igual manera, los sujetos obligados deberán manifestar, en su caso, el inventario detallado del equipo que tengan en propiedad, posesión o tenencia y que utilicen para la producción, elaboración o consumo de las sustancias químicas y precursores relacionados en el Listado Nacional.
 México, D.F., a 24 de febrero de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. Manuel Portilla Diéguez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a ocho de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DE ARMAS QUÍMICAS ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA FE de erratas al Decreto por el que se expide la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas; y adiciona una 9 de junio de 2009.
@@ -885,10 +870,7 @@ Publicado en el Diario Oficial de la Federación el 14 de junio de 2024
 
 ### Artículo Único
 Se reforman los artículos 2, fracción VIII; 3, fracciones V, VIII y IX, así como 12, párrafos primero y segundo; Apéndice Uno, Grupo 1, Grupo 1A, numerales 1A.1, 1A.2, 1A.3, 1A.4, 1A.5, 1A.6, 1A.7, 1A.8; Grupo 1B, 1B.1, 1B.2, 1B.3 y 1B.4; Grupo 2, Grupo 2A, numerales 2A.1, 2A.2 y 2A.3;
-Grupo 2B, numerales 2B.1, 2B.2, 2B.3, 2B.4, 2B.5, 2B.6, 2B.7, 2B.8, 2B.9, 2B.10, 2B.11, 2B.12, 2B.13, 2B.14, 2B.15, 2B.16, 2B.17, 2B.18, 2B.19, 2B.20, 2B.21, 2B.22, 2B.23, 2B.24, 2B.25 y 2B.26; Grupo 3, Grupo 3A, numerales 3A.1, 3A.2, 3A.3 y 3A.4; Grupo 3B, 3B.1, 3B.2, 3B.3, 3B.4, 3B.5, 3B.6, 3B.7, 3B.8, 3B.9, 3B.10, 3B.11, 3B.12 y 3B.13; Grupo 4, numerales 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9, 4.10, 4.11, 4.12, 4.13, 4.14, 4.15, 4.16, 4.17, 4.18, 4.19, 4.20, 4.21, 4.22, 4.23 y 4.24, Grupo 5, el numeral 5.1, y el Apéndice Dos, apartado de Estados Parte, numerales 5, 14, 15, 40, 65, 70, 82, 98, 100, 119, 133, 141, 145, 164, 179 y 191 y el Apartado de Estados No Parte; se derogan la fracción XI del artículo 3 y se adiciona la fracción XII Bis, un párrafo segundo, recorriéndose los subsecuentes y un párrafo quinto al
-
-### artículo 3
-y del Apéndice Uno, Grupo 1 los numerales 1A.9, 1A.10, 1A.11 y 1A.12, de la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas, para quedar como sigue: ………
+Grupo 2B, numerales 2B.1, 2B.2, 2B.3, 2B.4, 2B.5, 2B.6, 2B.7, 2B.8, 2B.9, 2B.10, 2B.11, 2B.12, 2B.13, 2B.14, 2B.15, 2B.16, 2B.17, 2B.18, 2B.19, 2B.20, 2B.21, 2B.22, 2B.23, 2B.24, 2B.25 y 2B.26; Grupo 3, Grupo 3A, numerales 3A.1, 3A.2, 3A.3 y 3A.4; Grupo 3B, 3B.1, 3B.2, 3B.3, 3B.4, 3B.5, 3B.6, 3B.7, 3B.8, 3B.9, 3B.10, 3B.11, 3B.12 y 3B.13; Grupo 4, numerales 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9, 4.10, 4.11, 4.12, 4.13, 4.14, 4.15, 4.16, 4.17, 4.18, 4.19, 4.20, 4.21, 4.22, 4.23 y 4.24, Grupo 5, el numeral 5.1, y el Apéndice Dos, apartado de Estados Parte, numerales 5, 14, 15, 40, 65, 70, 82, 98, 100, 119, 133, 141, 145, 164, 179 y 191 y el Apartado de Estados No Parte; se derogan la fracción XI del artículo 3 y se adiciona la fracción XII Bis, un párrafo segundo, recorriéndose los subsecuentes y un párrafo quinto al artículo 3 y del Apéndice Uno, Grupo 1 los numerales 1A.9, 1A.10, 1A.11 y 1A.12, de la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -908,7 +890,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia DE ARMAS QUÍMICAS Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

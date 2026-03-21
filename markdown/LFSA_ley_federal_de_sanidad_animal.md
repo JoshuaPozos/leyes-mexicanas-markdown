@@ -1321,17 +1321,11 @@ II. Incumplir las disposiciones en materia de sanidad animal sobre las caracter�
 
 III. Incumplir lo establecido en materia de atención a los animales para su alimentación y medicamentos, en términos del artículo 21 de esta Ley;
 
-IV. Incumplir la regulación en materia de sacrificio humanitario de los animales, conforme lo dispone el
-
-### artículo 23
-de esta Ley;
+IV. Incumplir la regulación en materia de sacrificio humanitario de los animales, conforme lo dispone el artículo 23 de esta Ley;
 
 V. No dar cumplimiento en el punto de ingreso al país a las disposiciones en materia de importación de mercancías a que hace referencia el artículo 24 de esta Ley;
 
-VI. Incumplir las disposiciones en materia de importaciones de conformidad con lo establecido en el
-
-### artículo 26
-de esta Ley;
+VI. Incumplir las disposiciones en materia de importaciones de conformidad con lo establecido en el artículo 26 de esta Ley;
 
 VII. Transgredir lo dispuesto en materia de cuarentenas y guardas custodias-cuarentenas, a que hace referencia el artículo 30 de esta Ley;
 
@@ -1422,10 +1416,7 @@ XLIX. Transgredir las disposiciones establecidas en el artículo 148 de esta Ley
 L. Incumplir con las responsabilidades a que se refiere el artículo 151 de esta Ley, en sus fracciones:
 I, II, III, IV, V, VI, VII y VIII;
 
-LI. Ostentar la contraseña Tipo Inspección Federal, sin dar cumplimiento a las disposiciones del
-
-### artículo 154
-de esta Ley;
+LI. Ostentar la contraseña Tipo Inspección Federal, sin dar cumplimiento a las disposiciones del artículo 154 de esta Ley;
 
 LII. Ostentar sin autorización las contraseñas y marcas oficiales a las que hace referencia el artículo 157 de esta Ley; y
 

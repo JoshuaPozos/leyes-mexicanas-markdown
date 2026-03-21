@@ -93,10 +93,7 @@ III. Dichas asociaciones o sociedades cooperativas estén bajo vigilancia o ampa
 IV. La membresía a dichas asociaciones o sociedades cooperativas sea voluntaria y se permita la libre entrada y salida de sus miembros, y
 
 V. No otorguen o distribuyan permisos o autorizaciones cuya expedición corresponda a dependencias o entidades de la administración pública federal.
-Los Agentes Económicos referidos en este artículo estarán sujetos a lo dispuesto en esta Ley respecto de los actos que no estén expresamente comprendidos dentro de la protección que señala el
-
-### artículo 28
-de la Constitución Política de los Estados Unidos Mexicanos.
+Los Agentes Económicos referidos en este artículo estarán sujetos a lo dispuesto en esta Ley respecto de los actos que no estén expresamente comprendidos dentro de la protección que señala el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Artículo 9
 . Para la imposición, en los términos del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, de precios máximos a los bienes y servicios que sean necesarios para la economía nacional o el consumo popular, con excepción de la regulación prevista en la Ley del Sector Hidrocarburos, se estará a lo siguiente:
@@ -283,10 +280,7 @@ En los casos en que los Comisionados no puedan ejercer su voto por causas debida
 Las sesiones del Pleno serán de carácter público, a través de la versión estenográfica que se publicará en el sitio de Internet de la Comisión, excepto aquellas porciones en que se traten temas con Información Confidencial o Reservada. Sólo será considerada Información Confidencial la declarada como tal bajo los supuestos establecidos en esta Ley y demás disposiciones aplicables. El Pleno deberá fundar y motivar la resolución en la que determine que una sesión no será pública.
 Párrafo reformado DOF 16-07-2025 La Comisión deberá hacer público el posicionamiento de cada una de las Personas Comisionadas sobre los asuntos listados en el orden del día, el cual será redactado en lenguaje ciudadano, que deberá contener una descripción de los hechos de cada asunto en cuestión, así como el sentido del voto y el razonamiento que lo sustenta.
 Párrafo reformado DOF 16-07-2025 Los acuerdos y resoluciones del Pleno también serán de carácter público y sólo se reservarán las partes que contengan Información Confidencial o Reservada, en los términos establecidos en esta Ley y demás disposiciones aplicables.
-Corresponde al Pleno el ejercicio de las atribuciones señaladas en las fracciones II, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXIII, XXIV, XXV, XXXI, XXXII, XXXIII, XXXIV y XXXVI del artículo 12 de esta Ley, y las demás atribuciones concedidas expresamente al Pleno en esta Ley. Las atribuciones señaladas en el artículo 12, fracción II, cuando deriven del procedimiento previsto en el
-
-### artículo 94
-de esta Ley; así como las previstas en sus fracciones XVII, XXII, XXXII y XXXIII, solo podrán ser ejercidas por el Pleno cuando las mismas sean resueltas con el voto afirmativo de cuando menos cuatro Personas Comisionadas.
+Corresponde al Pleno el ejercicio de las atribuciones señaladas en las fracciones II, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXIII, XXIV, XXV, XXXI, XXXII, XXXIII, XXXIV y XXXVI del artículo 12 de esta Ley, y las demás atribuciones concedidas expresamente al Pleno en esta Ley. Las atribuciones señaladas en el artículo 12, fracción II, cuando deriven del procedimiento previsto en el artículo 94 de esta Ley; así como las previstas en sus fracciones XVII, XXII, XXXII y XXXIII, solo podrán ser ejercidas por el Pleno cuando las mismas sean resueltas con el voto afirmativo de cuando menos cuatro Personas Comisionadas.
 Párrafo reformado DOF 16-07-2025 El Pleno determinará en el estatuto orgánico el ejercicio directo o por delegación de las atribuciones previstas en el artículo 12 de esta Ley que no estén comprendidas en los supuestos señalados en el párrafo anterior.
 En el estatuto orgánico de la Comisión se establecerán las facultades que ejercerán las diversas unidades de la misma, las cuales estarán bajo el mando y supervisión del Pleno o del Comisionado Presidente, según se trate.
 
@@ -1275,10 +1269,7 @@ De las Investigaciones para Determinar Insumos Esenciales o Barreras a la Compet
 
 I. La Autoridad Investigadora dictará el acuerdo de inicio y publicará en el Diario Oficial de la Federación un extracto del mismo, el cual deberá identificar el mercado materia de la investigación con objeto de que cualquier persona pueda aportar elementos durante la investigación. A partir de la publicación del extracto comenzará a contar el período de investigación, el cual no podrá ser inferior a treinta ni exceder de ciento veinte días. Dicho periodo podrá ser ampliado por la Comisión hasta en dos ocasiones cuando existan causas que lo justifiquen;
 
-II. La Autoridad Investigadora contará con todas las facultades de investigación que se prevén en esta Ley, incluyendo requerir los informes y documentos necesarios, citar a declarar a quienes tengan relación con el caso de que se trate, realizar visitas de verificación y ordenar cualquier diligencia que considere pertinente. Tratándose de insumos esenciales, la Autoridad Investigadora deberá analizar durante esta investigación todos los supuestos previstos en el
-
-### artículo 60
-de esta Ley;
+II. La Autoridad Investigadora contará con todas las facultades de investigación que se prevén en esta Ley, incluyendo requerir los informes y documentos necesarios, citar a declarar a quienes tengan relación con el caso de que se trate, realizar visitas de verificación y ordenar cualquier diligencia que considere pertinente. Tratándose de insumos esenciales, la Autoridad Investigadora deberá analizar durante esta investigación todos los supuestos previstos en el artículo 60 de esta Ley;
 
 III. Concluida la investigación y si existen elementos para determinar que no existen condiciones de competencia efectiva en el mercado investigado, la Autoridad Investigadora emitirá, dentro de los cuarenta días siguientes a la conclusión de la investigación, un dictamen preliminar; en caso contrario, propondrá al Pleno el cierre del expediente. En este último caso, el Pleno emitirá la resolución de cierre dentro del plazo de quince días contados a partir de que se haya presentado la propuesta correspondiente.
 Párrafo reformado DOF 16-07-2025 Al emitir el dictamen preliminar, se deberán proponer las medidas correctivas que se consideren necesarias para eliminar las restricciones al funcionamiento eficiente del mercado investigado, para lo cual podrá solicitar, en su caso, una opinión técnica no vinculatoria a la dependencia coordinadora del sector o a la Autoridad Pública que corresponda respecto de dichas medidas correctivas.
@@ -1663,10 +1654,7 @@ VI. Ordenar medidas para regular el acceso a los Insumos Esenciales bajo control
 VII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incurrido en una concentración ilícita en términos de esta Ley, con independencia de la responsabilidad civil en que se incurra;
 Fracción reformada DOF 16-07-2025
 
-VIII. Multa de cincuenta mil veces el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al ocho por ciento de los ingresos del Agente Económico, por haber llevado a cabo una concentración que exceda los umbrales monetarios establecidos en el
-
-### artículo 86
-, sin haber obtenido previamente la autorización correspondiente.
+VIII. Multa de cincuenta mil veces el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al ocho por ciento de los ingresos del Agente Económico, por haber llevado a cabo una concentración que exceda los umbrales monetarios establecidos en el artículo 86, sin haber obtenido previamente la autorización correspondiente.
 La multa establecida en esta fracción será de doscientas mil veces el valor diario de la Unidad de Medida y Actualización y hasta el equivalente al quince por ciento de los ingresos del Agente Económico cuando la Comisión haya previamente objetado la realización de la concentración correspondiente.
 Lo anterior, sin perjuicio de poder ordenar la desconcentración parcial o total, la terminación del control o la supresión de los actos, según corresponda, de la concentración correspondiente;
 Fracción reformada DOF 16-07-2025
@@ -1708,10 +1696,7 @@ b) Al inicio del segundo o ulterior procedimiento exista resolución previa que 
 
 c) Que entre el inicio del procedimiento y la resolución que haya causado estado en sede administrativa no hayan transcurrido más de diez años.
 Inciso reformado DOF 16-07-2025 En el caso de violaciones a esta Ley por servidores públicos, la Comisión deberá enviar oficio debidamente fundado y motivado a la autoridad competente para que, de ser procedente, se inicie el procedimiento de responsabilidad administrativa a que hubiere lugar, sin perjuicio de la responsabilidad penal en que incurra el servidor público.
-El Ejecutivo Federal ejecutará las multas previstas por este artículo, así como las previstas en el
-
-### artículo 126
-de esta Ley.
+El Ejecutivo Federal ejecutará las multas previstas por este artículo, así como las previstas en el artículo 126 de esta Ley.
 En ningún caso la Comisión administrará ni dispondrá de los fondos a que se refiere este artículo.
 
 ### Artículo 128
@@ -1920,10 +1905,7 @@ Publicado en el Diario Oficial de la Federación el 27 de enero de 2017
 
 ### Artículo Primero
 Se reforman los artículos 3, fracción VII; 20, fracciones VII y X; 23, párrafo
-**segundo.** ; 25, párrafo quinto; 34; la denominación del Título IV para quedar como "Del Órgano Interno de Control de la Comisión Federal de Competencia Económica"; 37; 38; 39, primer párrafo, fracciones I, VIII, X, XIV, XVII, XXIV y XXVI; 40; 41, primer párrafo, fracciones I, III, IV, V, VI, VII, VIII y IX; 42; 43; la denominación del Capítulo IV del Título IV "De la Responsabilidad del Titular del Órgano Interno de Control"; 44; 45; 46; 49, fracción IV; y se derogan las fracciones III, XI, XII, XV, XVIII, XIX, XX y XXI del
-
-### artículo 39
-de la Ley Federal de Competencia Económica, para quedar como sigue: ………
+**segundo.** ; 25, párrafo quinto; 34; la denominación del Título IV para quedar como "Del Órgano Interno de Control de la Comisión Federal de Competencia Económica"; 37; 38; 39, primer párrafo, fracciones I, VIII, X, XIV, XVII, XXIV y XXVI; 40; 41, primer párrafo, fracciones I, III, IV, V, VI, VII, VIII y IX; 42; 43; la denominación del Capítulo IV del Título IV "De la Responsabilidad del Titular del Órgano Interno de Control"; 44; 45; 46; 49, fracción IV; y se derogan las fracciones III, XI, XII, XV, XVIII, XIX, XX y XXI del artículo 39 de la Ley Federal de Competencia Económica, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -1937,10 +1919,7 @@ Lo anterior, con excepción de aquellos titulares de los órganos internos de co
 **Séptimo.** El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
 Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
-Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo Quincuagésimo Primero.- Se reforman la fracción VII del artículo 28; la fracción IX del
-
-### artículo 41
-; y el párrafo primero del artículo 77 de la Ley Federal de Competencia Económica, para quedar como sigue: ………
+Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo Quincuagésimo Primero.- Se reforman la fracción VII del artículo 28; la fracción IX del artículo 41; y el párrafo primero del artículo 77 de la Ley Federal de Competencia Económica, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -1992,10 +1971,8 @@ Se reforman los artículos 3, fracciones III, V, VI, VIII y XIII; 6, párrafo pr
 **cuarto.** y quinto; 73, el párrafo tercero; 77, los párrafos tercero y cuarto; la Sección II Bis al Capítulo Único del Título I del Libro Tercero, el cual comprende los artículos 77 Bis y 77 Bis 1; 90, fracción V, el párrafo
 **cuarto.** , fracción VI, el párrafo segundo y el párrafo quinto; 93 Bis; 94, los párrafos séptimo, octavo,
 **noveno.** y décimo; 100, los párrafos segundo, tercero, cuarto y quinto; 102, el párrafo segundo, y se recorren en su orden los subsecuentes; 103, los párrafos cuarto, quinto, sexto, séptimo y octavo; un Capítulo VI del Título IV del Libro Tercero con el artículo 110 Bis; 117, el párrafo cuarto; 119, el párrafo
-**tercero.** ; 125, el párrafo cuarto; 126, las fracciones II Bis, II Bis 1 y II Bis 2, y el párrafo segundo; 127, las fracciones VIII, los párrafos segundo y tercero y XII Bis, XVI y XVII; 130, el párrafo segundo; 132, el párrafo segundo; y el Libro Cuarto, con el Título Único, el cual comprende los Capítulos I con sus artículos 140, 141 y II con sus artículos 142, 143, 144 y 145 y, se derogan la fracción VII al artículo 3; 5; párrafo segundo al artículo 6; las fracciones XII, XIV, XV y XXII al artículo 12; un párrafo segundo al
-
-### artículo 13
-; 14; 15; 16; 17; párrafos segundo y tercero al artículo 23; todo el Título IV del Libro Primero, incluidos sus Capítulos I, II, III, IV y V y sus artículos 37, 38, 39, 40, 41, 42, 43, 44, 45 y 46; las fracciones I, II, III, IV, V y VI y un párrafo segundo al artículo 47; la fracción V al artículo 53; la fracción VI al artículo 59; el párrafo tercero de la fracción VI al artículo 83; las fracciones IV y VII al artículo 93; párrafos segundo, tercero, cuarto y quinto al artículo 95; 101 y 136, de la Ley Federal de Competencia Económica, para quedar como sigue: ……..
+**tercero.** ; 125, el párrafo cuarto; 126, las fracciones II Bis, II Bis 1 y II Bis 2, y el párrafo segundo; 127, las fracciones VIII, los párrafos segundo y tercero y XII Bis, XVI y XVII; 130, el párrafo segundo; 132, el párrafo segundo; y el Libro Cuarto, con el Título Único, el cual comprende los Capítulos I con sus artículos 140, 141 y II con sus artículos 142, 143, 144 y 145 y, se derogan la fracción VII al artículo 3; 5; párrafo segundo al artículo 6; las fracciones XII, XIV, XV y XXII al artículo 12; un párrafo segundo al artículo 13; 14; 15; 16; 17; párrafos segundo y tercero al artículo 23; todo el Título IV del Libro Primero, incluidos sus Capítulos I, II, III, IV y V y sus artículos 37, 38, 39, 40, 41, 42, 43, 44, 45 y 46; las fracciones I, II, III, IV, V y VI y un párrafo segundo al artículo 47; la fracción V al artículo 53; la fracción VI al artículo 59; el párrafo tercero de la fracción VI al artículo 83; las fracciones IV y VII al artículo 93; párrafos
+**segundo.** , tercero, cuarto y quinto al artículo 95; 101 y 136, de la Ley Federal de Competencia Económica, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -2060,7 +2037,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

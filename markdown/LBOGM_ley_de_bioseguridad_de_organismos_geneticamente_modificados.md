@@ -16,13 +16,8 @@ SE EXPIDE LA  .
 ## TÍTULO PRIMERO — Disposiciones Generales
 
 ## CAPÍTULO I
-Objeto y Finalidades
-
-### ARTÍCULO 1
-.- La presente Ley es de orden público y de interés social, y tiene por objeto regular las actividades de utilización confinada, liberación experimental, liberación en programa piloto, liberación comercial, comercialización, importación y exportación de organismos genéticamente modificados, con el fin de prevenir, evitar o reducir los posibles riesgos que estas actividades pudieran ocasionar a la salud humana o al medio ambiente y a la diversidad biológica o a la sanidad animal, vegetal y acuícola.
-
-### ARTÍCULO 2
-.- Para cumplir su objeto, este ordenamiento tiene como finalidades:
+Objeto y Finalidades ARTÍCULO 1.- La presente Ley es de orden público y de interés social, y tiene por objeto regular las actividades de utilización confinada, liberación experimental, liberación en programa piloto, liberación comercial, comercialización, importación y exportación de organismos genéticamente modificados, con el fin de prevenir, evitar o reducir los posibles riesgos que estas actividades pudieran ocasionar a la salud humana o al medio ambiente y a la diversidad biológica o a la sanidad animal, vegetal y acuícola.
+ARTÍCULO 2.- Para cumplir su objeto, este ordenamiento tiene como finalidades:
 
 I. Garantizar un nivel adecuado y eficiente de protección de la salud humana, del medio ambiente y la diversidad biológica y de la sanidad animal, vegetal y acuícola, respecto de los efectos adversos que pudiera causarles la realización de actividades con organismos genéticamente modificados;
 
@@ -53,9 +48,7 @@ XIII. Establecer medidas de control para garantizar la bioseguridad, así como l
 XIV. Establecer mecanismos para la participación pública en aspectos de bioseguridad materia de esta Ley, incluyendo el acceso a la información, la participación de los sectores privado, social y productivo a través del Consejo Consultivo Mixto de la CIBIOGEM, y la consulta pública sobre solicitudes de liberación de OGMs al ambiente, y
 
 XV. Establecer instrumentos de fomento a la investigación científica y tecnológica en bioseguridad y biotecnología.
-
-### ARTÍCULO 3
-.- Para los efectos de esta Ley, se entiende por:
+ARTÍCULO 3.- Para los efectos de esta Ley, se entiende por:
 
 I. Accidente: La liberación involuntaria de organismos genéticamente modificados durante su utilización y que pueda suponer, con base en criterios técnicos, posibles riesgos para la salud humana o para el medio ambiente y la diversidad biológica.
 
@@ -128,15 +121,9 @@ XXXIV. Utilización confinada: Cualquier actividad por la que se modifique el ma
 XXXV. Zonas autorizadas: Las áreas o regiones geográficas que se determinen caso por caso en la resolución de un permiso, en las cuales se pueden liberar al ambiente organismos genéticamente modificados que se hubieren analizado.
 
 XXXVI. Zonas restringidas: Los centros de origen, los centros de diversidad genética y las áreas naturales protegidas, dentro de los cuales se restrinja la realización de actividades con organismos genéticamente modificados, en los términos de esta Ley.
-
-### ARTÍCULO 4
-.- Es materia de esta Ley la bioseguridad de todos los OGMs obtenidos o producidos a través de la aplicación de las técnicas de la biotecnología moderna a que se refiere el presente ordenamiento, que se utilicen con fines agrícolas, pecuarios, acuícolas, forestales, industriales, comerciales, de biorremediación y cualquier otro, con las excepciones que establece esta Ley.
-
-### ARTÍCULO 5
-.- También es materia de esta Ley la autorización de los OGMs que se destinen a su uso o consumo humano o al procesamiento de alimentos para consumo humano, para poder realizar su comercialización e importación para su comercialización. Asimismo es materia de este ordenamiento la autorización de OGMs, distintos de los anteriores, que se destinen a una finalidad de salud pública o a la biorremediación.
-
-### ARTÍCULO 6
-.- Quedan excluidos del ámbito de aplicación de esta Ley:
+ARTÍCULO 4.- Es materia de esta Ley la bioseguridad de todos los OGMs obtenidos o producidos a través de la aplicación de las técnicas de la biotecnología moderna a que se refiere el presente ordenamiento, que se utilicen con fines agrícolas, pecuarios, acuícolas, forestales, industriales, comerciales, de biorremediación y cualquier otro, con las excepciones que establece esta Ley.
+ARTÍCULO 5.- También es materia de esta Ley la autorización de los OGMs que se destinen a su uso o consumo humano o al procesamiento de alimentos para consumo humano, para poder realizar su comercialización e importación para su comercialización. Asimismo es materia de este ordenamiento la autorización de OGMs, distintos de los anteriores, que se destinen a una finalidad de salud pública o a la biorremediación.
+ARTÍCULO 6.- Quedan excluidos del ámbito de aplicación de esta Ley:
 
 I. Las actividades de utilización confinada, liberación experimental, liberación en programa piloto y liberación comercial, comercialización, importación y exportación de OGMs, cuando la modificación genética de dichos organismos se obtenga por técnicas de mutagénesis tradicional o de fusión celular, incluida la de protoplastos de células vegetales, en que los organismos resultantes puedan producirse también mediante métodos tradicionales de multiplicación o de cultivo in vivo o in vitro, siempre que estas técnicas no supongan la utilización de organismos genéticamente modificados como organismos receptores o parentales;
 
@@ -151,9 +138,7 @@ V. El genoma humano, el cultivo de células troncales de seres humanos, la modif
 VI. La colecta y el aprovechamiento de recursos biológicos, cuya regulación corresponde a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, a la Ley General de Vida Silvestre, y a los Tratados Internacionales en los que los Estados Unidos Mexicanos sean parte, y
 
 VII. La propiedad intelectual de los productos y procesos biotecnológicos, lo que es materia de la Ley de Propiedad Industrial, de la Ley Federal de Variedades Vegetales y de los Tratados Internacionales en los que los Estados Unidos Mexicanos sean parte.
-
-### ARTÍCULO 7
-.- Las actividades, organismos y productos sujetos al ámbito de esta Ley, no requerirán, en materia de bioseguridad e inocuidad, de otros permisos, autorizaciones, avisos y, en general, requisitos, trámites y restricciones que los establecidos en este ordenamiento.
+ARTÍCULO 7.- Las actividades, organismos y productos sujetos al ámbito de esta Ley, no requerirán, en materia de bioseguridad e inocuidad, de otros permisos, autorizaciones, avisos y, en general, requisitos, trámites y restricciones que los establecidos en este ordenamiento.
 Se exceptúa de lo dispuesto en el párrafo anterior:
 
 I. Las medidas que en materia de salubridad general corresponda adoptar a la Secretaría de Salud en los términos de la Ley General de Salud y sus reglamentos, salvo en lo relativo a la tramitación y expedición de autorizaciones que regula esta Ley;
@@ -162,15 +147,10 @@ II. Las medidas que en materia de sanidad animal, vegetal y acuícola correspond
 
 III. Las medidas que en materia ambiental corresponda adoptar a la Secretaría de Medio Ambiente y Recursos Naturales en los términos de la Ley General del Equilibrio Ecológico y la Protección al otras leyes aplicables en dicha materia, salvo en lo relativo a:
 A) La evaluación del impacto ambiental y del estudio de riesgo regulados en la Sección V del Capítulo IV del Título Primero y en el Capítulo V del Título Cuarto, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y B) La tramitación y expedición de permisos y los demás instrumentos de control y monitoreo que regula esta Ley.
-
-### ARTÍCULO 8
-.- A falta de disposición expresa en el presente ordenamiento, se estará a lo establecido en la Ley Federal de Procedimiento Administrativo.
+ARTÍCULO 8.- A falta de disposición expresa en el presente ordenamiento, se estará a lo establecido en la Ley Federal de Procedimiento Administrativo.
 
 ## CAPÍTULO II
-Principios en Materia de Bioseguridad
-
-### ARTÍCULO 9
-.- Para la formulación y conducción de la política de bioseguridad y la expedición de la reglamentación y de las normas oficiales mexicanas que deriven de esta Ley, se observarán los siguientes principios:
+Principios en Materia de Bioseguridad ARTÍCULO 9.- Para la formulación y conducción de la política de bioseguridad y la expedición de la reglamentación y de las normas oficiales mexicanas que deriven de esta Ley, se observarán los siguientes principios:
 
 I. La Nación Mexicana es poseedora de una biodiversidad de las más amplias en el mundo, y en su territorio se encuentran áreas que son centro de origen y de diversidad genética de especies y variedades que deben ser protegidas, utilizadas, potenciadas y aprovechadas sustentablemente, por ser un valioso reservorio de riqueza en moléculas y genes para el desarrollo sustentable del país;
 
@@ -211,9 +191,7 @@ XVIII. El Estado Mexicano garantizará el acceso público a la información en m
 XIX. La experimentación con OGMs o con cualquier otro organismo para fines de fabricación y/o utilización de armas biológicas queda prohibida en el territorio nacional.
 
 ## CAPÍTULO III — De las Competencias en Materia de Bioseguridad
-
-### ARTÍCULO 10
-.- Son autoridades competentes en materia de bioseguridad:
+ARTÍCULO 10.- Son autoridades competentes en materia de bioseguridad:
 
 I. La SEMARNAT;
 
@@ -221,9 +199,7 @@ II. La SAGARPA, y
 
 III. La SSA.
 La SHCP tendrá las facultades que se establecen en esta Ley, en lo relativo a la importación de OGMs y de productos que los contengan.
-
-### ARTÍCULO 11
-.- Corresponde a la SEMARNAT el ejercicio de las siguientes facultades respecto de actividades con todo tipo de OGMs, salvo cuando se trate de OGMs que correspondan a la SAGARPA:
+ARTÍCULO 11.- Corresponde a la SEMARNAT el ejercicio de las siguientes facultades respecto de actividades con todo tipo de OGMs, salvo cuando se trate de OGMs que correspondan a la SAGARPA:
 
 I. Participar en la formulación y aplicar la política general de bioseguridad;
 
@@ -244,9 +220,7 @@ VIII. Inspeccionar y vigilar el cumplimiento de la presente Ley, sus reglamentos
 IX. Imponer sanciones administrativas a las personas que infrinjan los preceptos de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones a este ordenamiento sean también constitutivos de delito, y de la responsabilidad civil y ambiental que pudiera resultar, y
 
 X. Las demás que esta Ley le confiere.
-
-### ARTÍCULO 12
-.- Corresponde a la SAGARPA el ejercicio de las facultades que le confiere esta Ley, cuando se trate de actividades con OGMs en los casos siguientes:
+ARTÍCULO 12.- Corresponde a la SAGARPA el ejercicio de las facultades que le confiere esta Ley, cuando se trate de actividades con OGMs en los casos siguientes:
 
 I. Vegetales que se consideren especies agrícolas, incluyendo semillas, y cualquier otro organismo o producto considerado dentro del ámbito de aplicación de la Ley Federal de Sanidad Vegetal, con excepción de las especies silvestres y forestales reguladas por la Ley General de Vida Silvestre y la Ley General de Desarrollo Forestal Sustentable, respectivamente, y aquellas que se encuentren bajo algún régimen de protección por normas oficiales mexicanas derivadas de esas leyes;
 
@@ -261,9 +235,7 @@ V. OGMs que se utilicen en la inmunización para proteger y evitar la diseminaci
 VI. OGMs que sean hongos, bacterias, protozoarios, virus, viroides, espiroplasmas, fitoplasmas, y otros microorganismos, que tengan fines productivos agrícolas, pecuarios, acuícolas o fitozoosanitarios, y
 
 VII. En los demás organismos y productos que determine el reglamento de esta Ley.
-
-### ARTÍCULO 13
-.- En los casos establecidos en el artículo anterior, corresponde a la SAGARPA el ejercicio de las siguientes atribuciones:
+ARTÍCULO 13.- En los casos establecidos en el artículo anterior, corresponde a la SAGARPA el ejercicio de las siguientes atribuciones:
 
 I. Participar en la formulación y aplicar la política general de bioseguridad;
 
@@ -284,12 +256,8 @@ VIII. Inspeccionar y vigilar el cumplimiento de la presente Ley, sus reglamentos
 IX. Imponer sanciones administrativas a las personas que infrinjan los preceptos de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones a este ordenamiento sean también constitutivos de delito, y de la responsabilidad civil que pudiera resultar, y
 
 X. Las demás que esta Ley le confiere.
-
-### ARTÍCULO 14
-.- En los casos en que a la SEMARNAT le corresponda el conocimiento, tramitación y resolución de una solicitud de permiso, tratándose de especies silvestres y forestales, deberá remitir el expediente respectivo a la SAGARPA para que emita la opinión que corresponda.
-
-### ARTÍCULO 15
-.- En los casos que son competencia de la SAGARPA, a la SEMARNAT le corresponderá lo siguiente:
+ARTÍCULO 14.- En los casos en que a la SEMARNAT le corresponda el conocimiento, tramitación y resolución de una solicitud de permiso, tratándose de especies silvestres y forestales, deberá remitir el expediente respectivo a la SAGARPA para que emita la opinión que corresponda.
+ARTÍCULO 15.- En los casos que son competencia de la SAGARPA, a la SEMARNAT le corresponderá lo siguiente:
 
 I. Emitir el dictamen de bioseguridad que corresponda, previo a la resolución de la SAGARPA, como resultado del análisis y evaluación de riesgos que realice con base en el estudio que elaboren y presenten los interesados, sobre los posibles riesgos que la actividad con OGMs de que se trate pueda causar al medio ambiente y a la diversidad biológica, cuando se trate de solicitudes de permisos para liberación experimental de dichos organismos, o con base en los reportes de resultados y la información que adjunten los interesados a sus solicitudes de permisos para liberación en programa piloto y para liberación comercial;
 
@@ -297,9 +265,7 @@ II. Requerir a la SAGARPA la suspensión de los efectos de los permisos que expi
 
 III. El ejercicio de las facultades establecidas en las fracciones I, II, IV, V, VII y VIII del artículo 11 de esta Ley.
 El dictamen de bioseguridad a que se refiere la fracción I de este artículo tendrá carácter vinculante, previo al otorgamiento de los permisos que le corresponda emitir a la SAGARPA, y se expedirá en los términos del artículo 66 de esta Ley.
-
-### ARTÍCULO 16
-.- Corresponde a la SSA el ejercicio de las siguientes facultades en relación con los OGMs:
+ARTÍCULO 16.- Corresponde a la SSA el ejercicio de las siguientes facultades en relación con los OGMs:
 
 I. Participar en la formulación y aplicar la política general de bioseguridad;
 
@@ -319,12 +285,8 @@ VIII. Imponer sanciones administrativas a las personas que infrinjan los precept
 
 IX. Las demás que esta Ley le confiere.
 La SSA realizará las acciones de vigilancia sanitaria y epidemiológica de los OGMs y de los productos que los contengan y de los productos derivados, de conformidad con la Ley General de Salud y sus disposiciones reglamentarias.
-
-### ARTÍCULO 17
-.- En caso de liberación accidental de OGMs, las Secretarías se coordinarán para que, en el ámbito de sus respectivas competencias conforme a esta Ley, impongan las medidas necesarias para evitar afectaciones negativas a la diversidad biológica, a la salud humana o a la sanidad animal, vegetal y acuícola, según se trate.
-
-### ARTÍCULO 18
-.- Corresponde a la SHCP el ejercicio de las siguientes facultades, respecto de la importación de OGMs y de productos que los contengan:
+ARTÍCULO 17.- En caso de liberación accidental de OGMs, las Secretarías se coordinarán para que, en el ámbito de sus respectivas competencias conforme a esta Ley, impongan las medidas necesarias para evitar afectaciones negativas a la diversidad biológica, a la salud humana o a la sanidad animal, vegetal y acuícola, según se trate.
+ARTÍCULO 18.- Corresponde a la SHCP el ejercicio de las siguientes facultades, respecto de la importación de OGMs y de productos que los contengan:
 
 I. Revisar en las aduanas de entrada del territorio nacional, que los OGMs que se importen y destinen a su liberación al ambiente o a las finalidades establecidas en el artículo 91 de esta Ley, cuenten con el permiso y/o la autorización respectiva, según sea el caso en los términos de este ordenamiento;
 
@@ -338,9 +300,7 @@ V. Impedir la entrada al territorio nacional de OGMs y productos que los conteng
 La SHCP ejercerá las facultades anteriores, sin perjuicio de las que le confiera la legislación aduanera, aplicables a la importación de todas las mercancías.
 
 ## CAPÍTULO IV — De la Coordinación y Participación
-
-### ARTÍCULO 19
-.- La CIBIOGEM es una Comisión Intersecretarial que tiene por objeto formular y coordinar las políticas de la Administración Pública Federal relativas a la bioseguridad de los OGMs, la cual tendrá las funciones que establezcan las disposiciones reglamentarias que deriven de esta Ley, conforme a las siguientes bases:
+ARTÍCULO 19.- La CIBIOGEM es una Comisión Intersecretarial que tiene por objeto formular y coordinar las políticas de la Administración Pública Federal relativas a la bioseguridad de los OGMs, la cual tendrá las funciones que establezcan las disposiciones reglamentarias que deriven de esta Ley, conforme a las siguientes bases:
 
 I. La CIBIOGEM estará integrada por los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Medio Ambiente y Recursos Naturales; Salud; Educación Pública; Hacienda y Crédito Público, y Economía, así como por el Director General del CONACyT;
 
@@ -353,40 +313,24 @@ IV. La CIBIOGEM contará con un Secretario Ejecutivo que será designado por el 
 V. La Secretaría Ejecutiva de la CIBIOGEM contará con la estructura orgánica que se apruebe en los términos de las disposiciones aplicables, y será considerada una unidad administrativa por función del CONACyT, de conformidad con la Ley Orgánica de dicha entidad paraestatal, y
 
 VI. La CIBIOGEM también contará con un Comité Técnico integrado por los coordinadores, directores generales o equivalentes competentes en la materia que designen los titulares de las dependencias y entidades que formen parte de la CIBIOGEM. Dicho Comité podrá proponer la creación de subcomités especializados para la atención de asuntos específicos y tendrá las atribuciones que se determinen en las disposiciones reglamentarias que deriven de esta Ley.
-
-### ARTÍCULO 20
-.- Se crea el Consejo Consultivo Científico de la CIBIOGEM que fungirá como órgano de consulta obligatoria de la propia CIBIOGEM en aspectos técnicos y científicos en biotecnología moderna y bioseguridad de OGMs. Se integrará por un conjunto de personas expertas en diferentes disciplinas, provenientes de centros, instituciones de investigación, academias o sociedades científicas de reconocido prestigio, que ejercerán su función a título personal, con independencia de la institución, asociación o empresa de la que formen parte o en la que presten sus servicios. Dichas personas expertas manifestarán expresamente en carta compromiso, al momento de ser designadas como integrantes del Consejo Consultivo Científico, no tener ningún conflicto de interés.
+ARTÍCULO 20.- Se crea el Consejo Consultivo Científico de la CIBIOGEM que fungirá como órgano de consulta obligatoria de la propia CIBIOGEM en aspectos técnicos y científicos en biotecnología moderna y bioseguridad de OGMs. Se integrará por un conjunto de personas expertas en diferentes disciplinas, provenientes de centros, instituciones de investigación, academias o sociedades científicas de reconocido prestigio, que ejercerán su función a título personal, con independencia de la institución, asociación o empresa de la que formen parte o en la que presten sus servicios. Dichas personas expertas manifestarán expresamente en carta compromiso, al momento de ser designadas como integrantes del Consejo Consultivo Científico, no tener ningún conflicto de interés.
 La selección de las personas integrantes del Consejo Consultivo Científico se realizará mediante convocatoria pública que emitan conjuntamente el CONACyT y el Foro Consultivo Científico y Tecnológico previsto en la Ley de Ciencia y Tecnología, garantizando el principio de paridad de género.
 Entre las funciones del Consejo Consultivo se preverá la formulación de protocolos de investigación, análisis y metodologías y dictámenes técnicos, que podrán ser remunerados. Las funciones específicas del Consejo Consultivo y los mecanismos para que la renovación de sus integrantes sea progresiva y escalonada, se establecerán en las disposiciones reglamentarias que deriven de esta Ley. Los dictámenes técnicos que emita el Consejo Consultivo Científico deberán ser considerados por la CIBIOGEM en las decisiones que adopte.
-Artículo reformado DOF 11-05-2022
-
-### ARTÍCULO 21
-.- Se crea el Consejo Consultivo Mixto de la CIBIOGEM que fungirá como órgano auxiliar de consulta y opinión de la propia CIBIOGEM. Se integrará garantizando el principio de paridad de género, por representantes de asociaciones, cámaras o empresas de los sectores privado, social y productivo. Su función fundamental será conocer y opinar sobre aspectos sociales, económicos, y otros aspectos relativos a las políticas regulatorias y de fomento, así como sobre las prioridades en la normalización y el mejoramiento de trámites y procedimientos en materia de bioseguridad de los OGMs.
+Artículo reformado DOF 11-05-2022 ARTÍCULO 21.- Se crea el Consejo Consultivo Mixto de la CIBIOGEM que fungirá como órgano auxiliar de consulta y opinión de la propia CIBIOGEM. Se integrará garantizando el principio de paridad de género, por representantes de asociaciones, cámaras o empresas de los sectores privado, social y productivo. Su función fundamental será conocer y opinar sobre aspectos sociales, económicos, y otros aspectos relativos a las políticas regulatorias y de fomento, así como sobre las prioridades en la normalización y el mejoramiento de trámites y procedimientos en materia de bioseguridad de los OGMs.
 Las funciones específicas del Consejo Consultivo Mixto y los mecanismos para la incorporación de sus integrantes serán establecidas por la CIBIOGEM.
-Artículo reformado DOF 11-05-2022
-
-### ARTÍCULO 22
-.- La CIBIOGEM emitirá sus reglas de operación en las que se establecerán los mecanismos de participación para que integrantes y representantes de los sectores académico, científico, tecnológico, social y productivo, de reconocido prestigio y experiencia en los temas relacionados directamente con las actividades que son materia de esta Ley, puedan participar mediante opiniones, estudios y consultas en el conocimiento y evolución de las políticas de bioseguridad y de fomento de la investigación en bioseguridad y biotecnología, así como también para recibir opiniones, estudios y consultas en dichas materias.
-
-### ARTÍCULO 23
-.- El CONACyT contará en su presupuesto con los recursos necesarios para el desarrollo de las actividades de la CIBIOGEM, de la Secretaría Ejecutiva y del Consejo Consultivo Científico, conforme al presupuesto que se autorice en los términos de las disposiciones aplicables.
+Artículo reformado DOF 11-05-2022 ARTÍCULO 22.- La CIBIOGEM emitirá sus reglas de operación en las que se establecerán los mecanismos de participación para que integrantes y representantes de los sectores académico, científico, tecnológico, social y productivo, de reconocido prestigio y experiencia en los temas relacionados directamente con las actividades que son materia de esta Ley, puedan participar mediante opiniones, estudios y consultas en el conocimiento y evolución de las políticas de bioseguridad y de fomento de la investigación en bioseguridad y biotecnología, así como también para recibir opiniones, estudios y consultas en dichas materias.
+ARTÍCULO 23.- El CONACyT contará en su presupuesto con los recursos necesarios para el desarrollo de las actividades de la CIBIOGEM, de la Secretaría Ejecutiva y del Consejo Consultivo Científico, conforme al presupuesto que se autorice en los términos de las disposiciones aplicables.
 Dichos recursos serán administrados y ejercidos por el Secretario Ejecutivo de la CIBIOGEM.
 Los programas, proyectos, apoyos, así como las demás acciones que se lleven a cabo por la aplicación de la presente Ley y demás disposiciones en la materia, en los que se ejerzan recursos de carácter federal, se sujetarán a la disponibilidad de recursos que se determinen para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, y deberán observar las disposiciones aplicables en materia presupuestaria.
-
-### ARTÍCULO 24
-.- Las Secretarías podrán establecer comités técnicos científicos que les proporcionen apoyo en la resolución de expedientes de solicitudes de permisos y autorizaciones, así como en materia de avisos. Las disposiciones reglamentarias de esta Ley determinarán las bases de organización y funcionamiento de dichos comités.
+ARTÍCULO 24.- Las Secretarías podrán establecer comités técnicos científicos que les proporcionen apoyo en la resolución de expedientes de solicitudes de permisos y autorizaciones, así como en materia de avisos. Las disposiciones reglamentarias de esta Ley determinarán las bases de organización y funcionamiento de dichos comités.
 
 ## CAPÍTULO V — De la Coordinación con las Entidades Federativas
-
-### ARTÍCULO 25
-.- La Federación, por conducto de las Secretarías en el ámbito de su competencia y en los términos de las disposiciones aplicables, con el conocimiento de la CIBIOGEM, podrá celebrar convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de:
+ARTÍCULO 25.- La Federación, por conducto de las Secretarías en el ámbito de su competencia y en los términos de las disposiciones aplicables, con el conocimiento de la CIBIOGEM, podrá celebrar convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de:
 
 I. Establecer la colaboración concurrente en el monitoreo de los riesgos que pudieran ocasionar las actividades de liberación de OGMs al ambiente, sea experimental o en programa piloto, que se determinen en dichos convenios o acuerdos, y
 
 II. En su caso, en la realización de acciones para la vigilancia del cumplimiento de las disposiciones de esta Ley.
-
-### ARTÍCULO 26
-.- Los convenios o acuerdos de coordinación que suscriban la Federación con los gobiernos de las entidades federativas para los propósitos a que se refiere el artículo anterior, deberán ajustarse a las disposiciones aplicables y a las siguientes bases:
+ARTÍCULO 26.- Los convenios o acuerdos de coordinación que suscriban la Federación con los gobiernos de las entidades federativas para los propósitos a que se refiere el artículo anterior, deberán ajustarse a las disposiciones aplicables y a las siguientes bases:
 
 I. Definirán con precisión las materias y actividades que constituyan el objeto del convenio o acuerdo;
 
@@ -406,23 +350,14 @@ VIII. Se establecerá la obligación de presentar informes detallados sobre el c
 
 IX. Contendrán las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo.
 Los convenios a que se refiere este artículo deberán publicarse en el Diario Oficial de la Federación y en el órgano de difusión oficial del gobierno local respectivo.
-
-### ARTÍCULO 27
-.- Los gobiernos de las entidades federativas tendrán acceso permanente a la información que se inscriba en el Registro Nacional de Bioseguridad de los Organismos Genéticamente Modificados. Asimismo, la CIBIOGEM, por conducto de su Secretaría Ejecutiva, notificará las solicitudes de permisos de liberación comercial al ambiente de OGMs, a los gobiernos de las entidades federativas en las que se pretenda llevar a cabo dicha actividad, a efecto de que tengan conocimiento de esa situación y puedan emitir sus opiniones en los términos de esta Ley. La notificación deberá realizarse dentro de los veinte días siguientes a aquel en que la CIBIOGEM haya recibido la solicitud de permiso correspondiente para su inscripción en el Registro.
+ARTÍCULO 27.- Los gobiernos de las entidades federativas tendrán acceso permanente a la información que se inscriba en el Registro Nacional de Bioseguridad de los Organismos Genéticamente Modificados. Asimismo, la CIBIOGEM, por conducto de su Secretaría Ejecutiva, notificará las solicitudes de permisos de liberación comercial al ambiente de OGMs, a los gobiernos de las entidades federativas en las que se pretenda llevar a cabo dicha actividad, a efecto de que tengan conocimiento de esa situación y puedan emitir sus opiniones en los términos de esta Ley. La notificación deberá realizarse dentro de los veinte días siguientes a aquel en que la CIBIOGEM haya recibido la solicitud de permiso correspondiente para su inscripción en el Registro.
 
 ## CAPÍTULO VI
-Del Fomento a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología
-
-### ARTÍCULO 28
-.- El Ejecutivo Federal fomentará, apoyará y fortalecerá la investigación científica y tecnológica en materia de bioseguridad y de biotecnología a través de las políticas y los instrumentos establecidos en esta Ley y en la Ley de Ciencia y Tecnología. En materia de biotecnología, estos apoyos se orientarán a impulsar proyectos de investigación y desarrollo e innovación, formación de recursos humanos especializados y fortalecimiento de grupos e infraestructura de las universidades, instituciones de educación superior y centros públicos de investigación, que se lleven a cabo para resolver necesidades productivas específicas del país y que beneficien directamente a los productores nacionales.
+Del Fomento a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología ARTÍCULO 28.- El Ejecutivo Federal fomentará, apoyará y fortalecerá la investigación científica y tecnológica en materia de bioseguridad y de biotecnología a través de las políticas y los instrumentos establecidos en esta Ley y en la Ley de Ciencia y Tecnología. En materia de biotecnología, estos apoyos se orientarán a impulsar proyectos de investigación y desarrollo e innovación, formación de recursos humanos especializados y fortalecimiento de grupos e infraestructura de las universidades, instituciones de educación superior y centros públicos de investigación, que se lleven a cabo para resolver necesidades productivas específicas del país y que beneficien directamente a los productores nacionales.
 En materia de bioseguridad se fomentará la investigación para obtener conocimientos suficientes que permitan evaluar los posibles riesgos de los OGMs en el medio ambiente, la diversidad biológica, la salud humana y la sanidad animal, vegetal y acuícola; para generar las consideraciones socioeconómicas de los efectos de dichos organismos para la conservación y el aprovechamiento de la diversidad biológica, y para valorar y comprobar la información proporcionada por los promoventes. Asimismo, se impulsará la creación de capacidades humanas, institucionales y de infraestructura para la evaluación y monitoreo de riesgos.
-
-### ARTÍCULO 29
-.- Para lograr el fomento a la investigación científica y tecnológica en materia de bioseguridad y de biotecnología se establecerá un programa para el desarrollo de la bioseguridad y la biotecnología que será considerado como un programa cuya formulación estará a cargo del CONACyT con base en las propuestas que presenten las Secretarías y las demás dependencias y entidades de la Administración Pública Federal que apoyen o realicen investigación científica y desarrollo tecnológico. En dicho proceso se tomarán en cuenta las opiniones y propuestas de las comunidades científica, académica, tecnológica y sector productivo, convocadas por el Foro Consultivo Científico y Tecnológico, y de la CIBIOGEM.
+ARTÍCULO 29.- Para lograr el fomento a la investigación científica y tecnológica en materia de bioseguridad y de biotecnología se establecerá un programa para el desarrollo de la bioseguridad y la biotecnología que será considerado como un programa cuya formulación estará a cargo del CONACyT con base en las propuestas que presenten las Secretarías y las demás dependencias y entidades de la Administración Pública Federal que apoyen o realicen investigación científica y desarrollo tecnológico. En dicho proceso se tomarán en cuenta las opiniones y propuestas de las comunidades científica, académica, tecnológica y sector productivo, convocadas por el Foro Consultivo Científico y Tecnológico, y de la CIBIOGEM.
 Dicho programa formará parte del Programa Especial de Ciencia y Tecnología que establece la Ley de Ciencia y Tecnología.
-
-### ARTÍCULO 30
-.- El programa para el desarrollo de la bioseguridad y la biotecnología deberá contener, cuando menos, diagnósticos, políticas, estrategias y acciones generales y sectoriales en cuanto a:
+ARTÍCULO 30.- El programa para el desarrollo de la bioseguridad y la biotecnología deberá contener, cuando menos, diagnósticos, políticas, estrategias y acciones generales y sectoriales en cuanto a:
 
 I. Investigación científica;
 
@@ -444,73 +379,48 @@ IX. Fortalecimiento de la cultura de la bioseguridad, y
 
 X. Descentralización y desarrollo regional.
 El Ejecutivo Federal, por conducto de las Secretarías competentes, se asegurará de poner a disposición de las empresas semilleras de las organizaciones de campesinos y de productores, de manera preferente y accesible, los resultados de la investigación científica y de innovación y desarrollo tecnológico contenidos en el Programa para el desarrollo de la bioseguridad y la biotecnología.
-
-### ARTÍCULO 31
-.- El CONACyT llevará a cabo las acciones de Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología de conformidad con lo dispuesto en la presente Ley, en la Ley de Ciencia y Tecnología, y demás disposiciones aplicables.
+ARTÍCULO 31.- El CONACyT llevará a cabo las acciones de Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología de conformidad con lo dispuesto en la presente Ley, en la Ley de Ciencia y Tecnología, y demás disposiciones aplicables.
 Artículo reformado DOF 06-11-2020
 
 ## TÍTULO SEGUNDO — De los Permisos
 
 ## CAPÍTULO I — Disposiciones Comunes
-
-### ARTÍCULO 32
-.- Requerirá de permiso la realización de las siguientes actividades:
+ARTÍCULO 32.- Requerirá de permiso la realización de las siguientes actividades:
 
 I. La liberación experimental al ambiente, incluyendo la importación para esa actividad, de uno o más OGMs;
 
 II. La liberación al ambiente en programa piloto, incluyendo la importación para esa actividad, de OGMs, y
 
 III. La liberación comercial al ambiente, incluyendo la importación para esa actividad, de OGMs.
-
-### ARTÍCULO 33
-.- Una vez que las Secretarías correspondientes reciban una solicitud de permiso de liberación al ambiente de OGMs, y siempre y cuando cumpla con la información y los requisitos establecidos en esta Ley, deberán remitirla al Registro, para su inscripción y publicidad respectivas. Una vez realizado lo anterior, la Secretaría a la que le corresponda resolver la solicitud de permiso de liberación de OGMs al ambiente, pondrá a disposición del público dicha solicitud, para su consulta pública, debiendo observar las previsiones sobre confidencialidad establecidas en esta Ley. Dicha Secretaría podrá hacer uso de los medios que considere idóneos a efecto de poner a disposición del público la solicitud del permiso respectivo.
+ARTÍCULO 33.- Una vez que las Secretarías correspondientes reciban una solicitud de permiso de liberación al ambiente de OGMs, y siempre y cuando cumpla con la información y los requisitos establecidos en esta Ley, deberán remitirla al Registro, para su inscripción y publicidad respectivas. Una vez realizado lo anterior, la Secretaría a la que le corresponda resolver la solicitud de permiso de liberación de OGMs al ambiente, pondrá a disposición del público dicha solicitud, para su consulta pública, debiendo observar las previsiones sobre confidencialidad establecidas en esta Ley. Dicha Secretaría podrá hacer uso de los medios que considere idóneos a efecto de poner a disposición del público la solicitud del permiso respectivo.
 Cualquier persona, incluyendo a los gobiernos de las entidades federativas en las que se pretenda realizar la liberación respectiva, podrá emitir su opinión, que deberá estar sustentada técnica y científicamente, en un plazo no mayor de veinte días hábiles contados a partir de la fecha en que la solicitud respectiva sea puesta a disposición del público en los términos de este artículo.
 Las opiniones que se emitan de conformidad con lo establecido en el párrafo anterior serán consideradas por las Secretarías correspondientes para el establecimiento de medidas de bioseguridad adicionales, en caso de que proceda expedir el permiso de liberación de OGMs al ambiente que corresponda, en los términos de esta Ley.
-
-### ARTÍCULO 34
-.- La Secretaría correspondiente expedirá su resolución, debidamente fundada y motivada, una vez analizada la información y documentación aportados por el interesado, el dictamen o la opinión que hubieran expedido las Secretarías a las que les corresponde emitirlos de conformidad con esta Ley y, cuando proceda, la autorización del OGM que expida la SSA en los términos de este ordenamiento. La Secretaría correspondiente en su resolución podrá:
+ARTÍCULO 34.- La Secretaría correspondiente expedirá su resolución, debidamente fundada y motivada, una vez analizada la información y documentación aportados por el interesado, el dictamen o la opinión que hubieran expedido las Secretarías a las que les corresponde emitirlos de conformidad con esta Ley y, cuando proceda, la autorización del OGM que expida la SSA en los términos de este ordenamiento. La Secretaría correspondiente en su resolución podrá:
 
 I. Expedir el permiso para la realización de la actividad de liberación al ambiente de que se trate, pudiendo establecer medidas de monitoreo, control, prevención y seguridad adicionales a las que fueron propuestas por el interesado en la solicitud del permiso, o
 
 II. Negar el permiso en los siguientes casos:
 A) Cuando la solicitud no cumpla con lo establecido en esta Ley o las normas oficiales mexicanas como requisitos para el otorgamiento del permiso;
 B) Cuando la información proporcionada por el interesado, incluyendo la relativa a los posibles riesgos que pudieran ocasionar los OGMs sea falsa, esté incompleta o sea insuficiente, o C) Cuando la Secretaría correspondiente concluya que los riesgos que pudieran presentar los OGMs de que se trate, afectarán negativamente a la salud humana o a la diversidad biológica, o a la sanidad animal, vegetal o acuícola, pudiéndoles causar daños graves o irreversibles.
-
-### ARTÍCULO 35
-.- Los plazos establecidos en esta Ley para la resolución de una solicitud de permiso de liberación al ambiente de OGMs, sea experimental o en programa piloto, serán prorrogables, en caso de que el interesado no cuente con la autorización expedida por la SSA en los términos de este ordenamiento, siempre y cuando dicha autorización sea requisito para la expedición del permiso respectivo.
-
-### ARTÍCULO 36
-.- Los permisos para liberación experimental, en programa piloto o comercial de OGMs al ambiente, surtirán efectos de permisos de importación de dichos organismos para ser liberados en forma experimental, en programa piloto o comercial, según sea el caso, en los términos y condiciones que se establezcan en los propios permisos. Lo anterior, sin perjuicio de que la importación de los OGMs de que se trate, quede sujeta al régimen fitosanitario o acuícola establecido en la legislación de la materia que corresponda.
-
-### ARTÍCULO 37
-.- Las medidas de monitoreo, prevención, control y seguridad de los posibles riesgos de la utilización del OGM que establezca la Secretaría correspondiente en los permisos, podrán comprender entre otros, los siguientes aspectos:
+ARTÍCULO 35.- Los plazos establecidos en esta Ley para la resolución de una solicitud de permiso de liberación al ambiente de OGMs, sea experimental o en programa piloto, serán prorrogables, en caso de que el interesado no cuente con la autorización expedida por la SSA en los términos de este ordenamiento, siempre y cuando dicha autorización sea requisito para la expedición del permiso respectivo.
+ARTÍCULO 36.- Los permisos para liberación experimental, en programa piloto o comercial de OGMs al ambiente, surtirán efectos de permisos de importación de dichos organismos para ser liberados en forma experimental, en programa piloto o comercial, según sea el caso, en los términos y condiciones que se establezcan en los propios permisos. Lo anterior, sin perjuicio de que la importación de los OGMs de que se trate, quede sujeta al régimen fitosanitario o acuícola establecido en la legislación de la materia que corresponda.
+ARTÍCULO 37.- Las medidas de monitoreo, prevención, control y seguridad de los posibles riesgos de la utilización del OGM que establezca la Secretaría correspondiente en los permisos, podrán comprender entre otros, los siguientes aspectos:
 
 I. Manejo del OGM;
 
 II. Medidas de seguridad para que el posible riesgo se mantenga dentro de los límites de tolerancia aceptados en la evaluación, y
 
 III. Monitoreo de la actividad de que se trate, en relación con los posibles riesgos que dicha actividad pudiera generar.
-
-### ARTÍCULO 38
-.- La Secretaría que expida el permiso podrá modificar las medidas de monitoreo, control y prevención, requerir al interesado la implantación de nuevas medidas, así como suspender o revocar dicho permiso, previa audiencia que se otorgue a los interesados, cuando disponga de información científica o técnica de la que se deduzca que la actividad puede suponer riesgos superiores o inferiores a los previstos originalmente en los estudios correspondientes. Lo anterior deberá ser establecido en los permisos que expidan las Secretarías competentes.
-
-### ARTÍCULO 39
-.- El titular del permiso estará obligado a observar y cumplir las medidas de monitoreo, prevención, control y seguridad que establezca el permiso, así como las disposiciones de este ordenamiento, sus reglamentos y las normas oficiales mexicanas que de él deriven, que resulten aplicables a la liberación de que se trate. El incumplimiento de las medidas y disposiciones a que se refiere este artículo, dará lugar a la determinación de la responsabilidad respectiva y a la aplicación de las sanciones que correspondan conforme esta Ley.
-
-### ARTÍCULO 40
-.- No se permitirá la importación de OGMs o de productos que los contengan al territorio nacional, en los casos en que dichos organismos se encuentren prohibidos en el país de origen o se encuentren clasificados en las listas como no permitidos para su liberación comercial o para su importación para esa actividad.
-
-### ARTÍCULO 41
-.- Se prohíbe realizar actividades con OGMs o con cualquier otro organismo cuya finalidad sea la fabricación y/o utilización de armas biológicas.
+ARTÍCULO 38.- La Secretaría que expida el permiso podrá modificar las medidas de monitoreo, control y prevención, requerir al interesado la implantación de nuevas medidas, así como suspender o revocar dicho permiso, previa audiencia que se otorgue a los interesados, cuando disponga de información científica o técnica de la que se deduzca que la actividad puede suponer riesgos superiores o inferiores a los previstos originalmente en los estudios correspondientes. Lo anterior deberá ser establecido en los permisos que expidan las Secretarías competentes.
+ARTÍCULO 39.- El titular del permiso estará obligado a observar y cumplir las medidas de monitoreo, prevención, control y seguridad que establezca el permiso, así como las disposiciones de este ordenamiento, sus reglamentos y las normas oficiales mexicanas que de él deriven, que resulten aplicables a la liberación de que se trate. El incumplimiento de las medidas y disposiciones a que se refiere este artículo, dará lugar a la determinación de la responsabilidad respectiva y a la aplicación de las sanciones que correspondan conforme esta Ley.
+ARTÍCULO 40.- No se permitirá la importación de OGMs o de productos que los contengan al territorio nacional, en los casos en que dichos organismos se encuentren prohibidos en el país de origen o se encuentren clasificados en las listas como no permitidos para su liberación comercial o para su importación para esa actividad.
+ARTÍCULO 41.- Se prohíbe realizar actividades con OGMs o con cualquier otro organismo cuya finalidad sea la fabricación y/o utilización de armas biológicas.
 
 ## CAPÍTULO II
 Requisitos para la Obtención de Permisos
 
 ## SECCIÓN I
-Permiso para liberación experimental al ambiente
-
-### ARTÍCULO 42
-.- La solicitud del permiso para realizar la liberación experimental al ambiente de OGMs, incluyendo su importación para esa actividad, deberá acompañarse de la siguiente información:
+Permiso para liberación experimental al ambiente ARTÍCULO 42.- La solicitud del permiso para realizar la liberación experimental al ambiente de OGMs, incluyendo su importación para esa actividad, deberá acompañarse de la siguiente información:
 
 I. Caracterización del OGM, en la que se deberá considerar lo que establezcan para cada caso las normas oficiales mexicanas que deriven de esta Ley;
 
@@ -526,15 +436,9 @@ VI. En su caso, se presentarán consideraciones sobre los riesgos de las alterna
 
 VII. La información que para cada caso determinen las normas oficiales mexicanas que deriven de esta Ley.
 Será requisito para obtener el permiso de liberación experimental al ambiente, que el solicitante cuente con la autorización del OGM que expida la SSA de conformidad con esta Ley, cuando dicho organismo tenga finalidades de salud pública o se destine a la biorremediación. El interesado podrá iniciar el trámite para obtener dicho permiso ante la Secretaría competente, pero no le será otorgado hasta que acredite en el expediente respectivo haber obtenido la autorización de la SSA.
-
-### ARTÍCULO 43
-.- Los interesados en importar OGMs para su liberación experimental al ambiente, además de lo establecido en el artículo anterior, deberán adjuntar a su solicitud la información y documentación que acredite que el OGM esté permitido conforme la legislación del país de origen, para su liberación, al menos, en etapa experimental, adjuntando para tales efectos la autorización o documentación oficial que ampare dicha situación.
-
-### ARTÍCULO 44
-.- La resolución a una solicitud de permiso para liberación experimental de OGMs deberá expedirse en un plazo máximo de seis meses contados a partir del día siguiente a aquel en que la Secretaría que deba resolver haya recibido la solicitud del permiso y la información aportada por el interesado esté completa.
-
-### ARTÍCULO 45
-.- En caso de que, con posterioridad al otorgamiento del permiso, en la realización de la liberación experimental de un OGM al ambiente se presente lo siguiente:
+ARTÍCULO 43.- Los interesados en importar OGMs para su liberación experimental al ambiente, además de lo establecido en el artículo anterior, deberán adjuntar a su solicitud la información y documentación que acredite que el OGM esté permitido conforme la legislación del país de origen, para su liberación, al menos, en etapa experimental, adjuntando para tales efectos la autorización o documentación oficial que ampare dicha situación.
+ARTÍCULO 44.- La resolución a una solicitud de permiso para liberación experimental de OGMs deberá expedirse en un plazo máximo de seis meses contados a partir del día siguiente a aquel en que la Secretaría que deba resolver haya recibido la solicitud del permiso y la información aportada por el interesado esté completa.
+ARTÍCULO 45.- En caso de que, con posterioridad al otorgamiento del permiso, en la realización de la liberación experimental de un OGM al ambiente se presente lo siguiente:
 
 I. Se produzca cualquier modificación en la liberación que pueda incrementar o disminuir los posibles riesgos para el medio ambiente y la diversidad biológica, o
 
@@ -542,24 +446,13 @@ II. Se disponga de nueva información científica y técnica sobre dichos riesgo
 En estos casos, el titular del permiso estará obligado a:
 A. Informar a la Secretaría correspondiente, de manera inmediata, dicha situación;
 B. Revisar las medidas de monitoreo y de bioseguridad especificadas en la documentación, y C. Adoptar las medidas de bioseguridad necesarias.
-
-### ARTÍCULO 46
-.- El titular del permiso de liberación experimental al ambiente, deberá informar a la Secretaría que lo expidió, mediante un reporte, los resultados de la o las liberaciones realizadas en relación con los posibles riesgos para el medio ambiente y la diversidad biológica. Las características y contenido del reporte a que se refiere este artículo se establecerán en las normas oficiales mexicanas que deriven de esta Ley.
-
-### ARTÍCULO 47
-.- El titular del permiso estará obligado a informar inmediatamente a la Secretaría correspondiente, cualquier situación que en la realización de la liberación permitida, pudiera incrementar o disminuir los posibles riesgos para el medio ambiente, la diversidad biológica y/o la salud humana.
-
-### ARTÍCULO 48
-.- La Secretaría correspondiente podrá limitar la vigencia del permiso de liberación experimental al ambiente considerando los elementos del expediente.
-
-### ARTÍCULO 49
-.- Las liberaciones experimentales al ambiente de OGMs se realizarán al amparo y conforme a los términos y condiciones que establezca el permiso. En caso de que dicho permiso comprenda la realización de diversas liberaciones del mismo OGM en la misma área geográfica establecida en el permiso, en el mismo se podrá establecer el requisito de aviso de cada liberación.
+ARTÍCULO 46.- El titular del permiso de liberación experimental al ambiente, deberá informar a la Secretaría que lo expidió, mediante un reporte, los resultados de la o las liberaciones realizadas en relación con los posibles riesgos para el medio ambiente y la diversidad biológica. Las características y contenido del reporte a que se refiere este artículo se establecerán en las normas oficiales mexicanas que deriven de esta Ley.
+ARTÍCULO 47.- El titular del permiso estará obligado a informar inmediatamente a la Secretaría correspondiente, cualquier situación que en la realización de la liberación permitida, pudiera incrementar o disminuir los posibles riesgos para el medio ambiente, la diversidad biológica y/o la salud humana.
+ARTÍCULO 48.- La Secretaría correspondiente podrá limitar la vigencia del permiso de liberación experimental al ambiente considerando los elementos del expediente.
+ARTÍCULO 49.- Las liberaciones experimentales al ambiente de OGMs se realizarán al amparo y conforme a los términos y condiciones que establezca el permiso. En caso de que dicho permiso comprenda la realización de diversas liberaciones del mismo OGM en la misma área geográfica establecida en el permiso, en el mismo se podrá establecer el requisito de aviso de cada liberación.
 
 ## SECCIÓN II
-Permiso para liberación al ambiente en programa piloto
-
-### ARTÍCULO 50
-.- La solicitud del permiso para realizar la liberación al ambiente de OGMs en programa piloto, incluyendo su importación para esa actividad, deberá acompañarse de la siguiente información:
+Permiso para liberación al ambiente en programa piloto ARTÍCULO 50.- La solicitud del permiso para realizar la liberación al ambiente de OGMs en programa piloto, incluyendo su importación para esa actividad, deberá acompañarse de la siguiente información:
 
 I. El permiso para la liberación experimental del OGM de que se trate;
 
@@ -574,25 +467,14 @@ IV. Las medidas de monitoreo y de bioseguridad a realizar durante la liberación
 V. La información que para cada caso determinen las normas oficiales mexicanas que deriven de esta Ley.
 Lo anterior, con la finalidad de que las Secretarías correspondientes cuenten con la información para que realicen el análisis y la evaluación de los posibles riesgos al medio ambiente y la diversidad biológica o a la sanidad animal, vegetal o acuícola, según les corresponda conforme a esta Ley.
 Será requisito para obtener el permiso de liberación al ambiente en programa piloto, que el solicitante cuente con la autorización del OGM que expida la SSA de conformidad con esta Ley, cuando dicho organismo sea para uso o consumo humano. El interesado podrá iniciar el trámite para obtener dicho permiso ante la Secretaría competente, pero no le será otorgado hasta que acredite en el expediente respectivo haber obtenido la autorización de la SSA.
-
-### ARTÍCULO 51
-.- Los interesados en importar OGMs para su liberación al ambiente en programa piloto, además de lo establecido en el artículo anterior, deberán adjuntar a su solicitud la información y documentación que acredite que el OGM esté permitido conforme la legislación del país de origen, para su liberación, al menos, en esta clase de etapa, adjuntando para tales efectos la autorización o documentación oficial que ampare dicha situación.
-
-### ARTÍCULO 52
-.- La resolución a una solicitud de permiso para liberación al ambiente de OGMs en programa piloto deberá expedirse en un plazo máximo de tres meses contados a partir del día siguiente a aquel en que la Secretaría que deba resolver haya recibido la solicitud del permiso y la información aportada por el interesado esté completa.
+ARTÍCULO 51.- Los interesados en importar OGMs para su liberación al ambiente en programa piloto, además de lo establecido en el artículo anterior, deberán adjuntar a su solicitud la información y documentación que acredite que el OGM esté permitido conforme la legislación del país de origen, para su liberación, al menos, en esta clase de etapa, adjuntando para tales efectos la autorización o documentación oficial que ampare dicha situación.
+ARTÍCULO 52.- La resolución a una solicitud de permiso para liberación al ambiente de OGMs en programa piloto deberá expedirse en un plazo máximo de tres meses contados a partir del día siguiente a aquel en que la Secretaría que deba resolver haya recibido la solicitud del permiso y la información aportada por el interesado esté completa.
 La vigencia del permiso se determinará considerando los elementos del expediente.
-
-### ARTÍCULO 53
-.- El titular del permiso de liberación al ambiente en programa piloto, deberá informar a la Secretaría que lo expidió, mediante un reporte, los resultados de la o las liberaciones realizadas en relación con los posibles riesgos para el medio ambiente y la diversidad biológica. Las características y contenido del reporte a que se refiere este artículo se establecerán en las normas oficiales mexicanas que deriven de esta Ley.
-
-### ARTÍCULO 54
-.- El titular del permiso estará obligado a informar inmediatamente a la Secretaría correspondiente, cualquier situación que en la realización de la liberación permitida, pudiera incrementar o disminuir los posibles riesgos para el medio ambiente, la diversidad biológica y/o la salud humana.
+ARTÍCULO 53.- El titular del permiso de liberación al ambiente en programa piloto, deberá informar a la Secretaría que lo expidió, mediante un reporte, los resultados de la o las liberaciones realizadas en relación con los posibles riesgos para el medio ambiente y la diversidad biológica. Las características y contenido del reporte a que se refiere este artículo se establecerán en las normas oficiales mexicanas que deriven de esta Ley.
+ARTÍCULO 54.- El titular del permiso estará obligado a informar inmediatamente a la Secretaría correspondiente, cualquier situación que en la realización de la liberación permitida, pudiera incrementar o disminuir los posibles riesgos para el medio ambiente, la diversidad biológica y/o la salud humana.
 
 ## SECCIÓN III
-Permiso para liberación comercial al ambiente
-
-### ARTÍCULO 55
-.- La solicitud del permiso para realizar la liberación comercial al ambiente de OGMs, incluyendo su importación para esa actividad, deberá acompañarse de la siguiente información:
+Permiso para liberación comercial al ambiente ARTÍCULO 55.- La solicitud del permiso para realizar la liberación comercial al ambiente de OGMs, incluyendo su importación para esa actividad, deberá acompañarse de la siguiente información:
 
 I. Los permisos para la liberación experimental y en programa piloto del OGM de que se trate;
 
@@ -608,28 +490,15 @@ VI. En su caso, la información que disponga el solicitante sobre datos o result
 
 VII. La demás información que determinen las normas oficiales mexicanas que deriven de esta Ley.
 Lo anterior, con la finalidad de que las Secretarías correspondientes cuenten con la información para que realicen el análisis y la evaluación de los posibles riesgos al medio ambiente y la diversidad biológica o a la sanidad animal, vegetal o acuícola, según les corresponda conforme a esta Ley.
-
-### ARTÍCULO 56
-.- Los interesados en importar OGMs para su liberación comercial, además de lo establecido en el artículo anterior, deberán adjuntar la información y documentación que acredite que el OGM esté permitido conforme la legislación del país de origen para su comercialización, adjuntando para tales efectos la autorización o documentación oficial que ampare dicha situación.
-
-### ARTÍCULO 57
-.- La resolución a una solicitud de permiso para liberación comercial al ambiente, deberá expedirse en el plazo de cuatro meses contados a partir del día siguiente a aquel en que la Secretaría que deba resolver haya recibido la solicitud del permiso y la información aportada por el interesado esté completa.
-
-### ARTÍCULO 58
-.- Las actividades e importaciones subsecuentes al permiso de liberación comercial al ambiente se realizarán sujetándose a los términos y condiciones que en el mismo se establezcan, y sin que requieran de permisos sucesivos. Se entenderá que las importaciones subsecuentes se realizan en los mismos términos y condiciones establecidos en el permiso de liberación comercial respectivo, cuando se trate del mismo OGM y la misma área de liberación. Lo anterior, con independencia de que dichas actividades e importaciones puedan ser objeto de monitoreo y de acciones de inspección y vigilancia, en los términos de esta Ley.
-
-### ARTÍCULO 59
-.- El permiso de liberación comercial al ambiente de un OGM conlleva la autorización de comercialización del organismo de que se trate y de los productos que lo contengan, en los términos de esta Ley.
+ARTÍCULO 56.- Los interesados en importar OGMs para su liberación comercial, además de lo establecido en el artículo anterior, deberán adjuntar la información y documentación que acredite que el OGM esté permitido conforme la legislación del país de origen para su comercialización, adjuntando para tales efectos la autorización o documentación oficial que ampare dicha situación.
+ARTÍCULO 57.- La resolución a una solicitud de permiso para liberación comercial al ambiente, deberá expedirse en el plazo de cuatro meses contados a partir del día siguiente a aquel en que la Secretaría que deba resolver haya recibido la solicitud del permiso y la información aportada por el interesado esté completa.
+ARTÍCULO 58.- Las actividades e importaciones subsecuentes al permiso de liberación comercial al ambiente se realizarán sujetándose a los términos y condiciones que en el mismo se establezcan, y sin que requieran de permisos sucesivos. Se entenderá que las importaciones subsecuentes se realizan en los mismos términos y condiciones establecidos en el permiso de liberación comercial respectivo, cuando se trate del mismo OGM y la misma área de liberación. Lo anterior, con independencia de que dichas actividades e importaciones puedan ser objeto de monitoreo y de acciones de inspección y vigilancia, en los términos de esta Ley.
+ARTÍCULO 59.- El permiso de liberación comercial al ambiente de un OGM conlleva la autorización de comercialización del organismo de que se trate y de los productos que lo contengan, en los términos de esta Ley.
 
 ## CAPÍTULO III
-Estudio y Evaluación del Riesgo
-
-### ARTÍCULO 60
-.- La evaluación del riesgo es el proceso por el cual se analizan caso por caso, con base en estudios fundamentados científica y técnicamente que deberán elaborar los interesados, los posibles riesgos o efectos que la liberación experimental al ambiente de OGMs pueden causar al medio ambiente y a la diversidad biológica, así como a la sanidad animal, vegetal y acuícola.
+Estudio y Evaluación del Riesgo ARTÍCULO 60.- La evaluación del riesgo es el proceso por el cual se analizan caso por caso, con base en estudios fundamentados científica y técnicamente que deberán elaborar los interesados, los posibles riesgos o efectos que la liberación experimental al ambiente de OGMs pueden causar al medio ambiente y a la diversidad biológica, así como a la sanidad animal, vegetal y acuícola.
 Los posibles riesgos a la salud humana serán materia de estudio de riesgos para la obtención de la autorización del OGM de que se trate, en los términos de esta Ley.
-
-### ARTÍCULO 61
-.- Para llevar a cabo el estudio y la evaluación del riesgo, se deberán observar los siguientes lineamientos:
+ARTÍCULO 61.- Para llevar a cabo el estudio y la evaluación del riesgo, se deberán observar los siguientes lineamientos:
 
 I. Deben realizarse caso por caso de una forma transparente y basada en principios científicos y en el enfoque de precaución, en los términos de esta Ley, tomando en cuenta el asesoramiento de expertos;
 
@@ -642,9 +511,7 @@ IV. Deben tener como base mínima los posibles riesgos que se impondrían por la
 V. Se deberá considerar el organismo receptor, la modificación genética, incluyendo la construcción genética y el método de inserción, y el ambiente en el que se pretende liberar el OGM, y
 
 VI. La naturaleza y el nivel de detalle de la información que contengan pueden variar de un caso a otro, dependiendo del OGM de que se trate, su uso previsto y el probable ambiente receptor.
-
-### ARTÍCULO 62
-.- Las etapas básicas a seguir en el estudio y la evaluación del riesgo son las siguientes:
+ARTÍCULO 62.- Las etapas básicas a seguir en el estudio y la evaluación del riesgo son las siguientes:
 
 I. La identificación de características nuevas asociadas con el OGM que pudieran tener posibles riesgos en la diversidad biológica;
 
@@ -655,52 +522,33 @@ III. La evaluación de las consecuencias si posibles riesgos ocurrieran realment
 IV. La estimación del posible riesgo global que represente el OGM, basada en la evaluación de la probabilidad de que los posibles riesgos y las consecuencias identificadas ocurran realmente, y
 
 V. La recomendación sobre si los posibles riesgos son aceptables o manejables, o no lo son, incluyendo la determinación de estrategias para el manejo de esos posibles riesgos.
-
-### ARTÍCULO 63
-.- Cuando haya incertidumbre acerca del nivel del posible riesgo que los OGMs puedan causar a la diversidad biológica, las Secretarías correspondientes solicitarán dentro del procedimiento administrativo de permiso de la actividad de liberación al ambiente de OGMs de que se trate, información adicional sobre cuestiones concretas del estudio de riesgo o adoptarán estrategias apropiadas para el manejo del riesgo y/o el monitoreo del OGM en el ambiente receptor.
+ARTÍCULO 63.- Cuando haya incertidumbre acerca del nivel del posible riesgo que los OGMs puedan causar a la diversidad biológica, las Secretarías correspondientes solicitarán dentro del procedimiento administrativo de permiso de la actividad de liberación al ambiente de OGMs de que se trate, información adicional sobre cuestiones concretas del estudio de riesgo o adoptarán estrategias apropiadas para el manejo del riesgo y/o el monitoreo del OGM en el ambiente receptor.
 En caso de peligro de daño grave o irreversible, la incertidumbre acerca del nivel de los posibles riesgos que los OGMs puedan causar a la diversidad biológica o a la salud humana, no deberá utilizarse como razón para que la Secretaría correspondiente postergue la adopción de medidas eficaces que impidan la afectación negativa de la diversidad biológica o de la salud humana. En la adopción de dichas medidas, la Secretaría correspondiente tomará en cuenta la evidencia científica existente que le sirva de fundamento o criterio para el establecimiento de la medida o medidas; los procedimientos administrativos establecidos en esta Ley, y la normatividad comercial contenida en tratados y acuerdos internacionales de los que los Estados Unidos Mexicanos sean parte.
-
-### ARTÍCULO 64
-.- El interesado podrá presentar de manera adicional al estudio de los posibles riesgos, otros estudios o consideraciones en los que se analicen tanto la contribución del OGM a la solución de problemas ambientales, sociales, productivos o de otra índole, las consideraciones socioeconómicas que existan respecto de la liberación de OGMs al ambiente, como una evaluación de los riesgos de las opciones tecnológicas alternas para contender con la problemática específica para la cual el OGM fue diseñado. Estos análisis deberán estar sustentados en evidencias científicas y técnicas, en los antecedentes sobre uso, producción y consumo, y podrán ser considerados por las Secretarías competentes como elementos adicionales para decidir sobre la liberación experimental al ambiente, y consecuentes liberaciones al ambiente en programa piloto y comercial, respectivamente, del OGM de que se trate.
-
-### ARTÍCULO 65
-.- Las características y requisitos de los estudios de evaluación de los posibles riesgos, se establecerán en las normas oficiales mexicanas que deriven de esta Ley.
+ARTÍCULO 64.- El interesado podrá presentar de manera adicional al estudio de los posibles riesgos, otros estudios o consideraciones en los que se analicen tanto la contribución del OGM a la solución de problemas ambientales, sociales, productivos o de otra índole, las consideraciones socioeconómicas que existan respecto de la liberación de OGMs al ambiente, como una evaluación de los riesgos de las opciones tecnológicas alternas para contender con la problemática específica para la cual el OGM fue diseñado. Estos análisis deberán estar sustentados en evidencias científicas y técnicas, en los antecedentes sobre uso, producción y consumo, y podrán ser considerados por las Secretarías competentes como elementos adicionales para decidir sobre la liberación experimental al ambiente, y consecuentes liberaciones al ambiente en programa piloto y comercial, respectivamente, del OGM de que se trate.
+ARTÍCULO 65.- Las características y requisitos de los estudios de evaluación de los posibles riesgos, se establecerán en las normas oficiales mexicanas que deriven de esta Ley.
 
 ## CAPÍTULO IV — De los Dictámenes
-
-### ARTÍCULO 66
-.- Los dictámenes que deberá emitir la SEMARNAT únicamente se requerirán tratándose de actividades de liberación experimental, de liberación en programa piloto y de liberación comercial de OGMs que sean de competencia de la SAGARPA. Dichos dictámenes deberán ser emitidos en un plazo de sesenta días contados a partir de que la SEMARNAT reciba el expediente administrativo remitido por la SAGARPA. Dicho plazo comprende tanto la expedición del dictamen correspondiente, como su remisión a la SAGARPA. La SAGARPA expedirá el permiso de liberación de OGMs al ambiente que corresponda, siempre que el dictamen que emita la SEMARNAT sea favorable.
+ARTÍCULO 66.- Los dictámenes que deberá emitir la SEMARNAT únicamente se requerirán tratándose de actividades de liberación experimental, de liberación en programa piloto y de liberación comercial de OGMs que sean de competencia de la SAGARPA. Dichos dictámenes deberán ser emitidos en un plazo de sesenta días contados a partir de que la SEMARNAT reciba el expediente administrativo remitido por la SAGARPA. Dicho plazo comprende tanto la expedición del dictamen correspondiente, como su remisión a la SAGARPA. La SAGARPA expedirá el permiso de liberación de OGMs al ambiente que corresponda, siempre que el dictamen que emita la SEMARNAT sea favorable.
 
 ## CAPÍTULO V — De la Reconsideración de las Resoluciones Negativas
-
-### ARTÍCULO 67
-.- Los interesados a los que la Secretaría correspondiente les haya negado el permiso solicitado, podrán pedir a dicha Secretaría la reconsideración de la resolución respectiva, cuando se considere que:
+ARTÍCULO 67.- Los interesados a los que la Secretaría correspondiente les haya negado el permiso solicitado, podrán pedir a dicha Secretaría la reconsideración de la resolución respectiva, cuando se considere que:
 
 I. Se ha producido un cambio en las circunstancias que puede influir en el resultado del estudio de los posibles riesgos en el cual se basó la resolución, o
 
 II. Se disponga de nueva información científica o técnica pertinente de la que se deduzca que los posibles riesgos identificados no son los previstos originalmente.
 La Secretaría competente podrá emitir una resolución dentro de los dos meses siguientes. En caso de no hacerlo, se tendrá por desestimada la reconsideración.
-
-### ARTÍCULO 68
-.- La reconsideración a que se refiere el artículo anterior no constituye ningún recurso o medio de defensa, y podrá ser promovida por los interesados con independencia de que hagan valer el medio de impugnación establecido en esta Ley en contra de la resolución que les afecte.
+ARTÍCULO 68.- La reconsideración a que se refiere el artículo anterior no constituye ningún recurso o medio de defensa, y podrá ser promovida por los interesados con independencia de que hagan valer el medio de impugnación establecido en esta Ley en contra de la resolución que les afecte.
 
 ## CAPÍTULO VI — De la Revisión de los Permisos
-
-### ARTÍCULO 69
-.- La Secretaría correspondiente, en cualquier momento y sobre la base de nueva información científica o técnica acerca de los posibles riesgos que puedan provocar los OGMs a la salud pública o al medio ambiente y a la diversidad biológica, podrán revisar los permisos otorgados y, en su caso, suspender sus efectos o revocar dichos permisos, conforme a los procedimientos que establezcan las disposiciones reglamentarias que deriven de esta Ley, cuando considere como causas que:
+ARTÍCULO 69.- La Secretaría correspondiente, en cualquier momento y sobre la base de nueva información científica o técnica acerca de los posibles riesgos que puedan provocar los OGMs a la salud pública o al medio ambiente y a la diversidad biológica, podrán revisar los permisos otorgados y, en su caso, suspender sus efectos o revocar dichos permisos, conforme a los procedimientos que establezcan las disposiciones reglamentarias que deriven de esta Ley, cuando considere como causas que:
 
 I. Se presente un cambio en las circunstancias de las actividades que puede influir en el resultado del estudio de la evaluación de los posibles riesgos en el cual se basó el permiso, o
 
 II. Se cuente con información científica o técnica adicional que pudiese modificar cualesquiera condiciones, limitaciones o requisitos del permiso.
 
 ## CAPÍTULO VII
-Confidencialidad
-
-### ARTÍCULO 70
-.- Los interesados podrán identificar claramente en su solicitud de permiso, aquella información que deba considerarse como confidencial conforme al régimen de propiedad industrial o de derechos de autor. La Secretaría correspondiente se sujetará a lo establecido en las leyes de la materia y se abstendrá de mandar registrar y de facilitar a terceros la información y los datos que estén protegidos por dichas leyes.
-
-### ARTÍCULO 71
-.- No tendrán el carácter de confidencial:
+Confidencialidad ARTÍCULO 70.- Los interesados podrán identificar claramente en su solicitud de permiso, aquella información que deba considerarse como confidencial conforme al régimen de propiedad industrial o de derechos de autor. La Secretaría correspondiente se sujetará a lo establecido en las leyes de la materia y se abstendrá de mandar registrar y de facilitar a terceros la información y los datos que estén protegidos por dichas leyes.
+ARTÍCULO 71.- No tendrán el carácter de confidencial:
 
 I. La descripción general de los OGMs;
 
@@ -714,21 +562,13 @@ V. Los estudios sobre los posibles riesgos a la salud humana o al medio ambiente
 El acceso a la información a la que se refieren las fracciones anteriores se regirá, además, por las disposiciones aplicables en materia de acceso a la información pública gubernamental.
 
 ## CAPÍTULO VIII
-Exportación de OGMs que se destinen a su liberación al ambiente en otros países
-
-### ARTÍCULO 72
-.- Los interesados en exportar OGMs que se destinen a su liberación al ambiente en otros países, notificarán por sí, conforme se determine en las disposiciones reglamentarias que deriven de esta Ley, su intención de exportar dichos organismos, a las autoridades competentes del país respectivo. Dicha notificación sólo se realizará en los casos en que los tratados y acuerdos internacionales en los que los Estados Unidos Mexicanos sean parte, establezcan ese requisito para efectuar la exportación al país de que se trate. La información que el interesado adjunte a la notificación a que se refiere este artículo, deberá ser exacta, fidedigna y ajustada a lo que establezcan dichos tratados y acuerdos internacionales.
+Exportación de OGMs que se destinen a su liberación al ambiente en otros países ARTÍCULO 72.- Los interesados en exportar OGMs que se destinen a su liberación al ambiente en otros países, notificarán por sí, conforme se determine en las disposiciones reglamentarias que deriven de esta Ley, su intención de exportar dichos organismos, a las autoridades competentes del país respectivo. Dicha notificación sólo se realizará en los casos en que los tratados y acuerdos internacionales en los que los Estados Unidos Mexicanos sean parte, establezcan ese requisito para efectuar la exportación al país de que se trate. La información que el interesado adjunte a la notificación a que se refiere este artículo, deberá ser exacta, fidedigna y ajustada a lo que establezcan dichos tratados y acuerdos internacionales.
 
 ## TÍTULO TERCERO — De la Utilización Confinada y Avisos
 
 ## CAPÍTULO I
-Utilización Confinada
-
-### ARTÍCULO 73
-.- La utilización confinada de OGMs puede ser con fines de enseñanza, de investigación científica y tecnológica, industriales o comerciales.
-
-### ARTÍCULO 74
-.- Quienes realicen actividades de utilización confinada sujetas al requisito de presentación de aviso en los términos de esta Ley, deberán cumplir con lo siguiente:
+Utilización Confinada ARTÍCULO 73.- La utilización confinada de OGMs puede ser con fines de enseñanza, de investigación científica y tecnológica, industriales o comerciales.
+ARTÍCULO 74.- Quienes realicen actividades de utilización confinada sujetas al requisito de presentación de aviso en los términos de esta Ley, deberán cumplir con lo siguiente:
 
 I. Llevar un libro de registro de las actividades de utilización confinada que realicen, el cual se deberá proporcionar a las Secretarías correspondientes cuando éstas lo soliciten;
 
@@ -739,23 +579,13 @@ Las normas oficiales mexicanas que deriven de esta Ley establecerán:
 A) Los requisitos y las características generales que debe contener el libro de registro a que se refiere este artículo, para cada tipo de actividad;
 B) Los requisitos y características relativas al confinamiento, tratamiento, disposición final, destrucción y eliminación de residuos de OGMs;
 C) Las condiciones de manejo que se requieran en las diversas formas de utilización confinada de dichos organismos, y D) Acciones a realizar en caso de liberación accidental de OGMs.
-
-### ARTÍCULO 75
-.- El almacenamiento o depósito de OGMs o de productos que los contengan, que se realice en las aduanas del territorio nacional, se sujetará a lo que dispongan las normas oficiales mexicanas respectivas que expidan de manera conjunta las Secretarías competentes, con la participación de la SHCP.
-
-### ARTÍCULO 76
-.- El transporte de OGMs o de productos que los contengan, así como el tránsito de dichos organismos y productos por el territorio nacional, cuando tengan como destino otro país, se regirán por las normas oficiales mexicanas que expidan de manera conjunta las Secretarías competentes, con la participación de la Secretaría de Comunicaciones y Transportes.
+ARTÍCULO 75.- El almacenamiento o depósito de OGMs o de productos que los contengan, que se realice en las aduanas del territorio nacional, se sujetará a lo que dispongan las normas oficiales mexicanas respectivas que expidan de manera conjunta las Secretarías competentes, con la participación de la SHCP.
+ARTÍCULO 76.- El transporte de OGMs o de productos que los contengan, así como el tránsito de dichos organismos y productos por el territorio nacional, cuando tengan como destino otro país, se regirán por las normas oficiales mexicanas que expidan de manera conjunta las Secretarías competentes, con la participación de la Secretaría de Comunicaciones y Transportes.
 
 ## CAPÍTULO II — De los Avisos
-
-### ARTÍCULO 77
-.- El aviso es la comunicación que deben presentar en formatos oficiales los sujetos señalados en esta Ley, a la SEMARNAT o a la SAGARPA, según corresponda conforme a este ordenamiento, respecto de la utilización confinada de OGMs en los casos que se establecen en este capítulo.
-
-### ARTÍCULO 78
-.- Los avisos se deberán presentar a la SEMARNAT o a la SAGARPA, conforme a las atribuciones que esta Ley les confiere, en los formatos oficiales que se expidan para tal efecto. El contenido de los formatos lo determinarán dichas Secretarías, con la previa aprobación de la Comisión Federal de Mejora Regulatoria. En dichos formatos se determinará la información y documentación que deba presentar el interesado. Los formatos se deberán publicar en el Diario Oficial de la Federación.
-
-### ARTÍCULO 79
-.- Requieren de presentación de aviso:
+ARTÍCULO 77.- El aviso es la comunicación que deben presentar en formatos oficiales los sujetos señalados en esta Ley, a la SEMARNAT o a la SAGARPA, según corresponda conforme a este ordenamiento, respecto de la utilización confinada de OGMs en los casos que se establecen en este capítulo.
+ARTÍCULO 78.- Los avisos se deberán presentar a la SEMARNAT o a la SAGARPA, conforme a las atribuciones que esta Ley les confiere, en los formatos oficiales que se expidan para tal efecto. El contenido de los formatos lo determinarán dichas Secretarías, con la previa aprobación de la Comisión Federal de Mejora Regulatoria. En dichos formatos se determinará la información y documentación que deba presentar el interesado. Los formatos se deberán publicar en el Diario Oficial de la Federación.
+ARTÍCULO 79.- Requieren de presentación de aviso:
 
 I. Los OGMs que se manejen, generen y produzcan con fines de enseñanza e investigación científica y tecnológica;
 
@@ -766,31 +596,21 @@ III. La primera utilización de laboratorios o instalaciones específicas de ens
 IV. La producción de OGMs que se utilicen en procesos industriales, y
 
 V. La primera utilización de instalaciones específicas en donde se produzcan los OGMs a que se refiere la fracción anterior.
-
-### ARTÍCULO 80
-.- También requiere de presentación de aviso la importación de OGMs para su utilización confinada con fines industriales o comerciales, únicamente cuando se reúnan los supuestos siguientes:
+ARTÍCULO 80.- También requiere de presentación de aviso la importación de OGMs para su utilización confinada con fines industriales o comerciales, únicamente cuando se reúnan los supuestos siguientes:
 
 I. Que se trate de OGMs que no requieran de permiso, en virtud de que se destinen exclusivamente a su utilización confinada y por tanto no se importen para su liberación al ambiente, y
 
 II. Que se trate de OGMs que no requieran autorización sanitaria debido a que no se destinarán a uso o consumo humano o a finalidades de salud pública.
-
-### ARTÍCULO 81
-.- Los sujetos que deben presentar a la Secretaría correspondiente el aviso respectivo, son los siguientes:
+ARTÍCULO 81.- Los sujetos que deben presentar a la Secretaría correspondiente el aviso respectivo, son los siguientes:
 
 I. En los casos a que se refieren las fracciones I, II y III del artículo 79, el responsable de la comisión interna de bioseguridad de la institución, centro o empresa en donde se realicen las actividades de enseñanza e investigación científica y tecnológica en las que se genere y produzca el OGM de que se trate;
 
 II. En los casos a que se refieren las fracciones IV y V del artículo 79, el representante legal de la empresa en la que se produzcan los OGMs de que se trate, y
 
 III. En el caso a que se refiere el artículo anterior, el importador del OGM.
-
-### ARTÍCULO 82
-.- Se exceptúa de la presentación de aviso, la utilización confinada o importación para esa actividad, en caso de que el OGM de que se trate se exente de dicho requisito en las listas que expidan las Secretarías conforme a esta Ley.
-
-### ARTÍCULO 83
-.- La utilización confinada de OGMs y la importación de dichos organismos para esa actividad, podrá realizarse a partir del momento en que la comisión interna de bioseguridad o el importador, según se trate, presente el aviso respectivo a la Secretaría correspondiente.
-
-### ARTÍCULO 84
-.- Una vez presentado el aviso, la Secretaría correspondiente podrá determinar, en su caso, con sustento científico y técnico:
+ARTÍCULO 82.- Se exceptúa de la presentación de aviso, la utilización confinada o importación para esa actividad, en caso de que el OGM de que se trate se exente de dicho requisito en las listas que expidan las Secretarías conforme a esta Ley.
+ARTÍCULO 83.- La utilización confinada de OGMs y la importación de dichos organismos para esa actividad, podrá realizarse a partir del momento en que la comisión interna de bioseguridad o el importador, según se trate, presente el aviso respectivo a la Secretaría correspondiente.
+ARTÍCULO 84.- Una vez presentado el aviso, la Secretaría correspondiente podrá determinar, en su caso, con sustento científico y técnico:
 
 I. Que en consideración del organismo genéticamente modificado y los posibles riesgos en su manejo, debe suspenderse la actividad;
 
@@ -798,41 +618,27 @@ II. En su caso, podrá resolver que la utilización confinada requiere de la ado
 
 III. La prohibición de la utilización confinada del organismo genéticamente modificado de que se trate o su importación para esa actividad.
 Dicha resolución podrá ser impugnada a través del recurso de revisión establecido en el presente ordenamiento.
-
-### ARTÍCULO 85
-.- Las personas cuya actividad de utilización confinada esté sujeta al requisito de presentación de aviso estarán obligadas a observar y cumplir las demás disposiciones del presente ordenamiento y de las normas oficiales mexicanas que deriven del mismo, en lo que le sea aplicable.
+ARTÍCULO 85.- Las personas cuya actividad de utilización confinada esté sujeta al requisito de presentación de aviso estarán obligadas a observar y cumplir las demás disposiciones del presente ordenamiento y de las normas oficiales mexicanas que deriven del mismo, en lo que le sea aplicable.
 
 ## TÍTULO CUARTO
 Zonas Restringidas
 
 ## CAPÍTULO I
-Centros de Origen y de Diversidad Genética
-
-### ARTÍCULO 86
-.- Las especies de las que los Estados Unidos Mexicanos sea centro de origen y de diversidad genética así como las áreas geográficas en las que se localicen, serán determinadas conjuntamente mediante acuerdos por la SEMARNAT y la SAGARPA, con base en la información con la que cuenten en sus archivos o en sus bases de datos, incluyendo la que proporcione, entre otros, el Instituto Nacional de Estadística, Geografía e Informática, el Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, el Instituto Nacional de Ecología, la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad y la Comisión Nacional Forestal, así como los acuerdos y tratados internacionales relativos a estas materias. La SEMARNAT y la SAGARPA establecerán en los acuerdos que expidan, las medidas necesarias para la protección de dichas especies y áreas geográficas.
-
-### ARTÍCULO 87
-.- Para la determinación de los centros de origen y de diversidad genética se tomarán en cuenta los siguientes criterios:
+Centros de Origen y de Diversidad Genética ARTÍCULO 86.- Las especies de las que los Estados Unidos Mexicanos sea centro de origen y de diversidad genética así como las áreas geográficas en las que se localicen, serán determinadas conjuntamente mediante acuerdos por la SEMARNAT y la SAGARPA, con base en la información con la que cuenten en sus archivos o en sus bases de datos, incluyendo la que proporcione, entre otros, el Instituto Nacional de Estadística, Geografía e Informática, el Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, el Instituto Nacional de Ecología, la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad y la Comisión Nacional Forestal, así como los acuerdos y tratados internacionales relativos a estas materias. La SEMARNAT y la SAGARPA establecerán en los acuerdos que expidan, las medidas necesarias para la protección de dichas especies y áreas geográficas.
+ARTÍCULO 87.- Para la determinación de los centros de origen y de diversidad genética se tomarán en cuenta los siguientes criterios:
 
 I. Que se consideren centros de diversidad genética, entendiendo por éstos las regiones que actualmente albergan poblaciones de los parientes silvestres del OGM de que se trate, incluyendo diferentes razas o variedades del mismo, las cuales constituyen una reserva genética del material, y
 
 II. En el caso de cultivos, las regiones geográficas en donde el organismo de que se trate fue domesticado, siempre y cuando estas regiones sean centros de diversidad genética.
-
-### ARTÍCULO 88
-.- En los centros de origen y de diversidad genética de especies animales y vegetales sólo se permitirá la realización de liberaciones de OGMs cuando se trate de OGMs distintos a las especies nativas, siempre que su liberación no cause una afectación negativa a la salud humana o a la diversidad biológica.
+ARTÍCULO 88.- En los centros de origen y de diversidad genética de especies animales y vegetales sólo se permitirá la realización de liberaciones de OGMs cuando se trate de OGMs distintos a las especies nativas, siempre que su liberación no cause una afectación negativa a la salud humana o a la diversidad biológica.
 
 ## CAPÍTULO II — De las Actividades con OGMs en Áreas Naturales Protegidas
-
-### ARTÍCULO 89
-.- En las áreas naturales protegidas creadas de conformidad con lo dispuesto en la materia, sólo se permitirán actividades con OGMs para fines de biorremediación, en los casos en que aparezcan plagas o contaminantes que pudieran poner en peligro la existencia de especies animales, vegetales o acuícolas, y los OGMs hayan sido creados para evitar o combatir dicha situación, siempre que se cuente con los elementos científicos y técnicos necesarios que soporten el beneficio ambiental que se pretende obtener, y dichas actividades sean permitidas por la SEMARNAT en los términos de esta Ley.
+ARTÍCULO 89.- En las áreas naturales protegidas creadas de conformidad con lo dispuesto en la materia, sólo se permitirán actividades con OGMs para fines de biorremediación, en los casos en que aparezcan plagas o contaminantes que pudieran poner en peligro la existencia de especies animales, vegetales o acuícolas, y los OGMs hayan sido creados para evitar o combatir dicha situación, siempre que se cuente con los elementos científicos y técnicos necesarios que soporten el beneficio ambiental que se pretende obtener, y dichas actividades sean permitidas por la SEMARNAT en los términos de esta Ley.
 Para los efectos de lo dispuesto en el párrafo anterior, queda prohibido realizar actividades con OGMs en las zonas núcleo de las áreas naturales protegidas.
 En caso de que algún centro de origen o centro de diversidad genética se ubique dentro de alguna área natural protegida, las declaratorias de creación y los programas de manejo de dichas áreas se modificarán en los términos de la legislación de la materia, conforme se realicen las determinaciones a que se refiere el Artículo 86 de la presente Ley.
 
 ## CAPÍTULO III
-Zonas Libres de OGMs
-
-### ARTÍCULO 90
-.- Se podrán establecer zonas libres de OGMs para la protección de productos agrícolas orgánicos y otros de interés de la comunidad solicitante, conforme a los siguientes lineamientos generales:
+Zonas Libres de OGMs ARTÍCULO 90.- Se podrán establecer zonas libres de OGMs para la protección de productos agrícolas orgánicos y otros de interés de la comunidad solicitante, conforme a los siguientes lineamientos generales:
 
 I. Las zonas libres se establecerán cuando se trate de OGMs de la misma especie a las que se produzcan mediante procesos de producción de productos agrícolas orgánicos, y se demuestre científica y técnicamente que no es viable su coexistencia o que no cumplirían con los requisitos normativos para su certificación;
 
@@ -848,9 +654,7 @@ IV. La SAGARPA establecerá en los acuerdos las medidas de seguridad que se podr
 ## TÍTULO QUINTO — De la Protección de la Salud Humana en relación con los OGMs
 
 ## CAPÍTULO I — De las Autorizaciones de OGMs
-
-### ARTÍCULO 91
-.- Los OGMs objeto de autorización son los siguientes:
+ARTÍCULO 91.- Los OGMs objeto de autorización son los siguientes:
 
 I. Los que se destinen a su uso o consumo humano, incluyendo granos;
 
@@ -860,26 +664,16 @@ III. Los que tengan finalidades de salud pública, y
 
 IV. Los que se destinen a la biorremediación.
 Para los efectos de esta Ley, también se consideran OGMs para uso o consumo humano aquellos que sean para consumo animal y que puedan ser consumidos directamente por el ser humano.
-
-### ARTÍCULO 92
-.- La solicitud de autorización de un OGM deberá acompañarse de los siguientes requisitos:
+ARTÍCULO 92.- La solicitud de autorización de un OGM deberá acompañarse de los siguientes requisitos:
 
 I. El estudio de los posibles riesgos que el uso o consumo humano del OGM de que se trate pudiera representar a la salud humana, en el que se incluirá la información científica y técnica relativa a su inocuidad, y
 
 II. Los demás requisitos que se determinen en las normas oficiales mexicanas que deriven de esta Ley.
 Los lineamientos, criterios, características y requisitos de los estudios de los posibles riesgos que los OGMs puedan causar a la salud humana, serán determinados por la SSA en las normas oficiales mexicanas que expida conforme a esta Ley.
-
-### ARTÍCULO 93
-.- En el caso de solicitudes de autorización de un OGM para poder realizar su importación para las finalidades a que se refiere el artículo 91 de esta Ley, además de lo establecido en el artículo anterior, el interesado deberá adjuntar la información y documentación que acredite que el OGM esté autorizado conforme la legislación del país de origen. En su defecto, el interesado manifestará la inexistencia de dicha situación, y expondrá los elementos de consideración que sustenten el que la SSA pueda resolver la solicitud de autorización.
-
-### ARTÍCULO 94
-.- Una vez que la SSA reciba una solicitud de autorización, y siempre y cuando cumpla con la información y los requisitos establecidos en esta Ley, deberá remitirla al Registro, para su inscripción y publicidad respectivas.
-
-### ARTÍCULO 95
-.- Las autorizaciones deberán ser expedidas en un plazo no mayor a seis meses contados a partir de que la SSA reciba la solicitud de autorización por parte del interesado y la información aportada en dicha solicitud esté completa.
-
-### ARTÍCULO 96
-.- La SSA expedirá su resolución, una vez que haya analizado la información y documentación aportados por el interesado. Dicha Secretaría en su resolución podrá, fundada y motivadamente:
+ARTÍCULO 93.- En el caso de solicitudes de autorización de un OGM para poder realizar su importación para las finalidades a que se refiere el artículo 91 de esta Ley, además de lo establecido en el artículo anterior, el interesado deberá adjuntar la información y documentación que acredite que el OGM esté autorizado conforme la legislación del país de origen. En su defecto, el interesado manifestará la inexistencia de dicha situación, y expondrá los elementos de consideración que sustenten el que la SSA pueda resolver la solicitud de autorización.
+ARTÍCULO 94.- Una vez que la SSA reciba una solicitud de autorización, y siempre y cuando cumpla con la información y los requisitos establecidos en esta Ley, deberá remitirla al Registro, para su inscripción y publicidad respectivas.
+ARTÍCULO 95.- Las autorizaciones deberán ser expedidas en un plazo no mayor a seis meses contados a partir de que la SSA reciba la solicitud de autorización por parte del interesado y la información aportada en dicha solicitud esté completa.
+ARTÍCULO 96.- La SSA expedirá su resolución, una vez que haya analizado la información y documentación aportados por el interesado. Dicha Secretaría en su resolución podrá, fundada y motivadamente:
 
 I. Expedir la autorización, o
 
@@ -887,37 +681,22 @@ II. Negar la autorización en los siguientes casos:
 A) Cuando la solicitud no cumpla con lo establecido en esta Ley o las normas oficiales mexicanas como requisitos para el otorgamiento de la autorización;
 B) Cuando la información proporcionada por el interesado sea falsa, esté incompleta o sea insuficiente, o C) Cuando la SSA concluya que los riesgos que pueden presentar dichos organismos afectarán negativamente a la salud humana, pudiéndole causar daños graves o irreversibles.
 La SSA basará sus resoluciones de acuerdo con la identificación científica y técnicamente sustentada de los posibles riesgos que pudieran generar los OGMs, y de la posibilidad real de afectación a la salud humana por dichos organismos.
-
-### ARTÍCULO 97
-.- Los OGMs autorizados por la SSA podrán ser libremente comercializados e importados para su comercialización, al igual que los productos que contengan dichos organismos y los productos derivados de los mismos. Lo anterior sin perjuicio de que dichos organismos autorizados, los productos que los contengan y los productos derivados queden sujetos al régimen de control sanitario general que establece la Ley General de Salud y sus reglamentos y, en caso de que les sean aplicables, los requisitos fitozoosanitarios que correspondan.
-
-### ARTÍCULO 98
-.- Serán aplicables al procedimiento administrativo de autorización, las disposiciones relativas del Título Segundo, en cuanto a la Reconsideración de las Resoluciones Negativas, Revisión de los Permisos y Confidencialidad.
+ARTÍCULO 97.- Los OGMs autorizados por la SSA podrán ser libremente comercializados e importados para su comercialización, al igual que los productos que contengan dichos organismos y los productos derivados de los mismos. Lo anterior sin perjuicio de que dichos organismos autorizados, los productos que los contengan y los productos derivados queden sujetos al régimen de control sanitario general que establece la Ley General de Salud y sus reglamentos y, en caso de que les sean aplicables, los requisitos fitozoosanitarios que correspondan.
+ARTÍCULO 98.- Serán aplicables al procedimiento administrativo de autorización, las disposiciones relativas del Título Segundo, en cuanto a la Reconsideración de las Resoluciones Negativas, Revisión de los Permisos y Confidencialidad.
 
 ## CAPÍTULO II — Disposiciones Adicionales
-
-### ARTÍCULO 99
-.- El envasado de OGMs y de productos que los contengan, para uso o consumo humano, se regirá por las normas oficiales mexicanas que expida la SSA, conjuntamente con la Secretaría de Economía, de conformidad con la Ley General de Salud y sus disposiciones reglamentarias, y con la Ley Federal sobre Metrología y Normalización.
-
-### ARTÍCULO 100
-.- El desarrollo, producción, comercialización y en general proceso de OGMs con efectos terapéuticos, adicionalmente a lo establecido en esta Ley, estará sujeto a lo dispuesto por la Ley General de Salud y demás ordenamientos aplicables a medicamentos y fármacos.
+ARTÍCULO 99.- El envasado de OGMs y de productos que los contengan, para uso o consumo humano, se regirá por las normas oficiales mexicanas que expida la SSA, conjuntamente con la Secretaría de Economía, de conformidad con la Ley General de Salud y sus disposiciones reglamentarias, y con la Ley Federal sobre Metrología y Normalización.
+ARTÍCULO 100.- El desarrollo, producción, comercialización y en general proceso de OGMs con efectos terapéuticos, adicionalmente a lo establecido en esta Ley, estará sujeto a lo dispuesto por la Ley General de Salud y demás ordenamientos aplicables a medicamentos y fármacos.
 
 ## TÍTULO SEXTO
-Etiquetado e Identificación de OGMs
-
-### ARTÍCULO 101
-.- Los OGMs o productos que contengan organismos genéticamente modificados, autorizados por la SSA por su inocuidad en los términos de esta Ley y que sean para consumo humano directo, deberán garantizar la referencia explícita de organismos genéticamente modificados y señalar en la etiqueta la información de su composición alimenticia o sus propiedades nutrimentales, en aquellos casos en que estas características sean significativamente diferentes respecto de los productos convencionales, y además cumplir con los requisitos generales adicionales de etiquetado conforme a las normas oficiales mexicanas que expida la SSA, de acuerdo con lo dispuesto en la Ley General de Salud y sus disposiciones reglamentarias, con la participación de la Secretaría de Economía.
+Etiquetado e Identificación de OGMs ARTÍCULO 101.- Los OGMs o productos que contengan organismos genéticamente modificados, autorizados por la SSA por su inocuidad en los términos de esta Ley y que sean para consumo humano directo, deberán garantizar la referencia explícita de organismos genéticamente modificados y señalar en la etiqueta la información de su composición alimenticia o sus propiedades nutrimentales, en aquellos casos en que estas características sean significativamente diferentes respecto de los productos convencionales, y además cumplir con los requisitos generales adicionales de etiquetado conforme a las normas oficiales mexicanas que expida la SSA, de acuerdo con lo dispuesto en la Ley General de Salud y sus disposiciones reglamentarias, con la participación de la Secretaría de Economía.
 La información que contengan las etiquetas, conforme a lo establecido en este artículo, deberá ser veraz, objetiva, clara, entendible, útil para el consumidor y sustentada en información científica y técnica.
 El etiquetado de OGMs que sean semillas o material vegetativo destinados a siembra, cultivo y producción agrícola, quedará sujeto a las normas oficiales mexicanas que expida la SAGARPA con la participación de la Secretaría de Economía. Respecto de este tipo de OGMs, será obligatorio consignar en la etiqueta que se trata de organismos genéticamente modificados, las características de la combinación genética adquirida y sus implicaciones relativas a condiciones especiales y requerimientos de cultivo, así como los cambios en las características reproductivas y productivas.
 La evaluación de la conformidad de dichas normas oficiales mexicanas la realizarán la SSA, la SAGARPA y la Secretaría de Economía en el ámbito de sus respectivas competencias y las personas acreditadas y aprobadas conforme a lo dispuesto en la Ley Federal sobre Metrología y Normalización.
-
-### ARTÍCULO 102
-.- Los requisitos de información que deberá contener la documentación que acompañe a los OGMs que se importen conforme a esta Ley, se establecerán en normas oficiales mexicanas que deriven del presente ordenamiento, considerando en su expedición la finalidad a la que se destinen dichos organismos y lo que se establezca en tratados internacionales de los que los Estados Unidos Mexicanos sean parte. Las normas oficiales mexicanas a que se refiere este artículo, serán expedidas conjuntamente por la SAGARPA, la SSA y la Secretaría de Economía. En caso de que la importación de OGMs se realice con la finalidad de su liberación al ambiente, las normas oficiales mexicanas a que se refiere este artículo serán expedidas por las Secretarías señaladas conjuntamente con la SEMARNAT.
+ARTÍCULO 102.- Los requisitos de información que deberá contener la documentación que acompañe a los OGMs que se importen conforme a esta Ley, se establecerán en normas oficiales mexicanas que deriven del presente ordenamiento, considerando en su expedición la finalidad a la que se destinen dichos organismos y lo que se establezca en tratados internacionales de los que los Estados Unidos Mexicanos sean parte. Las normas oficiales mexicanas a que se refiere este artículo, serán expedidas conjuntamente por la SAGARPA, la SSA y la Secretaría de Economía. En caso de que la importación de OGMs se realice con la finalidad de su liberación al ambiente, las normas oficiales mexicanas a que se refiere este artículo serán expedidas por las Secretarías señaladas conjuntamente con la SEMARNAT.
 
 ## TÍTULO SÉPTIMO — De las Listas de OGMs
-
-### ARTÍCULO 103
-.- Las listas de OGMs que conforme a esta Ley se expidan y publiquen serán las siguientes:
+ARTÍCULO 103.- Las listas de OGMs que conforme a esta Ley se expidan y publiquen serán las siguientes:
 
 I. Las de OGMs que cuenten con permiso para su liberación comercial o para su importación para esa actividad;
 
@@ -927,24 +706,16 @@ III. Las de OGMs que cuenten con autorización por la SSA, y
 
 IV. Las de OGMs para realizar actividades de utilización confinada de OGMs con fines de enseñanza y de investigación científica y tecnológica.
 Las listas de OGMs a que se refiere este artículo serán expedidas y publicadas por las Secretarías competentes con la periodicidad que establezcan las disposiciones reglamentarias que deriven de esta Ley y de acuerdo a lo establecido en el presente Título. Tendrán como finalidad dar a conocer a los interesados y al público en general el resultado de las resoluciones que expidan respecto de las solicitudes de permisos y autorizaciones.
-
-### ARTÍCULO 104
-.- La lista de OGMs a que se refieren las fracciones I y II del artículo anterior será elaborada considerando los resultados de la evaluación caso por caso y expedida conjuntamente por la SEMARNAT, la SSA y la SAGARPA, y se publicará para su conocimiento y difusión en el Diario Oficial de la Federación.
+ARTÍCULO 104.- La lista de OGMs a que se refieren las fracciones I y II del artículo anterior será elaborada considerando los resultados de la evaluación caso por caso y expedida conjuntamente por la SEMARNAT, la SSA y la SAGARPA, y se publicará para su conocimiento y difusión en el Diario Oficial de la Federación.
 Las finalidades de la lista a que se refiere este artículo serán:
 
 I. Indicar la situación jurídica en que se encuentren esos OGMs, y
 
 II. Determinar los casos en los cuales los OGMs permitidos para su liberación comercial o para su importación para esa actividad puedan ser liberados e importados libremente en las áreas geográficas que se determinen conforme al análisis caso por caso.
 En dicha lista, las Secretarías correspondientes podrán indicar los casos en que la importación, el uso, manejo y liberación de dichos organismos puedan realizarse sin condiciones, así como los casos en que se deban cumplir condiciones específicas.
-
-### ARTÍCULO 105
-.- La lista de OGMs que cuenten con autorización, será elaborada y expedida por la SSA, considerando los resultados de la evaluación caso por caso de los posibles riesgos de dichos organismos para la salud humana, y se publicará para su conocimiento y difusión en el Diario Oficial de la Federación. Sus finalidades serán indicar la situación jurídica en que se encuentren esos OGMs, y determinar los casos en los cuales los OGMs autorizados conforme a esta Ley puedan ser comercializados e importados.
-
-### ARTÍCULO 106
-.- La lista de OGMs para realizar actividades de utilización confinada de dichos organismos con fines de enseñanza y de investigación científica y tecnológica será expedida conjuntamente por las Secretarías, y se publicará para su conocimiento y difusión en el Diario Oficial de la Federación.
-
-### ARTÍCULO 107
-.- En la formulación, expedición y modificación de las listas informativas de OGMs, se estará a lo que se establezca en las disposiciones reglamentarias que deriven del presente ordenamiento, tomando en cuenta los siguientes lineamientos:
+ARTÍCULO 105.- La lista de OGMs que cuenten con autorización, será elaborada y expedida por la SSA, considerando los resultados de la evaluación caso por caso de los posibles riesgos de dichos organismos para la salud humana, y se publicará para su conocimiento y difusión en el Diario Oficial de la Federación. Sus finalidades serán indicar la situación jurídica en que se encuentren esos OGMs, y determinar los casos en los cuales los OGMs autorizados conforme a esta Ley puedan ser comercializados e importados.
+ARTÍCULO 106.- La lista de OGMs para realizar actividades de utilización confinada de dichos organismos con fines de enseñanza y de investigación científica y tecnológica será expedida conjuntamente por las Secretarías, y se publicará para su conocimiento y difusión en el Diario Oficial de la Federación.
+ARTÍCULO 107.- En la formulación, expedición y modificación de las listas informativas de OGMs, se estará a lo que se establezca en las disposiciones reglamentarias que deriven del presente ordenamiento, tomando en cuenta los siguientes lineamientos:
 Se formularán atendiendo:
 
 I. La naturaleza del organismo genéticamente modificado;
@@ -968,9 +739,7 @@ IX. Los posibles efectos o riesgos que las distintas actividades con dichos orga
 ## TÍTULO OCTAVO — De la Información sobre Bioseguridad
 
 ## CAPÍTULO I — Del Sistema Nacional de Información sobre Bioseguridad
-
-### ARTÍCULO 108
-.- La CIBIOGEM, a través de su Secretaría Ejecutiva, desarrollará el Sistema Nacional de Información sobre Bioseguridad que tendrá por objeto organizar, actualizar y difundir la información sobre bioseguridad. En dicho Sistema, la CIBIOGEM deberá integrar, entre otros aspectos, la información correspondiente al Registro.
+ARTÍCULO 108.- La CIBIOGEM, a través de su Secretaría Ejecutiva, desarrollará el Sistema Nacional de Información sobre Bioseguridad que tendrá por objeto organizar, actualizar y difundir la información sobre bioseguridad. En dicho Sistema, la CIBIOGEM deberá integrar, entre otros aspectos, la información correspondiente al Registro.
 La CIBIOGEM reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia de bioseguridad, incluyendo la inocuidad de OGMs, realizados por personas físicas o morales, nacionales o extranjeras, los que serán remitidos y organizados por el Sistema Nacional de Información sobre Bioseguridad. Además, elaborará y publicará anualmente un informe detallado de la situación general existente en el país en materia de biotecnología y bioseguridad materia de esta Ley.
 La CIBIOGEM, además, realizará los estudios y las consideraciones socioeconómicas resultantes de los efectos de los OGMs que se liberen al ambiente en el territorio nacional, y establecerá los mecanismos para realizar la consulta y participación de los pueblos y comunidades indígenas asentadas en las zonas donde se pretenda la liberación de OGMs, considerando el valor de la diversidad biológica.
 Asimismo, la Secretaría Ejecutiva de la CIBIOGEM fungirá como Centro Focal Nacional ante el Secretariado del Protocolo de Cartagena sobre Seguridad de la Biotecnología del Convenio sobre la Diversidad Biológica, siendo la responsable del enlace con dicho Secretariado y de dar cumplimiento a lo establecido en el Artículo 19 de dicho Tratado Internacional. La Secretaría Ejecutiva de la CIBIOGEM también se encargará de proporcionar al Centro de Intercambio de Información sobre Seguridad de la Biotecnología establecido en el mencionado Protocolo, cualquier información sobre:
@@ -989,38 +758,22 @@ VI. Los informes sobre el cumplimiento de las obligaciones establecidas en el Pr
 Las Secretarías competentes podrán proporcionar de manera directa al Centro de Intercambio de Información sobre Seguridad de la Biotecnología, la información a que se refieren las fracciones anteriores, informando simultáneamente a la Secretaría Ejecutiva de la CIBIOGEM.
 
 ## CAPÍTULO II — Del Registro Nacional de Bioseguridad de los OGMs
-
-### ARTÍCULO 109
-.- El Registro, que estará a cargo de la Secretaría Ejecutiva de la CIBIOGEM, tendrá carácter público y tiene por objeto la inscripción de la información relativa a las actividades con OGMs, así como de los propios organismos. Su funcionamiento y lo que puede ser objeto de inscripción se determinarán en las disposiciones reglamentarias que deriven de esta Ley. La SEMARNAT, la SAGARPA y la SSA contribuirán a la organización y funcionamiento del Registro.
+ARTÍCULO 109.- El Registro, que estará a cargo de la Secretaría Ejecutiva de la CIBIOGEM, tendrá carácter público y tiene por objeto la inscripción de la información relativa a las actividades con OGMs, así como de los propios organismos. Su funcionamiento y lo que puede ser objeto de inscripción se determinarán en las disposiciones reglamentarias que deriven de esta Ley. La SEMARNAT, la SAGARPA y la SSA contribuirán a la organización y funcionamiento del Registro.
 
 ## TÍTULO NOVENO — De las Normas Oficiales Mexicanas en Materia de Bioseguridad
-
-### ARTÍCULO 110
-.- Para garantizar la bioseguridad de las actividades con OGMs, las Secretarías, de manera conjunta o con la participación de otras dependencias de la Administración Pública Federal, expedirán normas oficiales mexicanas que tengan por objeto establecer lineamientos, criterios, especificaciones técnicas y procedimientos conforme a las disposiciones de esta Ley.
-
-### ARTÍCULO 111
-.- En la formulación de normas oficiales mexicanas en materia de bioseguridad deberá considerarse que el cumplimiento de sus previsiones deberá realizarse de conformidad con las características de cada actividad o proceso productivo con OGMs.
-
-### ARTÍCULO 112
-.- La aplicación de las normas oficiales mexicanas en materia de bioseguridad, así como los actos de inspección y vigilancia corresponderán exclusivamente a las Secretarías competentes en los términos de esta Ley. El cumplimiento de dichas normas podrá ser evaluado por los organismos de certificación, unidades de verificación y laboratorios de pruebas aprobados por dichas Secretarías de conformidad con las disposiciones reglamentarias que deriven del presente ordenamiento y con la Ley Federal sobre Metrología y Normalización.
+ARTÍCULO 110.- Para garantizar la bioseguridad de las actividades con OGMs, las Secretarías, de manera conjunta o con la participación de otras dependencias de la Administración Pública Federal, expedirán normas oficiales mexicanas que tengan por objeto establecer lineamientos, criterios, especificaciones técnicas y procedimientos conforme a las disposiciones de esta Ley.
+ARTÍCULO 111.- En la formulación de normas oficiales mexicanas en materia de bioseguridad deberá considerarse que el cumplimiento de sus previsiones deberá realizarse de conformidad con las características de cada actividad o proceso productivo con OGMs.
+ARTÍCULO 112.- La aplicación de las normas oficiales mexicanas en materia de bioseguridad, así como los actos de inspección y vigilancia corresponderán exclusivamente a las Secretarías competentes en los términos de esta Ley. El cumplimiento de dichas normas podrá ser evaluado por los organismos de certificación, unidades de verificación y laboratorios de pruebas aprobados por dichas Secretarías de conformidad con las disposiciones reglamentarias que deriven del presente ordenamiento y con la Ley Federal sobre Metrología y Normalización.
 
 ## TÍTULO DÉCIMO
 Inspección y Vigilancia y Medidas de Seguridad o de Urgente Aplicación
 
 ## CAPÍTULO I
-Inspección y Vigilancia
-
-### ARTÍCULO 113
-.- Para verificar y comprobar el cumplimiento de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, las Secretarías competentes podrán realizar por conducto de personal debidamente autorizado, los actos de inspección y vigilancia que consideren necesarios, por conducto de las Unidades Administrativas facultadas legalmente para ello, conforme a esta Ley.
-
-### ARTÍCULO 114
-.- Por lo que hace a los requisitos y formalidades que deben observarse en la realización de visitas de inspección y vigilancia, son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo Decimoprimero del Título Tercero de la Ley Federal de Procedimiento Administrativo. En materia de restauración o compensación de daños al medio ambiente o a la diversidad biológica, podrá ser aplicable lo dispuesto en el segundo párrafo del Artículo 168 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+Inspección y Vigilancia ARTÍCULO 113.- Para verificar y comprobar el cumplimiento de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, las Secretarías competentes podrán realizar por conducto de personal debidamente autorizado, los actos de inspección y vigilancia que consideren necesarios, por conducto de las Unidades Administrativas facultadas legalmente para ello, conforme a esta Ley.
+ARTÍCULO 114.- Por lo que hace a los requisitos y formalidades que deben observarse en la realización de visitas de inspección y vigilancia, son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo Decimoprimero del Título Tercero de la Ley Federal de Procedimiento Administrativo. En materia de restauración o compensación de daños al medio ambiente o a la diversidad biológica, podrá ser aplicable lo dispuesto en el segundo párrafo del Artículo 168 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 ## CAPÍTULO II
-Medidas de Seguridad o de Urgente Aplicación
-
-### ARTÍCULO 115
-.- Las Secretarías, en el ámbito de su competencia conforme a esta Ley, ordenarán alguna o algunas de las medidas que se establecen en este artículo, en caso de que en la realización de actividades con OGMs se presente lo siguiente:
+Medidas de Seguridad o de Urgente Aplicación ARTÍCULO 115.- Las Secretarías, en el ámbito de su competencia conforme a esta Ley, ordenarán alguna o algunas de las medidas que se establecen en este artículo, en caso de que en la realización de actividades con OGMs se presente lo siguiente:
 
 I. Surjan riesgos no previstos originalmente, que pudieran causar daños o efectos adversos y significativos a la salud humana o a la diversidad biológica o a la sanidad animal, vegetal o acuícola;
 
@@ -1040,14 +793,10 @@ b) Para determinar la imposición de la medida, la Secretaría competente deber�
 
 c) En tanto la Secretaría competente dicta la resolución que proceda, podrá ordenar, de manera previa, el aseguramiento precautorio de los OGMs, pudiéndolo llevar a cabo la propia Secretaría o a través del interesado.
 Asimismo, la Secretaría competente que imponga las medidas a que se refiere este artículo podrá promover ante las otras Secretarías competentes, la ejecución de alguna o algunas medidas que se establezcan en otros ordenamientos.
-
-### ARTÍCULO 116
-.- Cuando las Secretarías competentes ordenen alguna de las medidas previstas en el artículo anterior, indicarán al interesado las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas impuestas.
+ARTÍCULO 116.- Cuando las Secretarías competentes ordenen alguna de las medidas previstas en el artículo anterior, indicarán al interesado las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas impuestas.
 Si el interesado se rehusare a llevar a cabo las acciones para subsanar las irregularidades que motivaron la imposición de la o las medidas de que se trate, la Secretaría que las haya impuesto las realizará inmediatamente, con cargo total al interesado renuente.
 En el caso en que el interesado realice las medidas de seguridad o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Secretaría competente imponga alguna o algunas de las sanciones establecidas en esta Ley, dicha Secretaría deberá considerar tal situación como atenuante de la infracción cometida.
-
-### ARTÍCULO 117
-.- En caso de liberaciones accidentales de OGMs que se verifiquen en el territorio nacional, y que pudieran tener efectos adversos significativos a la diversidad biológica o a la salud humana de otro país, la Secretaría competente notificará tal situación a la autoridad correspondiente del país que pudiera resultar afectado por dicha liberación. Dicha notificación deberá incluir:
+ARTÍCULO 117.- En caso de liberaciones accidentales de OGMs que se verifiquen en el territorio nacional, y que pudieran tener efectos adversos significativos a la diversidad biológica o a la salud humana de otro país, la Secretaría competente notificará tal situación a la autoridad correspondiente del país que pudiera resultar afectado por dicha liberación. Dicha notificación deberá incluir:
 
 I. Información sobre las cantidades estimadas y las características y/o rasgos importantes del OGM;
 
@@ -1059,17 +808,13 @@ IV. Información disponible sobre las posibles medidas de regulación, atención
 
 V. Un punto de contacto para obtener información adicional.
 Sin perjuicio de lo anterior, las Secretarías, en el ámbito de sus competencias conforme a esta Ley, realizarán las acciones y medidas necesarias para reducir al mínimo cualquier riesgo o efecto adverso que los OGMs liberados accidentalmente pudieran ocasionar. Dichas acciones y medidas serán ordenadas por las Secretarías a quien haya ocasionado la liberación accidental de OGMs al ambiente, quien deberá cumplirlas de manera inmediata. En caso contrario, las Secretarías procederán conforme a lo establecido en el segundo párrafo del artículo anterior.
-
-### ARTÍCULO 118
-.- Son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo Único del Título Quinto de la Ley Federal de Procedimiento Administrativo, excepto para lo dispuesto en el artículo anterior.
+ARTÍCULO 118.- Son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo Único del Título Quinto de la Ley Federal de Procedimiento Administrativo, excepto para lo dispuesto en el artículo anterior.
 
 ## TÍTULO D — ECIMOPRIMERO
 Infracciones, Sanciones y Responsabilidades
 
 ## CAPÍTULO I — De las Infracciones
-
-### ARTÍCULO 119
-.- Incurre en infracciones administrativas a las disposiciones de esta Ley, la persona que, con pleno conocimiento de que se trata de OGMs:
+ARTÍCULO 119.- Incurre en infracciones administrativas a las disposiciones de esta Ley, la persona que, con pleno conocimiento de que se trata de OGMs:
 
 I. Realice actividades con OGMs sin contar con los permisos y las autorizaciones respectivas;
 
@@ -1128,9 +873,7 @@ XXVII. Libere intencionalmente OGMs al ambiente sin contar con los permisos de l
 XXVIII. Libere al ambiente OGMs que hayan sido importados o producidos en el territorio nacional, en los términos de esta Ley, para consumo directo humano o animal, para procesamiento de alimentos para consumo humano, o para otros usos distintos a su liberación al ambiente.
 
 ## CAPÍTULO II — De las Sanciones
-
-### ARTÍCULO 120
-.- Las infracciones a los preceptos de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, señaladas en el artículo anterior, serán sancionadas administrativamente por las Secretarías competentes, con una o más de las siguientes sanciones:
+ARTÍCULO 120.- Las infracciones a los preceptos de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, señaladas en el artículo anterior, serán sancionadas administrativamente por las Secretarías competentes, con una o más de las siguientes sanciones:
 
 I. Multa de quinientos a quince mil días de salario mínimo general vigente en el Distrito Federal a quien cometa las infracciones previstas en las fracciones IV, V, VIII, XIV, XVI, XVII, y XXI del artículo 119 de esta Ley;
 
@@ -1148,9 +891,7 @@ V. La suspensión o revocación de los permisos y las autorizaciones correspondi
 VI. Arresto administrativo hasta por treinta y seis horas, y
 
 VII. Prohibición de la liberación experimental, de la liberación en programa piloto o de la comercialización de OGMs o de los productos que los contengan.
-
-### ARTÍCULO 121
-.- Con independencia de lo dispuesto en el Artículo anterior, toda persona que, con pleno conocimiento de que se trata de OGMs, cause daños a terceros en sus bienes o a su salud, por el uso o manejo indebido de dichos organismos, será responsable y estará obligada a repararlos en los términos de la legislación civil federal. Igual obligación asumirá la persona que dañe el medio ambiente o la diversidad biológica, por el uso o manejo indebido de OGMs, para lo cual será aplicable lo dispuesto en el Artículo 203 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+ARTÍCULO 121.- Con independencia de lo dispuesto en el Artículo anterior, toda persona que, con pleno conocimiento de que se trata de OGMs, cause daños a terceros en sus bienes o a su salud, por el uso o manejo indebido de dichos organismos, será responsable y estará obligada a repararlos en los términos de la legislación civil federal. Igual obligación asumirá la persona que dañe el medio ambiente o la diversidad biológica, por el uso o manejo indebido de OGMs, para lo cual será aplicable lo dispuesto en el Artículo 203 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 Las personas afectadas directamente en sus bienes podrán solicitar al juez, que requiera a la Secretaría competente para que, por conducto de su respectivo comité técnico científico que establezca conforme a este ordenamiento, elabore un dictamen técnico cuyo objeto sea demostrar la existencia del daño, y sirva de base al juez para determinar, en su caso, la forma de su reparación. El dictamen técnico que se expida no generará costo alguno a cargo de los solicitantes.
 En el caso de daños al medio ambiente o a la diversidad biológica, la SEMARNAT, a través de la Procuraduría Federal de Protección al Ambiente, ejercerá la acción de responsabilidad, pudiéndolo hacer en cualquiera de las siguientes formas:
 
@@ -1159,19 +900,12 @@ I. De oficio, con base en el expediente relativo a actos de inspección y vigila
 II. Por denuncia, presentada por miembros de la comunidad afectada, de actos que pudieran contravenir lo establecido en esta Ley y demás disposiciones que de ella emanen. La denuncia deberá acompañarse de la información técnica y científica que la sustente, con la participación del Consejo Consultivo Científico de la CIBIOGEM, previa opinión de la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.
 En los casos a que se refieren las fracciones anteriores, la Procuraduría Federal de Protección al Ambiente procederá a ejercitar la acción de responsabilidad con base en el dictamen técnico que para tal efecto elabore el comité técnico científico de la SEMARNAT. Para la formulación del dictamen, el comité técnico científico evaluará la información y los elementos con que cuente la Procuraduría Federal de Protección al Ambiente, sea que obren en el expediente administrativo o los que aporten los denunciantes, respectivamente, y determinará, en su caso, la existencia del daño. Serán competentes para conocer sobre las acciones de responsabilidad por daños al medio ambiente o a la diversidad biológica en los términos de este Artículo, los juzgados de distrito en materia civil, conforme a la competencia territorial establecida en las disposiciones respectivas.
 Las sanciones administrativas establecidas en el Artículo anterior se aplicarán sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones a esta Ley, sean también constitutivos de delito conforme a las disposiciones aplicables del Código Penal Federal.
-
-### ARTÍCULO 122
-.- Son aplicables supletoriamente a este Capítulo en cuanto a responsabilidades administrativas, las disposiciones del Capítulo Único del Título Cuarto de la Ley Federal de Procedimiento Administrativo, con excepción del artículo 70-A de dicho ordenamiento.
+ARTÍCULO 122.- Son aplicables supletoriamente a este Capítulo en cuanto a responsabilidades administrativas, las disposiciones del Capítulo Único del Título Cuarto de la Ley Federal de Procedimiento Administrativo, con excepción del artículo 70-A de dicho ordenamiento.
 
 ## TÍTULO D — ECIMOSEGUNDO
-Recurso de Revisión
-
-### ARTÍCULO 123
-.- Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y las normas que de ella deriven, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días siguientes a la fecha de su notificación, o ante las instancias jurisdiccionales competentes.
+Recurso de Revisión ARTÍCULO 123.- Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y las normas que de ella deriven, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días siguientes a la fecha de su notificación, o ante las instancias jurisdiccionales competentes.
 El recurso de revisión se interpondrá directamente ante la Secretaría que emitió la resolución impugnada, quien en su caso, otorgará su admisión, y el otorgamiento o la denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico en la misma Secretaría para su resolución definitiva.
-
-### ARTÍCULO 124
-.- Por lo que se refiere a los demás trámites relativos a la substanciación del recurso de revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título Sexto de la Ley Federal de Procedimiento Administrativo.
+ARTÍCULO 124.- Por lo que se refiere a los demás trámites relativos a la substanciación del recurso de revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título Sexto de la Ley Federal de Procedimiento Administrativo.
 
 ## TRANSITORIOS
 

@@ -54,10 +54,7 @@ II. La atención médica;
 Fracción reformada DOF 29-11-2019 II bis. La prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados para personas sin seguridad social.
 Reforma DOF 03-01-2024: Derogó de la fracción el entonces párrafo segundo (antes reformado DOF 29-05-2023) Fracción adicionada DOF 15-05-2003. Reformada DOF 29-11-2019
 
-III. La coordinación, evaluación y seguimiento de los servicios de salud a los que se refiere el
-
-### artículo 34
-, fracción II;
+III. La coordinación, evaluación y seguimiento de los servicios de salud a los que se refiere el artículo 34, fracción II;
 III Bis. La planeación de la creación, la sustitución y la ampliación de infraestructura para la prestación de servicios de salud;
 Fracción adicionada DOF 15-01-2026
 
@@ -1532,10 +1529,7 @@ Fracción reformada DOF 29-05-2023
 II. La atención de necesidades de infraestructura y equipamiento, inclusive de acciones de mantenimiento urgente y conservación, preferentemente en las entidades federativas con mayor marginación social, y Fracción reformada DOF 15-01-2026
 
 III. Complementar los recursos destinados al abasto y distribución de medicamentos y demás insumos, así como del acceso a exámenes clínicos, asociados a personas sin seguridad social.
-Asimismo, formarán parte del patrimonio del Fideicomiso los recursos que reciba en términos del
-
-### artículo 77
-bis 16 A de esta Ley, los cuales se destinarán en términos de lo que se establezca en los convenios de coordinación referidos en ese artículo. Estos recursos y sus rendimientos financieros no formarán parte del remanente a que se refiere el artículo 77 bis 17, por lo que deberán permanecer afectos al Fideicomiso hasta el cumplimiento de sus fines.
+Asimismo, formarán parte del patrimonio del Fideicomiso los recursos que reciba en términos del artículo 77 bis 16 A de esta Ley, los cuales se destinarán en términos de lo que se establezca en los convenios de coordinación referidos en ese artículo. Estos recursos y sus rendimientos financieros no formarán parte del remanente a que se refiere el artículo 77 bis 17, por lo que deberán permanecer afectos al Fideicomiso hasta el cumplimiento de sus fines.
 Párrafo reformado DOF 04-12-2020, 29-05-2023 Para efectos de lo anterior y mayor transparencia de los recursos, el Fideicomiso contará con una subcuenta para cada uno de los fines señalados.
 Para efectos de este Título, se considerará alto costo al que se deriva de aquellos tratamientos y medicamentos asociados, definidos por el Consejo de Salubridad General, que satisfagan las necesidades de salud mediante la combinación de intervenciones de tipo preventivo, diagnóstico, terapéutico, paliativo y de rehabilitación, con criterios explícitos de carácter clínico y epidemiológico, seleccionadas con base en su seguridad, eficacia, pago, efectividad, adherencia a normas éticas profesionales y aceptabilidad social, en virtud de su grado de complejidad o especialidad y el nivel o frecuencia con la que ocurren.
 Párrafo reformado DOF 15-01-2026 Para efectos de la fracción I del presente artículo, la subcuenta de atención de enfermedades que impliquen un alto costo en los tratamientos y medicamentos asociados deberán ser determinadas en las reglas de operación del Fondo en virtud de su grado de complejidad o especialidad y el nivel o frecuencia con la que ocurren.
@@ -1546,10 +1540,7 @@ Artículo adicionado DOF 15-05-2003. Reformado DOF 29-11-2019
 bis 30. Los recursos para financiar las necesidades de infraestructura médica se sujetarán a lo previsto en las disposiciones reglamentarias y en las reglas de operación del fondo a que se refiere el presente Título. Tratándose de alta especialidad, la Secretaría de Salud, mediante un estudio técnico, determinará aquellas unidades médicas de las dependencias y entidades de la administración pública, tanto federal como local, que por sus características y ubicación puedan ser reconocidas como centros regionales de alta especialidad o la construcción, con recursos públicos, de nueva infraestructura con el mismo propósito, que provean sus servicios en las zonas que determine la propia dependencia.
 Párrafo reformado DOF 04-06-2014, 29-11-2019 Para la determinación a que se refiere el párrafo anterior, la Secretaría de Salud tomará en cuenta los patrones observados de referencia y contrarreferencia que deriven de las redes integradas de servicios de salud, así como la información que, sobre las necesidades de atención de alta especialidad, le reporten de manera anual los sistemas de información básica que otorguen los servicios estatales de salud o, en su caso, las dependencias o entidades de la Administración Pública Federal que asuman la responsabilidad de la prestación de los servicios a que se refiere el presente Título.
 Párrafo reformado DOF 29-11-2019 Los centros regionales y demás prestadores públicos de servicios de salud de alta especialidad podrán recibir recursos del fondo a que se refiere este Capítulo para el fortalecimiento de su infraestructura, de conformidad con los lineamientos que establezca la Secretaría de Salud, en los que se incluirán pautas para operar un sistema de compensación y los elementos necesarios que permitan precisar la forma de sufragar las intervenciones que provean los centros regionales.
-Párrafo reformado DOF 04-06-2014 Con la finalidad de racionalizar la inversión en infraestructura para la prestación de servicios de salud y garantizar la disponibilidad de recursos para la operación sustentable de los servicios, la Secretaría de Salud integrará el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología, que considere tanto obra como equipamiento médico de alta tecnología en términos de lo previsto en el
-
-### artículo 35
-Bis de esta Ley, al cual se sujetarán las instituciones públicas del Sistema Nacional de Salud para garantizar el acceso oportuno a los servicios de salud, independientemente de la fuente de financiamiento.
+Párrafo reformado DOF 04-06-2014 Con la finalidad de racionalizar la inversión en infraestructura para la prestación de servicios de salud y garantizar la disponibilidad de recursos para la operación sustentable de los servicios, la Secretaría de Salud integrará el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología, que considere tanto obra como equipamiento médico de alta tecnología en términos de lo previsto en el artículo 35 Bis de esta Ley, al cual se sujetarán las instituciones públicas del Sistema Nacional de Salud para garantizar el acceso oportuno a los servicios de salud, independientemente de la fuente de financiamiento.
 Párrafo reformado DOF 29-11-2019, 29-05-2023, 15-01-2026 No se considerarán elegibles para la participación en los recursos del fondo que se establezca en los términos del presente Capítulo los establecimientos de salud que no guarden congruencia con el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Especialidad.
 Párrafo reformado DOF 04-06-2014, 29-11-2019, 29-05-2023, 15-01-2026 Artículo adicionado DOF 15-05-2003
 
@@ -3728,10 +3719,7 @@ Párrafo reformado DOF 27-05-1987
 ### Artículo 241
 .- La prescripción de estupefacientes se hará en recetarios especiales, que contendrán, para su control, un código de barras asignado por la Secretaría de Salud, o por las autoridades sanitarias estatales, en los siguientes términos:
 
-I. Las recetas especiales serán formuladas por los profesionales autorizados en los términos del
-
-### artículo 240
-de esta ley, para tratamientos no mayores de treinta días, y
+I. Las recetas especiales serán formuladas por los profesionales autorizados en los términos del artículo 240 de esta ley, para tratamientos no mayores de treinta días, y
 
 II. La cantidad máxima de unidades prescritas por día, deberá ajustarse a las indicaciones terapéuticas del producto.
 Artículo reformado DOF 27-05-1987, 07-05-1997
@@ -4126,10 +4114,7 @@ Bis.- Para la realización de cualquier procedimiento médico quirúrgico de esp
 
 I. Cédula de especialista legalmente expedida por las autoridades educativas competentes.
 
-II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, de acuerdo a la Lex Artis Ad Hoc de cada especialidad, expedido por el Consejo de la especialidad según corresponda, de conformidad con el
-
-### artículo 81
-de la presente Ley.
+II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, de acuerdo a la Lex Artis Ad Hoc de cada especialidad, expedido por el Consejo de la especialidad según corresponda, de conformidad con el artículo 81 de la presente Ley.
 Los médicos especialistas podrán pertenecer a una agrupación médica, cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad; agrupaciones que se encargan de garantizar el profesionalismo y ética de los expertos en esta práctica de la medicina.
 El Comité Normativo Nacional de Consejos de Especialidades Médicas y los Consejos de Especialidades Médicas para la aplicación del presente artículo y lo dispuesto en el Título Cuarto de la presente Ley, se sujetarán a las disposiciones que emita la Secretaría de Salud.
 Artículo adicionado DOF 01-09-2011
@@ -4678,10 +4663,7 @@ Párrafo reformado DOF 20-04-2015 En el caso de plasma residual se concederán l
 Párrafo adicionado DOF 20-04-2015 Artículo reformado DOF 26-05-2000, 24-01-2013
 
 ### Artículo 317
-Bis.- El traslado fuera del territorio nacional de tejidos de seres humanos referidos en el
-
-### artículo 375
-fracción VI de esta Ley que pueda ser fuente de material genético (ácido desoxirribonucleico) y cuyo propósito sea llevar a cabo estudios genómicos poblacionales, estará sujeto a:
+Bis.- El traslado fuera del territorio nacional de tejidos de seres humanos referidos en el artículo 375 fracción VI de esta Ley que pueda ser fuente de material genético (ácido desoxirribonucleico) y cuyo propósito sea llevar a cabo estudios genómicos poblacionales, estará sujeto a:
 
 I. Formar parte de un proyecto de investigación aprobado por una institución mexicana de investigación científica y conforme a lo establecido en el artículo 100 de la Ley, al Reglamento de la Ley General de Salud en materia de investigación y demás disposiciones aplicables, y
 
@@ -5187,10 +5169,7 @@ Párrafo reformado DOF 27-05-1987
 Artículo reformado DOF 27-05-1987
 
 ### Artículo 367
-.- Las embarcaciones y aeronaves procedentes del extranjero con destino al territorio nacional, así como las que partan del territorio nacional al extranjero, deberán estar provistas de la documentación sanitaria exigida por los tratados y convenciones internacionales a que se refiere el
-
-### artículo 351
-de esta Ley y demás disposiciones generales aplicables.
+.- Las embarcaciones y aeronaves procedentes del extranjero con destino al territorio nacional, así como las que partan del territorio nacional al extranjero, deberán estar provistas de la documentación sanitaria exigida por los tratados y convenciones internacionales a que se refiere el artículo 351 de esta Ley y demás disposiciones generales aplicables.
 Artículo reformado DOF 27-05-1987 TITULO DECIMO SEXTO Autorizaciones y Certificados CAPITULO I Autorizaciones
 
 ### Artículo 368
@@ -5311,10 +5290,7 @@ Fracción reformada DOF 14-06-1991
 
 XI. Cuando lo solicite el interesado, y
 
-XII. En los demás casos que determine la autoridad sanitaria, sujetándose a lo que establece el
-
-### artículo 428
-de esta Ley.
+XII. En los demás casos que determine la autoridad sanitaria, sujetándose a lo que establece el artículo 428 de esta Ley.
 
 ### Artículo 381
 .- Cuando la revocación de una autorización se funde en los riesgos o daños que pueda causar o cause un producto o servicio, la autoridad sanitaria dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
@@ -5404,10 +5380,7 @@ Artículo adicionado DOF 07-05-1997
 ### Artículo 392
 .- Los certificados a que se refiere este título, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas oficiales mexicanas que la misma emita.
 Dichos modelos serán publicados en el Diario Oficial de la Federación.
-Párrafo reformado DOF 27-05-1987, 14-06-1991, 07-05-1997 Los que se autoricen para las parteras tradicionales, o los que ellas elaboren, serán de la mayor sencillez, con lenguaje adecuado a su cultura e identidad y contendrán los datos básicos previstos en el
-
-### artículo 389
-Bis.
+Párrafo reformado DOF 27-05-1987, 14-06-1991, 07-05-1997 Los que se autoricen para las parteras tradicionales, o los que ellas elaboren, serán de la mayor sencillez, con lenguaje adecuado a su cultura e identidad y contendrán los datos básicos previstos en el artículo 389 Bis.
 Párrafo adicionado DOF 26-03-2024 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 La Secretaría de Salud, los gobiernos de las entidades federativas y los Servicios Estatales de Salud, en el ámbito de sus respectivas competencias y de conformidad con la normatividad que se expida para tal efecto, llevarán a cabo acciones necesarias para la implementación de los certificados a que se refiere este Título, incluyendo las relacionadas con la captura, generación e intercambio de la información relacionada con la expedición de dichos certificados y de acuerdo a lo dispuesto por el Título Sexto.
 Párrafo adicionado DOF 24-04-2013 La distribución primaria de los certificados de nacimiento, defunción y muerte fetal a que hace mención el artículo 389 de esta Ley estará a cargo de la Secretaría de Salud.
@@ -5778,10 +5751,7 @@ Artículo reformado DOF 27-05-1987, 14-06-1991
 .- Una vez oído al presunto infractor o a su representante legal y desahogadas las pruebas que ofreciere y fueren admitidas, se procederá dentro de los cinco días hábiles siguientes, a dictar, por escrito, la resolución que proceda, la cual será notificada en forma personal o por correo certificado con acuse de recibo al interesado o a su representante legal.
 
 ### Artículo 435
-.- En caso de que el presunto infractor no compareciera dentro del plazo fijado por el
-
-### artículo 432
-se procederá a dictar, en rebeldía, la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
+.- En caso de que el presunto infractor no compareciera dentro del plazo fijado por el artículo 432 se procederá a dictar, en rebeldía, la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
 
 ### Artículo 436
 .- En los casos de suspensión de trabajos o de servicios, o de clausura temporal o definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las verificaciones.
@@ -5875,10 +5845,7 @@ Artículo reformado DOF 27-05-1987, 07-05-1997
 Artículo reformado DOF 27-05-1987
 
 ### Artículo 456
-Bis.- Al que realice por cualquier medio alguna de las conductas a que se refiere el
-
-### artículo 282
-Quater de esta Ley, se le impondrá de uno a ocho años de prisión y multa equivalente de cien a dos mil veces el valor diario de la Unidad de Medida y Actualización.
+Bis.- Al que realice por cualquier medio alguna de las conductas a que se refiere el artículo 282 Quater de esta Ley, se le impondrá de uno a ocho años de prisión y multa equivalente de cien a dos mil veces el valor diario de la Unidad de Medida y Actualización.
 Artículo adicionado DOF 15-01-2026
 
 ### Artículo 457
@@ -6193,11 +6160,8 @@ I. A los tres meses los artículos 316, segundo párrafo, 322; 323, 324 y 325, y
 II. A los doce meses el artículo 336, segundo párrafo.
 **SEGUNDO.** En tanto se expiden las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
 **TERCERO.** La Secretaría de Salud, en un plazo no mayor de seis meses contados a partir de la entrada en vigor del presente Decreto, promoverá ante las demás dependencias de la Administración Pública Federal y los gobiernos de las entidades federativas, que se otorguen facilidades para que en los documentos públicos que les corresponda expedir a los particulares, éstos puedan asentar su consentimiento expreso o negativa para la donación de órganos y tejidos.
-**CUARTO.** La Secretaría de Salud, en un plazo no mayor de nueve meses contados a partir de la entrada en vigor del presente Decreto, deberá tener debidamente integrada la información señalada en el
-
-### artículo 338
-.
-QUINTO. En tanto entra en funciones el Centro Nacional de Trasplantes, la Secretaría de Salud ejercerá las facultades de control sanitario a que se refiere la fracción I del artículo 313 de esta Ley, por conducto de la unidad administrativa que, conforme al Reglamento Interior de esa Dependencia, actualmente tenga a su cargo la vigilancia de los actos de disposición de órganos.
+**CUARTO.** La Secretaría de Salud, en un plazo no mayor de nueve meses contados a partir de la entrada en vigor del presente Decreto, deberá tener debidamente integrada la información señalada en el artículo 338.
+**QUINTO.** En tanto entra en funciones el Centro Nacional de Trasplantes, la Secretaría de Salud ejercerá las facultades de control sanitario a que se refiere la fracción I del artículo 313 de esta Ley, por conducto de la unidad administrativa que, conforme al Reglamento Interior de esa Dependencia, actualmente tenga a su cargo la vigilancia de los actos de disposición de órganos.
 México, D.F., a 28 de abril de 2000.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip.
 Francisco José Paoli Bolio, Presidente.- Sen. Raúl Juárez Valencia, Secretario.- Dip. Jesús Gutiérrez Vargas, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
@@ -6227,10 +6191,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 México, D.F., a 30 de abril de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Sara Isabel Castellanos Cortés, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforma y adiciona la Ley General de Salud.
-Publicado en el Diario Oficial de la Federación el 15 de mayo de 2003 “ARTÍCULO ÚNICO.- SE ADICIONA EL ARTÍCULO 3o. CON UNA FRACCIÓN II BIS, EL ARTÍCULO 13, APARTADO A) CON UNA FRACCIÓN VII BIS Y EL TÍTULO TERCERO BIS A LA LEY GENERAL DE SALUD CON LOS ARTÍCULOS 77 BIS 1 AL 77 BIS 41; Y SE REFORMA LA FRACCIÓN I DEL APARTADO B) DEL ARTÍCULO 13, LA FRACCIÓN IX DEL ARTÍCULO 17, EL ARTÍCULO 28 Y EL
-
-### ARTÍCULO 35
-, DE LA CITADA LEY, EN LOS TÉRMINOS SIGUIENTES. ..........
+Publicado en el Diario Oficial de la Federación el 15 de mayo de 2003 “ARTÍCULO ÚNICO.- SE ADICIONA EL ARTÍCULO 3o. CON UNA FRACCIÓN II BIS, EL ARTÍCULO 13, APARTADO A) CON UNA FRACCIÓN VII BIS Y EL TÍTULO TERCERO BIS A LA LEY GENERAL DE SALUD CON LOS ARTÍCULOS 77 BIS 1 AL 77 BIS 41; Y SE REFORMA LA FRACCIÓN I DEL APARTADO B) DEL ARTÍCULO 13, LA FRACCIÓN IX DEL ARTÍCULO 17, EL ARTÍCULO 28 Y EL ARTÍCULO 35, DE LA CITADA LEY, EN LOS TÉRMINOS SIGUIENTES. ..........
 
 ## TRANSITORIOS
 
@@ -6243,29 +6204,27 @@ Publicado en el Diario Oficial de la Federación el 15 de mayo de 2003 “ARTÍC
 **OCTAVO.** A partir de la entrada en vigor de este Decreto, cada año y de manera acumulativa, se podrán incorporar al Sistema de Protección Social en Salud hasta el equivalente a 14.3% de las familias susceptibles de nueva incorporación, con el fin de alcanzar el 100% de cobertura en el año 2010.
 En el ejercicio fiscal 2004 y subsecuentes, podrán adherirse las familias cuya incorporación pueda ser cubierta con cargo a los recursos del Fondo de Aportaciones para los Servicios de Salud a que se refiere la Ley de Coordinación Fiscal, con cargo a los recursos de los programas del Ramo Administrativo 12 Salud del Presupuesto de Egresos de la Federación y, con cargo a los recursos para la función Salud que el Ejecutivo Federal presente para el Sistema de Protección Social en Salud y que la Cámara de Diputados apruebe.
 La cobertura de los servicios de protección social en salud iniciará dando preferencia a la población de los dos primeros deciles de ingreso en las áreas de mayor marginación, zonas rurales e indígenas, de conformidad con los padrones que para el efecto maneje el Gobierno Federal.
-**NOVENO.** La aportación solidaria de los gobiernos de los estados y el Distrito Federal en términos del
-
-### artículo 77
-Bis 13, deberá iniciarse en el ejercicio fiscal de su incorporación al Sistema de Protección Social en Salud.
-DÉCIMO. Con el objeto de que los programas en materia de salud se ejecuten de manera más eficiente y eficaz, en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2004 y en los años subsecuentes, los recursos aprobados para la función Salud se identificarán con una estrategia integral que sea congruente con el Sistema de Protección Social en Salud.
-DÉCIMO PRIMERO. La Secretaría de Salud deberá constituir la previsión presupuestal a que se refiere el artículo 77 Bis 18 en el ejercicio presupuestal siguiente a aquel en que se apruebe y publique este Decreto.
-DÉCIMO SEGUNDO. A partir del ejercicio fiscal en que se celebre el acuerdo de coordinación correspondiente, para la entidad federativa suscriptora, el monto total de recursos aprobados del Fondo de Aportaciones para los Servicios de Salud, establecido en la Ley de Coordinación Fiscal, será utilizado para financiar los recursos que el Gobierno Federal debe destinar al Sistema de Protección Social en Salud en los términos de los artículos 77 Bis 13, fracción II y 77 Bis 20 de esta Ley.
+**NOVENO.** La aportación solidaria de los gobiernos de los estados y el Distrito Federal en términos del artículo 77 Bis 13, deberá iniciarse en el ejercicio fiscal de su incorporación al Sistema de Protección Social en Salud.
+**DÉCIMO.** Con el objeto de que los programas en materia de salud se ejecuten de manera más eficiente y eficaz, en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2004 y en los años subsecuentes, los recursos aprobados para la función Salud se identificarán con una estrategia integral que sea congruente con el Sistema de Protección Social en Salud.
+**DÉCIMO PRIMERO.** La Secretaría de Salud deberá constituir la previsión presupuestal a que se refiere el artículo 77 Bis 18 en el ejercicio presupuestal siguiente a aquel en que se apruebe y publique este Decreto.
+**DÉCIMO SEGUNDO.** A partir del ejercicio fiscal en que se celebre el acuerdo de coordinación correspondiente, para la entidad federativa suscriptora, el monto total de recursos aprobados del Fondo de Aportaciones para los Servicios de Salud, establecido en la Ley de Coordinación Fiscal, será utilizado para financiar los recursos que el Gobierno Federal debe destinar al Sistema de Protección Social en Salud en los términos de los artículos 77 Bis 13, fracción II y 77 Bis 20 de esta Ley.
 Para los efectos del párrafo anterior, las aportaciones solidarias a que se refiere el artículo 77 Bis 13, fracción II, de la Ley, se realizarán en la medida en que se incorporen las familias al Sistema en los términos del artículo transitorio octavo y de los acuerdos de coordinación correspondientes, sin afectar la continuidad de la atención de las familias no aseguradas.
 El Sistema de Protección Social en Salud dejará sin efectos, respecto de la entidad federativa que se incorpore al mismo, la aplicación de las disposiciones relativas al Fondo de Aportaciones para los Servicios de Salud establecidas en los artículos 25, fracción II, 29, 30 y 31 de la Ley de Coordinación Fiscal, a partir de la fecha en que suscriba el acuerdo de coordinación correspondiente. Lo anterior, sin perjuicio de la continuidad de la atención de las familias no aseguradas que deberá establecerse en el respectivo acuerdo de coordinación. Los recursos necesarios para dar continuidad a dicha atención serán calculados, sólo para efectos de referencia, con base en lo dispuesto en el artículo 30 de la Ley de Coordinación Fiscal, una vez descontados los recursos federales que se destinarán para financiar a las familias que se incorporen al Sistema.
-DÉCIMO TERCERO. Para los efectos de los artículos 77 Bis 13 y 77 Bis 20 de la Ley, la Secretaría de Salud determinará como punto de partida para el primer cálculo, qué montos del Fondo de Aportaciones para los Servicios de Salud a que se refiere la Ley de Coordinación Fiscal se destinó en el ejercicio fiscal de 2003 para la prestación de servicios de salud a la persona y para la prestación de servicios de salud a la comunidad, respectivamente.
-DÉCIMO CUARTO. En un plazo que no excederá de noventa días contados a partir de la entrada en vigor de este Decreto, la Federación deberá emitir las reglas a que se sujetará el Fondo de Protección contra Gastos Catastróficos a que se refiere el artículo 77 Bis 29.
+**DÉCIMO TERCERO.** Para los efectos de los artículos 77 Bis 13 y 77 Bis 20 de la Ley, la Secretaría de Salud determinará como punto de partida para el primer cálculo, qué montos del Fondo de Aportaciones para los Servicios de Salud a que se refiere la Ley de Coordinación Fiscal se destinó en el ejercicio fiscal de 2003 para la prestación de servicios de salud a la persona y para la prestación de servicios de salud a la comunidad, respectivamente.
+**DÉCIMO CUARTO.** En un plazo que no excederá de noventa días contados a partir de la entrada en vigor de este Decreto, la Federación deberá emitir las reglas a que se sujetará el Fondo de Protección contra Gastos Catastróficos a que se refiere el artículo 77 Bis 29.
 Para los efectos de dicho artículo, el fondo incluirá a la entrada en vigor de este Decreto, las siguientes categorías:
 
 I. El diagnóstico y tratamiento del Cáncer, problemas cardiovasculares, enfermedades cerebrovasculares, lesiones graves, rehabilitación de largo plazo, VIH/SIDA, y
 
 II. Cuidados intensivos neonatales, trasplantes y diálisis.
 El Consejo de Salubridad General actualizará periódicamente estas categorías con base en los criterios establecidos en el artículo 77 Bis 29 de la Ley.
-DÉCIMO QUINTO. El Ejecutivo Federal deberá emitir el Reglamento del Consejo Nacional de Protección Social en Salud a que se refiere el artículo 77 Bis 33, en un plazo que no excederá de noventa días contados a partir de la entrada en vigor del presente Decreto.
-DÉCIMO SEXTO. Derogado Artículo derogado DOF 15-01-2026 DÉCIMO SÉPTIMO. Para los efectos de la primera integración del Consejo Nacional de Protección Social en Salud a que se refiere el artículo 77 Bis 33, se invitará a los titulares de los servicios estatales de salud de las cinco primeras entidades federativas en suscribir el acuerdo de coordinación para su integración al Sistema de Protección Social en Salud, a que se refiere el artículo 77 Bis 6 de la Ley.
-DÉCIMO OCTAVO. El Ejecutivo Federal deberá emitir el reglamento interno de la Comisión Nacional del Sistema de Protección Social en Salud a que se refiere el artículo 77 Bis 35, en un plazo que no excederá de sesenta días a partir de la entrada en vigor del presente Decreto.
-DÉCIMO NOVENO. La Secretaría de Salud dispondrá lo necesario para dar continuidad a las acciones derivadas del Programa de Salud para Todos en los mismos términos en que se ha desarrollado a la fecha, hasta en tanto se encuentre en operación plena la ejecución del presente Decreto de reformas.
-VIGÉSIMO. El Congreso de la Unión en uso de sus facultades legales, podrá a través de sus órganos dar seguimiento al cumplimiento de las normas aprobadas en el presente Decreto.
-VIGÉSIMO PRIMERO. El Programa de Desarrollo Humano Oportunidades, continuará operando conforme al modelo de atención establecido en sus reglas de operación. La Secretaría de Desarrollo Social administrará el padrón de beneficiarios de este Programa, y para su operación se coordinará con la Secretaría de Salud, a fin de evitar duplicidades administrativas.
+**DÉCIMO QUINTO.** El Ejecutivo Federal deberá emitir el Reglamento del Consejo Nacional de Protección Social en Salud a que se refiere el artículo 77 Bis 33, en un plazo que no excederá de noventa días contados a partir de la entrada en vigor del presente Decreto.
+**DÉCIMO SEXTO.** Derogado Artículo derogado DOF 15-01-2026
+**DÉCIMO SÉPTIMO.** Para los efectos de la primera integración del Consejo Nacional de Protección Social en Salud a que se refiere el artículo 77 Bis 33, se invitará a los titulares de los servicios estatales de salud de las cinco primeras entidades federativas en suscribir el acuerdo de coordinación para su integración al Sistema de Protección Social en Salud, a que se refiere el artículo 77 Bis 6 de la Ley.
+**DÉCIMO OCTAVO.** El Ejecutivo Federal deberá emitir el reglamento interno de la Comisión Nacional del Sistema de Protección Social en Salud a que se refiere el artículo 77 Bis 35, en un plazo que no excederá de sesenta días a partir de la entrada en vigor del presente Decreto.
+**DÉCIMO NOVENO.** La Secretaría de Salud dispondrá lo necesario para dar continuidad a las acciones derivadas del Programa de Salud para Todos en los mismos términos en que se ha desarrollado a la fecha, hasta en tanto se encuentre en operación plena la ejecución del presente Decreto de reformas.
+**VIGÉSIMO.** El Congreso de la Unión en uso de sus facultades legales, podrá a través de sus órganos dar seguimiento al cumplimiento de las normas aprobadas en el presente Decreto.
+**VIGÉSIMO PRIMERO.** El Programa de Desarrollo Humano Oportunidades, continuará operando conforme al modelo de atención establecido en sus reglas de operación. La Secretaría de Desarrollo Social administrará el padrón de beneficiarios de este Programa, y para su operación se coordinará con la Secretaría de Salud, a fin de evitar duplicidades administrativas.
 México, D.F., a 29 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de mayo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforma el artículo 260 de la Ley General de Salud, con relación a los responsables sanitarios en farmacias y boticas.
@@ -6273,7 +6232,8 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ### Artículo Único
 Se reforma la fracción IV del artículo 260 de la Ley General de Salud, para quedar como sigue: ..........
-ARTÍCULO TRANSITORIO Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+ARTÍCULO TRANSITORIO
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 30 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretaria.- Sen. Lydia Madero García, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforman los artículos 114, 115 fracción IV, 210 y 212 de la Ley General de Salud.
@@ -6485,11 +6445,9 @@ Se reforman los Artículos 10, párrafo primero; 11, párrafo primero y la fracc
 ### Artículo Único
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 26 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Micaela Aguilar González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de septiembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-DECRETO por el que se reforman los artículos 419, 420, 421 y 422; y se adiciona un
-
-### artículo 421-bis
-, todos de la Ley General de Salud.
-Publicado en el Diario Oficial de la Federación el 18 de enero de 2007 ÚNICO. Se reforman los artículos 419, 420, 421 y 422, y se adiciona el artículo 421-bis, todos de la Ley General de Salud, para quedar como sigue: ..........
+DECRETO por el que se reforman los artículos 419, 420, 421 y 422; y se adiciona un artículo 421-bis, todos de la Ley General de Salud.
+Publicado en el Diario Oficial de la Federación el 18 de enero de 2007
+**ÚNICO.** Se reforman los artículos 419, 420, 421 y 422, y se adiciona el artículo 421-bis, todos de la Ley General de Salud, para quedar como sigue: ..........
 
 ## TRANSITORIO
 
@@ -6535,11 +6493,8 @@ Se adiciona un segundo párrafo al artículo 271 de la Ley General de Salud, par
 
 ## TRANSITORIOS
 
-**Primero.-** La Secretaría de Salud deberá emitir el Reglamento a que se refiere el párrafo segundo del
-
-### Artículo 271
-en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto.
-Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Primero.-** La Secretaría de Salud deberá emitir el Reglamento a que se refiere el párrafo segundo del Artículo 271 en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto.
+**Segundo.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 26 de abril de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 DECRETO por el que se adiciona una fracción VI al artículo 198 de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2007
@@ -6615,10 +6570,7 @@ DECRETO por el que se reforma y adiciona la Ley General de Salud en Materia de C
 Publicado en el Diario Oficial de la Federación el 5 de enero de 2009
 
 ### Artículo Primero
-Se reforma la fracción I del inciso B del artículo 13; la fracción III del artículo 27; el
-
-### artículo 59
-; la fracción III del artículo 112, y el artículo 421 bis; se adiciona la fracción XXX recorriéndose las demás al artículo 3o., y la fracción IV al artículo 33, todos de la Ley General de Salud, para quedar como sigue: ……….
+Se reforma la fracción I del inciso B del artículo 13; la fracción III del artículo 27; el artículo 59; la fracción III del artículo 112, y el artículo 421 bis; se adiciona la fracción XXX recorriéndose las demás al artículo 3o., y la fracción IV al artículo 33, todos de la Ley General de Salud, para quedar como sigue: ……….
 
 ### Artículo Segundo
 Se crea un Título Octavo Bis denominado “De los Cuidados Paliativos a los Enfermos en Situación Terminal”.
@@ -6680,10 +6632,7 @@ DECRETO por el que se reforma, adiciona y deroga diversas disposiciones de la Le
 Publicado en el Diario Oficial de la Federación el 11 de junio de 2009
 
 ### Artículo Único
-Se reforman los artículos 17 bis, fracción VIII; 313; 314, fracciones VI, XIII y XIV; 316; 329, primer párrafo; 336; 338, fracciones IV y V; 339; 343; 344; 345; se adicionan las fracciones XV, XVI y XVII al artículo 314; un tercero y quinto párrafos, recorriéndose el actual tercero para pasar a ser cuarto al
-
-### artículo 322
-; un tercer párrafo al artículo 337; un artículo 341 Bis, y se deroga la fracción VII del artículo 314 de la Ley de General de Salud, para quedar como sigue: ……….
+Se reforman los artículos 17 bis, fracción VIII; 313; 314, fracciones VI, XIII y XIV; 316; 329, primer párrafo; 336; 338, fracciones IV y V; 339; 343; 344; 345; se adicionan las fracciones XV, XVI y XVII al artículo 314; un tercero y quinto párrafos, recorriéndose el actual tercero para pasar a ser cuarto al artículo 322; un tercer párrafo al artículo 337; un artículo 341 Bis, y se deroga la fracción VII del artículo 314 de la Ley de General de Salud, para quedar como sigue: ……….
 
 ## Transitorios
 
@@ -6826,10 +6775,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2011
 
 ### ARTÍCULO ÚNICO
-Se reforman las fracciones I, II y III del artículo 313; las fracciones X, XVI y XVII del artículo 314; el segundo párrafo del artículo 316; el primer párrafo del artículo 322; el primer párrafo y la fracción II del artículo 323; el primer párrafo del artículo 324; el artículo 328; el artículo 329; el artículo 331; la fracción V del artículo 333; la fracción I y II del artículo 334; los artículos 338 y 339; el artículo 350 Bis 7; el artículo 462, y el primer párrafo del artículo 462 Bis; y se adicionan las fracciones IV y V del
-
-### artículo 313
-; las fracciones XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 314; los artículos 314 Bis, 314 Bis 1, 314 Bis 2, 316 Bis, 316 Bis 1, 329 Bis; los párrafos segundo, tercero y cuarto del artículo 333; la fracción II Bis del artículo 334; los artículos 335 Bis y 335 Bis 1; los artículos 342 Bis, 342 Bis 1 y 342 Bis 2, y un tercer párrafo al artículo 462 Bis, todos de la Ley General de Salud, para quedar como sigue: ………..
+Se reforman las fracciones I, II y III del artículo 313; las fracciones X, XVI y XVII del artículo 314; el segundo párrafo del artículo 316; el primer párrafo del artículo 322; el primer párrafo y la fracción II del artículo 323; el primer párrafo del artículo 324; el artículo 328; el artículo 329; el artículo 331; la fracción V del artículo 333; la fracción I y II del artículo 334; los artículos 338 y 339; el artículo 350 Bis 7; el artículo 462, y el primer párrafo del artículo 462 Bis; y se adicionan las fracciones IV y V del artículo 313; las fracciones XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 314; los artículos 314 Bis, 314 Bis 1, 314 Bis 2, 316 Bis, 316 Bis 1, 329 Bis; los párrafos segundo, tercero y cuarto del artículo 333; la fracción II Bis del artículo 334; los artículos 335 Bis y 335 Bis 1; los artículos 342 Bis, 342 Bis 1 y 342 Bis 2, y un tercer párrafo al artículo 462 Bis, todos de la Ley General de Salud, para quedar como sigue: ………..
 
 ## TRANSITORIOS
 
@@ -6859,10 +6805,7 @@ En un lapso que no excederá de noventa días naturales, la Secretaría de Salud
 ### ARTÍCULO TERCERO
 Por lo que se refiere a los establecimientos del sector público, la creación y funcionamiento de los comités a que se refiere el presente Decreto se sujetarán a los recursos humanos, materiales y financieros de dichos establecimientos, así como a la disponibilidad presupuestaria aprobada para tales efectos en el ejercicio fiscal correspondiente.
 México, D.F., a 3 de noviembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Arturo Herviz Reyes, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de diciembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
-DECRETO por el que se adiciona una fracción VII, recorriéndose la actual para ser VIII, al
-
-### artículo 100
-de la Ley General de Salud.
+DECRETO por el que se adiciona una fracción VII, recorriéndose la actual para ser VIII, al artículo 100 de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 14 de diciembre de 2011
 
 ### Artículo Único
@@ -6962,10 +6905,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Fede
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2012
 
 ### Artículo Segundo
-Se reforma la fracción VI del artículo 17 Bis y se adiciona un párrafo segundo al
-
-### artículo 197
-de la Ley General de Salud, para quedar como sigue: ……….
+Se reforma la fracción VI del artículo 17 Bis y se adiciona un párrafo segundo al artículo 197 de la Ley General de Salud, para quedar como sigue: ……….
 
 ## Transitorios
 
@@ -7006,10 +6946,7 @@ Se reforma la fracción I del artículo 2°., de la Ley General de Salud, para q
 
 **ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 18 de diciembre de 2012.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Tanya Rellstab Carreto, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a siete de enero de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se adicionan una fracción IX al artículo 6o., y una fracción VIII bis al
-
-### artículo 7o
-., de la Ley General de Salud.
+DECRETO por el que se adicionan una fracción IX al artículo 6o., y una fracción VIII bis al artículo 7o., de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2013
 
 ### ARTÍCULO ÚNICO
@@ -7065,10 +7002,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 8 de abril de 2013
 
 ### ARTÍCULO ÚNICO
-Se reforma la fracción III del artículo 111; y se adicionan una fracción III Bis al
-
-### artículo 118
-y una fracción I Bis al artículo 119 de la Ley General de Salud, para quedar como sigue: ………..
+Se reforma la fracción III del artículo 111; y se adicionan una fracción III Bis al artículo 118 y una fracción I Bis al artículo 119 de la Ley General de Salud, para quedar como sigue: ………..
 
 ## TRANSITORIOS
 
@@ -7285,10 +7219,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 20 de abril de 2015
 
 ### Artículo Único
-Se reforman los artículos: 112, fracción III; 313, fracciones I y V; 314, fracciones I Bis, XIII, XXVI y XXVII; 315; 316 Bis 1; el segundo párrafo del 317; el párrafo quinto del 322; la fracción II del 323; 327; el primer párrafo del 329 Bis; las fracciones I y IV y los párrafos segundo y tercero del 338; el segundo párrafo del 339; 341 y 341 Bis; y se adicionan las fracciones XII Bis, XII Bis 1, XIV Bis y XXVIII al artículo 314; un tercer párrafo al artículo 317; el Capítulo III Bis al Título Décimo Cuarto, tres párrafos al
-
-### artículo 342
-Bis 1; un segundo párrafo al artículo 342 Bis 2, los artículos 342 Bis 3, 460 Bis y una fracción VII al artículo 462, todos de la Ley General de Salud, para quedar como sigue: ……….
+Se reforman los artículos: 112, fracción III; 313, fracciones I y V; 314, fracciones I Bis, XIII, XXVI y XXVII; 315; 316 Bis 1; el segundo párrafo del 317; el párrafo quinto del 322; la fracción II del 323; 327; el primer párrafo del 329 Bis; las fracciones I y IV y los párrafos segundo y tercero del 338; el segundo párrafo del 339; 341 y 341 Bis; y se adicionan las fracciones XII Bis, XII Bis 1, XIV Bis y XXVIII al artículo 314; un tercer párrafo al artículo 317; el Capítulo III Bis al Título Décimo Cuarto, tres párrafos al artículo 342 Bis 1; un segundo párrafo al artículo 342 Bis 2, los artículos 342 Bis 3, 460 Bis y una fracción VII al artículo 462, todos de la Ley General de Salud, para quedar como sigue: ……….
 
 ## Transitorios
 
@@ -7385,10 +7316,7 @@ Se reforma la fracción II Bis del artículo 64 de la Ley General de Salud, para
 **Segundo.-** En un plazo que no excederá de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud establecerá la normatividad para la instalación y funcionamiento de los bancos de leche humana.
 Asimismo, las acciones que deban realizar las entidades federativas para dar cumplimiento a lo dispuesto en el presente Decreto, en términos de la normatividad que la Secretaría de Salud emita para tal efecto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en sus presupuestos.
 Ciudad de México, a 31 de marzo de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a cuatro de mayo de dos mil dieciséis.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-DECRETO por el que se adiciona una fracción XII al artículo 6o. y un tercer párrafo al
-
-### artículo 66
-de la Ley General de Salud, en materia de Acoso y Violencia Escolar.
+DECRETO por el que se adiciona una fracción XII al artículo 6o. y un tercer párrafo al artículo 66 de la Ley General de Salud, en materia de Acoso y Violencia Escolar.
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
 
 ### Artículo Único
@@ -7491,10 +7419,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 19 de junio de 2017
 
 ### Artículo Único
-Se reforma el artículo 144; primer párrafo y fracciones III y IV del artículo 408; el
-
-### artículo 420
-; y se adicionan las fracciones V y VI y último párrafo del artículo 408; un Capítulo II Bis, al Título Octavo, que comprende los artículos 157 Bis 1 a 157 Bis 16 y un artículo 462 Bis 1 de la Ley General de Salud, para quedar como sigue: ……..
+Se reforma el artículo 144; primer párrafo y fracciones III y IV del artículo 408; el artículo 420; y se adicionan las fracciones V y VI y último párrafo del artículo 408; un Capítulo II Bis, al Título Octavo, que comprende los artículos 157 Bis 1 a 157 Bis 16 y un artículo 462 Bis 1 de la Ley General de Salud, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -7509,10 +7434,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 22 de junio de 2017
 
 ### Artículo Único
-Se adicionan una fracción XVI Bis al artículo 3o.; una fracción X Bis al artículo 7o.; y un capítulo III Bis al Título Octavo denominado “Del Registro Nacional de Cáncer” que comprende el
-
-### artículo 161
-Bis de la Ley General de Salud, para quedar como sigue: ……….
+Se adicionan una fracción XVI Bis al artículo 3o.; una fracción X Bis al artículo 7o.; y un capítulo III Bis al Título Octavo denominado “Del Registro Nacional de Cáncer” que comprende el artículo 161 Bis de la Ley General de Salud, para quedar como sigue: ……….
 
 ## Transitorios
 
@@ -7546,18 +7468,15 @@ La Comisión Nacional de Búsqueda deberá brindar la asesoría necesaria a las 
 En un plazo de treinta días posteriores a su conformación el Consejo Ciudadano deberá emitir sus reglas de funcionamiento.
 **Sexto.** El Sistema Nacional de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
 En la primera sesión ordinaria del Sistema Nacional de Búsqueda, se deberán emitir los lineamientos y modelos a que se refiere el artículo 49, fracciones I, VIII, XV y XVI de esta Ley.
-En la segunda sesión ordinaria del Sistema Nacional de Búsqueda, que se lleve conforme a lo dispuesto por esta Ley, se deberán emitir los criterios de certificación y especialización previstos en el
-
-### artículo 55
-.
-Séptimo. Dentro de los ciento ochenta días siguientes a la emisión de los lineamientos previstos en el artículo transitorio anterior, la Comisión Nacional de Búsqueda deberá contar con la infraestructura tecnológica necesaria y comenzar a operar el Registro Nacional de Personas Desaparecidas y No Localizadas.
+En la segunda sesión ordinaria del Sistema Nacional de Búsqueda, que se lleve conforme a lo dispuesto por esta Ley, se deberán emitir los criterios de certificación y especialización previstos en el artículo 55.
+**Séptimo.** Dentro de los ciento ochenta días siguientes a la emisión de los lineamientos previstos en el artículo transitorio anterior, la Comisión Nacional de Búsqueda deberá contar con la infraestructura tecnológica necesaria y comenzar a operar el Registro Nacional de Personas Desaparecidas y No Localizadas.
 Dentro de los noventa días siguientes a que comience la operación del Registro Nacional de Personas Desaparecidas y No Localizadas, las Entidades Federativas deberán poner en marcha sus registros de Personas Desaparecidas y No Localizadas.
-Octavo. En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, las Procuradurías Locales deberán incorporar en un registro provisional, electrónico o impreso, la información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106 de esta Ley.
+**Octavo.** En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, las Procuradurías Locales deberán incorporar en un registro provisional, electrónico o impreso, la información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106 de esta Ley.
 La Federación y las Entidades Federativas deberán migrar la información contenida en los registros provisionales a que se refiere el párrafo anterior, dentro de los quince días siguientes a que comiencen a operar los registros de Personas Desaparecidas y No Localizadas.
-Noveno. El Congreso de la Unión deberá legislar en materia de Declaración Especial de Ausencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
+**Noveno.** El Congreso de la Unión deberá legislar en materia de Declaración Especial de Ausencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
 Las Entidades Federativas deberán emitir y, en su caso, armonizar la legislación que corresponda a su ámbito de competencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
 En aquellas Entidades Federativas en las que no se haya llevado a cabo la armonización prevista en el Capítulo Tercero del Título Cuarto de esta Ley, dentro del plazo señalado en el párrafo anterior, resultarán aplicables las disposiciones del referido Capítulo no obstante lo previsto en la legislación local aplicable.
-Décimo. A partir de la entrada en vigor de este Decreto, para el caso en que las disposiciones contenidas en el mismo contemplen la descripción legal de conductas previstas en otras normas como delitos y por virtud de la presente Ley se denominan, tipifican, penalizan o agravan de forma diversa, siempre y cuando la conducta y los hechos correspondan a la descripción que ahora se establece, se estará a lo siguiente:
+**Décimo.** A partir de la entrada en vigor de este Decreto, para el caso en que las disposiciones contenidas en el mismo contemplen la descripción legal de conductas previstas en otras normas como delitos y por virtud de la presente Ley se denominan, tipifican, penalizan o agravan de forma diversa, siempre y cuando la conducta y los hechos correspondan a la descripción que ahora se establece, se estará a lo siguiente:
 
 I. En los casos de hechos que constituyan alguno de los delitos de esta Ley, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la presente Ley;
 
@@ -7570,8 +7489,8 @@ IV. En los procesos iniciados conforme al sistema acusatorio adversarial, en los
 V. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal que corresponda, podrá efectuar la traslación del tipo de conformidad con la conducta que se haya probado, incluyendo sus modalidades, sin exceder el monto de las penas señaladas en la respectiva ley vigente al momento de la comisión de los hechos, y
 
 VI. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, según las modalidades correspondientes.
-Décimo Primero. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
-Décimo Segundo. Dentro de los treinta días siguientes a la creación de la Comisión Nacional de Búsqueda, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública le transferirá las herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
+**Décimo Primero.** El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
+**Décimo Segundo.** Dentro de los treinta días siguientes a la creación de la Comisión Nacional de Búsqueda, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública le transferirá las herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
 Dentro de los noventa días siguientes a que reciba la información a que se refiere el párrafo anterior, la Comisión Nacional de Búsqueda deberá transmitir a las Fiscalías Especializadas la información de las Personas Desaparecidas o No Localizadas que correspondan al ámbito de su competencia.
 Las Fiscalías Especializadas deberán actualizar el contenido del Registro Nacional, conforme a lo siguiente:
 
@@ -7582,19 +7501,19 @@ II. En términos de la fracción anterior, las Fiscalías Especializadas que est
 III. Una vez actualizada la información, la Comisión Nacional de Búsqueda deberá ingresarla al registro que corresponda, a excepción de que la actualización revele que la persona fue localizada, en cuyo caso, se asentará en el Registro Nacional de Personas Desaparecidas, y
 
 IV. Al haberse realizado la acción prevista en la fracción II de este artículo, de no haberse actualizado el registro, la Fiscalía Especializada que corresponda estará materialmente imposibilitada para actualizarlo. En este supuesto, el registro permanecerá con la anotación de actualización pendiente y será migrado, con ese carácter, al registro que corresponda.
-Décimo Tercero. El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las Entidades Federativas comenzarán a operar dentro del año siguiente a la entrada en vigor del presente Decreto.
+**Décimo Tercero.** El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las Entidades Federativas comenzarán a operar dentro del año siguiente a la entrada en vigor del presente Decreto.
 Dentro de los tres meses siguientes a que inicie la operación de dichos registros, las autoridades que posean información forense deberán incorporarla al registro que corresponda.
-Décimo Cuarto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el Protocolo Homologado de Investigación a que se refiere el artículo 99 de esta Ley.
-Décimo Quinto. Las autoridades e instituciones que recaban la información a que se refiere el artículo 103 la deberán incorporar en un plazo de un año a partir de la entrada en vigor del presente Decreto.
-Décimo Sexto. En las Entidades Federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas competentes de la Entidad Federativa deberán brindar la atención a Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.
-Décimo Séptimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades paraestatales de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
+**Décimo Cuarto.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el Protocolo Homologado de Investigación a que se refiere el artículo 99 de esta Ley.
+**Décimo Quinto.** Las autoridades e instituciones que recaban la información a que se refiere el artículo 103 la deberán incorporar en un plazo de un año a partir de la entrada en vigor del presente Decreto.
+**Décimo Sexto.** En las Entidades Federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas competentes de la Entidad Federativa deberán brindar la atención a Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.
+**Décimo Séptimo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades paraestatales de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
 Las Legislaturas de las Entidades Federativas, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
-Décimo Octavo. Los lineamientos para determinar las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres o restos de personas a que refiere el artículo 130 de esta Ley deberán ser publicados en el Diario Oficial de la Federación dentro del plazo de ciento ochenta días a partir de la entrada en vigor de la presente Ley.
-Décimo Noveno. La Procuraduría General de la República debe emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Nacional de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, conforme a lo previsto en los artículos 131, fracción III y 132, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
+**Décimo Octavo.** Los lineamientos para determinar las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres o restos de personas a que refiere el artículo 130 de esta Ley deberán ser publicados en el Diario Oficial de la Federación dentro del plazo de ciento ochenta días a partir de la entrada en vigor de la presente Ley.
+**Décimo Noveno.** La Procuraduría General de la República debe emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Nacional de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, conforme a lo previsto en los artículos 131, fracción III y 132, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
 Dentro del plazo previsto en el párrafo anterior la Procuraduría General de la República emitirá los lineamientos necesarios para que las autoridades de los distintos órdenes de gobierno remitan en forma homologada la información que será integrada al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas y al Banco Nacional de Datos Forenses previstos en la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
-Vigésimo. En tanto las Entidades Federativas se encuentren en la integración de sus Comisiones de Búsqueda, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría de Gobierno de cada entidad.
+**Vigésimo.** En tanto las Entidades Federativas se encuentren en la integración de sus Comisiones de Búsqueda, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría de Gobierno de cada entidad.
 Asimismo, las Entidades Federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
-Vigésimo Primero. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.
+**Vigésimo Primero.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.
 Ciudad de México, a 12 de octubre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de noviembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforma el primer párrafo del artículo 79 de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 8 de diciembre de 2017
@@ -7885,10 +7804,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 30 de marzo de 2022
 
 ### Artículo Único
-Se reforma el primer párrafo del artículo 225 y se adiciona un tercer párrafo al
-
-### artículo 226
-y el artículo 226 Bis 1 de la Ley General de Salud, para quedar como sigue: ………
+Se reforma el primer párrafo del artículo 225 y se adiciona un tercer párrafo al artículo 226 y el artículo 226 Bis 1 de la Ley General de Salud, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -8017,19 +7933,13 @@ Se reforman el segundo, actuales tercero, cuarto y séptimo párrafos y las frac
 **Segundo.** Para dar cumplimiento a lo previsto en el presente Decreto, quedarán sin efectos los Acuerdos de Coordinación para la Descentralización Integral de los Servicios de Salud en aquellas entidades federativas que hayan suscrito o que suscriban el Convenio de Coordinación con Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) a que se refieren los artículos 77 bis 6 y 77 bis 16 A de la Ley General de Salud.
 **Tercero.** Por lo que respecta al ejercicio fiscal 2024, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) a más tardar el 31 de marzo de 2024 deberá realizar las conciliaciones respectivas, contar con la opinión de la Secretaría de Hacienda y Crédito Público, y modificar los convenios de coordinación que haya suscrito en el ejercicio fiscal 2023 con las entidades federativas en términos del artículo 77 bis 16 A de la Ley General de Salud, a efecto de adecuarlos a lo previsto en el presente Decreto. Una vez modificados dichos convenios, deberá gestionar en términos de las disposiciones aplicables ante la Secretaría de Salud y la Secretaría de Hacienda y Crédito Público las adecuaciones presupuestarias respectivas con objeto de llevar a cabo el traspaso de recursos que correspondan del Ramo General 33 a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), quedando la Secretaría de Hacienda y Crédito Público facultada para autorizar las adecuaciones correspondientes.
 En este caso, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSSBIENESTAR), será responsable del ejercicio, administración, aplicación, comprobación, transparencia, y rendición de cuentas de estos recursos.
-**Cuarto.** Las entidades federativas que suscriban los convenios de coordinación a que se refiere el
-
-### artículo 77
-bis 16 A de la Ley General de Salud continuarán recibiendo los recursos del Fondo de Aportaciones para los Servicios de Salud vinculados a los trabajadores que cuenten con regímenes de seguridad social no compatibles con la Ley del Seguro Social y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Las entidades federativas deberán transferir dichos recursos junto con los rendimientos financieros que se hayan generado, al fideicomiso público sin estructura orgánica a que hace mención el artículo 77 bis 29 de la Ley General de Salud dentro de los cinco días hábiles contados a partir del día hábil siguiente al que los reciban por parte de la Secretaría de Hacienda y Crédito Público, lo anterior para efectos de lo previsto en el artículo 49, segundo párrafo, de la Ley de Coordinación Fiscal. Dichos recursos deberán encontrarse identificados en el Fondo referido en subcuentas individuales correspondientes a cada entidad federativa.
+**Cuarto.** Las entidades federativas que suscriban los convenios de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud continuarán recibiendo los recursos del Fondo de Aportaciones para los Servicios de Salud vinculados a los trabajadores que cuenten con regímenes de seguridad social no compatibles con la Ley del Seguro Social y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Las entidades federativas deberán transferir dichos recursos junto con los rendimientos financieros que se hayan generado, al fideicomiso público sin estructura orgánica a que hace mención el artículo 77 bis 29 de la Ley General de Salud dentro de los cinco días hábiles contados a partir del día hábil siguiente al que los reciban por parte de la Secretaría de Hacienda y Crédito Público, lo anterior para efectos de lo previsto en el artículo 49, segundo párrafo, de la Ley de Coordinación Fiscal. Dichos recursos deberán encontrarse identificados en el Fondo referido en subcuentas individuales correspondientes a cada entidad federativa.
 Las entidades federativas comprobarán el ejercicio de los recursos del Fondo de Aportaciones para los Servicios de Salud y de los intereses respectivos que sean entregados en términos del párrafo anterior, con la documentación que acredite la aportación de los mismos al fideicomiso antes referido, lo anterior, para efectos de lo establecido en la Ley de Coordinación Fiscal, en la Ley General de Contabilidad Gubernamental, y en las demás disposiciones aplicables.
-Quinto. En términos de los convenios de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud, las entidades federativas continuarán entregando los recursos propios para la prestación de los servicios de salud al Fondo de Salud para el Bienestar.
-Sexto. Se faculta a la Secretaría de Hacienda y Crédito Público para realizar las modificaciones que resulten necesarias a los calendarios de gasto a que se refiere el artículo 44, último párrafo de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para dar cumplimiento a lo establecido en el presente Decreto.
-Séptimo. Los derechos laborales individuales de los trabajadores que con motivo del presente Decreto se transfieran a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) serán respetados en términos de las disposiciones aplicables.
-Octavo. Se faculta a las Dependencias y Entidades de la Administración Pública Federal para que en los ejercicios fiscales subsecuentes realice las adecuaciones presupuestarias necesarias en términos de las disposiciones aplicables, para que los recursos que correspondan del Ramo General 33 se traspasen a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en aquellos casos en que una entidad federativa suscriba el convenio de coordinación a que se refiere el
-
-### artículo 77
-bis 16 A de la Ley General de Salud con fecha posterior a la entrada en vigor del presente Decreto.
-Noveno. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado de los ejecutores de gasto que correspondan.
+**Quinto.** En términos de los convenios de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud, las entidades federativas continuarán entregando los recursos propios para la prestación de los servicios de salud al Fondo de Salud para el Bienestar.
+**Sexto.** Se faculta a la Secretaría de Hacienda y Crédito Público para realizar las modificaciones que resulten necesarias a los calendarios de gasto a que se refiere el artículo 44, último párrafo de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para dar cumplimiento a lo establecido en el presente Decreto.
+**Séptimo.** Los derechos laborales individuales de los trabajadores que con motivo del presente Decreto se transfieran a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) serán respetados en términos de las disposiciones aplicables.
+**Octavo.** Se faculta a las Dependencias y Entidades de la Administración Pública Federal para que en los ejercicios fiscales subsecuentes realice las adecuaciones presupuestarias necesarias en términos de las disposiciones aplicables, para que los recursos que correspondan del Ramo General 33 se traspasen a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en aquellos casos en que una entidad federativa suscriba el convenio de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud con fecha posterior a la entrada en vigor del presente Decreto.
+**Noveno.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado de los ejecutores de gasto que correspondan.
 Ciudad de México, a 12 de diciembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip.
 Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Brenda Espinoza Lopez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Salud, en materia de partería tradicional.
@@ -8052,10 +7962,7 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024 Artículo
 ## Transitorio
 
 **Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-### artículo 465
-Ter a la Ley General de Salud.
+Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica. artículo 465 Ter a la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
 
 ### Artículo Segundo
@@ -8070,10 +7977,7 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 ### Artículo Sexto
-Se reforman los artículos 6o., fracción XII; 7o., actual fracción XV; 35, primer párrafo; 36, cuarto párrafo; 70, segundo párrafo; 73, primer párrafo; y se adicionan un segundo párrafo al
-
-### artículo 2o
-. y una fracción XV al artículo 7o., de la Ley General de Salud, para quedar como sigue: …….
+Se reforman los artículos 6o., fracción XII; 7o., actual fracción XV; 35, primer párrafo; 36, cuarto párrafo; 70, segundo párrafo; 73, primer párrafo; y se adicionan un segundo párrafo al artículo 2o. y una fracción XV al artículo 7o., de la Ley General de Salud, para quedar como sigue: …….
 
 ## Transitorios
 

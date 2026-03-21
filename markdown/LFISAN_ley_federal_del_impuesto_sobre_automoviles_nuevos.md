@@ -80,10 +80,7 @@ Fracción adicionada DOF 30-11-2016
 I.- Se envíe al adquirente. A falta de envío, al entregarse materialmente el automóvil.
 Il.- Se pague parcial o totalmente el precio.
 Ill.- Se expida el comprobante de la enajenación.
-IV.- Al incorporarse al activo fijo o al transcurrir el plazo de un año a que se refiere el primer párrafo del
-
-### artículo 6o
-. de esta Ley.
+IV.- Al incorporarse al activo fijo o al transcurrir el plazo de un año a que se refiere el primer párrafo del artículo 6o. de esta Ley.
 
 ### Artículo 10
 . Tratándose de automóviles importados en definitiva por personas distintas al fabricante, al ensamblador, a sus distribuidores autorizados o a los comerciantes en el ramo de vehículos, el impuesto a que se refiere esta Ley, deberá pagarse en la aduana mediante declaración, conjuntamente con el impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los automóviles en depósito fiscal en almacenes generales de depósito. No podrán retirarse los automóviles de la aduana, recinto fiscal o fiscalizado, sin que previamente se haya realizado el pago que corresponda conforme a esta Ley.
@@ -208,10 +205,7 @@ En el ejercicio fiscal de 2007, el fondo previsto en el artículo 14 de la Ley F
 Disposición transitoria de la Ley Federal del Impuesto sobre Automóviles Nuevos
 
 ### ARTÍCULO DÉCIMO PRIMERO
-Para los efectos de lo dispuesto por los párrafos primero y cuarto del
-
-### artículo 14
-de la Ley Federal del Impuesto sobre Automóviles Nuevos, la cantidad vigente a partir del 1 de enero de 2007 conforme a lo dispuesto por el Artículo Noveno del presente Decreto, se entiende que se encuentra actualizada a la fecha mencionada.
+Para los efectos de lo dispuesto por los párrafos primero y cuarto del artículo 14 de la Ley Federal del Impuesto sobre Automóviles Nuevos, la cantidad vigente a partir del 1 de enero de 2007 conforme a lo dispuesto por el Artículo Noveno del presente Decreto, se entiende que se encuentra actualizada a la fecha mencionada.
 
 ## Transitorios
 

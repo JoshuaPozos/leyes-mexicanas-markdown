@@ -242,10 +242,7 @@ Artículo reformado DOF 16-10-1937, 01-11-1937
 .- Si un miembro de alguna de las Cámaras se enfermase de gravedad, el Presidente respectivo nombrará una comisión de dos individuos que lo visite cuantas veces crea oportuno y dé cuenta de su estado. En caso de que el enfermo falleciese, se imprimirán y distribuirán esquelas a nombre del Presidente de la Cámara y se nombrará una Comisión de seis individuos para que asista a sus funerales, siempre que éstos se verifiquen en el lugar de la residencia del Congreso. Si el diputado o senador falleciere en un lugar fuera de la capital, el Presidente de la Cámara suplicará a alguna autoridad del lugar, que asista a los funerales o designe representante que lo haga. En los recesos del Congreso, corresponde a la Comisión Permanente cumplir con todo lo anterior. Los gastos de funerales serán cubiertos por el tesoro de la Cámara, de acuerdo con lo que establece el artículo 204 de este Reglamento.
 
 ### Artículo 53
-.- Los Secretarios del Despacho, los Jefes de los Departamentos Administrativos, los Directores y Administradores de los Organismos Descentralizados Federales o de las Empresas de Participación Estatal Mayoritaria, asistirán a las sesiones siempre que fueren enviados por el Presidente de la República o llamados por acuerdo de la Cámara, en los términos que dispone la segunda parte del
-
-### Artículo 93
-de la Constitución sin perjuicio de la libertad que tienen de asistir, cuando quisieren, a las sesiones y, si se discute un asunto de su Dependencia, tomar parte en el debate.
+.- Los Secretarios del Despacho, los Jefes de los Departamentos Administrativos, los Directores y Administradores de los Organismos Descentralizados Federales o de las Empresas de Participación Estatal Mayoritaria, asistirán a las sesiones siempre que fueren enviados por el Presidente de la República o llamados por acuerdo de la Cámara, en los términos que dispone la segunda parte del Artículo 93 de la Constitución sin perjuicio de la libertad que tienen de asistir, cuando quisieren, a las sesiones y, si se discute un asunto de su Dependencia, tomar parte en el debate.
 Artículo reformado DOF 20-01-1975
 
 ### Artículo 54
@@ -278,10 +275,7 @@ III.- Inmediatamente se preguntará a la Cámara si admite o no a discusión la 
 
 ### Artículo 60
 .- Ninguna proposición o proyecto podrá discutirse sin que primero pase a la Comisión o Comisiones correspondientes y éstas hayan dictaminado. Sólo podrá dispensarse este requisito en los asuntos que por acuerdo expreso de la Cámara se calificaren de urgente o de obvia resolución.
-Cuando la Cámara conozca de los permisos a que se refieren las fracciones II, III y IV del Inciso B) del
-
-### Artículo 37
-de la Constitución General, la Comisión Legislativa correspondiente podrá formular dictamen resolviendo varias solicitudes a la vez, integrando en el proyecto de Decreto, tantos artículos como permisos se concedan, sin perjuicio de que, puestos a discusión, si un legislador así lo solicita, cualquier artículo será reservado.
+Cuando la Cámara conozca de los permisos a que se refieren las fracciones II, III y IV del Inciso B) del Artículo 37 de la Constitución General, la Comisión Legislativa correspondiente podrá formular dictamen resolviendo varias solicitudes a la vez, integrando en el proyecto de Decreto, tantos artículos como permisos se concedan, sin perjuicio de que, puestos a discusión, si un legislador así lo solicita, cualquier artículo será reservado.
 Párrafo adicionado DOF 27-11-1981
 
 ### Artículo 61

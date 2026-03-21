@@ -206,10 +206,7 @@ XV. Promover y gestionar la capacitación a las personas productoras para que fo
 
 XVI. Proponer, conforme a las Normas Oficiales Mexicanas y estándares de calidad, los parámetros y directrices necesarios para determinar y mejorar las calidades de los productos elaborados a partir de café y sus derivados en su comercialización;
 
-XVII. En términos de lo dispuesto en la Ley de Planeación, las personas integrantes a que se refiere el
-
-### artículo 9
-de la Ley en las fracciones VI, VII, VIII y IX, cuando así corresponda, emitirán opinión con motivo de la elaboración del plan sectorial;
+XVII. En términos de lo dispuesto en la Ley de Planeación, las personas integrantes a que se refiere el artículo 9 de la Ley en las fracciones VI, VII, VIII y IX, cuando así corresponda, emitirán opinión con motivo de la elaboración del plan sectorial;
 
 XVIII. Emitir sus reglas de funcionamiento, así como de toma de decisiones y seguimiento de acuerdos, y
 

@@ -479,10 +479,7 @@ Los documentos de archivo electrónicos que pertenezcan a series documentales co
 . Los sujetos obligados adoptarán las medidas de organización, técnicas y tecnológicas para garantizar la recuperación y preservación de los documentos de archivo electrónicos producidos y recibidos que se encuentren en un sistema automatizado para la gestión documental y administración de archivos, bases de datos y correos electrónicos a lo largo de su ciclo vital.
 
 ### Artículo 45
-. Los sujetos obligados deberán implementar sistemas automatizados para la gestión documental y administración de archivos que permitan registrar y controlar los procesos señalados en el
-
-### artículo 12
-de esta Ley, los cuales deberán cumplir las especificaciones que para el efecto se emitan.
+. Los sujetos obligados deberán implementar sistemas automatizados para la gestión documental y administración de archivos que permitan registrar y controlar los procesos señalados en el artículo 12 de esta Ley, los cuales deberán cumplir las especificaciones que para el efecto se emitan.
 Las herramientas informáticas de gestión y control para la organización y conservación de documentos de archivo electrónicos que los sujetos obligados desarrollen o adquieran, deberán cumplir los lineamientos que para el efecto se emitan.
 
 ### Artículo 46
@@ -1240,7 +1237,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

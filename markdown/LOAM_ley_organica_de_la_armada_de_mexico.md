@@ -143,10 +143,7 @@ Sin distinción de género, el personal de la Armada de México, de acuerdo con 
 ### Artículo 6
 . Son facultades del Mando Supremo, las siguientes:
 
-I. Disponer de la totalidad de los recursos que constituyen a la Armada de México en los términos del
-
-### artículo 89
-, fracciones VI y VII, de la Constitución Política de los Estados Unidos Mexicanos;
+I. Disponer de la totalidad de los recursos que constituyen a la Armada de México en los términos del artículo 89, fracciones VI y VII, de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Nombrar a la persona que ejercerá el Alto Mando;
 

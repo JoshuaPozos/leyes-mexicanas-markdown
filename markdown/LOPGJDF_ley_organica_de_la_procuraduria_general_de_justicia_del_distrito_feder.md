@@ -250,10 +250,7 @@ V. Las demás que establezcan las normas legales aplicables.
 . (Niños, niñas, adolescentes, declarados incapaces y otros). La protección de los derechos e intereses de niños, niñas, adolescentes, declarados incapaces, ausentes, personas adultas mayores y la de otros de carácter individual o social, a que se refiere la fracción IV del artículo 2o. de esta ley, consistirá en la intervención en procedimientos jurisdiccionales conforme a las disposiciones legales aplicables, o cuando se encuentren en situación de riesgo y/o vulnerabilidad de derechos.
 
 ### Artículo 10
-. (Política criminal y reforma jurídica). Las atribuciones a que se refiere la fracción XVIII del
-
-### artículo 2o
-. de esta ley, relativas a la realización y aplicación de estudios, propuestas y estrategias o acciones de política criminal en el Distrito Federal, comprenden:
+. (Política criminal y reforma jurídica). Las atribuciones a que se refiere la fracción XVIII del artículo 2o. de esta ley, relativas a la realización y aplicación de estudios, propuestas y estrategias o acciones de política criminal en el Distrito Federal, comprenden:
 
 I. Recabar, sistematizar y analizar la información generada en materia de incidencia delictiva, incluyendo consignaciones, autos de formal prisión, sentencias y en general la estadística criminal, así como validar y proporcionar claves de acceso a las bases de datos.
 
@@ -1368,10 +1365,7 @@ II. El Subprocurador citado integrará la averiguación previa correspondiente y
 TITULO OCTAVO OTRAS DISPOSICIONES CAPITULO I DE LA OBSERVANCIA DE LA LEY
 
 ### Artículo 80
-. (Observancia de las obligaciones). En el ejercicio de sus funciones, el personal de la Procuraduría observará las obligaciones inherentes a su calidad de servidores públicos previstas en el
-
-### artículo 68
-y actuará con la diligencia necesaria para la pronta, expedita y debida procuración de justicia.
+. (Observancia de las obligaciones). En el ejercicio de sus funciones, el personal de la Procuraduría observará las obligaciones inherentes a su calidad de servidores públicos previstas en el artículo 68 y actuará con la diligencia necesaria para la pronta, expedita y debida procuración de justicia.
 CAPITULO II DE LAS CAUSAS DE IMPEDIMENTO
 
 ### Artículo 81

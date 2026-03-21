@@ -47,10 +47,7 @@ VI. El reconocimiento, la coordinación, la articulación y la operación de los
 ### Artículo 4
 . Para los efectos de esta Ley, se entiende por:
 
-I. Acceso abierto: Elemento del derecho humano a la ciencia garantizado en la fracción V del
-
-### artículo 3o
-. de la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales de los que el Estado mexicano es parte;
+I. Acceso abierto: Elemento del derecho humano a la ciencia garantizado en la fracción V del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales de los que el Estado mexicano es parte;
 
 II. Agenda Nacional: Agenda Nacional en Materia de Humanidades, Ciencias, Tecnologías e Innovación;
 

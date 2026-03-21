@@ -1462,10 +1462,7 @@ IV. Los demás que se estimen pertinentes. 4. Un Secretario de la Mesa certifica
 CAPITULO OCTAVO DE LA REMISION DEL PROYECTO DE LEY O DECRETO AL EJECUTIVO FEDERAL Y DE SUS OBSERVACIONES
 
 ### Artículo 222
-1. Los proyectos de ley o decreto que deben remitirse por el Senado al Ejecutivo Federal en cumplimiento del inciso a) del artículo 72 de la Constitución, se acompañan de los documentos a que se refiere el artículo 220 de este Reglamento. 2. Cuando el Senado es Cámara de origen de los proyectos de ley o decreto enviados al Ejecutivo Federal, la Mesa lleva el seguimiento y cómputo de los plazos a que se refiere el inciso b) del
-
-### artículo 72
-constitucional.
+1. Los proyectos de ley o decreto que deben remitirse por el Senado al Ejecutivo Federal en cumplimiento del inciso a) del artículo 72 de la Constitución, se acompañan de los documentos a que se refiere el artículo 220 de este Reglamento. 2. Cuando el Senado es Cámara de origen de los proyectos de ley o decreto enviados al Ejecutivo Federal, la Mesa lleva el seguimiento y cómputo de los plazos a que se refiere el inciso b) del artículo 72 constitucional.
 
 ### Artículo 223
 1. En los casos de proyectos de ley o decreto devueltos al Senado, en su condición de Cámara de origen, por el Ejecutivo Federal al haberlos desechado en forma total o parcial, con observaciones o modificaciones, el Presidente de la Mesa da cuenta al Pleno y ordena el trámite que corresponde conforme a este Reglamento. 2. Cuando el proyecto de ley o decreto es desechado en su totalidad por el Ejecutivo, el examen lo realizan las mismas comisiones que lo hayan dictaminado en el Senado y versa sobre todo el proyecto. 3. Si un proyecto sólo se desecha en parte por el Ejecutivo, el nuevo dictamen en el Senado es formulado por las mismas comisiones y se refiere exclusivamente a las observaciones o modificaciones realizadas. 4. De aprobarse o rechazarse por el Senado las observaciones o modificaciones realizadas por el Ejecutivo Federal, se procede conforme lo establece el artículo 72 de la Constitución.
@@ -1492,10 +1489,7 @@ CAPITULO DECIMO DE LA EXPEDICION DE LAS LEYES Y DECRETOS
 1. Una vez que el Senado aprueba una ley o decreto en condición de Cámara revisora, se registra en su Libro de Leyes.
 
 ### Artículo 227
-1. Cuando el Senado funge como Cámara revisora, una vez aprobado en sus términos un proyecto de ley o decreto que le sea enviado por la Cámara de Diputados conforme a lo dispuesto en el
-
-### artículo 72
-, inciso a), de la Constitución, lo remite al Ejecutivo Federal para sus efectos constitucionales. 2. Cuando el Senado funge como Cámara de origen, en términos de lo que dispone el artículo 72, inciso g), de la Constitución y aprueba las modificaciones o reformas hechas a un proyecto por la Cámara de Diputados como Cámara revisora, remite todo el proyecto al Ejecutivo Federal para efectos del inciso a) del citado artículo 72 constitucional. 3. Si el Senado, como Cámara de origen, no aprueba las reformas o modificaciones hechas por la Cámara de Diputados en su condición de Cámara revisora, se está a lo dispuesto por el inciso e) del artículo 72 constitucional.
+1. Cuando el Senado funge como Cámara revisora, una vez aprobado en sus términos un proyecto de ley o decreto que le sea enviado por la Cámara de Diputados conforme a lo dispuesto en el artículo 72, inciso a), de la Constitución, lo remite al Ejecutivo Federal para sus efectos constitucionales. 2. Cuando el Senado funge como Cámara de origen, en términos de lo que dispone el artículo 72, inciso g), de la Constitución y aprueba las modificaciones o reformas hechas a un proyecto por la Cámara de Diputados como Cámara revisora, remite todo el proyecto al Ejecutivo Federal para efectos del inciso a) del citado artículo 72 constitucional. 3. Si el Senado, como Cámara de origen, no aprueba las reformas o modificaciones hechas por la Cámara de Diputados en su condición de Cámara revisora, se está a lo dispuesto por el inciso e) del artículo 72 constitucional.
 
 ### Artículo 228
 1. Al expedirse una ley o decreto es autorizado con las firmas del Presidente y uno de los secretarios de las respectivas mesas directivas de ambas cámaras del Congreso de la Unión, según lo dispuesto por los artículos 23 y 67 de la Ley. 2. Cuando el proceso legislativo concluye en el Senado, su Presidente realiza el trámite respectivo para la expedición de la ley o decreto de que se trata.
@@ -1513,10 +1507,7 @@ II. Analizar y aprobar en su caso, los tratados internacionales y convenciones d
 
 III. Ratificar, cuando así le corresponda, los nombramientos que haga el Ejecutivo Federal;
 
-IV. Otorgar las autorizaciones y consentimientos a que se refieren las fracciones III y IV del
-
-### Artículo 76
-de la Constitución;
+IV. Otorgar las autorizaciones y consentimientos a que se refieren las fracciones III y IV del Artículo 76 de la Constitución;
 
 V. Realizar, en su caso, la declaratoria sobre la desaparición de poderes constitucionales de un Estado;
 
@@ -1586,10 +1577,7 @@ V. Empleados Superiores de Hacienda; y
 VI. Coroneles y demás jefes superiores del Ejército y Fuerza Aérea Nacionales, así como los grados equivalentes en la Armada. 2. Respecto de los Empleados Superiores de Hacienda a que se refiere la fracción V del párrafo anterior, el Senado debe emitir, a propuesta de la Mesa, el acuerdo que especifique los cargos a considerar. 3. Le corresponde igualmente al Senado aprobar o ratificar los nombramientos que realiza el Presidente de la República, o bien objetarlos, conforme lo establecen las leyes respectivas.
 
 ### Artículo 240
-1. Cuando corresponde al Senado aprobar, ratificar u objetar el nombramiento de servidores públicos que realiza el Titular del Ejecutivo Federal y no existan disposiciones expresas que regulen el procedimiento relativo en la Constitución o las leyes correspondientes, se está a lo dispuesto por el presente Reglamento. En todo caso, se garantizará el derecho de audiencia de los servidores públicos de que se trate, de conformidad con lo establecido en el párrafo 3 del
-
-### artículo 255
-de este Reglamento. 2. Cuando finaliza un período de sesiones ordinarias del Congreso de la Unión sin que el Senado concluya el trámite de ratificación o aprobación de un nombramiento, la Mesa remite a la Comisión Permanente, de ser el caso, el expediente relativo para los efectos procedentes.
+1. Cuando corresponde al Senado aprobar, ratificar u objetar el nombramiento de servidores públicos que realiza el Titular del Ejecutivo Federal y no existan disposiciones expresas que regulen el procedimiento relativo en la Constitución o las leyes correspondientes, se está a lo dispuesto por el presente Reglamento. En todo caso, se garantizará el derecho de audiencia de los servidores públicos de que se trate, de conformidad con lo establecido en el párrafo 3 del artículo 255 de este Reglamento. 2. Cuando finaliza un período de sesiones ordinarias del Congreso de la Unión sin que el Senado concluya el trámite de ratificación o aprobación de un nombramiento, la Mesa remite a la Comisión Permanente, de ser el caso, el expediente relativo para los efectos procedentes.
 
 ### Artículo 241
 1. Una vez que se recibe la comunicación del Ejecutivo Federal sobre un nombramiento, el Presidente de la Mesa da cuenta al Pleno y turna el expediente relativo a la comisión o comisiones a las que les corresponde dictaminar. 2. Inmediatamente la comisión o comisiones verifican que el expediente se acompaña de la documentación que acredita el cumplimiento de los requisitos exigidos para el cargo por la Constitución o las leyes. 3. De encontrarse alguna omisión o defecto en la documentación correspondiente, la comisión o comisiones lo comunican al Presidente para que requiera de inmediato al Ejecutivo Federal la complete o corrija.
@@ -1816,10 +1804,7 @@ III. Dar cuenta al Pleno de los informes remitidos por las representaciones y de
 IV. Atender, con el apoyo de la Mesa y de la Comisión de Relaciones Exteriores que corresponda, a delegaciones de parlamentarios y a funcionarios de otros países, representantes de organismos internacionales o personalidades distinguidas, en visita al Senado.
 
 ### Artículo 285
-1. En cumplimiento de las atribuciones que le confieren las fracciones II y IV del párrafo 1 del
-
-### artículo 283
-de este Reglamento, la Mesa atiende los siguientes criterios:
+1. En cumplimiento de las atribuciones que le confieren las fracciones II y IV del párrafo 1 del artículo 283 de este Reglamento, la Mesa atiende los siguientes criterios:
 
 I. Respecto de organizaciones interparlamentarias permanentes, se designan en cada caso representantes por una o dos legislaturas;
 
@@ -2012,10 +1997,7 @@ ARTICULOS TRANSITORIOS PRIMERO. El presente Reglamento se publicará en el Diari
 SEGUNDO. La Mesa Directiva y los grupos parlamentarios realizarán programas y acciones de difusión para con los senadores, e inducción y capacitación entre el personal de apoyo, para el debido conocimiento y aplicación del Reglamento del Senado de la República.
 TERCERO. Dentro de un año contado a partir de la publicación del Reglamento del Senado, la Mesa someterá a la consideración del Pleno, el proyecto de Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos. Dicho proyecto será coordinado por la Mesa Directiva, con la colaboración de las comisiones de Reglamentos y Prácticas Parlamentarias y de Administración CUARTO. Se derogan las Reglas Provisionales y disposiciones económicas del Senado emitidas hasta antes de la entrada en vigor de este Reglamento.
 Dado en el salón de sesiones de la Cámara de Senadores a los veintidós días del mes de abril de dos mil diez.- Sen. Carlos Navarrete Ruiz, Presidente.- Rúbrica.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Rúbrica.- Sen. Ricardo García Cervantes, Vicepresidente.- Rúbrica.- Sen. Arturo Núñez Jiménez, Vicepresidente.- Rúbrica.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbrica.Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbrica.- Sen. Adrián Rivera Pérez, Secretario.Rúbrica.
-ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO aprobado por el Honorable Congreso de la Unión, por el que se modifica el
-
-### artículo 219
-del Reglamento del Senado de la República.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO aprobado por el Honorable Congreso de la Unión, por el que se modifica el artículo 219 del Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2010 ARTICULO UNICO.- Se modifica el artículo 219 del Reglamento del Senado de la República, para quedar como sigue: ……….
 
 ## TRANSITORIOS
@@ -2043,10 +2025,7 @@ ARTÍCULO TRANSITORIO
 **ÚNICO.-** El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de febrero de 2013.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Rúbrica.Sen. María Elena Barrera Tapia, Secretaria.- Rúbrica.
 DECRETO por el que se adiciona una Sección Décima, al Capítulo Segundo del Título
-**Octavo.** del Reglamento del Senado de la República, que estará conformada por el
-
-### artículo 265
-Bis.
+**Octavo.** del Reglamento del Senado de la República, que estará conformada por el artículo 265 Bis.
 Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2014
 
 ### ARTÍCULO ÚNICO
@@ -2274,10 +2253,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones del Reglamento
 Publicado en el Diario Oficial de la Federación el 11 de noviembre de 2022
 
 ### Artículo Único
-Se reforman las fracciones IV y V del numeral 1 del artículo 41; numeral 2 del
-
-### artículo 65
-; numeral 1 y fracción I y numeral 2 del artículo 73; numerales 4 y 5 del artículo 169; el numeral 1 del artículo 303; numerales 1, 2 y 3 del artículo 307; numeral 2 del artículo 309; y se adicionan los numerales 3 y 4 al artículo 1; un numeral 2 al artículo 37; un párrafo segundo al numeral 2 del artículo 73; un numeral 2 al artículo 174 del Reglamento del Senado de la República, para quedar como sigue: ……..
+Se reforman las fracciones IV y V del numeral 1 del artículo 41; numeral 2 del artículo 65; numeral 1 y fracción I y numeral 2 del artículo 73; numerales 4 y 5 del artículo 169; el numeral 1 del artículo 303; numerales 1, 2 y 3 del artículo 307; numeral 2 del artículo 309; y se adicionan los numerales 3 y 4 al artículo 1; un numeral 2 al artículo 37; un párrafo segundo al numeral 2 del artículo 73; un numeral 2 al artículo 174 del Reglamento del Senado de la República, para quedar como sigue: ……..
 
 ## Transitorio
 
@@ -2294,10 +2270,7 @@ Se reforma la fracción X del artículo 10 del Reglamento del Senado de la Repú
 
 **Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- Ciudad de México, a 12 de septiembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Rúbrica.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbrica.
-DECRETO por el que se adiciona una fracción VIII al numeral 1 del artículo 56 y un
-
-### artículo 56
-Quinquies al Reglamento del Senado de la República.
+DECRETO por el que se adiciona una fracción VIII al numeral 1 del artículo 56 y un artículo 56 Quinquies al Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 22 de septiembre de 2023
 
 ### Artículo Único
@@ -2321,10 +2294,7 @@ DECRETO por el que se reforman y adicionan diversos artículos del Reglamento de
 Publicado en el Diario Oficial de la Federación el 6 de diciembre de 2024
 
 ### Artículo Único
-Se reforman la fracción III del numeral 1 del artículo 76; los numerales 1 y 3 del
-
-### artículo 139
-, el numeral 2 del artículo 186, el numeral 2 del artículo 188, las fracciones I y IX del numeral 1 del artículo 199, y el numeral 1 del artículo 207; y se adiciona un numeral 3 al artículo 209, del Reglamento del Senado de la República, para quedar como sigue: ……
+Se reforman la fracción III del numeral 1 del artículo 76; los numerales 1 y 3 del artículo 139, el numeral 2 del artículo 186, el numeral 2 del artículo 188, las fracciones I y IX del numeral 1 del artículo 199, y el numeral 1 del artículo 207; y se adiciona un numeral 3 al artículo 209, del Reglamento del Senado de la República, para quedar como sigue: ……
 
 ## Transitorio
 

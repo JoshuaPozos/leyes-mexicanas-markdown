@@ -428,10 +428,7 @@ Asimismo, el Fondo de Aseguramiento tendrá un plazo de 60 días naturales, con 
 
 ### Artículo 33
 . Para el caso del seguro de daños, los Fondos de Aseguramiento podrán destinar hasta el 25% de las cuotas cobradas, una vez separada la prima y sus accesorios que hayan sido pagados por concepto de reaseguro, para cubrir los gastos de administración y operación, incluyendo en éstos lo referente a suscripción, inspección y ajustes de siniestros, así como para cubrir las cuotas que correspondan para los Organismos Integradores. Las comisiones derivadas de los contratos de reaseguro proporcional o coaseguro, podrán destinarse a los mismos fines, y en estos casos el porcentaje será el que se contrate en tales operaciones.
-Para el caso de los seguros de vida y accidentes y enfermedades, el monto de gastos de administración y operación será el remanente de las cuotas cobradas, una vez deducido el monto de las reservas técnicas a constituir que al efecto determine la Secretaría de conformidad con lo previsto en el
-
-### artículo 34
-de esta Ley y de considerar, en su caso, el costo de reaseguro.
+Para el caso de los seguros de vida y accidentes y enfermedades, el monto de gastos de administración y operación será el remanente de las cuotas cobradas, una vez deducido el monto de las reservas técnicas a constituir que al efecto determine la Secretaría de conformidad con lo previsto en el artículo 34 de esta Ley y de considerar, en su caso, el costo de reaseguro.
 Cuando las erogaciones para el ejercicio de sus operaciones no puedan sufragarse íntegramente con los recursos a disposición del Fondo de Aseguramiento, podrá determinarse por los socios la aportación de recursos adicionales destinados a cubrir necesidades de capital de trabajo, cuotas a los Organismos Integradores, así como de inversión en activos fijos que apoyen las funciones de administración, suscripción, inspección y ajuste del Fondo de Aseguramiento, para lo cual deberán contar con el acuerdo de su Asamblea General de Socios.
 
 ### Artículo 34
@@ -514,10 +511,7 @@ II. Que cuenten con el compromiso de las instituciones que les brindarán el rea
 III. La obtención de un dictamen favorable del Organismo Integrador que corresponda al que se encuentren afiliados o, en caso de no afiliación, del Organismo Integrador responsable de otorgarles el servicio de Asesoría Técnica y Seguimiento de Operaciones o el Organismo Integrador o entidad que designe la Secretaría.
 
 ### Artículo 41
-. A los Fondos de Aseguramiento les son aplicables las prohibiciones contenidas en el
-
-### artículo 93
-de la Ley General de Instituciones y Sociedades Mutualistas de Seguros.
+. A los Fondos de Aseguramiento les son aplicables las prohibiciones contenidas en el artículo 93 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros.
 
 ## TÍTULO SEGUNDO — DE LOS ORGANISMOS INTEGRADORES
 
@@ -871,10 +865,7 @@ IV. Revisar y aprobar, en su caso, los informes que rinda el fiduciario sobre el
 
 V. Hacer públicas las reglas conforme a las cuales se procederá a otorgar apoyos a los Fondos de Aseguramiento;
 
-VI. Aprobar los casos en que proceda otorgar apoyos a los Fondos de Aseguramiento, conforme al
-
-### artículo 75
-, y
+VI. Aprobar los casos en que proceda otorgar apoyos a los Fondos de Aseguramiento, conforme al artículo 75, y
 
 VII. Las demás que ésta y otras Leyes prevean para el cumplimiento de su objeto, así como las que se prevean en el contrato de fideicomiso del Fondo de Protección.
 
@@ -972,10 +963,7 @@ Los servidores públicos de la Secretaría y de la Comisión, los Fondos de Aseg
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ### ARTÍCULO SEGUNDO
-Los Fondos de Aseguramiento registrados ante la Secretaría con anterioridad a la entrada en vigor del presente Decreto, podrán mantener su registro con el único requisito de presentar el testimonio de la escritura pública a que se refiere el inciso b) de la fracción II, del
-
-### artículo 8o
-. de esta Ley, en un término no mayor a 270 días naturales contados a partir de la entrada en vigor de este Decreto.
+Los Fondos de Aseguramiento registrados ante la Secretaría con anterioridad a la entrada en vigor del presente Decreto, podrán mantener su registro con el único requisito de presentar el testimonio de la escritura pública a que se refiere el inciso b) de la fracción II, del artículo 8o. de esta Ley, en un término no mayor a 270 días naturales contados a partir de la entrada en vigor de este Decreto.
 Concluido el plazo señalado, los Fondos de Aseguramiento que no hubieren dado cumplimiento a lo señalado en el párrafo anterior deberán abstenerse de operar como Fondos de Aseguramiento.
 
 ### ARTÍCULO TERCERO
@@ -992,9 +980,7 @@ La Secretaría contará con un plazo máximo de 270 días naturales contados a p
 
 ### ARTÍCULO SÉPTIMO
 Las Reglas Generales para la Constitución, Operación y Funcionamiento de los Fondos de Aseguramiento Agropecuario, de Vida Campesino y Conexos a la Actividad Agropecuaria continuarán vigentes por un plazo de 270 días naturales a partir de la entrada en vigor de esta Ley y aplicará para aquellos Fondos de Aseguramiento que se encuentren en el caso del párrafo primero del
-
-### artículo Tercero
-Transitorio. Se derogan todas las disposiciones que se opongan a esta Ley.
+**artículo Tercero.** Transitorio. Se derogan todas las disposiciones que se opongan a esta Ley.
 México, D.F., a 10 de marzo de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip.
 Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de abril de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
@@ -1012,7 +998,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

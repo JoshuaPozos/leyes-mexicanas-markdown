@@ -91,10 +91,7 @@ VII. Otras sociedades nacionales de socorro voluntario, que durante un conflicto
 Quedan exceptuados de la autorización a que se refiere el presente artículo, el Comité Internacional de la Cruz Roja y la Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja, quienes podrán utilizar el emblema a título protector o indicativo u otros emblemas en cualquier tiempo y para todas sus actividades.
 
 ### Artículo 9
-.- El emblema utilizado a título protector observará las características señaladas en el
-
-### artículo 4
-de esta Ley, y no tendrá adición alguna en la cruz roja ni en el fondo blanco. Debe ser identificable desde tan lejos como sea posible. Será tan grande como las circunstancias lo justifiquen. De noche o cuando la visibilidad sea escasa, podrá estar alumbrado o iluminado. En la medida de lo posible, será de materiales que permitan su reconocimiento gracias a medios técnicos de detección y se colocará en banderas o sobre una superficie plana que resulten visibles desde todas las direcciones posibles, incluido el espacio aéreo.
+.- El emblema utilizado a título protector observará las características señaladas en el artículo 4 de esta Ley, y no tendrá adición alguna en la cruz roja ni en el fondo blanco. Debe ser identificable desde tan lejos como sea posible. Será tan grande como las circunstancias lo justifiquen. De noche o cuando la visibilidad sea escasa, podrá estar alumbrado o iluminado. En la medida de lo posible, será de materiales que permitan su reconocimiento gracias a medios técnicos de detección y se colocará en banderas o sobre una superficie plana que resulten visibles desde todas las direcciones posibles, incluido el espacio aéreo.
 El personal autorizado a enarbolar el emblema en su uso protector, deberá portar un brazal, y credencial de identidad de la forma y características establecidas por los Convenios de Ginebra de 1949, los cuales serán autorizados, por la Secretaría de la Defensa Nacional.
 
 ### Artículo 10

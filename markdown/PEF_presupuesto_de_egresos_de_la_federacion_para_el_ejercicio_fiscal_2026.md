@@ -139,20 +139,14 @@ Para efectos de lo señalado en el artículo 12 A, párrafos sexto y séptimo, d
 
 VIII. Las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México deben enviar a la Secretaría, a través del sistema al que hace referencia el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria la información de las evaluaciones que lleven a cabo sobre recursos federales transferidos, en los términos de las disposiciones aplicables. La Secretaría debe reportar dicha información en los Informes trimestrales;
 
-IX. El Consejo Nacional de Seguridad Pública aprobará a más tardar en el mes de enero, los criterios de distribución de los recursos de los fondos de ayuda federal para la seguridad pública a que se refiere el artículo 21, décimo primer párrafo, inciso e), de la Constitución Política de los Estados Unidos Mexicanos, en términos del
-
-### artículo 114
-de la Ley General del Sistema Nacional de Seguridad Pública.
+IX. El Consejo Nacional de Seguridad Pública aprobará a más tardar en el mes de enero, los criterios de distribución de los recursos de los fondos de ayuda federal para la seguridad pública a que se refiere el artículo 21, décimo primer párrafo, inciso e), de la Constitución Política de los Estados Unidos Mexicanos, en términos del artículo 114 de la Ley General del Sistema Nacional de Seguridad Pública.
 Para efectos del párrafo anterior, se promoverá que, por lo menos, el 20 por ciento de los recursos previstos en el Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal (FORTAMUN) se destinen a la atención de necesidades directamente vinculadas con la seguridad pública.
 El Consejo Nacional de Seguridad Pública, al aprobar los criterios para la distribución de los recursos de los fondos de ayuda federal que se otorguen a las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México para la seguridad pública, promoverá y vigilará que su aplicación se oriente al cumplimiento de los ejes estratégicos y programas con prioridad nacional definidos por dicho órgano, así como que su erogación se realice en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 Para tales efectos, los convenios relativos a estos fondos establecerán mecanismos que contribuyan a agilizar la recepción y el ejercicio de los recursos que reciban las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México.
 Dicho consejo promoverá que, por lo menos, el 20 por ciento de los recursos del Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal (FASP) se distribuya entre los municipios y las demarcaciones territoriales de la Ciudad de México, conforme a criterios que integren el número de habitantes y el avance en la aplicación del Programa Estatal de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura.
 Las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ejercicio de los recursos federales que les sean transferidos para seguridad pública, a través del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios deben alinear, en su caso, la aplicación de los recursos para implementar y operar el modelo de desarrollo y operación policial previsto en la ley de la materia, conforme a los ejes estratégicos aprobados por el Consejo Nacional de Seguridad Pública;
 
-X. Los recursos presupuestarios federales asignados al Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública (FOFISP), conforme a lo previsto en el Segundo Transitorio del “Decreto por el que se reforma el
-
-### Artículo Quinto
-Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional, publicado en el Diario Oficial de la Federación el 26 de marzo de 2019”, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2022, se incluyen en el Ramo 36 Seguridad y Protección Ciudadana.
+X. Los recursos presupuestarios federales asignados al Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública (FOFISP), conforme a lo previsto en el Segundo Transitorio del “Decreto por el que se reforma el Artículo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional, publicado en el Diario Oficial de la Federación el 26 de marzo de 2019”, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2022, se incluyen en el Ramo 36 Seguridad y Protección Ciudadana.
 El ejercicio de los recursos referidos en el párrafo anterior se sujetará a las disposiciones previstas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental, en este Decreto y en los lineamientos que para tal efecto emita el Ejecutivo Federal, por conducto del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
 Los referidos lineamientos deben ser publicados en el Diario Oficial de la Federación durante el primer bimestre de 2026; dar cumplimiento a lo establecido en el Segundo transitorio referido en el primer párrafo de esta fracción, y contemplar, entre otros aspectos, los siguientes:
 
@@ -179,10 +173,7 @@ XI. De los fondos a que se refieren los artículos 35 y 36 de la Ley de Coordina
 
 ### Artículo 8
 . Los recursos correspondientes a los subejercicios que no sean subsanados en el plazo que establece el artículo 23, penúltimo párrafo, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como el importe de los ahorros que se obtengan como resultado de la instrumentación de las medidas de austeridad y disciplina presupuestaria, serán reasignados a los programas sociales y de inversión en infraestructura previstos en este Presupuesto de Egresos, así como en los términos de lo dispuesto en el artículo 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones jurídicas aplicables, según corresponda. Al efecto, la Secretaría informará trimestralmente a la Cámara de Diputados, a partir del 1 de abril, sobre dichos subejercicios. En el caso de las economías generadas durante el ejercicio fiscal, estas deben canalizarse a los programas y tomos aprobados en este Presupuesto de Egresos.
-La determinación de los subejercicios se realizará conforme a los calendarios autorizados, en los términos del
-
-### artículo 23
-de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+La determinación de los subejercicios se realizará conforme a los calendarios autorizados, en los términos del artículo 23 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 ## CAPÍTULO II — De las disposiciones de austeridad y disciplina presupuestaria
 
@@ -254,10 +245,7 @@ I. Los incrementos a las percepciones se determinarán, conforme a:
 
 a) La estructura ocupacional autorizada;
 
-b) Las plazas registradas en el sistema de administración de nómina y demás elementos previstos en el caso del
-
-### artículo 27-A
-de la Ley de Coordinación Fiscal y del Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos, para el caso del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
+b) Las plazas registradas en el sistema de administración de nómina y demás elementos previstos en el caso del artículo 27-A de la Ley de Coordinación Fiscal y del Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos, para el caso del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
 
 c) La plantilla de personal, tratándose del Fondo de Aportaciones para los Servicios de Salud (FASSA), con sujeción a lo establecido en el artículo 30, párrafos penúltimo y último, de la Ley de Coordinación Fiscal, y
 
@@ -353,10 +341,7 @@ V. En los Anexos Informativos previstos en el artículo 41, fracción III, de la
 Dichas disposiciones específicas establecerán, entre otros aspectos, los montos de la compensación económica, los cuales se podrán cubrir con recursos del Ramo General 23 Provisiones Salariales y Económicas o conforme al mecanismo presupuestario y de pago que se determine; los tipos de personal que podrán acogerse al mismo, considerando no afectar la prestación de servicios públicos; así como el procedimiento que deben seguir las Dependencias y Entidades correspondientes para su aplicación.
 
 ### Artículo 17
-. En aquellos puestos de personal militar y, en su caso, en los que se establezcan en las disposiciones específicas que emita la Secretaría y la Secretaría Anticorrupción y Buen Gobierno, respecto de las Dependencias cuyo desempeño ponga en riesgo la seguridad o la salud de la persona servidora pública de mando, podrá otorgarse la potenciación del seguro de vida institucional, y la prima personal de riesgo a que se refiere el
-
-### artículo 6
-, apartado B, fracción V, de la Ley Federal de Remuneraciones de los Servidores Públicos, hasta por el 30 por ciento sobre la percepción ordinaria bruta mensual, por concepto de sueldos y salarios.
+. En aquellos puestos de personal militar y, en su caso, en los que se establezcan en las disposiciones específicas que emita la Secretaría y la Secretaría Anticorrupción y Buen Gobierno, respecto de las Dependencias cuyo desempeño ponga en riesgo la seguridad o la salud de la persona servidora pública de mando, podrá otorgarse la potenciación del seguro de vida institucional, y la prima personal de riesgo a que se refiere el artículo 6, apartado B, fracción V, de la Ley Federal de Remuneraciones de los Servidores Públicos, hasta por el 30 por ciento sobre la percepción ordinaria bruta mensual, por concepto de sueldos y salarios.
 La Secretaría Anticorrupción y Buen Gobierno evaluará la gravedad del riesgo y determinará el porcentaje de la prima personal en función del riesgo y, en su caso, autorizará el pago, previo dictamen favorable de la Secretaría en el ámbito presupuestario.
 
 ### Artículo 18
@@ -577,10 +562,7 @@ Las Dependencias y Entidades serán responsables de la información que se entre
 ## CAPÍTULO II — De los criterios específicos para la operación de los programas
 
 ### Artículo 31
-. Los programas de subsidios del Ramo 20 Bienestar se destinarán, en las entidades federativas, en los términos de las disposiciones aplicables, exclusivamente a la población en condiciones de pobreza, de vulnerabilidad, de adultos mayores, de rezago y de marginación, de acuerdo con los criterios que defina el Consejo Nacional de Población y a las evaluaciones de la política de desarrollo social, de conformidad con el artículo 26, apartado B, constitucional, en los programas que resulten aplicables y la Declaratoria de las Zonas de Atención Prioritaria formulada por la Cámara de Diputados, mediante acciones que promuevan la superación de la pobreza a través de la educación, la salud, la alimentación, la generación de empleo e ingreso, autoempleo y capacitación; protección social y programas asistenciales; y el fomento del sector social de la economía; conforme lo establece el
-
-### artículo 14
-de la Ley General de Desarrollo Social, y tomando en consideración los criterios que propongan las entidades federativas.
+. Los programas de subsidios del Ramo 20 Bienestar se destinarán, en las entidades federativas, en los términos de las disposiciones aplicables, exclusivamente a la población en condiciones de pobreza, de vulnerabilidad, de adultos mayores, de rezago y de marginación, de acuerdo con los criterios que defina el Consejo Nacional de Población y a las evaluaciones de la política de desarrollo social, de conformidad con el artículo 26, apartado B, constitucional, en los programas que resulten aplicables y la Declaratoria de las Zonas de Atención Prioritaria formulada por la Cámara de Diputados, mediante acciones que promuevan la superación de la pobreza a través de la educación, la salud, la alimentación, la generación de empleo e ingreso, autoempleo y capacitación; protección social y programas asistenciales; y el fomento del sector social de la economía; conforme lo establece el artículo 14 de la Ley General de Desarrollo Social, y tomando en consideración los criterios que propongan las entidades federativas.
 Para estos fines, el Ramo 20 Bienestar considera los programas establecidos en el Anexo 25 para dicho ramo.
 En los términos de los convenios de coordinación suscritos entre el Ejecutivo Federal, a través de la Secretaría de Bienestar, y los gobiernos de las entidades federativas se impulsará el trabajo corresponsable en materia de superación de pobreza, vulnerabilidad, rezago y marginación y se promoverá el desarrollo humano, familiar, comunitario y productivo.
 Los recursos federales que se transfieran a las entidades federativas, a los municipios y a las demarcaciones territoriales de la Ciudad de México, en el marco de dichos convenios, estarán sujetos a lo establecido en el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como al Título Segundo y artículo 27, fracción XII, del presente Decreto, según corresponda.

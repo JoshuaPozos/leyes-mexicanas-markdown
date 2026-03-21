@@ -38,10 +38,7 @@ IV. Comisión: a la Comisión Nacional para la Mejora Continua de la Educación;
 
 V. Comité: al Comité consultivo y deliberativo de las acciones del Sistema Nacional de Mejora Continua de la Educación;
 
-VI. Consejo Ciudadano: al Consejo Ciudadano referido en el último párrafo de la fracción IX del
-
-### artículo 3o
-. de la Constitución Política de los Estados Unidos Mexicanos;
+VI. Consejo Ciudadano: al Consejo Ciudadano referido en el último párrafo de la fracción IX del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos;
 
 VII. Consejo Técnico: al Consejo Técnico de Educación;
 
@@ -533,10 +530,7 @@ III. De vinculación e integralidad del aprendizaje.
 . La Comisión podrá suscribir los actos jurídicos que la Junta considere convenientes para el cumplimiento de su objeto y atribuciones, con organizaciones de la sociedad civil, así como con instituciones y organizaciones privadas, nacionales e internacionales.
 
 ### Artículo 63
-. Para el cumplimiento de sus atribuciones, la Comisión además podrá suscribir convenios con universidades y otras instituciones de educación superior a las que se refiere la fracción VII del
-
-### artículo 3o
-. de la Constitución Política de los Estados Unidos Mexicanos.
+. Para el cumplimiento de sus atribuciones, la Comisión además podrá suscribir convenios con universidades y otras instituciones de educación superior a las que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## Título Sexto
 Previsiones Generales

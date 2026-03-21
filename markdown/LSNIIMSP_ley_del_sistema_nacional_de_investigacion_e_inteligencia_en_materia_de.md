@@ -41,10 +41,7 @@ VI. Ley: la Ley del Sistema Nacional de Investigación e Inteligencia en Materia
 
 VII. Plataforma: la Plataforma Central de Inteligencia;
 
-VIII. Productos de inteligencia: los documentos que resultan del análisis de la información que permiten identificar, prevenir o combatir las conductas delictivas, amenazas, riesgos o vulnerabilidades que afecten o puedan afectar la seguridad pública, de conformidad con el
-
-### artículo 32
-de la presente Ley, logrando con ello la paz social;
+VIII. Productos de inteligencia: los documentos que resultan del análisis de la información que permiten identificar, prevenir o combatir las conductas delictivas, amenazas, riesgos o vulnerabilidades que afecten o puedan afectar la seguridad pública, de conformidad con el artículo 32 de la presente Ley, logrando con ello la paz social;
 
 IX. Secretaría: la Secretaría de Seguridad y Protección Ciudadana;
 
@@ -264,10 +261,7 @@ XIV. Proponer criterios técnicos y de homologación de los registros, las bases
 
 XV. Desarrollar o adquirir plataformas digitales y sistemas informáticos para llevar a cabo la integración, sistematización, el análisis y aprovechamiento de la información que se genere a través de la Plataforma en coordinación con la Agencia de Transformación Digital y Telecomunicaciones;
 
-XVI. Aprobar la conformación de sus grupos de trabajo, crear grupos distintos a los señalados en el
-
-### artículo 22
-de esta Ley, y supervisar sus actividades;
+XVI. Aprobar la conformación de sus grupos de trabajo, crear grupos distintos a los señalados en el artículo 22 de esta Ley, y supervisar sus actividades;
 
 XVII. Determinar el ámbito de conocimiento de cada grupo de trabajo, así como las cuestiones y situaciones concretas que deben atender;
 

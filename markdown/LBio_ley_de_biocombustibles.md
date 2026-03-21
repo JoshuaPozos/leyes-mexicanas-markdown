@@ -395,10 +395,7 @@ Para efectos de la presente Ley, se considera que los Biocombustibles han sido a
 .- Los métodos de prueba, muestreo y verificación aplicables a las características cualitativas, así como al volumen en el Transporte, Almacenamiento, Comercialización, Distribución y, en su caso, el Expendio al Público de Biocombustibles se deben establecer en las Normas Oficiales Mexicanas o Lineamientos que para tal efecto expidan la SENER y la Secretaría de Economía, en el ámbito de su competencia.
 
 ### Artículo 30
-.- Las personas interesadas en obtener los permisos y autorizaciones a que se refiere el
-
-### artículo 25
-, deben presentar su solicitud ante la autoridad competente, utilizando los formatos que para tal efecto señalen las propias autoridades correspondientes.
+.- Las personas interesadas en obtener los permisos y autorizaciones a que se refiere el artículo 25, deben presentar su solicitud ante la autoridad competente, utilizando los formatos que para tal efecto señalen las propias autoridades correspondientes.
 Los formatos de solicitudes deben contener, cuando menos, los siguientes datos:
 
 I. Nombre, denominación o razón social y domicilio de la persona solicitante;
@@ -587,15 +584,12 @@ Las solicitudes de autorización o permisos que se hayan recibido previo a la en
 **Quinto.-** El Ejecutivo Federal debe expedir el Reglamento de la presente Ley dentro de los ciento ochenta días siguientes a la fecha de su entrada en vigor.
 **Sexto.-** La SADER y la SENER deben publicar en el Diario Oficial de la Federación los formatos de solicitud de permisos previstos en el artículo 30 de la presente Ley, dentro de los ciento ochenta días siguientes a la fecha de entrada en vigor de la presente Ley.
 **Séptimo.-** La SENER debe expedir los formatos para la Bitácora prevista en el artículo 31 de la presente Ley, dentro de los ciento ochenta días siguientes a la fecha de su entrada en vigor.
-**Octavo.-** La SENER debe expedir el Programa para promover el uso directo de la Biomasa como Biocombustibles, la Producción de Biocombustibles y su uso sustentable, previsto en la fracción III del
-
-### artículo 5
-de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor.
-Noveno.- La SEMARNAT debe expedir el Programa para promover el aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como Biocombustibles o para su Producción, previsto en la fracción III del artículo 6 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor.
-Décimo.- La SADER debe expedir el Programa para promover la producción sustentable de Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción, previsto en la fracción II del artículo 7 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor.
-Décimo Primero.- La Secretaría de Economía debe expedir los formatos para la metodología prevista en el artículo 19 de la Ley de Biocombustibles, dentro de los trescientos sesenta días siguientes a la fecha de su entrada en vigor.
-Décimo Segundo.- Los permisos y autorizaciones otorgados por la SENER y la Comisión Reguladora de Energía para llevar a cabo las actividades de Producción, Almacenamiento, Distribución, Comercialización, Transporte y Expendio al Público de bioenergéticos o Biocombustibles con anterioridad a la entrada en vigor de esta Ley, mantienen su vigencia en los términos otorgados.
-Décimo Tercero.- Los pagos de derechos que en materia de bioenergéticos o Biocombustibles se establecen en favor de la Comisión Reguladora de Energía en la Ley Federal de Derechos, se entienden en favor de la SENER.
+**Octavo.-** La SENER debe expedir el Programa para promover el uso directo de la Biomasa como Biocombustibles, la Producción de Biocombustibles y su uso sustentable, previsto en la fracción III del artículo 5 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor.
+**Noveno.-** La SEMARNAT debe expedir el Programa para promover el aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como Biocombustibles o para su Producción, previsto en la fracción III del artículo 6 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor.
+**Décimo.-** La SADER debe expedir el Programa para promover la producción sustentable de Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción, previsto en la fracción II del artículo 7 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor.
+**Décimo Primero.-** La Secretaría de Economía debe expedir los formatos para la metodología prevista en el artículo 19 de la Ley de Biocombustibles, dentro de los trescientos sesenta días siguientes a la fecha de su entrada en vigor.
+**Décimo Segundo.-** Los permisos y autorizaciones otorgados por la SENER y la Comisión Reguladora de Energía para llevar a cabo las actividades de Producción, Almacenamiento, Distribución, Comercialización, Transporte y Expendio al Público de bioenergéticos o Biocombustibles con anterioridad a la entrada en vigor de esta Ley, mantienen su vigencia en los términos otorgados.
+**Décimo Tercero.-** Los pagos de derechos que en materia de bioenergéticos o Biocombustibles se establecen en favor de la Comisión Reguladora de Energía en la Ley Federal de Derechos, se entienden en favor de la SENER.
 
 ### ARTÍCULO SÉPTIMO A ARTÍCULO DÉCIMO
 ………

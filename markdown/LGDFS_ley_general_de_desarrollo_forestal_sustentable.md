@@ -2297,13 +2297,7 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
 Publicado en el Diario Oficial de la Federación el 11 de abril de 2022
 
 ### Artículo Único
-Se reforman el primer párrafo del artículo 70; el artículo 83; el primer párrafo del
-
-### artículo 92
-; la fracción XIV del artículo 155; y las fracciones I y III del artículo 157; se adicionan un artículo 92 Bis; y una fracción XXIX, recorriéndose en su orden la actual que pasa a ser la fracción XXX, al
-
-### artículo 155
-; y se deroga el segundo párrafo del artículo 70 de la Ley General de Desarrollo Forestal Sustentable, para quedar como sigue: ………
+Se reforman el primer párrafo del artículo 70; el artículo 83; el primer párrafo del artículo 92; la fracción XIV del artículo 155; y las fracciones I y III del artículo 157; se adicionan un artículo 92 Bis; y una fracción XXIX, recorriéndose en su orden la actual que pasa a ser la fracción XXX, al artículo 155; y se deroga el segundo párrafo del artículo 70 de la Ley General de Desarrollo Forestal Sustentable, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -2316,10 +2310,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 Publicado en el Diario Oficial de la Federación el 11 de abril de 2022
 
 ### Artículo Único
-Se reforman los artículos 2, fracción XIII; 7, fracciones XLIV, LXI, LXVII; 10, fracciones XXXVIII y XL; 11, fracciones VII y XXXIII; 13, fracción VII; 14, fracciones II, III, VII, XII, XIII y XVI; 16; 20, fracción VII; 21, primer párrafo; 34, fracción II y último párrafo; la denominación de la Sección Segunda; 42; 43; 54, párrafos primero, segundo, actuales tercero y quinto; 55, primer y tercer párrafos; 56; 58; 59; 61; 62, primer y tercer párrafos; 63, primer párrafo; 64, primer párrafo; 65, primer párrafo; 66; 67; 68; 69; 71; 74; 81, primer párrafo; 83, primer párrafo; 88; 106; 113, cuarto párrafo; 117, primer párrafo; 124, primer y tercer párrafos; 126; 127; 132; 154; 156, fracción II; 157, fracciones I, II, III y el tercer y cuarto párrafos; 159, primer párrafo; 160 y el artículo Tercero Transitorio; se adicionan las fracciones I Bis, III Bis, III Bis 1, LXVI Bis y LXXX Bis al artículo 7; las fracciones XVII, XVIII y XIX, recorriéndose la subsecuente, al artículo 14; una fracción XLI, recorriéndose la subsecuente, al artículo 20; un segundo y tercer párrafos al artículo 21; un segundo párrafo al artículo 26; una fracción III al
-
-### artículo 34
-; una fracción XI, recorriéndose la subsecuente, al artículo 38; una Sección Segunda, que comprende los artículos 41 Bis y 41 Bis 1; un tercer párrafo, recorriéndose los subsecuentes, al artículo 54; un segundo párrafo al artículo 58; un artículo 61 Bis; un artículo 74 Bis; un segundo párrafo al artículo 81; un segundo párrafo al artículo 83; un tercer párrafo al artículo 93; una Sección Octava, que comprende el artículo 100 Bis; un quinto párrafo al artículo 113; un artículo 122 Bis; un artículo 138 Bis; un segundo, tercer y cuarto párrafos al artículo 156; un artículo 156 Bis, y se deroga el artículo 44 de la Ley General de Desarrollo Forestal Sustentable, para quedar como sigue: ………
+Se reforman los artículos 2, fracción XIII; 7, fracciones XLIV, LXI, LXVII; 10, fracciones XXXVIII y XL; 11, fracciones VII y XXXIII; 13, fracción VII; 14, fracciones II, III, VII, XII, XIII y XVI; 16; 20, fracción VII; 21, primer párrafo; 34, fracción II y último párrafo; la denominación de la Sección Segunda; 42; 43; 54, párrafos primero, segundo, actuales tercero y quinto; 55, primer y tercer párrafos; 56; 58; 59; 61; 62, primer y tercer párrafos; 63, primer párrafo; 64, primer párrafo; 65, primer párrafo; 66; 67; 68; 69; 71; 74; 81, primer párrafo; 83, primer párrafo; 88; 106; 113, cuarto párrafo; 117, primer párrafo; 124, primer y tercer párrafos; 126; 127; 132; 154; 156, fracción II; 157, fracciones I, II, III y el tercer y cuarto párrafos; 159, primer párrafo; 160 y el artículo Tercero Transitorio; se adicionan las fracciones I Bis, III Bis, III Bis 1, LXVI Bis y LXXX Bis al artículo 7; las fracciones XVII, XVIII y XIX, recorriéndose la subsecuente, al artículo 14; una fracción XLI, recorriéndose la subsecuente, al artículo 20; un segundo y tercer párrafos al artículo 21; un segundo párrafo al artículo 26; una fracción III al artículo 34; una fracción XI, recorriéndose la subsecuente, al artículo 38; una Sección Segunda, que comprende los artículos 41 Bis y 41 Bis 1; un tercer párrafo, recorriéndose los subsecuentes, al artículo 54; un segundo párrafo al artículo 58; un artículo 61 Bis; un artículo 74 Bis; un segundo párrafo al artículo 81; un segundo párrafo al artículo 83; un tercer párrafo al artículo 93; una Sección Octava, que comprende el artículo 100 Bis; un quinto párrafo al artículo 113; un artículo 122 Bis; un artículo 138 Bis; un segundo, tercer y cuarto párrafos al artículo 156; un artículo 156 Bis, y se deroga el artículo 44 de la Ley General de Desarrollo Forestal Sustentable, para quedar como sigue: ………
 
 ## Transitorios
 

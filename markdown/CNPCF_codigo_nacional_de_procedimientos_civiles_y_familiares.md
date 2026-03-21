@@ -18,10 +18,7 @@ La Declaratoria que al efecto se expida, deberá señalar expresamente la fecha 
 Entre la Declaratoria a que se hace referencia en los párrafos anteriores, y la entrada en vigor del presente Código Nacional de Procedimientos Civiles y Familiares, deberán mediar máximo 120 días naturales. En todos los casos, vencido el plazo, sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor será automática en todo el territorio nacional sin que la misma pueda exceder el día 1o. de abril de 2027.” Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-SE EXPIDE EL
-
-### Artículo Único
-Se expide el Código Nacional de Procedimientos Civiles y Familiares, para quedar como sigue:
+SE EXPIDE EL Artículo Único.- Se expide el Código Nacional de Procedimientos Civiles y Familiares, para quedar como sigue:
 Libro Primero Del Sistema de Impartición de Justicia en Materia Civil y Familiar
 
 ## Título Primero — Disposiciones Generales
@@ -652,10 +649,7 @@ En lo demás, será aplicable el procedimiento previsto en el artículo 95 de es
 . Cuando dos o más autoridades jurisdiccionales federales se nieguen a conocer de un determinado procedimiento, la parte interesada ocurrirá a la autoridad jurisdiccional que faculte la Ley Orgánica del Poder Judicial de la Federación, sin necesidad de agotar los recursos ordinarios, a fin de que ordene a los que se nieguen a conocer, que le envíen los expedientes en que se contengan sus respectivas resoluciones.
 Recibidos los autos, se correrá de ellos traslado, por cinco días, al Ministerio Público Federal, y, desahogada que sea, se dictará la resolución que proceda, dentro de igual término.
 Cuando la negativa a conocer se suscite entre dos o más autoridades jurisdiccionales del fuero común y federal, y además se encuentren en el mismo circuito judicial, corresponderá al Pleno Regional del Poder Judicial de la Federación respectivo resolver. Cuando sea entre autoridades jurisdiccionales de distintos circuitos judiciales, será el Pleno Regional del Poder Judicial de la Federación de la autoridad jurisdiccional que conoció en primer momento del asunto.
-Una vez recibidos los expedientes, el procedimiento para resolver se ajustará a lo dispuesto en el
-
-### artículo 95
-de este Código Nacional.
+Una vez recibidos los expedientes, el procedimiento para resolver se ajustará a lo dispuesto en el artículo 95 de este Código Nacional.
 
 ### Artículo 103
 . En el caso de que se declare infundada o improcedente la incompetencia, se aplicará una corrección disciplinaria por los montos que establece el artículo 192 fracción III de este Código Nacional, en beneficio del Fondo de Administración de Justicia del Poder Judicial de que se trate.
@@ -5213,10 +5207,7 @@ I. La aprobación del convenio entre la persona deudora y sus acreedores por la 
 
 II. Un plazo de tres meses contados a partir de la notificación al último acreedor del auto referido en este artículo, y
 
-III. Un plazo de tres meses contados a partir de la publicación a que se refiere la fracción IV del
-
-### artículo 840
-.
+III. Un plazo de tres meses contados a partir de la publicación a que se refiere la fracción IV del artículo 840.
 
 ### Artículo 842
 . Por efecto de la notificación a que se refiere la fracción V del artículo 840, el Centro de Justicia Alternativa deberá designar al facilitador o conciliador y notificar a la autoridad jurisdiccional y al facilitador o conciliador sobre su designación.
@@ -5241,10 +5232,7 @@ VI. Los demás que se hubieren fallado en primera instancia, mismos que se acumu
 
 ### Artículo 845
 . El facilitador o conciliador designado para intervenir en el proceso judicial de concurso civil deberá aceptar su cargo ante la autoridad jurisdiccional dentro de los tres días hábiles siguientes a su designación.
-El facilitador o conciliador deberá realizar lo necesario para que, en un plazo máximo de tres meses, contados a partir de la notificación al último acreedor del auto de apertura del procedimiento, se pueda conformar la lista definitiva de créditos, el convenio y plan de pagos en los términos precisados en el
-
-### artículo 823
-del presente Código Nacional debidamente aprobado por los acreedores. En el procedimiento concursal judicial el facilitador o conciliador realizará sus funciones de acuerdo con lo establecido en este Capítulo, siendo responsable de los daños y perjuicios que se produzca a cualquiera de las partes por su culpa o negligencia.
+El facilitador o conciliador deberá realizar lo necesario para que, en un plazo máximo de tres meses, contados a partir de la notificación al último acreedor del auto de apertura del procedimiento, se pueda conformar la lista definitiva de créditos, el convenio y plan de pagos en los términos precisados en el artículo 823 del presente Código Nacional debidamente aprobado por los acreedores. En el procedimiento concursal judicial el facilitador o conciliador realizará sus funciones de acuerdo con lo establecido en este Capítulo, siendo responsable de los daños y perjuicios que se produzca a cualquiera de las partes por su culpa o negligencia.
 El convenio requerirá la aprobación de los acreedores que representen la mitad más uno y que sus créditos representen por lo menos las tres quintas partes del pasivo reconocido a acreedores comunes y de aquellos acreedores garantizados que suscriban el convenio.
 Hecho lo anterior, se pondrá a consideración de la autoridad jurisdiccional el convenio para que en un plazo máximo de ocho días hábiles proceda a su revisión y eventual aprobación, plazo durante el cual se continuarán las medidas protectoras del patrimonio que hayan sido dictadas por la autoridad judicial.
 
@@ -6467,10 +6455,7 @@ IX. Sueldos o comisiones.
 . La designación de embargo sobre créditos o cuentas bancarias de la persona deudora sólo procede respecto de las que existen al momento de la ejecución, y bastará que se haga en forma genérica, para que se trabe el embargo y se perfeccione posteriormente por la parte a cuyo favor se haga la ejecución, con el auxilio judicial acerca de informes que rindan terceros, quienes estarán en todo caso obligados a proporcionar los números de cuenta o crédito que permitan su identificación.
 En el caso de que el ejecutante se reserve el derecho a señalar bienes, no será motivo para dar nueva oportunidad al ejecutado de señalar.
 Cualquier dificultad suscitada en la diligencia no impedirá el embargo; el ejecutor judicial la allanará prudentemente, a reserva de lo que determine la autoridad jurisdiccional.
-En caso de que se pretenda ejecutar deudas de carácter alimentario, la prelación establecida en el
-
-### artículo 819
-del presente Código Nacional no será necesaria.
+En caso de que se pretenda ejecutar deudas de carácter alimentario, la prelación establecida en el artículo 819 del presente Código Nacional no será necesaria.
 
 ### Artículo 1031
 . La persona ejecutante puede señalar los bienes que han de ser objeto de embargo, sin sujetarse al orden establecido por el artículo anterior:
@@ -7507,13 +7492,11 @@ COTEJÓ SECRETARIA: CLAUDIA LISSETTE MONTAÑO MENDOZA.
 Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al trece de agosto de dos mil veinticuatro, emite la siguiente:
 SENTENCIA Mediante la cual se resuelve la acción de inconstitucionalidad 154/2023, promovida por la Comisión Nacional de los Derechos Humanos (CNDH), en contra de los artículos 610, fracciones II, en la porción normativa “el mismo menor que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”; y, IV, en la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”; 638, fracción III; y, 554 en la porción normativa “entendida como la violencia ejercida contra las mujeres a través de los hijos”; todos del Código Nacional de Procedimientos Civiles y Familiares, expedido mediante Decreto publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés. ………..
 
-VII. EFECTOS. 218. De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 constitucional, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, en su caso, los órganos obligados a cumplirla, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. 219. Por lo anterior, se declara la invalidez de la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa” de las fracciones II y IV del
-
-### artículo 610
-; así como de la fracción III del artículo 638, ambos del Código Nacional de Procedimientos Civiles y Familiares. La cual surtirá sus efectos a partir de la notificación de los puntos resolutivos de este fallo al Congreso de la Unión. Y, se declara la validez de la segunda parte del artículo 554, en la porción normativa “entendida como la violencia ejercida contra las mujeres a través de sus hijos”, así como de la fracción II del artículo 610 en la porción normativa “el mismo menor”, ambos del propio Código Nacional de Procedimientos Civiles y Familiares. 220. Por lo expuesto y fundado, este Tribunal Pleno de la Suprema Corte de Justicia de la Nación RESUELVE PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-SEGUNDO. Se reconoce la validez de los artículos 554, en su porción normativa “entendida como la violencia ejercida contra las mujeres a través de sus hijos”, y 610, fracción II, en su porción normativa “el mismo menor”, del Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés.
-TERCERO. Se declara la invalidez de los artículos 610, fracciones II y IV, en sendas porciones normativas “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”, y 638, fracción III, del referido Código Nacional de Procedimientos Civiles y Familiares, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
-CUARTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+VII. EFECTOS. 218. De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 constitucional, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, en su caso, los órganos obligados a cumplirla, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. 219. Por lo anterior, se declara la invalidez de la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa” de las fracciones II y IV del artículo 610; así como de la fracción III del artículo 638, ambos del Código Nacional de Procedimientos Civiles y Familiares. La cual surtirá sus efectos a partir de la notificación de los puntos resolutivos de este fallo al Congreso de la Unión. Y, se declara la validez de la segunda parte del artículo 554, en la porción normativa “entendida como la violencia ejercida contra las mujeres a través de sus hijos”, así como de la fracción II del artículo 610 en la porción normativa “el mismo menor”, ambos del propio Código Nacional de Procedimientos Civiles y Familiares. 220. Por lo expuesto y fundado, este Tribunal Pleno de la Suprema Corte de Justicia de la Nación RESUELVE
+**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.** Se reconoce la validez de los artículos 554, en su porción normativa “entendida como la violencia ejercida contra las mujeres a través de sus hijos”, y 610, fracción II, en su porción normativa “el mismo menor”, del Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés.
+**TERCERO.** Se declara la invalidez de los artículos 610, fracciones II y IV, en sendas porciones normativas “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”, y 638, fracción III, del referido Código Nacional de Procedimientos Civiles y Familiares, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+**CUARTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; mediante oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: …….
 La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos precisados.

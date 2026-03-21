@@ -205,10 +205,7 @@ XXXVII. Aprobar las políticas y procedimientos para la celebración de operacio
 
 XXXVIII. Establecer mecanismos de coordinación entre la Unidad de Responsabilidades en la Comisión Federal de Electricidad, la Coordinación de Control Interno y la Auditoría Interna;
 
-XXXIX. Aprobar los lineamientos de austeridad en el gasto y uso de recursos conforme a los principios del
-
-### artículo 78
-de la presente Ley;
+XXXIX. Aprobar los lineamientos de austeridad en el gasto y uso de recursos conforme a los principios del artículo 78 de la presente Ley;
 
 XL. Aprobar, previa recomendación del Comité de Recursos Humanos, Remuneraciones y Austeridad, el programa anual de austeridad, y
 
@@ -264,10 +261,7 @@ Las personas consejeras independientes no pueden ocupar durante el tiempo de su 
 ### Artículo 19
 .- Las personas consejeras señaladas en las fracciones I a la V del artículo 17 pueden ser suplidas por la persona servidora pública que al efecto designen, con nivel mínimo inmediato inferior. Tratándose de la persona que presida el Consejo, su suplente asume todas las funciones de aquélla.
 Las personas consejeras independientes no pueden tener suplentes y deben ejercer su cargo de manera personal.
-Tratándose de las sesiones de comités, las personas consejeras a que se refieren las fracciones I a la V del
-
-### artículo 17
-de la presente Ley, pueden designar a distintas personas suplentes con nivel mínimo de las dos jerarquías inferiores a la de aquellas.
+Tratándose de las sesiones de comités, las personas consejeras a que se refieren las fracciones I a la V del artículo 17 de la presente Ley, pueden designar a distintas personas suplentes con nivel mínimo de las dos jerarquías inferiores a la de aquellas.
 La persona consejera señalada en la fracción VII del artículo 17 puede ser suplida por la persona trabajadora que para tal efecto designe.
 
 ### Artículo 20
@@ -1399,24 +1393,22 @@ La persona Comisaria debe cumplir los mismos requisitos establecidos para ser pe
 
 **Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **Segundo.-** Se abroga la Ley de la Comisión Federal de Electricidad publicada en el Diario Oficial de la Federación el 11 de agosto de 2014; así mismo, se derogan todas aquellas disposiciones legales y administrativas que se opongan a la presente Ley.
-**Tercero.-** La Comisión Federal de Electricidad se transforma en empresa pública del Estado derivado de la entrada en vigor del Decreto por el que se reforman el párrafo quinto del artículo 25, los párrafos sexto y séptimo del
-
-### artículo 27
-y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas, publicado en el Diario Oficial de la Federación el 31 de octubre de 2024, en cumplimiento a su transitorio segundo, y en los términos de la presente Ley.
+**Tercero.-** La Comisión Federal de Electricidad se transforma en empresa pública del Estado derivado de la entrada en vigor del Decreto por el que se reforman el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas, publicado en el Diario Oficial de la Federación el 31 de octubre de 2024, en cumplimiento a su transitorio segundo, y en los términos de la presente Ley.
 Por ministerio de ley se extinguen las empresas productivas subsidiarias de la Comisión Federal de Electricidad, por lo que la Comisión Federal de Electricidad se subroga en todos los derechos y obligaciones de las empresas productivas subsidiarias que se extinguen, a partir de la entrada en vigor de esta Ley.
 Los efectos fiscales que deriven de la subrogación de derechos y obligaciones a que se refiere el párrafo anterior, se sujetan a lo dispuesto en lo conducente y de manera análoga a las disposiciones jurídicas aplicables relativas a fusión de sociedades residentes en México, y en las reglas de carácter general que en su caso emita el Servicio de Administración Tributaria.
-La Secretaría de Hacienda y Crédito Público debe determinar los términos y condiciones de los efectos fiscales que procedan para la Comisión Federal de Electricidad con anterioridad al Decreto por el que se reforman el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas, publicado en el Diario Oficial de la Federación el 31 de octubre de 2024.
-Cuarto.- La persona titular del Ejecutivo Federal, dentro de los quince días naturales siguientes a la entrada en vigor de esta Ley, debe enviar a la Cámara de Senadores la designación de las dos personas consejeras independientes, acompañada de la documentación que acredite el cumplimiento de los requisitos para ocupar el cargo en los términos señalados en la presente Ley.
+La Secretaría de Hacienda y Crédito Público debe determinar los términos y condiciones de los efectos fiscales que procedan para la Comisión Federal de Electricidad con anterioridad al Decreto por el que se reforman el párrafo
+**quinto.** del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas, publicado en el Diario Oficial de la Federación el 31 de octubre de 2024.
+**Cuarto.-** La persona titular del Ejecutivo Federal, dentro de los quince días naturales siguientes a la entrada en vigor de esta Ley, debe enviar a la Cámara de Senadores la designación de las dos personas consejeras independientes, acompañada de la documentación que acredite el cumplimiento de los requisitos para ocupar el cargo en los términos señalados en la presente Ley.
 La Cámara de Senadores debe ratificar mediante el voto favorable de sus integrantes presentes, las designaciones respectivas, dentro del improrrogable plazo de diez días naturales siguientes a la recepción de la designación.
 Si no se alcanzan los votos mencionados o la Cámara de Senadores no resuelve dentro del plazo señalado, se debe entender rechazada la designación respectiva, en cuyo caso la persona titular del Ejecutivo Federal debe enviar una nueva designación para su ratificación a la Cámara de Senadores, en términos del primer párrafo del presente artículo. Si esta segunda designación también es rechazada, la persona titular del Ejecutivo Federal debe designar directamente a las personas consejeras independientes.
 Por única ocasión y para respetar el escalonamiento previsto en esta Ley, las personas consejeras independientes designadas en términos del presente artículo, asumen su cargo, respectivamente, por cuatro y cinco años, según lo determine la persona titular del Ejecutivo Federal en la designación correspondiente.
 Las personas consejeras independientes que se encuentren en funciones previo a la entrada en vigor de esta Ley, deben cesar en sus funciones al entrar en vigor esta Ley, no obstante, por única ocasión, pueden ser consideradas en la designación que realice la persona titular del Ejecutivo Federal, a que se refiere el primer párrafo del presente artículo.
 Una vez ratificadas las dos personas consejeras independientes, en un plazo no mayor a quince días hábiles siguientes, debe instalarse el Consejo de Administración de la Comisión Federal de Electricidad, cuya sesión de instalación será convocada por única vez por la persona titular de la presidencia de dicho Consejo de Administración.
-Quinto.- La persona titular de la Dirección General de la Comisión Federal de Electricidad en funciones a la entrada en vigor de la presente Ley permanece en su cargo.
-Sexto.- Dentro de treinta días naturales a partir de la instalación del Consejo de Administración, la persona titular de la Dirección General debe presentar al Consejo de Administración, para su aprobación, el programa y esquema de reestructura, así como el Estatuto Orgánico de la Comisión Federal de Electricidad y los nombramientos necesarios. El Estatuto Orgánico que apruebe el Consejo de Administración debe publicarse en el Diario Oficial de la Federación.
-Séptimo.- En tanto se materialice la transferencia de bienes, derechos y obligaciones, así como de recursos humanos, materiales y financieros con motivo de la reestructura de la Comisión Federal de Electricidad, se deben realizar las acciones necesarias para dar continuidad a su operación y funcionamiento, los actos y trámites indispensables para cumplir con su objeto, incluyendo la delegación de funciones o asignación de responsabilidades, según corresponda y, en su caso, la celebración de convenios y acuerdos de coordinación operativa que resulten necesarios para garantizar la continuidad de las actividades y prestación de los servicios a su cargo.
+**Quinto.-** La persona titular de la Dirección General de la Comisión Federal de Electricidad en funciones a la entrada en vigor de la presente Ley permanece en su cargo.
+**Sexto.-** Dentro de treinta días naturales a partir de la instalación del Consejo de Administración, la persona titular de la Dirección General debe presentar al Consejo de Administración, para su aprobación, el programa y esquema de reestructura, así como el Estatuto Orgánico de la Comisión Federal de Electricidad y los nombramientos necesarios. El Estatuto Orgánico que apruebe el Consejo de Administración debe publicarse en el Diario Oficial de la Federación.
+**Séptimo.-** En tanto se materialice la transferencia de bienes, derechos y obligaciones, así como de recursos humanos, materiales y financieros con motivo de la reestructura de la Comisión Federal de Electricidad, se deben realizar las acciones necesarias para dar continuidad a su operación y funcionamiento, los actos y trámites indispensables para cumplir con su objeto, incluyendo la delegación de funciones o asignación de responsabilidades, según corresponda y, en su caso, la celebración de convenios y acuerdos de coordinación operativa que resulten necesarios para garantizar la continuidad de las actividades y prestación de los servicios a su cargo.
 La Comisión Federal de Electricidad debe realizar las acciones necesarias para dar continuidad a los sistemas y controles que permitan la operación ininterrumpida de las actividades y funciones, así como los actos y trámites indispensables para cumplir con los compromisos y obligaciones adquiridos en materias financiera, administrativa, laboral, fiscal y legal, y las necesarias para hacer posible la realización de su objeto, las cuales no podrán exceder de un plazo de doce meses a partir de la entrada en vigor de la presente Ley.
-Octavo.- Se debe designar o, en su caso, ratificar a la persona titular de la Auditoría Interna de la Comisión Federal de Electricidad una vez instalado el Consejo de Administración conforme a lo señalado en el artículo Cuarto
+**Octavo.-** Se debe designar o, en su caso, ratificar a la persona titular de la Auditoría Interna de la Comisión Federal de Electricidad una vez instalado el Consejo de Administración conforme a lo señalado en el artículo Cuarto
 
 ## Transitorio
 

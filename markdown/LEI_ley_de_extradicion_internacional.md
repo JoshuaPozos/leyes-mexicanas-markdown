@@ -70,10 +70,7 @@ El Juez considerará de oficio las excepciones permitidas en el artículo 25, a�
 ARTICULO 28.- Si dentro del término fijado en el artículo 25 el reclamado no opone excepciones o consiente expresamente en su extradición, el Juez procederá sin más trámite dentro de tres días, a emitir su opinión.
 ARTICULO 29.- El Juez remitirá, con el expediente, su opinión a la Secretaría de Relaciones Exteriores, para que el Titular de la misma dicte la resolución a que se refiere el artículo siguiente. El detenido entre tanto, permanecerá en el lugar donde se encuentra a disposición de esa Dependencia.
 ARTICULO 30.- La Secretaría de Relaciones Exteriores en vista del expediente y de la opinión del Juez, dentro de los veinte días siguientes, resolverá si se concede o rehusa la extradición.
-En el mismo acuerdo, se resolverá, si fuere el caso, sobre la entrega de los objetos a que se refiere el
-
-### artículo 21
-.
+En el mismo acuerdo, se resolverá, si fuere el caso, sobre la entrega de los objetos a que se refiere el artículo 21.
 ARTICULO 31.- Si la decisión fuere en el sentido de rehusar la extradición, se ordenará que el reclamado sea puesto inmediatamente en libertad a menos que sea el caso de proceder conforme al artículo siguiente.
 ARTICULO 32.- Si el reclamado fuere mexicano y por ese solo motivo se rehusare la extradición, la Secretaría de Relaciones Exteriores notificará el acuerdo respectivo al detenido, y al Fiscal General de la República, poniéndolo a su disposición, y remitiéndole el expediente para que el Ministerio Público consigne el caso al tribunal competente si hubiere lugar a ello.
 Artículo reformado DOF 20-05-2021 ARTICULO 33.- En todos los casos si la resolución fuere en el sentido de conceder la extradición, ésta se notificará al reclamado.

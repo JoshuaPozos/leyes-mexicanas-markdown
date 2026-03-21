@@ -10,17 +10,12 @@ CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexic
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente D E C R E T O "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
 
 ## CAPÍTULO I — Del Servicio Exterior Mexicano
-
-### ARTÍCULO 1
-.- El Servicio Exterior Mexicano es el cuerpo permanente de servidores públicos, miembros del personal diplomático del Estado, encargado específicamente de representarlo en el extranjero, responsable de ejecutar la política exterior de México, de conformidad con los principios normativos que establece la Constitución Política de los Estados Unidos Mexicanos.
+ARTÍCULO 1.- El Servicio Exterior Mexicano es el cuerpo permanente de servidores públicos, miembros del personal diplomático del Estado, encargado específicamente de representarlo en el extranjero, responsable de ejecutar la política exterior de México, de conformidad con los principios normativos que establece la Constitución Política de los Estados Unidos Mexicanos.
 Párrafo reformado DOF 19-04-2018 El Servicio Exterior depende del Ejecutivo Federal. Su dirección y administración están a cargo de la Secretaría de Relaciones Exteriores, en lo sucesivo denominada la Secretaría, conforme a lo dispuesto por la Ley Orgánica de la Administración Pública Federal y a los lineamientos de política exterior que señale el Presidente de la República, de conformidad con las facultades que le confiere la propia Constitución.
 Las dependencias y entidades de la Administración Pública Federal, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal, en la presente Ley y su Reglamento, se coordinarán con la Secretaría para el ejercicio de sus acciones en el exterior.
 Párrafo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018 La Secretaría como ejecutora de la política exterior y de la actividad diplomática del Estado mexicano, promoverá la coordinación de acciones con las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, los otros poderes federales y los órganos constitucionales autónomos, en el ámbito de sus respectivas competencias, así como acciones de concertación con otros grupos y actores, sociales y privados.
 Párrafo adicionado DOF 19-04-2018 Los servidores públicos, grupos y actores, sociales y privados que colaboren de alguna forma, en actividades diplomáticas, operarán bajo los principios de transversalidad, coordinación, coherencia y profesionalización de la función diplomática del Estado mexicano. Asimismo, observarán los principios de transparencia y rendición de cuentas, respeto y promoción de los derechos humanos, fortalecimiento de la igualdad de género, así como neutralidad política y lealtad al Estado mexicano y apego a los principios normativos de la política exterior mexicana.
-Párrafo adicionado DOF 19-04-2018
-
-### ARTÍCULO 1-BIS
-.- Para los efectos de la presente Ley se entenderá por:
+Párrafo adicionado DOF 19-04-2018 ARTÍCULO 1-BIS.- Para los efectos de la presente Ley se entenderá por:
 
 I. Actividades Diplomáticas: Las acciones desarrolladas por servidores públicos en el ámbito de las relaciones internacionales de México, con la finalidad de cumplir con los objetivos de la política exterior e incrementar la presencia, el impacto y prestigio de México en el mundo;
 
@@ -77,16 +72,10 @@ XXVI. Secretario: Persona que funge como Titular de la Secretaría de Relaciones
 XXVII. Sección Consular: La oficina de una embajada que realiza funciones consulares, y
 
 XXVIII. Servicio Exterior: El Servicio Exterior Mexicano.
-Artículo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018
-
-### ARTÍCULO 1-TER
-.- El lenguaje empleado en la presente Ley no busca generar ninguna clase de discriminación, ni marcar diferencias entre mujeres y hombres, por lo que las referencias o alusiones en la redacción hechas hacia un sexo representan a ambos.
+Artículo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018 ARTÍCULO 1-TER.- El lenguaje empleado en la presente Ley no busca generar ninguna clase de discriminación, ni marcar diferencias entre mujeres y hombres, por lo que las referencias o alusiones en la redacción hechas hacia un sexo representan a ambos.
 La Secretaría promoverá la participación en condiciones de igualdad sustantiva en cualesquiera de los procedimientos establecidos en la presente Ley y su Reglamento.
 Asimismo, la Secretaría promoverá y observará todas las normas de carácter incluyente y no discriminatorio para el debido respeto de los derechos humanos.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 2
-.- Corresponde al Servicio Exterior:
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 2.- Corresponde al Servicio Exterior:
 Párrafo reformado DOF 25-01-2002
 
 I. Promover y salvaguardar los intereses nacionales ante los Estados extranjeros y en los organismos y reuniones internacionales en los que participe México, actuando de manera oportuna y eficaz;
@@ -121,14 +110,8 @@ XII. Las demás funciones que señalen al Servicio Exterior ésta y otras leyes 
 Fracción recorrida DOF 25-01-2002
 
 ## CAPÍTULO II — De la Integración del Servicio Exterior
-Denominación del Capítulo reformada DOF 19-04-2018
-
-### ARTÍCULO 3
-.- El Servicio Exterior se integra por personal de carrera, personal temporal y personal asimilado y comprende las ramas diplomático-consular y técnico-administrativa.
-Artículo reformado DOF 25-01-2002
-
-### ARTÍCULO 4
-.- La rama diplomático-consular comprende los siguientes rangos:
+Denominación del Capítulo reformada DOF 19-04-2018 ARTÍCULO 3.- El Servicio Exterior se integra por personal de carrera, personal temporal y personal asimilado y comprende las ramas diplomático-consular y técnico-administrativa.
+Artículo reformado DOF 25-01-2002 ARTÍCULO 4.- La rama diplomático-consular comprende los siguientes rangos:
 
 I. Embajador;
 
@@ -143,10 +126,7 @@ V. Segundo Secretario;
 VI. Tercer Secretario, y
 
 VII. Agregado Diplomático.
-Artículo reformado DOF 25-01-2002
-
-### ARTÍCULO 5
-.- La rama técnico-administrativa comprende los siguientes rangos:
+Artículo reformado DOF 25-01-2002 ARTÍCULO 5.- La rama técnico-administrativa comprende los siguientes rangos:
 
 I. Coordinador Administrativo;
 
@@ -163,10 +143,7 @@ VI. Se deroga.
 Fracción derogada DOF 19-04-2018
 
 VII. Se deroga.
-Fracción derogada DOF 19-04-2018 Artículo reformado DOF 25-01-2002
-
-### ARTÍCULO 6
-.- El personal de carrera es permanente y su desempeño se basa en los principios de preparación, competencia, capacidad y superación constante, a fin de establecer un servicio profesional para la ejecución de la política exterior de México.
+Fracción derogada DOF 19-04-2018 Artículo reformado DOF 25-01-2002 ARTÍCULO 6.- El personal de carrera es permanente y su desempeño se basa en los principios de preparación, competencia, capacidad y superación constante, a fin de establecer un servicio profesional para la ejecución de la política exterior de México.
 Párrafo reformado DOF 19-04-2018 Los Miembros del Servicio Exterior de carrera podrán encontrarse, durante su pertenencia a éste, en alguno de los siguientes supuestos:
 Párrafo reformado DOF 19-04-2018
 
@@ -181,44 +158,26 @@ IV. en licencia, o
 
 V. en disponibilidad.
 La administración de rangos, plazas, puestos y estructura del Servicio Exterior se regirá por las disposiciones de la presente Ley y su Reglamento.
-Artículo reformado DOF 25-01-2002
-
-### ARTÍCULO 7
-.- El personal temporal que requiera la Secretaría, será designado por acuerdo del Secretario, previo dictamen favorable emitido por la Comisión de Personal, con base en los perfiles que al efecto defina esa Comisión. Dicho personal desempeñará funciones especializadas en adscripciones determinadas, de conformidad con los referidos perfiles y las necesidades del servicio.
+Artículo reformado DOF 25-01-2002 ARTÍCULO 7.- El personal temporal que requiera la Secretaría, será designado por acuerdo del Secretario, previo dictamen favorable emitido por la Comisión de Personal, con base en los perfiles que al efecto defina esa Comisión. Dicho personal desempeñará funciones especializadas en adscripciones determinadas, de conformidad con los referidos perfiles y las necesidades del servicio.
 Dicho personal desempeñará funciones por un plazo que no excederá de seis años, de conformidad con lo establecido en el Reglamento, al término del cual sus funciones cesarán automáticamente y no podrán extenderse. Los así nombrados no forman parte del personal de carrera del Servicio Exterior ni figuran en los escalafones respectivos.
 Los nombramientos del personal temporal no podrán exceder del dieciocho por ciento del total de las plazas autorizadas para el Servicio Exterior en la Secretaría.
 El personal temporal deberá cumplir con los requisitos señalados en el artículo 32 o 33 de la presente Ley, según sea el caso, y estará sujeto durante su comisión a las mismas obligaciones que el personal de carrera.
 Los nombramientos de personal temporal se harán, cuando sea posible, en plazas que no pertenezcan al Servicio Exterior de carrera.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 8
-.- El personal asimilado se compone de servidores públicos y agregados a Misiones Diplomáticas y Representaciones Consulares, cuyo nombramiento haya sido gestionado por otra dependencia o entidad de la Administración Pública Federal u otra autoridad competente, con cargo a su propio presupuesto. Cuando la Secretaría considere procedente la solicitud dicho personal será acreditado con el rango que ésta determine y su asimilación al Servicio Exterior tendrá efectos sólo durante el tiempo que dure la comisión que se le ha conferido.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 8.- El personal asimilado se compone de servidores públicos y agregados a Misiones Diplomáticas y Representaciones Consulares, cuyo nombramiento haya sido gestionado por otra dependencia o entidad de la Administración Pública Federal u otra autoridad competente, con cargo a su propio presupuesto. Cuando la Secretaría considere procedente la solicitud dicho personal será acreditado con el rango que ésta determine y su asimilación al Servicio Exterior tendrá efectos sólo durante el tiempo que dure la comisión que se le ha conferido.
 Párrafo reformado DOF 19-04-2018 El personal asimilado estará sujeto a las mismas obligaciones que los miembros del personal de carrera del Servicio Exterior y las dependencias o entidades que hayan solicitado su asimilación serán las únicas responsables de los actos realizados por sus representantes. Asimismo, estará comisionado en el extranjero bajo la autoridad del jefe de la misión diplomática o representación consular correspondiente, a quien deberá informar de sus actividades y atender las recomendaciones que formule sobre sus gestiones, especialmente por lo que se refiere a las políticas generales y las prácticas diplomáticas o consulares.
 La Secretaría determinará los casos en que el personal temporal o asimilado deba acudir a cursos de capacitación en el Instituto Matías Romero, antes de asumir su cargo en el extranjero.
-Artículo reformado DOF 25-01-2002
-
-### ARTÍCULO 9
-.- La Secretaría deberá mantener y gestionar ante las autoridades correspondientes, que la estructura de plazas en los diferentes rangos permita una adecuada movilidad escalafonaria, de tal modo que se mantenga una pirámide ascendente entre los rangos de agregado diplomático y Ministro. Lo anterior, se hará de acuerdo con los lineamientos de racionalidad, austeridad y disciplina presupuestaria.
+Artículo reformado DOF 25-01-2002 ARTÍCULO 9.- La Secretaría deberá mantener y gestionar ante las autoridades correspondientes, que la estructura de plazas en los diferentes rangos permita una adecuada movilidad escalafonaria, de tal modo que se mantenga una pirámide ascendente entre los rangos de agregado diplomático y Ministro. Lo anterior, se hará de acuerdo con los lineamientos de racionalidad, austeridad y disciplina presupuestaria.
 De igual manera, la Secretaría deberá gestionar ante las autoridades correspondientes, la autorización de creación de nuevas plazas de las ramas diplomática-consular y técnico-administrativa con la periodicidad que resulte necesaria para el cabal cumplimiento del Plan de Carrera, tomando en consideración las funciones de representación y ejecución de la política exterior mexicana, en términos de lo previsto en el marco normativo aplicable en materia presupuestaria.
 Párrafo adicionado DOF 19-04-2018 Asimismo, la Secretaría hará la revisión de la estructura salarial de los Miembros del Servicio Exterior de carrera ante las autoridades correspondientes, para lo cual, la Comisión de Personal deberá someter a consideración del Secretario, un análisis sobre el costo de vida en los diversos países, así como el tipo de cambio de la moneda correspondiente, con la finalidad de garantizar un poder adquisitivo equivalente en todos los lugares de destino, estabilizando el sueldo mensual en la moneda local.
 Párrafo adicionado DOF 19-04-2018 Artículo reformado DOF 25-01-2002
 
 ## CAPÍTULO III — De la Organización del Servicio Exterior
-Denominación del Capítulo reformada DOF 19-04-2018
-
-### ARTÍCULO 10
-.- En el extranjero, los Miembros del Servicio Exterior desempeñarán indistintamente sus funciones en una Misión Diplomática, Representación Consular, Misiones Especiales y delegaciones a conferencias o reuniones internacionales. La Secretaría fijará las modalidades de acreditación del personal adscrito en el exterior, de acuerdo con el derecho y las prácticas internacionales.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 11
-.- La Secretaría vigilará que la adscripción en el extranjero y en México del personal de carrera se ajuste a una rotación programada, asegurándose que, sin excepción, ningún miembro permanezca en el exterior por más de ocho años continuos o en el país más de seis años continuos, privilegiando en todo momento las necesidades del servicio.
+Denominación del Capítulo reformada DOF 19-04-2018 ARTÍCULO 10.- En el extranjero, los Miembros del Servicio Exterior desempeñarán indistintamente sus funciones en una Misión Diplomática, Representación Consular, Misiones Especiales y delegaciones a conferencias o reuniones internacionales. La Secretaría fijará las modalidades de acreditación del personal adscrito en el exterior, de acuerdo con el derecho y las prácticas internacionales.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 11.- La Secretaría vigilará que la adscripción en el extranjero y en México del personal de carrera se ajuste a una rotación programada, asegurándose que, sin excepción, ningún miembro permanezca en el exterior por más de ocho años continuos o en el país más de seis años continuos, privilegiando en todo momento las necesidades del servicio.
 La temporalidad de las comisiones de los Miembros del Servicio Exterior en adscripciones donde se reciba el beneficio de la semana sanitaria y en las ciudades consideradas de vida difícil, será de conformidad con lo establecido en el Reglamento.
 La Comisión de Personal a sugerencia de la Subcomisión de Rotación, recomendará al Secretario los traslados que por necesidades del servicio se deban llevar a cabo fuera del programa de rotación anual, procurando que el personal de carrera no permanezca menos de dos años, ni más de seis en una misma adscripción en el exterior.
 En el Reglamento de la presente Ley se establecerán modalidades, a fin de favorecer una equilibrada rotación del personal de carrera, entre áreas geográficas diversas y de especialización temática, así como para evitar dos adscripciones continuas de vida difícil o de pronunciada carestía. Asimismo, para los programas de rotación, además de las necesidades del servicio, habrán de tomarse en cuenta las especialidades profesionales, el conocimiento de idiomas, la perspectiva de género y la integración familiar del personal del Servicio Exterior.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 11-BIS
-.- Las recomendaciones de traslado serán presentadas a la Comisión de Personal por la Subcomisión de Rotación. Esta Subcomisión se integrará por:
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 11-BIS.- Las recomendaciones de traslado serán presentadas a la Comisión de Personal por la Subcomisión de Rotación. Esta Subcomisión se integrará por:
 
 I. Presidencia de la Comisión de Personal, cuyo titular la presidirá;
 Fracción reformada DOF 19-04-2018
@@ -234,82 +193,37 @@ IV. Cuatro servidores públicos del Servicio Exterior con rango mínimo de conse
 V. Un representante de cada una de las Subsecretarías y de la Agencia Mexicana de Cooperación Internacional para el Desarrollo, los cuales deberán ser Miembros del Servicio Exterior de carrera con rango mínimo de consejero o de coordinador administrativo, propuestos por los titulares de cada Subsecretaría y por la Agencia.
 Fracción adicionada DOF 19-04-2018 La Secretaría dará a conocer anualmente, a través del Instituto Matías Romero, las oportunidades de capacitación y preparación académica disponibles para los Miembros del Servicio Exterior en México y en el extranjero, así como sus requisitos.
 Párrafo reformado DOF 19-04-2018 Los aspirantes que satisfagan los requisitos correspondientes a dichas oportunidades deberán presentar sus candidaturas a la Subcomisión de Rotación, misma que después del análisis del expediente y requisitos de los interesados resolverá lo conducente.
-Artículo adicionado DOF 25-01-2002
-
-### ARTÍCULO 12
-.- Las Misiones Diplomáticas de México ante gobiernos extranjeros tendrán el rango de Embajadas y ante organismos internacionales, el de Misiones Permanentes; las Representaciones Consulares tendrán el rango de Consulados Generales, Consulados, Agencias Consulares y Consulados Honorarios.
+Artículo adicionado DOF 25-01-2002 ARTÍCULO 12.- Las Misiones Diplomáticas de México ante gobiernos extranjeros tendrán el rango de Embajadas y ante organismos internacionales, el de Misiones Permanentes; las Representaciones Consulares tendrán el rango de Consulados Generales, Consulados, Agencias Consulares y Consulados Honorarios.
 La Secretaría determinará la ubicación y funciones específicas de cada una de ellas incluyendo, en su caso, las concurrencias y las Circunscripciones Consulares.
 Para tales efectos, el Secretario autorizará la apertura, cierre o redefinición de Consulados Generales, a propuesta del Subsecretario correspondiente a la región geográfica de que se trate y previa recomendación de la Comisión de Personal, debiéndose notificar dicha determinación al Senado de la República.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 13
-.- El Secretario podrá designar cónsules honorarios, quienes no serán considerados personal del Servicio Exterior.
-Artículo reformado DOF 25-01-2002
-
-### ARTÍCULO 14
-.- El Presidente de la República, por conducto del Secretario, podrá designar Misiones Especiales.
-Artículo reformado DOF 19-04-2018
-
-### ARTÍCULO 15
-.- En todas las Misiones Diplomáticas y Representaciones Consulares, inmediatamente después del titular de las mismas habrá un jefe de cancillería y un representante alterno o cónsul adscrito, según corresponda; estos puestos los desempeñará el Miembro del Servicio Exterior de carrera de mayor jerarquía. Las ausencias temporales de los titulares de las Misiones Diplomáticas o Representaciones Consulares, según el caso, serán cubiertas por el jefe de cancillería, representante alterno o por el cónsul adscrito.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 16
-.- La Secretaría determinará la composición y funciones de las delegaciones que representen a México en conferencias y reuniones internacionales. Durante el desempeño de su comisión, los integrantes de las delegaciones se ajustarán a las instrucciones específicas que imparta la Secretaría. Cuando la delegación tenga una misión específica que afecte la esfera de competencia de otra dependencia de la Administración Pública Federal, la Secretaría deberá escuchar, atender y asesorar a la dependencia que corresponda para la integración e instrucciones de la delegación.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 13.- El Secretario podrá designar cónsules honorarios, quienes no serán considerados personal del Servicio Exterior.
+Artículo reformado DOF 25-01-2002 ARTÍCULO 14.- El Presidente de la República, por conducto del Secretario, podrá designar Misiones Especiales.
+Artículo reformado DOF 19-04-2018 ARTÍCULO 15.- En todas las Misiones Diplomáticas y Representaciones Consulares, inmediatamente después del titular de las mismas habrá un jefe de cancillería y un representante alterno o cónsul adscrito, según corresponda; estos puestos los desempeñará el Miembro del Servicio Exterior de carrera de mayor jerarquía. Las ausencias temporales de los titulares de las Misiones Diplomáticas o Representaciones Consulares, según el caso, serán cubiertas por el jefe de cancillería, representante alterno o por el cónsul adscrito.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 16.- La Secretaría determinará la composición y funciones de las delegaciones que representen a México en conferencias y reuniones internacionales. Durante el desempeño de su comisión, los integrantes de las delegaciones se ajustarán a las instrucciones específicas que imparta la Secretaría. Cuando la delegación tenga una misión específica que afecte la esfera de competencia de otra dependencia de la Administración Pública Federal, la Secretaría deberá escuchar, atender y asesorar a la dependencia que corresponda para la integración e instrucciones de la delegación.
 Todos los servidores públicos que se encuentren en el extranjero con representación o comisión oficial, deberán informar sobre su arribo a los Jefes de Misión o de las Representaciones Consulares, según sea el caso, así como sobre sus actividades y atender sus observaciones en calidad de representantes del Estado mexicano.
-Párrafo reformado DOF 19-04-2018
-
-### ARTÍCULO 17
-.- El rango en el Servicio Exterior de carrera será independiente de la plaza o puesto que ocupen sus miembros en el exterior o en las unidades administrativas de la Secretaría.
+Párrafo reformado DOF 19-04-2018 ARTÍCULO 17.- El rango en el Servicio Exterior de carrera será independiente de la plaza o puesto que ocupen sus miembros en el exterior o en las unidades administrativas de la Secretaría.
 Cuando los Miembros del Servicio Exterior de carrera sean designados para ocupar un puesto en la Secretaría o en el exterior, se les cubrirán las remuneraciones que correspondan a la plaza asignada y tendrán los derechos y prestaciones que señala la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la presente Ley y su Reglamento.
 Los Miembros del Servicio Exterior de carrera conservarán su lugar en el escalafón, acumularán la antigüedad que corresponda para los efectos de esta Ley y podrán ascender independientemente de la plaza o puesto que les asigne la Secretaría.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 18
-.- El Secretario, previa recomendación de la Comisión de Personal, podrá comisionar temporalmente a Miembros del Servicio Exterior de carrera, en otras dependencias y entidades de la Administración Pública Federal o local u otras entidades públicas federales; en los Poderes Legislativo o Judicial, en órganos constitucionales autónomos; en instituciones de educación superior o en organismos internacionales.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 18.- El Secretario, previa recomendación de la Comisión de Personal, podrá comisionar temporalmente a Miembros del Servicio Exterior de carrera, en otras dependencias y entidades de la Administración Pública Federal o local u otras entidades públicas federales; en los Poderes Legislativo o Judicial, en órganos constitucionales autónomos; en instituciones de educación superior o en organismos internacionales.
 Párrafo reformado DOF 19-04-2018 La recomendación de la Comisión de Personal deberá tomar en cuenta la utilidad de la comisión propuesta para la Secretaría, el perfil idóneo de la persona que vaya a ser comisionada, las posibles aportaciones y la viabilidad de la comisión. Quienes desempeñan estas comisiones, conservarán sus derechos de ascenso y antigüedad para efectos escalafonarios.
 Párrafo reformado DOF 19-04-2018 La duración y los términos de las comisiones concedidas con base en este artículo estarán regulados por el Reglamento de la Ley.
 Artículo reformado DOF 25-01-2002
 
 ## CAPÍTULO IV — De los Embajadores y Cónsules Generales
-Denominación del Capítulo reformada DOF 19-04-2018
-
-### ARTÍCULO 19
-.- Sin perjuicio de lo que dispone la fracción III del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, la designación de embajadores y cónsules generales la hará el Presidente de la República, preferentemente entre los Miembros del Servicio Exterior de carrera de mayor competencia, categoría y antigüedad en la rama diplomático-consular.
+Denominación del Capítulo reformada DOF 19-04-2018 ARTÍCULO 19.- Sin perjuicio de lo que dispone la fracción III del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, la designación de embajadores y cónsules generales la hará el Presidente de la República, preferentemente entre los Miembros del Servicio Exterior de carrera de mayor competencia, categoría y antigüedad en la rama diplomático-consular.
 Independientemente de que un Miembro del Servicio Exterior de carrera sea designado embajador o cónsul general, el Presidente de la República podrá removerlo libremente en los términos de la fracción II del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, pero esa determinación no afectará su situación como personal de carrera, a menos que la separación ocurra en los términos de la fracción IV del artículo 57 de esta Ley.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 19-BIS
-.- Los embajadores y cónsules generales, a través de la Secretaría, presentarán anualmente y por escrito ante el Senado de la República, un informe general de actividades que considere las acciones realizadas en su circunscripción, correspondientes al año inmediato anterior.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 19-BIS.- Los embajadores y cónsules generales, a través de la Secretaría, presentarán anualmente y por escrito ante el Senado de la República, un informe general de actividades que considere las acciones realizadas en su circunscripción, correspondientes al año inmediato anterior.
 El informe general de actividades deberá entregarse en el mes de enero de cada año, como parte de los informes anuales que presenta el Secretario en materia de política exterior y, por tanto, de los temas que se podrán abordar en su comparecencia ante el Senado de la República, de conformidad con lo dispuesto por el artículo 76, fracción I de la Constitución Política de los Estados Unidos Mexicanos.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 20
-.- Para ser designado embajador o cónsul general se requiere: ser mexicano por nacimiento y no tener otra nacionalidad, estar en pleno goce de sus derechos civiles y políticos, ser mayor de 30 años de edad y reunir los méritos suficientes para el eficaz desempeño de su cargo.
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 20.- Para ser designado embajador o cónsul general se requiere: ser mexicano por nacimiento y no tener otra nacionalidad, estar en pleno goce de sus derechos civiles y políticos, ser mayor de 30 años de edad y reunir los méritos suficientes para el eficaz desempeño de su cargo.
 Párrafo reformado DOF 19-04-2018 Los mexicanos por nacimiento a los que otro Estado considere como sus nacionales, deberán presentar el certificado de nacionalidad mexicana y el documento de renuncia de la otra nacionalidad.
 El Instituto Matías Romero ofrecerá cursos en materia de política exterior y Actividades Diplomáticas, a aquellas personas que sean designadas para ser embajadores o cónsules generales y no pertenezcan al Servicio Exterior.
-Párrafo adicionado DOF 19-04-2018 Artículo reformado DOF 23-01-1998, 25-01-2002
-
-### ARTÍCULO 21
-.- En ocasión de una vacante en el escalafón del Servicio Exterior en el rango de embajador, el Secretario someterá a la consideración y, en su caso, aprobación del Presidente de la República, los nombres y antecedentes de los ministros del personal de carrera que, a su juicio, tengan los méritos y antigüedades necesarios para ascender al rango inmediato superior, previa evaluación de la Comisión de Personal.
-Artículo reformado DOF 19-04-2018
-
-### ARTÍCULO 22
-.- En casos excepcionales podrán acreditarse como titulares de Misiones Diplomáticas o Consulados Generales, miembros del personal de carrera que tengan el rango de ministro. Esta acreditación no alterará la situación en el escalafón de los así designados, en la inteligencia de que tendrán derecho a los emolumentos y prestaciones que correspondan a dicha función.
-Artículo reformado DOF 19-04-2018
-
-### ARTÍCULO 23
-.- Las designaciones de Jefes de Misiones Diplomáticas y Permanentes ante Estados y organismos internacionales, respectivamente, de embajadores especiales y de cónsules generales serán sometidas a la ratificación del Senado de la República o, en sus recesos, de la Comisión Permanente, según lo disponen los artículos 76, fracción II, 78, fracción VII y 89, fracción III, de la Constitución Política de los Estados Unidos Mexicanos. Sin este requisito la persona designada no podrá tomar posesión de su cargo.
+Párrafo adicionado DOF 19-04-2018 Artículo reformado DOF 23-01-1998, 25-01-2002 ARTÍCULO 21.- En ocasión de una vacante en el escalafón del Servicio Exterior en el rango de embajador, el Secretario someterá a la consideración y, en su caso, aprobación del Presidente de la República, los nombres y antecedentes de los ministros del personal de carrera que, a su juicio, tengan los méritos y antigüedades necesarios para ascender al rango inmediato superior, previa evaluación de la Comisión de Personal.
+Artículo reformado DOF 19-04-2018 ARTÍCULO 22.- En casos excepcionales podrán acreditarse como titulares de Misiones Diplomáticas o Consulados Generales, miembros del personal de carrera que tengan el rango de ministro. Esta acreditación no alterará la situación en el escalafón de los así designados, en la inteligencia de que tendrán derecho a los emolumentos y prestaciones que correspondan a dicha función.
+Artículo reformado DOF 19-04-2018 ARTÍCULO 23.- Las designaciones de Jefes de Misiones Diplomáticas y Permanentes ante Estados y organismos internacionales, respectivamente, de embajadores especiales y de cónsules generales serán sometidas a la ratificación del Senado de la República o, en sus recesos, de la Comisión Permanente, según lo disponen los artículos 76, fracción II, 78, fracción VII y 89, fracción III, de la Constitución Política de los Estados Unidos Mexicanos. Sin este requisito la persona designada no podrá tomar posesión de su cargo.
 Para tales efectos, se remitirá el expediente con la documentación que acredite el cumplimiento de los requisitos exigidos para el cargo por la Constitución Política de los Estados Unidos Mexicanos y la presente Ley, así como la opinión que al efecto emita la Comisión de Personal, con base en el perfil correspondiente.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 24
-.- Dentro del rango de Embajador habrá un máximo de diez plazas de embajador eminente, como distinción a los miembros de ese rango por su actuación destacada de servicio al país en el ámbito de la política exterior.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 24.- Dentro del rango de Embajador habrá un máximo de diez plazas de embajador eminente, como distinción a los miembros de ese rango por su actuación destacada de servicio al país en el ámbito de la política exterior.
 Para cubrir una vacante de embajador eminente, el Secretario someterá a la consideración del Presidente de la República los nombres y antecedentes de aquellas personas que tengan una antigüedad mínima de diez años como embajador y que hayan ocupado cargos de Director General o superiores en la Secretaría o desempeñado importantes misiones en el exterior. El Ejecutivo Federal hará las designaciones correspondientes. La categoría de embajador eminente sólo podrá usarse en el ámbito interno y tendrá la compensación que fije el Presupuesto de Egresos de la Federación.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 25
-.- El Presidente de la República podrá reconocer la dignidad de embajador emérito como culminación de una destacada y prolongada actuación de servicio al país en el ámbito de la política exterior. En ningún momento habrá más de cinco embajadores eméritos y serán designados de una lista de candidatos que satisfagan los siguientes requisitos:
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 25.- El Presidente de la República podrá reconocer la dignidad de embajador emérito como culminación de una destacada y prolongada actuación de servicio al país en el ámbito de la política exterior. En ningún momento habrá más de cinco embajadores eméritos y serán designados de una lista de candidatos que satisfagan los siguientes requisitos:
 Párrafo reformado DOF 19-04-2018
 
 I. Ser embajador, retirado o en servicio activo, que haya dedicado por lo menos 25 años al Servicio Exterior y se haya distinguido por haber ocupado cargos de importancia en el Servicio Exterior o en la Secretaría, por sus obras escritas sobre temas internacionales, o por haber prestado otros servicios destacados en el campo de las relaciones internacionales de México, o Fracción reformada DOF 19-04-2018
@@ -320,15 +234,9 @@ Párrafo reformado DOF 19-04-2018 La categoría de embajador emérito sólo podr
 Ningún embajador podrá ser, a la vez, embajador eminente y embajador emérito.
 
 ## CAPÍTULO V
-La Comisión de Personal Denominación del Capítulo reformada DOF 19-04-2018
-
-### ARTÍCULO 26
-.- La Comisión de Personal, en los términos de esta Ley y su Reglamento, tendrá como atribuciones someter a la consideración del Secretario recomendaciones para el ingreso, reincorporación, ascensos, traslados, comisiones, disponibilidades, separaciones, retiro, aprobación y modificaciones al Plan de Carrera, asuntos disciplinarios y casos excepcionales de licencia de personal del Servicio Exterior.
+La Comisión de Personal Denominación del Capítulo reformada DOF 19-04-2018 ARTÍCULO 26.- La Comisión de Personal, en los términos de esta Ley y su Reglamento, tendrá como atribuciones someter a la consideración del Secretario recomendaciones para el ingreso, reincorporación, ascensos, traslados, comisiones, disponibilidades, separaciones, retiro, aprobación y modificaciones al Plan de Carrera, asuntos disciplinarios y casos excepcionales de licencia de personal del Servicio Exterior.
 Asimismo, someterá a la consideración del Secretario recomendaciones de mejora continua del Servicio Exterior, para lo cual se apoyará en la Subcomisión de Análisis y Prospectiva.
-Artículo reformado DOF 19-04-2018
-
-### ARTÍCULO 26-BIS
-.- La Subcomisión de Análisis y Prospectiva está integrada por:
+Artículo reformado DOF 19-04-2018 ARTÍCULO 26-BIS.- La Subcomisión de Análisis y Prospectiva está integrada por:
 
 I. Presidencia de la Comisión de Personal, cuyo titular la presidirá;
 
@@ -340,18 +248,9 @@ IV. Titular de la Dirección General que tenga bajo su cargo los asuntos concern
 
 V. Representante de cada una de las ramas del Servicio Exterior, con rango mínimo de Agregado Administrativo “A” y Consejero, respectivamente; propuestos por quien ocupe la Presidencia de la Comisión de Personal y aprobados por el Secretario.
 Adicionalmente, esta Subcomisión podrá invitar a otros Miembros del Servicio Exterior, servidores públicos y/o representantes de la sociedad civil, sector privado, académico, entre otros, con el objetivo de allegarse mayores elementos para el desahogo de sus funciones.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 26-TER
-.- Para una mejor conducción de las Actividades Diplomáticas, la Comisión de Personal también podrá promover y fomentar vínculos entre el Servicio Exterior y dependencias y entidades del sector público federal o local que cuenten con áreas encargadas del desahogo de asuntos internacionales; así como con organizaciones de la sociedad civil o del sector privado.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 26-QUÁTER
-.- La Comisión de Personal operará con criterios técnicos, así como con los recursos necesarios para el desahogo de sus funciones.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 27
-.- La Comisión de Personal del Servicio Exterior, se integrará de la siguiente manera:
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 26-TER.- Para una mejor conducción de las Actividades Diplomáticas, la Comisión de Personal también podrá promover y fomentar vínculos entre el Servicio Exterior y dependencias y entidades del sector público federal o local que cuenten con áreas encargadas del desahogo de asuntos internacionales; así como con organizaciones de la sociedad civil o del sector privado.
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 26-QUÁTER.- La Comisión de Personal operará con criterios técnicos, así como con los recursos necesarios para el desahogo de sus funciones.
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 27.- La Comisión de Personal del Servicio Exterior, se integrará de la siguiente manera:
 
 I. Embajador de carrera del Servicio Exterior designado por el Secretario, quien la presidirá y deberá dedicarse de tiempo completo a las labores propias de su cargo, cuyo periodo no será menor de un año, ni mayor de tres.
 La persona que ocupe la presidencia de la Comisión de Personal tendrá la representación legal de dicho órgano colegiado para efectos de juicios de amparo, de nulidad y federales. En caso de ausencia temporal de quien presida la Comisión de Personal, será suplido para tales efectos por la o el titular de la Dirección General de Asuntos Jurídicos de la Secretaría;
@@ -375,10 +274,7 @@ VII. Dos Miembros del Servicio Exterior, con rango mínimo de Consejero, propues
 Fracción adicionada DOF 19-04-2018 Los miembros de la Comisión no podrán participar a través de representantes o suplentes, con excepción de la persona que la presida, quien podrá ser suplida por la o el titular de la Oficialía Mayor.
 Párrafo reformado DOF 25-01-2002, 19-04-2018 En los casos en que la Comisión trate asuntos que incidan sobre el conjunto de los miembros del Servicio Exterior, ésta podrá, a través de invitaciones, asesorarse de personas ajenas a la Secretaría y al Servicio Exterior.
 Párrafo reformado DOF 25-01-2002 A propuesta de la Comisión, el Secretario expedirá las Reglas del Procedimiento de la Comisión de Personal.
-Párrafo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 27-BIS
-.- La Comisión de Personal contará con cinco subcomisiones:
+Párrafo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 27-BIS.- La Comisión de Personal contará con cinco subcomisiones:
 
 I. Subcomisión de Ingreso;
 
@@ -394,22 +290,13 @@ Asimismo, la Comisión de Personal podrá establecer los grupos de trabajo que c
 Artículo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018
 
 ## CAPÍTULO V BIS
-Plan de Carrera del Servicio Exterior Capítulo adicionado DOF 19-04-2018
-
-### ARTÍCULO 27-TER
-.- Los procesos de formación, evaluación, rotación y ascensos de las dos ramas del Servicio Exterior estarán sujetos a un Plan de Carrera que será publicado en el Diario Oficial de la Federación.
+Plan de Carrera del Servicio Exterior Capítulo adicionado DOF 19-04-2018 ARTÍCULO 27-TER.- Los procesos de formación, evaluación, rotación y ascensos de las dos ramas del Servicio Exterior estarán sujetos a un Plan de Carrera que será publicado en el Diario Oficial de la Federación.
 Se entenderá por Plan de Carrera el proyecto de trayectoria y formación de los Miembros del Servicio Exterior, con el fin de adquirir los conocimientos y experiencia necesarios para profesionalizar su desempeño al servicio del Estado en materia de administración pública y Actividades Diplomáticas.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 27-QUÁTER
-.- Todo lo concerniente al diseño, etapas, requisitos, evaluaciones de desempeño y estrategias de formación del Plan de Carrera se desarrollarán de conformidad con lo dispuesto en el Reglamento.
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 27-QUÁTER.- Todo lo concerniente al diseño, etapas, requisitos, evaluaciones de desempeño y estrategias de formación del Plan de Carrera se desarrollarán de conformidad con lo dispuesto en el Reglamento.
 Artículo adicionado DOF 19-04-2018
 
 ## CAPÍTULO VI — Del Ingreso al Servicio Exterior
-Denominación del Capítulo reformada DOF 19-04-2018
-
-### ARTÍCULO 28
-.- El proceso para ingresar como Miembro del Servicio Exterior de carrera se realizará por oposición, mediante concursos públicos preferentemente anuales, que serán organizados en etapas eliminatorias y deberán contemplar, al menos, los siguientes elementos:
+Denominación del Capítulo reformada DOF 19-04-2018 ARTÍCULO 28.- El proceso para ingresar como Miembro del Servicio Exterior de carrera se realizará por oposición, mediante concursos públicos preferentemente anuales, que serán organizados en etapas eliminatorias y deberán contemplar, al menos, los siguientes elementos:
 Párrafo reformado DOF 25-01-2002, 19-04-2018
 
 I. Examen de cultura general orientado a las relaciones internacionales, en el caso de la rama Diplomático-Consular, y examen de conocimientos generales, en el caso de la rama TécnicoAdministrativa;
@@ -434,14 +321,8 @@ VII. Cursos especializados en el Instituto Matías Romero, cuya duración no exc
 VIII. Un periodo de experiencia práctica en la Secretaría cuya duración no excederá de seis meses.
 Fracción adicionada DOF 25-01-2002 La Subcomisión de Ingreso evaluará la importancia y la actualidad de los elementos antes mencionados.
 Párrafo adicionado DOF 19-04-2018 La Subcomisión de Ingreso fomentará la participación de las mujeres en los procesos de ingreso y adoptará metodologías y mecanismos que tiendan a favorecer la paridad de género en el Servicio Exterior.
-Párrafo adicionado DOF 19-04-2018
-
-### ARTÍCULO 29
-.- La Comisión de Personal dará aviso oportuno al Secretario de las vacantes en el rango de agregado diplomático, a fin de que convoque a un concurso anual de ingreso para cubrirlas e instale la Subcomisión de Ingreso.
-Artículo reformado DOF 25-01-2002
-
-### ARTÍCULO 30
-.- La Subcomisión de Ingreso estará integrada por:
+Párrafo adicionado DOF 19-04-2018 ARTÍCULO 29.- La Comisión de Personal dará aviso oportuno al Secretario de las vacantes en el rango de agregado diplomático, a fin de que convoque a un concurso anual de ingreso para cubrirlas e instale la Subcomisión de Ingreso.
+Artículo reformado DOF 25-01-2002 ARTÍCULO 30.- La Subcomisión de Ingreso estará integrada por:
 
 I. Presidencia de la Comisión de Personal, cuyo titular la presidirá;
 
@@ -456,15 +337,9 @@ V. Representante del área de la Secretaría encargada de llevar los asuntos de 
 VI. Otra persona ajena a la Secretaría que tenga experiencia en recursos humanos.
 Adicionalmente, la Subcomisión de Ingreso podrá invitar hasta dos servidores públicos de la Administración Pública Federal, con probada experiencia en Actividades Diplomáticas, entre otras.
 La Subcomisión de Ingreso verificará el cumplimiento de los requisitos establecidos en los artículos 32 y 33 de la presente Ley y organizará y calificará los exámenes de ingreso de las ramas DiplomáticoConsular y Técnico-Administrativa del Servicio Exterior.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 31
-.- Quienes sean admitidos en el Instituto Matías Romero para ingresar a las ramas Diplomático-Consular y Técnico-Administrativa serán considerados, durante el tiempo que estudien en el mismo, como becarios y tendrán las percepciones que determine la Secretaría, así como durante su período de práctica en esta última.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 31.- Quienes sean admitidos en el Instituto Matías Romero para ingresar a las ramas Diplomático-Consular y Técnico-Administrativa serán considerados, durante el tiempo que estudien en el mismo, como becarios y tendrán las percepciones que determine la Secretaría, así como durante su período de práctica en esta última.
 Transcurrido el período al que se refieren las fracciones VII y VIII del artículo 28 de la presente Ley, la Comisión de Personal evaluará su desempeño en la Secretaría para determinar si recomienda su nombramiento como Agregado Diplomático, en el caso de la rama Diplomático-Consular, o Agregado Administrativo “D”, en el caso de la rama Técnico-Administrativa.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 32
-.- Los candidatos a ingresar a la rama diplomático-consular deberán cumplir con los siguientes requisitos:
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 32.- Los candidatos a ingresar a la rama diplomático-consular deberán cumplir con los siguientes requisitos:
 
 I. Ser mexicano por nacimiento y no tener otra nacionalidad, en pleno ejercicio de sus derechos civiles y políticos.
 Los mexicanos por nacimiento a los que otro Estado considere como sus nacionales, deberán presentar el certificado de nacionalidad mexicana y el documento de renuncia de la otra nacionalidad;
@@ -482,26 +357,14 @@ Fracción reformada DOF 19-04-2018
 V. No ser ministro de algún culto religioso, y Fracción reformada DOF 19-04-2018
 
 VI. Tener por lo menos el grado académico de licenciatura por una universidad o institución de enseñanza superior mexicana o extranjera, con reconocimiento de validez oficial, asimismo deberá tomar los cursos que formen parte de los programas de capacitación que, en materia diplomática y consular imparta, el Instituto Matías Romero.
-Fracción reformada DOF 25-01-2002, 01-06-2016, 19-04-2018
-
-### ARTÍCULO 33
-.- Los requisitos de ingreso a la rama Técnico-Administrativa serán los mismos que se señalan para la rama Diplomático-Consular, con excepción del requerimiento del grado académico, para lo que será suficiente haber obtenido el grado de técnico superior universitario o equivalente y el dominio de un idioma extranjero reconocido como lengua oficial de la Organización de las Naciones Unidas, preferentemente el inglés.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 34
-.- El personal temporal o asimilado de la rama Diplomático-Consular y TécnicoAdministrativa, así como los servidores públicos de la Secretaría, que tengan una antigüedad mínima de dieciséis años en dichos supuestos o como servidores públicos, podrán ingresar al Servicio Exterior como personal de carrera de la rama Diplomático-Consular, con el rango de Consejero, siempre que satisfagan el contenido de las fracciones II, III, V y VI del artículo 28 y cumplan con los requisitos de ingreso previstos en el artículo 32 de la presente Ley.
+Fracción reformada DOF 25-01-2002, 01-06-2016, 19-04-2018 ARTÍCULO 33.- Los requisitos de ingreso a la rama Técnico-Administrativa serán los mismos que se señalan para la rama Diplomático-Consular, con excepción del requerimiento del grado académico, para lo que será suficiente haber obtenido el grado de técnico superior universitario o equivalente y el dominio de un idioma extranjero reconocido como lengua oficial de la Organización de las Naciones Unidas, preferentemente el inglés.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 34.- El personal temporal o asimilado de la rama Diplomático-Consular y TécnicoAdministrativa, así como los servidores públicos de la Secretaría, que tengan una antigüedad mínima de dieciséis años en dichos supuestos o como servidores públicos, podrán ingresar al Servicio Exterior como personal de carrera de la rama Diplomático-Consular, con el rango de Consejero, siempre que satisfagan el contenido de las fracciones II, III, V y VI del artículo 28 y cumplan con los requisitos de ingreso previstos en el artículo 32 de la presente Ley.
 La persona aspirante deberá aprobar además las examinaciones que la Comisión de Personal estime pertinentes para determinar la idoneidad de los candidatos con los perfiles requeridos en el rango de Consejero.
 Una vez cumplidos dichos requisitos, la Comisión de Personal recomendará al Secretario la propuesta de ingreso correspondiente, para su aprobación.
 A más tardar seis meses después de satisfechos los requisitos de ingreso al rango de Consejero, quienes hayan obtenido dicho rango serán comisionados a un Consulado.
 El ingreso al Servicio Exterior, conforme a este artículo, sólo podrá tener lugar cuando la Secretaría disponga de plazas nuevas de Consejero.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 35
-.- Se deroga.
-Artículo reformado DOF 19-04-2018
-
-### ARTÍCULO 36
-.- Las solicitudes de reincorporación de los miembros del personal de carrera del Servicio Exterior que hayan renunciado al mismo, serán examinadas por la Comisión de Personal. Esta podrá recomendar la reincorporación de aquellos interesados que cumplan con los siguientes requisitos:
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 35.- Se deroga.
+Artículo reformado DOF 19-04-2018 ARTÍCULO 36.- Las solicitudes de reincorporación de los miembros del personal de carrera del Servicio Exterior que hayan renunciado al mismo, serán examinadas por la Comisión de Personal. Esta podrá recomendar la reincorporación de aquellos interesados que cumplan con los siguientes requisitos:
 
 I. No tener antecedentes de sanciones administrativas, o no haber sido condenado penalmente;
 I BIS. El motivo de la renuncia no hubiere sido para evitar una orden de traslado;
@@ -516,10 +379,7 @@ La Comisión podrá allegarse de mayor información con objeto de contar con ele
 Artículo (con fracción I Bis) reformado DOF 19-04-2018
 
 ## CAPÍTULO VII — De los Ascensos del Personal de Carrera
-Denominación del Capítulo reformada DOF 19-04-2018
-
-### ARTÍCULO 37
-.- Los ascensos del personal de carrera a Segundo Secretario, Primer Secretario, Consejero y Ministro de la rama Diplomático-Consular, así como a Coordinador Administrativo en la rama Técnico-Administrativa, serán acordados por el Secretario, previa recomendación de la Comisión de Personal. Al efecto, la Comisión de Personal organizará concursos de ascenso que comprenderán:
+Denominación del Capítulo reformada DOF 19-04-2018 ARTÍCULO 37.- Los ascensos del personal de carrera a Segundo Secretario, Primer Secretario, Consejero y Ministro de la rama Diplomático-Consular, así como a Coordinador Administrativo en la rama Técnico-Administrativa, serán acordados por el Secretario, previa recomendación de la Comisión de Personal. Al efecto, la Comisión de Personal organizará concursos de ascenso que comprenderán:
 Párrafo reformado DOF 19-04-2018
 
 I. La evaluación del expediente de los aspirantes a ascenso en función de las siguientes prioridades:
@@ -536,10 +396,7 @@ Fracción reformada DOF 25-01-2002 Conforme el Reglamento de esta Ley, podrá ot
 Párrafo reformado DOF 25-01-2002 El resultado final de los concursos será del dominio público e inapelable.
 Párrafo reformado DOF 25-01-2002 No podrán presentarse a concurso de ascensos quienes se encuentren en disponibilidad conforme a la presente Ley.
 Párrafo adicionado DOF 25-01-2002 El Secretario acordará los demás ascensos del personal de carrera previa recomendación de la Comisión de Personal una vez que reciba de la Subcomisión de Evaluación, las evaluaciones de los expedientes personales u hoja de servicios según el caso. En la evaluación se tomará en cuenta los méritos, la preparación académica, la experiencia y la antigüedad del personal, de conformidad con el Reglamento.
-Párrafo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018
-
-### ARTÍCULO 37-BIS
-.- La evaluación de los expedientes personales será realizada por la Subcomisión de Evaluación y dada a conocer a los interesados con anticipación a la celebración de los exámenes.
+Párrafo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018 ARTÍCULO 37-BIS.- La evaluación de los expedientes personales será realizada por la Subcomisión de Evaluación y dada a conocer a los interesados con anticipación a la celebración de los exámenes.
 La Subcomisión de Evaluación se integrará por:
 
 I. Presidencia de la Comisión de Personal, cuyo titular la presidirá;
@@ -554,52 +411,28 @@ Fracción reformada DOF 19-04-2018
 IV. Dos Miembros del Servicio Exterior con rango mínimo de Consejero o de Agregado Administrativo “A” propuestos por quien presida la Comisión de Personal y aprobados por el Secretario, procurando siempre la paridad de género, y Fracción reformada DOF 19-04-2018
 
 V. Representante del área de la Secretaría encargada de llevar los asuntos de igualdad de género.
-Fracción adicionada DOF 19-04-2018 Artículo adicionado DOF 25-01-2002
-
-### ARTÍCULO 38
-.- En ningún caso se podrá ascender o participar en concursos de ascenso sin antes haber cumplido dos años de antigüedad como mínimo en el rango al que pertenezca.
+Fracción adicionada DOF 19-04-2018 Artículo adicionado DOF 25-01-2002 ARTÍCULO 38.- En ningún caso se podrá ascender o participar en concursos de ascenso sin antes haber cumplido dos años de antigüedad como mínimo en el rango al que pertenezca.
 Para ascender al rango de Consejero se requiere, además, una antigüedad mínima de ocho años como servidor público en el Servicio Exterior y haber sido comisionado a una adscripción de tipo consular.
-Párrafo reformado DOF 19-04-2018 Artículo reformado DOF 25-01-2002
-
-### ARTÍCULO 39
-.- Se deroga.
-Artículo reformado DOF 25-01-2002. Derogado DOF 19-04-2018
-
-### ARTÍCULO 40
-.- La Secretaría por medio de la Comisión de Personal, realizará evaluaciones de desempeño a todos los Miembros del Servicio Exterior de carrera, de conformidad con lo establecido en el Plan de Carrera.
+Párrafo reformado DOF 19-04-2018 Artículo reformado DOF 25-01-2002 ARTÍCULO 39.- Se deroga.
+Artículo reformado DOF 25-01-2002. Derogado DOF 19-04-2018 ARTÍCULO 40.- La Secretaría por medio de la Comisión de Personal, realizará evaluaciones de desempeño a todos los Miembros del Servicio Exterior de carrera, de conformidad con lo establecido en el Plan de Carrera.
 Las evaluaciones de desempeño a las que se refiere el párrafo anterior podrán merecer la calificación de satisfactoria o insatisfactoria en los términos que señale el Reglamento.
 En el caso de los Primeros Secretarios los resultados de sus exámenes de ascenso al rango de Consejero, formarán parte de las evaluaciones de desempeño, por lo que, en el supuesto de no aprobar dichos exámenes en el tercer intento, merecerán una calificación insatisfactoria.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 40-BIS
-.- La Subcomisión de Evaluación recomendará a la Comisión de Personal la baja definitiva del Miembro del Servicio Exterior de carrera, que no haya ascendido al rango de Primer Secretario en un plazo máximo de quince años desde su ingreso, o bien, que no haya ascendido al rango de Consejero en un plazo máximo de diez años desde su ascenso al rango de Primer Secretario, salvo por causas debidamente justificadas que deberán ser presentadas a consideración de la citada Comisión.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 40-BIS.- La Subcomisión de Evaluación recomendará a la Comisión de Personal la baja definitiva del Miembro del Servicio Exterior de carrera, que no haya ascendido al rango de Primer Secretario en un plazo máximo de quince años desde su ingreso, o bien, que no haya ascendido al rango de Consejero en un plazo máximo de diez años desde su ascenso al rango de Primer Secretario, salvo por causas debidamente justificadas que deberán ser presentadas a consideración de la citada Comisión.
 Asimismo, la Subcomisión de Evaluación recomendará a la Comisión de Personal, la baja definitiva del Miembro del Servicio Exterior de carrera cuya evaluación de desempeño arroje un resultado insatisfactorio.
 En ambos supuestos, para que proceda la baja del Miembro del Servicio Exterior de carrera, se deberá llevar a cabo lo previsto en el artículo 53-TER de esta Ley.
 Por otra parte, en estos casos, el Miembro del Servicio Exterior de carrera tendrá derecho a una indemnización en los términos que señale el Reglamento, así como a la compensación por años de servicio, conforme lo establece el segundo párrafo del artículo 54 de esta Ley.
-Artículo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018
-
-### ARTÍCULO 40-TER
-.- Se deroga.
+Artículo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018 ARTÍCULO 40-TER.- Se deroga.
 Artículo adicionado DOF 25-01-2002. Derogado DOF 19-04-2018
 
 ## CAPÍTULO VIII — De las Obligaciones de los Miembros del Servicio Exterior
-Denominación del Capítulo reformada DOF 19-04-2018
-
-### ARTÍCULO 41
-.- Los servidores públicos del Servicio Exterior observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
+Denominación del Capítulo reformada DOF 19-04-2018 ARTÍCULO 41.- Los servidores públicos del Servicio Exterior observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
 Para la efectiva aplicación de dichos principios, los servidores públicos observarán las disposiciones establecidas en la presente Ley y las directrices previstas en la Ley General de Responsabilidades Administrativas.
 Para garantizar el derecho de acceso a la información pública, los Miembros del Servicio Exterior, en el ejercicio de sus funciones, deberán observar los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte y las leyes aplicables en materia de transparencia y acceso a la información pública.
 Sin perjuicio de las inmunidades y privilegios que les correspondan, deberán respetar las leyes y reglamentos del Estado ante cuyo gobierno estén acreditados y observar las costumbres sociales del país y la práctica diplomática internacional.
 Asimismo, en términos de la legislación aplicable, los Miembros del Servicio Exterior deberán abstenerse de incurrir en conductas de naturaleza partidista o electoral incompatibles con el desempeño de su función pública, y de realizar declaraciones que comprometan los intereses del país.
 Todos los Miembros del Servicio Exterior están obligados a presentar ante la autoridad competente, las declaraciones a las que se refiere la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 42
-.- Los Miembros del Servicio Exterior deberán guardar discreción absoluta acerca de los asuntos que conozcan con motivo de su desempeño oficial. Esta obligación subsistirá aún después de abandonar el Servicio Exterior, cuando se trate de asuntos cuya divulgación pudiera causar perjuicio a los intereses nacionales.
-Artículo reformado DOF 19-04-2018
-
-### ARTÍCULO 43
-.- Corresponde a los jefes de misión:
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 42.- Los Miembros del Servicio Exterior deberán guardar discreción absoluta acerca de los asuntos que conozcan con motivo de su desempeño oficial. Esta obligación subsistirá aún después de abandonar el Servicio Exterior, cuando se trate de asuntos cuya divulgación pudiera causar perjuicio a los intereses nacionales.
+Artículo reformado DOF 19-04-2018 ARTÍCULO 43.- Corresponde a los jefes de misión:
 
 I. Mantener informada a la Secretaría sobre los principales aspectos de la vida política, económica, social y cultural del Estado ante cuyo Gobierno u organismo internacional estén acreditados, así como de sus relaciones internacionales, en los términos de las instrucciones recibidas de la propia Secretaría;
 Fracción reformada DOF 25-01-2002
@@ -610,10 +443,7 @@ III. Requerir, cuando proceda y con las cortesías del caso, las inmunidades, pr
 Fracción reformada DOF 19-04-2018 III BIS. Supervisar el funcionamiento de la misión diplomática promoviendo entre el personal, en todo momento, el respeto a los principios establecidos en el artículo 41 de la presente Ley, y Fracción adicionada DOF 19-04-2018
 
 IV. Supervisar el funcionamiento de la sección consular de la misión diplomática a su cargo, o bien, cuando corresponda, ejercer las funciones consulares.
-Fracción reformada DOF 19-04-2018
-
-### ARTÍCULO 44
-.- Corresponde a los Jefes de Oficinas Consulares:
+Fracción reformada DOF 19-04-2018 ARTÍCULO 44.- Corresponde a los Jefes de Oficinas Consulares:
 Párrafo reformado DOF 19-04-2018
 
 I. Proteger y promover en sus respectivas circunscripciones consulares, los intereses y una imagen positiva de México y los derechos de sus nacionales, de conformidad con el derecho internacional y mantener informada a la Secretaría de la condición en que se encuentran los nacionales mexicanos, particularmente en los casos en que proceda una protección especial;
@@ -639,16 +469,10 @@ VII. Prestar el apoyo y la cooperación que demande la misión diplomática de l
 
 VIII. Supervisar el funcionamiento de la oficina consular promoviendo entre el personal, en todo momento, el respeto a los principios establecidos en el artículo 41 de la presente Ley.
 Fracción adicionada DOF 19-04-2018 Los Jefes de Oficina Consular podrán delegar en servidores públicos subalternos el ejercicio de una o varias de las facultades señaladas en el presente artículo, sin perder por ello su ejercicio ni eximirse de la responsabilidad por su ejecución. La delegación se hará en los términos que establezca el Reglamento.
-Párrafo reformado DOF 19-04-2018
-
-### ARTÍCULO 45
-.- Es obligación de los Jefes de Misiones Diplomáticas, de Representaciones Consulares y de unidades administrativas de la Secretaría informar durante el mes de junio de cada año y con base en las actuaciones desarrolladas por los Miembros del Servicio Exterior a sus órdenes, sobre su aptitud, comportamiento y diligencia, sin perjuicio de hacerlo cada vez que lo estimen necesario.
+Párrafo reformado DOF 19-04-2018 ARTÍCULO 45.- Es obligación de los Jefes de Misiones Diplomáticas, de Representaciones Consulares y de unidades administrativas de la Secretaría informar durante el mes de junio de cada año y con base en las actuaciones desarrolladas por los Miembros del Servicio Exterior a sus órdenes, sobre su aptitud, comportamiento y diligencia, sin perjuicio de hacerlo cada vez que lo estimen necesario.
 Asimismo, dichos servidores públicos deberán informar con diligencia a la Comisión de Personal sobre todas aquellas faltas o violaciones a las disposiciones de la presente Ley y su Reglamento que cometan sus subordinados, estando facultados para imponer en su caso, amonestaciones y apercibimientos.
 El personal de carrera elaborará un informe anual sobre el desempeño del titular de la misión diplomática, representación consular o unidad administrativa de la Secretaría en la que se encuentre adscrito. Este informe se elaborará conforme a los términos que señale el Reglamento, será confidencial y remitido a la Comisión de Personal.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 46
-.- Sin perjuicio de lo ordenado por otras disposiciones aplicables, queda prohibido a los Miembros del Servicio Exterior:
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 46.- Sin perjuicio de lo ordenado por otras disposiciones aplicables, queda prohibido a los Miembros del Servicio Exterior:
 Párrafo reformado DOF 19-04-2018
 
 I. Intervenir en asuntos internos y de carácter político del Estado donde se hallen comisionados o en los asuntos internacionales del mismo que sean ajenos a los intereses de México;
@@ -658,10 +482,7 @@ II. Ejercer, en el Estado donde se hallen comisionados, cualquiera actividad pro
 III. Desempeñar cualquier gestión diplomática o consular de otro país, sin autorización expresa de la Secretaría.
 
 ## CAPÍTULO IX — De los Derechos y Prestaciones de los Miembros del Servicio Exterior
-Denominación del Capítulo reformada DOF 19-04-2018
-
-### ARTÍCULO 47
-.- Los Miembros del Servicio Exterior gozarán, durante su permanencia en comisión oficial en el extranjero, de los siguientes derechos y prestaciones:
+Denominación del Capítulo reformada DOF 19-04-2018 ARTÍCULO 47.- Los Miembros del Servicio Exterior gozarán, durante su permanencia en comisión oficial en el extranjero, de los siguientes derechos y prestaciones:
 Párrafo reformado DOF 19-04-2018
 
 I. Conservarán, para los efectos de las leyes mexicanas, el domicilio de su último lugar de residencia en el país;
@@ -690,14 +511,9 @@ Fracción adicionada DOF 19-04-2018
 VIII. Las autoridades educativas del país revalidarán los estudios que hayan realizado en el extranjero los Miembros del Servicio Exterior, sus dependientes familiares o sus empleados, conforme a las disposiciones legales aplicables, y Fracción reformada DOF 19-04-2018
 
 IX. Los demás que se desprendan de la presente Ley y su Reglamento.
-
-### ARTÍCULO 48
-.- Los Miembros del Servicio Exterior comisionados en el extranjero gozarán de treinta días de vacaciones al año, pudiendo acumular hasta sesenta días continuos. La Secretaría cubrirá a los Miembros del Servicio Exterior, cada dos años, el importe de sus pasajes del lugar de su adscripción a México y de regreso. Esta prestación incluye al cónyuge, concubinas o concubinarios y a sus familiares dependientes económicos hasta el primer grado en línea recta, ascendente o descendente, que vivan con él o ella, según el caso. Tratándose de los hijos o las hijas de los Miembros del Servicio Exterior, de su cónyuge, concubina o concubinario esta prestación será extensiva únicamente hasta los 18 años y siempre que vivan con él o ella, según el caso.
+ARTÍCULO 48.- Los Miembros del Servicio Exterior comisionados en el extranjero gozarán de treinta días de vacaciones al año, pudiendo acumular hasta sesenta días continuos. La Secretaría cubrirá a los Miembros del Servicio Exterior, cada dos años, el importe de sus pasajes del lugar de su adscripción a México y de regreso. Esta prestación incluye al cónyuge, concubinas o concubinarios y a sus familiares dependientes económicos hasta el primer grado en línea recta, ascendente o descendente, que vivan con él o ella, según el caso. Tratándose de los hijos o las hijas de los Miembros del Servicio Exterior, de su cónyuge, concubina o concubinario esta prestación será extensiva únicamente hasta los 18 años y siempre que vivan con él o ella, según el caso.
 Párrafo reformado DOF 19-04-2018 La Comisión de Personal podrá recomendar al Secretario, en los casos de adscripciones de condiciones de vida difícil, que esta prestación se otorgue cada doce meses.
-Artículo reformado DOF 25-01-2002
-
-### ARTÍCULO 49
-.- La Secretaría contratará, en los términos del Reglamento, un seguro de gastos médicos y/o servicio de salud para los Miembros del Servicio Exterior comisionados en el extranjero.
+Artículo reformado DOF 25-01-2002 ARTÍCULO 49.- La Secretaría contratará, en los términos del Reglamento, un seguro de gastos médicos y/o servicio de salud para los Miembros del Servicio Exterior comisionados en el extranjero.
 La contratación correspondiente se realizará sujeta a la disponibilidad presupuestaria y en términos de las disposiciones que resulten aplicables.
 La Secretaría hará extensivo el seguro de gastos médicos al cónyuge, concubina o concubinario y a los dependientes económicos hasta el primer grado en línea recta, ascendente, cuando vivan con el Miembro del Servicio Exterior, o descendente, conforme a los siguientes criterios:
 
@@ -706,19 +522,13 @@ I. Esta prestación se otorgará a los hijos o las hijas menores de edad del Mie
 II. Asimismo se otorgará a los hijos o las hijas menores de edad de los cónyuges, concubina o concubinario de los Miembros del Servicio Exterior; así como a los mayores de dieciocho años y hasta la edad de veinticinco años, que estudien de tiempo completo fuera de México, ya sea que vivan o no con el Miembro del Servicio Exterior, y
 
 III. A los hijos o a las hijas de los Miembros del Servicio Exterior y los hijos o a las hijas de su cónyuge, concubina o concubinario que presenten una discapacidad que los imposibilite para trabajar para su subsistencia, se les otorgará la prestación siempre que vivan con el Miembro del Servicio Exterior en su lugar de Adscripción.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 50
-.- En los casos de enfermedad debidamente comprobada, la Secretaría podrá conceder a los Miembros del Servicio Exterior licencia hasta por dos meses con goce íntegro de sueldo, dos más con medio sueldo y dos más sin sueldo.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 50.- En los casos de enfermedad debidamente comprobada, la Secretaría podrá conceder a los Miembros del Servicio Exterior licencia hasta por dos meses con goce íntegro de sueldo, dos más con medio sueldo y dos más sin sueldo.
 Las licencias de maternidad serán de tres meses, en términos de lo dispuesto en la Ley del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado y las de paternidad de cinco días laborables, posteriores al nacimiento de sus hijos o hijas. En ambos casos, la licencia será con goce íntegro de sueldo.
 Las licencias de paternidad se podrán ampliar por los plazos establecidos en el Reglamento de esta Ley, en caso de que el recién nacido presente una enfermedad grave o fallezca, así como en los casos en que la madre fallezca o por complicaciones que pongan en peligro su vida.
 En el caso de la adopción de un infante se otorgará un permiso de seis semanas a las mujeres y de cinco días laborables a los hombres, posteriores al día que lo reciban, en ambos casos con goce íntegro de sueldo.
 Cuando el hijo o hija menor del Miembro del Servicio Exterior presente una enfermedad grave debidamente comprobada, se otorgará un permiso adicional en términos del Reglamento.
 Igualmente, la Secretaría podrá conceder licencia por cualquier otra causa justificada, hasta por seis meses sin goce de sueldo.
-Artículo reformado DOF 19-04-2018
-
-### ARTÍCULO 51
-.- Los Miembros del Servicio Exterior disfrutarán de los gastos de representación, viáticos y demás remuneraciones y prestaciones que se les asignen de acuerdo con el Presupuesto de Egresos de la Federación.
+Artículo reformado DOF 19-04-2018 ARTÍCULO 51.- Los Miembros del Servicio Exterior disfrutarán de los gastos de representación, viáticos y demás remuneraciones y prestaciones que se les asignen de acuerdo con el Presupuesto de Egresos de la Federación.
 Los Miembros del Servicio Exterior que con motivo de la ausencia del jefe de misión diplomática o del titular de un consulado quede acreditado como encargado de negocios o como encargado de la representación consular, recibirá, conforme a lo dispuesto por el Reglamento una compensación por encargaduría, a menos que otras disposiciones consignen condiciones más favorables, en cuyo caso se aplicarán dichas previsiones.
 A su vez y en tanto otros ordenamientos no consignen condiciones más favorables, los Miembros del Servicio Exterior que sean nombrados para ocupar un puesto en el extranjero, trasladados a otro lugar o llamados del extranjero a prestar sus servicios en la Secretaría, tendrán derecho a gastos de instalación que se ministrarán en la siguiente proporción del total de sus percepciones mensuales en el extranjero:
 
@@ -726,16 +536,10 @@ a) El equivalente a un mes y medio para el personal de la rama técnico-administ
 
 b) El equivalente a un mes para el personal de la rama diplomático-consular, con excepción de los Jefes de Misión Diplomática o titulares de Consulados Generales a quienes la Secretaría proporcione residencia oficial, quienes recibirán el equivalente a medio mes.
 En los términos del Reglamento, se asignarán gastos de orden social y de sostenimiento a las misiones diplomáticas y representaciones consulares.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 52
-.- Los integrantes del personal de carrera del Servicio Exterior podrán quedar en disponibilidad hasta por tres años. Durante ese lapso, dicho personal no podrá tener ascenso alguno, no se les computará ese tiempo para efectos legales y no gozarán de sueldo ni prestaciones.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 52.- Los integrantes del personal de carrera del Servicio Exterior podrán quedar en disponibilidad hasta por tres años. Durante ese lapso, dicho personal no podrá tener ascenso alguno, no se les computará ese tiempo para efectos legales y no gozarán de sueldo ni prestaciones.
 La disponibilidad podrá prorrogarse por una única ocasión.
 A consideración de la Comisión de Personal, se podrá autorizar una disponibilidad, en una segunda ocasión, hasta por un periodo igual, cuando los motivos estén relacionados con la condición de cuidado de descendientes o ascendientes o alguna condición médica debidamente justificada y comprobada.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 52-BIS
-.- La disponibilidad deberá solicitarse por escrito a la Dirección General del Servicio Exterior y de Personal de la Secretaría, la que a su vez la turnará a la Comisión de Personal, a efecto de que en un término máximo de 30 días dé respuesta al interesado, quien no podrá abandonar su lugar de adscripción en tanto no reciba la respuesta correspondiente.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 52-BIS.- La disponibilidad deberá solicitarse por escrito a la Dirección General del Servicio Exterior y de Personal de la Secretaría, la que a su vez la turnará a la Comisión de Personal, a efecto de que en un término máximo de 30 días dé respuesta al interesado, quien no podrá abandonar su lugar de adscripción en tanto no reciba la respuesta correspondiente.
 El escrito deberá expresar las causas o motivos de la solicitud y se regirá por los siguientes criterios:
 
 I. Podrá ser concedida una sola vez durante la carrera, por recomendación de la Comisión de Personal y aprobación del Secretario, siempre que se cuente con una antigüedad mínima de cinco años en el Servicio Exterior de carrera;
@@ -747,14 +551,8 @@ Quienes no se presenten a laborar en la fecha señalada causarán baja del Servi
 Fracción reformada DOF 19-04-2018 Artículo adicionado DOF 25-01-2002
 
 ## CAPÍTULO X — De la Separación del Servicio Exterior
-Denominación del Capítulo reformada DOF 19-04-2018
-
-### ARTÍCULO 53
-.- Los Miembros del Servicio Exterior sólo podrán ser separados de sus cargos por medio de suspensión, por baja o destitución como consecuencia de una sanción administrativa, de conformidad con la Ley General de Responsabilidades Administrativas o como consecuencia de una sanción disciplinaria, en términos de la presente Ley y el Reglamento.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 53-BIS
-.- Son causas de baja del Servicio Exterior las siguientes:
+Denominación del Capítulo reformada DOF 19-04-2018 ARTÍCULO 53.- Los Miembros del Servicio Exterior sólo podrán ser separados de sus cargos por medio de suspensión, por baja o destitución como consecuencia de una sanción administrativa, de conformidad con la Ley General de Responsabilidades Administrativas o como consecuencia de una sanción disciplinaria, en términos de la presente Ley y el Reglamento.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 53-BIS.- Son causas de baja del Servicio Exterior las siguientes:
 
 I. Por renuncia;
 
@@ -773,27 +571,15 @@ VII. Se deroga.
 Fracción derogada DOF 19-04-2018
 
 VIII. Por actualizar alguno de los supuestos establecidos en el artículo 40-BIS de la Ley.
-Fracción reformada DOF 19-04-2018 Artículo adicionado DOF 25-01-2002
-
-### ARTÍCULO 53-TER
-.- Cuando un Miembro del Servicio Exterior actualice alguna de las hipótesis previstas en las fracciones IV a VIII del artículo 53-BIS de la Ley, la Comisión de Personal le notificará que tiene un término de quince días hábiles para manifestar por escrito lo que a su derecho convenga. Al vencer el plazo otorgado, con escrito o sin él y dentro de los diez días siguientes hábiles, someterá a consideración del Secretario lo que estime procedente.
+Fracción reformada DOF 19-04-2018 Artículo adicionado DOF 25-01-2002 ARTÍCULO 53-TER.- Cuando un Miembro del Servicio Exterior actualice alguna de las hipótesis previstas en las fracciones IV a VIII del artículo 53-BIS de la Ley, la Comisión de Personal le notificará que tiene un término de quince días hábiles para manifestar por escrito lo que a su derecho convenga. Al vencer el plazo otorgado, con escrito o sin él y dentro de los diez días siguientes hábiles, someterá a consideración del Secretario lo que estime procedente.
 Aprobada y acordada la baja por el Secretario y mediante comunicación firmada por el titular de la Dirección General, se notificará personalmente al interesado la fecha a partir de la cual cause baja del Servicio Exterior para los efectos correspondientes.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 54
-.- Los Miembros del Servicio Exterior de carrera que se separen definitivamente de éste, recibirán por una sola vez, como compensación por cada año de servicio, el importe correspondiente a un mes del último sueldo que hubieren disfrutado, con el límite máximo de treinta y seis meses, con excepción de aquellos que hubiesen sido destituidos del Servicio Exterior como consecuencia de una sanción administrativa y en los casos previstos en las fracciones IV y V del artículo 53-BIS de la presente Ley.
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 54.- Los Miembros del Servicio Exterior de carrera que se separen definitivamente de éste, recibirán por una sola vez, como compensación por cada año de servicio, el importe correspondiente a un mes del último sueldo que hubieren disfrutado, con el límite máximo de treinta y seis meses, con excepción de aquellos que hubiesen sido destituidos del Servicio Exterior como consecuencia de una sanción administrativa y en los casos previstos en las fracciones IV y V del artículo 53-BIS de la presente Ley.
 En caso de que el Miembro del Servicio Exterior de carrera cause baja en términos de lo previsto en la fracción VIII del artículo 53-BIS de esta Ley, el importe de la compensación corresponderá a un mes del último sueldo que hubiere disfrutado, con el límite máximo de veinticuatro meses.
 Los periodos de suspensión temporal, disponibilidad y licencias sin goce de sueldo, no se contabilizarán como tiempo de servicio.
 En caso de fallecimiento, la compensación se entregará al beneficiario que el Miembro del Servicio Exterior hubiese designado o, en su defecto, a sus legítimos herederos.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 55
-.- Causarán baja por jubilación los Miembros del Servicio Exterior de carrera que cumplan 70 años de edad o antes si así lo manifiestan, conforme a las disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 55.- Causarán baja por jubilación los Miembros del Servicio Exterior de carrera que cumplan 70 años de edad o antes si así lo manifiestan, conforme a las disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 Los miembros de carrera del Servicio Exterior que durante los 10 años anteriores a su jubilación no hayan sido objeto de alguna de las sanciones establecidas en las fracciones de la II a la IV del artículo 57 de la presente Ley, serán jubilados en el rango inmediato superior.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 55-BIS
-.- Los Miembros del Servicio Exterior de carrera tendrán derecho a recibir un apoyo económico complementario a la pensión de vejez del régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a los 70 años de edad, siempre que cumplan con los siguientes requisitos:
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 55-BIS.- Los Miembros del Servicio Exterior de carrera tendrán derecho a recibir un apoyo económico complementario a la pensión de vejez del régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a los 70 años de edad, siempre que cumplan con los siguientes requisitos:
 
 I. Se registren, a su ingreso al Servicio Exterior, al régimen de apoyo económico complementario previsto en el presente artículo consintiendo expresamente en realizar las aportaciones a su cargo y adicionalmente elegir aportar el tope del 2% máximo permitido al Ahorro Solidario previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 Las personas que no se registren al momento de su ingreso no podrán registrarse posteriormente;
@@ -808,21 +594,12 @@ El apoyo económico complementario podrá acumularse a la renta vitalicia o reti
 En todo caso, el apoyo económico complementario se sujetará a lo establecido en esta Ley, el la Secretaría de Hacienda y Crédito Público y en las disposiciones administrativas que expida la Comisión Nacional del Sistema de Ahorro para el Retiro o la Comisión Nacional de Seguros y Fianzas, según corresponda respectivamente.
 En caso de que un Miembro del Servicio Exterior de carrera, no reúna los requisitos para disfrutar del apoyo pensionario adicional en los términos del presente artículo, tendrá derecho a recibir en una sola exhibición, exclusivamente los recursos acumulados por las aportaciones realizadas por él. Las aportaciones realizadas por el Gobierno Federal se transferirán a la Tesorería de la Federación.
 El derecho previsto en el presente artículo será para los Miembros del Servicio Exterior que corresponda y que hayan cumplido con los requisitos antes señalados, derecho que será intransferible por causa alguna.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 56
-.- Los gastos de funerales de los Miembros del Servicio Exterior, de su cónyuge, concubina o concubinario de sus dependientes económicos hasta el primer grado en línea recta, ascendente o descendente, que vivan con él o ella, según el caso, fallecidos en el extranjero o en delegaciones foráneas, incluyendo el traslado de sus restos a México, serán por cuenta de la Secretaría.
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 56.- Los gastos de funerales de los Miembros del Servicio Exterior, de su cónyuge, concubina o concubinario de sus dependientes económicos hasta el primer grado en línea recta, ascendente o descendente, que vivan con él o ella, según el caso, fallecidos en el extranjero o en delegaciones foráneas, incluyendo el traslado de sus restos a México, serán por cuenta de la Secretaría.
 Artículo reformado DOF 25-01-2002, 19-04-2018
 
 ## CAPÍTULO XI — De los Asuntos Disciplinarios
-Denominación del Capítulo reformada DOF 19-04-2018
-
-### ARTÍCULO 56-BIS
-.- El presente capítulo tiene por objeto establecer las irregularidades en las que se pueden incurrir, durante el ejercicio de funciones como Miembros del Servicio Exterior, las sanciones aplicables a las mismas, así como el procedimiento para su aplicación.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 57
-.- Las sanciones por faltas administrativas no graves consistirán en:
+Denominación del Capítulo reformada DOF 19-04-2018 ARTÍCULO 56-BIS.- El presente capítulo tiene por objeto establecer las irregularidades en las que se pueden incurrir, durante el ejercicio de funciones como Miembros del Servicio Exterior, las sanciones aplicables a las mismas, así como el procedimiento para su aplicación.
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 57.- Las sanciones por faltas administrativas no graves consistirán en:
 
 I. Amonestación privada o pública;
 
@@ -833,10 +610,7 @@ III. Suspensión, y
 IV. Destitución.
 En todos los casos de destitución el sancionado quedará inhabilitado para reingresar al Servicio Exterior o desempeñar algún puesto, cargo o comisión temporal en el mismo.
 El Secretario podrá imponer una o más de las sanciones administrativas señaladas en este artículo, siempre y cuando sean compatibles entre ellas y de acuerdo a la trascendencia de la falta administrativa no grave.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 58
-.- Incurrirá en irregularidad administrativa no grave, quien en ejercicio de sus funciones como Miembro del Servicio Exterior, incumpla con alguna de las obligaciones previstas en el artículo 49 de la Ley General de Responsabilidades Administrativas, así como cuando realice actos u omisiones que constituyan cualquiera de las siguientes conductas:
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 58.- Incurrirá en irregularidad administrativa no grave, quien en ejercicio de sus funciones como Miembro del Servicio Exterior, incumpla con alguna de las obligaciones previstas en el artículo 49 de la Ley General de Responsabilidades Administrativas, así como cuando realice actos u omisiones que constituyan cualquiera de las siguientes conductas:
 Párrafo reformado DOF 19-04-2018
 
 I. Abandonar el empleo, entendiendo por éste la falta a las labores por más de tres días consecutivos sin causa justificada;
@@ -882,10 +656,7 @@ Fracción adicionada DOF 25-01-2002. Derogada DOF 19-04-2018
 XV. Incurrir en faltas de probidad u honradez, actos de violencia, amenazas, injurias, hostigamiento o acoso sexual y acoso laboral, de conformidad con lo establecido en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y demás disposiciones aplicables, y Fracción adicionada DOF 19-04-2018
 
 XVI. No presentar las declaraciones a las que se refiere el artículo 41, párrafo cuarto de esta Ley.
-Fracción adicionada DOF 19-04-2018
-
-### ARTÍCULO 58-BIS
-.- Incurrirá en irregularidad administrativa grave quien, en ejercicio de sus funciones como Miembro del Servicio Exterior, actualice las hipótesis normativas previstas en el capítulo II del título III de la Ley General de Responsabilidades Administrativas, así como cuando realice actos u omisiones que constituyan cualquiera de las siguientes:
+Fracción adicionada DOF 19-04-2018 ARTÍCULO 58-BIS.- Incurrirá en irregularidad administrativa grave quien, en ejercicio de sus funciones como Miembro del Servicio Exterior, actualice las hipótesis normativas previstas en el capítulo II del título III de la Ley General de Responsabilidades Administrativas, así como cuando realice actos u omisiones que constituyan cualquiera de las siguientes:
 
 I. Actuar con deslealtad al país o a sus instituciones;
 
@@ -898,10 +669,7 @@ IV. Expedir documentación consular o migratoria contraviniendo las normas aplic
 V. Violar lo dispuesto en el párrafo tercero del artículo 41 del presente ordenamiento, y
 
 VI. Incurrir en alguna de las conductas que establece el artículo 46 de esta Ley.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 59
-.- La Subcomisión de Asuntos Disciplinarios conocerá de las irregularidades que, en el ejercicio de sus funciones como Miembros del Servicio Exterior, ameriten la imposición de sanciones y estará compuesta por:
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 59.- La Subcomisión de Asuntos Disciplinarios conocerá de las irregularidades que, en el ejercicio de sus funciones como Miembros del Servicio Exterior, ameriten la imposición de sanciones y estará compuesta por:
 Párrafo reformado DOF 19-04-2018
 
 I. El Presidente de la Comisión de Personal, quien la presidirá;
@@ -913,10 +681,7 @@ III. El Director General de Asuntos Jurídicos de la Secretaría, y
 IV. Se deroga.
 Fracción reformada DOF 09-04-2012. Derogada DOF 19-04-2018 Será necesaria la presencia de todos los integrantes de la Subcomisión para que ésta pueda sesionar en forma válida y sus resoluciones se adoptarán por mayoría de votos.
 En las sesiones de la Comisión de Personal en las que se ventilen asuntos disciplinarios y de la Subcomisión, participará el Titular del Órgano Interno de Control o un representante que éste designe con nivel de Director de Área.
-Párrafo reformado DOF 19-04-2018 Artículo reformado DOF 25-01-2002
-
-### ARTÍCULO 60
-.- Para la substanciación de procedimientos disciplinarios, se observará el siguiente procedimiento:
+Párrafo reformado DOF 19-04-2018 Artículo reformado DOF 25-01-2002 ARTÍCULO 60.- Para la substanciación de procedimientos disciplinarios, se observará el siguiente procedimiento:
 
 I. Las conductas contrarias al Servicio Exterior de los Miembros del Servicio Exterior serán investigadas por la Subcomisión de Asuntos Disciplinarios, por conducto del Órgano Interno de Control, la cual iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de dicho Órgano.
 Las denuncias serán por escrito y podrán ser anónimas, o en su caso, la Subcomisión mantendrá con carácter de confidencial la identidad de las personas que denuncien las presuntas irregularidades.
@@ -949,27 +714,15 @@ En caso de embajadores y cónsules generales, se deberá recabar la opinión del
 IX. Todos los acuerdos de trámite relacionados con los procedimientos disciplinarios serán emitidos por el Presidente de la Subcomisión de Asuntos Disciplinarios, con intervención del Secretario de dicho órgano colegiado, debiéndose dejar constancia en autos, y serán notificados personalmente al presunto infractor.
 En caso de desechamiento de prueba o de la declaración de la preclusión de un derecho del presunto infractor, el acuerdo relativo deberá ser suscrito por el Pleno de la Subcomisión de Asuntos Disciplinarios.
 En lo no previsto por esta Ley y su Reglamento respecto a los procedimientos disciplinarios de los Miembros del Servicio Exterior, será aplicable supletoriamente la Ley General de Responsabilidades Administrativas o la Ley Federal de Procedimiento Administrativo, según corresponda.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 61
-.- El Secretario contará con treinta días hábiles para dictar la resolución correspondiente, tomando en consideración la propuesta hecha por la Comisión de Personal. Cuando exista responsabilidad administrativa, el Secretario determinará la sanción que estime procedente.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 61.- El Secretario contará con treinta días hábiles para dictar la resolución correspondiente, tomando en consideración la propuesta hecha por la Comisión de Personal. Cuando exista responsabilidad administrativa, el Secretario determinará la sanción que estime procedente.
 Las resoluciones del Secretario podrán ser impugnadas ante los tribunales competentes.
-Artículo reformado DOF 25-01-2002, 19-04-2018
-
-### ARTÍCULO 61-BIS
-.- La ejecución de las sanciones por irregularidades administrativas no graves se llevará a cabo una vez que quede firme y conforme se disponga en la resolución respectiva.
+Artículo reformado DOF 25-01-2002, 19-04-2018 ARTÍCULO 61-BIS.- La ejecución de las sanciones por irregularidades administrativas no graves se llevará a cabo una vez que quede firme y conforme se disponga en la resolución respectiva.
 Para tales efectos, la resolución emitida deberá ser notificada personalmente al presunto infractor y para su conocimiento al jefe inmediato.
 Las sanciones serán ejecutadas por la Dirección General, según lo disponga el Reglamento Interior de la Secretaría de Relaciones Exteriores.
 En el caso de las faltas administrativas graves se estará a lo dispuesto en la Ley General de Responsabilidades Administrativas.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 61
-TER.- En los asuntos relacionados con faltas administrativas graves de conformidad con lo dispuesto en esta Ley y en la Ley General de Responsabilidades Administrativas, la Subcomisión de Asuntos Disciplinarios deberá observar lo dispuesto en las fracciones I a V del artículo 60 de la presente Ley, luego de lo cual remitirá el expediente al Tribunal competente por conducto de la Dirección General de Asuntos Jurídicos, en los tres días hábiles siguientes a la fecha de recepción de los autos originales.
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 61 TER.- En los asuntos relacionados con faltas administrativas graves de conformidad con lo dispuesto en esta Ley y en la Ley General de Responsabilidades Administrativas, la Subcomisión de Asuntos Disciplinarios deberá observar lo dispuesto en las fracciones I a V del artículo 60 de la presente Ley, luego de lo cual remitirá el expediente al Tribunal competente por conducto de la Dirección General de Asuntos Jurídicos, en los tres días hábiles siguientes a la fecha de recepción de los autos originales.
 La remisión del expediente al Tribunal deberá notificarse a la Comisión de Personal y al presunto responsable, en los términos de la Ley General de Responsabilidades Administrativas. En los mismos términos, se notificará al Presidente de la República en caso de Embajadores y Cónsules Generales.
-Artículo adicionado DOF 19-04-2018
-
-### ARTÍCULO 62
-.- Para la imposición de las sanciones administrativas se deberán considerar los elementos del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta, así como:
+Artículo adicionado DOF 19-04-2018 ARTÍCULO 62.- Para la imposición de las sanciones administrativas se deberán considerar los elementos del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta, así como:
 Párrafo reformado DOF 19-04-2018
 
 I. Se deroga.
@@ -990,20 +743,11 @@ VI. La reincidencia en el incumplimiento de sus obligaciones.
 Fracción reformada DOF 19-04-2018
 
 VII. Se deroga.
-Fracción derogada DOF 19-04-2018 Artículo reformado DOF 25-01-2002
-
-### ARTÍCULO 63
-.- Las sanciones económicas se determinarán tomando como base los beneficios obtenidos o daños y perjuicios causados por el incumplimiento de las obligaciones previstas en la presente Ley y su Reglamento, aplicando dos tantos de la cantidad que resulte por dichos conceptos.
+Fracción derogada DOF 19-04-2018 Artículo reformado DOF 25-01-2002 ARTÍCULO 63.- Las sanciones económicas se determinarán tomando como base los beneficios obtenidos o daños y perjuicios causados por el incumplimiento de las obligaciones previstas en la presente Ley y su Reglamento, aplicando dos tantos de la cantidad que resulte por dichos conceptos.
 En ningún caso la sanción económica que se imponga podrá ser menor o igual al monto de los beneficios económicos obtenidos.
 Párrafo reformado DOF 19-04-2018 Para llevar a cabo su ejecución, se dará vista al Servicio de Administración Tributaria a efecto de que actúe dentro del ámbito de su competencia.
-Párrafo adicionado DOF 19-04-2018 Artículo adicionado DOF 25-01-2002
-
-### ARTÍCULO 64
-.- En el caso de las faltas previstas en las fracciones I y XV del artículo 58 de la Ley procederá la destitución del Miembro del Servicio Exterior. También procederá la destitución en el caso de quienes sean sancionados en dos ocasiones por incurrir en las conductas establecidas en el primer párrafo del artículo 58 de la Ley y en las fracciones VIII, IX, X, XI y XVI o en tres ocasiones por las conductas contempladas en las fracciones II y XII de la misma disposición.
-Artículo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018
-
-### ARTÍCULO 65
-.- Cuando la infracción llegare a tipificar un delito, se procederá contra quienes lo cometieren, con arreglo a lo dispuesto en la legislación penal.
+Párrafo adicionado DOF 19-04-2018 Artículo adicionado DOF 25-01-2002 ARTÍCULO 64.- En el caso de las faltas previstas en las fracciones I y XV del artículo 58 de la Ley procederá la destitución del Miembro del Servicio Exterior. También procederá la destitución en el caso de quienes sean sancionados en dos ocasiones por incurrir en las conductas establecidas en el primer párrafo del artículo 58 de la Ley y en las fracciones VIII, IX, X, XI y XVI o en tres ocasiones por las conductas contempladas en las fracciones II y XII de la misma disposición.
+Artículo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018 ARTÍCULO 65.- Cuando la infracción llegare a tipificar un delito, se procederá contra quienes lo cometieren, con arreglo a lo dispuesto en la legislación penal.
 Siempre que la carpeta de investigación no se hubiese iniciado por otros medios, se turnará el expediente a la Dirección General de Asuntos Jurídicos a efecto de que se presente la denuncia correspondiente.
 Artículo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018
 
@@ -1022,10 +766,7 @@ ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman di
 Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ### ARTÍCULO ÚNICO
-Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del
-
-### artículo 51
-de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
+Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
 
 ## TRANSITORIO
 
@@ -1091,19 +832,8 @@ Publicado en el Diario Oficial de la Federación el 19 de abril de 2018
 ### Artículo Único
 Se REFORMAN los artículos 1, párrafos primero y tercero; 1-BIS; 2, fracciones I, VI, IX y XI; 5, fracciones IV y V; 6, párrafo primero y encabezado del párrafo segundo; 7; 8, párrafo primero; 10; 11; 11-BIS, fracciones I, II, III, y IV, y párrafo segundo; 12; 14; 15; 16, segundo párrafo; 17; 18, párrafos primero y segundo; 19; 20, párrafo primero; 21; 22; 23; 24; 25, párrafos primero, en su encabezado y en sus fracciones I y II, y segundo; 26; 27, fracciones I a VI del párrafo primero y los párrafos segundo y cuarto; 27-BIS; 28, párrafo primero en su encabezado y las fracciones I, III y IV; 30; 31; 32, fracciones III a VI; 33; 34; 36; 37, párrafo primero en su encabezado, inciso c) de la fracción I y párrafo quinto; 37-BIS, fracciones I a IV del párrafo segundo; 38, párrafo segundo; 40; 40-BIS; 41; 42; 43, fracciones III y IV; 44, párrafo primero en su encabezado y fracciones I, III en su encabezado y su párrafo
 **tercero.** , IV, VI y VII, y el último párrafo; 45; 46, en su encabezado; 47, en su encabezado y las fracciones I BIS, III, V, VI, VII y VIII; 48, primer párrafo; 49; 50; 51; 52; 52-BIS, fracción III; 53; 53-BIS, fracciones VI y VIII; 54; 55; 56; 57; 58, párrafo primero, en su encabezado y en sus fracciones II, III, IX, X y XII; 59, párrafos primero y último; 60; 61; 62, párrafo primero y fracciones III, IV y VI; 63, párrafo segundo; 64 y 65; la denominación del CAPÍTULO II para quedar como CAPÍTULO II De la Integración del Servicio Exterior; la denominación del CAPÍTULO III, para quedar como CAPÍTULO III De la Organización del Servicio Exterior; la denominación del CAPÍTULO V para quedar como CAPÍTULO V La Comisión de Personal; la denominación del CAPÍTULO VI, para quedar como CAPÍTULO VI Del Ingreso al Servicio Exterior; la denominación del CAPÍTULO VIII para quedar como CAPÍTULO VIII De las Obligaciones de los Miembros del Servicio Exterior; la denominación del CAPÍTULO IX para quedar como CAPÍTULO IX De los Derechos y Prestaciones de los Miembros del Servicio Exterior; la denominación del CAPÍTULO X para quedar como CAPÍTULO X De la Separación del Servicio Exterior; la denominación del CAPÍTULO XI para quedar como CAPÍTULO XI De los Asuntos Disciplinarios; se ADICIONAN los párrafos cuarto y
-**quinto.** al artículo 1; un artículo 1-TER; una fracción XI BIS al artículo 2; los párrafos segundo y tercero al
-
-### artículo 9
-; la fracción V al artículo 11-BIS; el párrafo tercero al artículo 12; un artículo 19-BIS; un párrafo tercero al artículo 20; el párrafo segundo al artículo 23; el párrafo segundo al artículo 26; 26-BIS, 26-TER y 26-QUÁTER; la fracción VII al párrafo primero del artículo 27; el CAPÍTULO V BIS denominado Plan de Carrera del Servicio Exterior, con los artículos 27-TER y 27-QUÁTER; los párrafos segundo y tercero al
-
-### artículo 28
-; la fracción V al artículo 37-BIS; la fracción III BIS al artículo 43; la fracción VIII al artículo 44; el segundo párrafo a la fracción VII y la fracción VII BIS al artículo 47; el artículo 53-TER; el artículo 55BIS; 56-BIS; a las fracciones XV y XVI al artículo 58; el artículo 58-BIS; los artículos 61-BIS y 61-TER; el párrafo tercero al artículo 63, y se DEROGAN las fracciones VI y VII del artículo 5; la fracción II del
-
-### artículo 6
-; la fracción II del artículo 32; el artículo 35; el artículo 39; el artículo 40-TER; la fracción VII del
-
-### artículo 53-BIS
-; las fracciones IV, VI, VII, XIII y XIV del artículo 58; la fracción IV del artículo 59; las fracciones I, II, V y VII del artículo 62; de la Ley del Servicio Exterior Mexicano, para quedar como sigue: ……..
+**quinto.** al artículo 1; un artículo 1-TER; una fracción XI BIS al artículo 2; los párrafos segundo y tercero al artículo 9; la fracción V al artículo 11-BIS; el párrafo tercero al artículo 12; un artículo 19-BIS; un párrafo
+**tercero.** al artículo 20; el párrafo segundo al artículo 23; el párrafo segundo al artículo 26; 26-BIS, 26-TER y 26-QUÁTER; la fracción VII al párrafo primero del artículo 27; el CAPÍTULO V BIS denominado Plan de Carrera del Servicio Exterior, con los artículos 27-TER y 27-QUÁTER; los párrafos segundo y tercero al artículo 28; la fracción V al artículo 37-BIS; la fracción III BIS al artículo 43; la fracción VIII al artículo 44; el segundo párrafo a la fracción VII y la fracción VII BIS al artículo 47; el artículo 53-TER; el artículo 55BIS; 56-BIS; a las fracciones XV y XVI al artículo 58; el artículo 58-BIS; los artículos 61-BIS y 61-TER; el párrafo tercero al artículo 63, y se DEROGAN las fracciones VI y VII del artículo 5; la fracción II del artículo 6; la fracción II del artículo 32; el artículo 35; el artículo 39; el artículo 40-TER; la fracción VII del artículo 53-BIS; las fracciones IV, VI, VII, XIII y XIV del artículo 58; la fracción IV del artículo 59; las fracciones I, II, V y VII del artículo 62; de la Ley del Servicio Exterior Mexicano, para quedar como sigue: ……..
 
 ## TRANSITORIOS
 
@@ -1117,9 +847,7 @@ Para efectos del apoyo económico complementario establecido en el artículo 55-
 **SÉPTIMO.-** Los Miembros del Servicio Exterior de carrera que a la fecha de entrada en vigor del presente Decreto se encuentren en activo, tendrán derecho a recibir el apoyo económico complementario a que se refiere el artículo 55-BIS a partir de los 70 años de edad, para lo cual deberán cumplir los siguientes requisitos:
 
 I. Se registren dentro de los siguientes seis meses a la entrada en vigor de las disposiciones administrativas que regulen el régimen previsto en el presente artículo, consintiendo expresamente en realizar las aportaciones a su cargo conforme a lo siguiente: a. Aportar el tope máximo de su sueldo básico al ahorro solidario previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, si están sujetos al régimen de cuentas individuales previsto en dicha Ley, o b. Aportar la cantidad equivalente al tope del 2% máximo permitido en el ahorro solidario previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado al Fondo de Previsión Social a que se refiere el presente artículo, en caso de estar sujetos al régimen previsto en el
-
-### artículo décimo
-transitorio de dicha Ley.
+**artículo décimo.** transitorio de dicha Ley.
 Las personas que no se registren en el plazo antes referido no podrán registrarse posteriormente.
 
 II. Se encuentren en activo en el Servicio Exterior al momento de cumplir los 70 años de edad, y

@@ -241,10 +241,7 @@ Asistirán a las sesiones de la Junta Directiva con voz pero sin voto: el Direct
 . El Director General del Instituto será nombrado y removido por el titular del Ejecutivo Federal. El nombramiento deberá recaer en persona que reúna los requisitos establecidos en el artículo 21 de la Ley Federal de Entidades Paraestatales.
 
 ### Artículo 12
-. El Director General del Instituto, además de las facultades y atribuciones que le confiere el
-
-### artículo 22
-de la Ley Federal de Entidades Paraestatales, tendrá las siguientes:
+. El Director General del Instituto, además de las facultades y atribuciones que le confiere el artículo 22 de la Ley Federal de Entidades Paraestatales, tendrá las siguientes:
 
 I. Administrar y representar legalmente al Instituto;
 

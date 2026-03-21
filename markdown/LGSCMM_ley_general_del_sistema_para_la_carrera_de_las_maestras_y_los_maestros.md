@@ -957,10 +957,7 @@ El personal docente que, habiendo participado en un proceso de promoción para e
 **Vigésimo Segundo.** Las relaciones laborales de los trabajadores al servicio de la educación que, al momento de la entrada en vigor de esta Ley, se rigen por el artículo 123 Constitucional Apartado A o B, según corresponda, se mantendrán en esos términos, de conformidad con lo dispuesto en el Artículo
 **Décimo Sexto.** Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado el 15 de mayo de 2019 en el Diario Oficial de la Federación.
 **Vigésimo Tercero.** Para efectos de lo dispuesto en el artículo 106 de la Ley General del Sistema para la Carrera de las Maestras y los Maestros, la información que servirá de base para el censo será aquella que corresponda al inicio del ciclo escolar 2019-2020. Asimismo, las Secretarías de Educación Pública y de Hacienda y Crédito Público conjuntamente darán a conocer a las autoridades educativas correspondientes el procedimiento y los plazos para la basificación respectiva.
-**Vigésimo Cuarto.** Los compromisos que, para los distintos órdenes de gobierno, deriven de la implementación del presente Decreto, incluyendo los establecidos en los Títulos Quinto y Sexto, y el
-
-### artículo 106
-de la Ley General del Sistema para la Carrera de las Maestras y los Maestros y su régimen
+**Vigésimo Cuarto.** Los compromisos que, para los distintos órdenes de gobierno, deriven de la implementación del presente Decreto, incluyendo los establecidos en los Títulos Quinto y Sexto, y el artículo 106 de la Ley General del Sistema para la Carrera de las Maestras y los Maestros y su régimen
 
 ## transitorio
 

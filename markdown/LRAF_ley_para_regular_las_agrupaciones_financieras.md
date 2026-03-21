@@ -379,10 +379,7 @@ La documentación e información relacionada con los temas a tratar en la corres
 Asimismo, el consejo de administración designará a un secretario que no formará parte de dicho consejo, quien quedará sujeto a las obligaciones y responsabilidades que este ordenamiento legal establece.
 Por consejero independiente, deberá entenderse a la persona que sea ajena a la administración de la Sociedad Controladora respectiva, de las entidades financieras o Subcontroladoras o demás sociedades que integren el Grupo Empresarial o Consorcio de que se trate, y que reúna los requisitos y condiciones que determine la Comisión Nacional Bancaria y de Valores, mediante las disposiciones de carácter general a que se refiere la Ley de Instituciones de Crédito, en las que igualmente se establecerán los supuestos bajo los cuales, se considerará que un consejero deja de ser independiente, para los efectos de esta Ley.
 Los consejeros continuarán en el desempeño de sus funciones, aun cuando hubiere concluido el plazo para el que hayan sido designados o por renuncia al cargo, hasta por un plazo de treinta días, a falta de la designación del sustituto o cuando este no tome posesión de su cargo, sin estar sujetos a lo dispuesto en el artículo 154 de la Ley General de Sociedades Mercantiles.
-El consejo de administración podrá designar consejeros provisionales, sin intervención de la asamblea de accionistas, cuando se actualice alguno de los supuestos señalados en el párrafo anterior o en el
-
-### artículo 155
-de la Ley General de Sociedades Mercantiles. La asamblea de accionistas de la Sociedad Controladora ratificará dichos nombramientos o designará a los consejeros sustitutos en la asamblea siguiente a que ocurra tal evento, sin perjuicio del derecho que tienen los accionistas de la Sociedad Controladora para designar consejeros de conformidad con lo establecido en el artículo 65, fracción IV del presente ordenamiento legal.
+El consejo de administración podrá designar consejeros provisionales, sin intervención de la asamblea de accionistas, cuando se actualice alguno de los supuestos señalados en el párrafo anterior o en el artículo 155 de la Ley General de Sociedades Mercantiles. La asamblea de accionistas de la Sociedad Controladora ratificará dichos nombramientos o designará a los consejeros sustitutos en la asamblea siguiente a que ocurra tal evento, sin perjuicio del derecho que tienen los accionistas de la Sociedad Controladora para designar consejeros de conformidad con lo establecido en el artículo 65, fracción IV del presente ordenamiento legal.
 
 ### Artículo 35
 .- Los nombramientos de los consejeros de las Sociedades Controladoras deberán recaer en personas que cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como con amplios conocimientos y experiencia en materia financiera, legal o administrativa.
@@ -665,28 +662,19 @@ Las Sociedades Controladoras no estarán sujetas a lo previsto en el artículo 9
 
 I. En materia de prácticas societarias:
 
-a) Dar opinión al consejo de administración sobre los asuntos a aprobar a que se refiere el
-
-### artículo 39
-, fracción III, incisos a) a h) del presente ordenamiento legal y demás que le competan conforme a esta Ley.
+a) Dar opinión al consejo de administración sobre los asuntos a aprobar a que se refiere el artículo 39, fracción III, incisos a) a h) del presente ordenamiento legal y demás que le competan conforme a esta Ley.
 
 b) Solicitar la opinión de expertos independientes en los casos en que lo juzgue conveniente, para el adecuado desempeño de sus funciones.
 
 c) Convocar a asambleas de accionistas y hacer que se inserten en el orden del día de dichas asambleas los puntos que estimen pertinentes.
 
-d) Apoyar al consejo de administración en la elaboración de los informes a que se refiere el
-
-### artículo 39
-, fracción IV, incisos d) y e) de esta Ley.
+d) Apoyar al consejo de administración en la elaboración de los informes a que se refiere el artículo 39, fracción IV, incisos d) y e) de esta Ley.
 
 e) Las demás que esta Ley establezca o se prevean en los estatutos sociales de la sociedad, acordes con las funciones que el presente ordenamiento legal le asigna.
 
 II. En materia de auditoría:
 
-a) Dar opinión al consejo de administración sobre los asuntos a aprobar a que se refiere el
-
-### artículo 39
-, fracción III, incisos i) a j) del presente ordenamiento legal y demás que le competan conforme a esta Ley.
+a) Dar opinión al consejo de administración sobre los asuntos a aprobar a que se refiere el artículo 39, fracción III, incisos i) a j) del presente ordenamiento legal y demás que le competan conforme a esta Ley.
 
 b) Evaluar el desempeño de la persona moral que proporcione los servicios de auditoría externa a la Sociedad Controladora, así como analizar el dictamen, opiniones, reportes o informes que elabore y suscriba el auditor externo. Para tal efecto, el comité podrá requerir la presencia del citado auditor cuando lo estime conveniente, sin perjuicio de que deberá reunirse con este último por lo menos una vez al año.
 
@@ -696,10 +684,7 @@ d) Informar al consejo de administración la situación que guarda el sistema de
 
 e) Elaborar la opinión a que se refiere el artículo 39, fracción IV, inciso c) de esta Ley y someterla a consideración del consejo de administración para su posterior presentación a la asamblea de accionistas, apoyándose, entre otros elementos, en el dictamen del auditor externo. Dicha opinión deberá señalar, por lo menos: 1. Si las políticas y criterios contables y de información seguidas por la Sociedad Controladora son adecuadas y suficientes tomando en consideración las circunstancias particulares de la misma. 2. Si dichas políticas y criterios han sido aplicados consistentemente en la información presentada por el director general. 3. Si como consecuencia de los numerales 1 y 2 anteriores, la información presentada por el director general refleja en forma razonable la situación financiera y los resultados de la sociedad.
 
-f) Apoyar al consejo de administración en la elaboración de los informes a que se refiere el
-
-### artículo 39
-, fracción IV, incisos d) y e) de esta Ley.
+f) Apoyar al consejo de administración en la elaboración de los informes a que se refiere el artículo 39, fracción IV, incisos d) y e) de esta Ley.
 
 g) Vigilar que los actos a que hacen referencia los artículos 39, fracción III y 65 de esta Ley, se lleven a cabo ajustándose a lo previsto al efecto en dichos preceptos, así como a las políticas derivadas de los mismos.
 
@@ -1058,10 +1043,7 @@ Sin perjuicio de lo establecido en el presente artículo, se entenderá que las 
 
 ### Artículo 90
 .- Para que una Sociedad Controladora incremente o disminuya su participación en Prestadoras de Servicio e Inmobiliarias, así como en Subcontroladoras, requerirá autorización de la Secretaría, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
-La solicitud correspondiente deberá cumplir con los requisitos establecidos en las reglas de carácter general que al efecto dicte la Secretaría, en términos del segundo párrafo del artículo 89 de esta Ley, salvo tratándose de Subcontroladoras, en cuyo caso deberá cumplir con los requisitos a que se refiere el
-
-### artículo 88
-de la presente Ley.
+La solicitud correspondiente deberá cumplir con los requisitos establecidos en las reglas de carácter general que al efecto dicte la Secretaría, en términos del segundo párrafo del artículo 89 de esta Ley, salvo tratándose de Subcontroladoras, en cuyo caso deberá cumplir con los requisitos a que se refiere el artículo 88 de la presente Ley.
 
 ## TÍTULO SEXTO — De la protección de los intereses del público
 
@@ -1519,10 +1501,7 @@ La asistencia y defensa legal a que se refiere este artículo se proporcionará 
 ### Artículo 138
 .- La Comisión Supervisora deberá acordar el levantamiento de la intervención cuando las irregularidades que hayan afectado la estabilidad o solvencia de la sociedad se hubieran corregido.
 En caso de que en un plazo improrrogable de nueve meses, contado a partir de la declaración de intervención, no haya sido posible corregir las irregularidades, la Comisión Supervisora, considerando el resultado del dictamen formulado por el interventor-gerente, deberá hacerlo del conocimiento de la Secretaría para que proceda a su revocación.
-Cuando la Comisión Supervisora acuerde levantar la intervención con carácter gerencial, deberá informarlo al encargado del Registro Público de Comercio que haya hecho la anotación a que se refiere el
-
-### artículo 129
-de esta Ley, a efecto de que cancele la inscripción respectiva.
+Cuando la Comisión Supervisora acuerde levantar la intervención con carácter gerencial, deberá informarlo al encargado del Registro Público de Comercio que haya hecho la anotación a que se refiere el artículo 129 de esta Ley, a efecto de que cancele la inscripción respectiva.
 
 ### Artículo 139
 .- El interventor-gerente deberá formular un informe final de su gestión, el cual deberá incluir las acciones realizadas durante la intervención y la situación financiera de la Sociedad Controladora de que se trate.
@@ -1666,10 +1645,7 @@ b) Los miembros y secretario del consejo de administración, así como los Direc
 
 c) Los miembros del comité que ejerza las funciones en materia de auditoría, de las Sociedades Controladoras de Grupos Financieros, que omitan elaborar la opinión sobre el contenido del informe del director general y someterla al consejo de administración para su presentación a la asamblea general de accionistas y vigilar que los actos a que se refiere el artículo 39, fracción III, incisos c) y d) y 65, último párrafo de esta Ley, se lleven a cabo conforme a los citados preceptos legales.
 
-d) Las Sociedades Controladoras de Grupos Financieros que prevean en sus estatutos sociales cláusulas que establezcan medidas tendientes a prevenir la adquisición de acciones que otorguen el Control de la sociedad, en contravención de lo establecido en el
-
-### artículo 64
-, fracción I de esta Ley.
+d) Las Sociedades Controladoras de Grupos Financieros que prevean en sus estatutos sociales cláusulas que establezcan medidas tendientes a prevenir la adquisición de acciones que otorguen el Control de la sociedad, en contravención de lo establecido en el artículo 64, fracción I de esta Ley.
 
 e) Los accionistas que se encuentren presentes o deliberen en una operación en la que tengan un interés contrario al de la sociedad, en contravención al artículo 66 de esta Ley.
 
@@ -2034,10 +2010,7 @@ III. Las Sociedades Controladoras contarán con un plazo de ciento ochenta días
 
 IV. Las Sociedades Controladoras y Grupos Financieros que a la entrada en vigor de esta Ley cuenten con autorización para constituirse y funcionar como tales conforme a la Ley para Regular las Agrupaciones Financieras que se abroga, se tendrán por autorizados en términos del artículo 11 de esta Ley.
 
-V. Las Comisiones supervisoras deberán elaborar el instrumento de colaboración señalado en el
-
-### artículo 110
-dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley.
+V. Las Comisiones supervisoras deberán elaborar el instrumento de colaboración señalado en el artículo 110 dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley.
 
 VI. Al Consejo Nacional de Inclusión Financiera creado mediante Acuerdo publicado en el Diario Oficial de la Federación el 3 de octubre de 2011, le serán aplicables las reglas de operación emitidas en términos del citado Acuerdo, en lo que no se oponga a la presente Ley, hasta en tanto el propio Consejo no emita nuevas reglas.
 En tanto el Consejo de Estabilidad del Sistema Financiero no emita las reglas de operación para su funcionamiento, seguirán aplicándose las que le resulten aplicables en términos del Acuerdo publicado en el Diario Oficial de la Federación el 29 de julio de 2010, en lo que no se oponga a la presente Ley.
@@ -2065,10 +2038,7 @@ Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
 
 ### Artículo Quinto
 Se reforman los artículos 123, párrafos primero y actual tercero; y 143, fracción I; y se adicionan los artículos 122, con los párrafos tercero y cuarto; 123, con los párrafos tercero, cuarto y
-**quinto.** , recorriéndose los subsecuentes; y 143, con los párrafos segundo, tercero y cuarto; y se deroga el
-
-### artículo 123
-, actual cuarto párrafo, de la Ley para Regular las Agrupaciones Financieras, para quedar como sigue: ………
+**quinto.** , recorriéndose los subsecuentes; y 143, con los párrafos segundo, tercero y cuarto; y se deroga el artículo 123, actual cuarto párrafo, de la Ley para Regular las Agrupaciones Financieras, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -2091,7 +2061,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

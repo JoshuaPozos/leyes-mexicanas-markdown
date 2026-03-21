@@ -569,10 +569,7 @@ Artículo adicionado DOF 15-01-1980. Reformado DOF 07-03-2003 (renumerado, antes
 
 ### Artículo 89
 .- La selección de los servidores públicos con merecimientos para el Premio Nacional de Administración Pública, se hará por un jurado integrado por el Coordinador General de Estudios Administrativos quien lo presidirá y sendos representantes de la Coordinación General del Sistema Nacional de Evaluación, de la Comisión de Recursos Humanos del Gobierno Federal y de la Federación de Sindicatos de Trabajadores al Servicio del Estado. En caso de empate, el Presidente tendrá voto de calidad.
-Al efecto, la Comisión Interna de Administración y Programación, en funciones de la Comisión Evaluadora con la participación de un representante del Sindicato, en cada dependencia o entidad, deberá turnar a dicho jurado el expediente del servidor público seleccionado, de conformidad con el
-
-### artículo 98
-de la presente Ley.
+Al efecto, la Comisión Interna de Administración y Programación, en funciones de la Comisión Evaluadora con la participación de un representante del Sindicato, en cada dependencia o entidad, deberá turnar a dicho jurado el expediente del servidor público seleccionado, de conformidad con el artículo 98 de la presente Ley.
 Artículo adicionado DOF 15-01-1980. Reformado DOF 07-03-2003 (renumerado, antes Artículo 91-C)
 
 ### Artículo 90
@@ -922,10 +919,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de P
 Publicado en el Diario Oficial de la Federación el 15 de junio de 2004
 
 ### ARTÍCULO ÚNICO
-Se reforman el párrafo segundo del artículo 2, el primer párrafo del artículo 72, el primer párrafo del artículo 73, los artículos 74 y 75; se adicionan las fracciones XIII, XIV, XV y XVI al
-
-### artículo 6
-, las fracciones I a la X al artículo 72, un párrafo segundo al artículo 73 y los Capítulos XVIII, XIX, XX y XXI por lo que se recorre el Capítulo XVIII denominado "Disposiciones Generales" para ser el Capítulo XXII de la Ley de Premios, Estímulos y Recompensas Civiles para quedar como sigue: ........
+Se reforman el párrafo segundo del artículo 2, el primer párrafo del artículo 72, el primer párrafo del artículo 73, los artículos 74 y 75; se adicionan las fracciones XIII, XIV, XV y XVI al artículo 6, las fracciones I a la X al artículo 72, un párrafo segundo al artículo 73 y los Capítulos XVIII, XIX, XX y XXI por lo que se recorre el Capítulo XVIII denominado "Disposiciones Generales" para ser el Capítulo XXII de la Ley de Premios, Estímulos y Recompensas Civiles para quedar como sigue: ........
 
 ## TRANSITORIO
 

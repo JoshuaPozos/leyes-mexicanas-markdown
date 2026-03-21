@@ -355,10 +355,7 @@ Artículo adicionado DOF 25-05-2010
 . Se deroga Artículo derogado DOF 25-06-2009
 
 ### Artículo 15
-. Tratándose del otorgamiento de créditos, préstamos o financiamientos que otorguen las Entidades a los que les sea aplicable el CAT de acuerdo con las disposiciones a las que se refiere el
-
-### artículo 8
-de esta Ley, la publicidad y los Contratos de Adhesión deberán contener dicho CAT, cuando así lo establezcan las disposiciones de carácter general que conforme a lo previsto en los artículos 11 y 12 de esta Ley, emitan la Procuraduría Federal del Consumidor y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus respectivas competencias.
+. Tratándose del otorgamiento de créditos, préstamos o financiamientos que otorguen las Entidades a los que les sea aplicable el CAT de acuerdo con las disposiciones a las que se refiere el artículo 8 de esta Ley, la publicidad y los Contratos de Adhesión deberán contener dicho CAT, cuando así lo establezcan las disposiciones de carácter general que conforme a lo previsto en los artículos 11 y 12 de esta Ley, emitan la Procuraduría Federal del Consumidor y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus respectivas competencias.
 Párrafo reformado DOF 25-06-2009 La información a que se refiere este artículo deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
 
 ### Artículo 15
@@ -668,10 +665,7 @@ Párrafo reformado DOF 25-06-2009
 
 I. No cuenten en sus sucursales, establecimientos y en su página electrónica en la red mundial "Internet", con la información actualizada a que se refiere el primer párrafo del artículo 7 de esta Ley, en los términos expresados en el referido precepto.
 
-II. No expresen en términos anuales las tasas de interés ordinarias y moratorias, conforme al
-
-### artículo 9
-de la presente Ley.
+II. No expresen en términos anuales las tasas de interés ordinarias y moratorias, conforme al artículo 9 de la presente Ley.
 
 III. Empleen modelos de Contratos de Adhesión que incumplan lo previsto en el artículo 11 de esta Ley o en las disposiciones de carácter general que expida la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, que regulen Contratos de Adhesión, o utilicen con los Clientes cualquier Contrato de Adhesión que no haya sido remitido a dicha Comisión Nacional en términos de lo previsto en el mismo artículo 11 de la presente Ley.
 Fracción reformada DOF 25-06-2009
@@ -682,10 +676,7 @@ Fracción reformada DOF 25-06-2009
 V. Expidan estados de cuenta o comprobantes de operaciones, que no cumplan con lo previsto en el artículo 13 de la presente Ley o no se ajusten a los requisitos que establezca la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, a través de disposiciones de carácter general.
 Fracción reformada DOF 25-06-2009
 
-VI. Se abstengan de enviar a la propia Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros los modelos de Contratos de Adhesión, en contravención al
-
-### artículo 11
-del presente Ordenamiento;
+VI. Se abstengan de enviar a la propia Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros los modelos de Contratos de Adhesión, en contravención al artículo 11 del presente Ordenamiento;
 Fracción adicionada DOF 25-06-2009
 
 VII. Eleven el límite de crédito en un crédito, préstamo o financiamiento revolvente asociado a una tarjeta, que incumpla con las formalidades establecidas en el artículo 18 Bis 1 de la presente Ley.
@@ -746,15 +737,9 @@ Asimismo, la Procuraduría Federal del Consumidor sancionará, en el ámbito de 
 
 I. Dos mil a cinco mil días de salario, a las Entidades Comerciales que:
 
-a) No cuenten en sus sucursales, establecimientos o en su página electrónica en la red mundial "Internet", con la información actualizada a que se refiere el primer párrafo del
+a) No cuenten en sus sucursales, establecimientos o en su página electrónica en la red mundial "Internet", con la información actualizada a que se refiere el primer párrafo del artículo 7 de esta Ley, en los términos expresados en el referido precepto.
 
-### artículo 7
-de esta Ley, en los términos expresados en el referido precepto.
-
-b) No expresen en términos anuales las tasas de interés ordinarias y moratorias, conforme al
-
-### artículo 9
-de la presente Ley.
+b) No expresen en términos anuales las tasas de interés ordinarias y moratorias, conforme al artículo 9 de la presente Ley.
 
 c) Empleen modelos de Contratos de Adhesión que incumplan lo previsto en el artículo 11 de esta Ley o en las disposiciones de carácter general que expida la Procuraduría Federal del Consumidor, que regulen Contratos de Adhesión.
 
@@ -827,24 +812,15 @@ II. Se abstengan de recibir cheques salvo buen cobro, órdenes de transferencias
 ### Artículo 49
 .- El Banco de México sancionará con multa de cuatro mil a veinte mil días de salario, a las Entidades Financieras que:
 
-I. Incumplan con las disposiciones de carácter general que emita el Banco de México en términos del
-
-### artículo 4
-de esta Ley.
+I. Incumplan con las disposiciones de carácter general que emita el Banco de México en términos del artículo 4 de esta Ley.
 
 II. Se abstengan de observar la fórmula, los componentes y la metodología de cálculo del CAT, que al efecto establezca el Banco de México a través de disposiciones de carácter general.
 
 III. Cobren intereses en términos distintos a lo previsto en el artículo 10, de la presente Ley.
 
-IV. Cobren alguna penalización por la transferencia de la totalidad de los recursos de los trabajadores que reciban por concepto de salario y de otras prestaciones de carácter laboral, en contravención al
+IV. Cobren alguna penalización por la transferencia de la totalidad de los recursos de los trabajadores que reciban por concepto de salario y de otras prestaciones de carácter laboral, en contravención al artículo 18 de la presente Ley o a las disposiciones de carácter general que al efecto expida el Banco de México.
 
-### artículo 18
-de la presente Ley o a las disposiciones de carácter general que al efecto expida el Banco de México.
-
-V. Incumplan con las disposiciones de carácter general que emita el Banco de México en términos del
-
-### artículo 4
-Bis de esta Ley.
+V. Incumplan con las disposiciones de carácter general que emita el Banco de México en términos del artículo 4 Bis de esta Ley.
 Fracción adicionada DOF 25-05-2010
 
 VI. Se abstengan de observar la fórmula, los componentes y la metodología de cálculo de la GAT, que al efecto establezca el Banco de México a través de disposiciones de carácter general.
@@ -991,16 +967,13 @@ Se reforman los artículos 3; 4; 6, cuarto párrafo; y se adicionan los artícul
 ## TRANSITORIOS
 
 **Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Banco de México expedirá las disposiciones de carácter general a que se refiere el
-
-### artículo 4
-Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
-Tercero. Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
-Cuarto. Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
-Quinto. Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
+**Segundo.** El Banco de México expedirá las disposiciones de carácter general a que se refiere el artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+**Tercero.** Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
+**Cuarto.** Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
+**Quinto.** Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
 Las Sociedades de Información Crediticia contarán con un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para presentar a la Comisión el acuerdo mencionado en el artículo 36 de la citada Ley.
 Las sociedades de información crediticia deberán obtener la autorización de la Comisión Nacional Bancaria y de Valores respecto de las tarifas que dichas sociedades deberán ofrecer a sus Usuarios por los reportes de crédito, en términos del artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
-Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
+**Sexto.** Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
 México, D.F., a 11 de febrero de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Carlos Samuel Moreno Teran, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de mayo de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
@@ -1010,7 +983,8 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
 Se REFORMAN los artículos 2 Bis; 3, fracciones I, III, VII, IX, X, XI, XII y XIII; 4; 6, quinto párrafo, 10 Bis 1; 17, tercer párrafo; 18; 19, primer párrafo; 19 Bis, tercer y último párrafo y 23, último párrafo; y se ADICIONAN los artículos 3, con las fracciones XII Bis y XIV; 4 Bis 3; 15 Bis, con un segundo párrafo; 17, con una fracción IV y un penúltimo párrafo recorriéndose el último párrafo de dicho artículo; 17 Bis 1 a 17 Bis 4; 18 Bis, fracción II, con un segundo párrafo; 23 Bis; 23 Bis 1; 23 Bis 2; 43, con la fracción XII, 44, fracción II con el inciso n); 49 Bis 1 y 49 Bis 2, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, para quedar como sigue: ……… Disposiciones Transitorias
 
 ### ARTÍCULO QUINTO
-En relación con las modificaciones a que se refieren los Artículos Primero, Segundo, Tercero y Cuarto de este Decreto, se estará a lo siguiente:
+En relación con las modificaciones a que se refieren los Artículos Primero,
+**Segundo.** , Tercero y Cuarto de este Decreto, se estará a lo siguiente:
 
 I. La Comisión Federal de Competencia Económica contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto para llevar a cabo una investigación sobre las condiciones de competencia en el sistema financiero y sus mercados, para lo cual deberá escuchar la opinión no vinculante de la Secretaría de Hacienda y Crédito Público. Como resultado de dicha investigación la Comisión Federal de Competencia Económica podrá, en su caso, formular recomendaciones a las autoridades financieras para mejorar la competencia en este sistema y sus mercados y ejercer las demás atribuciones que le confiere la Ley Federal de Competencia Económica a fin de evitar prácticas monopólicas, concentraciones y demás restricciones al funcionamiento eficiente de los mercados en este sistema, incluyendo, según corresponda, ordenar medidas para eliminar las barreras a la competencia y la libre concurrencia; ordenar la desincorporación de activos, derechos, partes sociales o acciones de los agentes económicos, en las proporciones necesarias para eliminar efectos anticompetitivos, y el resto de las medidas facultadas por la Constitución y la ley de la materia.
 
@@ -1072,7 +1046,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

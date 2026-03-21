@@ -8,29 +8,10 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 31 de diciembre de 1982 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 MIGUEL DE LA MADRID HURTADO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO "El Congreso de los Estados Unidos Mexicanos, decreta:
-LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS TITULO PRIMERO (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO UNICO Disposiciones Generales (Se deroga) Capítulo derogado DOF 18-07-2016
-
-### ARTÍCULO 1o
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 2o
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 3o
-.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997, 31-12-2000. Derogado DOF 18-07-2016
-
-### ARTÍCULO 4o
-.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016 TITULO SEGUNDO Procedimientos ante el Congreso de la Unión en materia de juicio político y declaración de procedencia CAPITULO I Sujetos, causas de juicio político y sanciones
-
-### ARTÍCULO 5o
-.- En los términos del primer párrafo del artículo 110 de la Constitución General de la República, son sujetos de juicio político los servidores públicos que en él se mencionan.
+LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS TITULO PRIMERO (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO UNICO Disposiciones Generales (Se deroga) Capítulo derogado DOF 18-07-2016 ARTÍCULO 1o.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 2o.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 3o.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997, 31-12-2000. Derogado DOF 18-07-2016 ARTÍCULO 4o.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016 TITULO SEGUNDO Procedimientos ante el Congreso de la Unión en materia de juicio político y declaración de procedencia CAPITULO I Sujetos, causas de juicio político y sanciones ARTÍCULO 5o.- En los términos del primer párrafo del artículo 110 de la Constitución General de la República, son sujetos de juicio político los servidores públicos que en él se mencionan.
 Los gobernadores de los Estados, los Diputados a las Legislaturas Locales y los Magistrados de los Tribunales Superiores de Justicia Locales podrán ser sujetos de juicio político por violaciones graves a la Constitución General de la República, a las Leyes Federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales.
-
-### ARTÍCULO 6o
-.- Es procedente el juicio político cuando los actos u omisiones de los servidores públicos a que se refiere el artículo anterior, redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
-
-### ARTÍCULO 7o
-.- Redundan en perjuicio de los intereses públicos fundamentales y de su buen despacho:
+ARTÍCULO 6o.- Es procedente el juicio político cuando los actos u omisiones de los servidores públicos a que se refiere el artículo anterior, redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+ARTÍCULO 7o.- Redundan en perjuicio de los intereses públicos fundamentales y de su buen despacho:
 I.- El ataque a las instituciones democráticas;
 II.- El ataque a la forma de gobierno republicano, representativo, federal;
 III.- Las violaciones a los derechos humanos;
@@ -40,32 +21,18 @@ VI.- Cualquier infracción a la Constitución o a las leyes federales cuando cau
 VII.- Las omisiones de carácter grave, en los términos de la fracción anterior; y VIII.- Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la Administración Pública Federal o de la Ciudad de México y a las leyes que determinan el manejo de los recursos económicos federales y de la Ciudad de México.
 Fracción reformada DOF 20-12-2023 No procede el juicio político por la mera expresión de ideas.
 El Congreso de la Unión valorará la existencia y gravedad de los actos u omisiones a que se refiere este artículo. Cuando aquellos tengan carácter delictuoso se formulará la declaración de procedencia a la que alude la presente ley y se estará a lo dispuesto por la legislación penal.
-Fe de erratas al párrafo DOF 10-03-1983
-
-### ARTÍCULO 8o
-.- Si la resolución que se dicte en el juicio político es condenatoria, se sancionará al servidor público con destitución. Podrá también imponerse inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público desde un año hasta veinte años.
-CAPITULO II Procedimiento en el Juicio Político
-
-### ARTÍCULO 9o
-.- Cualquier ciudadano, bajo su más estricta responsabilidad podrá formular por escrito, denuncia contra un servidor público ante la Cámara de Diputados por las conductas a las que se refiere el artículo 7 de esta propia Ley y por las conductas que determina el párrafo segundo del artículo 5 de esta misma Ley, por lo que toca a los Gobernadores de los Estados, Diputados a las Legislaturas Locales y Magistrados de los Tribunales de Justicia Locales. En el caso de ciudadanos, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas del país, serán asistidos por traductores para elaborar la denuncia, si así lo solicitan. Dicha denuncia podrá presentarse por escrito en la lengua indígena.
+Fe de erratas al párrafo DOF 10-03-1983 ARTÍCULO 8o.- Si la resolución que se dicte en el juicio político es condenatoria, se sancionará al servidor público con destitución. Podrá también imponerse inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público desde un año hasta veinte años.
+CAPITULO II Procedimiento en el Juicio Político ARTÍCULO 9o.- Cualquier ciudadano, bajo su más estricta responsabilidad podrá formular por escrito, denuncia contra un servidor público ante la Cámara de Diputados por las conductas a las que se refiere el artículo 7 de esta propia Ley y por las conductas que determina el párrafo segundo del artículo 5 de esta misma Ley, por lo que toca a los Gobernadores de los Estados, Diputados a las Legislaturas Locales y Magistrados de los Tribunales de Justicia Locales. En el caso de ciudadanos, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas del país, serán asistidos por traductores para elaborar la denuncia, si así lo solicitan. Dicha denuncia podrá presentarse por escrito en la lengua indígena.
 Párrafo reformado DOF 13-06-2003, 01-04-2024 La denuncia deberá estar apoyada en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y estar en condiciones de presumir la responsabilidad del denunciado. En caso de que el denunciante no pudiera aportar dichas pruebas por encontrarse éstas en posesión de una autoridad, la Subcomisión de Examen Previo, ante el señalamiento del denunciante, podrá solicitarlas para los efectos conducentes.
 Las denuncias anónimas no producirán ningún efecto.
 El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, y dentro de un año después de la conclusión de sus funciones.
 Las sanciones respectivas se aplicarán en un plazo no mayor de un año, a partir de iniciado el procedimiento.
-Artículo reformado DOF 21-07-1992
-
-### ARTÍCULO 10
-.- Corresponde a la Cámara de Diputados sustanciar el procedimiento relativo al juicio político, actuando como órgano instructor y de acusación, y a la Cámara de Senadores fungir como Jurado de Sentencia.
+Artículo reformado DOF 21-07-1992 ARTÍCULO 10.- Corresponde a la Cámara de Diputados sustanciar el procedimiento relativo al juicio político, actuando como órgano instructor y de acusación, y a la Cámara de Senadores fungir como Jurado de Sentencia.
 La Cámara de Diputados sustanciará el procedimiento de juicio político por conducto de las Comisiones Unidas de Gobernación y Puntos Constitucionales y de Justicia, quienes al momento de su instalación designarán a cinco miembros de cada una de ellas para que en unión de sus Presidentes y un Secretario por cada Comisión, integren la Subcomisión de Examen Previo de denuncias de juicios políticos que tendrá competencia exclusiva para los propósitos contenidos en el Capítulo II de esta Ley.
-Artículo reformado DOF 21-07-1992
-
-### ARTÍCULO 11
-.- Al proponer la Gran Comisión de cada una de las Cámaras del Congreso de la Unión, la constitución de Comisiones para el despacho de los asuntos, propondrá la integración de una Comisión para sustanciar los procedimientos consignados en la presente Ley y en los términos de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+Artículo reformado DOF 21-07-1992 ARTÍCULO 11.- Al proponer la Gran Comisión de cada una de las Cámaras del Congreso de la Unión, la constitución de Comisiones para el despacho de los asuntos, propondrá la integración de una Comisión para sustanciar los procedimientos consignados en la presente Ley y en los términos de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Aprobada la propuesta a que hace referencia el párrafo anterior, por cada Cámara se designarán de cada una de las Comisiones, cuatro integrantes para que formen la Sección instructora en la Cámara de Diputados y la de Enjuiciamiento en la de Senadores.
 Las vacantes que ocurran en la Sección correspondiente de cada Cámara, serán cubiertas por designación que haga la Gran Comisión, de entre los miembros de las Comisiones respectivas.
-
-### ARTÍCULO 12
-.- La determinación del juicio político se sujetará al siguiente procedimiento: ratificarse ante ella dentro de los tres días naturales siguientes a su presentación;
+ARTÍCULO 12.- La determinación del juicio político se sujetará al siguiente procedimiento: ratificarse ante ella dentro de los tres días naturales siguientes a su presentación;
 Inciso reformado DOF 13-06-2003 Comisiones que corresponda, para la tramitación correspondiente. Si se trata de una denuncia presentada en lengua indígena, ordenará su traducción inmediata al español y lo turnará conforme al procedimiento establecido;
 Inciso reformado DOF 13-06-2003
 
@@ -75,308 +42,84 @@ En caso de la presentación de pruebas supervivientes, la Subcomisión de Examen
 d) La resolución que dicte la Subcomisión de Examen Previo, desechando una denuncia, podrá revisarse por el pleno de las Comisiones Unidas a petición de cualquiera de los Presidentes de las Comisiones o a solicitud, de cuando menos, el diez por ciento de los diputados integrantes de ambas Comisiones, y Fe de erratas al inciso DOF 22-07-1992
 
 e) La resolución que dicte la Subcomisión de Examen Previo declarando procedente la denuncia, será remitida al pleno de las Comisiones Unidas de Gobernación y Puntos Constitucionales y de Justicia para efecto de formular la resolución correspondiente y ordenar se turne a la Sección Instructora de la Cámara.
-Artículo reformado DOF 21-07-1992
-
-### ARTÍCULO 13
-.- La Sección Instructora practicará todas las diligencias necesarias para la comprobación de la conducta o hecho materia de aquella; estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
+Artículo reformado DOF 21-07-1992 ARTÍCULO 13.- La Sección Instructora practicará todas las diligencias necesarias para la comprobación de la conducta o hecho materia de aquella; estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
 Dentro de los tres días naturales siguientes a la ratificación de la denuncia, la Sección informará al denunciado sobre la materia de la denuncia, haciéndole saber su garantía de defensa y que deberá, a su elección, comparecer o informar por escrito, dentro de los siete días naturales siguientes a la notificación.
-
-### ARTÍCULO 14
-.- La Sección Instructora abrirá un período de prueba de 30 días naturales dentro del cual recibirá las pruebas que ofrezcan el denunciante y el servidor público, así como las que la propia Sección estime necesarias.
+ARTÍCULO 14.- La Sección Instructora abrirá un período de prueba de 30 días naturales dentro del cual recibirá las pruebas que ofrezcan el denunciante y el servidor público, así como las que la propia Sección estime necesarias.
 Si al concluir el plazo señalado no hubiese sido posible recibir las pruebas ofrecidas oportunamente, o es preciso allegarse otras, la Sección Instructora podrá ampliarlo en la medida que resulte estrictamente necesaria.
 En todo caso, la Sección Instructora calificará la pertinencia de las pruebas, desechándose las que a su juicio sean improcedentes.
-
-### ARTÍCULO 15
-.- Terminada la instrucción del procedimiento, se pondrá el expediente a la vista del denunciante, por un plazo de tres días naturales, y por otros tantos a la del servidor público y sus defensores, a fin de que tomen los datos que requieran para formular alegatos, que deberán presentar por escrito dentro de los seis días naturales siguientes a la conclusión del segundo plazo mencionado.
-
-### ARTÍCULO 16
-.- Transcurrido el plazo para la presentación de alegatos, se hayan o no entregado éstos, la Sección Instructora formulará sus conclusiones en vista de las constancias del procedimiento.
+ARTÍCULO 15.- Terminada la instrucción del procedimiento, se pondrá el expediente a la vista del denunciante, por un plazo de tres días naturales, y por otros tantos a la del servidor público y sus defensores, a fin de que tomen los datos que requieran para formular alegatos, que deberán presentar por escrito dentro de los seis días naturales siguientes a la conclusión del segundo plazo mencionado.
+ARTÍCULO 16.- Transcurrido el plazo para la presentación de alegatos, se hayan o no entregado éstos, la Sección Instructora formulará sus conclusiones en vista de las constancias del procedimiento.
 Para este efecto analizará clara y metódicamente la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para justificar, en su caso, la conclusión o la continuación del procedimiento.
-
-### ARTÍCULO 17
-.- Si de las constancias del procedimiento se desprende la inocencia del encausado, las conclusiones de la Sección Instructora terminarán proponiendo que se declare que no ha lugar a proceder en su contra por la conducta o el hecho materia de la denuncia, que dio origen al procedimiento.
+ARTÍCULO 17.- Si de las constancias del procedimiento se desprende la inocencia del encausado, las conclusiones de la Sección Instructora terminarán proponiendo que se declare que no ha lugar a proceder en su contra por la conducta o el hecho materia de la denuncia, que dio origen al procedimiento.
 Fe de erratas al párrafo DOF 10-03-1983 Si de las constancias se desprende la responsabilidad del servidor público, las conclusiones terminarán proponiendo la aprobación de lo siguiente:
 Párrafo reformado DOF 21-07-1992 I.- Que está legalmente comprobada la conducta o el hecho materia de la denuncia;
 
 II. Que se encuentra acreditada la responsabilidad del encausado;
 Fracción reformada DOF 21-07-1992 III.- La sanción que deba imponerse de acuerdo con el artículo 8o. de esta Ley, y IV.- Que en caso de ser aprobadas las conclusiones, se envíe la declaración correspondiente a la Cámara de Senadores, en concepto de acusación, para los efectos legales respectivos.
 De igual manera deberán asentarse en las conclusiones las circunstancias que hubieren concurrido en los hechos.
-Fe de erratas al párrafo DOF 22-07-1992
-
-### ARTÍCULO 18
-.- Una vez emitidas las conclusiones a que se refieren los artículos precedentes, la
+Fe de erratas al párrafo DOF 22-07-1992 ARTÍCULO 18.- Una vez emitidas las conclusiones a que se refieren los artículos precedentes, la
 
 ## Sección I — nstructora las entregará a los secretarios de la Cámara de Diputados para que den cuenta al
 Presidente de la misma, quien anunciará que dicha Cámara debe reunirse y resolver sobre la imputación, dentro de los tres días naturales siguientes, lo que harán saber los secretarios al denunciante y al servidor público denunciado, para que aquél se presente por sí y éste lo haga personalmente, asistido de su defensor, a fin de que aleguen lo que convenga a sus derechos.
-
-### ARTÍCULO 19
-.- La Sección Instructora deberá practicar todas las diligencias y formular sus conclusiones hasta entregarlas a los secretarios de la Cámara, conforme a los artículos anteriores, dentro del plazo de sesenta días naturales, contado desde el día siguiente a la fecha en que se le haya turnado la denuncia, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar de la Cámara que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se conceda no excederá de quince días.
+ARTÍCULO 19.- La Sección Instructora deberá practicar todas las diligencias y formular sus conclusiones hasta entregarlas a los secretarios de la Cámara, conforme a los artículos anteriores, dentro del plazo de sesenta días naturales, contado desde el día siguiente a la fecha en que se le haya turnado la denuncia, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar de la Cámara que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se conceda no excederá de quince días.
 Fe de erratas al párrafo DOF 10-03-1983 Los plazos a que se refiere este artículo se entienden comprendidos dentro del período ordinario de sesiones de la Cámara o bien dentro del siguiente ordinario o extraordinario que se convoque.
-
-### ARTÍCULO 20
-.- El día señalado, conforme al Artículo 18, la Cámara de Diputados se erigirá en órgano de acusación, previa declaración de su Presidente. En seguida la Secretaría dará lectura a las constancias procedimentales o a una síntesis que contenga los puntos sustanciales de éstas, así como a las conclusiones de la Sección Instructora. Acto continuo se concederá la palabra al denunciante y en seguida al servidor público o a su defensor, o a ambos si alguno de éstos lo solicitare, para que aleguen lo que convenga a sus derechos.
+ARTÍCULO 20.- El día señalado, conforme al Artículo 18, la Cámara de Diputados se erigirá en órgano de acusación, previa declaración de su Presidente. En seguida la Secretaría dará lectura a las constancias procedimentales o a una síntesis que contenga los puntos sustanciales de éstas, así como a las conclusiones de la Sección Instructora. Acto continuo se concederá la palabra al denunciante y en seguida al servidor público o a su defensor, o a ambos si alguno de éstos lo solicitare, para que aleguen lo que convenga a sus derechos.
 El denunciante podrá replicar y, si lo hiciere, el imputado y su defensor podrán hacer uso de la palabra en último término.
 Retirados el denunciante y el servidor público y su defensor, se procederá a discutir y a votar las conclusiones propuestas por la Sección Instructora.
-
-### ARTÍCULO 21
-.- Si la Cámara resolviese que no procede acusar al servidor público, éste continuará en el ejercicio de su cargo. En caso contrario, se le pondrá a disposición de la Cámara de Senadores, a la que se remitirá la acusación, designándose una comisión de tres diputados para que sostengan aquélla ante el Senado.
-
-### ARTÍCULO 22
-.- Recibida la acusación en la Cámara de Senadores, ésta la turnará a la Sección de Enjuiciamiento, la que emplazará a la Comisión de Diputados encargada de la acusación, al acusado y a su defensor, para que presenten por escrito sus alegatos dentro de los cinco días naturales siguientes al emplazamiento.
-
-### ARTÍCULO 23
-.- Transcurrido el plazo que se señala en el artículo anterior, con alegatos o sin ellos, la Sección de Enjuiciamiento de la Cámara de Senadores formulará sus conclusiones en vista de las consideraciones hechas en la acusación y en los alegatos formulados, en su caso, proponiendo la sanción que en su concepto deba imponerse al servidor público y expresando los preceptos legales en que se funde.
+ARTÍCULO 21.- Si la Cámara resolviese que no procede acusar al servidor público, éste continuará en el ejercicio de su cargo. En caso contrario, se le pondrá a disposición de la Cámara de Senadores, a la que se remitirá la acusación, designándose una comisión de tres diputados para que sostengan aquélla ante el Senado.
+ARTÍCULO 22.- Recibida la acusación en la Cámara de Senadores, ésta la turnará a la Sección de Enjuiciamiento, la que emplazará a la Comisión de Diputados encargada de la acusación, al acusado y a su defensor, para que presenten por escrito sus alegatos dentro de los cinco días naturales siguientes al emplazamiento.
+ARTÍCULO 23.- Transcurrido el plazo que se señala en el artículo anterior, con alegatos o sin ellos, la Sección de Enjuiciamiento de la Cámara de Senadores formulará sus conclusiones en vista de las consideraciones hechas en la acusación y en los alegatos formulados, en su caso, proponiendo la sanción que en su concepto deba imponerse al servidor público y expresando los preceptos legales en que se funde.
 La Sección podrá escuchar directamente a la Comisión de Diputados que sostienen la acusación y al acusado y su defensor, si así lo estima conveniente la misma Sección o si lo solicitan los interesados.
 Asimismo, la Sección podrá disponer la práctica de otras diligencias que considere necesarias para integrar sus propias conclusiones.
 Emitidas las conclusiones, la Sección las entregará a la Secretaría de la Cámara de Senadores.
-
-### ARTÍCULO 24
-.- Recibidas las conclusiones por la Secretaría de la Cámara, su Presidente anunciará que debe erigirse ésta en Jurado de Sentencia dentro de las 24 horas siguientes a la entrega de dichas conclusiones, procediendo la Secretaría a citar a la Comisión a que se refiere el artículo 21 de esta Ley, al acusado y a su defensor.
+ARTÍCULO 24.- Recibidas las conclusiones por la Secretaría de la Cámara, su Presidente anunciará que debe erigirse ésta en Jurado de Sentencia dentro de las 24 horas siguientes a la entrega de dichas conclusiones, procediendo la Secretaría a citar a la Comisión a que se refiere el artículo 21 de esta Ley, al acusado y a su defensor.
 A la hora señalada para la audiencia, el Presidente de la Cámara de Senadores la declarará erigida en Jurado de Sentencia y procederá de conformidad con las siguientes normas: 1.- La Secretaría dará lectura a las conclusiones formuladas por la Sección de Enjuiciamiento; 2.- Acto continuo, se concederá la palabra a la Comisión de Diputados, al servidor público o a su defensor, o a ambos; 3.- Retirados el servidor público y su defensor, y permaneciendo los diputados en la sesión se procederá a discutir y a votar las conclusiones y aprobar los que sean los puntos de acuerdo, que en ellas se contengan, el Presidente hará la declaratoria que corresponda.
 Por lo que toca a gobernadores, diputados a las Legislaturas Locales y Magistrados de Tribunales Superiores de Justicia de los Estados, la Cámara de Senadores se erigirá en Jurado de Sentencia dentro de los tres días naturales siguientes a las recepciones de las conclusiones. En este caso, la sentencia que se dicte tendrá efectos declarativos y la misma se comunicará a la Legislatura Local respectiva, para que en ejercicio de sus atribuciones proceda como corresponda.
-CAPITULO III Procedimiento para la declaración de Procedencia Fe de erratas a la denominación del Capítulo DOF 10-03-1983
-
-### ARTÍCULO 25
-.- Cuando se presente denuncia o querella por particulares o requerimiento del Ministerio Público cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, a fin de que pueda procederse penalmente en contra de algunos de los servidores públicos a que se refiere el primer párrafo del artículo 111 de la Constitución General de la República, se actuará, en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante la Cámara de Diputados. En este caso, la Sección Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y la probable responsabilidad del imputado, así como la subsistencia del fuero constitucional cuya remoción se solicita. Concluida esta averiguación, la Sección dictaminará si ha lugar a proceder penalmente en contra del inculpado.
+CAPITULO III Procedimiento para la declaración de Procedencia Fe de erratas a la denominación del Capítulo DOF 10-03-1983 ARTÍCULO 25.- Cuando se presente denuncia o querella por particulares o requerimiento del Ministerio Público cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, a fin de que pueda procederse penalmente en contra de algunos de los servidores públicos a que se refiere el primer párrafo del artículo 111 de la Constitución General de la República, se actuará, en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante la Cámara de Diputados. En este caso, la Sección Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y la probable responsabilidad del imputado, así como la subsistencia del fuero constitucional cuya remoción se solicita. Concluida esta averiguación, la Sección dictaminará si ha lugar a proceder penalmente en contra del inculpado.
 Fe de erratas al párrafo DOF 10-03-1983 Si a juicio de la Sección, la imputación fuese notoriamente improcedente, lo hará saber de inmediato a la Cámara, para que ésta resuelva si se continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
 Para los efectos del primer párrafo de este artículo, la Sección deberá rendir su dictamen en un plazo de sesenta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la Sección. En este caso se observarán las normas acerca de ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio político.
-
-### ARTÍCULO 26
-.- Dada cuenta del dictamen correspondiente, el Presidente de la Cámara anunciará a ésta que debe erigirse en Jurado de Procedencia al día siguiente a la fecha en que se hubiese depositado el dictamen, haciéndolo saber al inculpado y a su defensor, así como al denunciante, al querellante o al Ministerio Público, en su caso.
-
-### ARTÍCULO 27
-.- El día designado, previa declaración al Presidente de la Cámara, ésta conocerá en Asamblea del dictamen que la Sección le presente y actuará en los mismos términos previstos por el
-
-### artículo 20
-en materia de juicio político.
-
-### ARTÍCULO 28
-.- Si la Cámara de Diputados declara que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo, no habrá lugar a procedimiento ulterior mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
+ARTÍCULO 26.- Dada cuenta del dictamen correspondiente, el Presidente de la Cámara anunciará a ésta que debe erigirse en Jurado de Procedencia al día siguiente a la fecha en que se hubiese depositado el dictamen, haciéndolo saber al inculpado y a su defensor, así como al denunciante, al querellante o al Ministerio Público, en su caso.
+ARTÍCULO 27.- El día designado, previa declaración al Presidente de la Cámara, ésta conocerá en Asamblea del dictamen que la Sección le presente y actuará en los mismos términos previstos por el artículo 20 en materia de juicio político.
+ARTÍCULO 28.- Si la Cámara de Diputados declara que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo, no habrá lugar a procedimiento ulterior mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
 Por lo que toca a gobernadores, Diputados a las Legislaturas Locales y Magistrados de los Tribunales Superiores de Justicia de los Estados a quienes se les hubiere atribuido la comisión de delitos federales, la declaración de procedencia que al efecto dicte la Cámara de Diputados, se remitirá a la Legislatura Local respectiva, para que en ejercicio de sus atribuciones proceda como corresponda y, en su caso, ponga al inculpado a disposición del Ministerio Público Federal o del Organo Jurisdiccional respectivo.
-
-### ARTÍCULO 29
-.- Cuando se siga proceso penal a un servidor público de los mencionados en el
-
-### artículo 111
-Constitucional, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, la Secretaría de la misma Cámara o de la Comisión Permanente librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
-CAPITULO IV Disposiciones Comunes para los Capítulos II y III del Título Segundo
-
-### ARTÍCULO 30
-.- Las declaraciones y resoluciones definitivas de las Cámaras de Diputados y Senadores son inatacables.
-
-### ARTÍCULO 31
-.- Las Cámaras enviarán por riguroso turno a las Secciones Instructoras las denuncias, querellas, requerimientos del Ministerio Público o acusaciones que se les presenten.
-
-### ARTÍCULO 32
-.- En ningún caso podrá dispensarse un trámite de los establecidos en los Capítulos Segundo y Tercero de este Título.
-
-### ARTÍCULO 33
-.- Cuando alguna de las Secciones o de las Cámaras deba realizar una diligencia en la que se requiera la presencia del inculpado, se emplazará a éste para que comparezca o conteste por escrito a los requerimientos que se le hagan; si el inculpado se abstiene de comparecer o de informar por escrito se entenderá que contesta en sentido negativo.
+ARTÍCULO 29.- Cuando se siga proceso penal a un servidor público de los mencionados en el artículo 111 Constitucional, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, la Secretaría de la misma Cámara o de la Comisión Permanente librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
+CAPITULO IV Disposiciones Comunes para los Capítulos II y III del Título Segundo ARTÍCULO 30.- Las declaraciones y resoluciones definitivas de las Cámaras de Diputados y Senadores son inatacables.
+ARTÍCULO 31.- Las Cámaras enviarán por riguroso turno a las Secciones Instructoras las denuncias, querellas, requerimientos del Ministerio Público o acusaciones que se les presenten.
+ARTÍCULO 32.- En ningún caso podrá dispensarse un trámite de los establecidos en los Capítulos Segundo y Tercero de este Título.
+ARTÍCULO 33.- Cuando alguna de las Secciones o de las Cámaras deba realizar una diligencia en la que se requiera la presencia del inculpado, se emplazará a éste para que comparezca o conteste por escrito a los requerimientos que se le hagan; si el inculpado se abstiene de comparecer o de informar por escrito se entenderá que contesta en sentido negativo.
 La Sección respectiva practicará las diligencias que no requieran la presencia del denunciado, encomendando al Juez de Distrito que corresponda las que deban practicarse dentro de su respectiva jurisdicción y fuera del lugar de residencia de las Cámaras, por medio de despacho firmado por el Presidente y el Secretario de la Sección al que se acompañará testimonio de las constancias conducentes.
 El Juez de Distrito practicará las diligencias que le encomiende la Sección respectiva, con estricta sujeción a las determinaciones que aquélla le comunique.
 Todas las comunicaciones oficiales que deban girarse para la práctica de las diligencias a que se refiere este artículo, se entregarán personalmente o se enviarán por correo, en pieza certificada y con acuse de recibo, libres de cualquier costo. Aquellas que involucren a un ciudadano, pueblos y comunidades indígenas y afromexicanas, podrán remitirse, a elección de éstos, en español o traducirse a lengua indígena que cuente con expresión escrita.
-Párrafo reformado DOF 13-06-2003, 01-04-2024
-
-### ARTÍCULO 34
-.- Los miembros de las Secciones y, en general, los Diputados y Senadores que hayan de intervenir en algún acto del procedimiento, podrán excusarse o ser recusados por alguna de las causas de impedimento que señala la Ley Orgánica del Poder Judicial de la Federación.
+Párrafo reformado DOF 13-06-2003, 01-04-2024 ARTÍCULO 34.- Los miembros de las Secciones y, en general, los Diputados y Senadores que hayan de intervenir en algún acto del procedimiento, podrán excusarse o ser recusados por alguna de las causas de impedimento que señala la Ley Orgánica del Poder Judicial de la Federación.
 Unicamente con expresión de causa podrá el inculpado recusar a miembros de las Secciones Instructoras que conozcan de la imputación presentada en su contra, o a Diputados y Senadores que deban participar en actos del procedimiento.
 El propio servidor público sólo podrá hacer valer la recusación desde que se le requiera para el nombramiento de defensor hasta la fecha en que se cite a las Cámaras para que actúen colegiadamente, en sus casos respectivos.
-
-### ARTÍCULO 35
-.- Presentada la excusa o la recusación, se calificará dentro de los tres días naturales siguientes en un incidente que se sustanciará ante la Sección a cuyos miembros no se hubiese señalado impedimento para actuar. Si hay excusa o recusación de integrantes de ambas secciones, se llamará a los suplentes. En el incidente se escucharán al promovente y al recusado y se recibirán las pruebas correspondientes. Las Cámaras calificarán en los demás casos de excusa o recusación.
-
-### ARTÍCULO 36
-.- Tanto el inculpado como el denunciante o querellante podrán solicitar de las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como prueba ante la Sección respectiva o ante las Cámaras.
+ARTÍCULO 35.- Presentada la excusa o la recusación, se calificará dentro de los tres días naturales siguientes en un incidente que se sustanciará ante la Sección a cuyos miembros no se hubiese señalado impedimento para actuar. Si hay excusa o recusación de integrantes de ambas secciones, se llamará a los suplentes. En el incidente se escucharán al promovente y al recusado y se recibirán las pruebas correspondientes. Las Cámaras calificarán en los demás casos de excusa o recusación.
+ARTÍCULO 36.- Tanto el inculpado como el denunciante o querellante podrán solicitar de las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como prueba ante la Sección respectiva o ante las Cámaras.
 Las autoridades estarán obligadas a expedir dichas copias certificadas, sin demora, y si no lo hicieren la Sección, o las Cámaras a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en el Distrito Federal sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
 Fe de erratas al párrafo DOF 10-03-1983 Por su parte, la Sección o las Cámaras solicitarán las copias certificadas de constancias que estimen necesarias para el procedimiento, y si la autoridad de quien las solicitase no las remite dentro del plazo discrecional que se le señale, se impondrá la multa a que se refiere el párrafo anterior.
-
-### ARTÍCULO 37
-.- Las Secciones o las Cámaras podrán solicitar, por sí o a instancia de los interesados, los documentos o expedientes originales ya concluidos, y la autoridad de quien se soliciten tendrá la obligación de remitirlos. En caso de incumplimiento, se aplicará la corrección dispuesta en el artículo anterior.
+ARTÍCULO 37.- Las Secciones o las Cámaras podrán solicitar, por sí o a instancia de los interesados, los documentos o expedientes originales ya concluidos, y la autoridad de quien se soliciten tendrá la obligación de remitirlos. En caso de incumplimiento, se aplicará la corrección dispuesta en el artículo anterior.
 Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que las Secciones o Cámaras estimen pertinentes.
-
-### ARTÍCULO 38
-.- Las Cámaras no podrán erigirse en órgano de acusación o Jurado de Sentencia, sin que antes se compruebe fehacientemente que el servidor público, su defensor, el denunciante o el querellante y en su caso el Ministerio Público han sido debidamente citados.
-
-### ARTÍCULO 39
-.- No podrán votar en ningún caso los Diputados o Senadores que hubiesen presentado la imputación contra el servidor público. Tampoco podrán hacerlo los Diputados o Senadores que hayan aceptado el cargo de defensor, aun cuando lo renuncien después de haber comenzado a ejercer el cargo.
-
-### ARTÍCULO 40
-.- En todo lo no previsto por esta Ley, en las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la Constitución, la Ley Orgánica y el Reglamento Interior del Congreso General para discusión y votación de las leyes. En todo caso, las votaciones deberán ser nominales, para formular, aprobar o reprobar las conclusiones o dictámenes de las Secciones y para resolver incidental o definitivamente en el procedimiento.
-
-### ARTÍCULO 41
-.- En el juicio político al que se refiere esta Ley, los acuerdos y determinaciones de las Cámaras se tomarán en sesión pública, excepto en la que se presenta la acusación o cuando las buenas costumbres o el interés en general exijan que la audiencia sea secreta.
-
-### ARTÍCULO 42
-.- Cuando en el curso del procedimiento a un servidor público de los mencionados en los artículos 110 y 111 de la Constitución, se presentare nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
+ARTÍCULO 38.- Las Cámaras no podrán erigirse en órgano de acusación o Jurado de Sentencia, sin que antes se compruebe fehacientemente que el servidor público, su defensor, el denunciante o el querellante y en su caso el Ministerio Público han sido debidamente citados.
+ARTÍCULO 39.- No podrán votar en ningún caso los Diputados o Senadores que hubiesen presentado la imputación contra el servidor público. Tampoco podrán hacerlo los Diputados o Senadores que hayan aceptado el cargo de defensor, aun cuando lo renuncien después de haber comenzado a ejercer el cargo.
+ARTÍCULO 40.- En todo lo no previsto por esta Ley, en las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la Constitución, la Ley Orgánica y el Reglamento Interior del Congreso General para discusión y votación de las leyes. En todo caso, las votaciones deberán ser nominales, para formular, aprobar o reprobar las conclusiones o dictámenes de las Secciones y para resolver incidental o definitivamente en el procedimiento.
+ARTÍCULO 41.- En el juicio político al que se refiere esta Ley, los acuerdos y determinaciones de las Cámaras se tomarán en sesión pública, excepto en la que se presenta la acusación o cuando las buenas costumbres o el interés en general exijan que la audiencia sea secreta.
+ARTÍCULO 42.- Cuando en el curso del procedimiento a un servidor público de los mencionados en los artículos 110 y 111 de la Constitución, se presentare nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
 Si la acumulación fuese procedente, la Sección formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
-
-### ARTÍCULO 43
-.- Las Secciones y las Cámaras podrán disponer las medidas de apercibimiento que fueren procedentes, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
-
-### ARTÍCULO 44
-.- Las declaraciones o resoluciones aprobadas por las Cámaras con arreglo a esta Ley, se comunicarán a la Cámara a la que pertenezca el acusado, salvo que fuere la misma que hubiese dictado la declaración o resolución; a la Suprema Corte de Justicia de la Nación si se tratase de alguno de los integrantes del Poder Judicial Federal a que alude esta Ley; y en todo caso al Ejecutivo para su conocimiento y efectos legales, y para su publicación en el Diario Oficial de la Federación.
+ARTÍCULO 43.- Las Secciones y las Cámaras podrán disponer las medidas de apercibimiento que fueren procedentes, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
+ARTÍCULO 44.- Las declaraciones o resoluciones aprobadas por las Cámaras con arreglo a esta Ley, se comunicarán a la Cámara a la que pertenezca el acusado, salvo que fuere la misma que hubiese dictado la declaración o resolución; a la Suprema Corte de Justicia de la Nación si se tratase de alguno de los integrantes del Poder Judicial Federal a que alude esta Ley; y en todo caso al Ejecutivo para su conocimiento y efectos legales, y para su publicación en el Diario Oficial de la Federación.
 En el caso de que la declaratoria de las Cámaras se refiera a gobernadores, diputados locales y Magistrados de los Tribunales Superiores de Justicia Locales, se hará la notificación a la Legislatura Local respectiva.
-
-### ARTÍCULO 45
-.- En todas las cuestiones relativas al procedimiento no previstas en esta Ley, así como Penales. Asimismo, se atenderán, en lo conducente, las del Código Penal.
-TITULO TERCERO Responsabilidades Administrativas (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO I Sujetos y obligaciones del servidor público (Se deroga) Capítulo derogado DOF 18-07-2016
-
-### ARTÍCULO 46
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 47
-.- (Se deroga) Artículo reformado DOF 11-01-1991, 21-07-1992, 09-04-2012, 24-12-2013, 24-03-2016. Derogado DOF 18-07-2016
-
-### ARTÍCULO 48
-.- (Se deroga) Artículo reformado DOF 24-12-1996, 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016 CAPITULO II Sanciones administrativas y procedimientos para aplicarlas (Se deroga) Capítulo derogado DOF 18-07-2016
-
-### ARTÍCULO 49
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 50
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 51
-.- (Se deroga) Artículo reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997. Derogado DOF 18-07-2016
-
-### ARTÍCULO 52
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 53
-.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992. Derogado DOF 18-07-2016
-
-### ARTÍCULO 54
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 55
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 56
-.- (Se deroga) Artículo reformado DOF 21-07-1992, 24-12-1996. Derogado DOF 18-07-2016
-
-### ARTÍCULO 57
-.- (Se deroga) Artículo reformado DOF 24-12-1996. Derogado DOF 18-07-2016
-
-### ARTÍCULO 58
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 59
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 60
-.- (Se deroga) Artículo reformado DOF 21-07-1992, 24-12-1996. Derogado DOF 18-07-2016
-
-### ARTÍCULO 61
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 62
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 63
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 64
-.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016
-
-### ARTÍCULO 65
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 66
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 67
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 68
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 69
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 70
-.- (Se deroga) Artículo reformado DOF 21-07-1992, 31-12-2000. Derogado DOF 18-07-2016
-
-### ARTÍCULO 71
-.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016
-
-### ARTÍCULO 72
-.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Derogado DOF 18-07-2016
-
-### ARTÍCULO 73
-.- (Se deroga) Artículo reformado DOF 21-07-1992,31-12-2000. Derogado DOF 18-07-2016
-
-### ARTÍCULO 74
-.- (Se deroga) Artículo reformado DOF 31-12-2000. Derogado DOF 18-07-2016
-
-### ARTÍCULO 75
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 76
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 77
-.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992. Derogado DOF 18-07-2016
-
-### ARTÍCULO 77
-Bis.- (Se deroga) Artículo adicionado DOF 10-01-1994. Reformado DOF 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016
-
-### ARTÍCULO 78
-.- (Se deroga) Artículo reformado DOF 21-07-1992, 10-01-1994. Derogado DOF 18-07-2016 TITULO CUARTO (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO UNICO Registro patrimonial de los servidores públicos (Se deroga) Capítulo derogado DOF 18-07-2016
-
-### ARTÍCULO 79
-.- (Se deroga) Artículo reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997. Derogado DOF 18-07-2016
-
-### ARTÍCULO 80
-.- (Se deroga) Artículo reformado DOF 21-07-1992, 04-12-1997, 31-12-2000, 09-04-2012. Derogado DOF 18-07-2016
-
-### ARTÍCULO 81
-.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016
-
-### ARTÍCULO 82
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 83
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 84
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 85
-.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Derogado DOF 18-07-2016
-
-### ARTÍCULO 86
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 87
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 88
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 89
-.- (Se deroga) Artículo derogado DOF 18-07-2016
-
-### ARTÍCULO 90
-.- (Se deroga) Artículo reformado DOF 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016
+ARTÍCULO 45.- En todas las cuestiones relativas al procedimiento no previstas en esta Ley, así como Penales. Asimismo, se atenderán, en lo conducente, las del Código Penal.
+TITULO TERCERO Responsabilidades Administrativas (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO I Sujetos y obligaciones del servidor público (Se deroga) Capítulo derogado DOF 18-07-2016 ARTÍCULO 46.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 47.- (Se deroga) Artículo reformado DOF 11-01-1991, 21-07-1992, 09-04-2012, 24-12-2013, 24-03-2016. Derogado DOF 18-07-2016 ARTÍCULO 48.- (Se deroga) Artículo reformado DOF 24-12-1996, 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016 CAPITULO II Sanciones administrativas y procedimientos para aplicarlas (Se deroga) Capítulo derogado DOF 18-07-2016 ARTÍCULO 49.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 50.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 51.- (Se deroga) Artículo reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997. Derogado DOF 18-07-2016 ARTÍCULO 52.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 53.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 54.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 55.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 56.- (Se deroga) Artículo reformado DOF 21-07-1992, 24-12-1996. Derogado DOF 18-07-2016 ARTÍCULO 57.- (Se deroga) Artículo reformado DOF 24-12-1996. Derogado DOF 18-07-2016 ARTÍCULO 58.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 59.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 60.- (Se deroga) Artículo reformado DOF 21-07-1992, 24-12-1996. Derogado DOF 18-07-2016 ARTÍCULO 61.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 62.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 63.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 64.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 65.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 66.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 67.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 68.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 69.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 70.- (Se deroga) Artículo reformado DOF 21-07-1992, 31-12-2000. Derogado DOF 18-07-2016 ARTÍCULO 71.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 72.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Derogado DOF 18-07-2016 ARTÍCULO 73.- (Se deroga) Artículo reformado DOF 21-07-1992,31-12-2000. Derogado DOF 18-07-2016 ARTÍCULO 74.- (Se deroga) Artículo reformado DOF 31-12-2000. Derogado DOF 18-07-2016 ARTÍCULO 75.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 76.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 77.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 77 Bis.- (Se deroga) Artículo adicionado DOF 10-01-1994. Reformado DOF 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016 ARTÍCULO 78.- (Se deroga) Artículo reformado DOF 21-07-1992, 10-01-1994. Derogado DOF 18-07-2016 TITULO CUARTO (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO UNICO Registro patrimonial de los servidores públicos (Se deroga) Capítulo derogado DOF 18-07-2016 ARTÍCULO 79.- (Se deroga) Artículo reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997. Derogado DOF 18-07-2016 ARTÍCULO 80.- (Se deroga) Artículo reformado DOF 21-07-1992, 04-12-1997, 31-12-2000, 09-04-2012. Derogado DOF 18-07-2016 ARTÍCULO 81.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 82.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 83.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 84.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 85.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Derogado DOF 18-07-2016 ARTÍCULO 86.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 87.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 88.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 89.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 90.- (Se deroga) Artículo reformado DOF 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016
 
 ## TÍTULO QUINTO — DE LAS DISPOSICIONES APLICABLES A LOS SERVIDORES PÚBLICOS DEL ÓRGANO
 EJECUTIVO DE LA CIUDAD DE MÉXICO Título adicionado DOF 04-12-1997. Denominación reformada DOF 20-12-2023
 
 ## CAPÍTULO ÚNICO
-Capítulo adicionado DOF 04-12-1997
-
-### ARTÍCULO 91
-.- Al frente de la Secretaría de la Contraloría General de la Ciudad de México habrá una persona titular, quien será nombrada y removida en términos de la Constitución Política de la Ciudad de México.
+Capítulo adicionado DOF 04-12-1997 ARTÍCULO 91.- Al frente de la Secretaría de la Contraloría General de la Ciudad de México habrá una persona titular, quien será nombrada y removida en términos de la Constitución Política de la Ciudad de México.
 Las facultades y obligaciones que esta Ley otorga a la Secretaría y a la persona titular se entenderán conferidas en la Ciudad de México a la Secretaría de la Contraloría General de la Ciudad de México y a la persona titular.
-Artículo adicionado DOF 04-12-1997. Reformado DOF 20-12-2023
-
-### ARTÍCULO 92
-.- Las personas titulares de los órganos de control interno de las dependencias, entidades paraestatales y órganos desconcentrados de la Administración Pública de la Ciudad de México, serán designadas y removidas conforme a lo establecido en la legislación de la Ciudad de México aplicable.
+Artículo adicionado DOF 04-12-1997. Reformado DOF 20-12-2023 ARTÍCULO 92.- Las personas titulares de los órganos de control interno de las dependencias, entidades paraestatales y órganos desconcentrados de la Administración Pública de la Ciudad de México, serán designadas y removidas conforme a lo establecido en la legislación de la Ciudad de México aplicable.
 Los órganos de control interno tendrán las mismas facultades que esta Ley les confiere a las contralorías internas de las dependencias y entidades de la Administración Pública Federal las que serán ejercidas en las dependencias, entidades y órganos desconcentrados de la Administración Pública de la Ciudad de México.
-Artículo adicionado DOF 04-12-1997. Reformado DOF 20-12-2023
-
-### ARTÍCULO 93
-.- La persona servidora pública afectada por los actos o resoluciones de la Secretaría de la Contraloría General de la Ciudad de México o de los órganos de control interno, podrá, a su elección, interponer el recurso de revocación, previsto en esta Ley, o impugnar dichos actos o resoluciones ante el Tribunal de Justicia Administrativa de la Ciudad de México, el que se sujetará a lo dispuesto por los artículos 73 y 74 de esta Ley.
+Artículo adicionado DOF 04-12-1997. Reformado DOF 20-12-2023 ARTÍCULO 93.- La persona servidora pública afectada por los actos o resoluciones de la Secretaría de la Contraloría General de la Ciudad de México o de los órganos de control interno, podrá, a su elección, interponer el recurso de revocación, previsto en esta Ley, o impugnar dichos actos o resoluciones ante el Tribunal de Justicia Administrativa de la Ciudad de México, el que se sujetará a lo dispuesto por los artículos 73 y 74 de esta Ley.
 Artículo adicionado DOF 04-12-1997. Reformado DOF 20-12-2023
 
 ## TRANSITORIOS
@@ -658,10 +401,7 @@ Los juicios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica
 En los casos de nombramientos de Magistrados que integren la Tercera Sección, y las Salas Especializadas en materia de Responsabilidades Administrativas, el Titular del Ejecutivo Federal deberá enviar sus propuestas al Senado, a más tardar en el periodo ordinario de Sesiones del Congreso de la Unión inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas.
 Los Magistrados a que se refiere el párrafo anterior, mantendrán su adscripción a la Sección Tercera y a las Salas Especializadas en materia de Responsabilidades Administrativas, al menos durante los
 **primero.** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
-A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del
-
-### artículo 16
-de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
+A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
 Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del Tribunal Federal de Justicia Administrativa en el periodo inmediato al que concluye.
 Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia Fiscal y Administrativa, se entenderán referidas al Tribunal Federal de Justicia Administrativa.
 Ciudad de México, a 6 de julio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Juan Manuel Celis Aguirre, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.

@@ -30,15 +30,9 @@ LEY DE AMNISTÍA
 
 a) Quien los haya cometido se encuentre en situación de pobreza, o de extrema vulnerabilidad por su condición de exclusión y discriminación, por tener una discapacidad permanente, o cuando el delito se haya cometido por indicación de su cónyuge, concubinario o concubina, pareja sentimental, pariente consanguíneo o por afinidad sin limitación de grado, o por temor fundado, así como quien haya sido obligado por grupos de la delincuencia organizada a cometer el delito;
 
-b) Quien pertenezca a un pueblo o comunidad indígena o afromexicana, en términos del
+b) Quien pertenezca a un pueblo o comunidad indígena o afromexicana, en términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, y se encuentre en alguna de las hipótesis mencionadas en el inciso anterior;
 
-### artículo 2
-de la Constitución Política de los Estados Unidos Mexicanos, y se encuentre en alguna de las hipótesis mencionadas en el inciso anterior;
-
-c) Las personas consumidoras que hayan poseído narcóticos en cantidades superiores hasta en dos tantos a la dosis máxima de consumo personal e inmediato, a que se refiere el
-
-### artículo 479
-de la Ley General de Salud, siempre que no haya sido con fines de distribución o venta;
+c) Las personas consumidoras que hayan poseído narcóticos en cantidades superiores hasta en dos tantos a la dosis máxima de consumo personal e inmediato, a que se refiere el artículo 479 de la Ley General de Salud, siempre que no haya sido con fines de distribución o venta;
 
 IV. Por cualquier delito, a personas pertenecientes a los pueblos y comunidades indígenas que durante su proceso no hayan accedido plenamente a la jurisdicción del Estado, por no haber sido garantizado el derecho a contar con intérpretes o defensores que tuvieran conocimiento de su lengua y cultura;
 

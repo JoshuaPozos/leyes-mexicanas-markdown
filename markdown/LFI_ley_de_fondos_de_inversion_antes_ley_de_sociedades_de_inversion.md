@@ -381,10 +381,7 @@ Bis 8.- Para la escisión de los fondos de inversión que se realice conforme a 
 
 I. Acta del consejo de administración de la sociedad operadora de fondos de inversión que las administre, con el voto favorable de la mayoría de los consejeros independientes, en la que conste el acuerdo para efectuar la escisión;
 
-II. Acta constitutiva del fondo de inversión escindido que contenga los elementos a que se refiere el
-
-### artículo 8
-Bis de esta Ley. En este caso, la Comisión inscribirá de manera inmediata el acta del fondo escindido en el Registro Nacional;
+II. Acta constitutiva del fondo de inversión escindido que contenga los elementos a que se refiere el artículo 8 Bis de esta Ley. En este caso, la Comisión inscribirá de manera inmediata el acta del fondo escindido en el Registro Nacional;
 
 III. Los estados financieros proyectados de los fondos que resulten de la escisión;
 
@@ -400,10 +397,7 @@ Artículo adicionado DOF 10-01-2014
 Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 14
-Bis 9.- El acuerdo por el cual el consejo de administración de la sociedad operadora de fondos de inversión que administre al fondo de inversión, decida el cambio de nacionalidad, colocará al fondo de inversión en estado de disolución y liquidación, en adición a los supuestos previstos en el
-
-### artículo 229
-de la Ley General de Sociedades Mercantiles.
+Bis 9.- El acuerdo por el cual el consejo de administración de la sociedad operadora de fondos de inversión que administre al fondo de inversión, decida el cambio de nacionalidad, colocará al fondo de inversión en estado de disolución y liquidación, en adición a los supuestos previstos en el artículo 229 de la Ley General de Sociedades Mercantiles.
 El fondo de inversión que resuelva cambiar su nacionalidad, deberá solicitar a la Comisión la revocación de su autorización, de acuerdo con lo previsto en el artículo 81 Bis 4 de esta Ley.
 En ningún caso los fondos de inversión podrán acordar su transformación en una sociedad distinta de un fondo de inversión. El acuerdo que, en su caso, contravenga esta previsión será nulo.
 Artículo adicionado DOF 10-01-2014
@@ -693,10 +687,7 @@ Fracción reformada DOF 10-01-2014
 VIII. Administrativos para fondos de inversión, y Fracción reformada DOF 10-01-2014
 
 IX. Los demás que autorice la Comisión mediante disposiciones de carácter general.
-Los fondos de inversión estarán obligados a contratar los servicios a que se refiere la fracción IV anterior, cuando así lo prevea la Comisión en las disposiciones de carácter general a que se refiere el
-
-### artículo 17
-de esta Ley, salvo en los casos a que alude el último párrafo del artículo 80 Bis del presente ordenamiento.
+Los fondos de inversión estarán obligados a contratar los servicios a que se refiere la fracción IV anterior, cuando así lo prevea la Comisión en las disposiciones de carácter general a que se refiere el artículo 17 de esta Ley, salvo en los casos a que alude el último párrafo del artículo 80 Bis del presente ordenamiento.
 Párrafo reformado DOF 10-01-2014 Los fondos de inversión de capitales no estarán obligadas a contratar los servicios señalados en las fracciones II, IV, V y VIII de este artículo, pero en todo caso deberán ajustarse en materia de valuación a lo establecido en el artículo 44 de esta Ley. La Comisión podrá exceptuar, mediante disposiciones de carácter general, a los fondos de inversión de cobertura, de la contratación de algunos de los servicios a que se refiere este precepto. Los fondos de inversión de capitales y de cobertura estarán obligados a contratar los servicios de auditoría externa independiente.
 Párrafo adicionado DOF 10-01-2014. Reformado DOF 28-12-2023 En caso de que una sociedad distribuidora de acciones de fondos de inversión o entidades que presten dichos servicios, le presente a una sociedad operadora de fondos de inversión una oferta de compra o venta de las acciones representativas del capital social de un fondo de inversión que administre, esta no podrá negarse a la celebración de dichas operaciones siempre que tal oferta se ajuste a las condiciones del prospecto de información al público inversionista que el propio fondo de inversión haya hecho público y difundido por cualquier medio de acceso y conocimiento general. Para tales efectos, la sociedad distribuidora de acciones de fondos de inversión o entidad que preste dichos servicios deberá ajustarse al contrato de adhesión de la sociedad operadora para la liquidación de las operaciones y la custodia de las acciones correspondientes. Tanto en el contrato de adhesión como en el prospecto de información al público inversionista deberá preverse un trato irrestricto de igualdad entre y para las distribuidoras y entidades de que se trate. En ningún supuesto, podrán establecerse prácticas discriminatorias.
 Párrafo adicionado DOF 10-01-2014 En cualquier caso, la sociedad distribuidora o entidad que proporcione esos servicios deberá cumplir con lo establecido en las disposiciones de carácter general que en materia de distribución de acciones de fondos de inversión expida la Comisión, y las demás disposiciones aplicables.
@@ -750,10 +741,7 @@ El principal y, en su caso, accesorios del referido depósito serán devueltos a
 
 VIII. La demás documentación e información que la Comisión requiera para tal efecto.
 La Comisión tendrá la facultad de verificar que la solicitud a que se refiere el presente artículo, cumple con lo previsto en esta Ley para lo cual dicha Comisión contará con facultades para corroborar la veracidad de la información proporcionada, y en tal virtud, las dependencias y entidades de la Administración Pública Federal, así como las demás instancias federales entregarán la información relacionada. Asimismo, la Comisión podrá solicitar a organismos extranjeros con funciones de supervisión o regulación similares corroborar la información que al efecto se proporcione.
-Cuando no se presente el instrumento público en el que consten los estatutos de la sociedad, para su aprobación, dentro del plazo de noventa días señalado en el cuarto párrafo del artículo 33 de esta Ley; no se obtenga la autorización para iniciar operaciones en términos del artículo 34 Bis 5 de esta Ley, o se revoque la autorización para organizarse y operar como sociedad operadora de fondos de inversión, sociedad distribuidora o valuadora de acciones de fondos de inversión, al amparo de la fracción VII del
-
-### artículo 83
-de esta Ley, la Comisión instruirá a la Tesorería de la Federación para hacer efectiva la garantía por el importe original del depósito mencionado en la fracción VII de este artículo.
+Cuando no se presente el instrumento público en el que consten los estatutos de la sociedad, para su aprobación, dentro del plazo de noventa días señalado en el cuarto párrafo del artículo 33 de esta Ley; no se obtenga la autorización para iniciar operaciones en términos del artículo 34 Bis 5 de esta Ley, o se revoque la autorización para organizarse y operar como sociedad operadora de fondos de inversión, sociedad distribuidora o valuadora de acciones de fondos de inversión, al amparo de la fracción VII del artículo 83 de esta Ley, la Comisión instruirá a la Tesorería de la Federación para hacer efectiva la garantía por el importe original del depósito mencionado en la fracción VII de este artículo.
 Cuando se trate de sociedades de capital variable, el capital mínimo obligatorio con arreglo a la Ley estará integrado por acciones sin derecho a retiro. El monto del capital variable en ningún caso podrá ser superior al del capital pagado sin derecho a retiro.
 Artículo reformado DOF 10-01-2014
 
@@ -870,10 +858,7 @@ En todo caso, las sociedades de que se trata, deberán proporcionar a dicha Comi
 Artículo reformado DOF 10-01-2014
 
 ### Artículo 37
-.- La adquisición, afectación en garantía o en fideicomiso de las acciones de sociedades operadoras de fondos de inversión, así como de las distribuidoras y valuadoras de acciones de fondos de inversión, requerirá de la previa autorización de la Comisión. En cualquier caso, las personas que pretendan adquirir las acciones, deberán acreditar que cumplen con lo señalado en la fracción IV del
-
-### artículo 34
-de esta Ley.
+.- La adquisición, afectación en garantía o en fideicomiso de las acciones de sociedades operadoras de fondos de inversión, así como de las distribuidoras y valuadoras de acciones de fondos de inversión, requerirá de la previa autorización de la Comisión. En cualquier caso, las personas que pretendan adquirir las acciones, deberán acreditar que cumplen con lo señalado en la fracción IV del artículo 34 de esta Ley.
 En ningún momento podrán participar en el capital de las sociedades a que se refiere el párrafo anterior directa o indirectamente, los gobiernos extranjeros, salvo en los casos siguientes:
 
 I. Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
@@ -917,10 +902,7 @@ c) Abstenerse de intervenir en operaciones en las que existan conflictos de inte
 d) Abstenerse de incurrir en conductas contrarias a sanos usos o prácticas de mercado para la realización de sus operaciones.
 Fracción reformada DOF 10-01-2014
 
-II. La gestión, en su caso, de la emisión de los valores a que se refiere la fracción VI del citado
-
-### artículo 15
-;
+II. La gestión, en su caso, de la emisión de los valores a que se refiere la fracción VI del citado artículo 15;
 Fracción reformada DOF 10-01-2014
 
 III. El manejo de carteras de valores en favor de fondos de inversión, sin que en ningún momento puedan cobrar comisiones o recibir cualquier contraprestación de persona alguna por la compra de los Activos Objeto de Inversión, y Fracción adicionada DOF 10-01-2014
@@ -1249,14 +1231,8 @@ Artículo reformado DOF 10-01-2014
 Artículo reformado DOF 10-01-2014
 
 ### Artículo 55
-.- Los fondos de inversión y las personas que les presten los servicios a que se refiere el
-
-### artículo 32
-de esta Ley, en ningún caso podrán dar noticias o información de las operaciones o servicios que realicen o en las que intervengan, sino al titular o beneficiario de las acciones representativas del capital social del fondo de inversión de que se trate, a sus representantes legales o a quienes tengan otorgado poder para disponer de dichas acciones.
-Como excepción a lo dispuesto por el párrafo anterior, los fondos de inversión y las personas que presten servicios en términos de lo previsto en el artículo 32 de esta Ley estarán obligadas a dar las noticias o información a que se refiere dicho párrafo, cuando lo solicite la autoridad judicial en virtud de providencia dictada en juicio en el que el titular o, en su caso, el comitente, comisionista, mandante o mandatario sea parte o acusado. Para los efectos del presente párrafo, la autoridad judicial podrá formular su solicitud directamente al fondo de inversión y personas que les presten los servicios a que se refiere el
-
-### artículo 32
-de esta Ley, o a través de la Comisión.
+.- Los fondos de inversión y las personas que les presten los servicios a que se refiere el artículo 32 de esta Ley, en ningún caso podrán dar noticias o información de las operaciones o servicios que realicen o en las que intervengan, sino al titular o beneficiario de las acciones representativas del capital social del fondo de inversión de que se trate, a sus representantes legales o a quienes tengan otorgado poder para disponer de dichas acciones.
+Como excepción a lo dispuesto por el párrafo anterior, los fondos de inversión y las personas que presten servicios en términos de lo previsto en el artículo 32 de esta Ley estarán obligadas a dar las noticias o información a que se refiere dicho párrafo, cuando lo solicite la autoridad judicial en virtud de providencia dictada en juicio en el que el titular o, en su caso, el comitente, comisionista, mandante o mandatario sea parte o acusado. Para los efectos del presente párrafo, la autoridad judicial podrá formular su solicitud directamente al fondo de inversión y personas que les presten los servicios a que se refiere el artículo 32 de esta Ley, o a través de la Comisión.
 Los fondos de inversión y personas que les presten los servicios a que se refiere el artículo 32 de esta Ley, también estarán exceptuadas de la prohibición prevista en el primer párrafo de este artículo y, por tanto, obligadas a dar las noticias o información mencionadas, en los casos en que sean solicitadas por las siguientes autoridades:
 
 I. El Fiscal General de la República o el servidor público en quien delegue;
@@ -1436,10 +1412,7 @@ Párrafo reformado DOF 10-01-2014
 Artículo reformado DOF 10-01-2014
 
 ### Artículo 67
-. La solicitud de autorización para organizarse y funcionar como Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere el primer párrafo del
-
-### artículo 63
-.
+. La solicitud de autorización para organizarse y funcionar como Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere el primer párrafo del artículo 63.
 
 ### Artículo 68
 .- Una Institución Financiera del Exterior, directa o indirectamente, o bien, una Sociedad Controladora Filial deberá ser en todo momento propietaria de acciones que representen cuando menos el cincuenta y uno por ciento del capital social de las sociedades operadoras de fondos de inversión Filiales o de distribuidoras de acciones Filiales.
@@ -1772,10 +1745,7 @@ Párrafo reformado DOF 10-01-2014
 
 I. Incurran en infracciones graves o reiteradas a lo dispuesto en esta Ley, la Ley del Mercado de Valores, o las disposiciones de carácter general que deriven de ambos ordenamientos;
 
-II. Desempeñen las actividades propias de su objeto en forma inadecuada o bien, ofrezcan servicios distintos de los previstos en la autorización otorgada conforme a lo establecido en el
-
-### artículo 33
-de esta Ley;
+II. Desempeñen las actividades propias de su objeto en forma inadecuada o bien, ofrezcan servicios distintos de los previstos en la autorización otorgada conforme a lo establecido en el artículo 33 de esta Ley;
 
 III. Omitan reiteradamente proporcionar a la Comisión la información a que están obligadas de acuerdo a esta Ley o a las disposiciones de carácter general derivadas de la misma, o bien proporcionen información falsa o que induzca a error;
 Fracción reformada DOF 10-01-2014
@@ -1960,10 +1930,7 @@ Fracción reformada DOF 10-01-2014
 
 II. Se deroga Fracción derogada DOF 10-01-2014
 
-III. Multa de 10,000 a 50,000 días de salario, al que resulte responsable por causas que le sean imputables, cuando se exceda el límite de tenencia accionaria permitido de conformidad con el
-
-### artículo 14
-de esta Ley, conforme a la valuación que de esas mismas acciones se haya practicado en la fecha de su adquisición, así como multa por la cantidad equivalente al precio actualizado de valuación de las acciones, cuando se adquieran en contravención de lo dispuesto en el artículo 52 de este ordenamiento. Sin perjuicio de la multa establecida en esta fracción, las acciones indebidamente adquiridas deberán liquidarse en el plazo de treinta días a partir de su adquisición, vencido el cual, si no se ha efectuado la venta, la Comisión ordenará la disminución del capital necesaria para amortizar dichas acciones al precio de valuación vigente en la fecha de pago y el procedimiento para su pago;
+III. Multa de 10,000 a 50,000 días de salario, al que resulte responsable por causas que le sean imputables, cuando se exceda el límite de tenencia accionaria permitido de conformidad con el artículo 14 de esta Ley, conforme a la valuación que de esas mismas acciones se haya practicado en la fecha de su adquisición, así como multa por la cantidad equivalente al precio actualizado de valuación de las acciones, cuando se adquieran en contravención de lo dispuesto en el artículo 52 de este ordenamiento. Sin perjuicio de la multa establecida en esta fracción, las acciones indebidamente adquiridas deberán liquidarse en el plazo de treinta días a partir de su adquisición, vencido el cual, si no se ha efectuado la venta, la Comisión ordenará la disminución del capital necesaria para amortizar dichas acciones al precio de valuación vigente en la fecha de pago y el procedimiento para su pago;
 Fracción reformada DOF 10-01-2014
 
 IV. Multa de 5,000 a 20,000 días de salario, a la sociedad operadora de fondos de inversión o valuadora de acciones de fondos de inversión, que infrinja lo establecido en el artículo 46 de esta Ley, sin perjuicio de la responsabilidad exigible en los términos del artículo 53 del presente ordenamiento;
@@ -2005,10 +1972,7 @@ d) Las entidades financieras que promuevan o comercialicen valores de manera gen
 
 e) Las entidades financieras que emitan recomendaciones o efectúen operaciones no razonables en servicios asesorados en contravención a lo establecido en el artículo 39 Bis 2, segundo párrafo, en sus fracciones I a III de esta Ley;
 
-f) Las entidades financieras que celebren operaciones en contravención con lo previsto por el
-
-### artículo 39
-Bis 2, tercer párrafo;
+f) Las entidades financieras que celebren operaciones en contravención con lo previsto por el artículo 39 Bis 2, tercer párrafo;
 
 g) Las entidades financieras que proporcionen servicios asesorados sin contar con las políticas y lineamientos a que aluden los artículos 39 Bis 2, fracción III y 39 Bis 3 de esta Ley, o que no cuenten con los elementos mínimos que establezca la Comisión mediante disposiciones de carácter general;
 
@@ -2065,15 +2029,9 @@ De no subsanarse las deficiencias a las que se refiere el párrafo anterior, el 
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 86
-Bis 5.- Durante la vigencia de los programas de autocorrección que hubiere autorizado la Comisión en términos de los artículos 86 Bis 3 y 86 Bis 4 anteriores, esta se abstendrá de imponer a los fondos de inversión o a las personas que otorguen los servicios a que se refieren las fracciones I a VI del
-
-### artículo 32
-de esta Ley, las sanciones previstas en esta Ley, por las irregularidades o incumplimientos cuya corrección contemplen dichos programas. Asimismo, durante tal periodo se interrumpirá el plazo de caducidad para imponer las sanciones, reanudándose hasta que se determine que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección.
+Bis 5.- Durante la vigencia de los programas de autocorrección que hubiere autorizado la Comisión en términos de los artículos 86 Bis 3 y 86 Bis 4 anteriores, esta se abstendrá de imponer a los fondos de inversión o a las personas que otorguen los servicios a que se refieren las fracciones I a VI del artículo 32 de esta Ley, las sanciones previstas en esta Ley, por las irregularidades o incumplimientos cuya corrección contemplen dichos programas. Asimismo, durante tal periodo se interrumpirá el plazo de caducidad para imponer las sanciones, reanudándose hasta que se determine que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección.
 La persona o área que ejerza las funciones de vigilancia en los fondos de inversión o en las personas que otorguen los servicios a que se refieren las fracciones I a VI del artículo 32 de esta Ley estará obligada a dar seguimiento a la instrumentación del programa de autocorrección autorizado e informar de su avance tanto al consejo de administración y al director general o los órganos o personas equivalentes de la sociedad como a la Comisión en la forma y términos que esta establezca en las disposiciones de carácter general a que se refiere el artículo 86 Bis 4 de esta Ley. Lo anterior, con independencia de la facultad de la Comisión para supervisar, en cualquier momento, el grado de avance y cumplimiento del programa de autocorrección.
-Si como resultado de los informes de la persona o área que ejerza las funciones de vigilancia en los fondos de inversión o en las personas que otorguen los servicios a que se refieren las fracciones I a VI del
-
-### artículo 32
-de esta Ley o de las labores de inspección y vigilancia de la Comisión, esta determina que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, impondrá la sanción correspondiente aumentando el monto de esta hasta en un cuarenta por ciento, siendo actualizable dicho monto en términos de disposiciones fiscales aplicables.
+Si como resultado de los informes de la persona o área que ejerza las funciones de vigilancia en los fondos de inversión o en las personas que otorguen los servicios a que se refieren las fracciones I a VI del artículo 32 de esta Ley o de las labores de inspección y vigilancia de la Comisión, esta determina que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, impondrá la sanción correspondiente aumentando el monto de esta hasta en un cuarenta por ciento, siendo actualizable dicho monto en términos de disposiciones fiscales aplicables.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 86
@@ -2289,10 +2247,7 @@ Si las autoridades no hacen el requerimiento de información dentro del plazo co
 Salvo disposición expresa en contrario, los plazos para que las autoridades contesten empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
 
 ### Artículo 95
-.- El plazo a que se refiere el artículo anterior no será aplicable a las promociones donde por disposición expresa de esta Ley las autoridades administrativas deban escuchar la opinión de otras autoridades, además de aquellas relacionadas con las autorizaciones relativas a la constitución de las sociedades operadoras de fondos de inversión y sociedades distribuidoras y valuadoras de acciones de fondos de inversión. En estos casos no podrá exceder de ocho meses el plazo para que las autoridades administrativas resuelvan lo que corresponda, siendo aplicables las demás reglas a que se refiere el
-
-### artículo 94
-de esta Ley.
+.- El plazo a que se refiere el artículo anterior no será aplicable a las promociones donde por disposición expresa de esta Ley las autoridades administrativas deban escuchar la opinión de otras autoridades, además de aquellas relacionadas con las autorizaciones relativas a la constitución de las sociedades operadoras de fondos de inversión y sociedades distribuidoras y valuadoras de acciones de fondos de inversión. En estos casos no podrá exceder de ocho meses el plazo para que las autoridades administrativas resuelvan lo que corresponda, siendo aplicables las demás reglas a que se refiere el artículo 94 de esta Ley.
 Artículo reformado DOF 10-01-2014
 
 ### Artículo 96
@@ -2433,25 +2388,23 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
 **Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del
-
-### artículo 88
-del presente Decreto.
+**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Mercado de Valores y de la Ley de Fondos de Inversión.
 Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2023
 
 ### Artículo Segundo
-Se reforman los artículos 1, párrafo segundo; 5 Bis, párrafo segundo; 6, fracción IV; 11, fracción IV; 14, párrafo segundo; 14 Bis 2, segundo párrafo; 15, párrafo segundo; la denominación del Título Segundo, Capítulo Décimo, para quedar como “De los fondos de inversión de cobertura”; 30; 31; 32 párrafo tercero; 34 Bis 2, fracción V; 39, párrafo tercero; 44, párrafo segundo; 45, párrafo segundo; 53, párrafo primero; 60, párrafo primero; 77 Bis 1, párrafo primero; 86, fracción VIII; 88, párrafo primero; 89; 90, párrafo primero; 90 Bis; y se adicionan los artículos 15, con un párrafo tercero, recorriendo los subsecuentes en su orden; 30 Bis; 39 Bis 6; de la Ley de Fondos de Inversión, para quedar como sigue: ……… DISPOSICIONES TRANSITORIAS DE LA Primero.- La Comisión Nacional Bancaria y de Valores deberá emitir las Disposiciones de carácter general a que se refiere el presente Decreto en un plazo no mayor a 365 días naturales contados a partir del siguiente de su entrada en vigor.
-Segundo.- El Banco de México deberá emitir las Disposiciones de carácter general a que se refiere el presente Decreto en un plazo no mayor a 365 días naturales contados a partir del siguiente de su entrada en vigor.
+Se reforman los artículos 1, párrafo segundo; 5 Bis, párrafo segundo; 6, fracción IV; 11, fracción IV; 14, párrafo segundo; 14 Bis 2, segundo párrafo; 15, párrafo segundo; la denominación del Título Segundo, Capítulo Décimo, para quedar como “De los fondos de inversión de cobertura”; 30; 31; 32 párrafo tercero; 34 Bis 2, fracción V; 39, párrafo tercero; 44, párrafo segundo; 45, párrafo segundo; 53, párrafo primero; 60, párrafo primero; 77 Bis 1, párrafo primero; 86, fracción VIII; 88, párrafo primero; 89; 90, párrafo primero; 90 Bis; y se adicionan los artículos 15, con un párrafo tercero, recorriendo los subsecuentes en su orden; 30 Bis; 39 Bis 6; de la Ley de Fondos de Inversión, para quedar como sigue: ……… DISPOSICIONES TRANSITORIAS DE LA
+**Primero.-** La Comisión Nacional Bancaria y de Valores deberá emitir las Disposiciones de carácter general a que se refiere el presente Decreto en un plazo no mayor a 365 días naturales contados a partir del siguiente de su entrada en vigor.
+**Segundo.-** El Banco de México deberá emitir las Disposiciones de carácter general a que se refiere el presente Decreto en un plazo no mayor a 365 días naturales contados a partir del siguiente de su entrada en vigor.
 
 ## Transitorio
 
@@ -2488,7 +2441,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

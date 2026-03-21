@@ -470,10 +470,7 @@ Para efectos de la entrega del Reporte de Crédito Especial, las Sociedades debe
 Las Sociedades estarán obligadas a:
 
 a) Enviar o a poner a disposición de los Clientes, junto con cada Reporte de Crédito Especial, un resumen de sus derechos y de los procedimientos para acceder y, en su caso, rectificar los errores de la información contenida en dicho documento; b) Mantener a disposición del público en general el contenido del resumen mencionado, y c) Poner a disposición del público en general en forma fácil y accesible, el significado de las claves que se utilicen en los Reportes de Crédito Especiales y mantener actualizada en todo momento dicha información.
-Párrafo reformado DOF 23-01-2004, 01-02-2008 Las Sociedades deberán contar con un número telefónico gratuito y una página de Internet con disponibilidad de consulta permanente para atender las solicitudes de Reportes de Crédito Especiales, así como para recibir las reclamaciones que sobre estos reportes presenten los Clientes en términos del
-
-### artículo 42
-. Asimismo, a través de dicho número telefónico las Sociedades deberán atender las dudas de los Clientes en relación con dichas solicitudes y con los derechos que les confiere esta Ley y las disposiciones de carácter general a que se refiere el artículo 12.
+Párrafo reformado DOF 23-01-2004, 01-02-2008 Las Sociedades deberán contar con un número telefónico gratuito y una página de Internet con disponibilidad de consulta permanente para atender las solicitudes de Reportes de Crédito Especiales, así como para recibir las reclamaciones que sobre estos reportes presenten los Clientes en términos del artículo 42. Asimismo, a través de dicho número telefónico las Sociedades deberán atender las dudas de los Clientes en relación con dichas solicitudes y con los derechos que les confiere esta Ley y las disposiciones de carácter general a que se refiere el artículo 12.
 Párrafo adicionado DOF 01-02-2008. Reformado DOF 10-01-2014 La Condusef en su página de la red mundial conocida como Internet, deberá incluir información sobre las Sociedades con su denominación, datos que la identifiquen y su vínculo por la aludida red. Por su parte, las Sociedades estarán obligadas a tener en lugar visible dentro de su página respectiva en dicha red, el vínculo a la página de la Condusef.
 Párrafo adicionado DOF 01-02-2008 Los Usuarios deberán informar a los Clientes a través de correo electrónico o teléfono, en caso de que cuenten con ellos, sobre cualquier información que reporten a una Sociedad que cuente con las características para ser integrada a la Base Primaria de Datos.
 Párrafo adicionado DOF 10-01-2014 Los Usuarios están obligados a registrar el correo electrónico de un Cliente en caso de que éste le sea proporcionado.
@@ -687,10 +684,7 @@ XII. La Sociedad omita proporcionar al Cliente el Reporte de Crédito Especial, 
 XIII. La Sociedad se abstenga de poner a disposición del público en general el significado de las claves que se utilicen en los Reportes de Crédito Especiales o no actualice dicha información, conforme al artículo 40, quinto párrafo, inciso c);
 Fracción reformada DOF 01-02-2008
 
-XIV. La Sociedad no entregue la reclamación del Cliente en la forma y términos establecidos en el
-
-### artículo 43
-, primer párrafo, o bien, omita incluir en el registro correspondiente la leyenda prevista en el segundo párrafo del mismo artículo;
+XIV. La Sociedad no entregue la reclamación del Cliente en la forma y términos establecidos en el artículo 43, primer párrafo, o bien, omita incluir en el registro correspondiente la leyenda prevista en el segundo párrafo del mismo artículo;
 
 XV. La Entidad Financiera omita realizar de inmediato las modificaciones en su base de datos, relativas a la aceptación total o parcial de lo señalado en la reclamación presentada por el Cliente o no lo notifique a la Sociedad que haya mandado la reclamación y deje de remitirle a ésta la corrección efectuada a su base de datos, conforme lo establece el artículo 45, primer párrafo;
 
@@ -739,10 +733,7 @@ Párrafo reformado DOF 10-01-2014
 
 I. La Sociedad omita dar aviso a la Secretaría, a la Comisión o al Banco de México, de la fecha de inicio de sus actividades, en términos de lo establecido en el artículo 11, segundo párrafo;
 
-II. La Sociedad modifique sus estatutos sociales sin contar con la autorización a que se refiere el
-
-### artículo 11
-, primer párrafo;
+II. La Sociedad modifique sus estatutos sociales sin contar con la autorización a que se refiere el artículo 11, primer párrafo;
 
 III. La Sociedad cuente con políticas o criterios que restrinjan, obstaculicen o impongan requisitos excesivos para proporcionar o recibir información, en los términos del artículo 35;
 
@@ -769,16 +760,10 @@ Fracción adicionada DOF 01-02-2008
 XI. La Entidad Financiera no informe sobre la venta o cesión de la cartera a las Sociedades en el plazo establecido en el artículo 27 Bis, primer párrafo;
 Fracción adicionada DOF 01-02-2008
 
-XII. La Entidad Financiera que adquiera la cartera, en el supuesto establecido en el párrafo cuarto del
-
-### artículo 27
-Bis, no actualice la información ante la Sociedad de los créditos adquiridos, o bien, no utilice, en los envíos de información, el mismo número que tenía de tales créditos la Sociedad antes del traspaso o no atienda las reclamaciones de los Clientes en términos de los párrafos tercero y último de dicho artículo;
+XII. La Entidad Financiera que adquiera la cartera, en el supuesto establecido en el párrafo cuarto del artículo 27 Bis, no actualice la información ante la Sociedad de los créditos adquiridos, o bien, no utilice, en los envíos de información, el mismo número que tenía de tales créditos la Sociedad antes del traspaso o no atienda las reclamaciones de los Clientes en términos de los párrafos tercero y último de dicho artículo;
 Fracción adicionada DOF 01-02-2008
 
-XIII. La Entidad Financiera que venda o ceda la cartera de crédito no actualice la información de los créditos cedidos o no atienda las reclamaciones de los Clientes en los supuestos previstos en el
-
-### artículo 27
-Bis, quinto y último párrafos;
+XIII. La Entidad Financiera que venda o ceda la cartera de crédito no actualice la información de los créditos cedidos o no atienda las reclamaciones de los Clientes en los supuestos previstos en el artículo 27 Bis, quinto y último párrafos;
 Fracción adicionada DOF 01-02-2008
 
 XIV. La Sociedad no incluya en los Reportes de Crédito o Reportes de Crédito Especiales el nombre del adquirente o cesionario, la leyenda relativa al domicilio de los adquirentes o cesionarios o la anotación sobre la imposibilidad de actualizar los registros, según se establece en el artículo 27 Bis, segundo y penúltimo párrafos;
@@ -787,10 +772,7 @@ Fracción adicionada DOF 01-02-2008
 XV. La Entidad Financiera se abstenga de proporcionar al Cliente el Reporte de Crédito Especial, en la forma y términos establecidos en el artículo 40, primer párrafo;
 Fracción adicionada DOF 01-02-2008
 
-XVI. La Entidad Financiera envíe nuevamente a la Sociedad la información, previamente contenida en la base de datos de ésta y que se haya modificado o eliminado, a que hace referencia el
-
-### artículo 46
-;
+XVI. La Entidad Financiera envíe nuevamente a la Sociedad la información, previamente contenida en la base de datos de ésta y que se haya modificado o eliminado, a que hace referencia el artículo 46;
 Fracción adicionada DOF 01-02-2008. Reformada DOF 20-01-2009
 
 XVII. La Sociedad que no elimine de la base de datos la información a que se refiere el artículo 23 en los plazos y condiciones señalados en dicho artículo, y Fracción adicionada DOF 01-02-2008. Reformada DOF 20-01-2009
@@ -821,10 +803,7 @@ Fracción adicionada DOF 25-05-2010
 
 VI. Omitan ajustarse a las disposiciones de carácter general que emita la Comisión, en términos del artículo 36 y 36 Bis de esta ley, y Fracción adicionada DOF 25-05-2010
 
-VII. Omitan aplicar la tarifa que determine la Comisión en términos de lo dispuesto por los artículos 36 y 36 Bis de esta Ley, así como que incumplan con las disposiciones a que se refiere el
-
-### artículo 36
-Bis.
+VII. Omitan aplicar la tarifa que determine la Comisión en términos de lo dispuesto por los artículos 36 y 36 Bis de esta Ley, así como que incumplan con las disposiciones a que se refiere el artículo 36 Bis.
 Fracción adicionada DOF 25-05-2010. Reformada DOF 10-01-2014 En caso de que alguna de las infracciones contenidas en los artículos 60, 61 y 62 de esta Ley generen un daño patrimonial o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un tercero.
 Párrafo adicionado DOF 10-01-2014 Artículo adicionado DOF 23-01-2004
 
@@ -884,10 +863,7 @@ Fracción reformada DOF 01-02-2008 Artículo adicionado DOF 23-01-2004
 .- El Banco de México sancionará con multa de 1,000 a 15,000 veces el salario mínimo general diario vigente en el Distrito Federal, a las Entidades Financieras cuando:
 Párrafo reformado DOF 10-01-2014
 
-I. Omitan proporcionar a las Sociedades información relativa a sus operaciones crediticias, de acuerdo con las disposiciones de carácter general que expida el propio Banco conforme al
-
-### artículo 20
-, o bien, fuera de los plazos señalados por éste;
+I. Omitan proporcionar a las Sociedades información relativa a sus operaciones crediticias, de acuerdo con las disposiciones de carácter general que expida el propio Banco conforme al artículo 20, o bien, fuera de los plazos señalados por éste;
 
 II. Se abstengan de observar el programa que determine el Banco de México mediante disposiciones de carácter general, en el que dé a conocer el mecanismo gradual para reducir el plazo de respuesta respecto a las reclamaciones que formulen los Clientes ante las Sociedades, y
 
@@ -948,10 +924,7 @@ Fracción adicionada DOF 01-02-2008. Reformada DOF 20-01-2009
 XVI. Se abstenga de informar a la Sociedad del cumplimiento de la obligación realizado por el Cliente, en los términos del cuarto párrafo del artículo 20 de esta Ley;
 Fracción adicionada DOF 20-01-2009
 
-XVII. Envíen información sin contar con el soporte documental a que se refiere el primer párrafo del
-
-### artículo 20
-de esta Ley, y Fracción adicionada DOF 20-01-2009
+XVII. Envíen información sin contar con el soporte documental a que se refiere el primer párrafo del artículo 20 de esta Ley, y Fracción adicionada DOF 20-01-2009
 
 XVIII. Se utilice información proporcionada por la Sociedad con la finalidad de ser utilizada para efectos laborales, sin que exista mandamiento judicial o legal que así lo amerite.
 Fracción adicionada DOF 20-01-2009 Artículo adicionado DOF 23-01-2004 Reforma DOF 01-02-2008: Derogó del artículo el entonces último párrafo
@@ -1033,20 +1006,18 @@ Se reforman los artículos 2, fracciones VIII y IX; 20, párrafo primero; 36; 36
 ## TRANSITORIOS
 
 **Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Banco de México expedirá las disposiciones de carácter general a que se refiere el
-
-### artículo 4
-Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
-Tercero. Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
-Cuarto. Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
-Quinto. Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
+**Segundo.** El Banco de México expedirá las disposiciones de carácter general a que se refiere el artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+**Tercero.** Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
+**Cuarto.** Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
+**Quinto.** Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
 Las Sociedades de Información Crediticia contarán con un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para presentar a la Comisión el acuerdo mencionado en el artículo 36 de la citada Ley.
 Las sociedades de información crediticia deberán obtener la autorización de la Comisión Nacional Bancaria y de Valores respecto de las tarifas que dichas sociedades deberán ofrecer a sus Usuarios por los reportes de crédito, en términos del artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
-Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
+**Sexto.** Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
 México, D.F., a 11 de febrero de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Carlos Samuel Moreno Teran, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de mayo de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
-Publicado en el Diario Oficial de la Federación el 10 de enero de 2014 ARTÍCULO CUADRAGÉSIMO SEGUNDO.- Se REFORMAN los artículos 8o, segundo párrafo; 17, segundo y último párrafo; 20, tercero y último párrafos; 28, quinto párrafo; 40, sexto párrafo; 44; 53, fracción III, inciso a); 56, tercer párrafo; 56 Bis, primer y segundo párrafos; 60, primer párrafo y fracciones I y IV; 61, primer párrafo; 62, primer párrafo y fracción VII; 64, primer párrafo; 66, primer párrafo, y 67, primer párrafo y se ADICIONAN los artículos 7o. Bis., 8o, con un tercer párrafo recorriéndose los párrafos de dicho artículo en su orden y según corresponda; 8o Bis 1; 13, con un tercer y cuarto párrafos, recorriéndose el último párrafo; 17 Bis; 17 Bis 1; 20 Bis; 23 Bis; 40, con un penúltimo y último párrafos; 56, con un cuarto y quinto párrafos recorriéndose los párrafos de dicho artículo en su orden y según corresponda; 56 Bis con un último párrafo; 56 Bis 1 a 56 Bis 3, y 62, con las fracciones II Bis y II Ter y con un último párrafo, de la Ley para Regular las Sociedades de Información Crediticia, para quedar como sigue: ……… Disposiciones Transitorias ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
+Publicado en el Diario Oficial de la Federación el 10 de enero de 2014 ARTÍCULO CUADRAGÉSIMO SEGUNDO.- Se REFORMAN los artículos 8o, segundo párrafo; 17,
+**segundo.** y último párrafo; 20, tercero y último párrafos; 28, quinto párrafo; 40, sexto párrafo; 44; 53, fracción III, inciso a); 56, tercer párrafo; 56 Bis, primer y segundo párrafos; 60, primer párrafo y fracciones I y IV; 61, primer párrafo; 62, primer párrafo y fracción VII; 64, primer párrafo; 66, primer párrafo, y 67, primer párrafo y se ADICIONAN los artículos 7o. Bis., 8o, con un tercer párrafo recorriéndose los párrafos de dicho artículo en su orden y según corresponda; 8o Bis 1; 13, con un tercer y cuarto párrafos, recorriéndose el último párrafo; 17 Bis; 17 Bis 1; 20 Bis; 23 Bis; 40, con un penúltimo y último párrafos; 56, con un cuarto y quinto párrafos recorriéndose los párrafos de dicho artículo en su orden y según corresponda; 56 Bis con un último párrafo; 56 Bis 1 a 56 Bis 3, y 62, con las fracciones II Bis y II Ter y con un último párrafo, de la Ley para Regular las Sociedades de Información Crediticia, para quedar como sigue: ……… Disposiciones Transitorias ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
 
 I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
 

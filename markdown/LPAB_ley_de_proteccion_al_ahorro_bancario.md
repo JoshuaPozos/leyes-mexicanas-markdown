@@ -19,10 +19,7 @@ Se expide la “
 ### Artículo 1o
 .- La presente Ley tiene por objeto establecer un sistema de protección al ahorro bancario en favor de las personas que realicen cualquiera de las operaciones garantizadas, en los términos y con las limitantes que la misma determina; regular los apoyos financieros que se otorguen a las instituciones de banca múltiple para la protección de los intereses del público ahorrador, así como establecer las bases para la organización y funcionamiento de la entidad pública encargada de estas funciones.
 Esta Ley es de orden público e interés social y reglamenta las disposiciones constitucionales conducentes.
-Se aplicarán supletoriamente a esta Ley, la Ley de Instituciones de Crédito, la Ley Federal de las
-
-### Artículo 2o
-.- El sistema de protección al ahorro bancario será administrado por un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, con domicilio en el Distrito Federal, denominado Instituto para la Protección al Ahorro Bancario.
+Se aplicarán supletoriamente a esta Ley, la Ley de Instituciones de Crédito, la Ley Federal de las Artículo 2o.- El sistema de protección al ahorro bancario será administrado por un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, con domicilio en el Distrito Federal, denominado Instituto para la Protección al Ahorro Bancario.
 
 ### Artículo 3o
 .- La constitución, funcionamiento, operación, control y evaluación del Instituto para la Protección al Ahorro Bancario, se regirán por lo dispuesto en esta Ley.
@@ -305,10 +302,7 @@ Párrafo reformado DOF 01-06-2001, 09-04-2012 Asimismo, el órgano de control in
 ### Artículo 67
 .- El Instituto tiene por objeto:
 
-I. Proporcionar a las Instituciones, en beneficio de los intereses de las personas a que se refiere el
-
-### artículo 1o
-. de esta Ley, un sistema para la protección del ahorro bancario que garantice el pago, a través de la asunción por parte del Instituto, en forma subsidiaria y limitada, de las obligaciones establecidas en la presente Ley, a cargo de dichas Instituciones, y
+I. Proporcionar a las Instituciones, en beneficio de los intereses de las personas a que se refiere el artículo 1o. de esta Ley, un sistema para la protección del ahorro bancario que garantice el pago, a través de la asunción por parte del Instituto, en forma subsidiaria y limitada, de las obligaciones establecidas en la presente Ley, a cargo de dichas Instituciones, y
 
 II. Administrar, en términos de esta Ley, los programas de saneamiento financiero que formule y ejecute en beneficio de los ahorradores y usuarios de las Instituciones y en salvaguarda del sistema nacional de pagos.
 
@@ -425,10 +419,7 @@ I. Resolver sobre la procedencia de que el Instituto otorgue, en cada caso, los 
 
 II. Declarar la administración cautelar en el supuesto previsto en el artículo 50 de la presente Ley, así como aprobar la liquidación o la solicitud para pedir la suspensión de pagos o declaración de quiebra de las Instituciones;
 
-III. Aprobar las cuotas ordinarias que deban cubrir las Instituciones conforme a lo señalado en el
-
-### artículo 22
-de esta Ley, así como los criterios para establecer cuotas diferenciadas conforme a lo previsto en el artículo 21 de la misma;
+III. Aprobar las cuotas ordinarias que deban cubrir las Instituciones conforme a lo señalado en el artículo 22 de esta Ley, así como los criterios para establecer cuotas diferenciadas conforme a lo previsto en el artículo 21 de la misma;
 
 IV. Aprobar previa opinión de la Secretaría de Hacienda y Crédito Público, las cuotas extraordinarias que deban cubrir las Instituciones conforme a lo señalado en el artículo 23 de esta Ley;
 
@@ -635,20 +626,17 @@ Para participar en el nuevo programa, la Institución de que se trate, deberá c
 
 a) Las acciones de instituciones de banca múltiple, casas de bolsa y de otras sociedades, de las cuales sean titulares los Fideicomisos a que se refieren los artículos 122 de la Ley de entrada en vigor del presente Decreto;
 
-b) Los derechos fideicomisarios de los que sean titular el Fideicomiso a que se refiere el
-
-### artículo 122
-de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, para recibir el producto de la recuperación de los créditos que se designaron en los convenios celebrados con las instituciones de banca múltiple, dentro de los programas de capitalización y saneamiento de tales instituciones implantados por las autoridades financieras, así como los derechos que confieren a dicho fondo los referidos convenios;
+b) Los derechos fideicomisarios de los que sean titular el Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, para recibir el producto de la recuperación de los créditos que se designaron en los convenios celebrados con las instituciones de banca múltiple, dentro de los programas de capitalización y saneamiento de tales instituciones implantados por las autoridades financieras, así como los derechos que confieren a dicho fondo los referidos convenios;
 
 c) Los demás bienes y derechos de los que sean titulares los Fideicomisos a que se refieren los vigentes hasta antes de la entrada en vigor del presente Decreto;
 
 d) Los créditos, derechos y otros bienes de los cuales sean titulares o propietarios las instituciones de banca múltiple y demás sociedades referidas en el inciso a) de este artículo, y
 
 e) Los demás bienes y derechos de cualquier naturaleza relacionados con la administración y conclusión de los programas a que se refiere este artículo.
-SÉPTIMO.- El Instituto, sujeto a la condición a que se refiere el párrafo siguiente, en protección de los derechos de terceros de buena fe, y para proveer a la más expedita recuperación de los BIENES, asume la titularidad de las operaciones de los programas de saneamiento, diferentes a aquellos de capitalización de compra de cartera, realizadas por los fideicomisos a que se refieren los artículos 122 de la Ley de del presente Decreto, así como las correspondientes a las instituciones intervenidas por la Comisión, salvo las operaciones que fueron exceptuadas por acuerdo de los Comités Técnicos de aquellos. A las operaciones cuya titularidad asuma el Instituto de acuerdo a lo dispuesto en este artículo, les será aplicable lo dispuesto en los artículos 45 y 47 de esta Ley.
+**SÉPTIMO.-** El Instituto, sujeto a la condición a que se refiere el párrafo siguiente, en protección de los derechos de terceros de buena fe, y para proveer a la más expedita recuperación de los BIENES, asume la titularidad de las operaciones de los programas de saneamiento, diferentes a aquellos de capitalización de compra de cartera, realizadas por los fideicomisos a que se refieren los artículos 122 de la Ley de del presente Decreto, así como las correspondientes a las instituciones intervenidas por la Comisión, salvo las operaciones que fueron exceptuadas por acuerdo de los Comités Técnicos de aquellos. A las operaciones cuya titularidad asuma el Instituto de acuerdo a lo dispuesto en este artículo, les será aplicable lo dispuesto en los artículos 45 y 47 de esta Ley.
 Lo dispuesto en el párrafo anterior queda sujeto a la condición resolutoria de que se lleven a cabo las auditorías correspondientes, para el fincamiento de las responsabilidades jurídicas y económicas que, en su caso procedan, o a la transmisión a terceros de los mencionados BIENES.
 Si de las auditorías realizadas aparecen operaciones de mutuo o préstamo otorgados por las instituciones auditadas cuyos recursos se hayan donado o aportado por los acreditados, directamente o por interpósita persona, a entidades de interés público que reciban financiamiento público y que por tal motivo hayan generado quebrantos financieros a las instituciones acreditantes, dichas entidades devolverán el monto de las operaciones de crédito involucradas con cargo a los financiamientos públicos que, conforme a las leyes que las rigen, reciban ordinariamente.
-OCTAVO.- El Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público y el Banco de México, realizarán los actos necesarios para la extinción de los Fideicomisos a que se refieren hasta antes de la entrada en vigor del presente Decreto, en el caso del fideicomiso primeramente citado, con sujeción a lo establecido en el Quinto Transitorio del presente Decreto.
+**OCTAVO.-** El Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público y el Banco de México, realizarán los actos necesarios para la extinción de los Fideicomisos a que se refieren hasta antes de la entrada en vigor del presente Decreto, en el caso del fideicomiso primeramente citado, con sujeción a lo establecido en el Quinto Transitorio del presente Decreto.
 En consecuencia de lo dispuesto en el párrafo anterior:
 
 I. El Instituto asumirá los créditos otorgados por el Banco de México a los Fideicomisos a que se refieren los artículos 122 de la Ley de Instituciones de Crédito y 89 de la Ley del Mercado de Valores vigentes hasta antes de la entrada en vigor del presente Decreto, debiéndose convenir los términos y condiciones para que tales financiamientos se vayan extinguiendo sin cargo a dicho Instituto, en la medida en que los resultados del Banco así lo permitan, sin afectar el capital y reservas del propio Banco, de acuerdo con la Ley que lo rige;
@@ -656,7 +644,7 @@ I. El Instituto asumirá los créditos otorgados por el Banco de México a los F
 II. El Gobierno Federal quebrantará el crédito otorgado por Nacional Financiera, en su carácter de agente financiero del Gobierno Federal, al Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, y
 
 III. No se aprueba la solicitud de consolidar a la deuda pública las obligaciones contraídas por los Fondos señalados, ni los avales u obligaciones solidarias otorgados al efecto por el Gobierno Federal, presentada en el artículo Cuarto Transitorio del Artículo Segundo de la Iniciativa de Decreto por el que se expiden la Ley Federal del Fondo de Garantía de Depósitos y la Ley de la Comisión para la Recuperación de Bienes, y se reforman, adicionan y derogan diversas disposiciones de las leyes del Banco de México, de Instituciones de Crédito, del Mercado de Valores, para Regular las Agrupaciones Financieras y General de Deuda Pública.
-NOVENO.- De conformidad con lo previsto en la Sección Cuarta del Resumen Ejecutivo de las Operaciones realizadas por el Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, entregado por el Ejecutivo Federal a la Cámara de Diputados, en el que se prevén los montos necesarios para las operaciones de saneamiento financiero correspondientes a Banco del Atlántico, S.A., Banca Promex, S.A. y BanCrecer, S.A. y que a la fecha no se han finalizado, el Instituto procederá a evaluar, auditar y, en su caso, concluir, dichas operaciones.
+**NOVENO.-** De conformidad con lo previsto en la Sección Cuarta del Resumen Ejecutivo de las Operaciones realizadas por el Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, entregado por el Ejecutivo Federal a la Cámara de Diputados, en el que se prevén los montos necesarios para las operaciones de saneamiento financiero correspondientes a Banco del Atlántico, S.A., Banca Promex, S.A. y BanCrecer, S.A. y que a la fecha no se han finalizado, el Instituto procederá a evaluar, auditar y, en su caso, concluir, dichas operaciones.
 Para tal efecto, el Instituto podrá otorgar las garantías o instrumentos de pago que se requieran a juicio de la Junta de Gobierno, los cuales se sujetarán a lo dispuesto en el artículo 45 de esta Ley. Una vez concluidas las operaciones, el Instituto deberá remitir un informe pormenorizado al Congreso de la Unión y al Ejecutivo Federal detallando los términos y condiciones de tales operaciones.
 Para concluir las operaciones a que se refiere este artículo, el Instituto deberá observar lo siguiente:
 
@@ -665,15 +653,15 @@ I. Se aplicará íntegramente el capital de las Instituciones mencionadas a cubr
 II. La suma de las garantías o instrumentos de pago prevista en la Sección Cuarta del documento mencionado en el primer párrafo de este artículo, no podrá exceder del monto total actualizado conforme a la Tasa de Interés Interbancaria de Equilibrio;
 
 III. Si de las auditorías que al efecto se realicen resultaren operaciones ilegales, el Instituto deberá proceder a instaurar las demandas y denuncias correspondientes, a fin de deslindar las responsabilidades económicas a que hubiere lugar.
-DÉCIMO.- A fin de concluir los programas de saneamiento financiero y la liquidación de las operaciones de los Fideicomisos a que se refieren los artículos 122 de la Ley de Instituciones de Crédito y Instituto dispondrá de las tres cuartas partes de las cuotas que por la prestación del sistema de protección al ahorro paguen las instituciones; los provenientes de la recuperación de sus activos y aquellos derivados de los costos que al efecto se hayan convenido asuman las instituciones apoyadas.
+**DÉCIMO.-** A fin de concluir los programas de saneamiento financiero y la liquidación de las operaciones de los Fideicomisos a que se refieren los artículos 122 de la Ley de Instituciones de Crédito y Instituto dispondrá de las tres cuartas partes de las cuotas que por la prestación del sistema de protección al ahorro paguen las instituciones; los provenientes de la recuperación de sus activos y aquellos derivados de los costos que al efecto se hayan convenido asuman las instituciones apoyadas.
 El Ejecutivo Federal y la Cámara de Diputados tomarán las medidas pertinentes para que las auditorías concluyan en plazo máximo de 6 meses a partir de la entrada en vigor de esta Ley.
-DÉCIMO PRIMERO.- El régimen de las obligaciones garantizadas establecido en el Capítulo I del Título Segundo de la presente Ley, entrará en vigor a más tardar el 31 de diciembre del año 2005.
+**DÉCIMO PRIMERO.-** El régimen de las obligaciones garantizadas establecido en el Capítulo I del Título Segundo de la presente Ley, entrará en vigor a más tardar el 31 de diciembre del año 2005.
 Previamente al vencimiento del plazo a que se refiere el párrafo anterior el Instituto determinará el régimen de las obligaciones garantizadas. El tipo de obligaciones garantizadas y el importe garantizado sólo podrá modificarse mediante resolución que publique la propia Junta de Gobierno en el mes de diciembre de cada año en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en el país, la cual no podrá tener vigencia menor a un año.
 Por única vez, a más tardar en el mes de mayo de 1999, la Junta de Gobierno deberá publicar en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en el país, un programa en el cual se darán a conocer las obligaciones que quedarán garantizadas en el período de transición a que se refiere el segundo párrafo de este artículo. Dicho programa deberá ser aprobado por la Junta de Gobierno. Las resoluciones de la Junta de Gobierno relativas a las propuestas citadas en este párrafo y en el párrafo que antecede, deberán ser adoptadas contando con el voto favorable del Secretario de Hacienda y Crédito Público, y en ausencia de éste de su suplente.
 Al aprobar el programa a que se refiere el párrafo precedente, la Junta de Gobierno deberá buscar que el período de transición, para la entrada en vigor del régimen de obligaciones garantizadas establecido en el Capítulo I del Título Segundo de la Ley, sea lo más corto posible. Además, la Junta de Gobierno deberá resolver lo necesario para que la transición se dé en forma gradual y ordenada, a efecto de que en el último año de vigencia del régimen se llegue al límite de cobertura establecido en el propio Capítulo I del Título Segundo de esta Ley.
 En tanto se publica la resolución referida en el tercer párrafo de este artículo, las obligaciones garantizadas por el Instituto serán las que se publiquen en el Diario Oficial de la Federación de conformidad con lo previsto en el artículo 122 de la Ley de Instituciones de Crédito, vigente hasta antes de la entrada en vigor del presente Decreto.
-DÉCIMO SEGUNDO.- Para manifestar el consentimiento a que se refiere el artículo 42 de este Decreto, las instituciones deberán modificar sus estatutos sociales, así como incorporar la correspondiente mención expresa en los títulos representativos de su capital social, en un plazo que no excederá de 180 días contados a partir de la entrada en vigor de esta Ley.
-DÉCIMO TERCERO.- El Instituto deberá administrar y enajenar los Bienes, con el fin de obtener el máximo valor de recuperación posible. El Instituto procurará las mejores condiciones de venta de los BIENES, siguiendo al efecto los procedimientos a que se refiere el Capítulo II del Título Tercero de esta Ley.
+**DÉCIMO SEGUNDO.-** Para manifestar el consentimiento a que se refiere el artículo 42 de este Decreto, las instituciones deberán modificar sus estatutos sociales, así como incorporar la correspondiente mención expresa en los títulos representativos de su capital social, en un plazo que no excederá de 180 días contados a partir de la entrada en vigor de esta Ley.
+**DÉCIMO TERCERO.-** El Instituto deberá administrar y enajenar los Bienes, con el fin de obtener el máximo valor de recuperación posible. El Instituto procurará las mejores condiciones de venta de los BIENES, siguiendo al efecto los procedimientos a que se refiere el Capítulo II del Título Tercero de esta Ley.
 El Instituto deberá concluir los procesos de recuperación en un plazo máximo de cinco años a partir de la entrada en vigor del presente Decreto, con excepción de la venta o delegación de la administración de los activos de las instituciones intervenidas por la Comisión, que sean objeto de procesos de liquidación, el cual deberá concluirse en un plazo no mayor de tres años.
 A ese efecto, el Secretario Ejecutivo deberá elaborar un programa de enajenación de BIENES para la aprobación de la Junta de Gobierno que deberá contener por lo menos los siguientes elementos:
 
@@ -692,11 +680,12 @@ f) Requisitos que deban llenar los posibles oferentes y adquirentes de los BIENE
 g) Procedimientos y metodologías para el establecimiento, en su caso, del valor de referencia de los BIENES. Asimismo, cuando se determine que el valor de alguno de los bienes en específico, no tiene recuperación alguna, determinar los usos de carácter público que se podrían dar al mismo, y
 
 h) Procedimiento para las enajenaciones en bloque de los BIENES.
-DÉCIMO CUARTO.- En la realización de sus actos y operaciones, el Secretario Ejecutivo deberá sujetarse en todo momento, a lo dispuesto en el programa que se refiere en el artículo anterior.
-DÉCIMO QUINTO.- El Instituto deberá llevar una cuenta separada de los recursos, ingresos y erogaciones que se relacionen directa o indirectamente con la liquidación de los programas de saneamiento financiero y así deberá revelarlo en sus estados financieros.
-DÉCIMO SEXTO.- El Secretario Ejecutivo deberá elaborar, para ser presentado a la Junta de Gobierno y a la Secretaría de Hacienda y Crédito Público, un informe semestral detallado de sus operaciones, ingresos y erogaciones, presentando en un capítulo especial el estado que guarda su situación financiera en razón del cumplimiento de sus obligaciones exigibles en el período semestral siguiente.
-DÉCIMO SÉPTIMO.- La Contaduría Mayor de Hacienda de la Cámara de Diputados y la Secretaría de Contraloría y Desarrollo Administrativo ejercerán directamente, respecto de las actividades a que se refieren los artículos anteriores, las atribuciones que las leyes les confieren, respecto a la fiscalización y control correspondiente.
-DÉCIMO OCTAVO.- Se derogan el artículo 122 de la Ley de Instituciones de Crédito y el artículo 89 de DÉCIMO NOVENO.- Las referencias hechas a los fideicomisos a que se alude en el artículo SÉPTIMO
+**DÉCIMO CUARTO.-** En la realización de sus actos y operaciones, el Secretario Ejecutivo deberá sujetarse en todo momento, a lo dispuesto en el programa que se refiere en el artículo anterior.
+**DÉCIMO QUINTO.-** El Instituto deberá llevar una cuenta separada de los recursos, ingresos y erogaciones que se relacionen directa o indirectamente con la liquidación de los programas de saneamiento financiero y así deberá revelarlo en sus estados financieros.
+**DÉCIMO SEXTO.-** El Secretario Ejecutivo deberá elaborar, para ser presentado a la Junta de Gobierno y a la Secretaría de Hacienda y Crédito Público, un informe semestral detallado de sus operaciones, ingresos y erogaciones, presentando en un capítulo especial el estado que guarda su situación financiera en razón del cumplimiento de sus obligaciones exigibles en el período semestral siguiente.
+**DÉCIMO SÉPTIMO.-** La Contaduría Mayor de Hacienda de la Cámara de Diputados y la Secretaría de Contraloría y Desarrollo Administrativo ejercerán directamente, respecto de las actividades a que se refieren los artículos anteriores, las atribuciones que las leyes les confieren, respecto a la fiscalización y control correspondiente.
+**DÉCIMO OCTAVO.-** Se derogan el artículo 122 de la Ley de Instituciones de Crédito y el artículo 89 de
+**DÉCIMO NOVENO.-** Las referencias hechas a los fideicomisos a que se alude en el artículo SÉPTIMO
 
 ## Transitorio
 
@@ -781,13 +770,11 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en ma
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
 
 ### ARTÍCULO TRIGÉSIMO
-TERCERO.- Se REFORMA la fracción XIX del artículo 68; la fracción VI del
-
-### artículo 80
-; la fracción primera del artículo 90; las fracciones primera y segunda del artículo 91 y el artículo 92, se ADICIONA un segundo párrafo al artículo 22; un segundo párrafo a la fracción tercera del artículo 90; un segundo, tercer, cuarto y quinto párrafos al artículo 92; un artículo 93 y un artículo 94 y se DEROGAN los artículos 8, 9, 12, 13, 14, 16, 58, 61 a 64 Bis de la Ley de Protección al Ahorro Bancario, para quedar como sigue: ……… Disposiciones Transitorias
+TERCERO.- Se REFORMA la fracción XIX del artículo 68; la fracción VI del artículo 80; la fracción primera del artículo 90; las fracciones primera y segunda del artículo 91 y el artículo 92, se ADICIONA un segundo párrafo al artículo 22; un segundo párrafo a la fracción tercera del artículo 90; un segundo, tercer, cuarto y quinto párrafos al artículo 92; un artículo 93 y un artículo 94 y se DEROGAN los artículos 8, 9, 12, 13, 14, 16, 58, 61 a 64 Bis de la Ley de Protección al Ahorro Bancario, para quedar como sigue: ……… Disposiciones Transitorias
 
 ### ARTÍCULO TRIGÉSIMO
-QUINTO.- En relación con las modificaciones a que se refieren los Artículos Trigésimo Primero a Trigésimo Cuarto de este Decreto, se estará a lo siguiente:
+QUINTO.- En relación con las modificaciones a que se refieren los Artículos
+**Trigésimo.** Primero a Trigésimo Cuarto de este Decreto, se estará a lo siguiente:
 
 I. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
 En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
@@ -807,10 +794,7 @@ VII. Las instituciones de banca múltiple deberán prever en los contratos que c
 VIII. Cuando las leyes, reglamentos, decretos, acuerdos u otros instrumentos jurídicos hagan mención al concurso mercantil o quiebra de instituciones de crédito, la referencia deberá entenderse hecha a los procedimientos previstos en el Título Séptimo, Capítulo II, Sección Segunda de la Ley de Instituciones de Crédito.
 
 IX. La reforma contenida en el presente Decreto al séptimo párrafo del artículo 73 Bis de la Ley de Instituciones de Crédito no será aplicable al monto de las operaciones o de créditos dispuestos a cargo de personas relacionadas, celebradas con anterioridad a la entrada en vigor de este mismo Decreto, hasta que se reestructuren o renueven.
-En razón de lo anterior, las instituciones de banca múltiple solo podrán celebrar con posterioridad a la entrada en vigor del presente Decreto operaciones a cargo de personas relacionadas por un monto que no exceda del porcentaje previsto por el séptimo párrafo del
-
-### artículo 73
-Bis de la Ley de Instituciones de Crédito, una vez consideradas las operaciones referidas en el párrafo anterior.
+En razón de lo anterior, las instituciones de banca múltiple solo podrán celebrar con posterioridad a la entrada en vigor del presente Decreto operaciones a cargo de personas relacionadas por un monto que no exceda del porcentaje previsto por el séptimo párrafo del artículo 73 Bis de la Ley de Instituciones de Crédito, una vez consideradas las operaciones referidas en el párrafo anterior.
 Lo dispuesto por el primer párrafo del presente artículo, solo aplicará respecto del importe que con anterioridad a la entrada en vigor del presente Decreto ya hubiere sido dispuesto por el acreditado, tratándose de préstamos o créditos revocables; o bien, a la totalidad del monto de dicho préstamo o crédito, en el caso de préstamos o créditos irrevocables celebrados con anterioridad a su entrada en vigor.
 
 X. La Junta de Gobierno del Instituto para la Protección al Ahorro Bancario expedirá las disposiciones de carácter general a que se refiere el artículo 22 de la Ley de Protección al Ahorro Bancario, dentro de un plazo que no podrá exceder de doce meses contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se expidan dichas disposiciones, las Instituciones deberán seguir el procedimiento establecido en las disposiciones publicadas en el Diario Oficial de la Federación el 31 de mayo de 1999. ………

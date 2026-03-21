@@ -623,10 +623,7 @@ Los actos ejecutados en contravención de las formalidades previstas en este Có
 
 ### Artículo 95
 . Solicitud de declaración de nulidad sobre actos ejecutados en contravención de las formalidades La solicitud de declaración de nulidad deberá estar fundada y motivada y presentarse por escrito dentro de los dos días siguientes a aquel en que el perjudicado tenga conocimiento fehaciente del acto cuya invalidación se pretenda. Si el vicio se produjo en una actuación realizada en audiencia y el afectado estuvo presente, deberá presentarse verbalmente antes del término de la misma audiencia.
-En caso de que el acto declarado nulo se encuentre en los supuestos establecidos en la parte final del
-
-### artículo 99
-de este Código, se ordenará su reposición.
+En caso de que el acto declarado nulo se encuentre en los supuestos establecidos en la parte final del artículo 99 de este Código, se ordenará su reposición.
 
 ### Artículo 96
 . Saneamiento Los actos ejecutados con inobservancia de las formalidades previstas en este Código podrán ser saneados, reponiendo el acto, rectificando el error o realizando el acto omitido a petición del interesado.
@@ -3443,7 +3440,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

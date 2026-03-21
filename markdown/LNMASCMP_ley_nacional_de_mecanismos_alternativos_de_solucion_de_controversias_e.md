@@ -452,10 +452,7 @@ ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la L
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 ### Artículo Trigésimo
-Se reforma la fracción XIV del artículo 3; el artículo 11; el párrafo primero del
-
-### artículo 40
-; y el artículo 45 de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, para quedar como sigue: ………
+Se reforma la fracción XIV del artículo 3; el artículo 11; el párrafo primero del artículo 40; y el artículo 45 de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, para quedar como sigue: ………
 
 ## Transitorios
 

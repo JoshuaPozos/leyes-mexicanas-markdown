@@ -73,10 +73,7 @@ En el marco de la presente Ley, la ayuda alimentaria no podrá ser otorgada en e
 ### Artículo 9o
 . La Secretaría de Salud, en coordinación con la Secretaría, expedirá las normas a las que deberán sujetarse los comedores a que se refiere el inciso a) de la fracción I del artículo 7 de esta Ley.
 Asimismo, ambas dependencias ejercerán, en coordinación con los gobiernos de las entidades federativas, la vigilancia sobre dichos comedores para verificar el cumplimiento de los requisitos que éstos deban reunir.
-Los gobiernos de las entidades federativas ejercerán el control sanitario de los restaurantes u otros establecimientos de consumo de alimentos a los que se refieren los incisos b) y c) de la fracción I del
-
-### artículo 7
-de esta ley en los términos que señala la Ley General de Salud.
+Los gobiernos de las entidades federativas ejercerán el control sanitario de los restaurantes u otros establecimientos de consumo de alimentos a los que se refieren los incisos b) y c) de la fracción I del artículo 7 de esta ley en los términos que señala la Ley General de Salud.
 
 ### Artículo 10
 . Los patrones deberán mantener un control documental suficiente y adecuado para demostrar que la ayuda alimentaria objeto de esta Ley ha sido efectivamente entregada a sus trabajadores.

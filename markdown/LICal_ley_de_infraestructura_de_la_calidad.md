@@ -552,10 +552,7 @@ El procedimiento de este artículo no será aplicable en el caso de Normas Ofici
 En ningún caso, se entenderá que la Autoridad Normalizadora está obligada a aceptar las propuestas de Normas Oficiales Mexicanas presentadas por partes interesadas, debiendo fundar y motivar su negativa.
 
 ### Artículo 38
-. El periodo de consulta pública del proyecto de Norma Oficial Mexicana previsto en el
-
-### artículo 35
-, fracción V de esta Ley, no podrá ser menor de sesenta días naturales y se ajustará al Reglamento de esta Ley. Conforme a lo previsto en los tratados internacionales de los que los Estados Unidos Mexicanos sea parte podrá aumentarse el plazo para la recepción de los comentarios durante el periodo de consulta pública.
+. El periodo de consulta pública del proyecto de Norma Oficial Mexicana previsto en el artículo 35, fracción V de esta Ley, no podrá ser menor de sesenta días naturales y se ajustará al Reglamento de esta Ley. Conforme a lo previsto en los tratados internacionales de los que los Estados Unidos Mexicanos sea parte podrá aumentarse el plazo para la recepción de los comentarios durante el periodo de consulta pública.
 Para tales efectos, el proyecto deberá de hacerse público en formatos accesibles y adaptables. Los proyectos se deberán publicar íntegramente, si es el caso, con sus respectivos anexos, formatos y demás elementos que lo constituyen.
 Toda consulta pública deberá de contener medidas necesarias que permita la participación plena a las personas con discapacidad.
 Durante la consulta pública deberán recibirse, en igualdad de condiciones, comentarios de nacionales mexicanos y extranjeros.

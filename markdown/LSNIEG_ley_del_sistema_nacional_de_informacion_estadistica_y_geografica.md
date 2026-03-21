@@ -13,9 +13,7 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 Se expide la Ley del Sistema Nacional de Información Estadística y Geográfica.
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
-
-### ARTÍCULO 1
-.- La presente Ley, reglamentaria del Apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, es de orden público, de interés social y de observancia general en toda la República, y tiene por objeto regular:
+ARTÍCULO 1.- La presente Ley, reglamentaria del Apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, es de orden público, de interés social y de observancia general en toda la República, y tiene por objeto regular:
 
 I. El Sistema Nacional de Información Estadística y Geográfica;
 
@@ -24,9 +22,7 @@ II. Los derechos y las obligaciones de los Informantes del Sistema;
 III. La organización y el funcionamiento del Instituto Nacional de Estadística y Geografía, y
 
 IV. Las faltas administrativas y el medio de defensa administrativo frente a los actos o resoluciones del Instituto.
-
-### ARTÍCULO 2
-.- Para efectos de esta Ley se entenderá por:
+ARTÍCULO 2.- Para efectos de esta Ley se entenderá por:
 
 I. Actividades Estadísticas y Geográficas o Actividades: las relativas al diseño, captación, producción, actualización, organización, procesamiento, integración, compilación, publicación, divulgación y conservación de la Información de Interés Nacional.
 
@@ -75,13 +71,9 @@ Cuando el Instituto genere Información se considerará como Unidad para efectos
 ## TÍTULO SEGUNDO — DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
 
 ## CAPÍTULO I — Del Sistema
-
-### ARTÍCULO 3
-.- El Sistema Nacional de Información Estadística y Geográfica, tiene la finalidad de suministrar a la sociedad y al Estado Información de calidad, pertinente, veraz y oportuna, a efecto de coadyuvar al desarrollo nacional.
+ARTÍCULO 3.- El Sistema Nacional de Información Estadística y Geográfica, tiene la finalidad de suministrar a la sociedad y al Estado Información de calidad, pertinente, veraz y oportuna, a efecto de coadyuvar al desarrollo nacional.
 Serán principios rectores del Sistema los de accesibilidad, transparencia, objetividad e independencia.
-
-### ARTÍCULO 4
-.- El Sistema Nacional de Información Estadística y Geográfica tendrá como objetivos:
+ARTÍCULO 4.- El Sistema Nacional de Información Estadística y Geográfica tendrá como objetivos:
 
 I. Producir Información;
 
@@ -90,26 +82,18 @@ II. Difundir oportunamente la Información a través de mecanismos que faciliten
 III. Promover el conocimiento y uso de la Información, y
 
 IV. Conservar la Información.
-
-### ARTÍCULO 5
-.- El Sistema Nacional de Información Estadística y Geográfica estará integrado por:
+ARTÍCULO 5.- El Sistema Nacional de Información Estadística y Geográfica estará integrado por:
 
 I. El Consejo Consultivo Nacional;
 
 II. Los Subsistemas Nacionales de Información, y
 
 III. El Instituto.
-
-### ARTÍCULO 6
-.- La Información de Interés Nacional será oficial y de uso obligatorio para la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México.
+ARTÍCULO 6.- La Información de Interés Nacional será oficial y de uso obligatorio para la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México.
 Párrafo reformado DOF 19-01-2018 Sin perjuicio de lo señalado en el párrafo anterior, las Unidades podrán producir y dar a conocer información pública oficial adicional a la Información de Interés Nacional.
-
-### ARTÍCULO 7
-.- La organización, la planeación, el funcionamiento y la coordinación de Actividades Estadísticas y Geográficas, así como la evaluación de los resultados del Sistema, se sujetarán a esta Ley, a los programas previstos en el artículo 9 de esta Ley y a las disposiciones de carácter general que expida al efecto el Instituto, de acuerdo con la disponibilidad presupuestaria correspondiente.
+ARTÍCULO 7.- La organización, la planeación, el funcionamiento y la coordinación de Actividades Estadísticas y Geográficas, así como la evaluación de los resultados del Sistema, se sujetarán a esta Ley, a los programas previstos en el artículo 9 de esta Ley y a las disposiciones de carácter general que expida al efecto el Instituto, de acuerdo con la disponibilidad presupuestaria correspondiente.
 El Instituto expedirá un código de ética que regule los estándares de conducta a los que deberá apegarse todo aquél que realice Actividades Estadísticas y Geográficas, incluyendo al propio Instituto. El código de ética se pondrá a disposición del público a través de Internet.
-
-### ARTÍCULO 8
-.- Las Unidades del Estado participarán en el Sistema a través de:
+ARTÍCULO 8.- Las Unidades del Estado participarán en el Sistema a través de:
 
 I. El Consejo Consultivo Nacional;
 
@@ -119,9 +103,7 @@ III. Los Comités Técnicos Especializados.
 El Instituto deberá emitir las disposiciones generales para regular el funcionamiento de los órganos colegiados a que se refieren las fracciones anteriores.
 
 ## CAPÍTULO II — De la Programación
-
-### ARTÍCULO 9
-.- La ordenación y regulación de las actividades necesarias para la planeación, programación, producción y difusión de la Información de Interés Nacional, se llevará a cabo a través de los instrumentos siguientes:
+ARTÍCULO 9.- La ordenación y regulación de las actividades necesarias para la planeación, programación, producción y difusión de la Información de Interés Nacional, se llevará a cabo a través de los instrumentos siguientes:
 
 I. El Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica;
 
@@ -130,9 +112,7 @@ II. El Programa Nacional de Estadística y Geografía, y
 III. El Programa Anual de Estadística y Geografía.
 La Junta de Gobierno tendrá a su cargo la aprobación de los programas a que se refiere este artículo, debiendo someter los proyectos de los mismos para opinión a las instancias respectivas en los términos que señala esta Ley.
 Una vez aprobados el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica y el Programa Nacional de Estadística y Geografía, deberán ser publicados en el Diario Oficial de la Federación y serán obligatorios para las Unidades del Estado conforme a la disponibilidad presupuestaria correspondiente.
-
-### ARTÍCULO 10
-.- El Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica:
+ARTÍCULO 10.- El Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica:
 
 I. Tendrá una proyección de al menos 24 años y deberá ser revisado y actualizado por la Junta de Gobierno cada seis años, al inicio del cuarto año del periodo correspondiente al Presidente de la República;
 
@@ -143,27 +123,18 @@ III. Determinará y jerarquizará los objetivos y metas a alcanzar por el Sistem
 IV. Definirá las políticas que deberán atender los Comités Ejecutivos de los Subsistemas en la realización de las Actividades Estadísticas y Geográficas, y
 
 V. Deberá considerar las líneas de acción y elementos que propongan las Unidades del Estado y tomará en cuenta la opinión de instituciones sociales y privadas.
-
-### ARTÍCULO 11
-.- El Programa Nacional de Estadística y Geografía:
+ARTÍCULO 11.- El Programa Nacional de Estadística y Geografía:
 
 I. Será elaborado cada seis años en congruencia con el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica y con el Plan Nacional de Desarrollo, una vez que éste se publique en el Diario Oficial de la Federación; debiendo evaluarse y actualizarse al final de cada ejercicio, o cuando se modifique el citado Programa Estratégico;
 
 II. Definirá el conjunto de actividades y proyectos a ser ejecutados durante cada sexenio presidencial por las Unidades del Estado, en congruencia con lo establecido en el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica y en el Plan Nacional de Desarrollo en lo relativo a las materias de Información correspondientes a los Subsistemas, y
 
 III. Se orientará a producir la información tendiente al mejor conocimiento del territorio y de la realidad económica, gobierno, seguridad pública e impartición de justicia. Así como, social y del medio ambiente del país.
-Fracción reformada DOF 25-06-2018
-
-### ARTÍCULO 12
-.- El Programa Anual de Estadística y Geografía deberá elaborarse tomando en consideración lo dispuesto en el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica y en el Programa Nacional de Estadística y Geografía, debiendo comprender las Actividades a desarrollar por cada Subsistema para la generación de la Información de Interés Nacional en el año al que corresponda, de conformidad con lo dispuesto en esta Ley. La ejecución de las Actividades previstas en el Programa Anual de Estadística y Geografía quedará sujeta a la disponibilidad presupuestaria de las Unidades.
-
-### ARTÍCULO 13
-.- El Instituto proporcionará a las autoridades competentes la Información de Interés Nacional que se requiera para la elaboración del Plan Nacional de Desarrollo.
+Fracción reformada DOF 25-06-2018 ARTÍCULO 12.- El Programa Anual de Estadística y Geografía deberá elaborarse tomando en consideración lo dispuesto en el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica y en el Programa Nacional de Estadística y Geografía, debiendo comprender las Actividades a desarrollar por cada Subsistema para la generación de la Información de Interés Nacional en el año al que corresponda, de conformidad con lo dispuesto en esta Ley. La ejecución de las Actividades previstas en el Programa Anual de Estadística y Geografía quedará sujeta a la disponibilidad presupuestaria de las Unidades.
+ARTÍCULO 13.- El Instituto proporcionará a las autoridades competentes la Información de Interés Nacional que se requiera para la elaboración del Plan Nacional de Desarrollo.
 
 ## CAPÍTULO III — Del Consejo Consultivo Nacional
-
-### ARTÍCULO 14
-.- El Consejo Consultivo Nacional estará integrado por:
+ARTÍCULO 14.- El Consejo Consultivo Nacional estará integrado por:
 
 I. El Presidente del Instituto;
 
@@ -193,9 +164,7 @@ Las entidades federativas miembros del Consejo durarán en su encargo dos años,
 VII. Un representante del Banco de México, designado al efecto por su Gobernador y un representante del Instituto Federal de Telecomunicaciones designado por su comisionado presidente.
 Fracción reformada DOF 14-07-2014 El Instituto podrá invitar a las sesiones del Consejo a representantes de entidades de las administraciones públicas federal y locales e instituciones públicas, sociales y privadas, así como de organismos constitucionales autónomos.
 Párrafo reformado DOF 14-07-2014 Los integrantes del Consejo desempeñarán sus funciones en dicho órgano colegiado de manera honoraria.
-
-### ARTÍCULO 15
-.- El Consejo Consultivo Nacional deberá:
+ARTÍCULO 15.- El Consejo Consultivo Nacional deberá:
 
 I. Opinar sobre los proyectos de los programas a que se refiere el artículo 9 de esta Ley;
 
@@ -204,17 +173,13 @@ II. Proponer los temas, la información y los indicadores que, de conformidad co
 III. Proponer la necesidad de crear los Subsistemas a que se refiere el artículo 17 último párrafo, de esta Ley, y
 
 IV. Opinar sobre los demás asuntos que someta a su consideración la Junta de Gobierno.
-
-### ARTÍCULO 16
-.- El Consejo Consultivo Nacional será presidido por el Presidente del Instituto y fungirá como secretario técnico el servidor público del Instituto que aquél determine.
+ARTÍCULO 16.- El Consejo Consultivo Nacional será presidido por el Presidente del Instituto y fungirá como secretario técnico el servidor público del Instituto que aquél determine.
 El Consejo se reunirá de manera ordinaria al menos una vez al año, y en forma extraordinaria cuando la naturaleza de algún asunto de su competencia así lo exija.
 La convocatoria a reunión del Consejo será formulada por el Presidente del Instituto. Podrán solicitar por escrito al Presidente del Instituto, la convocatoria a una reunión extraordinaria cualquiera de los Comités Ejecutivos de los Subsistemas a través de su Presidente, así como al menos veinticinco por ciento de los miembros del Consejo, con el objeto de tratar alguno de los asuntos a los que se hace referencia en el artículo 15 de esta Ley.
 La convocatoria deberá hacerse con la anticipación necesaria, según la naturaleza y urgencia de los asuntos a tratar. Las reuniones se desahogarán conforme a las reglas que se adopten, a propuesta del Instituto.
 
 ## CAPÍTULO IV — De los Subsistemas Nacionales de Información
-
-### ARTÍCULO 17
-.- El Sistema contará con los siguientes Subsistemas Nacionales de Información:
+ARTÍCULO 17.- El Sistema contará con los siguientes Subsistemas Nacionales de Información:
 
 I. Demográfica y Social;
 II.- Económica;
@@ -223,25 +188,14 @@ Fracción adicionada DOF 25-06-2018 Cada Subsistema tendrá como objetivo produc
 Económica y Financiera, Geográfica y del Medio Ambiente, y de Gobierno, Seguridad Pública e Impartición de Justicia, según corresponda.
 Párrafo reformado DOF 25-06-2018 El Instituto deberá emitir las disposiciones generales para regular el funcionamiento de los Subsistemas Nacionales de Información.
 La Junta de Gobierno, previa opinión favorable del Consejo, podrá crear otros Subsistemas que sean necesarios para el adecuado funcionamiento del Sistema.
-
-### ARTÍCULO 18
-.- En el acuerdo de creación de un Subsistema conforme al último párrafo del artículo anterior, la Junta de Gobierno deberá señalar como mínimo su infraestructura de información, los indicadores clave que deberá producir y las fuentes de las que se obtendrá -con el apoyo de las Unidades- la información básica para dichos indicadores.
-
-### ARTÍCULO 19
-.- Formarán parte de los Subsistemas: los Comités Ejecutivos de Información Demográfica y Social, de Información Económica, de Información Geográfica, del Medio Ambiente, y de Información de Gobierno, Seguridad Pública e Impartición de Justicia; los Comités Técnicos Especializados que se constituyan en términos de lo dispuesto en esta Ley, así como las Unidades del Estado.
+ARTÍCULO 18.- En el acuerdo de creación de un Subsistema conforme al último párrafo del artículo anterior, la Junta de Gobierno deberá señalar como mínimo su infraestructura de información, los indicadores clave que deberá producir y las fuentes de las que se obtendrá -con el apoyo de las Unidades- la información básica para dichos indicadores.
+ARTÍCULO 19.- Formarán parte de los Subsistemas: los Comités Ejecutivos de Información Demográfica y Social, de Información Económica, de Información Geográfica, del Medio Ambiente, y de Información de Gobierno, Seguridad Pública e Impartición de Justicia; los Comités Técnicos Especializados que se constituyan en términos de lo dispuesto en esta Ley, así como las Unidades del Estado.
 Artículo reformado DOF 25-06-2018
 
 ## SECCIÓN I — Del Subsistema Nacional de Información Demográfica y Social
-
-### ARTÍCULO 20
-.- El Subsistema Nacional de Información Demográfica y Social, contará con una infraestructura de información que contenga como mínimo, un marco geoestadístico y un inventario nacional de viviendas.
-
-### ARTÍCULO 21
-.- El Subsistema Nacional de Información Demográfica y Social deberá generar un conjunto de indicadores clave, que atenderán como mínimo los temas siguientes: población y dinámica demográfica, salud, educación, empleo, vivienda, distribución de ingreso y pobreza.
-Artículo reformado DOF 25-06-2018
-
-### ARTÍCULO 22
-.- El Instituto elaborará, con la colaboración de las Unidades, los indicadores a que se refiere el artículo anterior, a partir de la información básica que se obtenga de:
+ARTÍCULO 20.- El Subsistema Nacional de Información Demográfica y Social, contará con una infraestructura de información que contenga como mínimo, un marco geoestadístico y un inventario nacional de viviendas.
+ARTÍCULO 21.- El Subsistema Nacional de Información Demográfica y Social deberá generar un conjunto de indicadores clave, que atenderán como mínimo los temas siguientes: población y dinámica demográfica, salud, educación, empleo, vivienda, distribución de ingreso y pobreza.
+Artículo reformado DOF 25-06-2018 ARTÍCULO 22.- El Instituto elaborará, con la colaboración de las Unidades, los indicadores a que se refiere el artículo anterior, a partir de la información básica que se obtenga de:
 
 I. El censo nacional de población y vivienda, o de los esquemas alternativos que pudieran adoptarse en el futuro para sustituirlo total o parcialmente;
 
@@ -250,16 +204,10 @@ II. Un sistema integrado de encuestas nacionales de los hogares, y
 III. Los registros administrativos que permitan obtener Información en la materia.
 
 ## SECCIÓN II — Del Subsistema Nacional de Información Económica
-
-### ARTÍCULO 23
-.- El Subsistema Nacional de Información Económica, contará con una infraestructura de información que contenga como mínimo, un marco geoestadístico y un Directorio Nacional de Unidades Económicas.
+ARTÍCULO 23.- El Subsistema Nacional de Información Económica, contará con una infraestructura de información que contenga como mínimo, un marco geoestadístico y un Directorio Nacional de Unidades Económicas.
 El Directorio a que se hace referencia en el párrafo anterior, así como las clasificaciones económicas que formen parte del mismo, son de uso obligatorio para la organización de los registros administrativos de los que se pueda obtener Información de Interés Nacional.
-
-### ARTÍCULO 24
-.- El Subsistema Nacional de Información Económica deberá generar un conjunto de indicadores clave, relacionados como mínimo con lo siguiente: sistema de cuentas nacionales; ciencia y tecnología; información financiera; precios y trabajo.
-
-### ARTÍCULO 25
-.- El Instituto elaborará, con la colaboración de las Unidades, los indicadores a que se refiere el artículo anterior a partir de la información básica proveniente de:
+ARTÍCULO 24.- El Subsistema Nacional de Información Económica deberá generar un conjunto de indicadores clave, relacionados como mínimo con lo siguiente: sistema de cuentas nacionales; ciencia y tecnología; información financiera; precios y trabajo.
+ARTÍCULO 25.- El Instituto elaborará, con la colaboración de las Unidades, los indicadores a que se refiere el artículo anterior a partir de la información básica proveniente de:
 
 I. Los censos nacionales económicos y agropecuarios, o los esquemas alternativos que pudieran adoptarse en el futuro para sustituirlos total o parcialmente;
 
@@ -268,19 +216,12 @@ II. Un sistema integrado de encuestas en unidades económicas, y
 III. Los registros administrativos que permitan obtener Información en la materia.
 
 ## SECCIÓN III — Del Subsistema Nacional de Información Geográfica y del Medio Ambiente
-
-### ARTÍCULO 26
-.- El Subsistema Nacional de Información Geográfica y del Medio Ambiente, en su componente geográfico, generará como mínimo los siguientes grupos de datos: marco de referencia geodésico; límites costeros, internacionales, de las entidades federativas, municipales y las demarcaciones territoriales de la Ciudad de México; datos de relieve continental, insular y submarino; datos catastrales, topográficos, de recursos naturales y clima, así como nombres geográficos. A este componente también se le denominará Infraestructura de Datos Espaciales de México.
+ARTÍCULO 26.- El Subsistema Nacional de Información Geográfica y del Medio Ambiente, en su componente geográfico, generará como mínimo los siguientes grupos de datos: marco de referencia geodésico; límites costeros, internacionales, de las entidades federativas, municipales y las demarcaciones territoriales de la Ciudad de México; datos de relieve continental, insular y submarino; datos catastrales, topográficos, de recursos naturales y clima, así como nombres geográficos. A este componente también se le denominará Infraestructura de Datos Espaciales de México.
 Asimismo, emitirá un mapa oficial de la República Mexicana, que incluya las zonas marinas mexicanas, conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Mar, el cual será difundido por el Instituto Nacional de Estadística y Geografía.
 Párrafo adicionado DOF 01-12-2023 Las autoridades competentes en materia de límites territoriales proporcionarán al Instituto la información necesaria para la elaboración del mapa. Los conflictos de límites se resolverán a través de las instancias competentes.
-Párrafo adicionado DOF 01-12-2023 Artículo reformado DOF 19-01-2018
-
-### ARTÍCULO 27
-.- El Subsistema Nacional de Información Geográfica y del Medio Ambiente, en su componente del medio ambiente, procurará describir el estado y las tendencias del medio ambiente, considerando los medios naturales, las especies de plantas y animales, y otros organismos que se encuentran dentro de estos medios.
+Párrafo adicionado DOF 01-12-2023 Artículo reformado DOF 19-01-2018 ARTÍCULO 27.- El Subsistema Nacional de Información Geográfica y del Medio Ambiente, en su componente del medio ambiente, procurará describir el estado y las tendencias del medio ambiente, considerando los medios naturales, las especies de plantas y animales, y otros organismos que se encuentran dentro de estos medios.
 El Subsistema referido en el párrafo anterior, deberá generar, como mínimo, indicadores sobre los siguientes temas: atmósfera, agua, suelo, flora, fauna, residuos peligrosos y residuos sólidos.
-
-### ARTÍCULO 28
-.- El Instituto elaborará, con la colaboración de las Unidades, los indicadores a que se refieren los dos artículos anteriores a partir de la información básica proveniente de:
+ARTÍCULO 28.- El Instituto elaborará, con la colaboración de las Unidades, los indicadores a que se refieren los dos artículos anteriores a partir de la información básica proveniente de:
 
 I. El Sistema Nacional de Información Ambiental y de Recursos Naturales;
 
@@ -289,22 +230,10 @@ II. Un sistema integrado de inventarios y encuestas sobre recursos naturales y m
 III. Los registros administrativos que permitan obtener Información en la materia.
 
 ## SECCIÓN IV — (sic DOF 25-06-2018)
-Del Subsistema Nacional de Gobierno, Seguridad Pública e Impartición de Justicia Sección adicionada DOF 25-06-2018
-
-### ARTÍCULO 28
-BIS.- El Subsistema tendrá como objetivo institucionalizar y operar un esquema coordinado para la producción, integración, conservación y difusión de información estadística y geográfica de interés nacional, de calidad, pertinente, veraz y oportuna que permita conocer la situación que guardan la gestión y el desempeño de las instituciones públicas que conforman el Estado y sus respectivos poderes en las funciones de gobierno, seguridad pública e impartición de justicia, para apoyar los procesos de diseño, implementación, monitoreo y evaluación de las políticas públicas en estas materias.
-Artículo adicionado DOF 25-06-2018
-
-### ARTÍCULO 28
-TER.- El Subsistema contará con una infraestructura de información que integre, como mínimo, un marco geoestadístico, un inventario nacional de registros administrativos, un registro de Unidades del Estado y un inventario de proyectos y productos estadísticos que permitan apoyar la obtención de información oficial respecto a la gestión y desempeño de las instituciones públicas que conforman al Estado y sus respectivos poderes, en las funciones de gobierno, de seguridad pública y de impartición de justicia, según corresponda.
-Artículo adicionado DOF 25-06-2018
-
-### ARTÍCULO 28
-QUÁTER.- El Subsistema Nacional de Gobierno, Seguridad Pública e Impartición de Justicia deberá producir, integrar, administrar, conservar y difundir la información e indicadores clave sobre la gestión y desempeño de las instituciones públicas que conforman al Estado y sus poderes, relacionados, como mínimo, con las funciones de gobierno, seguridad pública e impartición de justicia.
-Artículo adicionado DOF 25-06-2018
-
-### ARTÍCULO 28
-QUINTUS.- El Instituto producirá e integrará, con la colaboración de las Unidades del Estado, la información e indicadores a partir de los datos que se obtengan, entre otras fuentes, de:
+Del Subsistema Nacional de Gobierno, Seguridad Pública e Impartición de Justicia Sección adicionada DOF 25-06-2018 ARTÍCULO 28 BIS.- El Subsistema tendrá como objetivo institucionalizar y operar un esquema coordinado para la producción, integración, conservación y difusión de información estadística y geográfica de interés nacional, de calidad, pertinente, veraz y oportuna que permita conocer la situación que guardan la gestión y el desempeño de las instituciones públicas que conforman el Estado y sus respectivos poderes en las funciones de gobierno, seguridad pública e impartición de justicia, para apoyar los procesos de diseño, implementación, monitoreo y evaluación de las políticas públicas en estas materias.
+Artículo adicionado DOF 25-06-2018 ARTÍCULO 28 TER.- El Subsistema contará con una infraestructura de información que integre, como mínimo, un marco geoestadístico, un inventario nacional de registros administrativos, un registro de Unidades del Estado y un inventario de proyectos y productos estadísticos que permitan apoyar la obtención de información oficial respecto a la gestión y desempeño de las instituciones públicas que conforman al Estado y sus respectivos poderes, en las funciones de gobierno, de seguridad pública y de impartición de justicia, según corresponda.
+Artículo adicionado DOF 25-06-2018 ARTÍCULO 28 QUÁTER.- El Subsistema Nacional de Gobierno, Seguridad Pública e Impartición de Justicia deberá producir, integrar, administrar, conservar y difundir la información e indicadores clave sobre la gestión y desempeño de las instituciones públicas que conforman al Estado y sus poderes, relacionados, como mínimo, con las funciones de gobierno, seguridad pública e impartición de justicia.
+Artículo adicionado DOF 25-06-2018 ARTÍCULO 28 QUINTUS.- El Instituto producirá e integrará, con la colaboración de las Unidades del Estado, la información e indicadores a partir de los datos que se obtengan, entre otras fuentes, de:
 
 I. Los Censos Nacionales de Gobierno o de los esquemas alternativos que pudieran adoptarse en el futuro para sustituirlos total o parcialmente.
 
@@ -317,9 +246,7 @@ La información a la que se refiere esta sección y que pudiera comprometer a la
 Artículo adicionado DOF 25-06-2018
 
 ## SECCIÓN IV — De los Comités de los Subsistemas
-
-### ARTÍCULO 29
-.- Cada Subsistema contará con un Comité Ejecutivo que se integrará por un Vicepresidente de la Junta de Gobierno, designado por el Presidente del Instituto, quien lo presidirá, y por los coordinadores de las Secretarías que a continuación se señalan para cada Subsistema Nacional de Información:
+ARTÍCULO 29.- Cada Subsistema contará con un Comité Ejecutivo que se integrará por un Vicepresidente de la Junta de Gobierno, designado por el Presidente del Instituto, quien lo presidirá, y por los coordinadores de las Secretarías que a continuación se señalan para cada Subsistema Nacional de Información:
 Párrafo reformado DOF 25-06-2018 I.- Demográfica y Social: Los coordinadores de las secretarías de Gobernación; de Desarrollo Social; de Educación Pública; de Salud, y del Trabajo y Previsión Social, así como de la Comisión Nacional de Seguridad, y del Poder Judicial;
 Fracción reformada DOF 25-06-2018
 
@@ -330,9 +257,7 @@ Fracción adicionada DOF 25-06-2018. Reformada DOF 20-05-2021 Por acuerdo de la 
 A las sesiones de los Comités a que se refiere este artículo podrán asistir los invitados que cada Comité determine.
 El Instituto nombrará al servidor público -del propio Instituto- que fungirá como secretario técnico en cada uno de los Comités a que se refiere este artículo.
 Los integrantes de los Comités Ejecutivos desempeñarán sus funciones en dichos órganos colegiados de manera honoraria.
-
-### ARTÍCULO 30
-.- Los Comités Ejecutivos tendrán las facultades siguientes:
+ARTÍCULO 30.- Los Comités Ejecutivos tendrán las facultades siguientes:
 
 I. Dar a conocer a la Junta de Gobierno, a través de su Presidente, las opiniones que tuvieren sobre el proyecto de Programa Anual de Estadística y Geografía;
 
@@ -348,9 +273,7 @@ VI. Proponer al Instituto, en tiempo y forma, aquéllas metodologías utilizadas
 
 VII. Opinar respecto de los demás asuntos que someta a su consideración la Junta de Gobierno.
 Las decisiones de los Comités Ejecutivos se tomarán por mayoría, en caso de empate tendrá voto de calidad aquélla Unidad que, en el ámbito de su competencia, haya sometido la propuesta a votación.
-
-### ARTÍCULO 31
-.- Los Comités Técnicos Especializados serán instancias colegiadas de participación y consulta creados por acuerdo de la Junta de Gobierno, integrados por representantes de las Unidades y del Instituto, quien promoverá la constitución y adecuado funcionamiento de los mismos sujetándose a las disposiciones siguientes:
+ARTÍCULO 31.- Los Comités Técnicos Especializados serán instancias colegiadas de participación y consulta creados por acuerdo de la Junta de Gobierno, integrados por representantes de las Unidades y del Instituto, quien promoverá la constitución y adecuado funcionamiento de los mismos sujetándose a las disposiciones siguientes:
 
 I. Podrán ser temáticos, regionales o especiales, permanentes o temporales;
 
@@ -359,9 +282,7 @@ II. Se integrarán por las Unidades que, a propuesta del Presidente o del vicepr
 III. Podrán asistir a ellos como invitados, los representantes de las instituciones sociales y privadas que el propio Comité determine.
 El Instituto nombrará al servidor público -del propio Instituto- que fungirá como secretario técnico de los comités que se constituyan con base en este artículo.
 Los integrantes de los Comités Técnicos Especializados desempeñarán sus funciones en dichos órganos colegiados de manera honoraria.
-
-### ARTÍCULO 32
-.- Los Comités Técnicos Especializados a los que se refiere el artículo anterior tendrán las funciones siguientes:
+ARTÍCULO 32.- Los Comités Técnicos Especializados a los que se refiere el artículo anterior tendrán las funciones siguientes:
 
 I. Promover entre los coordinadores de las Unidades, el conocimiento y aplicación de las normas técnicas y disposiciones de carácter general que expida el Instituto;
 
@@ -374,9 +295,7 @@ IV. Presentar a la Junta de Gobierno un informe anual sobre sus actividades, y
 V. Prestar a los Subsistemas el apoyo que proceda en términos del acuerdo de creación del Comité Técnico Especializado de que se trate.
 
 ## SECCIÓN V — De las Unidades del Estado
-
-### ARTÍCULO 33
-.- Las Unidades del Estado distintas al Instituto, cuando desarrollen actividades relacionadas con la producción, integración, conservación y difusión de Información de Interés Nacional, deberán:
+ARTÍCULO 33.- Las Unidades del Estado distintas al Instituto, cuando desarrollen actividades relacionadas con la producción, integración, conservación y difusión de Información de Interés Nacional, deberán:
 
 I. Observar las bases, normas y principios que el Instituto, a propuesta de los Comités Ejecutivos de los Subsistemas, establezca y dé a conocer para producir, integrar y difundir Información;
 
@@ -393,13 +312,9 @@ VI. Resguardar y conservar la Información, así como los metadatos o especifica
 VII. Realizar las demás actividades que sean necesarias para el cumplimiento de las previsiones anteriores.
 Cuando por mandato legal las Unidades estén facultadas para producir y dar a conocer Información Estadística y Geográfica deberán observar lo que al respecto determine la ley correspondiente, sin perjuicio de que apliquen, en lo conducente, lo señalado en la fracción I de este artículo.
 El Banco de México determinará las normas relativas a la información que produzca y requiera, para la conducción de la política monetaria.
-
-### ARTÍCULO 34
-.- Para el correcto funcionamiento y coordinación del Sistema, se designará a un coordinador por cada grupo de Unidades correspondientes a una misma cámara legislativa federal o local; dependencia o entidad paraestatal de la administración pública federal; entidad federativa; organismo constitucional autónomo federal o de las entidades federativas, municipio o tribunal administrativo, así como del Poder Judicial de la Federación o de los tribunales superiores de justicia de las entidades federativas.
+ARTÍCULO 34.- Para el correcto funcionamiento y coordinación del Sistema, se designará a un coordinador por cada grupo de Unidades correspondientes a una misma cámara legislativa federal o local; dependencia o entidad paraestatal de la administración pública federal; entidad federativa; organismo constitucional autónomo federal o de las entidades federativas, municipio o tribunal administrativo, así como del Poder Judicial de la Federación o de los tribunales superiores de justicia de las entidades federativas.
 Las designaciones deberán recaer en personas que ocupen, al menos, el nivel de titular de unidad o su equivalente, o el nivel inmediato inferior al de aquélla a la que corresponda hacer el nombramiento y que preferentemente cuenten con conocimientos y experiencia en materia de Información. Cada coordinador deberá nombrar a su suplente quien deberá ocupar el nivel inmediato inferior a aquél.
-
-### ARTÍCULO 35
-.- Los coordinadores a que se refiere el artículo anterior tendrán bajo su responsabilidad:
+ARTÍCULO 35.- Los coordinadores a que se refiere el artículo anterior tendrán bajo su responsabilidad:
 
 I. Ser el enlace del grupo de Unidades que corresponda con el Instituto;
 
@@ -412,9 +327,7 @@ IV. Solicitar a las Unidades que coordinen la integración de la Información qu
 V. Promover el cumplimiento y aplicación de las normas técnicas y disposiciones de carácter general que expida el Instituto, y
 
 VI. Proponer al Comité Ejecutivo respectivo los indicadores y normas técnicas de las Unidades que coordinen.
-
-### ARTÍCULO 36
-.- A efecto de apoyar en la capacitación y actualización de los servidores públicos de las Unidades, así como en la investigación permanente en temas de producción y análisis de la Información, el Instituto podrá realizar las funciones siguientes:
+ARTÍCULO 36.- A efecto de apoyar en la capacitación y actualización de los servidores públicos de las Unidades, así como en la investigación permanente en temas de producción y análisis de la Información, el Instituto podrá realizar las funciones siguientes:
 
 I. Elaborar un programa permanente y actualizado, de formación y perfeccionamiento de las capacidades técnicas de los servidores públicos de las Unidades, así como un programa de investigación permanente en temas de producción y análisis de la Información, para atender las necesidades de las Unidades;
 
@@ -433,21 +346,13 @@ VII. Capacitar a los servidores públicos de las Unidades del Estado.
 ## CAPÍTULO V — De los Informantes del Sistema
 
 ## SECCIÓN I — De los Derechos y Obligaciones de los Informantes del Sistema
-
-### ARTÍCULO 37
-.- Los datos que proporcionen para fines estadísticos los Informantes del Sistema a las Unidades en términos de la presente Ley, serán estrictamente confidenciales y bajo ninguna circunstancia podrán utilizarse para otro fin que no sea el estadístico.
+ARTÍCULO 37.- Los datos que proporcionen para fines estadísticos los Informantes del Sistema a las Unidades en términos de la presente Ley, serán estrictamente confidenciales y bajo ninguna circunstancia podrán utilizarse para otro fin que no sea el estadístico.
 El Instituto no deberá proporcionar a persona alguna, los datos a que se refiere este artículo para fines fiscales, judiciales, administrativos o de cualquier otra índole.
-
-### ARTÍCULO 38
-.- Los datos e informes que los Informantes del Sistema proporcionen para fines estadísticos y que provengan de registros administrativos, serán manejados observando los principios de confidencialidad y reserva, por lo que no podrán divulgarse en ningún caso en forma nominativa o individualizada, ni harán prueba ante autoridad judicial o administrativa, incluyendo la fiscal, en juicio o fuera de él.
+ARTÍCULO 38.- Los datos e informes que los Informantes del Sistema proporcionen para fines estadísticos y que provengan de registros administrativos, serán manejados observando los principios de confidencialidad y reserva, por lo que no podrán divulgarse en ningún caso en forma nominativa o individualizada, ni harán prueba ante autoridad judicial o administrativa, incluyendo la fiscal, en juicio o fuera de él.
 Cuando se deba divulgar la información a que se refiere el párrafo anterior, ésta deberá estar agregada de tal manera que no se pueda identificar a los Informantes del Sistema y, en general, a las personas físicas o morales objeto de la información.
 El Instituto expedirá las normas que aseguren la correcta difusión y el acceso del público a la Información, con apego a lo dispuesto en este artículo.
-
-### ARTÍCULO 39
-.- El Instituto realizará las acciones tendientes a lograr, que los Informantes del Sistema incurran en los menores costos posibles en la entrega de la información que les solicite.
-
-### ARTÍCULO 40
-.- Los Informantes del Sistema a quienes se les requieran datos estadísticos o geográficos, deberán ser enterados de:
+ARTÍCULO 39.- El Instituto realizará las acciones tendientes a lograr, que los Informantes del Sistema incurran en los menores costos posibles en la entrega de la información que les solicite.
+ARTÍCULO 40.- Los Informantes del Sistema a quienes se les requieran datos estadísticos o geográficos, deberán ser enterados de:
 
 I. El carácter obligatorio o potestativo de sus respuestas, según corresponda;
 
@@ -461,43 +366,25 @@ V. La forma en que será divulgada o suministrada la Información, y
 
 VI. El plazo para proporcionar los datos, el cual deberá fijarse conforme a la naturaleza y características de la información a rendir.
 Las anteriores previsiones deberán aparecer en los cuestionarios y documentos que se utilicen para recopilar datos estadísticos o geográficos.
-
-### ARTÍCULO 41
-.- Los Informantes del Sistema, en su caso, podrán exigir que sean rectificados los datos que les conciernan, para lo cual deberán demostrar que son inexactos, incompletos o equívocos.
+ARTÍCULO 41.- Los Informantes del Sistema, en su caso, podrán exigir que sean rectificados los datos que les conciernan, para lo cual deberán demostrar que son inexactos, incompletos o equívocos.
 Cuando proceda, deberá entregarse al Informante del Sistema, un documento en donde se certifique el registro de la modificación o corrección. Las solicitudes correspondientes se presentarán ante la misma autoridad que captó la información.
-
-### ARTÍCULO 42
-.- Los Informantes del Sistema podrán denunciar ante las autoridades administrativas y judiciales, todo hecho o circunstancia del que se derive que se hubieren desconocido los principios de confidencialidad y reserva a que se refiere esta Ley.
-
-### ARTÍCULO 43
-.- La información que sea obtenida mediante engaño o cualquier otro medio ilícito carecerá de validez. Los Informantes del Sistema de quienes bajo estas circunstancias se hubiere obtenido tal información, independientemente del ejercicio de las acciones penales y administrativas que fueren procedentes, podrán comunicar dicha circunstancia al Instituto. Lo anterior, sin perjuicio de que el interesado proporcione a las Unidades, en los términos de esta Ley, la información correspondiente.
-
-### ARTÍCULO 44
-.- El Instituto, cuando no cuente con otros medios técnicos de comprobación o validación de la información proporcionada por los Informantes del Sistema, podrá realizar inspecciones de verificación en los términos de la Sección III de este Capítulo, en las cuales podrá solicitar la exhibición de documentos que acrediten los datos estrictamente estadísticos y geográficos.
+ARTÍCULO 42.- Los Informantes del Sistema podrán denunciar ante las autoridades administrativas y judiciales, todo hecho o circunstancia del que se derive que se hubieren desconocido los principios de confidencialidad y reserva a que se refiere esta Ley.
+ARTÍCULO 43.- La información que sea obtenida mediante engaño o cualquier otro medio ilícito carecerá de validez. Los Informantes del Sistema de quienes bajo estas circunstancias se hubiere obtenido tal información, independientemente del ejercicio de las acciones penales y administrativas que fueren procedentes, podrán comunicar dicha circunstancia al Instituto. Lo anterior, sin perjuicio de que el interesado proporcione a las Unidades, en los términos de esta Ley, la información correspondiente.
+ARTÍCULO 44.- El Instituto, cuando no cuente con otros medios técnicos de comprobación o validación de la información proporcionada por los Informantes del Sistema, podrá realizar inspecciones de verificación en los términos de la Sección III de este Capítulo, en las cuales podrá solicitar la exhibición de documentos que acrediten los datos estrictamente estadísticos y geográficos.
 Las Unidades que no cuenten con un procedimiento similar establecido en algún ordenamiento jurídico, podrán realizar las inspecciones de verificación a que se refiere el párrafo anterior.
 Cuando los datos consignados en la documentación elaborada para captarlos no se encuentren en los documentos exhibidos, deberá señalarse la fuente o presentarse los antecedentes que hubieran servido de base para la información suministrada.
-
-### ARTÍCULO 45
-.- Los Informantes del Sistema estarán obligados a proporcionar, con veracidad y oportunidad, los datos e informes que les soliciten las autoridades competentes para fines estadísticos, censales y geográficos, y prestarán apoyo a las mismas.
+ARTÍCULO 45.- Los Informantes del Sistema estarán obligados a proporcionar, con veracidad y oportunidad, los datos e informes que les soliciten las autoridades competentes para fines estadísticos, censales y geográficos, y prestarán apoyo a las mismas.
 La participación y colaboración de los habitantes de la República en el levantamiento de los censos, será obligatoria y gratuita en los términos señalados en el artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos.
 Los propietarios, poseedores o usufructuarios de predios ubicados en el territorio nacional, prestarán apoyo en los trabajos de campo que realicen las autoridades para captar Información.
-
-### ARTÍCULO 46
-.- Las Unidades estarán obligadas a respetar la confidencialidad y reserva de los datos que para fines estadísticos proporcionen los Informantes del Sistema. Los servidores públicos de la Federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, tendrán la obligación de proporcionar la información básica que hubieren obtenido en el ejercicio de sus funciones y sirva para generar Información de Interés Nacional, que les solicite el Instituto en los términos de la presente Ley. Lo anterior, con excepción de los secretos bancario, fiduciario y bursátil, no será violatorio de la confidencialidad o reserva que se establezca en otras disposiciones.
+ARTÍCULO 46.- Las Unidades estarán obligadas a respetar la confidencialidad y reserva de los datos que para fines estadísticos proporcionen los Informantes del Sistema. Los servidores públicos de la Federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, tendrán la obligación de proporcionar la información básica que hubieren obtenido en el ejercicio de sus funciones y sirva para generar Información de Interés Nacional, que les solicite el Instituto en los términos de la presente Ley. Lo anterior, con excepción de los secretos bancario, fiduciario y bursátil, no será violatorio de la confidencialidad o reserva que se establezca en otras disposiciones.
 Párrafo reformado DOF 19-01-2018 El registro o recolección de los datos que, en cumplimiento de esta Ley, deban proporcionar los Informantes del Sistema, no prejuzga sobre los derechos de propiedad intelectual, industrial o de otro tipo que se originen en los trabajos de investigación científica de carácter estadístico, geográfico o de otra materia, que los mencionados Informantes del Sistema realicen y que son regulados por la legislación respectiva.
-
-### ARTÍCULO 47
-.- Los datos que proporcionen los Informantes del Sistema, serán confidenciales en términos de esta Ley y de las reglas generales que conforme a ella dicte el Instituto.
+ARTÍCULO 47.- Los datos que proporcionen los Informantes del Sistema, serán confidenciales en términos de esta Ley y de las reglas generales que conforme a ella dicte el Instituto.
 La Información no queda sujeta a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sino que se dará a conocer y se conservará en los términos previstos en la presente Ley.
 Sin perjuicio de lo señalado en el párrafo anterior, el Instituto, respecto de la información correspondiente a su gestión administrativa, quedará sujeto a lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 ## SECCIÓN II — De las Inspecciones a los Informantes del Sistema
-
-### ARTÍCULO 48
-.- El Instituto, en el ejercicio de las facultades que le confiere esta Ley, podrá efectuar inspecciones para verificar la autenticidad de la Información, cuando los datos proporcionados sean incongruentes, incompletos o inconsistentes.
-
-### ARTÍCULO 49
-.- Las inspecciones de verificación a que se refiere el artículo anterior, se sujetarán a lo siguiente:
+ARTÍCULO 48.- El Instituto, en el ejercicio de las facultades que le confiere esta Ley, podrá efectuar inspecciones para verificar la autenticidad de la Información, cuando los datos proporcionados sean incongruentes, incompletos o inconsistentes.
+ARTÍCULO 49.- Las inspecciones de verificación a que se refiere el artículo anterior, se sujetarán a lo siguiente:
 
 I. Se practicarán por orden escrita que expresará:
 
@@ -514,31 +401,17 @@ II. La diligencia se entenderá con la persona a que se refiere el inciso b) de 
 
 III. La persona con quien se entienda la diligencia en términos de la fracción anterior, será requerida para que nombre a dos testigos y en caso de negativa serán designados por el personal que practique la diligencia, quien hará constar en el acta, en forma circunstanciada, los hechos y omisiones observados.
 La persona con quien se entienda la diligencia, los testigos y el o los inspectores, firmarán el acta. Si los primeros o los testigos se niegan a firmar, así lo hará constar el o los inspectores, sin que esta circunstancia afecte el valor probatorio del acta. Un ejemplar del acta se entregará en todo caso a la persona con quien se entienda la diligencia.
-
-### ARTÍCULO 50
-.- Los Informantes del Sistema, respecto de quienes se hubiesen practicado los actos a que se refiere el artículo anterior, podrán inconformarse con los hechos asentados en el acta correspondiente, mediante la interposición del recurso de revisión a que se refiere el Capítulo II del Título Cuarto de esta Ley.
+ARTÍCULO 50.- Los Informantes del Sistema, respecto de quienes se hubiesen practicado los actos a que se refiere el artículo anterior, podrán inconformarse con los hechos asentados en el acta correspondiente, mediante la interposición del recurso de revisión a que se refiere el Capítulo II del Título Cuarto de esta Ley.
 
 ## SECCIÓN III
-De la Atención a las Solicitudes Oficiales de Información Provenientes del Extranjero
-
-### ARTÍCULO 51
-.- Las solicitudes de Información de Interés Nacional, que formulen gobiernos extranjeros u organismos y agencias internacionales, a las dependencias y entidades de la Administración Pública Federal, al Poder Judicial de la Federación, al Poder Legislativo Federal, a organismos constitucionales autónomos, a los poderes Ejecutivo, Legislativo y Judicial de las entidades federativas, a organizaciones o agrupaciones de los sectores social o privado o a particulares, deberán ser atendidas en términos de las disposiciones aplicables, directamente por la autoridad, organización, agrupación o particular de que se trate y hacerse del conocimiento del Instituto.
+De la Atención a las Solicitudes Oficiales de Información Provenientes del Extranjero ARTÍCULO 51.- Las solicitudes de Información de Interés Nacional, que formulen gobiernos extranjeros u organismos y agencias internacionales, a las dependencias y entidades de la Administración Pública Federal, al Poder Judicial de la Federación, al Poder Legislativo Federal, a organismos constitucionales autónomos, a los poderes Ejecutivo, Legislativo y Judicial de las entidades federativas, a organizaciones o agrupaciones de los sectores social o privado o a particulares, deberán ser atendidas en términos de las disposiciones aplicables, directamente por la autoridad, organización, agrupación o particular de que se trate y hacerse del conocimiento del Instituto.
 
 ## TÍTULO TERCERO — DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO
 
 ## CAPÍTULO I — Del Instituto Nacional de Estadística y Geografía
-
-### ARTÍCULO 52
-.- El Instituto es, conforme a lo dispuesto en el apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, un organismo público con autonomía técnica y de gestión, personalidad jurídica y patrimonio propios, responsable de normar y coordinar el Sistema Nacional de Información Estadística y Geográfica, así como de realizar las Actividades a que se refiere el
-
-### artículo 59
-de esta Ley.
-
-### ARTÍCULO 53
-.- El Instituto tendrá como objetivo prioritario, realizar las acciones tendientes a lograr que la Información de Interés Nacional se sujete a los principios enunciados en el artículo 3 de esta Ley.
-
-### ARTÍCULO 54
-.- El Instituto, conforme a los principios constitucionales que rigen al Sistema, realizará las acciones tendientes a lograr:
+ARTÍCULO 52.- El Instituto es, conforme a lo dispuesto en el apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, un organismo público con autonomía técnica y de gestión, personalidad jurídica y patrimonio propios, responsable de normar y coordinar el Sistema Nacional de Información Estadística y Geográfica, así como de realizar las Actividades a que se refiere el artículo 59 de esta Ley.
+ARTÍCULO 53.- El Instituto tendrá como objetivo prioritario, realizar las acciones tendientes a lograr que la Información de Interés Nacional se sujete a los principios enunciados en el artículo 3 de esta Ley.
+ARTÍCULO 54.- El Instituto, conforme a los principios constitucionales que rigen al Sistema, realizará las acciones tendientes a lograr:
 
 I. La adecuación conceptual de la Información de Interés Nacional, a las necesidades que el desarrollo económico y social del país impongan;
 
@@ -547,9 +420,7 @@ II. Que la Información sea comparable en el tiempo y en el espacio, y
 III. La adecuación de los procedimientos estadísticos y geográficos a estándares internacionales, para facilitar su comparación.
 
 ## SECCIÓN I — De las Funciones del Instituto
-
-### ARTÍCULO 55
-.- El Instituto, en su calidad de unidad central coordinadora del Sistema, tendrá las funciones siguientes:
+ARTÍCULO 55.- El Instituto, en su calidad de unidad central coordinadora del Sistema, tendrá las funciones siguientes:
 
 I. Normar y coordinar el Sistema, así como fomentar las acciones que permitan mantener su operación eficiente;
 
@@ -560,20 +431,12 @@ III. Solicitar a las Unidades información relativa a sus Actividades, para la i
 IV. Solicitar a las Unidades la Información que éstas hayan obtenido en el ámbito de sus respectivas competencias y sea necesaria para el Sistema, y
 
 V. Las demás que le correspondan conforme a esta Ley.
-
-### ARTÍCULO 56
-.- El Instituto establecerá en coordinación con las Unidades, un catálogo nacional de indicadores, ajustándose a lo dispuesto en los artículos 22, 25 y 28 de esta Ley.
-
-### ARTÍCULO 57
-.- El Instituto deberá elaborar y someter a consideración del Comité Ejecutivo correspondiente, las normas técnicas y las metodologías que sean necesarias para realizar las Actividades Estadísticas y Geográficas de alguna materia o sector, cuando la Unidad que corresponda no las proponga oportunamente o estas no tomen en cuenta los estándares nacionales e internacionales o, en su caso, las mejores prácticas en la materia.
-
-### ARTÍCULO 58
-.- El Instituto regulará, mediante la expedición de disposiciones de carácter general, la captación, procesamiento y publicación de la Información, para el debido funcionamiento del Sistema o autorizará las que utilicen las Unidades para tales efectos.
+ARTÍCULO 56.- El Instituto establecerá en coordinación con las Unidades, un catálogo nacional de indicadores, ajustándose a lo dispuesto en los artículos 22, 25 y 28 de esta Ley.
+ARTÍCULO 57.- El Instituto deberá elaborar y someter a consideración del Comité Ejecutivo correspondiente, las normas técnicas y las metodologías que sean necesarias para realizar las Actividades Estadísticas y Geográficas de alguna materia o sector, cuando la Unidad que corresponda no las proponga oportunamente o estas no tomen en cuenta los estándares nacionales e internacionales o, en su caso, las mejores prácticas en la materia.
+ARTÍCULO 58.- El Instituto regulará, mediante la expedición de disposiciones de carácter general, la captación, procesamiento y publicación de la Información, para el debido funcionamiento del Sistema o autorizará las que utilicen las Unidades para tales efectos.
 El Instituto vigilará el cumplimiento de las disposiciones de carácter general a que se refiere el párrafo anterior.
 Con el objeto de garantizar la homogeneidad y comparación de la Información, el Instituto deberá proveer y promover el uso de definiciones, clasificaciones, nomenclaturas, abreviaturas, identificadores, directorios, símbolos, delimitaciones geográficas y demás elementos que a estos fines sean indispensables desde la captación y procesamiento de la información, hasta la etapa de su presentación y publicación.
-
-### ARTÍCULO 59
-.- El Instituto tendrá las siguientes facultades exclusivas:
+ARTÍCULO 59.- El Instituto tendrá las siguientes facultades exclusivas:
 
 I. Realizar los censos nacionales;
 
@@ -583,24 +446,16 @@ III. Elaborar los índices nacionales de precios siguientes: a. Índice Nacional
 Las denominaciones censo nacional o cuentas nacionales no podrán ser empleadas en el nombre ni en la propaganda de registros, encuestas o enumeraciones distintas a las que practique el Instituto.
 Cualquier contravención a lo dispuesto en este párrafo se sancionará en términos de lo dispuesto en el Título Cuarto de esta Ley.
 El Instituto podrá producir cualquier otra Información de Interés Nacional cuando así lo determine la Junta de Gobierno, sujeto a la disponibilidad presupuestaria con la que cuente, conforme a lo señalado en el último párrafo del artículo 83 de esta Ley.
-
-### ARTÍCULO 60
-.- Sólo con la autorización del Instituto y previa opinión favorable de las autoridades competentes, las personas físicas o morales nacionales podrán captar fotografías aéreas con cámaras métricas o de reconocimiento y de otras imágenes por percepción remota dentro del espacio aéreo nacional, debiendo entregar al Instituto un informe detallado de los trabajos que hubieren realizado, así como una copia de los mismos cuando éste último se los requiera.
-
-### ARTÍCULO 61
-.- Las personas físicas y morales extranjeras requerirán autorización del Instituto para efectuar actividades tendientes a:
+ARTÍCULO 60.- Sólo con la autorización del Instituto y previa opinión favorable de las autoridades competentes, las personas físicas o morales nacionales podrán captar fotografías aéreas con cámaras métricas o de reconocimiento y de otras imágenes por percepción remota dentro del espacio aéreo nacional, debiendo entregar al Instituto un informe detallado de los trabajos que hubieren realizado, así como una copia de los mismos cuando éste último se los requiera.
+ARTÍCULO 61.- Las personas físicas y morales extranjeras requerirán autorización del Instituto para efectuar actividades tendientes a:
 
 I. Captar fotografías aéreas con cámaras métricas o de reconocimiento y de otras imágenes por percepción remota dentro del espacio aéreo nacional, y
 
 II. Levantar información estadística y geográfica.
 Las personas físicas o morales extranjeras que reciban la autorización a que se refiere este artículo, deberán proporcionar un informe detallado de los trabajos señalados en las fracciones anteriores, así como copia de las fotografías, imágenes e información correspondientes.
 El otorgamiento de las autorizaciones de que trata este artículo, quedará condicionado a la obtención de opinión favorable de las autoridades competentes y a que se garantice, a satisfacción del propio Instituto, la entrega del informe y de las copias a que se refiere el párrafo anterior. El Instituto recabará la opinión de las autoridades competentes y resolverá lo conducente dentro de un plazo que no excederá de 30 días hábiles.
-
-### ARTÍCULO 62
-.- El Instituto promoverá la adopción de métodos y normas técnicas en la captación de los datos objeto de registro, en coordinación con las autoridades a las que competa administrar directorios de personas físicas o morales, catastros, registros públicos de la propiedad y del comercio, padrones, inventarios y demás registros administrativos que permitan obtener Información.
-
-### ARTÍCULO 63
-.- Para el desarrollo de las Actividades Estadísticas y Geográficas colaborarán con el Instituto:
+ARTÍCULO 62.- El Instituto promoverá la adopción de métodos y normas técnicas en la captación de los datos objeto de registro, en coordinación con las autoridades a las que competa administrar directorios de personas físicas o morales, catastros, registros públicos de la propiedad y del comercio, padrones, inventarios y demás registros administrativos que permitan obtener Información.
+ARTÍCULO 63.- Para el desarrollo de las Actividades Estadísticas y Geográficas colaborarán con el Instituto:
 
 I. Los poderes Ejecutivo, Legislativo y Judicial de la Federación y de las entidades federativas;
 
@@ -614,16 +469,12 @@ IV. Las Unidades del Estado;
 V. Las instituciones, agrupaciones u organizaciones sociales y privadas, y
 
 VI. Los particulares.
-
-### ARTÍCULO 64
-.- Previo cumplimiento de las formalidades legales y administrativas correspondientes y acuerdo favorable de su Junta de Gobierno, el Instituto deberá brindar el apoyo que le soliciten:
+ARTÍCULO 64.- Previo cumplimiento de las formalidades legales y administrativas correspondientes y acuerdo favorable de su Junta de Gobierno, el Instituto deberá brindar el apoyo que le soliciten:
 
 I. El Ejecutivo Federal y el Senado de la República en materia de tratados, convenios o acuerdos internacionales, cuando se establezcan derechos y obligaciones en materia de Información, así como aquellos que versen sobre límites del territorio nacional, y
 
 II. El Ejecutivo Federal en caso de que se requiera Información para prevenir y, en su caso, atender emergencias o catástrofes originadas por desastres naturales.
-
-### ARTÍCULO 65
-.- Previo cumplimiento de las formalidades legales y administrativas correspondientes y del acuerdo favorable de su Junta de Gobierno, el Instituto podrá brindar el apoyo que le soliciten:
+ARTÍCULO 65.- Previo cumplimiento de las formalidades legales y administrativas correspondientes y del acuerdo favorable de su Junta de Gobierno, el Instituto podrá brindar el apoyo que le soliciten:
 
 I. Los poderes Legislativo y Judicial federales y legislativos de las entidades federativas, en la definición de límites de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, así como asesorar y apoyar a esos poderes en la identificación física de tales límites;
 Fracción reformada DOF 19-01-2018
@@ -633,41 +484,25 @@ II. El Congreso de la Unión, los gobiernos de las entidades federativas, así c
 III. Las autoridades locales, para la organización de los catastros de los municipios y para la realización del levantamiento geodésico de los límites aceptados o reconocidos de los estados.
 
 ## SECCIÓN II — De la Administración del Instituto
-
-### ARTÍCULO 66
-.- El ejercicio de las funciones del Instituto corresponde, en el ámbito de sus respectivas competencias, a la Junta de Gobierno y al Presidente del Instituto.
-
-### ARTÍCULO 67
-.- La Junta de Gobierno es el órgano superior de dirección del Instituto, y estará integrada por cinco miembros designados por el Presidente de la República con la aprobación de la Cámara de Senadores o, en los recesos de esta última, de la Comisión Permanente.
+ARTÍCULO 66.- El ejercicio de las funciones del Instituto corresponde, en el ámbito de sus respectivas competencias, a la Junta de Gobierno y al Presidente del Instituto.
+ARTÍCULO 67.- La Junta de Gobierno es el órgano superior de dirección del Instituto, y estará integrada por cinco miembros designados por el Presidente de la República con la aprobación de la Cámara de Senadores o, en los recesos de esta última, de la Comisión Permanente.
 De entre los miembros de la Junta de Gobierno, el Ejecutivo Federal nombrará al Presidente del Instituto, quien presidirá el citado órgano colegiado. El resto de los miembros de la Junta de Gobierno actuarán como vicepresidentes de la misma.
-
-### ARTÍCULO 68
-.- La Presidencia será el órgano superior ejecutivo del Instituto. El Presidente del Instituto durará en su cargo seis años y los vicepresidentes de la Junta de Gobierno ocho años. El periodo del Presidente del Instituto comenzará el primero de enero del cuarto año calendario del periodo correspondiente al Presidente de la República. Los periodos de los vicepresidentes de la Junta de Gobierno serán escalonados, sucediéndose cada dos años e iniciándose el primero de enero del primer, tercer y quinto año del periodo del Ejecutivo Federal.
+ARTÍCULO 68.- La Presidencia será el órgano superior ejecutivo del Instituto. El Presidente del Instituto durará en su cargo seis años y los vicepresidentes de la Junta de Gobierno ocho años. El periodo del Presidente del Instituto comenzará el primero de enero del cuarto año calendario del periodo correspondiente al Presidente de la República. Los periodos de los vicepresidentes de la Junta de Gobierno serán escalonados, sucediéndose cada dos años e iniciándose el primero de enero del primer, tercer y quinto año del periodo del Ejecutivo Federal.
 Los miembros de la Junta de Gobierno podrán ser designados para ocupar el cargo hasta por dos ocasiones.
 Los miembros de la Junta de Gobierno ocuparán sus cargos sólo durante el tiempo por el cual hayan sido designados.
-
-### ARTÍCULO 69
-.- La designación de los miembros de la Junta de Gobierno deberá recaer en personas que reúnan los requisitos siguientes:
+ARTÍCULO 69.- La designación de los miembros de la Junta de Gobierno deberá recaer en personas que reúnan los requisitos siguientes:
 
 I. Ser ciudadano mexicano por nacimiento, estar en pleno goce de sus derechos civiles y políticos, y no tener más de setenta años cumplidos a la fecha en que la designación sea entregada al Senado de la República o, en su caso, a la Comisión Permanente, para su ratificación;
 
 II. Ser profesional distinguido en materias relacionadas con la estadística, la geografía o la economía, así como haber ocupado, por lo menos durante cinco años, algún cargo de alto nivel en los sectores público o privado, o ser un académico de reconocido prestigio en las materias mencionadas, y
 
 III. No haber sido sentenciado por delitos intencionales, inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, ni removido de algún cargo del sector público o privado.
-
-### ARTÍCULO 70
-.- Los miembros de la Junta de Gobierno no podrán desempeñar ningún otro empleo, cargo o comisión, con excepción de actividades docentes, científicas, culturales o de beneficencia, no remuneradas.
-
-### ARTÍCULO 71
-.- Las vacantes que se produzcan en la Junta de Gobierno serán cubiertas por el nuevo miembro que se designe para integrarla. En caso de vacante en el puesto de Presidente del Instituto, el Ejecutivo Federal podrá nombrar para ocupar tal cargo a un miembro de la Junta de Gobierno en funciones, o bien, designar a un nuevo miembro de la Junta de Gobierno y, ya integrada ésta, nombrar de entre sus cinco miembros al Presidente del Instituto.
+ARTÍCULO 70.- Los miembros de la Junta de Gobierno no podrán desempeñar ningún otro empleo, cargo o comisión, con excepción de actividades docentes, científicas, culturales o de beneficencia, no remuneradas.
+ARTÍCULO 71.- Las vacantes que se produzcan en la Junta de Gobierno serán cubiertas por el nuevo miembro que se designe para integrarla. En caso de vacante en el puesto de Presidente del Instituto, el Ejecutivo Federal podrá nombrar para ocupar tal cargo a un miembro de la Junta de Gobierno en funciones, o bien, designar a un nuevo miembro de la Junta de Gobierno y, ya integrada ésta, nombrar de entre sus cinco miembros al Presidente del Instituto.
 En tanto se hace el nombramiento de Presidente, el miembro de la Junta de Gobierno con mayor antigüedad en el cargo será presidente interino del Instituto y presidirá la Junta de Gobierno. En caso de que hubiere dos o más miembros con igual antigüedad, la propia Junta de Gobierno elegirá de entre ellos al presidente interino a más tardar en la siguiente sesión de dicho órgano colegiado y, de no llegar a un acuerdo, la designación se realizará por el Presidente de la República.
 Los miembros que cubran vacantes que se produzcan antes de la terminación del periodo respectivo, durarán en su cargo sólo por el tiempo que le faltare desempeñar al sustituido. Si al término que corresponde al Presidente del Instituto, se nombra a un miembro de la Junta de Gobierno en funciones para ocupar tal puesto, este nombramiento será por seis años independientemente del tiempo que hubiere sido miembro de la Junta de Gobierno.
-
-### ARTÍCULO 72
-.- Los miembros de la Junta de Gobierno se abstendrán de participar con la representación del Instituto en actos políticos, partidistas o religiosos.
-
-### ARTÍCULO 73
-.- Son causas de remoción de un miembro de la Junta de Gobierno:
+ARTÍCULO 72.- Los miembros de la Junta de Gobierno se abstendrán de participar con la representación del Instituto en actos políticos, partidistas o religiosos.
+ARTÍCULO 73.- Son causas de remoción de un miembro de la Junta de Gobierno:
 
 I. La incapacidad física o mental que impida el correcto ejercicio de sus funciones por más de tres meses;
 
@@ -686,28 +521,20 @@ VII. Participar en actos políticos, partidistas o religiosos con la representac
 VIII. No excusarse de participar en aquellas tomas de decisiones en las que sus intereses personales se encuentren en conflicto con los del Instituto, y
 
 IX. Ausentarse de sus labores por más de tres días consecutivos, o por cinco días no consecutivos en el lapso de un mes, sin autorización de la Junta de Gobierno o sin mediar causa de fuerza mayor o motivo justificado.
-
-### ARTÍCULO 74
-.- Compete a la Junta de Gobierno dictaminar sobre la existencia de las causas de remoción señaladas en el artículo inmediato anterior, debiendo hacerlo a solicitud del Presidente de la República o de cuando menos dos de sus miembros. El dictamen se formulará según resolución de la mayoría de los miembros de la Junta de Gobierno, después de conceder el derecho de audiencia al afectado y sin que éste participe en la votación.
+ARTÍCULO 74.- Compete a la Junta de Gobierno dictaminar sobre la existencia de las causas de remoción señaladas en el artículo inmediato anterior, debiendo hacerlo a solicitud del Presidente de la República o de cuando menos dos de sus miembros. El dictamen se formulará según resolución de la mayoría de los miembros de la Junta de Gobierno, después de conceder el derecho de audiencia al afectado y sin que éste participe en la votación.
 El dictamen, con la documentación que lo sustente, incluida la argumentación por escrito que, en su caso, el afectado hubiere presentado, será enviado al Ejecutivo Federal para su resolución definitiva.
-
-### ARTÍCULO 75
-.- El Presidente del Instituto o cuando menos dos vicepresidentes, podrán convocar a reuniones de la Junta de Gobierno.
+ARTÍCULO 75.- El Presidente del Instituto o cuando menos dos vicepresidentes, podrán convocar a reuniones de la Junta de Gobierno.
 Las sesiones de la Junta de Gobierno deberán celebrarse con la asistencia de por lo menos tres de sus miembros. Si no concurriere el Presidente, la sesión será presidida por el miembro con mayor antigüedad. En caso de que hubiere dos o más miembros con igual antigüedad, los miembros asistentes elegirán de entre ellos al que deba presidir la sesión.
 Las resoluciones de la Junta de Gobierno requerirán para su validez del voto aprobatorio de la mayoría de los miembros presentes, con excepción de las resoluciones a que se refiere el artículo 77, fracciones II, IV y V de esta Ley, para las cuales será necesario el voto favorable de la mayoría de los miembros de la Junta. La persona que presida la sesión tendrá voto de calidad en caso de empate.
 La Junta de Gobierno podrá acordar la asistencia de servidores públicos del Instituto a sus sesiones, para que le rindan directamente la información que les solicite.
 A las sesiones de la Junta de Gobierno podrán asistir los invitados que la propia Junta de Gobierno determine.
 Las personas que asistan a las sesiones deberán guardar confidencialidad respecto de los asuntos que se traten en ellas, salvo autorización expresa de la Junta de Gobierno para hacer alguna comunicación.
-
-### ARTÍCULO 76
-.- La remuneración y prestaciones que reciban los miembros de la Junta de Gobierno por el desempeño de su cargo, no serán mayores ni menores de las que correspondan al nivel de Subsecretario de la Administración Pública Federal. El Presidente de la Junta de Gobierno contará con una remuneración 10% mayor a la que corresponda a los vicepresidentes de la Junta de Gobierno, dentro del nivel antes señalado. Las remuneraciones y prestaciones que perciban el resto de los servidores públicos del Instituto, en ningún caso podrán exceder las previstas para los integrantes del mencionado órgano de gobierno.
+ARTÍCULO 76.- La remuneración y prestaciones que reciban los miembros de la Junta de Gobierno por el desempeño de su cargo, no serán mayores ni menores de las que correspondan al nivel de Subsecretario de la Administración Pública Federal. El Presidente de la Junta de Gobierno contará con una remuneración 10% mayor a la que corresponda a los vicepresidentes de la Junta de Gobierno, dentro del nivel antes señalado. Las remuneraciones y prestaciones que perciban el resto de los servidores públicos del Instituto, en ningún caso podrán exceder las previstas para los integrantes del mencionado órgano de gobierno.
 Lo señalado en el párrafo anterior, se realizará sujetándose a los límites de los tabuladores de percepciones que establezca la Cámara de Diputados, al aprobar el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente.
 Las relaciones laborales de los trabajadores del Instituto, se sujetarán a lo dispuesto en el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## SECCIÓN III — De las Atribuciones de la Junta de Gobierno
-
-### ARTÍCULO 77
-.- Corresponderá a la Junta de Gobierno, como órgano superior de dirección del Instituto, el despacho de los asuntos siguientes:
+ARTÍCULO 77.- Corresponderá a la Junta de Gobierno, como órgano superior de dirección del Instituto, el despacho de los asuntos siguientes:
 
 I. Aprobar los programas a que se refiere el artículo 9 de esta Ley;
 
@@ -744,9 +571,7 @@ XVI. Resolver sobre otros asuntos relacionados con la aplicación de esta Ley, q
 XVII. Las demás que resulten de esta Ley y de otras disposiciones legales aplicables.
 Los asuntos a que se refieren las fracciones I, III, X y XIV del presente artículo, deberán aprobarse con base en las propuestas que presente al efecto el Presidente.
 En aquellos casos en los que se deba recabar la opinión previa de los órganos colegiados a que se refiere la presente Ley, se deberán presentar a la Junta de Gobierno junto con la propuesta correspondiente, las mencionadas opiniones.
-
-### ARTÍCULO 78
-.- Además de los temas señalados en las fracciones I a III del artículo 59 del presente ordenamiento, sólo podrá considerarse Información de Interés Nacional para efectos de esta Ley, la que satisfaga los cuatro criterios siguientes:
+ARTÍCULO 78.- Además de los temas señalados en las fracciones I a III del artículo 59 del presente ordenamiento, sólo podrá considerarse Información de Interés Nacional para efectos de esta Ley, la que satisfaga los cuatro criterios siguientes:
 
 I. Se trate de los siguientes temas, grupos de datos o indicadores: población y dinámica demográfica; salud; educación; empleo; distribución de ingreso y pobreza; de gobierno, seguridad pública e impartición de justicia; vivienda; sistema de cuentas nacionales; información financiera; precios; trabajo; ciencia y tecnología; telecomunicaciones y radiodifusión; atmósfera; biodiversidad; agua; suelo; flora; fauna; residuos peligrosos y residuos sólidos; marco de referencia geodésico; límites costeros, internacionales, estatales y municipales; datos de relieve continental, insular y submarino; datos catastrales, topográficos, de recursos naturales y clima, y nombres geográficos, o bien se trate de temas que sean aprobados por unanimidad por el Consejo Consultivo Nacional, incluyendo aquéllos que deban conocer los Subsistemas a que se refiere el último párrafo del artículo 17 de este ordenamiento;
 Fracción reformada DOF 14-07-2014, 19-01-2018, 25-06-2018
@@ -757,16 +582,12 @@ III. Sea generada en forma regular y periódica, y
 
 IV. Se elabore con base en una metodología científicamente sustentada.
 Sin perjuicio de lo anterior, también podrá ser considerada como Información de Interés Nacional la que resulte necesaria para prevenir y, en su caso, atender emergencias o catástrofes originadas por desastres naturales, y aquélla que se deba generar en virtud de un compromiso establecido en algún tratado internacional.
-
-### ARTÍCULO 79
-.- Los miembros de la Junta de Gobierno tendrán la responsabilidad de procurar que las relaciones del Instituto con las Unidades del Estado y otros sectores relevantes para el trabajo del propio Instituto, se desarrollen en forma apropiada para conseguir los objetivos del Instituto y del Sistema.
+ARTÍCULO 79.- Los miembros de la Junta de Gobierno tendrán la responsabilidad de procurar que las relaciones del Instituto con las Unidades del Estado y otros sectores relevantes para el trabajo del propio Instituto, se desarrollen en forma apropiada para conseguir los objetivos del Instituto y del Sistema.
 Al efecto, estas tareas se dividirán en los cinco sectores siguientes: de información demográfica y social; de información económica y financiera; de información geográfica y del medio ambiente; de gobierno, seguridad pública e impartición de justicia y de relaciones con los sectores académico, privado e internacional.
 Párrafo reformado DOF 25-06-2018
 
 ## SECCIÓN IV — De las Atribuciones del Presidente del Instituto
-
-### ARTÍCULO 80
-.- Corresponden al Presidente del Instituto las atribuciones siguientes:
+ARTÍCULO 80.- Corresponden al Presidente del Instituto las atribuciones siguientes:
 
 I. Tener a su cargo la administración del Instituto, la representación legal de éste, y el ejercicio de sus funciones, sin perjuicio de las atribuciones que la Ley confiere a la Junta de Gobierno;
 
@@ -781,15 +602,11 @@ V. Aplicar las políticas para la administración de los recursos humanos, finan
 VI. Las demás que resulten de esta Ley y de otras disposiciones legales aplicables.
 Para la mejor organización del trabajo, el Presidente del Instituto podrá, sin perjuicio de su ejercicio directo, delegar sus atribuciones en algún vicepresidente de la Junta de Gobierno o servidor público subalterno. Las atribuciones a que se refieren las fracciones III y IV de este artículo serán indelegables.
 Las ausencias temporales del Presidente del Instituto serán suplidas en los términos señalados por el segundo párrafo del artículo 71 de esta Ley.
-
-### ARTÍCULO 81
-.- El Presidente del Instituto tendrá la facultad de determinar el sector que, de entre los cuatro señalados en el artículo 79 de esta Ley, deberá atender y coordinar cada uno de los vicepresidentes de la Junta de Gobierno como parte de su labor ordinaria y cotidiana dentro del Instituto.
+ARTÍCULO 81.- El Presidente del Instituto tendrá la facultad de determinar el sector que, de entre los cuatro señalados en el artículo 79 de esta Ley, deberá atender y coordinar cada uno de los vicepresidentes de la Junta de Gobierno como parte de su labor ordinaria y cotidiana dentro del Instituto.
 Párrafo reformado DOF 27-01-2017 Al tomar las decisiones a que se refiere el párrafo anterior, el Presidente deberá tener en cuenta los antecedentes laborales y académicos de cada uno de los miembros de la Junta de Gobierno.
 
 ## SECCIÓN V — Del Patrimonio del Instituto
-
-### ARTÍCULO 82
-.- El patrimonio del Instituto se integra con:
+ARTÍCULO 82.- El patrimonio del Instituto se integra con:
 
 I. Los bienes inmuebles o muebles que adquiera para el cumplimiento de su objeto, incluyendo los que la Federación haya destinado para tal fin o para su uso exclusivo;
 
@@ -799,9 +616,7 @@ III. Las donaciones que reciba para el cumplimiento de su objeto, y
 
 IV. Los ingresos que reciba por cualquier otro concepto, incluso los derivados de la aplicación de la presente Ley.
 El Instituto no podrá tener más bienes inmuebles que los estrictamente necesarios para cumplir con su objeto.
-
-### ARTÍCULO 83
-.- De conformidad con lo dispuesto en el artículo 5 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para su tratamiento presupuestario el Instituto se sujetará a lo siguiente:
+ARTÍCULO 83.- De conformidad con lo dispuesto en el artículo 5 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para su tratamiento presupuestario el Instituto se sujetará a lo siguiente:
 
 I. Aprobará su proyecto de presupuesto y deberá enviarlo a la Secretaría de Hacienda y Crédito Público para su integración al proyecto de Presupuesto de Egresos de la Federación, observando los criterios generales de política económica y los techos globales de gasto establecidos por el Ejecutivo Federal;
 
@@ -816,20 +631,14 @@ V. Determinará los ajustes que correspondan en su presupuesto en caso de dismin
 VI. Llevará la contabilidad y elaborará sus informes conforme a lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y deberá enviarlos a la Secretaría de Hacienda y Crédito Público para su integración a los informes trimestrales y a la Cuenta Pública;
 El Presupuesto de Egresos de la Federación del ejercicio fiscal en que deban realizarse los censos nacionales, las cuentas nacionales y los índices nacionales de precios, a que se refiere el artículo 59 de esta Ley, deberá contemplar los recursos suficientes para que el Instituto los lleve a cabo.
 Las Actividades Estadísticas y Geográficas que, en adición a las señaladas en el párrafo anterior, el Instituto determine llevar a cabo en los términos de esta Ley, estarán sujetas a la disponibilidad presupuestaria que, en su caso, se apruebe para tales efectos en el Presupuesto de Egresos de la Federación.
-
-### ARTÍCULO 84
-.- El Instituto incorporará, en los términos de las disposiciones aplicables, como parte de su presupuesto los ingresos derivados de las cuotas por los servicios que preste por concepto de investigación, capacitación, elaboración de estadísticas especiales, estudios específicos o trabajos en materia de geografía, así como los que provengan de la venta de publicaciones, reproducciones y otros servicios. En los casos en que el Instituto preste los servicios señalados en colaboración con otras Unidades, incorporará en su presupuesto los ingresos que le correspondan al Instituto.
-
-### ARTÍCULO 85
-.- Los recursos que las dependencias y entidades de la Administración Pública Federal, el Poder Judicial de la Federación y el Poder Legislativo Federal, así como los órganos constitucionales autónomos, ejerzan para la realización de actividades en materia de estadística y geografía de interés nacional, invariablemente deberán registrarse en las partidas de gasto correspondientes. Cuando las entidades federativas y los municipios reciban recursos federales para los fines descritos, quedarán obligados a identificarlos e informar al Instituto sobre ellos.
+ARTÍCULO 84.- El Instituto incorporará, en los términos de las disposiciones aplicables, como parte de su presupuesto los ingresos derivados de las cuotas por los servicios que preste por concepto de investigación, capacitación, elaboración de estadísticas especiales, estudios específicos o trabajos en materia de geografía, así como los que provengan de la venta de publicaciones, reproducciones y otros servicios. En los casos en que el Instituto preste los servicios señalados en colaboración con otras Unidades, incorporará en su presupuesto los ingresos que le correspondan al Instituto.
+ARTÍCULO 85.- Los recursos que las dependencias y entidades de la Administración Pública Federal, el Poder Judicial de la Federación y el Poder Legislativo Federal, así como los órganos constitucionales autónomos, ejerzan para la realización de actividades en materia de estadística y geografía de interés nacional, invariablemente deberán registrarse en las partidas de gasto correspondientes. Cuando las entidades federativas y los municipios reciban recursos federales para los fines descritos, quedarán obligados a identificarlos e informar al Instituto sobre ellos.
 Las Unidades podrán realizar Actividades Estadísticas y Geográficas, siempre que hayan informado al respecto al Instituto, durante el primer trimestre del ejercicio fiscal, quien analizará si dichas Actividades se apegan a los programas a que se refiere el artículo 9 de esta Ley y emitirá opinión sobre la pertinencia de realizar dichas Actividades y, en su caso, formulará las recomendaciones que estime pertinentes para llevarlas a cabo.
 La Secretaría de Hacienda y Crédito Público tomará medidas para evitar la duplicidad en las Actividades Estadísticas y Geográficas, con el objeto de optimizar la asignación de recursos públicos federales para dichas Actividades.
 Lo previsto en el presente artículo, será aplicable, tratándose de los organismos constitucionales autónomos, sólo a aquellos que reciban recursos del Presupuesto de Egresos de la Federación.
 
 ## SECCIÓN VI — De la Transparencia y Rendición de Cuentas del Instituto
-
-### ARTÍCULO 86
-.- El Instituto deberá presentar en marzo de cada año al Ejecutivo Federal y al Congreso de la Unión:
+ARTÍCULO 86.- El Instituto deberá presentar en marzo de cada año al Ejecutivo Federal y al Congreso de la Unión:
 
 I. Los resultados de la ejecución del Programa Anual de Información Estadística y Geográfica correspondiente al año inmediato anterior;
 
@@ -840,24 +649,14 @@ Cada seis años, el Instituto enviará al Ejecutivo Federal y al Congreso de la 
 Cualquiera de las Cámaras del Congreso de la Unión podrá citar al Presidente para que rinda informes sobre las políticas y actividades del Instituto.
 El Instituto deberá hacer del conocimiento público la información a que se refieren las fracciones anteriores, sujetándose a las disposiciones de carácter general que expida al efecto.
 Lo dispuesto en este artículo se realizará sin perjuicio de los datos e informes que el Instituto deba rendir en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de la Ley de Fiscalización Superior de la Federación y demás disposiciones aplicables.
-
-### ARTÍCULO 87
-.- El Instituto deberá dar a conocer a los Poderes de la Unión y al público en general el calendario anual de publicación aprobado por la Junta de Gobierno, mismo que podrá ser revisado en forma trimestral.
-
-### ARTÍCULO 88
-.- El Instituto deberá definir las metodologías que habrán de utilizarse en la realización de las Actividades Estadísticas y Geográficas, a través de Internet, antes de su implantación, a fin de recibir y, en su caso, atender las observaciones que se formulen al efecto.
+ARTÍCULO 87.- El Instituto deberá dar a conocer a los Poderes de la Unión y al público en general el calendario anual de publicación aprobado por la Junta de Gobierno, mismo que podrá ser revisado en forma trimestral.
+ARTÍCULO 88.- El Instituto deberá definir las metodologías que habrán de utilizarse en la realización de las Actividades Estadísticas y Geográficas, a través de Internet, antes de su implantación, a fin de recibir y, en su caso, atender las observaciones que se formulen al efecto.
 De igual forma, el Instituto deberá dar a conocer y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado en la elaboración de la Información.
 A fin de dar cumplimiento a lo dispuesto en el presente artículo, la Junta de Gobierno deberá expedir los lineamientos generales que habrán de seguirse para publicar dichas metodologías y atender las observaciones que, en su caso, se reciban.
-
-### ARTÍCULO 89
-.- El Instituto invitará, a solicitud de los Comités Ejecutivos, a organismos internacionales a revisar y opinar respecto de las metodologías que se utilicen para generar la Información, incluyendo las que el mismo aplique. El resultado de tales inspecciones deberá incluirse en los informes a los que hace alusión el artículo 86 de esta Ley.
-
-### ARTÍCULO 90
-.- El Instituto deberá hacer del conocimiento público, a través de Internet, los convenios de intercambio de información que celebre con otros organismos o agencias nacionales o extranjeras.
+ARTÍCULO 89.- El Instituto invitará, a solicitud de los Comités Ejecutivos, a organismos internacionales a revisar y opinar respecto de las metodologías que se utilicen para generar la Información, incluyendo las que el mismo aplique. El resultado de tales inspecciones deberá incluirse en los informes a los que hace alusión el artículo 86 de esta Ley.
+ARTÍCULO 90.- El Instituto deberá hacer del conocimiento público, a través de Internet, los convenios de intercambio de información que celebre con otros organismos o agencias nacionales o extranjeras.
 La Junta de Gobierno, previa justificación, podrá determinar excepciones a la divulgación de la información a que se refiere el párrafo anterior.
-
-### ARTÍCULO 91
-.- El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+ARTÍCULO 91.- El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
 En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas.
 El Órgano Interno de Control tendrá las siguientes atribuciones:
@@ -899,21 +698,12 @@ XVII. Presentar a la Junta de Gobierno del Instituto los informes previo y anual
 XVIII. Presentar a la Junta de Gobierno del Instituto los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
 
 XIX. Las demás que le confieran otros ordenamientos.
-Artículo reformado DOF 27-01-2017
-
-### ARTÍCULO 91
-BIS.- El titular del Órgano Interno de Control será designado por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
-Artículo adicionado DOF 27-01-2017
-
-### ARTÍCULO 91
-TER.- El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+Artículo reformado DOF 27-01-2017 ARTÍCULO 91 BIS.- El titular del Órgano Interno de Control será designado por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+Artículo adicionado DOF 27-01-2017 ARTÍCULO 91 TER.- El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del Instituto y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior de la Federación a que se refiere el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
 El titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades al Instituto, del cual marcará copia a la Cámara de Diputados.
 El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
-Artículo adicionado DOF 27-01-2017
-
-### ARTÍCULO 91
-QUÁTER.- El Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+Artículo adicionado DOF 27-01-2017 ARTÍCULO 91 QUÁTER.- El Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
 
@@ -930,60 +720,34 @@ VI. No pertenecer o haber pertenecido en los cuatro años anteriores a su design
 VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
 
 VIII. No haber sido Secretario de Estado, Procurador o Fiscal General de la República o Procurador o Fiscal de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
-Fracción reformada DOF 20-05-2021 Artículo adicionado DOF 27-01-2017
-
-### ARTÍCULO 91
-QUINQUIES.- El Titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad administrativa en términos de la Ley General de Responsabilidades Administrativas; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+Fracción reformada DOF 20-05-2021 Artículo adicionado DOF 27-01-2017 ARTÍCULO 91 QUINQUIES.- El Titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad administrativa en términos de la Ley General de Responsabilidades Administrativas; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
 Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por el Titular del Órgano Interno de Control, o por la persona en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas.
 Artículo adicionado DOF 27-01-2017
 
 ## CAPÍTULO II
-De los Registros Nacionales de Información Estadística y Geográfica a cargo del Instituto
-
-### ARTÍCULO 92
-.- El Instituto deberá establecer, operar y normar el Registro Nacional de Información Geográfica, en el que deberá incluirse por lo menos la información proveniente de los temas geográficos a que se refiere el artículo 26 de esta Ley, así como el Registro Estadístico Nacional, en el que deberá asentarse por lo menos el Registro de Instituciones y Unidades Administrativas con Funciones Estadísticas del Sector Público y el Inventario Nacional de Estadística del Sector Público.
-
-### ARTÍCULO 93
-.- La inscripción que sobre los catastros de los municipios y de las entidades federativas deba hacerse en el Registro Nacional de Información Geográfica, comprenderá la representación cartográfica y la base de datos de los predios rústicos y urbanos de su jurisdicción.
+De los Registros Nacionales de Información Estadística y Geográfica a cargo del Instituto ARTÍCULO 92.- El Instituto deberá establecer, operar y normar el Registro Nacional de Información Geográfica, en el que deberá incluirse por lo menos la información proveniente de los temas geográficos a que se refiere el artículo 26 de esta Ley, así como el Registro Estadístico Nacional, en el que deberá asentarse por lo menos el Registro de Instituciones y Unidades Administrativas con Funciones Estadísticas del Sector Público y el Inventario Nacional de Estadística del Sector Público.
+ARTÍCULO 93.- La inscripción que sobre los catastros de los municipios y de las entidades federativas deba hacerse en el Registro Nacional de Información Geográfica, comprenderá la representación cartográfica y la base de datos de los predios rústicos y urbanos de su jurisdicción.
 En caso de que no se cuente con la cartografía y la base de datos a que se refiere el párrafo anterior, se registrarán los datos que se encuentren en los padrones, croquis y fichas catastrales.
 El Instituto, con la intervención de las autoridades que resulten competentes, podrá efectuar los trabajos cartográficos en cumplimiento de tratados o convenios internacionales y con la participación de los gobiernos de las entidades federativas que corresponda, en la definición y demarcación de límites internacionales, incluyendo la zona económica exclusiva.
-
-### ARTÍCULO 94
-.- El Instituto establecerá, operará y normará el inventario y el directorio señalados en los artículos 20 y 23, respectivamente y podrá establecer, operar y normar otros registros que para fines estadísticos o geográficos estime necesarios.
-
-### ARTÍCULO 95
-.- Las personas físicas con actividades empresariales y las personas morales, sin incluir a las del sector público, estarán obligadas a inscribirse en el Directorio Nacional de Unidades Económicas que lleve el Instituto y a mantener actualizada su inscripción, conforme a las disposiciones que al efecto emita el Instituto.
+ARTÍCULO 94.- El Instituto establecerá, operará y normará el inventario y el directorio señalados en los artículos 20 y 23, respectivamente y podrá establecer, operar y normar otros registros que para fines estadísticos o geográficos estime necesarios.
+ARTÍCULO 95.- Las personas físicas con actividades empresariales y las personas morales, sin incluir a las del sector público, estarán obligadas a inscribirse en el Directorio Nacional de Unidades Económicas que lleve el Instituto y a mantener actualizada su inscripción, conforme a las disposiciones que al efecto emita el Instituto.
 Las Unidades encargadas de los registros administrativos que permitan obtener Información de Interés Nacional, deberán proporcionar al Instituto la información que requiera para la creación y actualización del Directorio Nacional de Unidades Económicas.
 
 ## CAPÍTULO III — Del Acervo de Información
-
-### ARTÍCULO 96
-.- El Instituto deberá conservar la Información de Interés Nacional que elaboren el propio Instituto y las Unidades, en términos de lo dispuesto en esta Ley y en las disposiciones de carácter general que al efecto emita.
+ARTÍCULO 96.- El Instituto deberá conservar la Información de Interés Nacional que elaboren el propio Instituto y las Unidades, en términos de lo dispuesto en esta Ley y en las disposiciones de carácter general que al efecto emita.
 Cuando una Unidad desaparezca o se desincorpore, el Instituto deberá conservar la Información generada por la misma.
-
-### ARTÍCULO 97
-.- El Instituto implementará un sistema de compilación normativa, en el que se conservarán los textos de las normas que en el ejercicio de sus funciones expida.
+ARTÍCULO 97.- El Instituto implementará un sistema de compilación normativa, en el que se conservarán los textos de las normas que en el ejercicio de sus funciones expida.
 
 ## CAPÍTULO IV — Del Servicio Público de Información Estadística y Geográfica
-
-### ARTÍCULO 98
-.- El Servicio Público de Información Estadística y Geográfica consiste en poner a disposición de los usuarios, sujeto a las normas que al efecto dicte la Junta de Gobierno, la totalidad de la Información de Interés Nacional.
-
-### ARTÍCULO 99
-.- El Servicio Público de Información Estadística y Geográfica será prestado en forma exclusiva por el Instituto. Lo anterior, sin perjuicio de que las propias Unidades den a conocer la Información que generen identificándola como parte del Sistema.
+ARTÍCULO 98.- El Servicio Público de Información Estadística y Geográfica consiste en poner a disposición de los usuarios, sujeto a las normas que al efecto dicte la Junta de Gobierno, la totalidad de la Información de Interés Nacional.
+ARTÍCULO 99.- El Servicio Público de Información Estadística y Geográfica será prestado en forma exclusiva por el Instituto. Lo anterior, sin perjuicio de que las propias Unidades den a conocer la Información que generen identificándola como parte del Sistema.
 El Instituto podrá autorizar que otras instancias de gobierno o particulares, presten el Servicio Público de Información Estadística y Geográfica, conforme a las reglas que al efecto expida la Junta de Gobierno.
 El Instituto pondrá la Información de Interés Nacional a disposición de los usuarios a través de Internet, así como en los centros de consulta que al efecto establezca el propio Instituto en el territorio nacional.
 Las consultas que realicen los usuarios a través de los medios previstos en el párrafo inmediato anterior, serán ofrecidas por el Instituto en forma gratuita.
 El Instituto pondrá a disposición de los usuarios información de la red geodésica nacional, con el objeto de que sus estudios geográficos estén vinculados con la red mencionada.
-
-### ARTÍCULO 100
-.- El Instituto, siguiendo las mejores prácticas internacionales, pondrá a disposición de quien lo solicite, los microdatos de las encuestas nacionales y muestras representativas de los operativos censales que realice con la mayor desagregación posible, sin violar la confidencialidad y reserva de la información básica establecidas en la presente Ley. La Junta de Gobierno deberá establecer los procedimientos y condiciones para facilitar el acceso a dicha información de manera expedita.
-
-### ARTÍCULO 101
-.- Cuando a petición de algún usuario se requiera al Instituto copia, copia certificada o cualquier clase de impresión o respaldo de la Información de Interés Nacional, ésta se entregará al usuario en los términos que fijen las disposiciones correspondientes y previa recepción del pago de los derechos que para estos casos establezca la Ley Federal de Derechos.
-
-### ARTÍCULO 102
-.- El Instituto no estará obligado a proporcionar aquella información que:
+ARTÍCULO 100.- El Instituto, siguiendo las mejores prácticas internacionales, pondrá a disposición de quien lo solicite, los microdatos de las encuestas nacionales y muestras representativas de los operativos censales que realice con la mayor desagregación posible, sin violar la confidencialidad y reserva de la información básica establecidas en la presente Ley. La Junta de Gobierno deberá establecer los procedimientos y condiciones para facilitar el acceso a dicha información de manera expedita.
+ARTÍCULO 101.- Cuando a petición de algún usuario se requiera al Instituto copia, copia certificada o cualquier clase de impresión o respaldo de la Información de Interés Nacional, ésta se entregará al usuario en los términos que fijen las disposiciones correspondientes y previa recepción del pago de los derechos que para estos casos establezca la Ley Federal de Derechos.
+ARTÍCULO 102.- El Instituto no estará obligado a proporcionar aquella información que:
 
 I. Tenga en virtud de cualquier disposición legal el carácter de confidencial, clasificada, reservada o de cualquier otra forma se encuentre restringida su difusión, o
 
@@ -992,9 +756,7 @@ II. El usuario la requiera procesada en cualquier forma distinta a como se encue
 ## TÍTULO CUARTO — DE LAS FALTAS ADMINISTRATIVAS Y DE LAS SANCIONES
 
 ## CAPÍTULO I — De las Faltas Administrativas
-
-### ARTÍCULO 103
-.- Cometen infracciones a lo dispuesto por esta Ley, quienes en calidad de Informantes del Sistema:
+ARTÍCULO 103.- Cometen infracciones a lo dispuesto por esta Ley, quienes en calidad de Informantes del Sistema:
 
 I. Se nieguen a proporcionar datos, informes o a exhibir documentos cuando deban hacerlo, dentro del plazo que se les hubiere señalado;
 
@@ -1007,9 +769,7 @@ IV. Se opongan a las inspecciones de verificación que en cumplimiento de las di
 V. Utilicen indebidamente las denominaciones censo nacional o cuentas nacionales.
 También cometen infracción a la presente Ley quienes se nieguen a desempeñar funciones censales.
 Los actos u omisiones en que incurran las personas morales que impidan el desarrollo normal de los levantamientos censales o de los procesos de generación de Información, también serán considerados infracciones a la presente Ley.
-
-### ARTÍCULO 104
-.- Son infracciones imputables a los servidores públicos del Instituto o a los servidores públicos de las Unidades las siguientes:
+ARTÍCULO 104.- Son infracciones imputables a los servidores públicos del Instituto o a los servidores públicos de las Unidades las siguientes:
 
 I. La revelación de datos confidenciales;
 
@@ -1022,9 +782,7 @@ IV. La participación deliberada en cualquier acto u omisión que entorpezca el 
 V. Impedir, sin justificación, el libre ejercicio de los derechos de acceso y rectificación de datos, cuando estuvieren a cargo de los registros administrativos establecidos por Ley, y
 
 VI. Impedir el acceso del público a la Información a que tenga derecho.
-
-### ARTÍCULO 105
-.- Se reputarán infracciones de los recolectores o censores y auxiliares, cuando:
+ARTÍCULO 105.- Se reputarán infracciones de los recolectores o censores y auxiliares, cuando:
 
 I. Se nieguen a cumplir con las funciones que les sean encomendadas;
 
@@ -1034,9 +792,7 @@ III. Cometan actos o incurran en omisiones que impidan el desarrollo normal de l
 Para los efectos de este Título, serán considerados como recolectores o censores, las personas a las que el Instituto encomiende labores propias de recolección y recopilación de Información en forma periódica o durante el levantamiento censal, y como auxiliares, a quienes desempeñen cualquier otra actividad relacionada con el proceso de elaboración de la estadística y la obtención de datos de carácter geográfico.
 
 ## CAPÍTULO II — De las Sanciones
-
-### ARTÍCULO 106
-.- Las infracciones a lo dispuesto por el artículo 103 de esta Ley, serán sancionadas con multa de:
+ARTÍCULO 106.- Las infracciones a lo dispuesto por el artículo 103 de esta Ley, serán sancionadas con multa de:
 
 I. Para las establecidas en las fracciones I, II y IV, de 5 hasta 500 salarios.
 Cuando se trate de censos económicos o encuestas en establecimientos, la multa será de 3,000 hasta 30,000 salarios;
@@ -1052,54 +808,34 @@ Párrafo adicionado DOF 14-07-2014
 
 IV. Para la establecida en el penúltimo párrafo, de 5 a 100 salarios.
 Cuando los Informantes del Sistema tengan el carácter de concesionarios o autorizados de telecomunicaciones o de radiodifusión, la multa será de 1,000 hasta 10,000 salarios.
-Párrafo adicionado DOF 14-07-2014
-
-### ARTÍCULO 107
-.- Las infracciones a lo dispuesto por el artículo 104 de esta Ley, tratándose de servidores públicos de las Unidades, serán sancionadas con multa de:
+Párrafo adicionado DOF 14-07-2014 ARTÍCULO 107.- Las infracciones a lo dispuesto por el artículo 104 de esta Ley, tratándose de servidores públicos de las Unidades, serán sancionadas con multa de:
 
 I. Para las establecidas en las fracciones I, II y III, de 500 hasta 10,000 salarios;
 
 II. Para la establecida en la fracción IV, de 200 hasta 500 salarios, y
 
 III. Para las establecidas en las fracciones V y VI, de 500 hasta 1,000 salarios.
-
-### ARTÍCULO 108
-.- Las infracciones a lo dispuesto por el artículo 104 de esta Ley, tratándose de servidores públicos del Instituto, serán sancionadas con multa de:
+ARTÍCULO 108.- Las infracciones a lo dispuesto por el artículo 104 de esta Ley, tratándose de servidores públicos del Instituto, serán sancionadas con multa de:
 
 I. Para las establecidas en las fracciones I, II y III, de 2,000 hasta 30,000 salarios;
 
 II. Para la establecida en la fracción IV, de 400 hasta 1,000 salarios, y
 
 III. Para las establecidas en las fracciones V y VI, de 1,000 hasta 2,000 salarios.
-
-### ARTÍCULO 109
-.- Las infracciones a lo dispuesto por el artículo 105 de esta Ley, serán sancionadas con multa de:
+ARTÍCULO 109.- Las infracciones a lo dispuesto por el artículo 105 de esta Ley, serán sancionadas con multa de:
 
 I. Para la establecida en la fracción I, de 100 hasta 500 salarios, y
 
 II. Para las establecidas en las fracciones II y III, de 500 hasta 1,000 salarios.
-
-### ARTÍCULO 110
-.- Para los efectos de este Capítulo, por salario se entiende el salario mínimo general diario vigente en el Distrito Federal, al momento de cometerse la infracción.
-
-### ARTÍCULO 111
-.- Para la imposición de las sanciones, el Instituto tomará en cuenta la gravedad de la infracción, las condiciones del infractor y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
+ARTÍCULO 110.- Para los efectos de este Capítulo, por salario se entiende el salario mínimo general diario vigente en el Distrito Federal, al momento de cometerse la infracción.
+ARTÍCULO 111.- Para la imposición de las sanciones, el Instituto tomará en cuenta la gravedad de la infracción, las condiciones del infractor y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
 Estas multas las determinará el Instituto y serán ejecutadas por el Servicio de Administración Tributaria, a través de los procedimientos y disposiciones aplicables por dicho órgano.
-Párrafo adicionado DOF 14-07-2014
-
-### ARTÍCULO 112
-.- Las sanciones en materia de responsabilidad administrativa de los servidores públicos previstas en esta Ley, serán aplicadas por la autoridad competente para sustanciar el procedimiento respectivo de conformidad con las leyes especiales y las disposiciones aplicables, sin perjuicio de otras responsabilidades que resulten. Cuando el Instituto tenga conocimiento de alguna infracción a la Ley, lo deberá hacer del conocimiento de la autoridad que corresponda.
+Párrafo adicionado DOF 14-07-2014 ARTÍCULO 112.- Las sanciones en materia de responsabilidad administrativa de los servidores públicos previstas en esta Ley, serán aplicadas por la autoridad competente para sustanciar el procedimiento respectivo de conformidad con las leyes especiales y las disposiciones aplicables, sin perjuicio de otras responsabilidades que resulten. Cuando el Instituto tenga conocimiento de alguna infracción a la Ley, lo deberá hacer del conocimiento de la autoridad que corresponda.
 
 ## TÍTULO QUINTO — DEL RECURSO DE REVISIÓN
-
-### ARTÍCULO 113
-.- En contra de los actos o resoluciones que dicte el Instituto, el interesado podrá interponer ante éste, el recurso de revisión o, cuando proceda, intentar la vía jurisdiccional que corresponda.
-
-### ARTÍCULO 114
-.- El plazo para interponer el recurso de revisión, será de quince días contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución o se tenga conocimiento del acto que se recurra.
-
-### ARTÍCULO 115
-.- El escrito de interposición del recurso de revisión deberá presentarse ante el propio Instituto y será resuelto por el superior jerárquico del servidor público que haya emitido la resolución impugnada o haya realizado el acto impugnado, salvo que se trate de resoluciones o actos del Presidente del Instituto, en cuyo caso será resuelto por la Junta de Gobierno. Dicho escrito deberá expresar:
+ARTÍCULO 113.- En contra de los actos o resoluciones que dicte el Instituto, el interesado podrá interponer ante éste, el recurso de revisión o, cuando proceda, intentar la vía jurisdiccional que corresponda.
+ARTÍCULO 114.- El plazo para interponer el recurso de revisión, será de quince días contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución o se tenga conocimiento del acto que se recurra.
+ARTÍCULO 115.- El escrito de interposición del recurso de revisión deberá presentarse ante el propio Instituto y será resuelto por el superior jerárquico del servidor público que haya emitido la resolución impugnada o haya realizado el acto impugnado, salvo que se trate de resoluciones o actos del Presidente del Instituto, en cuyo caso será resuelto por la Junta de Gobierno. Dicho escrito deberá expresar:
 
 I. El nombre del recurrente, y del tercero perjudicado si lo hubiere, así como el lugar que señale para efectos de notificaciones;
 
@@ -1109,9 +845,7 @@ III. Los agravios que se causan al recurrente, y
 
 IV. Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto de que se trate.
 El escrito de interposición del recurso a que se refiere este artículo, deberá ser acompañado del documento que acredite la personalidad del promovente cuando actúe en nombre de otro o de personas morales, de una copia de la resolución o acto que se impugna y, en su caso, de la notificación correspondiente, así como de la documentación que ofrezca como prueba. Tratándose de solicitudes que por no haberse resuelto en tiempo se entiendan negadas, deberá acompañarse el escrito de iniciación del procedimiento, o el documento sobre el cual no hubiere recaído resolución alguna.
-
-### ARTÍCULO 116
-.- La interposición del recurso de revisión suspenderá la ejecución de la resolución o del acto impugnado, siempre y cuando:
+ARTÍCULO 116.- La interposición del recurso de revisión suspenderá la ejecución de la resolución o del acto impugnado, siempre y cuando:
 
 I. Lo solicite expresamente el recurrente;
 
@@ -1121,18 +855,14 @@ III. No se siga perjuicio al interés social, y
 
 IV. Tratándose de multas, el recurrente garantice el crédito fiscal en cualquiera de las formas previstas en el Código Fiscal de la Federación.
 El Instituto deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días siguientes al de la interposición del recurso de revisión.
-
-### ARTÍCULO 117
-.- El recurso de revisión se tendrá por no interpuesto y se desechará cuando:
+ARTÍCULO 117.- El recurso de revisión se tendrá por no interpuesto y se desechará cuando:
 
 I. Se presente fuera de plazo;
 
 II. No se acredite la personalidad del recurrente, y
 
 III. No aparezca suscrito por quien deba hacerlo, a menos que se firme antes del vencimiento del plazo para interponerlo.
-
-### ARTÍCULO 118
-.- Se desechará por improcedente el recurso de revisión cuando éste se interponga contra actos o resoluciones:
+ARTÍCULO 118.- Se desechará por improcedente el recurso de revisión cuando éste se interponga contra actos o resoluciones:
 
 I. Que sean materia de otro recurso o medio de defensa que se encuentre pendiente de resolución, presentado por el mismo promovente y por el mismo acto o resolución impugnado;
 
@@ -1141,9 +871,7 @@ II. Que no afecten los intereses jurídicos del promovente;
 III. Consumados de un modo irreparable, y
 
 IV. Consentidos expresamente.
-
-### ARTÍCULO 119
-.- Será sobreseído el recurso cuando:
+ARTÍCULO 119.- Será sobreseído el recurso cuando:
 
 I. El promovente se desista expresamente del recurso;
 
@@ -1152,9 +880,7 @@ II. El agraviado fallezca durante el procedimiento, si el acto respectivo sólo 
 III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior, y
 
 IV. Cuando hayan cesado los efectos del acto respectivo.
-
-### ARTÍCULO 120
-.- La autoridad encargada de resolver el recurso de revisión podrá:
+ARTÍCULO 120.- La autoridad encargada de resolver el recurso de revisión podrá:
 
 I. Desecharlo por improcedente o sobreseerlo;
 
@@ -1163,29 +889,17 @@ II. Confirmar el acto impugnado;
 III. Declarar la inexistencia del acto impugnado o revocarlo total o parcialmente, y
 
 IV. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
-
-### ARTÍCULO 121
-.- La resolución del recurso de revisión se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
+ARTÍCULO 121.- La resolución del recurso de revisión se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
 La autoridad, en beneficio del recurrente, podrá examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
 Igualmente, la autoridad deberá dejar sin efectos legales los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance en la resolución.
 Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses.
-
-### ARTÍCULO 122
-.- No se podrán revocar o modificar los actos o resoluciones administrativos en la parte no impugnada por el recurrente.
+ARTÍCULO 122.- No se podrán revocar o modificar los actos o resoluciones administrativos en la parte no impugnada por el recurrente.
 La resolución expresará con claridad los actos que se modifiquen y si la modificación es parcial, se precisará ésta.
-
-### ARTÍCULO 123
-.- El recurrente podrá esperar la resolución expresa o impugnar, en un plazo de cuatro meses contados a partir de la presentación del recurso, la presunta confirmación del acto impugnado.
-
-### ARTÍCULO 124
-.- La autoridad ante la cual se tramite el recurso podrá dejar sin efectos un requerimiento o una sanción, de oficio o a petición de parte interesada, cuando se trate de un error manifiesto o el particular demuestre que ya había dado cumplimiento con anterioridad.
-
-### ARTÍCULO 125
-.- Cuando haya de tenerse en cuenta nuevos hechos o documentos que no obren en el expediente original derivado del acto impugnado, se pondrá de manifiesto a los interesados para que, en un plazo no inferior a cinco días ni superior a diez, formulen sus alegatos y presenten los documentos que estimen procedentes.
+ARTÍCULO 123.- El recurrente podrá esperar la resolución expresa o impugnar, en un plazo de cuatro meses contados a partir de la presentación del recurso, la presunta confirmación del acto impugnado.
+ARTÍCULO 124.- La autoridad ante la cual se tramite el recurso podrá dejar sin efectos un requerimiento o una sanción, de oficio o a petición de parte interesada, cuando se trate de un error manifiesto o el particular demuestre que ya había dado cumplimiento con anterioridad.
+ARTÍCULO 125.- Cuando haya de tenerse en cuenta nuevos hechos o documentos que no obren en el expediente original derivado del acto impugnado, se pondrá de manifiesto a los interesados para que, en un plazo no inferior a cinco días ni superior a diez, formulen sus alegatos y presenten los documentos que estimen procedentes.
 No se tomarán en cuenta en la resolución del recurso de revisión, hechos, documentos o alegatos del recurrente, cuando habiendo podido aportarlos durante el procedimiento administrativo no lo haya hecho.
-
-### ARTÍCULO 126
-.- A lo dispuesto por el presente Capítulo se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
+ARTÍCULO 126.- A lo dispuesto por el presente Capítulo se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
 Artículo reformado DOF 14-11-2025
 
 ## TRANSITORIOS
@@ -1246,10 +960,7 @@ ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expiden la 
 Publicado en el Diario Oficial de la Federación el 14 de julio de 2014
 
 ### ARTÍCULO SEXTO
-Se reforman la fracción VII y el segundo párrafo del artículo 14; la fracción II del
-
-### artículo 29
-; la fracción I del artículo 78; y se adicionan un tercer párrafo a la fracción I y un segundo párrafo a las fracciones II, III y IV del artículo 106; y un segundo párrafo al artículo 111 de la Ley del Sistema Nacional de Información Estadística y Geográfica, para quedar como sigue: ………
+Se reforman la fracción VII y el segundo párrafo del artículo 14; la fracción II del artículo 29; la fracción I del artículo 78; y se adicionan un tercer párrafo a la fracción I y un segundo párrafo a las fracciones II, III y IV del artículo 106; y un segundo párrafo al artículo 111 de la Ley del Sistema Nacional de Información Estadística y Geográfica, para quedar como sigue: ………
 
 ## TRANSITORIOS
 
@@ -1287,9 +998,7 @@ III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que 
 IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
 Lo dispuesto en este artículo también será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única.
 No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del
-
-### artículo Octavo
-Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+**artículo Octavo.** Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 **DÉCIMO PRIMERO.** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
 
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, deberán cumplir con lo previsto en los lineamientos del Instituto Federal de Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013;
@@ -1341,9 +1050,7 @@ En caso de no cumplir con el presente artículo, los permisos concluirán su vig
 **DÉCIMO OCTAVO.** El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
 **DÉCIMO NOVENO.** La transición digital terrestre culminará el 31 de diciembre de 2015.
 El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transportes, implementará los programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del
-
-### artículo Quinto
-transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**artículo Quinto.** transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 El Instituto Federal de Telecomunicaciones deberá concluir la transmisión de señales analógicas de televisión radiodifundida en todo el país, a más tardar el 31 de diciembre de 2015, una vez que se alcance un nivel de penetración del noventa por ciento de hogares de escasos recursos definidos por la Secretaría de Desarrollo Social, con receptores o decodificadores aptos para recibir señales digitales de televisión radiodifundida.
 Para lo anterior, el Instituto Federal de Telecomunicaciones deberá concluir las señales analógicas de televisión radiodifundida anticipadamente al 31 de diciembre de 2015, por área de cobertura de dichas señales, una vez que se alcance, en el área que corresponda, el nivel de penetración referido en el párrafo que antecede.
 La Secretaría de Comunicaciones y Transportes y el Instituto Federal de Telecomunicaciones realizarán campañas de difusión para la entrega o distribución de equipos y para la conclusión de la transmisión de señales analógicas de televisión, respectivamente.
@@ -1352,9 +1059,7 @@ Aquellos permisionarios o concesionarios de uso público o social, incluyendo la
 Párrafo adicionado DOF 18-12-2015 En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
 Párrafo reformado DOF 18-12-2015 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
 **VIGÉSIMO.** El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del
-
-### artículo Octavo
-Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**artículo Octavo.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 Para efectos de lo dispuesto en el inciso b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, y hasta en tanto los concesionarios a que se refiere ese inciso no acuerden las tarifas de interconexión correspondientes o, en su caso, el Instituto no resuelva cualquier disputa respecto de dichas tarifas, seguirán en vigor las que actualmente aplican, salvo tratándose del agente económico al que se refiere le párrafo segundo del artículo 131 de la Ley en cita, al que le será aplicable el inciso a) del mismo artículo.
 **VIGÉSIMO PRIMERO.** Para la atención, promoción y supervisión de los derechos de los usuarios Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
 **VIGÉSIMO SEGUNDO.** El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
@@ -1430,10 +1135,7 @@ Lo anterior, con excepción de aquellos titulares de los órganos internos de co
 **Sexto.** Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 **Séptimo.** El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
 Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
-
-### Artículo 5o
-. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
+DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Segundo
@@ -1472,10 +1174,7 @@ DECRETO por el que se expide la Ley de la Fiscalía General de la República, se
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 ### Artículo Vigésimo Noveno
-Se reforma el inciso a) de la fracción XV del artículo 2; la fracción IV del
-
-### artículo 29
-, y la fracción VIII del artículo 91 Quáter, de la Ley del Sistema Nacional de Información Estadística y Geográfica, para quedar como sigue: ……..
+Se reforma el inciso a) de la fracción XV del artículo 2; la fracción IV del artículo 29, y la fracción VIII del artículo 91 Quáter, de la Ley del Sistema Nacional de Información Estadística y Geográfica, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -1539,7 +1238,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

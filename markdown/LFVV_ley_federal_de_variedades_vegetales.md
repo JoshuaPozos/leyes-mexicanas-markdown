@@ -303,10 +303,7 @@ En tanto el Ejecutivo Federal expida el reglamento de la presente ley, se aplica
 Se derogan los artículos 12 de la Ley Sobre Producción, Certificación y Comercio de Semillas, y Quinto Transitorio del Decreto por el que se Reforman, Adicionan y Derogan Diversas Disposiciones de la Ley de Fomento y Protección de la Propiedad Industrial, publicado en el Diario Oficial de la Federación el 2 de agosto de 1994, así como todas las demás disposiciones administrativas que se opongan a la presente ley.
 
 ### ARTÍCULO CUARTO
-Las variedades vegetales que hayan sido inscritas en el Registro Nacional de Variedades de Plantas al que se refiere la Ley Sobre Producción, Certificación y Comercio de Semillas, serán susceptibles de otorgamiento de título de obtentor, previo cumplimiento de las condiciones previstas en esta ley. La duración de la protección de los derechos será conforme a lo establecido en el
-
-### artículo 4o
-. de esta ley, tomando en cuenta la fecha en que fue asignado el número de registro en el Registro Nacional de Variedades de Plantas. Los derechos adquiridos por dicha asignación serán respetados íntegramente.
+Las variedades vegetales que hayan sido inscritas en el Registro Nacional de Variedades de Plantas al que se refiere la Ley Sobre Producción, Certificación y Comercio de Semillas, serán susceptibles de otorgamiento de título de obtentor, previo cumplimiento de las condiciones previstas en esta ley. La duración de la protección de los derechos será conforme a lo establecido en el artículo 4o. de esta ley, tomando en cuenta la fecha en que fue asignado el número de registro en el Registro Nacional de Variedades de Plantas. Los derechos adquiridos por dicha asignación serán respetados íntegramente.
 
 ### ARTÍCULO QUINTO
 El Instituto Mexicano de la Propiedad Industrial remitirá a la Secretaría, dentro de los seis meses de la entrada en vigor de la presente ley, las solicitudes de los obtentores de variedades vegetales en todos los géneros y especies, que le hayan sido presentadas con anterioridad a la entrada en vigor de este ordenamiento, de conformidad con lo establecido en el artículo Quinto

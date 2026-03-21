@@ -154,10 +154,7 @@ DECRETO por el que se reforma la fracción IV del artículo 7o y se adicionan la
 Publicado en el Diario Oficial de la Federación el 18 de enero de 2012
 
 ### ARTÍCULO ÚNICO
-Se reforma la fracción IV del artículo 7o y se adicionan las fracciones V al
-
-### artículo 7o
-. y X al artículo 37 de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, para quedar como sigue: ……….
+Se reforma la fracción IV del artículo 7o y se adicionan las fracciones V al artículo 7o. y X al artículo 37 de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, para quedar como sigue: ……….
 
 ## TRANSITORIO
 

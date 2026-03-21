@@ -75,10 +75,7 @@ III.- Habrá igualdad esencial en derechos y obligaciones de sus socios e iguald
 IV. Tendrán duración indefinida;
 Fracción reformada DOF 16-04-2025
 
-V. Se integrarán con un mínimo de cinco Socios, con excepción de aquellas a que se refiere el
-
-### Artículo 33
-Bis de esta Ley;
+V. Se integrarán con un mínimo de cinco Socios, con excepción de aquellas a que se refiere el Artículo 33 Bis de esta Ley;
 Fracción reformada DOF 13-08-2009, 16-04-2025
 
 VI. No podrá rechazarse la integración de socios por razón de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otro criterio que pueda dar lugar a un acto discriminatorio, y Fracción adicionada DOF 16-04-2025
@@ -711,10 +708,7 @@ Bis 10.- El Consejo Directivo de las Federaciones y la Confederación, según co
 El Consejo Directivo de las Federaciones y de la Confederación estará integrado por no menos de cinco personas ni más de quince, quienes serán nombrados y en su caso, removidos por la Asamblea General del respectivo organismo cooperativo, debiendo cumplir al menos con los requisitos que para ser consejero de una Sociedad Cooperativa de Ahorro y Préstamo, señala el Artículo 43 Bis de esta Ley.
 Los consejeros de las Federaciones y de la Confederación fungirán por un periodo máximo de hasta cinco años con posibilidad de una sola reelección cuando lo apruebe por lo menos las dos terceras partes de la respectiva Asamblea General. Para garantizar la continuidad en los procesos de toma de decisiones del Consejo Directivo, en las bases constitutivas de las Federaciones y de la Confederación, se deberá establecer un sistema de renovación cíclica y parcial de sus consejeros.
 Para ser consejero de las Federaciones y de la Confederación será indispensable contar con una antigüedad mínima de un año como Socio de una Cooperativa.
-El Consejo Directivo de las Federaciones y de la Confederación se integrará y funcionará de acuerdo a lo establecido en las propias bases constitutivas de cada organismo, sujetándose a lo señalado en el
-
-### Artículo 43
-Bis 1 de la presente Ley.
+El Consejo Directivo de las Federaciones y de la Confederación se integrará y funcionará de acuerdo a lo establecido en las propias bases constitutivas de cada organismo, sujetándose a lo señalado en el Artículo 43 Bis 1 de la presente Ley.
 Dichos consejos tendrán la representación de sus respectivos organismos cooperativos, así como, las facultades que determinen sus bases constitutivas, entre las cuales deberán considerarse al menos las siguientes:
 
 I. Designar un director o gerente general;
@@ -730,10 +724,7 @@ Bis 11.- El Consejo de Vigilancia de las Federaciones y la Confederación, segú
 El Consejo de Vigilancia de las Federaciones y la Confederación estará integrado por no menos de tres personas ni más de cinco, quienes serán nombrados y en su caso, removidos por la Asamblea General del respectivo organismo cooperativo, debiendo cumplir al menos con los requisitos que para ser consejero de una Sociedad Cooperativa de Ahorro y Préstamo, señala el Artículo 43 Bis de esta Ley.
 Los miembros del Consejo de Vigilancia de las Federaciones y la Confederación fungirán por un periodo máximo de hasta cinco años con posibilidad de una sola reelección cuando lo apruebe por lo menos las dos terceras partes de la respectiva Asamblea General; para garantizar la continuidad en los procesos de toma de decisiones del Consejo de Vigilancia, en las bases constitutivas de las Federaciones y la Confederación, se deberá establecer un sistema de renovación cíclica y parcial de sus consejeros.
 Para ser miembro del Consejo de Vigilancia será indispensable contar con una antigüedad mínima de un año como Socio de una Cooperativa.
-El Consejo de Vigilancia de las Federaciones y la Confederación se integrará y funcionará de acuerdo a lo establecido en las propias bases constitutivas de cada organismo, sujetándose a lo señalado en el
-
-### Artículo 46
-Bis de la presente Ley.
+El Consejo de Vigilancia de las Federaciones y la Confederación se integrará y funcionará de acuerdo a lo establecido en las propias bases constitutivas de cada organismo, sujetándose a lo señalado en el Artículo 46 Bis de la presente Ley.
 Artículo adicionado DOF 13-08-2009
 
 ### Artículo 78
@@ -884,10 +875,8 @@ DECRETO por el que se expide la Ley para Regular las Actividades de las Sociedad
 Publicado en el Diario Oficial de la Federación el 13 de agosto de 2009
 
 ### ARTÍCULO TERCERO
-Se REFORMAN el Artículo 1o; fracción V del Artículo 11, primer párrafo del
-
-### Artículo 33
-; fracción IV del Artículo 34; segundo y tercer párrafos del Artículo 74; y se ADICIONAN un segundo párrafo al Artículo 33; Artículos 33 Bis; 33 Bis 1; 33 Bis 2; 33 Bis 3; fracción IV al Artículo 34; un tercer párrafo al Artículo 36; el Artículo 40 Bis; segundo y tercer párrafos al Artículo 42; un cuarto párrafo al Artículo 43; el Artículo 43 Bis; 43 Bis 1; 45 Bis; 46 Bis; 46 Bis 1; 46 Bis 2; 46 Bis 3; 55 Bis; 65 Bis;
+Se REFORMAN el Artículo 1o; fracción V del Artículo 11, primer párrafo del Artículo 33; fracción IV del Artículo 34; segundo y tercer párrafos del Artículo 74; y se ADICIONAN un
+**segundo.** párrafo al Artículo 33; Artículos 33 Bis; 33 Bis 1; 33 Bis 2; 33 Bis 3; fracción IV al Artículo 34; un tercer párrafo al Artículo 36; el Artículo 40 Bis; segundo y tercer párrafos al Artículo 42; un cuarto párrafo al Artículo 43; el Artículo 43 Bis; 43 Bis 1; 45 Bis; 46 Bis; 46 Bis 1; 46 Bis 2; 46 Bis 3; 55 Bis; 65 Bis;
 Artículos 78 Bis a 78 Bis 13; así como las Secciones I y II al Capítulo I del Título III, que comprenderán los Artículos 74 a 78 y 78 Bis a 78 Bis 13, respectivamente; todos ellos de la Ley General de Sociedades Cooperativas, para quedar como sigue: ……….
 
 ## TRANSITORIO
@@ -907,10 +896,7 @@ DEL DECRETO
 **SEXTO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 30 de abril de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. Margarita Arenas Guzman, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
-DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
-
-### Artículo 5o
-. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
+DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Vigésimo
@@ -932,29 +918,26 @@ Se reforman los artículos 12; 13 y 17 y se adicionan una fracción III al artí
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **Segundo.-** Se abroga la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, publicada en el Diario Oficial de la Federación el 4 de enero de 2000 y sus modificaciones posteriores.
 **Tercero.-** Las disposiciones relativas a la Plataforma Digital de Contrataciones Públicas entrarán en vigor en la fecha de inicio de operación de cada uno de los módulos que la integran conforme a los avisos que dé a conocer la Secretaría Anticorrupción y Buen Gobierno en el Diario Oficial de la Federación.
-Los módulos de la Plataforma Digital de Contrataciones Públicas necesarios para realizar los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios previstos en el
-
-### artículo 81
-de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán estar en completa operación dentro de los dieciocho meses siguientes a la entrada en vigor del presente ordenamiento. La Plataforma Digital de Contrataciones Públicas deberá iniciar operaciones en su totalidad en un plazo no mayor a treinta meses, contados a partir de la fecha de entrada en vigor de la presente Ley.
+Los módulos de la Plataforma Digital de Contrataciones Públicas necesarios para realizar los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios previstos en el artículo 81 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán estar en completa operación dentro de los dieciocho meses siguientes a la entrada en vigor del presente ordenamiento. La Plataforma Digital de Contrataciones Públicas deberá iniciar operaciones en su totalidad en un plazo no mayor a treinta meses, contados a partir de la fecha de entrada en vigor de la presente Ley.
 En tanto entran en vigor las disposiciones a que se refiere el párrafo anterior seguirán aplicando en lo conducente las relativas al Sistema Electrónico de Información Pública Gubernamental denominado CompraNet.
 En tanto entra en operación la Plataforma Digital de Contrataciones Públicas, la difusión y el comunicado de los acuerdos marco, la solicitud de cotización de la adjudicación directa con negociación, así como el anuncio del diálogo competitivo, se publicarán en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet.
-Cuarto.- El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público en un plazo no mayor de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, a fin de adecuarlo al contenido del mismo. Hasta en tanto eso suceda, se continuará aplicando el Reglamento vigente en lo que no se opongan al presente instrumento.
-Quinto.- Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor de la presente Ley, continuarán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
-Sexto.- Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
-Séptimo.- Las infracciones que hayan sido cometidas con anterioridad a la entrada en vigor de la presente Ley, serán sancionadas de conformidad con la legislación vigente al momento de su comisión.
-Octavo.- A partir de la fecha de entrada en vigor del presente Decreto, todas las referencias en los demás ordenamientos jurídicos que se hagan a los contratos marco, deberán entenderse hechas a los acuerdos marco.
-Noveno.- Los lineamientos y disposiciones a que hace referencia la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a doce meses, contados a partir de la entrada en vigor del presente Decreto.
+**Cuarto.-** El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público en un plazo no mayor de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, a fin de adecuarlo al contenido del mismo. Hasta en tanto eso suceda, se continuará aplicando el Reglamento vigente en lo que no se opongan al presente instrumento.
+**Quinto.-** Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor de la presente Ley, continuarán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+**Sexto.-** Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+**Séptimo.-** Las infracciones que hayan sido cometidas con anterioridad a la entrada en vigor de la presente Ley, serán sancionadas de conformidad con la legislación vigente al momento de su comisión.
+**Octavo.-** A partir de la fecha de entrada en vigor del presente Decreto, todas las referencias en los demás ordenamientos jurídicos que se hagan a los contratos marco, deberán entenderse hechas a los acuerdos marco.
+**Noveno.-** Los lineamientos y disposiciones a que hace referencia la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a doce meses, contados a partir de la entrada en vigor del presente Decreto.
 Las políticas, bases y lineamientos a que hace referencia el artículo 4 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a ocho meses contados a partir de la entrada en vigor del presente Decreto. En tanto no se emitan dichas políticas, bases y lineamientos, las dependencias y entidades continuarán utilizando las disposiciones vigentes.
-Décimo.- La instalación del Comité de Contrataciones Estratégicas deberá llevarse a cabo a más tardar en los treinta días hábiles posteriores a la publicación de la presente Ley, asimismo la lista de bienes y servicios a contratar de manera consolidada para el ejercicio fiscal 2025, deberá ser aprobada por dicho órgano colegiado en un plazo no mayor a sesenta días hábiles a partir de su instalación.
-Décimo Primero.- El Instituto Nacional de la Economía Social deberá implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, a más tardar, a los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
-Décimo Segundo.- Las Sociedades Cooperativas que se hayan constituido legalmente previo a la entrada en vigor del presente Decreto, podrán registrarse en el Padrón Nacional de Sociedades Cooperativas, conforme a las disposiciones que establezca el Instituto.
-Décimo Tercero.- Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos:
+**Décimo.-** La instalación del Comité de Contrataciones Estratégicas deberá llevarse a cabo a más tardar en los treinta días hábiles posteriores a la publicación de la presente Ley, asimismo la lista de bienes y servicios a contratar de manera consolidada para el ejercicio fiscal 2025, deberá ser aprobada por dicho órgano colegiado en un plazo no mayor a sesenta días hábiles a partir de su instalación.
+**Décimo Primero.-** El Instituto Nacional de la Economía Social deberá implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, a más tardar, a los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**Décimo Segundo.-** Las Sociedades Cooperativas que se hayan constituido legalmente previo a la entrada en vigor del presente Decreto, podrán registrarse en el Padrón Nacional de Sociedades Cooperativas, conforme a las disposiciones que establezca el Instituto.
+**Décimo Tercero.-** Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos:
 
 I. Cuatro meses a partir de la entrada en vigor del presente Decreto, para emitir el Acuerdo a que se refiere su primer párrafo.
 
 II. Cuatro meses contados a partir de la entrada en vigor del Acuerdo que establece el inciso anterior, para que la Secretaría de Bienestar y la Secretaría de Economía, suscriban el instrumento a que se refiere su segundo párrafo.
-Décimo Cuarto.- El sistema electrónico para que las Cooperativas formalicen sus Actas Constitutivas a que se refiere el artículo 13 de la Ley General de Sociedades Cooperativas, deberá ponerse en funcionamiento en un plazo máximo de seis meses contados a partir de la suscripción del instrumento referido en el transitorio anterior.
-Décimo Quinto.- Para efectos de lo previsto en el artículo 18, fracciones I y II, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se mantienen con plenos efectos las disposiciones siguientes:
+**Décimo Cuarto.-** El sistema electrónico para que las Cooperativas formalicen sus Actas Constitutivas a que se refiere el artículo 13 de la Ley General de Sociedades Cooperativas, deberá ponerse en funcionamiento en un plazo máximo de seis meses contados a partir de la suscripción del instrumento referido en el transitorio anterior.
+**Décimo Quinto.-** Para efectos de lo previsto en el artículo 18, fracciones I y II, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se mantienen con plenos efectos las disposiciones siguientes:
 
 I. El Decreto por el que se establecen diversas medidas en materia de adquisiciones, uso de papel y de la certificación de manejo sustentable de bosques por la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2007;
 
@@ -963,6 +946,6 @@ II. La Circular que contiene los Lineamientos generales relativos a los aspectos
 III. El Oficio UNAOPSPF/309/AD/0725/2007, de fecha 31 de octubre de 2007, emitido por la entonces Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal de la Secretaría de la Función Pública, disponible en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet, y
 
 IV. Los Lineamientos para las adquisiciones de papel para uso de oficina por parte de las dependencias y entidades de la Administración Pública Federal, publicados en el Diario Oficial de la Federación el 2 de octubre de 2009.
-Décimo Sexto.- Las dependencias y entidades tendrán un plazo de tres meses contado a partir de la entrada en vigor del presente Decreto, para revisar que la información de sus procedimientos de contratación y los datos relevantes de los contratos publicados en CompraNet que se publicaron a partir del año 2020, sea congruente con la que obra en sus expedientes de contratación con la finalidad de que la información que se migre a la Plataforma sea consistente. En caso de requerirse actualizaciones deberán solicitarse a la Dirección General de Innovación en Contrataciones Públicas de la Secretaría Anticorrupción y Buen Gobierno, fundando y motivando dicho requerimiento.
+**Décimo Sexto.-** Las dependencias y entidades tendrán un plazo de tres meses contado a partir de la entrada en vigor del presente Decreto, para revisar que la información de sus procedimientos de contratación y los datos relevantes de los contratos publicados en CompraNet que se publicaron a partir del año 2020, sea congruente con la que obra en sus expedientes de contratación con la finalidad de que la información que se migre a la Plataforma sea consistente. En caso de requerirse actualizaciones deberán solicitarse a la Dirección General de Innovación en Contrataciones Públicas de la Secretaría Anticorrupción y Buen Gobierno, fundando y motivando dicho requerimiento.
 Ciudad de México, a 10 de abril de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de abril de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

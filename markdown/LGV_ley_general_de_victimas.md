@@ -726,10 +726,7 @@ Artículo reformado DOF 03-05-2013
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 64
-. La compensación se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia de la comisión de los delitos a los que se refiere el
-
-### artículo 68
-de este ordenamiento o de la violación de derechos humanos, incluyendo el error judicial, de conformidad con lo que establece esta Ley y su Reglamento. Estos perjuicios, sufrimientos y pérdidas incluirán, entre otros y como mínimo:
+. La compensación se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia de la comisión de los delitos a los que se refiere el artículo 68 de este ordenamiento o de la violación de derechos humanos, incluyendo el error judicial, de conformidad con lo que establece esta Ley y su Reglamento. Estos perjuicios, sufrimientos y pérdidas incluirán, entre otros y como mínimo:
 
 I. La reparación del daño sufrido en la integridad física de la víctima;
 
@@ -763,10 +760,7 @@ c) Un organismo público de protección de los derechos humanos;
 
 d) Un organismo internacional de protección de los derechos humanos reconocido por los Tratados Internacionales ratificados por México, cuando su resolución no sea susceptible de ser sometida a la consideración de un órgano jurisdiccional internacional previsto en el mismo tratado en el que se encuentre contemplado el organismo en cuestión.
 Lo anterior sin perjuicio de las responsabilidades civiles, penales y administrativas que los mismos hechos pudieran implicar y conforme lo dispuesto por la presente Ley.
-En los casos de víctimas de delitos se estará a lo dispuesto en los montos máximos previstos en el
-
-### artículo 67
-.
+En los casos de víctimas de delitos se estará a lo dispuesto en los montos máximos previstos en el artículo 67.
 Artículo reformado DOF 03-05-2013
 
 ### Artículo 66
@@ -1016,10 +1010,7 @@ Capítulo reubicado y denominación reformada DOF 03-05-2013
 ### Artículo 84
 . La Comisión Ejecutiva es un organismo con personalidad jurídica y patrimonio propios; con autonomía técnica, de gestión y contará con los recursos que le asigne el Presupuesto de Egresos de la Federación.
 Párrafo reformado DOF 03-01-2017 Las medidas y reparaciones que dicte la Comisión Ejecutiva, serán determinadas por el Comisionado Ejecutivo en los términos de la fracción XIII del artículo 95 de esta Ley.
-Párrafo adicionado DOF 03-01-2017 La Comisión Ejecutiva tendrá por objeto garantizar, promover y proteger los derechos de las víctimas del delito y de violaciones a derechos humanos, en especial los derechos a la asistencia, a la protección, a la atención, a la verdad, a la justicia, a la reparación integral y a la debida diligencia, en términos del
-
-### artículo 2
-de la Ley; así como desempeñarse como el órgano operativo del Sistema y las demás que esta Ley señale.
+Párrafo adicionado DOF 03-01-2017 La Comisión Ejecutiva tendrá por objeto garantizar, promover y proteger los derechos de las víctimas del delito y de violaciones a derechos humanos, en especial los derechos a la asistencia, a la protección, a la atención, a la verdad, a la justicia, a la reparación integral y a la debida diligencia, en términos del artículo 2 de la Ley; así como desempeñarse como el órgano operativo del Sistema y las demás que esta Ley señale.
 Párrafo adicionado DOF 03-01-2017 El domicilio de la Comisión Ejecutiva es en la Ciudad de México, y podrá establecer delegaciones y oficinas en otras entidades federativas, cuando así lo autorice la Junta de Gobierno, de acuerdo a su disponibilidad presupuestaria.
 Párrafo adicionado DOF 03-01-2017 En la ejecución de las funciones, acciones, planes y programas previstos en esta Ley, la Comisión Ejecutiva garantizará la representación y participación directa de las víctimas y organizaciones de la sociedad civil, propiciando su intervención en la construcción de políticas públicas, así como el ejercicio de labores de vigilancia, supervisión y evaluación de las instituciones integrantes del Sistema con el objetivo de garantizar un ejercicio transparente de sus atribuciones.
 De la Comisión Ejecutiva depende la Asesoría Jurídica Federal, el Registro Nacional de Víctimas y el área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de Recursos de Ayuda, asistencia, reparación integral y compensación, en términos de esta Ley, el Reglamento y demás disposiciones aplicables.
@@ -1899,10 +1890,7 @@ III. Facilitar el acceso de la víctima a la investigación, con el objeto de re
 
 IV. Colaborar con los tribunales de justicia, el ministerio público, las procuradurías, contralorías y demás autoridades en todas las actuaciones policiales requeridas;
 
-V. Remitir los datos de prueba e informes respectivos, con debida diligencia en concordancia con el
-
-### artículo 5
-de la presente Ley;
+V. Remitir los datos de prueba e informes respectivos, con debida diligencia en concordancia con el artículo 5 de la presente Ley;
 
 VI. Respetar las mejores prácticas y los estándares mínimos de derecho internacional de los derechos humanos, y
 
@@ -2376,34 +2364,16 @@ Se reforman los artículos del 1 al 180 y se derogan los artículos del 181 al 1
 
 **PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **SEGUNDO.-** Para efectos de lo dispuesto en el último párrafo del artículo 21 de la Ley General de Víctimas, el Congreso de la Unión, las legislaturas locales y la Asamblea Legislativa del Distrito Federal, contarán con un plazo de un año contado a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la legislación que corresponda.
-**TERCERO.-** Todas las autoridades, de los distintos órdenes de gobierno, relacionadas con el cumplimiento de esta Ley, deberán adecuar su normatividad interna para efectos del cumplimiento del
-
-### Artículo Noveno
-Transitorio de la ley vigente.
+**TERCERO.-** Todas las autoridades, de los distintos órdenes de gobierno, relacionadas con el cumplimiento de esta Ley, deberán adecuar su normatividad interna para efectos del cumplimiento del Artículo Noveno Transitorio de la ley vigente.
 México, D.F., a 16 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Víctimas.
 Publicado en el Diario Oficial de la Federación el 3 de enero de 2017
 
 ### ARTÍCULO ÚNICO
-Se REFORMAN el primero y tercer párrafos del artículo 1; las fracciones I, III, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI del artículo 6; las fracciones XXI, XXX y XXXIV del
-
-### artículo 7
-; el primero, segundo y cuarto párrafos del artículo 8; la fracción IV del artículo 12; el segundo párrafo del artículo 28; el artículo 29; el último párrafo del artículo 30; el artículo 31; el primer párrafo del
-
-### artículo 33
-; las fracciones I y II del artículo 34; el artículo 36; el artículo 38; la denominación del CAPÍTULO III del TÍTULO TERCERO para quedar como "MEDIDAS EN MATERIA DE TRASLADO"; el primero y el último párrafos del artículo 40; el artículo 42; el artículo 45; el artículo 46; el artículo 47; el
-
-### artículo 52
-; el artículo 54; el artículo 57; las fracciones I y VI del artículo 61; el primero y último párrafos del artículo 67; el artículo 68; el artículo 70; el artículo 71; el segundo, cuarto y quinto párrafos del artículo 79; el artículo 80; las fracciones I, III, XVI y XVII del artículo 81; el inciso b) de la fracción IV del artículo 82; el sexto párrafo del artículo 83; el primero y quinto párrafos del artículo 84; el artículo 85; el primer párrafo, las fracciones III y IV y los dos últimos párrafos del artículo 86; el artículo 87; las fracciones XIV, XXII, XXV, XXXV y XXXVI del artículo 88; el artículo 89; el segundo párrafo del artículo 90; el artículo 93; el primer párrafo y las fracciones II, IV, IX, XII y XIII del artículo 95; el tercero, cuarto, quinto y sexto párrafos del artículo 96; la fracción III del primer párrafo del artículo 97; el primer párrafo del artículo 98; la fracción IV del artículo 100; las fracciones IV y V del artículo 110; la fracción VI del artículo 114; la fracción X del artículo 116; el primer párrafo del artículo 117; las fracciones I, III, IV, V y VI del artículo 125; el primer párrafo del artículo 130; la fracción I del artículo 132; el artículo 134; el artículo 135; el
-
-### artículo 136
-; el primer párrafo y las fracciones I y III del artículo 138; el artículo 145; el cuarto párrafo del
-
-### artículo 164
-; el segundo párrafo del artículo 166; el primer párrafo del artículo 168. Se ADICIONAN el principio de "Interés superior de la niñez" al artículo 5, entre los principios de "Integralidad, indivisibilidad e interdependencia" y de "Máxima protección" recorriéndose los subsecuentes; las fracciones XXXV, XXXVI y XXXVII al artículo 7; cinco últimos párrafos al artículo 8; un último párrafo al artículo 9; dos párrafos finales al artículo 12; dos párrafos al artículo 15; el párrafo quinto, recorriéndose los anteriores quinto a séptimo para ser sexto, séptimo y octavo del artículo 21; un último párrafo al artículo 27; un último párrafo al artículo 28; un último párrafo al artículo 34; el artículo 39 Bis; dos últimos párrafos al
-
-### artículo 64
-; dos últimos párrafos al artículo 79; la fracción XVIII al artículo 81; un segundo, tercer y cuarto párrafos al artículo 84, recorriéndose los actuales segundo, tercero, cuarto y quinto para ser quinto, sexto, séptimo y octavo respectivamente; el artículo 84 Bis; el artículo 84 Ter; el artículo 84 Quáter; el artículo 84 Quinquies; el artículo 84 Sexies; el artículo 84 Septies; el artículo 84 Octies; la fracción V al artículo 86; la fracción XXXVII al artículo 88; el artículo 88 Bis; la fracción XIV al artículo 95; las fracciones VI, VII y VIII al artículo 110; las fracciones XI y XII al artículo 116; el artículo 125 Bis; un CAPÍTULO V "DE LOS FONDOS DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL EN CADA ENTIDAD FEDERATIVA" al TÍTULO OCTAVO, con los artículos 157 Bis, 157 Ter, 157 Quáter y 157 Quinquies. Se DEROGAN los artículos 16; la fracción XXX del artículo 88; 92; 94; la fracción VII del artículo 125; los artículos 175; 176; 177 y 178; de la Ley de Víctimas, para quedar como sigue: ……….
+Se REFORMAN el primero y tercer párrafos del artículo 1; las fracciones I, III, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI del artículo 6; las fracciones XXI, XXX y XXXIV del artículo 7; el primero, segundo y cuarto párrafos del artículo 8; la fracción IV del artículo 12; el segundo párrafo del artículo 28; el artículo 29; el último párrafo del artículo 30; el artículo 31; el primer párrafo del artículo 33; las fracciones I y II del artículo 34; el artículo 36; el artículo 38; la denominación del CAPÍTULO III del TÍTULO TERCERO para quedar como "MEDIDAS EN MATERIA DE TRASLADO"; el
+**primero.** y el último párrafos del artículo 40; el artículo 42; el artículo 45; el artículo 46; el artículo 47; el artículo 52; el artículo 54; el artículo 57; las fracciones I y VI del artículo 61; el primero y último párrafos del artículo 67; el artículo 68; el artículo 70; el artículo 71; el segundo, cuarto y quinto párrafos del artículo 79; el artículo 80; las fracciones I, III, XVI y XVII del artículo 81; el inciso b) de la fracción IV del artículo 82; el sexto párrafo del artículo 83; el primero y quinto párrafos del artículo 84; el artículo 85; el primer párrafo, las fracciones III y IV y los dos últimos párrafos del artículo 86; el artículo 87; las fracciones XIV, XXII, XXV, XXXV y XXXVI del artículo 88; el artículo 89; el segundo párrafo del artículo 90; el artículo 93; el primer párrafo y las fracciones II, IV, IX, XII y XIII del artículo 95; el tercero, cuarto, quinto y sexto párrafos del artículo 96; la fracción III del primer párrafo del artículo 97; el primer párrafo del artículo 98; la fracción IV del artículo 100; las fracciones IV y V del artículo 110; la fracción VI del artículo 114; la fracción X del artículo 116; el primer párrafo del artículo 117; las fracciones I, III, IV, V y VI del artículo 125; el primer párrafo del artículo 130; la fracción I del artículo 132; el artículo 134; el artículo 135; el artículo 136; el primer párrafo y las fracciones I y III del artículo 138; el artículo 145; el cuarto párrafo del artículo 164; el segundo párrafo del artículo 166; el primer párrafo del artículo 168. Se ADICIONAN el principio de "Interés superior de la niñez" al artículo 5, entre los principios de "Integralidad, indivisibilidad e interdependencia" y de "Máxima protección" recorriéndose los subsecuentes; las fracciones XXXV, XXXVI y XXXVII al artículo 7; cinco últimos párrafos al artículo 8; un último párrafo al artículo 9; dos párrafos finales al artículo 12; dos párrafos al artículo 15; el párrafo quinto, recorriéndose los anteriores
+**quinto.** a séptimo para ser sexto, séptimo y octavo del artículo 21; un último párrafo al artículo 27; un último párrafo al artículo 28; un último párrafo al artículo 34; el artículo 39 Bis; dos últimos párrafos al artículo 64; dos últimos párrafos al artículo 79; la fracción XVIII al artículo 81; un segundo, tercer y cuarto párrafos al artículo 84, recorriéndose los actuales segundo, tercero, cuarto y quinto para ser quinto, sexto,
+**séptimo.** y octavo respectivamente; el artículo 84 Bis; el artículo 84 Ter; el artículo 84 Quáter; el artículo 84 Quinquies; el artículo 84 Sexies; el artículo 84 Septies; el artículo 84 Octies; la fracción V al artículo 86; la fracción XXXVII al artículo 88; el artículo 88 Bis; la fracción XIV al artículo 95; las fracciones VI, VII y VIII al artículo 110; las fracciones XI y XII al artículo 116; el artículo 125 Bis; un CAPÍTULO V "DE LOS FONDOS DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL EN CADA ENTIDAD FEDERATIVA" al TÍTULO OCTAVO, con los artículos 157 Bis, 157 Ter, 157 Quáter y 157 Quinquies. Se DEROGAN los artículos 16; la fracción XXX del artículo 88; 92; 94; la fracción VII del artículo 125; los artículos 175; 176; 177 y 178; de la Ley de Víctimas, para quedar como sigue: ……….
 
 ## Transitorios
 
@@ -2547,10 +2517,7 @@ DECRETO por el que se reforman los artículos 166, 168 y 170 de la Ley General d
 Publicado en el Diario Oficial de la Federación el 18 de febrero de 2022
 
 ### Artículo Único
-Se reforman el primer párrafo del artículo 166; el primer y segundo párrafos del
-
-### artículo 168
-y el artículo 170 de la Ley General de Víctimas, para quedar como sigue: ……..
+Se reforman el primer párrafo del artículo 166; el primer y segundo párrafos del artículo 168 y el artículo 170 de la Ley General de Víctimas, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -2562,10 +2529,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Fede
 Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
 
 ### ARTÍCULO TERCERO
-Se reforman los incisos a), b) y c) de la fracción I, los incisos a), b) y c) de la fracción II, el inciso a) de la fracción III, los incisos a) y b) de la fracción IV y la fracción V del artículo 82; los artículos 83 y 84 Ter; las fracciones I, II y III, el segundo y tercer párrafo del artículo 84 Quáter; el
-
-### artículo 84
-Sexíes; las fracciones I, II y III del artículo 84 Septies; el quinto y sexto párrafo del artículo 84 Octies; el artículo 85; el primer párrafo y sus fracciones I y II, el segundo y tercer párrafos del artículo 86 de la Ley General de Víctimas, para quedar como sigue: ……..
+Se reforman los incisos a), b) y c) de la fracción I, los incisos a), b) y c) de la fracción II, el inciso a) de la fracción III, los incisos a) y b) de la fracción IV y la fracción V del artículo 82; los artículos 83 y 84 Ter; las fracciones I, II y III, el segundo y tercer párrafo del artículo 84 Quáter; el artículo 84 Sexíes; las fracciones I, II y III del artículo 84 Septies; el quinto y sexto párrafo del artículo 84 Octies; el artículo 85; el primer párrafo y sus fracciones I y II, el segundo y tercer párrafos del artículo 86 de la Ley General de Víctimas, para quedar como sigue: ……..
 
 ## Transitorios
 

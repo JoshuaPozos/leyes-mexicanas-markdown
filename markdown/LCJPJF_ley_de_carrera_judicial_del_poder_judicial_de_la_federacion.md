@@ -361,10 +361,7 @@ VI. Condena a pena privativa de libertad por razón de delito doloso que haya ca
 
 VII. Rescisión de la relación laboral derivada de un conflicto de trabajo, determinada por la autoridad competente, que haya quedado firme;
 
-VIII. Por remoción, tratándose de las categorías previstas en las fracciones I, II, III, VI, IX y XI del
-
-### artículo 11
-de esta Ley;
+VIII. Por remoción, tratándose de las categorías previstas en las fracciones I, II, III, VI, IX y XI del artículo 11 de esta Ley;
 
 IX. Retiro por edad;
 
@@ -373,10 +370,7 @@ X. Jubilación, y
 XI. Las demás que establezca la presente Ley y demás disposiciones aplicables.
 
 ### Artículo 39
-. Facultad de remoción La facultad de remoción tratándose de las categorías previstas en las fracciones I, II, III, VI, IX y XI del
-
-### artículo 11
-de la presente Ley se ejercerá en los términos de la normatividad aplicable.
+. Facultad de remoción La facultad de remoción tratándose de las categorías previstas en las fracciones I, II, III, VI, IX y XI del artículo 11 de la presente Ley se ejercerá en los términos de la normatividad aplicable.
 
 ### Artículo 40
 . Efectos de la separación La separación de las personas integrantes de la Carrera Judicial implicará que quede sin efecto su nombramiento, así como la pérdida de los derechos inherentes al cargo.
@@ -456,10 +450,7 @@ La información contenida en el Registro deberá ser resguardada por el Poder Ju
 RECONOCIMIENTOS
 
 ### Artículo 49
-. Reconocimientos El Órgano establecerá, de acuerdo con su presupuesto y mediante disposiciones generales, un sistema de reconocimientos para aquellas personas comprendidas en las categorías señaladas en el
-
-### artículo 11
-de esta Ley. Dicho sistema tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro de la Escuela Judicial, la antigüedad, grado académico, y los demás que mediante acuerdos generales estime necesarios el propio Órgano.
+. Reconocimientos El Órgano establecerá, de acuerdo con su presupuesto y mediante disposiciones generales, un sistema de reconocimientos para aquellas personas comprendidas en las categorías señaladas en el artículo 11 de esta Ley. Dicho sistema tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro de la Escuela Judicial, la antigüedad, grado académico, y los demás que mediante acuerdos generales estime necesarios el propio Órgano.
 
 ## CAPÍTULO DÉCIMO — SEGUNDO
 SUSTITUCIONES Y LICENCIAS
@@ -503,10 +494,7 @@ Cuando el vínculo o relación familiar o de pareja se obtenga entre personas ad
 
 ### Artículo 54
 . Contratación de personas vinculadas o relacionadas con otras personas Titulares La contratación de quienes tengan vínculo o relación familiar o de pareja, o conflicto de interés con otra persona Titular de órgano jurisdiccional o de área administrativa, será sometida a consulta ante el área competente del Órgano.
-Las personas titulares podrán formular la consulta a el área competente del Órgano antes de otorgar el nombramiento, o bien, otorgarlo y realizar la consulta dentro de los cinco días hábiles siguientes. En el último supuesto, el otorgamiento del nombramiento no dará lugar a responsabilidad administrativa, pero la omisión de efectuar la consulta sí producirá causa de responsabilidad administrativa no grave conforme lo dispuesto en el artículo 49 de la Ley General de Responsabilidades Administrativas y el
-
-### artículo 187
-, fracción XVIII, de la Ley Orgánica.
+Las personas titulares podrán formular la consulta a el área competente del Órgano antes de otorgar el nombramiento, o bien, otorgarlo y realizar la consulta dentro de los cinco días hábiles siguientes. En el último supuesto, el otorgamiento del nombramiento no dará lugar a responsabilidad administrativa, pero la omisión de efectuar la consulta sí producirá causa de responsabilidad administrativa no grave conforme lo dispuesto en el artículo 49 de la Ley General de Responsabilidades Administrativas y el artículo 187, fracción XVIII, de la Ley Orgánica.
 El área competente del Órgano deberá emitir la determinación respectiva dentro de los cinco días hábiles siguientes a la recepción de la consulta, la cual tendrá efectos vinculantes. Si se emite Determinación de Inexistencia de Impedimento, se eximirá de responsabilidad administrativa al Titular por lo que hace a ese movimiento, pero no lo libera de la que pudiera derivar si con motivo de una investigación se recaban pruebas que acrediten la configuración de algún esquema de contratación prohibido que, por su complejidad, no fuera evidente al momento de resolver la consulta.
 De dictarse Determinación de Existencia de Impedimento, deberá notificarse al Titular para que se abstenga de continuar con la contratación o, en su caso, para que deje sin efectos el nombramiento.
 

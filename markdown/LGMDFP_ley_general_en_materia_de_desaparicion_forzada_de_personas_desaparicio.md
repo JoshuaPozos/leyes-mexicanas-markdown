@@ -76,10 +76,7 @@ Fracción adicionada DOF 13-05-2022 VII Ter. Enfoque individualizado o tradicion
 Fracción adicionada DOF 13-05-2022 VII Quater. Enfoque masivo o a gran escala: al Sistema forense multidisciplinario de identificación humana, que tiene como objetivo analizar toda la información forense disponible y útil para la identificación, priorizando los procedimientos técnicos que aumenten las probabilidades de identificación, incluyendo el análisis de toda la información ante mortem y post mortem disponible, basado en el contexto de cada caso;
 Fracción adicionada DOF 13-05-2022
 
-VIII. Entidades Federativas: a las partes integrantes de la Federación a que se refiere el
-
-### artículo 43
-de la Constitución Política de los Estados Unidos Mexicanos;
+VIII. Entidades Federativas: a las partes integrantes de la Federación a que se refiere el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;
 
 IX. Familiares: a las personas que, en términos de la legislación aplicable, tengan parentesco con la Persona Desaparecida o No Localizada por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; él o la cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen de sociedad en convivencia u otras figuras jurídicas análogas. Asimismo, las personas que dependan económicamente de la Persona Desaparecida o No Localizada, que así lo acrediten ante las autoridades competentes;
 IX Bis. Familia Social: persona o conjunto de personas cercanas a la Persona Desaparecida o No Localizada que mantienen o mantuvieron vínculos significativos de afecto, cuidado, convivencia o acompañamiento solidario, independientemente de la existencia de lazos consanguíneos, legales o de parentesco formal, de conformidad con los protocolos vigentes;
@@ -333,10 +330,7 @@ PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 . Los delitos previstos en esta Ley deben ser perseguidos, investigados, procesados y sancionados conforme a las reglas de autoría, participación y concurso previstas en la legislación penal aplicable, y las reglas de acumulación de procesos previstas en el Código Nacional de Procedimientos Penales.
 
 ### Artículo 20
-. La tentativa punible de los delitos previstos en esta Ley se sancionará en términos del
-
-### Artículo 21
-. Queda prohibido entregar, extraditar, expulsar, deportar o devolver a cualquier persona cuando haya razones fundadas para suponer que estaría en peligro de ser sometida a una Desaparición Forzada de Personas o a una Desaparición cometida por Particulares en el Estado al que sería entregada.
+. La tentativa punible de los delitos previstos en esta Ley se sancionará en términos del Artículo 21. Queda prohibido entregar, extraditar, expulsar, deportar o devolver a cualquier persona cuando haya razones fundadas para suponer que estaría en peligro de ser sometida a una Desaparición Forzada de Personas o a una Desaparición cometida por Particulares en el Estado al que sería entregada.
 
 ### Artículo 22
 . Si de las diligencias practicadas en la investigación de hechos probablemente constitutivos de delitos distintos a los previstos en esta Ley, el agente del Ministerio Público advierte la probable comisión de algún delito previsto en el presente ordenamiento, debe identificar y remitir copia de la investigación a la Fiscalía Especializada competente.
@@ -1573,10 +1567,7 @@ I. No exista duplicidad de registros;
 
 II. Permitan utilizar en la búsqueda y en la investigación de los delitos, las herramientas de análisis de contexto, con enfoque transnacional, a fin de determinar patrones de criminalidad, modo de operación, mapas criminológicos, estructura y actividad de grupos de delincuencia organizada, entre otros;
 
-III. Cuenten con las características técnicas y soporte tecnológico adecuado, de conformidad con los lineamientos que para tal efecto emita la Fiscalía, los que deberán ser acordes con los lineamientos que emita la Comisión Nacional de Búsqueda en términos de la fracción XIV del
-
-### artículo 53
-de esta Ley, y Fracción reformada DOF 20-05-2021
+III. Cuenten con las características técnicas y soporte tecnológico adecuado, de conformidad con los lineamientos que para tal efecto emita la Fiscalía, los que deberán ser acordes con los lineamientos que emita la Comisión Nacional de Búsqueda en términos de la fracción XIV del artículo 53 de esta Ley, y Fracción reformada DOF 20-05-2021
 
 IV. Permitan su actualización permanente por parte de las Fiscalías Especializadas y demás autoridades competentes, en términos de lo previsto en esta Ley.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
@@ -1979,18 +1970,16 @@ La Comisión Nacional de Búsqueda deberá brindar la asesoría necesaria a las 
 En un plazo de treinta días posteriores a su conformación el Consejo Ciudadano deberá emitir sus reglas de funcionamiento.
 **Sexto.** El Sistema Nacional de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
 En la primera sesión ordinaria del Sistema Nacional de Búsqueda, se deberán emitir los lineamientos y modelos a que se refiere el artículo 49, fracciones I, VIII, XV y XVI de esta Ley.
-En la segunda sesión ordinaria del Sistema Nacional de Búsqueda, que se lleve conforme a lo dispuesto por esta Ley, se deberán emitir los criterios de certificación y especialización previstos en el
-
-### artículo 55
-.
-Séptimo. Dentro de los ciento ochenta días siguientes a la emisión de los lineamientos previstos en el artículo transitorio anterior, la Comisión Nacional de Búsqueda deberá contar con la infraestructura tecnológica necesaria y comenzar a operar el Registro Nacional de Personas Desaparecidas y No Localizadas.
+En la segunda sesión ordinaria del Sistema Nacional de Búsqueda, que se lleve conforme a lo dispuesto por esta Ley, se deberán emitir los criterios de certificación y especialización previstos en el artículo 55.
+**Séptimo.** Dentro de los ciento ochenta días siguientes a la emisión de los lineamientos previstos en el artículo transitorio anterior, la Comisión Nacional de Búsqueda deberá contar con la infraestructura tecnológica necesaria y comenzar a operar el Registro Nacional de Personas Desaparecidas y No Localizadas.
 Dentro de los noventa días siguientes a que comience la operación del Registro Nacional de Personas Desaparecidas y No Localizadas, las Entidades Federativas deberán poner en marcha sus registros de Personas Desaparecidas y No Localizadas.
-Octavo. En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, las Procuradurías Locales deberán incorporar en un registro provisional, electrónico o impreso, la información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106 de esta Ley.
+**Octavo.** En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, las Procuradurías Locales deberán incorporar en un registro provisional, electrónico o impreso, la información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106 de esta Ley.
 La Federación y las Entidades Federativas deberán migrar la información contenida en los registros provisionales a que se refiere el párrafo anterior, dentro de los quince días siguientes a que comiencen a operar los registros de Personas Desaparecidas y No Localizadas.
-PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Noveno. El Congreso de la Unión deberá legislar en materia de Declaración Especial de Ausencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
+**Noveno.** El Congreso de la Unión deberá legislar en materia de Declaración Especial de Ausencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
 Las Entidades Federativas deberán emitir y, en su caso, armonizar la legislación que corresponda a su ámbito de competencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
 En aquellas Entidades Federativas en las que no se haya llevado a cabo la armonización prevista en el Capítulo Tercero del Título Cuarto de esta Ley, dentro del plazo señalado en el párrafo anterior, resultarán aplicables las disposiciones del referido Capítulo no obstante lo previsto en la legislación local aplicable.
-Décimo. A partir de la entrada en vigor de este Decreto, para el caso en que las disposiciones contenidas en el mismo contemplen la descripción legal de conductas previstas en otras normas como delitos y por virtud de la presente Ley se denominan, tipifican, penalizan o agravan de forma diversa, siempre y cuando la conducta y los hechos correspondan a la descripción que ahora se establece, se estará a lo siguiente:
+**Décimo.** A partir de la entrada en vigor de este Decreto, para el caso en que las disposiciones contenidas en el mismo contemplen la descripción legal de conductas previstas en otras normas como delitos y por virtud de la presente Ley se denominan, tipifican, penalizan o agravan de forma diversa, siempre y cuando la conducta y los hechos correspondan a la descripción que ahora se establece, se estará a lo siguiente:
 
 I. En los casos de hechos que constituyan alguno de los delitos de esta Ley, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la presente Ley;
 
@@ -2003,8 +1992,8 @@ IV. En los procesos iniciados conforme al sistema acusatorio adversarial, en los
 V. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal que corresponda, podrá efectuar la traslación del tipo de conformidad con la conducta que se haya probado, incluyendo sus modalidades, sin exceder el monto de las penas señaladas en la respectiva ley vigente al momento de la comisión de los hechos, y
 
 VI. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, según las modalidades correspondientes.
-Décimo Primero. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
-Décimo Segundo. Dentro de los treinta días siguientes a la creación de la Comisión Nacional de Búsqueda, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública le transferirá las herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
+**Décimo Primero.** El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
+**Décimo Segundo.** Dentro de los treinta días siguientes a la creación de la Comisión Nacional de Búsqueda, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública le transferirá las herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
 Dentro de los noventa días siguientes a que reciba la información a que se refiere el párrafo anterior, la Comisión Nacional de Búsqueda deberá transmitir a las Fiscalías Especializadas la información de las Personas Desaparecidas o No Localizadas que correspondan al ámbito de su competencia.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Las Fiscalías Especializadas deberán actualizar el contenido del Registro Nacional, conforme a lo siguiente:
 
@@ -2015,19 +2004,20 @@ II. En términos de la fracción anterior, las Fiscalías Especializadas que est
 III. Una vez actualizada la información, la Comisión Nacional de Búsqueda deberá ingresarla al registro que corresponda, a excepción de que la actualización revele que la persona fue localizada, en cuyo caso, se asentará en el Registro Nacional de Personas Desaparecidas, y
 
 IV. Al haberse realizado la acción prevista en la fracción II de este artículo, de no haberse actualizado el registro, la Fiscalía Especializada que corresponda estará materialmente imposibilitada para actualizarlo. En este supuesto, el registro permanecerá con la anotación de actualización pendiente y será migrado, con ese carácter, al registro que corresponda.
-Décimo Tercero. El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las Entidades Federativas comenzarán a operar dentro del año siguiente a la entrada en vigor del presente Decreto.
+**Décimo Tercero.** El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las Entidades Federativas comenzarán a operar dentro del año siguiente a la entrada en vigor del presente Decreto.
 Dentro de los tres meses siguientes a que inicie la operación de dichos registros, las autoridades que posean información forense deberán incorporarla al registro que corresponda.
-Décimo Cuarto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el Protocolo Homologado de Investigación a que se refiere el artículo 99 de esta Ley.
-Décimo Quinto. Las autoridades e instituciones que recaban la información a que se refiere el artículo 103 la deberán incorporar en un plazo de un año a partir de la entrada en vigor del presente Decreto.
-Décimo Sexto. En las Entidades Federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas competentes de la Entidad Federativa deberán brindar la atención a Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.
-Décimo Séptimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades paraestatales de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
+**Décimo Cuarto.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el Protocolo Homologado de Investigación a que se refiere el artículo 99 de esta Ley.
+**Décimo Quinto.** Las autoridades e instituciones que recaban la información a que se refiere el artículo 103 la deberán incorporar en un plazo de un año a partir de la entrada en vigor del presente Decreto.
+**Décimo Sexto.** En las Entidades Federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas competentes de la Entidad Federativa deberán brindar la atención a Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.
+**Décimo Séptimo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades paraestatales de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
 Las Legislaturas de las Entidades Federativas, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
-PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Décimo Octavo. Los lineamientos para determinar las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres o restos de personas a que refiere el artículo 130 de esta Ley deberán ser publicados en el Diario Oficial de la Federación dentro del plazo de ciento ochenta días a partir de la entrada en vigor de la presente Ley.
-Décimo Noveno. La Procuraduría General de la República debe emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Nacional de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, conforme a lo previsto en los artículos 131, fracción III y 132, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
+**Décimo Octavo.** Los lineamientos para determinar las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres o restos de personas a que refiere el artículo 130 de esta Ley deberán ser publicados en el Diario Oficial de la Federación dentro del plazo de ciento ochenta días a partir de la entrada en vigor de la presente Ley.
+**Décimo Noveno.** La Procuraduría General de la República debe emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Nacional de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, conforme a lo previsto en los artículos 131, fracción III y 132, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
 Dentro del plazo previsto en el párrafo anterior la Procuraduría General de la República emitirá los lineamientos necesarios para que las autoridades de los distintos órdenes de gobierno remitan en forma homologada la información que será integrada al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas y al Banco Nacional de Datos Forenses previstos en la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
-Vigésimo. En tanto las Entidades Federativas se encuentren en la integración de sus Comisiones de Búsqueda, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría de Gobierno de cada entidad.
+**Vigésimo.** En tanto las Entidades Federativas se encuentren en la integración de sus Comisiones de Búsqueda, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría de Gobierno de cada entidad.
 Asimismo, las Entidades Federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
-Vigésimo Primero. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.
+**Vigésimo Primero.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.
 Ciudad de México, a 12 de octubre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de noviembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma y adiciona el artículo 167 del Código Nacional de Procedimientos Penales; se reforman, adicionan y derogan diversas disposiciones de la Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.
 Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
@@ -2049,19 +2039,9 @@ PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS DECRETO por el que 
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 ### Artículo Décimo Cuarto
-Se reforman la actual fracción XIX que pasa a ser la X y la actual fracción X para ser la XI recorriéndose las subsecuentes en su orden hasta la fracción XIX, y la fracción XXIII, del
-
-### artículo 4
-; la fracción III, los párrafos segundo, cuarto y quinto del artículo 45; el párrafo primero del
-
-### artículo 68
-, el párrafo segundo del artículo 69; el párrafo primero del artículo 70; el párrafo segundo del
-
-### artículo 71
-; el artículo 74; el artículo 76; la fracción IV del artículo 81; los párrafos primero y cuarto del
-
-### artículo 111
-; el párrafo primero del artículo 113; los párrafos primero y sexto del artículo 119; el artículo 120; el párrafo segundo del artículo 126; el párrafo segundo del artículo 128; la fracción III del artículo 131; los párrafos primero y segundo del artículo 132; la fracción II del artículo 133; los párrafos primero y segundo del artículo 135; el párrafo primero del artículo 158; el párrafo primero del artículo 160; el párrafo primero del artículo 161; el artículo 163; el artículo 168; el artículo 171 y el artículo 172 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue: ………
+Se reforman la actual fracción XIX que pasa a ser la X y la actual fracción X para ser la XI recorriéndose las subsecuentes en su orden hasta la fracción XIX, y la fracción XXIII, del artículo 4; la fracción III, los párrafos segundo, cuarto y quinto del artículo 45; el párrafo primero del artículo 68, el párrafo segundo del artículo 69; el párrafo primero del artículo 70; el párrafo segundo del artículo 71; el artículo 74; el artículo 76; la fracción IV del artículo 81; los párrafos primero y cuarto del artículo 111; el párrafo primero del artículo 113; los párrafos primero y sexto del artículo 119; el artículo 120; el párrafo segundo del artículo 126; el párrafo segundo del artículo 128; la fracción III del artículo 131; los párrafos primero y segundo del artículo 132; la fracción II del artículo 133; los párrafos primero y
+**segundo.** del artículo 135; el párrafo primero del artículo 158; el párrafo primero del artículo 160; el párrafo
+**primero.** del artículo 161; el artículo 163; el artículo 168; el artículo 171 y el artículo 172 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue: ………
 
 ## Transitorios
 

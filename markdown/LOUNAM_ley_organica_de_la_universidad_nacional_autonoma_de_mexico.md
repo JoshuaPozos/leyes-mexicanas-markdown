@@ -28,15 +28,9 @@ El cargo de miembro de la Junta de Gobierno será honorario.
 ARTICULO 6°.- Corresponderá a la Junta de Gobierno:
 I.- Nombrar al Rector, conocer de la renuncia de éste y removerlo por causa grave, que la Junta apreciará discrecionalmente.
 Para el ejercicio de las facultades que esta fracción le otorga, la Junta explorará, en la forma que estime prudente, la opinión de los universitarios;
-II.- Nombrar a los Directores de Facultades, Escuelas e Institutos, de acuerdo con lo que dispone el
-
-### artículo 11
-;
+II.- Nombrar a los Directores de Facultades, Escuelas e Institutos, de acuerdo con lo que dispone el artículo 11;
 III.- Designar a las personas que formarán el Patronato de la Universidad;
-IV.- Resolver en definitiva cuando el Rector, en los términos y con las limitaciones señaladas en el
-
-### artículo 9
-°, vete los acuerdos del Consejo Universitario;
+IV.- Resolver en definitiva cuando el Rector, en los términos y con las limitaciones señaladas en el artículo 9°, vete los acuerdos del Consejo Universitario;
 V.- Resolver los conflictos que surjan entre autoridades universitarias;
 VI.- Expedir su propio reglamento.
 Para la validez de los acuerdos a que se refieren las fracciones I y V de este artículo, se requerirá por lo menos el voto aprobatorio de diez de los miembros de la Junta.

@@ -877,14 +877,12 @@ Se reforman los párrafos primero y cuarto del artículo 63 de la Ley General de
 ## Transitorio
 
 **Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación México, D.F., a 23 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Magdalena del Socorro Nuñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-DECRETO por el que se reforman los artículos 2 y 82; y se adicionan la fracción XXI del
-
-### artículo 2
-, recorriendo el orden de las fracciones subsecuentes, y un segundo y tercer párrafos al artículo 20 de la Ley General de Protección Civil.
+DECRETO por el que se reforman los artículos 2 y 82; y se adicionan la fracción XXI del artículo 2, recorriendo el orden de las fracciones subsecuentes, y un segundo y tercer párrafos al artículo 20 de la Ley General de Protección Civil.
 Publicado en el Diario Oficial de la Federación el 3 de junio de 2014
 
 ### Artículo Único
-Se reforma el artículo 2, fracción XVI, y el artículo 82; se adiciona la fracción XXI, recorriendo el orden de las fracciones subsecuentes al artículo 2 y se adicionan los párrafos segundo y tercero al artículo 20 de la Ley General de Protección Civil, para quedar como sigue: ………
+Se reforma el artículo 2, fracción XVI, y el artículo 82; se adiciona la fracción XXI, recorriendo el orden de las fracciones subsecuentes al artículo 2 y se adicionan los párrafos segundo y
+**tercero.** al artículo 20 de la Ley General de Protección Civil, para quedar como sigue: ………
 
 ## Transitorio
 
@@ -924,14 +922,13 @@ Se adiciona una fracción XXX, recorriéndose la actual XXX para quedar como XXX
 
 **Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 31 de octubre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de diciembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
-
-### Artículo 5o
-. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
+DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Décimo Octavo
-Se reforman los artículos 1; 2, fracción XV; 3; 4, fracción III; 8; 9, párrafo primero; 14; 16, párrafo primero; 17; 18, párrafos primero y tercero; 19, fracciones XIV, XXII en sus párrafos primero y segundo, XXIII, XXV y XXVIII; 20, párrafo tercero; 21, párrafos cuarto y quinto; 22; 26, fracciones VI y VIII; 27, párrafo primero; 29, fracción XII; 33, párrafo primero; 37; 41, párrafo primero; 46; 48; 51, párrafo primero; 56; 57; 59; 60, párrafo primero; 65, párrafos segundo y tercero; 66; 67, párrafos primero, segundo y tercero; 68, párrafo segundo; 70; 73; 74, párrafo tercero; 75, párrafo primero; 82; 83; 84; 85, fracción IV; 86; 88; 89 y 93 de la Ley General de Protección Civil, para quedar como sigue: ………
+Se reforman los artículos 1; 2, fracción XV; 3; 4, fracción III; 8; 9, párrafo
+**primero.** ; 14; 16, párrafo primero; 17; 18, párrafos primero y tercero; 19, fracciones XIV, XXII en sus párrafos primero y segundo, XXIII, XXV y XXVIII; 20, párrafo tercero; 21, párrafos cuarto y quinto; 22; 26, fracciones VI y VIII; 27, párrafo primero; 29, fracción XII; 33, párrafo primero; 37; 41, párrafo primero; 46; 48; 51, párrafo primero; 56; 57; 59; 60, párrafo primero; 65, párrafos segundo y tercero; 66; 67, párrafos
+**primero.** , segundo y tercero; 68, párrafo segundo; 70; 73; 74, párrafo tercero; 75, párrafo primero; 82; 83; 84; 85, fracción IV; 86; 88; 89 y 93 de la Ley General de Protección Civil, para quedar como sigue: ………
 
 ## Transitorios
 

@@ -83,10 +83,7 @@ XIX. Magistrado: El Titular o integrante de la sección competente en materia de
 XX. Órganos constitucionales autónomos: Organismos a los que la Constitución otorga expresamente autonomía técnica y de gestión, personalidad jurídica y patrimonio propio, incluidos aquellos creados con tal carácter en las constituciones de las entidades federativas;
 
 XXI. Órganos internos de control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades de Servidores Públicos;
-XXI Bis. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal y local, conforme a lo dispuesto en el
-
-### artículo 108
-de la Constitución Política de los Estados Unidos Mexicanos. La referencia sobre Servidor Público y/o Servidores Públicos, se entenderá como el contenido de esta fracción;
+XXI Bis. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal y local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos. La referencia sobre Servidor Público y/o Servidores Públicos, se entenderá como el contenido de esta fracción;
 Fracción adicionada DOF 02-01-2025
 
 XXII. Plataforma digital nacional: La plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley;
@@ -852,10 +849,7 @@ II. La fecha en que se le notificó la calificación en términos de este Capít
 
 III. Las razones y fundamentos por los que, a juicio del recurrente, la calificación del acto es indebida, y
 
-IV. Firma autógrafa del recurrente. La omisión de este requisito dará lugar a que no se tenga por presentado el recurso, por lo que en este caso no será aplicable lo dispuesto en el
-
-### artículo 105
-de esta Ley.
+IV. Firma autógrafa del recurrente. La omisión de este requisito dará lugar a que no se tenga por presentado el recurso, por lo que en este caso no será aplicable lo dispuesto en el artículo 105 de esta Ley.
 Asimismo, el recurrente acompañará su escrito con las pruebas que estime pertinentes para sostener las razones y fundamentos expresados en el recurso de inconformidad. La satisfacción de este requisito no será necesaria si los argumentos contra la calificación de los hechos versan solo sobre aspectos de derecho.
 
 ### Artículo 110
@@ -1540,10 +1534,7 @@ Los juicios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica
 En los casos de nombramientos de Magistrados que integren la Tercera Sección, y las Salas Especializadas en materia de Responsabilidades Administrativas, el Titular del Ejecutivo Federal deberá enviar sus propuestas al Senado, a más tardar en el periodo ordinario de Sesiones del Congreso de la Unión inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas.
 Los Magistrados a que se refiere el párrafo anterior, mantendrán su adscripción a la Sección Tercera y a las Salas Especializadas en materia de Responsabilidades Administrativas, al menos durante los
 **primero.** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
-A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del
-
-### artículo 16
-de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
+A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
 Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del Tribunal Federal de Justicia Administrativa en el periodo inmediato al que concluye.
 Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia Fiscal y Administrativa, se entenderán referidas al Tribunal Federal de Justicia Administrativa.
 Ciudad de México, a 6 de julio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Juan Manuel Celis Aguirre, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
@@ -1551,10 +1542,7 @@ ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman y 
 Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
 
 ### Artículo Tercero
-Se reforma la fracción VI del artículo 7 y se adicionan un párrafo segundo al
-
-### artículo 52
-, un párrafo segundo al artículo 54, y un artículo 80 Bis a la Ley General de Responsabilidades Administrativas, para quedar como sigue: ……..
+Se reforma la fracción VI del artículo 7 y se adicionan un párrafo segundo al artículo 52, un párrafo segundo al artículo 54, y un artículo 80 Bis a la Ley General de Responsabilidades Administrativas, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -1703,10 +1691,7 @@ Se aprobó por unanimidad de once votos de las señoras Ministras y de los seño
 Se aprobó por unanimidad de once votos de las señoras Ministras y de los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá, Esquivel Mossa, Ortiz Ahlf, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández, respecto del apartado IV, relativo a las causas de improcedencia y sobreseimiento.
 En relación con el punto resolutivo segundo:
 Se aprobó por unanimidad de once votos de las señoras Ministras y de los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá, Esquivel Mossa, Ortiz Ahlf, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández, respecto del apartado V, relativo al estudio de fondo, en su tema 1, denominado “Parlamento abierto”, consistente en declarar infundado el concepto de invalidez relativo.
-Se aprobó por mayoría de diez votos de las señoras Ministras y de los señores Ministros González Alcántara Carrancá, Esquivel Mossa con excepción del inciso k) del artículo 5, Ortiz Ahlf con excepción de los incisos c) de la fracción V del artículo 3 Bis y k) del artículo 5, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea con excepción de los incisos c) de la fracción V del artículo 3 Bis y k) del artículo 5, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández con excepción del inciso k) del
-
-### artículo 5
-, respecto del apartado V, relativo al estudio de fondo, en su tema 2, denominado “Consulta previa a los pueblos y comunidades indígenas”, consistente en declarar infundado el concepto de invalidez relativo. El señor Ministro Gutiérrez Ortiz Mena votó en contra y anunció voto particular. La señora Ministra Esquivel Mossa anunció voto concurrente. La señora Ministra Ríos Farjat anunció voto aclaratorio.
+Se aprobó por mayoría de diez votos de las señoras Ministras y de los señores Ministros González Alcántara Carrancá, Esquivel Mossa con excepción del inciso k) del artículo 5, Ortiz Ahlf con excepción de los incisos c) de la fracción V del artículo 3 Bis y k) del artículo 5, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea con excepción de los incisos c) de la fracción V del artículo 3 Bis y k) del artículo 5, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández con excepción del inciso k) del artículo 5, respecto del apartado V, relativo al estudio de fondo, en su tema 2, denominado “Consulta previa a los pueblos y comunidades indígenas”, consistente en declarar infundado el concepto de invalidez relativo. El señor Ministro Gutiérrez Ortiz Mena votó en contra y anunció voto particular. La señora Ministra Esquivel Mossa anunció voto concurrente. La señora Ministra Ríos Farjat anunció voto aclaratorio.
 Se aprobó por mayoría de nueve votos de las señoras Ministras y de los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá por razones adicionales, Aguilar Morales con el proyecto original, Pardo Rebolledo separándose de las consideraciones, Zaldívar Lelo de Larrea separándose de las consideraciones, Ríos Farjat con precisiones, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández apartándose de algunas consideraciones, respecto del apartado V, relativo al estudio de fondo, en su tema 3, denominado “Violaciones al procedimiento legislativo”, consistente en declarar la invalidez del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas. Las señoras Ministras Esquivel Mossa y Ortiz Ahlf votaron en contra y anunciaron sendos votos particulares. Los señores Ministros González Alcántara Carrancá, Pardo Rebolledo y Zaldívar Lelo de Larrea, así como la señora Ministra Presidenta Piña Hernández anunciaron sendos votos concurrentes. El señor Ministro Gutiérrez Ortiz Mena y la señora Ministra Ríos Farjat reservaron su derecho de formular sendos votos concurrentes.
 Se aprobó por mayoría de nueve votos de las señoras Ministras y de los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá, Aguilar Morales, Pardo Rebolledo, Zaldívar Lelo de Larrea, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández, respecto del apartado VI, relativo a los efectos, consistente en determinar que la declaratoria de invalidez surta efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión. Las señoras Ministras Esquivel Mossa y Ortiz Ahlf votaron en contra.
 En relación con el punto resolutivo tercero:

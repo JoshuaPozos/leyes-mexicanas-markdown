@@ -700,10 +700,7 @@ El Emisor podrá dar aviso al Destinatario de que no ha recibido el acuse de rec
 
 IV. Cuando en el acuse de recibo se indique que el Mensaje de Datos recibido cumple con los requisitos técnicos convenidos o establecidos en ley, se presumirá que ello es así.
 
-V. Cuando se acuerde el uso de comunicaciones electrónicas certificadas, éstas deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el
-
-### artículo 49
-del Código de Comercio.
+V. Cuando se acuerde el uso de comunicaciones electrónicas certificadas, éstas deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio.
 Fracción adicionada DOF 02-05-2017 Artículo derogado DOF 04-08-1934. Adicionado DOF 29-05-2000. Reformado DOF 29-08-2003
 
 ### Artículo 93
@@ -2070,10 +2067,7 @@ En caso de que el bien consignado sea vendido y habiéndose pactado una retribuc
 
 IV. Una vez verificada la venta del bien dado en consignación, el consignatorio tendrá dos días hábiles para entregar la ganancia pactada al consignante, salvo pacto en contrario.
 En caso de que el consignatorio retenga el bien o el producto obtenido de la venta de manera injustificada, salvo pacto en contrario, además de estar obligado a restituir el bien o pagar el producto obtenido de la venta, éste deberá pagar al consignante un tres por ciento del valor de mercado del bien consignado por cada mes o fracción que dure la retención respectiva, en cuyo caso los riesgos derivados de la pérdida o deterioro por caso fortuito o fuerza mayor se entenderán trasmitidos al consignatario.
-A fin de poder exigir la restitución del bien consignado o el pago del producto obtenido de la venta del mismo, en caso de que las partes hayan celebrado el contrato respectivo por escrito, el mismo traerá aparejada ejecución en términos de los establecido en la fracción VIII, del
-
-### artículo 1391
-de este Código.
+A fin de poder exigir la restitución del bien consignado o el pago del producto obtenido de la venta del mismo, en caso de que las partes hayan celebrado el contrato respectivo por escrito, el mismo traerá aparejada ejecución en términos de los establecido en la fracción VIII, del artículo 1391 de este Código.
 
 V. En caso de que los bienes consignados no hayan sido vendidos, el consignante no podrá disponer de ellos en tanto no se verifique el término establecido en el contrato para la venta de los mismos.
 
@@ -5814,10 +5808,7 @@ Artículo reformado DOF 04-01-1989, 24-05-1996
 Artículo reformado DOF 24-05-1996
 
 ### Artículo 1203
-.- Al día siguiente en que termine el período del ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. En ningún caso se admitirán pruebas contra del derecho o la moral; que se hayan ofrecido extemporáneamente, sobre hechos no controvertidos o ajenos a la litis; sobre hechos imposibles o notoriamente inverosímiles, o bien que no reúnan los requisitos establecidos en el
-
-### artículo 1198
-de este Código. Contra el auto que admita alguna prueba que contravenga las prohibiciones señaladas anteriormente o que no reúna los requisitos del artículo 1198, procede la apelación en efecto devolutivo de tramitación conjunta con la sentencia definitiva, cuando sea apelable la sentencia en lo principal. En el mismo efecto devolutivo y de tramitación conjunta con dicha sentencia, será apelable la determinación en que se deseche cualquier prueba que ofrezcan las partes o terceros llamados a juicio, a los que siempre se les considerará como partes en el mismo.
+.- Al día siguiente en que termine el período del ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. En ningún caso se admitirán pruebas contra del derecho o la moral; que se hayan ofrecido extemporáneamente, sobre hechos no controvertidos o ajenos a la litis; sobre hechos imposibles o notoriamente inverosímiles, o bien que no reúnan los requisitos establecidos en el artículo 1198 de este Código. Contra el auto que admita alguna prueba que contravenga las prohibiciones señaladas anteriormente o que no reúna los requisitos del artículo 1198, procede la apelación en efecto devolutivo de tramitación conjunta con la sentencia definitiva, cuando sea apelable la sentencia en lo principal. En el mismo efecto devolutivo y de tramitación conjunta con dicha sentencia, será apelable la determinación en que se deseche cualquier prueba que ofrezcan las partes o terceros llamados a juicio, a los que siempre se les considerará como partes en el mismo.
 Artículo reformado DOF 24-05-1996, 17-04-2008
 
 ### Artículo 1204
@@ -6489,10 +6480,7 @@ Párrafo reformado DOF 09-01-2012 Sólo serán apelables los autos, interlocutor
 El recurso de apelación contra autos, interlocutorias o resoluciones, que se dicten en el trámite del procedimiento se admitirá en el efecto devolutivo de tramitación conjunta con la apelación de la sentencia definitiva, sin que sea necesario en tal escrito la expresión de agravios; interpuesta esta apelación, se reservará su trámite para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante.
 Para que proceda la apelación contra autos, interlocutorias o resoluciones en efecto devolutivo o en el suspensivo se requiere disposición especial de la ley.
 La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, a más tardar dentro de los nueve días siguientes a aquél en que surta efectos la notificación si se tratare de sentencia definitiva, seis si fuere contra auto, interlocutoria o resolución, dictada en el procedimiento si se trata de apelaciones de tramitación inmediata y en el término de tres días si se trata de apelación de tramitación conjunta con la sentencia definitiva.
-Los agravios que hayan de expresarse en contra del auto, interlocutoria o resolución, cuando se trate de apelaciones de tramitación inmediata o de sentencia definitiva, se expresarán al interponerse el recurso de apelación. Los agravios que en su caso se deban expresar en contra de resoluciones de tramitación conjunta con la sentencia definitiva se expresarán en la forma y términos previstos en el
-
-### artículo 1344
-de este Código.
+Los agravios que hayan de expresarse en contra del auto, interlocutoria o resolución, cuando se trate de apelaciones de tramitación inmediata o de sentencia definitiva, se expresarán al interponerse el recurso de apelación. Los agravios que en su caso se deban expresar en contra de resoluciones de tramitación conjunta con la sentencia definitiva se expresarán en la forma y términos previstos en el artículo 1344 de este Código.
 Artículo reformado DOF 24-05-1996, 17-04-2008, 30-12-2008
 
 ### Artículo 1339
@@ -6961,10 +6949,7 @@ Párrafo adicionado DOF 25-01-2017 Artículo adicionado DOF 27-01-2011. Reformad
 Sección adicionada DOF 27-01-2011
 
 ### Artículo 1390
-Bis 21.- Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el párrafo tercero del
-
-### artículo 1069
-de este Código, además de contar con facultades expresas para conciliar ante el juez y suscribir, en su caso, el convenio correspondiente.
+Bis 21.- Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el párrafo tercero del artículo 1069 de este Código, además de contar con facultades expresas para conciliar ante el juez y suscribir, en su caso, el convenio correspondiente.
 Artículo adicionado DOF 27-01-2011
 
 ### Artículo 1390
@@ -7017,10 +7002,7 @@ Tratándose de copias simples, el juzgado debe expedir a costa del solicitante, 
 Párrafo reformado DOF 25-01-2017 Artículo adicionado DOF 27-01-2011
 
 ### Artículo 1390
-Bis 30.- La conservación de los registros estará a cargo del juzgado que los haya generado, los que deberán contar con el respaldo necesario, que se certificará en los términos del
-
-### artículo 1390
-Bis 28. Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el juez ordenará reemplazarlo por una copia fiel, que obtendrá de quien la tuviere, si no dispone de ella directamente.
+Bis 30.- La conservación de los registros estará a cargo del juzgado que los haya generado, los que deberán contar con el respaldo necesario, que se certificará en los términos del artículo 1390 Bis 28. Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el juez ordenará reemplazarlo por una copia fiel, que obtendrá de quien la tuviere, si no dispone de ella directamente.
 Artículo adicionado DOF 27-01-2011
 
 ### Artículo 1390
@@ -7496,10 +7478,7 @@ bis 6.- No será necesario agotar el procedimiento a que se refieren los artícu
 Artículo adicionado DOF 23-05-2000 CAPITULO II Del procedimiento judicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía Capítulo adicionado DOF 23-05-2000
 
 ### Artículo 1414
-bis 7.- Se tramitará de acuerdo a este procedimiento todo juicio que tenga por objeto el pago de un crédito cierto, líquido y exigible y la obtención de la posesión material de los bienes que lo garanticen, siempre que la garantía se haya otorgado mediante prenda sin transmisión de posesión, o bien, mediante fideicomiso de garantía en que no se hubiere convenido el procedimiento previsto en el
-
-### artículo 403
-de la Ley General de Títulos y Operaciones de Crédito.
+bis 7.- Se tramitará de acuerdo a este procedimiento todo juicio que tenga por objeto el pago de un crédito cierto, líquido y exigible y la obtención de la posesión material de los bienes que lo garanticen, siempre que la garantía se haya otorgado mediante prenda sin transmisión de posesión, o bien, mediante fideicomiso de garantía en que no se hubiere convenido el procedimiento previsto en el artículo 403 de la Ley General de Títulos y Operaciones de Crédito.
 Párrafo reformado DOF 13-06-2003 Para que el juicio se siga de acuerdo con las disposiciones de este Capítulo, es requisito indispensable que el mencionado crédito conste en documento público o escrito privado, según corresponda, en términos de la Ley General de Títulos y Operaciones de Crédito y que sea exigible en los términos pactados o conforme con las disposiciones legales aplicables.
 Artículo adicionado DOF 23-05-2000
 
@@ -7561,10 +7540,7 @@ bis 16.- El juez debe presidir la audiencia, ordenar el desahogo de las pruebas 
 Artículo adicionado DOF 23-05-2000
 
 ### Artículo 1414
-bis 17.- Obtenido el valor de avalúo de los bienes, de acuerdo con lo dispuesto en el
-
-### artículo 1414
-bis, se estará a lo siguiente:
+bis 17.- Obtenido el valor de avalúo de los bienes, de acuerdo con lo dispuesto en el artículo 1414 bis, se estará a lo siguiente:
 
 I. Cuando el valor de los bienes sea igual al monto del adeudo condenado, quedará liquidado totalmente el crédito respectivo, sin corresponder en consecuencia acción o derecho alguno a la parte actora para ejercitar o hacer valer con posterioridad en contra del demandado, por lo que respecta al contrato base de la acción. En este caso, el actor, podrá disponer libremente de los bienes objeto de la garantía;
 
@@ -7658,10 +7634,7 @@ Artículo derogado DOF 20-04-1943. Adicionado DOF 04-01-1989. Reformado DOF 22-0
 ### Artículo 1424
 .- El juez al que se someta un litigio sobre un asunto que sea objeto de un acuerdo de arbitraje, remitirá a las partes al arbitraje en el momento en que lo solicite cualquiera de ellas, a menos que se compruebe que dicho acuerdo es nulo, ineficaz o de ejecución imposible.
 Si se ha entablado la acción a que se refiere el párrafo anterior, se podrá no obstante, iniciar o proseguir las actuaciones arbitrales y dictar un laudo mientras la cuestión esté pendiente ante el juez.
-Sin menoscabo de lo que establece el primer párrafo de este artículo, cuando un residente en el extranjero se hubiese sujetado expresamente al arbitraje e intentara un litigio individual o colectivo, el juez remitirá a las partes al arbitraje. Si el juez negase el reconocimiento del laudo arbitral en los términos del
-
-### artículo 1462
-de este Código, quedarán a salvo los derechos de la parte actora para promover la acción procedente.
+Sin menoscabo de lo que establece el primer párrafo de este artículo, cuando un residente en el extranjero se hubiese sujetado expresamente al arbitraje e intentara un litigio individual o colectivo, el juez remitirá a las partes al arbitraje. Si el juez negase el reconocimiento del laudo arbitral en los términos del artículo 1462 de este Código, quedarán a salvo los derechos de la parte actora para promover la acción procedente.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 04-01-1989. Reformado DOF 22-07-1993, 06-06-2011
 
 ### Artículo 1425
@@ -7753,10 +7726,7 @@ Artículo derogado DOF 20-04-1943. Adicionado DOF 22-07-1993
 ### Artículo 1441
 .- Salvo acuerdo en contrario de las partes, cuando, sin invocar causa justificada:
 I.- El actor no presente su demanda con arreglo al primer párrafo del artículo 1439, el tribunal arbitral dará por terminadas las actuaciones.
-II.- El demandado no presente su contestación con arreglo a lo dispuesto en el primer párrafo del
-
-### artículo 1439
-, el tribunal arbitral continuará las actuaciones, sin que esa omisión se considere por sí misma como una aceptación de lo alegado por el actor, y III.- Una de las partes no comparezca a una audiencia o no presente pruebas documentales, el tribunal arbitral podrá continuar las actuaciones y dictar el laudo basándose en las pruebas de que disponga.
+II.- El demandado no presente su contestación con arreglo a lo dispuesto en el primer párrafo del artículo 1439, el tribunal arbitral continuará las actuaciones, sin que esa omisión se considere por sí misma como una aceptación de lo alegado por el actor, y III.- Una de las partes no comparezca a una audiencia o no presente pruebas documentales, el tribunal arbitral podrá continuar las actuaciones y dictar el laudo basándose en las pruebas de que disponga.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 22-07-1993
 
 ### Artículo 1442
@@ -7970,10 +7940,7 @@ Artículo derogado DOF 20-04-1943. Adicionado DOF 27-01-2011
 
 I. La resolución sobre recusación de un árbitro a que se refiere el tercer párrafo del artículo 1429.
 
-II. La resolución sobre la competencia del Tribunal Arbitral, cuando se determina en una resolución que no sea un laudo sobre el fondo del asunto, conforme a lo previsto en el tercer párrafo del
-
-### artículo 1432
-.
+II. La resolución sobre la competencia del Tribunal Arbitral, cuando se determina en una resolución que no sea un laudo sobre el fondo del asunto, conforme a lo previsto en el tercer párrafo del artículo 1432.
 
 III. La adopción de las medidas cautelares provisionales a que se refiere el artículo 1425.
 
@@ -8354,13 +8321,8 @@ SE REFORMAN los siguientes artículos 1o.; 2o.; 1054; 1055; 1056; 1057; 1058; 10
 **Primero.** del Libro Quinto; SE ADICIONAN una cuarta y quinta fracciones al artículo 1061; un segundo,
 **tercero.** y cuarto párrafos al artículo 1067; un segundo párrafo con seis fracciones al artículo 1068; un
 **tercero.** , cuarto, quinto, sexto y séptimo párrafos al artículo 1069; un segundo párrafo al artículo 1070; un
-**segundo.** párrafo con cuatro fracciones y un tercer y cuarto párrafos al artículo 1071; una quinta fracción al
-
-### artículo 1084
-; una fracción sexta al artículo 1094; una quinta, sexta, séptima y octava fracciones al
-
-### artículo 1151
-; un segundo párrafo al artículo 1209; un segundo párrafo al artículo 1249; un segundo, tercero y cuarto párrafos al artículo 1259; un segundo, tercero, cuarto, quinto y sexto párrafos al artículo 1272; una fracción tercera al artículo 1337; una fracción octava al artículo 1391; un primero y segundo párrafos al artículo 1394, así como el nombre al Capítulo VIII del Título Primero del Libro Quinto, y SE DEROGAN las fracciones séptima y octava del artículo 1079, y el artículo 1309, del Código de Comercio, para quedar como sigue: ..........
+**segundo.** párrafo con cuatro fracciones y un tercer y cuarto párrafos al artículo 1071; una quinta fracción al artículo 1084; una fracción sexta al artículo 1094; una quinta, sexta, séptima y octava fracciones al artículo 1151; un segundo párrafo al artículo 1209; un segundo párrafo al artículo 1249; un segundo,
+**tercero.** y cuarto párrafos al artículo 1259; un segundo, tercero, cuarto, quinto y sexto párrafos al artículo 1272; una fracción tercera al artículo 1337; una fracción octava al artículo 1391; un primero y segundo párrafos al artículo 1394, así como el nombre al Capítulo VIII del Título Primero del Libro Quinto, y SE DEROGAN las fracciones séptima y octava del artículo 1079, y el artículo 1309, del Código de Comercio, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -8579,10 +8541,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de C
 Publicado en el Diario Oficial de la Federación el 9 de junio de 2009
 
 ### Artículo Segundo
-Se adiciona un párrafo segundo, recorriéndose en su orden los actuales, al
-
-### artículo 1051
-del Código de Comercio, para quedar como sigue: ……….
+Se adiciona un párrafo segundo, recorriéndose en su orden los actuales, al artículo 1051 del Código de Comercio, para quedar como sigue: ……….
 
 ## TRANSITORIO
 
@@ -8666,16 +8625,12 @@ Publicado en el Diario Oficial de la Federación el 9 de enero de 2012
 ### ARTÍCULO ÚNICO
 se REFORMAN: el segundo párrafo de la fracción VI del artículo 1253; el
 **primero.** y cuarto (actualmente segundo) párrafos del artículo 1339; el primer párrafo del artículo 1340; el
-**primero.** y segundo párrafos del artículo 1390 Bis; el artículo 1390 Bis 1; el artículo 1390 Bis 6; el primero y segundo párrafos del artículo 1390 Bis 7, recorriéndose el actual segundo para quedar como tercero; el
-
-### artículo 1390
-Bis 8; el artículo 1390 Bis 9; el primero y segundo párrafos del artículo 1390 Bis 13; el primer párrafo del artículo 1390 Bis 18; el primer párrafo del artículo 1390 Bis 20; primero y tercer párrafo del artículo 1390 Bis 23; el primer párrafo del artículo 1390 Bis 26; la fracción V del artículo 1390 Bis 32; el artículo 1390 Bis 34; el segundo párrafo del artículo 1390 Bis 37; el primero y segundo párrafos del
-
-### artículo 1390
-Bis 38; el primer párrafo del artículo 1390 Bis 39; el primer párrafo, las fracciones I, II y III del artículo 1390 Bis 41; el primero y segundo párrafos del artículo 1390 Bis 42; el artículo 1390 Bis 43; el segundo párrafo del artículo 1390 Bis 45; el primero, segundo y tercer párrafos del artículo 1390 Bis 46; el primero y tercer del artículo 1390 Bis 47; el artículo 1390 Bis 48; el último párrafo del artículo 1390 Bis 49; primero, segundo y tercer párrafos del artículo 1414 Bis 9 y la fracción II del artículo 1467; se ADICIONAN: un tercer párrafo a la fracción VI del artículo 1253; un nuevo segundo y tercer párrafos al
-
-### artículo 1339
-, recorriéndose los actuales segundo a séptimo para quedar cuarto a noveno; un tercer párrafo al artículo 1390 Bis 7; un segundo párrafo del artículo 1390 Bis 9; un segundo párrafo del artículo 1390 Bis 18; un tercer párrafo al artículo 1390 Bis 40, recorriéndose el actual tercero para quedar como cuarto; un segundo párrafo al artículo 1390 Bis 42, recorriéndose el actual segundo para quedar como tercero; un artículo 1390 Bis 50; un segundo y tercero artículos transitorios y se DEROGAN el segundo párrafo del artículo 1340; el tercer párrafo del artículo 1390 Bis; el segundo párrafo del artículo 1390 Bis 20; el tercer párrafo del artículo 1390 Bis 38, recorriéndose el actual cuarto al tercero; las fracciones I y II del segundo párrafo del artículo 1414 Bis 9, todos del Código de Comercio, para quedar como sigue: ………..
+**primero.** y segundo párrafos del artículo 1390 Bis; el artículo 1390 Bis 1; el artículo 1390 Bis 6; el primero y segundo párrafos del artículo 1390 Bis 7, recorriéndose el actual segundo para quedar como tercero; el artículo 1390 Bis 8; el artículo 1390 Bis 9; el primero y segundo párrafos del artículo 1390 Bis 13; el primer párrafo del artículo 1390 Bis 18; el primer párrafo del artículo 1390 Bis 20; primero y tercer párrafo del artículo 1390 Bis 23; el primer párrafo del artículo 1390 Bis 26; la fracción V del artículo 1390 Bis 32; el artículo 1390 Bis 34; el segundo párrafo del artículo 1390 Bis 37; el primero y segundo párrafos del artículo 1390 Bis 38; el primer párrafo del artículo 1390 Bis 39; el primer párrafo, las fracciones I, II y III del artículo 1390 Bis 41; el primero y segundo párrafos del artículo 1390 Bis 42; el artículo 1390 Bis 43; el
+**segundo.** párrafo del artículo 1390 Bis 45; el primero, segundo y tercer párrafos del artículo 1390 Bis 46; el
+**primero.** y tercer del artículo 1390 Bis 47; el artículo 1390 Bis 48; el último párrafo del artículo 1390 Bis 49;
+**primero.** , segundo y tercer párrafos del artículo 1414 Bis 9 y la fracción II del artículo 1467; se ADICIONAN: un tercer párrafo a la fracción VI del artículo 1253; un nuevo segundo y tercer párrafos al artículo 1339, recorriéndose los actuales segundo a séptimo para quedar cuarto a noveno; un tercer párrafo al artículo 1390 Bis 7; un segundo párrafo del artículo 1390 Bis 9; un segundo párrafo del artículo 1390 Bis 18; un tercer párrafo al artículo 1390 Bis 40, recorriéndose el actual tercero para quedar como
+**cuarto.** ; un segundo párrafo al artículo 1390 Bis 42, recorriéndose el actual segundo para quedar como
+**tercero.** ; un artículo 1390 Bis 50; un segundo y tercero artículos transitorios y se DEROGAN el segundo párrafo del artículo 1340; el tercer párrafo del artículo 1390 Bis; el segundo párrafo del artículo 1390 Bis 20; el tercer párrafo del artículo 1390 Bis 38, recorriéndose el actual cuarto al tercero; las fracciones I y II del segundo párrafo del artículo 1414 Bis 9, todos del Código de Comercio, para quedar como sigue: ………..
 
 ## TRANSITORIOS
 
@@ -8746,14 +8701,12 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2014 OTORGAMI
 ### ARTÍCULO VIGÉSIMO SEGUNDO
 Se REFORMAN los artículos 1055 bis; 1068, párrafo primero; 1070 párrafo sexto; 1070 bis; 1085 párrafo primero; 1093; 1104, primer párrafo y fracción I; 1107 primer párrafo; 1132, fracción XI; 1168; 1170; 1171; 1172; 1173; 1174; 1175; 1176; 1177; 1178; 1179; 1180; 1181, 1182; 1183; 1184; 1185; 1186, 1187; 1188; 1189; 1375; 1390 bis 13 primer y segundo párrafo; 1390 bis 18; 1390 bis 40, último párrafo; 1391, fracciones II y VIII; 1392 primer párrafo; 1393 primer párrafo; 1394, primer y tercer párrafos; 1395, fracciones II y III; 1396; 1405; 1408; 1410, primer párrafo; 1411; 1412 primer párrafo; 1414 bis 8; 1414 bis 9 párrafo primero y segundo; 1414 bis 10, fracción III; 1414 bis 17; 1414 bis 19; se ADICIONAN un segundo párrafo al artículo 1068, pasando el actual párrafo
 **segundo.** a ser tercero; un último párrafo al artículo 1070; segundo párrafo al artículo 1085; una fracción III y un último párrafo al artículo 1104; un párrafo segundo al artículo 1107; un tercer, cuarto y quinto párrafo al artículo 1390 bis; un tercer párrafo al artículo 1390 bis 13; un segundo párrafo al artículo 1392; un
-**segundo.** al artículo 1393; un párrafo cuarto y quinto al artículo 1394 pasando el actual párrafo cuarto a ser sexto; un párrafo segundo y un tercero al artículo 1410; un párrafo segundo, tercero y cuarto al
-
-### artículo 1412
-; 1412 bis 2 y se DEROGAN el “Título Décimo Cuarto, De las Instituciones de Crédito”; los artículos 640; 1105; 1106; 1108; 1190; 1191; 1192 y 1193 del Código de Comercio, para quedar como sigue: ……….
+**segundo.** al artículo 1393; un párrafo cuarto y quinto al artículo 1394 pasando el actual párrafo cuarto a ser sexto; un párrafo segundo y un tercero al artículo 1410; un párrafo segundo, tercero y cuarto al artículo 1412; 1412 bis 2 y se DEROGAN el “Título Décimo Cuarto, De las Instituciones de Crédito”; los artículos 640; 1105; 1106; 1108; 1190; 1191; 1192 y 1193 del Código de Comercio, para quedar como sigue: ……….
 Disposiciones Transitorias
 
 ### ARTÍCULO VIGÉSIMO QUINTO
-En relación con las modificaciones a que se refieren los Artículos Vigésimo Segundo a Vigésimo Cuarto de este Decreto, se estará a lo siguiente:
+En relación con las modificaciones a que se refieren los Artículos
+**Vigésimo Segundo.** a Vigésimo Cuarto de este Decreto, se estará a lo siguiente:
 
 I. La reforma al artículo 53 y lo dispuesto en el artículo 53 bis de la Ley Orgánica del Poder Judicial de la Federación que se adiciona, entrarán en vigor a los 6 meses siguientes al día de su publicación en el Diario Oficial de la Federación, excepto por lo que respecta a las fracciones I, V y VI del artículo 53 bis, las cuales entrarán en vigor a los 12 meses siguientes al día de su publicación en el Diario Oficial de la Federación.
 
@@ -8889,10 +8842,7 @@ DECRETO por el que se reforma el artículo 35, fracción II de la Ley Federal de
 Publicado en el Diario Oficial de la Federación el 2 de mayo de 2017
 
 ### Artículo Segundo
-Se reforma el artículo 90 Bis, último párrafo, y se adicionan un último párrafo al
-
-### artículo 91
-y una fracción V al artículo 92 del Código de Comercio, para quedar como sigue: ……..
+Se reforma el artículo 90 Bis, último párrafo, y se adicionan un último párrafo al artículo 91 y una fracción V al artículo 92 del Código de Comercio, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -8919,16 +8869,12 @@ e) Artículo 1390 Bis 33: de $2,132.60 (Dos mil ciento treinta y dos 60/100 M.N.
 **ÚNICO.** El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 15 de diciembre de 2017.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
 DECRETO por el que se reforman los artículos Transitorios Segundo; primer párrafo del
-
-### artículo Tercero
-; primer párrafo del artículo Cuarto, y artículo Quinto; se adicionan los párrafos segundo y tercero al artículo Segundo Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles”, publicado en el Diario Oficial de la Federación el 25 de enero de 2017.
+**artículo Tercero.** ; primer párrafo del artículo Cuarto, y artículo Quinto; se adicionan los párrafos segundo y tercero al artículo Segundo Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles”, publicado en el Diario Oficial de la Federación el 25 de enero de 2017.
 Publicado en el Diario Oficial de la Federación el 28 de marzo de 2018
 
 ### Artículo Único
 Se reforman los artículos Transitorios Segundo; primer párrafo del artículo Tercero; primer párrafo del artículo Cuarto, y artículo Quinto; se adicionan los párrafos segundo y tercero al
-
-### artículo Segundo
-Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles”, publicado en el Diario Oficial de la Federación el 25 de enero de 2017, para quedar como sigue: ………
+**artículo Segundo.** Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles”, publicado en el Diario Oficial de la Federación el 25 de enero de 2017, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -9076,9 +9022,7 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 ACUERDO por el que se da a conocer la actualización de los montos establecidos en los artículos 1067 Bis fracción II, 1253 fracción VI, 1339, 1340 y 1390 Bis 33 del Código de Comercio.
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2025

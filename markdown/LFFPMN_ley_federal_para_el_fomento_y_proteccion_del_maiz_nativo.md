@@ -63,10 +63,7 @@ Lo establecido en el párrafo anterior se regirá por lo dispuesto en la Ley Gen
 Del Maíz Nativo y en Diversificación Constante como garantía del derecho humano a la alimentación
 
 ### Artículo 4
-. Se reconoce a la protección del Maíz Nativo y en Diversificación Constante en todo lo relativo a su producción, comercialización y consumo, como una obligación del Estado para garantizar el derecho humano a la alimentación nutritiva, suficiente y de calidad, establecido en el tercer párrafo del
-
-### artículo 4o
-. de la Constitución Política de los Estados Unidos Mexicanos.
+. Se reconoce a la protección del Maíz Nativo y en Diversificación Constante en todo lo relativo a su producción, comercialización y consumo, como una obligación del Estado para garantizar el derecho humano a la alimentación nutritiva, suficiente y de calidad, establecido en el tercer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
 El Estado deberá garantizar y fomentar, a través de todas las autoridades competentes, que todas las personas tengan acceso efectivo al consumo informado de Maíz Nativo y en Diversificación Constante, así como de sus productos derivados, en condiciones libres de OGM's.
 
 ## Capítulo III — Del Consejo Nacional del Maíz Nativo

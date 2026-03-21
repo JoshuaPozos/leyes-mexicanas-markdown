@@ -89,10 +89,7 @@ Artículo reformado DOF 23-12-1993 (se deja sin efecto en lo referente al Banco 
 :
 
 ### Artículo Primero
-El Ejecutivo Federal determinará, por conducto de la Secretaría de Hacienda y Crédito Público, la forma y plazo como deba hacerse la aportación inicial que se cita en la fracción III del
-
-### artículo 2o
-. de esta ley.
+El Ejecutivo Federal determinará, por conducto de la Secretaría de Hacienda y Crédito Público, la forma y plazo como deba hacerse la aportación inicial que se cita en la fracción III del artículo 2o. de esta ley.
 
 ### Artículo Segundo
 Se derogan el decreto de 21 de marzo de 1944, publicado en el "Diario Oficial" de la Federación el 12 de mayo del mismo año, relativo al Fondo Nacional de Garantía Agrícola y las demás disposiciones que se opongan a la presente ley.

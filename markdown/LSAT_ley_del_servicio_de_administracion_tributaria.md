@@ -459,10 +459,7 @@ Artículo adicionado DOF 12-06-2003
 Artículo adicionado DOF 12-06-2003
 
 ### Artículo 32
-. El Servicio de Administración Tributaria establecerá un sistema que permita evaluar su desempeño. Dicho sistema incluirá los indicadores necesarios para medir la eficiencia en el desempeño de dichas tareas con base en los resultados obtenidos. Al menos deberán incluirse indicadores que midan la eficiencia en el cumplimiento de las metas establecidas en el programa a que hace referencia el
-
-### artículo 21
-de esta Ley, así como la evolución de los aspectos contenidos en los informes trimestrales a que se refiere el artículo 22 de la misma ley.
+. El Servicio de Administración Tributaria establecerá un sistema que permita evaluar su desempeño. Dicho sistema incluirá los indicadores necesarios para medir la eficiencia en el desempeño de dichas tareas con base en los resultados obtenidos. Al menos deberán incluirse indicadores que midan la eficiencia en el cumplimiento de las metas establecidas en el programa a que hace referencia el artículo 21 de esta Ley, así como la evolución de los aspectos contenidos en los informes trimestrales a que se refiere el artículo 22 de la misma ley.
 Artículo adicionado DOF 12-06-2003
 
 ### Artículo 33

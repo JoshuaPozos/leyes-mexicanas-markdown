@@ -1169,10 +1169,7 @@ XI. Multa de 25,000 a 100,000 UMA a las Entidades Financieras, ITF o sociedades 
 
 XII. Multa de 2,000 a 15,000 UMA a las sociedades autorizadas para operar con Modelos Novedosos y las Entidades Financieras que en términos del artículo 89 de esta Ley, omitan o entreguen fuera de plazo el reporte;
 
-XIII. Multa de 1,000 a 150,000 UMA a las ITF, transmisores de dinero y las Entidades Financieras cuando interrumpan el acceso a la información en términos distintos a los que se refiere el
-
-### artículo 76
-de esta Ley o no notifiquen de la interrupción a las Comisiones Supervisoras. Esta misma sanción podrá ser impuesta por la CNSF y la CONSAR en el ámbito de sus respectivas competencias, y
+XIII. Multa de 1,000 a 150,000 UMA a las ITF, transmisores de dinero y las Entidades Financieras cuando interrumpan el acceso a la información en términos distintos a los que se refiere el artículo 76 de esta Ley o no notifiquen de la interrupción a las Comisiones Supervisoras. Esta misma sanción podrá ser impuesta por la CNSF y la CONSAR en el ámbito de sus respectivas competencias, y
 
 XIV. Multa de 2,000 a 10,000 UMA por las infracciones a cualquiera de las normas de esta Ley, así como a las disposiciones de carácter general que emita la CNBV o en conjunto con el Banco de México, conforme a la presente Ley, y que no tengan sanción expresamente señalada en este ordenamiento.
 En caso de que alguna de las infracciones contenidas en este artículo generen un daño patrimonial o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un tercero.
@@ -1578,7 +1575,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

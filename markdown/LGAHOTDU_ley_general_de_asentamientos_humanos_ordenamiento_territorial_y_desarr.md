@@ -61,10 +61,7 @@ IX. Conurbación: la continuidad física y demográfica que formen dos o más Ce
 
 X. Crecimiento: acción tendente a ordenar y regular las zonas para la expansión física de los Centros de Población;
 
-XI. Demarcaciones Territoriales: divisiones territoriales de la Ciudad de México a las que se refiere el
-
-### artículo 122
-de la Constitución Política de los Estados Unidos Mexicanos;
+XI. Demarcaciones Territoriales: divisiones territoriales de la Ciudad de México a las que se refiere el artículo 122 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XII. Densificación: Acción Urbanística cuya finalidad es incrementar el número de habitantes y la población flotante por unidad de superficie, considerando la capacidad de soporte del territorio y, en su caso, adecuando los espacios públicos y sus infraestructuras;
 
@@ -1531,16 +1528,7 @@ DECRETO por el que se reforman diversas disposiciones de la Ley General de Asent
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2021
 
 ### Artículo Único
-Se reforman el artículo 7; las fracciones VI, XII, XIV y XXII al artículo 8; las fracciones VII, XIV, XV y XIX al artículo 10; las fracciones VI y VII al artículo 11; la fracción VIII al artículo 16; el
-
-### artículo 31
-; el primer párrafo al artículo 32; el artículo 33; la fracción III al artículo 36; el último párrafo del
-
-### artículo 37
-; el artículo 42; y se adicionan las fracciones XLI , XLII y XLIII al artículo 3; la fracción XXVI al
-
-### artículo 11
-y la fracción XVI al artículo 16; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, para quedar como sigue: ……..
+Se reforman el artículo 7; las fracciones VI, XII, XIV y XXII al artículo 8; las fracciones VII, XIV, XV y XIX al artículo 10; las fracciones VI y VII al artículo 11; la fracción VIII al artículo 16; el artículo 31; el primer párrafo al artículo 32; el artículo 33; la fracción III al artículo 36; el último párrafo del artículo 37; el artículo 42; y se adicionan las fracciones XLI , XLII y XLIII al artículo 3; la fracción XXVI al artículo 11 y la fracción XVI al artículo 16; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, para quedar como sigue: ……..
 
 ## Transitorio
 

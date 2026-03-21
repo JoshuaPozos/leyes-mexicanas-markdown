@@ -436,10 +436,7 @@ Sólo podrán reducirse por adeudos contraídos con el Instituto por créditos h
 En este caso, el descuento se hará efectivo hasta el veinticinco por ciento del importe de la percepción periódica.
 
 ### Artículo 33
-. Tienen derecho al 100% del haber de la jerarquía que se reconozca para efectos de retiro, como base de cálculo para determinar el monto del haber de retiro en la forma establecida en el
-
-### artículo 31
-de esta Ley:
+. Tienen derecho al 100% del haber de la jerarquía que se reconozca para efectos de retiro, como base de cálculo para determinar el monto del haber de retiro en la forma establecida en el artículo 31 de esta Ley:
 
 I. Los militares incapacitados en acción de armas o a consecuencia de lesiones recibidas en ella;
 
@@ -897,10 +894,7 @@ II. Los beneficiarios del militar fallecido o desaparecido deberán entregar la 
 ### Artículo 94
 . El derecho del militar a reclamar el seguro colectivo de retiro o la devolución de aportaciones prescribirá en dos años, contados a partir de la fecha en que cause baja del activo y alta en situación de retiro.
 Para los beneficiarios, este término comenzará a partir de la fecha en que el Instituto les notifique por escrito su derecho a recibir el pago de la suma asegurada o la devolución de las cantidades aportadas, según sea el caso. Dicha notificación se realizará en el domicilio de los beneficiarios que se tengan registrados, en un término no mayor de 30 días, a partir de la fecha en que el Instituto tenga conocimiento del fallecimiento del militar.
-El pago de la suma asegurada no estará sujeto al impuesto sobre la renta, de conformidad con el
-
-### Artículo 95
-. El Instituto practicará cada año una revisión actuarial para mantener el equilibrio financiero entre los ingresos y egresos que constituyen el Fondo del Seguro Colectivo de Retiro, con objeto de garantizar el pago de las sumas aseguradas que correspondan.
+El pago de la suma asegurada no estará sujeto al impuesto sobre la renta, de conformidad con el Artículo 95. El Instituto practicará cada año una revisión actuarial para mantener el equilibrio financiero entre los ingresos y egresos que constituyen el Fondo del Seguro Colectivo de Retiro, con objeto de garantizar el pago de las sumas aseguradas que correspondan.
 En caso de presentar un déficit, éste se cubrirá con cargo al patrimonio del Instituto proveniente de las aportaciones que anualmente realiza el Gobierno Federal de acuerdo a lo establecido en esta Ley, o de cualquier otra aportación extraordinaria del propio Gobierno Federal que contribuya a la solvencia del mismo.
 Artículo reformado DOF 20-11-2008
 
@@ -1046,10 +1040,7 @@ Fracción reformada DOF 16-07-2025
 
 ### Artículo 111
 . Los créditos que se otorguen con cargo al fondo de vivienda, estarán cubiertos por un seguro que libere al militar o a sus beneficiarios de las obligaciones derivadas del crédito para los casos de inutilización permanente y total para el servicio activo, así como para los casos de muerte.
-Por incapacidad total y permanente se entiende, la imposibilidad física y/o mental que constituya causal de retiro, clasificada en la primera o segunda categoría, conforme a las tablas contenidas en el
-
-### artículo 226
-de esta Ley, siempre y cuando la incapacidad se produzca durante actos del servicio o como consecuencia de ellos y con fecha posterior a la formalización del crédito, debiendo acreditar dicho padecimiento con el certificado médico de incapacidad expedido por dos médicos militares o navales de las Secretaría de la Defensa Nacional o de Marina, según corresponda, así como la Declaración de Procedencia de Retiro emitida por la Dependencia correspondiente.
+Por incapacidad total y permanente se entiende, la imposibilidad física y/o mental que constituya causal de retiro, clasificada en la primera o segunda categoría, conforme a las tablas contenidas en el artículo 226 de esta Ley, siempre y cuando la incapacidad se produzca durante actos del servicio o como consecuencia de ellos y con fecha posterior a la formalización del crédito, debiendo acreditar dicho padecimiento con el certificado médico de incapacidad expedido por dos médicos militares o navales de las Secretaría de la Defensa Nacional o de Marina, según corresponda, así como la Declaración de Procedencia de Retiro emitida por la Dependencia correspondiente.
 Párrafo reformado DOF 20-11-2008 Este seguro estará en vigor durante el tiempo que permanezca insoluto el adeudo y el importe de las primas del seguro señalado será cubierto con los intereses que devenguen los créditos otorgados.
 El seguro se aplicará a petición del militar o, en su caso, de los derechohabientes o herederos, dentro de un término no mayor de dos años a partir de la fecha en la que el militar cause baja del servicio activo por incapacidad dentro de actos del servicio en primera o segunda categoría o de la fecha del fallecimiento; transcurrido dicho término, se tendrá por prescrito el derecho para la aplicación del seguro.
 Párrafo adicionado DOF 20-11-2008 La aplicación del seguro no exime al militar, derechohabientes o herederos a cubrir el adeudo que se registre antes del fallecimiento o de que se reciba en el Instituto la solicitud del militar.
@@ -1305,10 +1296,7 @@ Párrafo adicionado DOF 07-05-2019
 Artículo reformado DOF 14-11-2025
 
 ### Artículo 160
-. [La relación de concubinato será acreditada necesariamente, y en todo caso, con la designación que el militar haya hecho de la persona interesada, como concubina o concubinario, ante el Instituto o la Secretaría de la Defensa Nacional o de Marina. La designación posterior anula la anterior, siempre que se haya formulado dentro del plazo establecido en el artículo 143 de esta Ley y acreditado las circunstancias de los incisos a) y b) de la fracción II del artículo 38 de esta Ley, se acreditarán con los medios de prueba establecidos por el Código Nacional de Procedimientos Civiles y Familiares.] Artículo reformado DOF 20-11-2008, 14-11-2025 Artículo declarado inválido por sentencia de la SCJN a Declaratoria General de Inconstitucionalidad publicada en el DOF 16-12-2025 y notificado el Engrose de la Sentencia para efectos legales el 15-01-2026 Nota con relación a la Declaratoria General de Inconstitucionalidad: 1. El artículo 160 de esta Ley fue declarado inconstitucional en sesión del Tribunal Pleno de la SCJN del 18 de septiembre de 2025, al resolver la Declaratoria General de Inconstitucionalidad 1/2021. 2. El 14 de noviembre de 2025 fue publicado en el DOF reforma al mismo artículo 160 para el efecto de sustituir el Familiares”, sin modificar el resto del artículo declarado inconstitucional en sesión de la SCJN del 18-09-2025. 3. El 16 diciembre de 2025 fue publicada en el DOF la “Versión pública” de la Sentencia de la SCJN en la Declaratoria General de Inconstitucionalidad 1/2021 y, posteriormente, el jueves 15 de enero de 2026 se notificó a las Cámaras del Congreso de la Unión el Engrose correspondiente a dicha Sentencia “para que surta sus efectos legales”. 4. De conformidad con el resolutivo Segundo de la referida Sentencia, la declaratoria de inconstitucionalidad del
-
-### artículo 160
-de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas “surtirá sus efectos generales a partir de la notificación de estos puntos resolutivos al Congreso de la Unión”.
+. [La relación de concubinato será acreditada necesariamente, y en todo caso, con la designación que el militar haya hecho de la persona interesada, como concubina o concubinario, ante el Instituto o la Secretaría de la Defensa Nacional o de Marina. La designación posterior anula la anterior, siempre que se haya formulado dentro del plazo establecido en el artículo 143 de esta Ley y acreditado las circunstancias de los incisos a) y b) de la fracción II del artículo 38 de esta Ley, se acreditarán con los medios de prueba establecidos por el Código Nacional de Procedimientos Civiles y Familiares.] Artículo reformado DOF 20-11-2008, 14-11-2025 Artículo declarado inválido por sentencia de la SCJN a Declaratoria General de Inconstitucionalidad publicada en el DOF 16-12-2025 y notificado el Engrose de la Sentencia para efectos legales el 15-01-2026 Nota con relación a la Declaratoria General de Inconstitucionalidad: 1. El artículo 160 de esta Ley fue declarado inconstitucional en sesión del Tribunal Pleno de la SCJN del 18 de septiembre de 2025, al resolver la Declaratoria General de Inconstitucionalidad 1/2021. 2. El 14 de noviembre de 2025 fue publicado en el DOF reforma al mismo artículo 160 para el efecto de sustituir el Familiares”, sin modificar el resto del artículo declarado inconstitucional en sesión de la SCJN del 18-09-2025. 3. El 16 diciembre de 2025 fue publicada en el DOF la “Versión pública” de la Sentencia de la SCJN en la Declaratoria General de Inconstitucionalidad 1/2021 y, posteriormente, el jueves 15 de enero de 2026 se notificó a las Cámaras del Congreso de la Unión el Engrose correspondiente a dicha Sentencia “para que surta sus efectos legales”. 4. De conformidad con el resolutivo Segundo de la referida Sentencia, la declaratoria de inconstitucionalidad del artículo 160 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas “surtirá sus efectos generales a partir de la notificación de estos puntos resolutivos al Congreso de la Unión”.
 
 ### Artículo 161
 . La muerte de un militar en acción de guerra, será probada con el parte que rinda el Comandante de la fuerza.
@@ -1799,10 +1787,7 @@ Se reforman los artículos 12, fracción VII; 31, fracción III; 108, fracción 
 Años de 2012 2013 2014 2015 2016 servicios 20 12.00% 20.00% 30.00% 40.00% 50.00% 21 12.00% 20.00% 30.00% 40.00% 51.00% 22 12.00% 20.00% 30.00% 40.00% 52.00% 23 12.00% 20.00% 30.00% 40.00% 53.00% 24 12.00% 20.00% 30.00% 40.00% 54.00% 25 12.00% 20.00% 30.00% 42.00% 55.00% 26 12.00% 20.00% 30.00% 42.00% 56.00% 27 12.00% 20.00% 30.00% 42.00% 57.00% 28 12.00% 20.00% 30.00% 44.00% 58.00% 29 12.00% 20.00% 30.00% 44.00% 59.00%
 **TERCERO.** El porcentaje correspondiente al año 2012, será proporcionado del presupuesto de las Secretarías de la Defensa Nacional y de Marina, según corresponda.
 México, D.F., a 16 de febrero de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Ludivina Menchaca Castellanos, Secretaria.- Dip. Gloria Romero León, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
-DECRETO por el que se adicionan las fracciones XXV, XXVI y XXVII al artículo 18 y un
-
-### artículo 138
-Bis a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+DECRETO por el que se adicionan las fracciones XXV, XXVI y XXVII al artículo 18 y un artículo 138 Bis a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 Publicado en el Diario Oficial de la Federación el 5 de junio de 2012
 
 ### Artículo Único
@@ -1887,16 +1872,11 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 VERSIÓN pública de la Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Declaratoria General de Inconstitucionalidad 1/2021.
 Publicada en el Diario Oficial de la Federación el 16 de diciembre de 2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 1/2021 SOLICITANTE: SEGUNDA SALA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN VISTO BUENO SRA. MINISTRA MINISTRA PONENTE: LENIA BATRES GUADARRAMA COTEJÓ SECRETARIOS: NADIA IVETH PARTIDA MEJORADA HUMBERTO JARDÓN PÉREZ COLABORÓ: ITZEL ALEJANDRA MARTÍNEZ ARRIAGA Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al dieciocho de septiembre de dos mil veinticinco, emite la siguiente:
-DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD Derivado de lo resuelto por la extinta Segunda Sala de la Suprema Corte de Justicia de la Nación (SCJN) en el Amparo en Revisión 77/2021, por el que se declaró la inconstitucionalidad del
-
-### artículo 160
-de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD Derivado de lo resuelto por la extinta Segunda Sala de la Suprema Corte de Justicia de la Nación (SCJN) en el Amparo en Revisión 77/2021, por el que se declaró la inconstitucionalidad del artículo 160 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 TRÁMITE ………
 
 I. COMPETENCIA a V. ESTUDIO DE LOS REQUISITOS DE LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD ………

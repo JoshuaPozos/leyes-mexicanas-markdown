@@ -345,10 +345,7 @@ Tratándose de sociedades controladoras de grupos financieros, los accionistas y
 En ningún caso podrán ser consejeros de las sociedades anónimas bursátiles, las personas que hubieren desempeñado el cargo de auditor externo de la sociedad o de alguna de las personas morales que integran el grupo empresarial o consorcio al que ésta pertenezca, durante los doce meses inmediatos anteriores a la fecha del nombramiento.
 Asimismo, el consejo de administración designará a un secretario que no formará parte de dicho órgano social, quien quedará sujeto a las obligaciones y responsabilidades que este ordenamiento legal establece.
 Los consejeros continuarán en el desempeño de sus funciones, aun cuando hubiere concluido el plazo para el que hayan sido designados o por renuncia al cargo, hasta por un plazo de treinta días naturales, a falta de la designación del sustituto o cuando éste no tome posesión de su cargo, sin estar sujetos a lo dispuesto en el artículo 154 de la Ley General de Sociedades Mercantiles.
-El consejo de administración podrá designar consejeros provisionales, sin intervención de la asamblea de accionistas, cuando se actualice alguno de los supuestos señalados en el párrafo anterior o en el
-
-### artículo 155
-de la Ley General de Sociedades Mercantiles. La asamblea de accionistas de la sociedad ratificará dichos nombramientos o designará a los consejeros sustitutos en la asamblea siguiente a que ocurra tal evento, sin perjuicio de lo establecido en el artículo 50, fracción I del presente ordenamiento legal.
+El consejo de administración podrá designar consejeros provisionales, sin intervención de la asamblea de accionistas, cuando se actualice alguno de los supuestos señalados en el párrafo anterior o en el artículo 155 de la Ley General de Sociedades Mercantiles. La asamblea de accionistas de la sociedad ratificará dichos nombramientos o designará a los consejeros sustitutos en la asamblea siguiente a que ocurra tal evento, sin perjuicio de lo establecido en el artículo 50, fracción I del presente ordenamiento legal.
 
 ### Artículo 25
 .- El consejo de administración, para el desempeño de las funciones que esta Ley le asigna, contará con el auxilio de uno o más comités que establezca para tal efecto. El o los comités que desarrollen las actividades en materia de prácticas societarias y de auditoría a que se refiere esta Ley, se integrarán exclusivamente con consejeros independientes y por un mínimo de tres miembros designados por el propio consejo, a propuesta del presidente de dicho órgano social. Tratándose de sociedades anónimas bursátiles que sean controladas por una persona o grupo de personas que tengan el cincuenta por ciento o más del capital social, el comité de prácticas societarias se integrará, cuando menos, por mayoría de consejeros independientes siempre que dicha circunstancia sea revelada al público.
@@ -457,10 +454,7 @@ La información que sea presentada al consejo de administración de la sociedad 
 Los miembros del consejo de administración y demás personas que desempeñen un empleo, cargo o comisión en alguna de las personas morales que controle una sociedad anónima bursátil o en las que ésta tenga una influencia significativa, no faltarán a la discreción y confidencialidad establecida en ésta u otras leyes, cuando proporcionen información conforme a lo aquí previsto al consejo de administración de la sociedad anónima bursátil, relativa a las referidas personas morales.
 
 ### Artículo 32
-.- Los miembros del consejo de administración de las sociedades anónimas bursátiles faltarán al deber de diligencia y serán susceptibles de responsabilidad en términos de lo establecido en el
-
-### artículo 33
-de esta Ley, cuando causen un daño patrimonial a la sociedad o a las personas morales que ésta controle o en las que tenga una influencia significativa, en virtud de actualizarse alguno de los supuestos siguientes:
+.- Los miembros del consejo de administración de las sociedades anónimas bursátiles faltarán al deber de diligencia y serán susceptibles de responsabilidad en términos de lo establecido en el artículo 33 de esta Ley, cuando causen un daño patrimonial a la sociedad o a las personas morales que ésta controle o en las que tenga una influencia significativa, en virtud de actualizarse alguno de los supuestos siguientes:
 
 I. Se abstengan de asistir, salvo causa justificada a juicio de la asamblea de accionistas, a las sesiones del consejo y, en su caso, comités de los que formen parte, y que con motivo de su inasistencia no pueda sesionar legalmente el órgano de que se trate.
 
@@ -576,10 +570,7 @@ b) Solicitar la opinión de expertos independientes en los casos en que lo juzgu
 
 c) Convocar a asambleas de accionistas y hacer que se inserten en el orden del día de dichas asambleas los puntos que estimen pertinentes.
 
-d) Apoyar al consejo de administración en la elaboración de los informes a que se refiere el
-
-### artículo 28
-, fracción IV, incisos d) y e) de esta Ley.
+d) Apoyar al consejo de administración en la elaboración de los informes a que se refiere el artículo 28, fracción IV, incisos d) y e) de esta Ley.
 
 e) Las demás que esta Ley establezca o se prevean en los estatutos sociales de la sociedad, acordes con las funciones que el presente ordenamiento legal le asigna.
 
@@ -595,10 +586,7 @@ d) Informar al consejo de administración la situación que guarda el sistema de
 
 e) Elaborar la opinión a que se refiere el artículo 28, fracción IV, inciso c) de esta Ley y someterla a consideración del consejo de administración para su posterior presentación a la asamblea de accionistas, apoyándose, entre otros elementos, en el dictamen del auditor externo. Dicha opinión deberá señalar, por lo menos: 1. Si las políticas y criterios contables y de información seguidas por la sociedad son adecuados y suficientes tomando en consideración las circunstancias particulares de la misma. 2. Si dichas políticas y criterios han sido aplicados consistentemente en la información presentada por el director general. 3. Si como consecuencia de los numerales 1 y 2 anteriores, la información presentada por el director general refleja en forma razonable la situación financiera y los resultados de la sociedad.
 
-f) Apoyar al consejo de administración en la elaboración de los informes a que se refiere el
-
-### artículo 28
-, fracción IV, incisos d) y e) de esta Ley.
+f) Apoyar al consejo de administración en la elaboración de los informes a que se refiere el artículo 28, fracción IV, incisos d) y e) de esta Ley.
 
 g) Vigilar que las operaciones a que hacen referencia los artículos 28, fracción III y 47 de esta Ley, se lleven a cabo ajustándose a lo previsto al efecto en dichos preceptos, así como a las políticas derivadas de los mismos.
 
@@ -697,10 +685,7 @@ Los informes relativos a los estados financieros y a la información en materia 
 Párrafo reformado DOF 10-01-2014
 
 ### Artículo 46
-.- El director general y los demás directivos relevantes estarán sujetos a lo previsto en el
-
-### artículo 29
-de esta Ley, en sus respectivas competencias, por lo que responderán por los daños y perjuicios derivados de las funciones que les correspondan. Asimismo, les resultarán aplicables las excluyentes y limitaciones de responsabilidad a que se refieren los artículos 33 y 40 de esta Ley, en lo conducente.
+.- El director general y los demás directivos relevantes estarán sujetos a lo previsto en el artículo 29 de esta Ley, en sus respectivas competencias, por lo que responderán por los daños y perjuicios derivados de las funciones que les correspondan. Asimismo, les resultarán aplicables las excluyentes y limitaciones de responsabilidad a que se refieren los artículos 33 y 40 de esta Ley, en lo conducente.
 Adicionalmente, el director general y los demás directivos relevantes serán responsables de los daños y perjuicios que ocasionen a la sociedad o personas morales que ésta controle por:
 
 I. La falta de atención oportuna y diligente, por causas que les sean imputables, de las solicitudes de información y documentación que en el ámbito de sus competencias les requieran los consejeros de la sociedad.
@@ -910,10 +895,7 @@ XIII. En su caso, la firma autógrafa del representante común de los tenedores,
 Este requisito no será necesario en el caso de certificados bursátiles que no deban inscribirse en el Registro.
 
 XIV. Las facultades de la asamblea de tenedores y, en su caso, de los demás órganos decisorios que se contemplen.
-Lo dispuesto en las fracciones V y XIV deberá cumplirse de conformidad con lo establecido en el
-
-### artículo 64
-Bis 1 de esta Ley.
+Lo dispuesto en las fracciones V y XIV deberá cumplirse de conformidad con lo establecido en el artículo 64 Bis 1 de esta Ley.
 La emisión de los certificados bursátiles podrá constar en diferentes series, las cuales conferirán a sus tenedores los derechos que se prevea para cada una de ellas. En todo caso, los tenedores de la misma serie contarán con los mismos derechos.
 Cuando se trate de emisiones de certificados bursátiles fiduciarios de desarrollo, y se prevea la posibilidad de efectuar las llamadas de capital a que esta Ley se refiere, deberán especificarse los términos y condiciones en que podrán efectuarse, incluyendo los derechos y obligaciones de los tenedores.
 En el caso de que un fiduciario lleve a cabo emisiones de dos o más series de certificados bursátiles fiduciarios bajo un mismo fideicomiso, podrá establecerse que los bienes o derechos afectos a las cuentas o subcuentas que correspondan a cada serie solo podrán ser destinados al cumplimiento de las obligaciones de la serie respectiva, sin que puedan ser utilizados para el cumplimiento de obligaciones bajo series distintas aun en el caso de concurso mercantil o quiebra del fideicomiso emisor.
@@ -1140,10 +1122,7 @@ Párrafo reformado DOF 10-01-2014 La información de que se trata deberá notifi
 ### Artículo 81
 .- Las obligaciones que esta Ley impone a las emisoras y emisoras simplificadas de valores inscritos conforme al artículo 71, fracciones I, II y III serán exigibles mientras la inscripción de los valores inscritos en el Registro no haya sido cancelada por la Comisión, con apego a lo dispuesto en el presente ordenamiento legal.
 Párrafo reformado DOF 28-12-2023 La inscripción en el Registro surtirá efectos legales en el momento en que los valores sean efectivamente colocados. Tratándose de inscripciones de valores sin oferta pública, éstas surtirán efectos en el mismo acto de su inscripción.
-Los valores inscritos en el Registro tendrán aparejada ejecución, siendo aplicable lo previsto en el
-
-### artículo 1391
-del Código de Comercio, aún en los casos en que la inscripción en el Registro haya sido suspendida o cancelada.
+Los valores inscritos en el Registro tendrán aparejada ejecución, siendo aplicable lo previsto en el artículo 1391 del Código de Comercio, aún en los casos en que la inscripción en el Registro haya sido suspendida o cancelada.
 Los valores inscritos en el Registro se tendrán por autorizados como objeto de inversión por parte de inversionistas institucionales, cuando las leyes financieras que les resulten aplicables establezcan como requisito, para tal efecto, el registro otorgado por parte de la Comisión. Sin perjuicio de lo anterior, los inversionistas institucionales únicamente podrán adquirir dichos valores, cuando su régimen de inversión lo prevea expresamente.
 Párrafo reformado DOF 28-12-2023
 
@@ -1406,10 +1385,7 @@ Apartado B De las ofertas públicas forzosas de adquisición
 
 I. La oferta se hará extensiva a las distintas series de acciones de la sociedad, inclusive a aquéllas de voto limitado, restringido o sin derecho a voto.
 
-II. La contraprestación ofrecida deberá ser la misma, con independencia de la clase o tipo de acción. Sin perjuicio de lo anterior, el oferente deberá revelar, en su caso, los compromisos asumidos o convenios de hacer o no hacer celebrados en términos de lo establecido en el
-
-### artículo 100
-de esta Ley, ya sea con la sociedad o con los titulares de los valores que pretende adquirir.
+II. La contraprestación ofrecida deberá ser la misma, con independencia de la clase o tipo de acción. Sin perjuicio de lo anterior, el oferente deberá revelar, en su caso, los compromisos asumidos o convenios de hacer o no hacer celebrados en términos de lo establecido en el artículo 100 de esta Ley, ya sea con la sociedad o con los titulares de los valores que pretende adquirir.
 
 III. La oferta se realizará:
 
@@ -1429,10 +1405,7 @@ No quedará incluido en la limitación antes señalada el pago de contraprestaci
 El oferente deberá declarar en el folleto de la oferta, bajo protesta de decir verdad, la inexistencia de pagos distintos al importe de la contraprestación objeto de la oferta.
 
 ### Artículo 101
-.- La sociedad anónima y las personas morales que ésta controle, así como los miembros del consejo de administración y directivos relevantes de aquélla, deberán abstenerse de realizar actos u operaciones en perjuicio de la sociedad que tengan por objeto obstaculizar el desarrollo de la oferta, desde el momento en que sea de su conocimiento y hasta la conclusión del período de la misma, sin perjuicio de la aplicación de las estipulaciones que se contengan en las cláusulas a que se refiere el
-
-### artículo 48
-de esta Ley.
+.- La sociedad anónima y las personas morales que ésta controle, así como los miembros del consejo de administración y directivos relevantes de aquélla, deberán abstenerse de realizar actos u operaciones en perjuicio de la sociedad que tengan por objeto obstaculizar el desarrollo de la oferta, desde el momento en que sea de su conocimiento y hasta la conclusión del período de la misma, sin perjuicio de la aplicación de las estipulaciones que se contengan en las cláusulas a que se refiere el artículo 48 de esta Ley.
 Los miembros del consejo de administración de la sociedad anónima deberán a más tardar al décimo día hábil posterior al inicio de la oferta pública, elaborar, escuchando al comité que desempeñe las funciones en materia de prácticas societarias, y dar a conocer al público inversionista a través de la bolsa en que coticen los valores de la sociedad y en los términos y condiciones que dicha bolsa establezca, su opinión respecto del precio de la oferta y los conflictos de interés que, en su caso, tenga cada uno de sus miembros respecto de la oferta. La opinión del consejo de administración podrá estar acompañada de otra emitida por un experto independiente que contrate la sociedad.
 Asimismo, los miembros del consejo de administración y el director general de la sociedad de que se trate, deberán revelar al público, junto con la opinión a que se refiere el párrafo anterior, la decisión que tomarán respecto de los valores de su propiedad.
 La Comisión podrá requerir al oferente que amplíe el plazo de una oferta pública de adquisición, o bien, reducir el plazo dentro del cual los miembros del consejo de administración de la sociedad anónima bursátil den a conocer al público inversionista las opiniones a que se refieren el segundo y tercer párrafos de este artículo, cuando a su juicio dichos actos contribuyan a la toma de decisiones de inversión.
@@ -1489,10 +1462,7 @@ Fracción adicionada DOF 06-05-2009
 VII. Los demás que contengan la información y documentación que determine la Comisión, mediante disposiciones de carácter general.
 Los estados financieros de las emisoras deberán elaborarse conforme a principios de contabilidad emitidos o reconocidos por la Comisión. Las sociedades anónimas cuyas acciones representativas del capital social o títulos de crédito que las representen se encuentren inscritas en el Registro, estarán exceptuadas del requisito de publicar sus estados financieros, conforme lo establece el artículo 177 de la Ley General de Sociedades Mercantiles.
 Tratándose de títulos fiduciarios, la información a que se refiere este artículo deberá proporcionarse respecto del patrimonio fideicomitido. Cuando el cumplimiento de las obligaciones en relación con los valores que se emitan al amparo del fideicomiso dependa total o parcialmente del fideicomitente, del administrador del patrimonio fideicomitido, del garante o avalista o de cualquier otro tercero, éstos deberán presentar la información que la Comisión determine mediante disposiciones de carácter general, en relación con los aspectos a que se refiere este artículo.
-Las entidades federativas; los municipios; los organismos descentralizados de orden federal, estatal o municipal; las sociedades nacionales de crédito; las fiduciarias de fideicomisos al amparo de los cuales se emitan títulos de crédito que representen acciones del capital social de dos o más personas morales; las sociedades extranjeras, y las entidades del exterior u organismos distintos de los mencionados en el
-
-### artículo 93
-, fracción IV, de esta Ley, presentarán la misma información a que se refiere este artículo o, en su caso, aquélla que la sustituya o sea equivalente, de conformidad con las disposiciones de carácter general que expida la Comisión.
+Las entidades federativas; los municipios; los organismos descentralizados de orden federal, estatal o municipal; las sociedades nacionales de crédito; las fiduciarias de fideicomisos al amparo de los cuales se emitan títulos de crédito que representen acciones del capital social de dos o más personas morales; las sociedades extranjeras, y las entidades del exterior u organismos distintos de los mencionados en el artículo 93, fracción IV, de esta Ley, presentarán la misma información a que se refiere este artículo o, en su caso, aquélla que la sustituya o sea equivalente, de conformidad con las disposiciones de carácter general que expida la Comisión.
 La Comisión expedirá las disposiciones de carácter general que establezcan los requisitos, términos y condiciones con que deberá cumplir la información a que se refiere este artículo.
 Las bolsas de valores regularán en sus reglamentos interiores las obligaciones, requisitos, términos y condiciones que deberá cumplir la información a que se refiere este artículo respecto de las emisoras simplificadas, por lo que no les resultará aplicable lo señalado en los artículos 105 y 106 de esta Ley.
 Párrafo adicionado DOF 28-12-2023 La Comisión establecerá en las disposiciones de carácter general aplicables, el contenido mínimo que cumplimiento al párrafo anterior deben difundir las emisoras simplificadas, así como los supuestos en los que los inversionistas podrán solicitar, a través de la bolsa de valores de que se trate, se aclare la información revelada por la emisora simplificada de cuyos valores sean tenedores.
@@ -1811,10 +1781,7 @@ III. No tener alguno de los impedimentos que para ser consejero señalan las fra
 .- Las casas de bolsa deberán verificar que las personas que sean designadas como consejeros, comisarios, director general y directivos con la jerarquía inmediata inferior a la de éste, cumplan con anterioridad al inicio de sus gestiones y durante el desarrollo de las mismas con los requisitos señalados en esta Ley. La Comisión podrá establecer, mediante disposiciones de carácter general, los criterios de integración de expedientes que acrediten el cumplimiento a lo señalado en el presente artículo, así como para la integración de la documentación comprobatoria relativa.
 Las personas mencionadas en el párrafo anterior deberán manifestar por escrito:
 
-I. Que no se ubican en ninguno de los supuestos a que se refieren las fracciones III a VII del
-
-### artículo 124
-de esta Ley, tratándose de consejeros y la fracción III del artículo 128 para el caso del director general y directivos a que se refiere el primer párrafo de este artículo.
+I. Que no se ubican en ninguno de los supuestos a que se refieren las fracciones III a VII del artículo 124 de esta Ley, tratándose de consejeros y la fracción III del artículo 128 para el caso del director general y directivos a que se refiere el primer párrafo de este artículo.
 
 II. Que conocen los derechos y obligaciones que asumen al aceptar el cargo que corresponda.
 Las casas de bolsa deberán informar a la Comisión los nombramientos, renuncias y remociones de consejeros, comisarios, director general y directivos con la jerarquía inmediata inferior a la de éste, dentro de los diez días hábiles posteriores a que dicho supuesto acontezca, manifestando expresamente, en el caso de nombramientos, que las personas cumplen con los requisitos aplicables.
@@ -1850,10 +1817,7 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 131
 .- El órgano de vigilancia de las casas de bolsa estará integrado por lo menos por un comisario designado por los accionistas de la serie "O" y por un comisario nombrado por los de la serie "L" cuando existan este tipo de acciones, así como sus respectivos suplentes. El nombramiento de comisarios deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
-Los comisarios de las casas de bolsa deberán cumplir con el requisito establecido en la fracción I del
-
-### artículo 128
-de esta Ley.
+Los comisarios de las casas de bolsa deberán cumplir con el requisito establecido en la fracción I del artículo 128 de esta Ley.
 
 ## Sección III — De la fusión y escisión
 
@@ -2016,17 +1980,11 @@ II. Ordenar que de acuerdo con el artículo 138 de esta Ley, se suspenda la ejec
 .- La Comisión podrá declarar la intervención gerencial de las casas de bolsa, cuando a su juicio existan irregularidades de cualquier género que afecten su estabilidad, solvencia o liquidez y pongan en peligro los intereses de sus clientes o acreedores.
 Al efecto, el presidente de la Comisión podrá proponer a su Junta de Gobierno, la declaración de intervención con carácter gerencial de la casa de bolsa y la designación de la persona que se haga cargo de la administración del intermediario de que se trate, con el carácter de interventor-gerente en los términos previstos en este artículo.
 Las asociaciones gremiales de intermediarios del mercado de valores que sean reconocidas por la Comisión como organismos autorregulatorios y que lleven a cabo certificaciones en términos de lo establecido en el artículo 229, antepenúltimo párrafo de esta Ley, deberán implementar mecanismos para que personas interesadas en ocupar el cargo de interventor-gerente de una casa de bolsa o fungir como miembro del consejo consultivo a que se refiere el artículo 146 de esta Ley, puedan inscribirse en un registro que se lleve al efecto, si cumplen con la certificación de dichos organismos.
-Para ser certificado e inscrito en el mencionado registro, las personas interesadas en actuar como interventores-gerentes, deberán presentar por escrito su solicitud a alguna de las asociaciones gremiales mencionadas en el párrafo anterior, con los documentos que acrediten el cumplimiento de los requisitos establecidos en el artículo 128 de esta Ley, sin que sea aplicable lo dispuesto en la fracción VI del
-
-### artículo 124
-del mismo ordenamiento y cumplir con los requisitos que al efecto establezca el organismo de que se trate. Las personas interesadas en ser inscritas en el registro como miembros del consejo consultivo, deberán presentar junto con su solicitud, la documentación que acredite que cumplen con los requisitos establecidos en el artículo 124 de esta Ley y que no se ubican en algunas de las causales de improcedencia previstas en dicho artículo.
+Para ser certificado e inscrito en el mencionado registro, las personas interesadas en actuar como interventores-gerentes, deberán presentar por escrito su solicitud a alguna de las asociaciones gremiales mencionadas en el párrafo anterior, con los documentos que acrediten el cumplimiento de los requisitos establecidos en el artículo 128 de esta Ley, sin que sea aplicable lo dispuesto en la fracción VI del artículo 124 del mismo ordenamiento y cumplir con los requisitos que al efecto establezca el organismo de que se trate. Las personas interesadas en ser inscritas en el registro como miembros del consejo consultivo, deberán presentar junto con su solicitud, la documentación que acredite que cumplen con los requisitos establecidos en el artículo 124 de esta Ley y que no se ubican en algunas de las causales de improcedencia previstas en dicho artículo.
 La Comisión designará al interventor-gerente de entre la terna de personas certificadas que le señale alguna de las asociaciones gremiales mencionadas en este artículo. En caso de que al momento de declararse la intervención no hayan asociaciones gremiales de intermediarios del mercado de valores reconocidas por la Comisión para actuar como organismos autorregulatorios, o bien, éstas no cuenten con los mecanismos a que se refiere el tercer párrafo de este artículo, la Comisión podrá designar al interventor-gerente y, en su caso, a los miembros del consejo consultivo, por acuerdo de su Junta de Gobierno, siempre que las personas designadas cumplan con los requisitos previstos en esta Ley para desempeñar dichos cargos.
 
 ### Artículo 142
-.- Las personas que obtengan la inscripción en el registro a que se hace referencia en el
-
-### artículo 141
-de esta Ley, deberán cumplir con probidad y diligencia las funciones que deriven de su designación ya sea como interventor-gerente o miembro del consejo consultivo, de conformidad con esta Ley y demás disposiciones aplicables, debiendo guardar la debida confidencialidad respecto de la información a la que tengan acceso en ejercicio de sus funciones.
+.- Las personas que obtengan la inscripción en el registro a que se hace referencia en el artículo 141 de esta Ley, deberán cumplir con probidad y diligencia las funciones que deriven de su designación ya sea como interventor-gerente o miembro del consejo consultivo, de conformidad con esta Ley y demás disposiciones aplicables, debiendo guardar la debida confidencialidad respecto de la información a la que tengan acceso en ejercicio de sus funciones.
 
 ### Artículo 143
 .- El oficio que contenga el nombramiento de interventor-gerente y su revocación, deberán inscribirse en el Registro Público de Comercio que corresponda al domicilio del intermediario intervenido, sin más requisitos que el oficio respectivo de la Comisión en que conste dicho nombramiento, la sustitución de interventor-gerente o su revocación cuando la Comisión autorice levantar la intervención.
@@ -2906,10 +2864,7 @@ VI. Certificar su calidad técnica, honorabilidad e historial crediticio satisfa
 
 VII. Se deroga Fracción derogada DOF 10-01-2014
 
-VIII. La propaganda o publicidad dirigida al público estará sujeta a las previsiones contenidas en el
-
-### artículo 6
-de la presente Ley.
+VIII. La propaganda o publicidad dirigida al público estará sujeta a las previsiones contenidas en el artículo 6 de la presente Ley.
 Fracción adicionada DOF 10-01-2014
 
 IX. Sujetarse a lo dispuesto por los artículos 188, fracciones III y IV; 189, párrafos tercero, fracciones I a III, cuarto y quinto; 190, 191, excepto último párrafo; 193, 200, fracciones II y VIII, segundo párrafo de esta Ley, así como a las disposiciones de carácter general que expida la Comisión en términos de tales artículos. En caso de ser asesores en inversiones que no sean independientes, en adición a lo anterior, les resultarán aplicables los límites máximos a que alude el artículo 178, respecto de las recomendaciones que formulen.
@@ -3558,10 +3513,7 @@ Las sociedades a que se refiere el párrafo anterior estarán sujetas a la inspe
 
 ### Artículo 282
 .- Los valores objeto de depósito en instituciones para el depósito de valores, podrán ser representados en títulos múltiples o en un solo título que ampare parte o la totalidad de los valores materia de la emisión y del depósito. Tales títulos podrán emitirse de manera electrónica en forma de mensaje de datos con firma electrónica avanzada de acuerdo con lo establecido en el Código de Comercio y de conformidad con las disposiciones de carácter general que emita el Banco de México, que comprendan, entre otros aspectos, los títulos que podrán emitirse utilizando medios electrónicos, así como las características específicas y de seguridad que deberán reunir para tales efectos. Los títulos que se encuentren emitidos en medios impresos, podrán sustituirse de manera electrónica en los términos del presente párrafo de conformidad con las disposiciones de carácter general que emita el Banco de México.
-Párrafo reformado DOF 10-01-2014 Tratándose de valores nominativos, los títulos que los representen serán emitidos con la mención de estar depositados en la institución para el depósito de valores de que se trate, sin que se requiera expresar en el documento el nombre, domicilio, ni la nacionalidad de los titulares. La mención anteriormente prevista producirá los mismos efectos del endoso en administración a que se refiere el
-
-### artículo 283
-de esta Ley.
+Párrafo reformado DOF 10-01-2014 Tratándose de valores nominativos, los títulos que los representen serán emitidos con la mención de estar depositados en la institución para el depósito de valores de que se trate, sin que se requiera expresar en el documento el nombre, domicilio, ni la nacionalidad de los titulares. La mención anteriormente prevista producirá los mismos efectos del endoso en administración a que se refiere el artículo 283 de esta Ley.
 Asimismo, cuando lo estipule la emisora o emisora simplificada podrán emitirse títulos que no lleven cupones adheridos. En este caso, las constancias que expida la citada institución harán las veces de dichos cupones para todos los efectos legales.
 Párrafo reformado DOF 28-12-2023 Las emisoras o emisoras simplificadas tendrán la obligación de expedir y canjear los títulos necesarios, en su caso, con los cupones respectivos, cuando así lo requiera la institución para el depósito de valores para atender las solicitudes de retiro de valores en ella depositados.
 Párrafo reformado DOF 28-12-2023 Las instituciones para el depósito de valores podrán actuar como apoderadas de las emisoras o emisoras simplificadas a efecto de realizar los actos a que se refiere el párrafo anterior.
@@ -3661,10 +3613,7 @@ Los depositantes podrán objetar por escrito o a través de cualquier medio conv
 ## Sección V — De la revocación y de la disolución y liquidación
 
 ### Artículo 298
-.- La Secretaría, a propuesta de la Comisión o del Banco de México, o bien, oyendo la opinión de dichas autoridades, y previo otorgamiento del derecho de audiencia, podrá revocar la concesión para operar como institución para el depósito de valores, en los casos a que se refiere el
-
-### artículo 299
-de esta Ley.
+.- La Secretaría, a propuesta de la Comisión o del Banco de México, o bien, oyendo la opinión de dichas autoridades, y previo otorgamiento del derecho de audiencia, podrá revocar la concesión para operar como institución para el depósito de valores, en los casos a que se refiere el artículo 299 de esta Ley.
 
 ### Artículo 299
 .- La Secretaría podrá revocar la concesión para operar como institución para el depósito de valores, cuando:
@@ -3829,10 +3778,7 @@ III. Los derechos y obligaciones de la sociedad y de las personas señaladas en 
 
 IV. Los procedimientos para administrar riesgos; los mecanismos para obtener recursos financieros que le permitan cubrir sus obligaciones; las normas operativas y prudenciales aplicables a la contraparte central de valores y a los acreedores y deudores recíprocos de ésta; el proceso para la adopción y supervisión de dichas normas, así como de las de autorregulación que emitan; las medidas disciplinarias y correctivas que se aplicarán en caso de incumplimiento, así como el procedimiento para hacer efectivas dichas medidas.
 
-V. El procedimiento para la aplicación de los recursos a que se refieren las fracciones III y IV del
-
-### artículo 307
-de esta Ley.
+V. El procedimiento para la aplicación de los recursos a que se refieren las fracciones III y IV del artículo 307 de esta Ley.
 
 VI. Los procedimientos para modificar el reglamento.
 El reglamento y sus modificaciones deberán someterse a la previa autorización de la Comisión y del Banco de México, los cuales podrán formular observaciones y modificaciones cuando consideren que el reglamento no se ajusta a lo establecido en esta Ley o a los sanos usos y prácticas de mercado. No requerirán de autorización las normas de autorregulación, pero en todo caso, la Comisión y el Banco de México tendrán facultad de veto en relación con dichas normas.
@@ -4049,10 +3995,7 @@ Adicionalmente, los citados auditores externos, la persona moral de la cual sean
 Párrafo reformado DOF 28-12-2023
 
 ### Artículo 344
-.- Los licenciados en derecho y los expertos independientes que elaboren opiniones en términos de esta Ley, deberán reunir los requisitos previstos en las disposiciones a que hace referencia el
-
-### artículo 343
-de esta Ley, salvo por lo que se refiere a ser socio de una persona moral donde preste servicios profesionales. Dichos requisitos serán igualmente aplicables, en lo conducente, a la persona moral que preste los servicios profesionales a la emisora o emisora simplificada de que se trate de la que, en su caso, sean socios o para la cual laboren.
+.- Los licenciados en derecho y los expertos independientes que elaboren opiniones en términos de esta Ley, deberán reunir los requisitos previstos en las disposiciones a que hace referencia el artículo 343 de esta Ley, salvo por lo que se refiere a ser socio de una persona moral donde preste servicios profesionales. Dichos requisitos serán igualmente aplicables, en lo conducente, a la persona moral que preste los servicios profesionales a la emisora o emisora simplificada de que se trate de la que, en su caso, sean socios o para la cual laboren.
 Adicionalmente, los licenciados en derecho a que se refiere este precepto, no podrán mantener acuerdos de reciprocidad con los auditores externos que contrate la emisora o la emisora simplificada, cuando impliquen la existencia de relaciones de negocio para la prestación de sus servicios profesionales que puedan derivar en conflictos de interés.
 Artículo reformado DOF 10-01-2014, 28-12-2023
 
@@ -4467,10 +4410,7 @@ VI. Presenten a la Comisión documentos o información falsa o alterada con el o
 .- Serán sancionados con prisión de tres a nueve años los miembros del consejo de administración, directivos o empleados de un intermediario del mercado de valores o institución para el depósito de valores, que den noticias o información sobre las operaciones, servicios o depósitos que realicen o en las que intervengan por cuenta de sus clientes, en contravención de lo establecido en los artículos 192, párrafo primero ó 295, párrafo primero de esta Ley, según corresponda. Se aplicará la misma penalidad a aquellas personas que usen sin autorización del titular del contrato la información antes referida.
 
 ### Artículo 378
-.- Será sancionado con prisión de dos a siete años todo aquél que habiendo sido removido, suspendido o inhabilitado, por resolución firme de la Comisión, en términos de lo previsto en el
-
-### artículo 393
-de esta Ley, continúe desempeñando las funciones respecto de las cuales fue removido o suspendido, o bien, ocupe un empleo, cargo o comisión, dentro del sistema financiero mexicano, a pesar de encontrarse suspendido o inhabilitado para ello.
+.- Será sancionado con prisión de dos a siete años todo aquél que habiendo sido removido, suspendido o inhabilitado, por resolución firme de la Comisión, en términos de lo previsto en el artículo 393 de esta Ley, continúe desempeñando las funciones respecto de las cuales fue removido o suspendido, o bien, ocupe un empleo, cargo o comisión, dentro del sistema financiero mexicano, a pesar de encontrarse suspendido o inhabilitado para ello.
 
 ### Artículo 379
 .- Serán sancionados con prisión de dos a seis años quienes con motivo de una oferta pública de adquisición forzosa de acciones representativas del capital social de una sociedad anónima o títulos de crédito que representen dichas acciones, inscritos en el Registro, realizada en términos de lo previsto en el artículo 98 de esta Ley, paguen, entreguen o proporcionen cualquier contraprestación, por sí o a través de interpósita persona, que implique un premio económico o sobreprecio al importe de la oferta, en favor de una persona o grupo de personas determinado que acepten su oferta o de quien éstos designen.
@@ -4606,10 +4546,7 @@ Párrafo adicionado DOF 24-01-2024 Las sanciones serán impuestas por la Junta d
 Atendiendo a las circunstancias de cada caso, la Comisión podrá, además de la imposición de la sanción que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando sus antecedentes personales, la gravedad de la conducta, que no se cuente con elementos que permitan demostrar que se afecten intereses de terceros o del propio sistema financiero, que habiéndose causado un daño este haya sido reparado, así como la existencia de atenuantes.
 Párrafo reformado DOF 10-01-2014 En el caso de personas morales, las multas podrán ser impuestas tanto a dichas personas como a sus consejeros, directores generales, directivos, empleados o apoderados que hayan incurrido directamente o hayan ordenado la realización de la conducta materia de la infracción.
 La Comisión considerará como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor acredite ante la Comisión haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión, a efecto de deslindar responsabilidades.
-Párrafo reformado DOF 10-01-2014 Los procedimientos para la imposición de las sanciones administrativas a que se refiere esta Ley se iniciarán con independencia de la opinión de delito que, en su caso, emita la Comisión en términos del
-
-### artículo 388
-del presente ordenamiento legal, así como de los procedimientos penales que correspondan.
+Párrafo reformado DOF 10-01-2014 Los procedimientos para la imposición de las sanciones administrativas a que se refiere esta Ley se iniciarán con independencia de la opinión de delito que, en su caso, emita la Comisión en términos del artículo 388 del presente ordenamiento legal, así como de los procedimientos penales que correspondan.
 Asimismo, serán independientes de la reparación de los daños y perjuicios que, en su caso, demanden las personas afectadas por los actos de que se trate.
 Reforma DOF 10-01-2014: Derogó del artículo los entonces párrafos sexto y octavo
 
@@ -4740,10 +4677,7 @@ u) Las emisoras que no expidan y canjeen los títulos necesarios y, en su caso, 
 
 v) Las emisoras que no cumplan frente a las instituciones para el depósito de valores, con las obligaciones a su cargo provenientes del ejercicio de los derechos patrimoniales señalados en el párrafo segundo de la fracción I, del artículo 288, de la presente Ley.
 
-w) Las casas de bolsa e instituciones de crédito que no depositen en una institución para el depósito de valores, las acciones representativas del capital social de una contraparte central que sean de su propiedad, a fin de garantizar el pago puntual y oportuno de las obligaciones que dichas entidades tengan frente a la sociedad, en contravención con el
-
-### artículo 303
-, tercer párrafo de esta Ley.
+w) Las casas de bolsa e instituciones de crédito que no depositen en una institución para el depósito de valores, las acciones representativas del capital social de una contraparte central que sean de su propiedad, a fin de garantizar el pago puntual y oportuno de las obligaciones que dichas entidades tengan frente a la sociedad, en contravención con el artículo 303, tercer párrafo de esta Ley.
 
 III. Multa de 30,000 a 100,000 días de salario, a:
 Párrafo reformado DOF 10-01-2014
@@ -4756,10 +4690,7 @@ c) Los miembros del consejo de administración de sociedades anónimas bursátil
 
 d) Los miembros y secretario del consejo de administración, así como los directivos relevantes de sociedades anónimas bursátiles que actúen con deslealtad o que obren ilícitamente en contra de la sociedad o personas morales que ésta controle o en las que tenga una influencia significativa, en contravención a lo establecido en los artículos 34, párrafo primero, 35, 36 ó 46, fracciones II ó III, de esta Ley.
 
-e) Los miembros del comité que ejerza las funciones en materia de auditoría, de las sociedades anónimas bursátiles, que omitan cumplir con las obligaciones previstas en el
-
-### artículo 42
-, fracción II, incisos e) y g), de esta Ley.
+e) Los miembros del comité que ejerza las funciones en materia de auditoría, de las sociedades anónimas bursátiles, que omitan cumplir con las obligaciones previstas en el artículo 42, fracción II, incisos e) y g), de esta Ley.
 
 f) Las sociedades anónimas bursátiles que prevean en sus estatutos sociales cláusulas que establezcan medidas tendientes a prevenir la adquisición de acciones que otorguen el control de la sociedad, en contravención de lo establecido en el artículo 48 de esta Ley.
 
@@ -4798,10 +4729,7 @@ Inciso reformado DOF 10-01-2014
 s) Las casas de bolsa, proveedores de precios y asesores en inversiones que contravengan los artículos 186, 188, fracciones I y II, 196, 197, 227, fracción IV o 331 de esta Ley, según corresponda.
 Inciso reformado DOF 10-01-2014
 
-t) Las entidades financieras que no se excusen en los términos del segundo párrafo del
-
-### artículo 189
-de esta Ley.
+t) Las entidades financieras que no se excusen en los términos del segundo párrafo del artículo 189 de esta Ley.
 Inciso reformado DOF 10-01-2014
 
 u) Los integrantes del comité responsable del análisis de los productos financieros o la persona responsable de supervisar el cumplimiento de las disposiciones en materia de servicios asesorados y no asesorados, que actúen en contravención a lo previsto en los artículos 190 Bis o 190 Bis 1 de esta Ley, y las disposiciones de carácter general que de tales preceptos deriven, siempre que con ello no hubieren ocasionado un daño.
@@ -4850,10 +4778,7 @@ a) Los intermediarios del mercado de valores que realicen intermediación respec
 
 b) Las personas que realicen alguna de las actividades previstas en los artículos 9, 114, 159, 160, 225, 234, 253, 272, 301, 322 o 334 de esta Ley, sin contar con la concesión, autorización o registro correspondiente.
 
-c) Las emisoras que no revelen eventos relevantes en términos de lo establecido en el
-
-### artículo 105
-del presente ordenamiento legal.
+c) Las emisoras que no revelen eventos relevantes en términos de lo establecido en el artículo 105 del presente ordenamiento legal.
 
 d) Las casas de bolsa que no cuenten con un sistema de remuneración en los términos previstos por el artículo 130 de esta Ley y las disposiciones de carácter general que de este deriven.
 
@@ -4883,10 +4808,7 @@ p) Las entidades financieras o asesores en inversiones que omitan grabar o docum
 
 q) Las entidades financieras que omitan contar con áreas de negocio separadas e independientes para la prestación de servicios de inversión, en contravención a lo dispuesto por el artículo 224 de esta Ley.
 
-r) A los asesores en inversiones que incurran en alguna de las prohibiciones previstas en el
-
-### artículo 227
-, fracciones I a III de la presente Ley.
+r) A los asesores en inversiones que incurran en alguna de las prohibiciones previstas en el artículo 227, fracciones I a III de la presente Ley.
 
 s) A todo aquél que difunda información falsa o que induzca a error en contravención a lo establecido por los artículos 368 o 369 de esta Ley.
 
@@ -4926,10 +4848,7 @@ Fracción reformada DOF 10-01-2014
 
 IV. Las personas que proporcionen dictámenes, opiniones o estudios a emisoras, que contengan información falsa divulgada al público inversionista.
 En los supuestos a que se refieren las fracciones I, inciso b), II y III de este artículo, la Comisión podrá además inhabilitar a las citadas personas para desempeñar un empleo, cargo o comisión dentro del sistema financiero mexicano, por el mismo periodo de tres meses hasta cinco años, sin perjuicio de las sanciones que conforme a éste u otros ordenamientos legales fueren aplicables.
-Adicionalmente, tratándose de las personas físicas que obtengan la autorización en términos del
-
-### artículo 193
-de esta Ley, la Comisión podrá determinar la revocación de ésta cuando se ubiquen en alguno de los supuestos previstos en la fracción I, incisos a) y b) de este artículo.
+Adicionalmente, tratándose de las personas físicas que obtengan la autorización en términos del artículo 193 de esta Ley, la Comisión podrá determinar la revocación de ésta cuando se ubiquen en alguno de los supuestos previstos en la fracción I, incisos a) y b) de este artículo.
 
 ### Artículo 393
 Bis.- Con independencia de las sanciones económicas que conforme a esta Ley imponga la Comisión a las emisoras por infringir lo dispuesto en el segundo párrafo del artículo 104 de la presente Ley, por no elaborar sus estados financieros conforme a principios de contabilidad emitidos o reconocidos por esta, la Comisión estará facultada para requerir a las emisoras la modificación de sus estados financieros para que se apeguen a los referidos principios, así como el correspondiente envío a la propia Comisión y a la bolsa en la que listen sus valores para su difusión inmediata al público en general a través de esta última.
@@ -5236,10 +5155,7 @@ VII. Las instituciones de banca múltiple deberán prever en los contratos que c
 VIII. Cuando las leyes, reglamentos, decretos, acuerdos u otros instrumentos jurídicos hagan mención al concurso mercantil o quiebra de instituciones de crédito, la referencia deberá entenderse hecha a los procedimientos previstos en el Título Séptimo, Capítulo II, Sección Segunda de la Ley de Instituciones de Crédito.
 
 IX. La reforma contenida en el presente Decreto al séptimo párrafo del artículo 73 Bis de la Ley de Instituciones de Crédito no será aplicable al monto de las operaciones o de créditos dispuestos a cargo de personas relacionadas, celebradas con anterioridad a la entrada en vigor de este mismo Decreto, hasta que se reestructuren o renueven.
-En razón de lo anterior, las instituciones de banca múltiple solo podrán celebrar con posterioridad a la entrada en vigor del presente Decreto operaciones a cargo de personas relacionadas por un monto que no exceda del porcentaje previsto por el séptimo párrafo del
-
-### artículo 73
-Bis de la Ley de Instituciones de Crédito, una vez consideradas las operaciones referidas en el párrafo anterior.
+En razón de lo anterior, las instituciones de banca múltiple solo podrán celebrar con posterioridad a la entrada en vigor del presente Decreto operaciones a cargo de personas relacionadas por un monto que no exceda del porcentaje previsto por el séptimo párrafo del artículo 73 Bis de la Ley de Instituciones de Crédito, una vez consideradas las operaciones referidas en el párrafo anterior.
 Lo dispuesto por el primer párrafo del presente artículo, solo aplicará respecto del importe que con anterioridad a la entrada en vigor del presente Decreto ya hubiere sido dispuesto por el acreditado, tratándose de préstamos o créditos revocables; o bien, a la totalidad del monto de dicho préstamo o crédito, en el caso de préstamos o créditos irrevocables celebrados con anterioridad a su entrada en vigor.
 
 X. La Junta de Gobierno del Instituto para la Protección al Ahorro Bancario expedirá las disposiciones de carácter general a que se refiere el artículo 22 de la Ley de Protección al Ahorro Bancario, dentro de un plazo que no podrá exceder de doce meses contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se expidan dichas disposiciones, las Instituciones deberán seguir el procedimiento establecido en las disposiciones publicadas en el Diario Oficial de la Federación el 31 de mayo de 1999. ……….
@@ -5249,7 +5165,8 @@ SÉPTIMO.- Se REFORMAN los Artículos 70; 93, fracción VI y cuarto párrafo, y 
 Disposiciones Transitorias
 
 ### ARTÍCULO TRIGÉSIMO
-OCTAVO.- En relación con las modificaciones a que se refieren los Artículos Trigésimo Sexto y Trigésimo Séptimo de este Decreto, se estará a lo siguiente:
+OCTAVO.- En relación con las modificaciones a que se refieren los Artículos
+**Trigésimo.** Sexto y Trigésimo Séptimo de este Decreto, se estará a lo siguiente:
 
 I. Las sociedades de inversión autorizadas en términos de las disposiciones legales vigentes antes de la entrada en vigor del presente Decreto, contarán con un plazo de dieciocho meses a partir de la entrada en vigor del propio Decreto para solicitar a la Comisión Nacional Bancaria y de Valores la autorización de la reforma a sus estatutos sociales que contenga las cláusulas previstas en este Decreto aplicables a los fondos de inversión, por cuanto a las funciones de administración, conducción de los negocios y vigilancia de los fondos de inversión, así como derechos de los accionistas. En la solicitud, dichas sociedades de inversión deberán adjuntar la información de su socio fundador indicando los datos relativos a su autorización para constituirse como sociedad operadora de fondos de inversión.
 Hasta en tanto las sociedades de inversión obtengan la autorización para su transformación en fondos de inversión, les resultarán aplicables las disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto. La Comisión Nacional Bancaria y de Valores contará con un plazo de dieciocho meses para resolver sobre la transformación de las sociedades de inversión en fondos de inversión conforme a este Decreto; dicho plazo computará a partir de que las sociedades anónimas respectivas presenten la solicitud correspondiente.
@@ -5281,11 +5198,17 @@ X. Las referencias que en otras Leyes, reglamentos o disposiciones se hagan resp
 MERCADO DE VALORES
 
 ### ARTÍCULO TRIGÉSIMO
-NOVENO.- Se REFORMAN los artículos 2, fracción XVI; 7, segundo y último párrafos; 8, primer párrafo; 16, fracciones I y II; 19, fracción I, inciso b); 44, tercer párrafo, fracción V; 45, último párrafo; 50, el encabezado del primer párrafo; 62; 63, primer párrafo, fracción IV y último párrafo; 64; 66, segundo párrafo; 69, primer párrafo; 71, último párrafo; 75, último párrafo; 80, primer párrafo; 85, primer párrafo, fracción V; 87, primer párrafo, fracción II en su encabezado e inciso f); 92, primer párrafo; 105, último párrafo; 106, primero en su encabezado, penúltimo y último párrafos; 108, primer párrafo, fracción III; 117, cuarto párrafo; 120; 130; 135; 136; 153, fracción VII; 165, tercer párrafo; 173; 178; 183; 185, segundo párrafo; 186, fracción V; 189, tercer párrafo; 190; 191; 200, fracciones II, primer párrafo, VIII, segundo párrafo; 201; 203, primer párrafo; 208; 212, primer párrafo, fracción II, segundo párrafo; 225; 226, primer párrafo, fracciones I, II y penúltimo párrafo; 227, primer párrafo, fracciones I, II y IV; 237, cuarto y quinto párrafos; 241, último párrafo; 242, primer párrafo; 252; 254, fracciones III y IV y último párrafo; 257; 262, primer párrafo; 263, primer párrafo, fracción II; 275, segundo párrafo; 282, primer párrafo; 283, primer párrafo; 295, último párrafo; 316, fracción III; 324, último párrafo; 335, último párrafo; 344, primer párrafo; 350 párrafos primero, segundo y cuarto; 358; 359; 363, primer párrafo, fracciones IV, X, en su encabezado; 366, segundo párrafo; 368; 369; 370, primer párrafo, fracciones II y V; 371, primer párrafo en su encabezado; 374, primer párrafo en su encabezado; 380, primer párrafo; 383, primer párrafo en su encabezado; 388, primer párrafo; 389, primer párrafo; 391, primer párrafo en su encabezado y sus fracciones II y III, tercer y quinto párrafos; 392, primer párrafo, fracciones I, en su encabezado e incisos b), c) y n), II, en su encabezado e incisos f) y m), III, en su encabezado e incisos l) a y), IV, incisos b) y c), V, primero y segundo párrafos y VII; 393, primer párrafo en su encabezado y fracción I, primer párrafo en su encabezado y fracción III; 399, primer párrafo en su encabezado; 413; 415, primer párrafo; se ADICIONAN los artículos 2, fracción XVIII con un segundo párrafo; 63 Bis; 63 Bis 1; 64 Bis al 64 Bis 3; 85, fracción II con un segundo párrafo; 87, fracción II con el inciso i) y con un último párrafo; 88 con una fracción VI; 115, con una fracción IV, recorriéndose la actual fracción IV y la V en su orden; 129, con un último párrafo; 130 Bis; 132, con un último párrafo; 165, con un último párrafo; 167, con un último párrafo; 173 Bis; 177 Bis; 188 con las fracciones III y IV; 189 con los párrafos cuarto y quinto recorriéndose el actual párrafo cuarto para ser último párrafo; 190 Bis; 190 Bis 1; 200, fracción I, con los párrafos tercero, cuarto y quinto y con una fracción XII; 204, con los párrafos quinto, sexto y séptimo, recorriéndose los demás párrafos en su orden y según corresponda; 212, fracción III, primer párrafo con los incisos e) y f) y los párrafos cuarto, quinto y sexto, antepenúltimo, penúltimo y último; 224, con un segundo párrafo; 226, primer párrafo con las fracciones VIII y IX y un último párrafo; un artículo 226 Bis; 227, primer párrafo con una fracción V; 227 Bis; 237, con un último párrafo; 237 Bis; 244, con una fracción X, recorriéndose las demás fracciones en su orden y según corresponda; 252 Bis; 259, con un último párrafo; 262, con un último párrafo; 279, con un tercer párrafo; 280 con una fracción XI y recorriéndose la actual fracción XI en su orden; 333, con un último párrafo; 339, con un último párrafo; 351 Bis; 358 Bis; 363, fracción X, con un inciso d); 366, con un tercer párrafo, recorriéndose el actual tercero para ser el último; 370 Bis; 371, primer párrafo con las fracciones VI y VII; 383 Bis; 386, con un segundo párrafo, recorriéndose el segundo y tercer párrafos en su orden y según corresponda; 390, con un último párrafo; 391, fracción IV; 391 Bis; 392, primer párrafo, fracciones I, inciso a) con un segundo párrafo y el inciso aa), III, incisos z) a ac), VIII y IX y los párrafos cuarto y quinto, recorriéndose los párrafos cuarto y quinto en su orden y según corresponda, así como un último párrafo; 393 Bis; un
+NOVENO.- Se REFORMAN los artículos 2, fracción XVI; 7, segundo y último párrafos; 8, primer párrafo; 16, fracciones I y II; 19, fracción I, inciso b); 44, tercer párrafo, fracción V; 45, último párrafo; 50, el encabezado del primer párrafo; 62; 63, primer párrafo, fracción IV y último párrafo; 64; 66, segundo párrafo; 69, primer párrafo; 71, último párrafo; 75, último párrafo; 80, primer párrafo; 85, primer párrafo, fracción V; 87, primer párrafo, fracción II en su encabezado e inciso f); 92, primer párrafo; 105, último párrafo; 106, primero en su encabezado, penúltimo y último párrafos; 108, primer párrafo, fracción III; 117, cuarto párrafo; 120; 130; 135; 136; 153, fracción VII; 165, tercer párrafo; 173; 178; 183; 185, segundo párrafo; 186, fracción V; 189, tercer párrafo; 190; 191; 200, fracciones II, primer párrafo, VIII, segundo párrafo; 201; 203, primer párrafo; 208; 212, primer párrafo, fracción II, segundo párrafo; 225; 226, primer párrafo, fracciones I, II y penúltimo párrafo; 227, primer párrafo, fracciones I, II y IV; 237,
+**cuarto.** y quinto párrafos; 241, último párrafo; 242, primer párrafo; 252; 254, fracciones III y IV y último párrafo; 257; 262, primer párrafo; 263, primer párrafo, fracción II; 275, segundo párrafo; 282, primer párrafo; 283, primer párrafo; 295, último párrafo; 316, fracción III; 324, último párrafo; 335, último párrafo; 344, primer párrafo; 350 párrafos primero, segundo y cuarto; 358; 359; 363, primer párrafo, fracciones IV, X, en su encabezado; 366, segundo párrafo; 368; 369; 370, primer párrafo, fracciones II y V; 371, primer párrafo en su encabezado; 374, primer párrafo en su encabezado; 380, primer párrafo; 383, primer párrafo en su encabezado; 388, primer párrafo; 389, primer párrafo; 391, primer párrafo en su encabezado y sus fracciones II y III, tercer y quinto párrafos; 392, primer párrafo, fracciones I, en su encabezado e incisos b), c) y n), II, en su encabezado e incisos f) y m), III, en su encabezado e incisos l) a y), IV, incisos b) y c), V, primero y segundo párrafos y VII; 393, primer párrafo en su encabezado y fracción I, primer párrafo en su encabezado y fracción III; 399, primer párrafo en su encabezado; 413; 415, primer párrafo; se ADICIONAN los artículos 2, fracción XVIII con un segundo párrafo; 63 Bis; 63 Bis 1; 64 Bis al 64 Bis 3; 85, fracción II con un segundo párrafo; 87, fracción II con el inciso i) y con un último párrafo; 88 con una fracción VI; 115, con una fracción IV, recorriéndose la actual fracción IV y la V en su orden; 129, con un último párrafo; 130 Bis; 132, con un último párrafo; 165, con un último párrafo; 167, con un último párrafo; 173 Bis; 177 Bis; 188 con las fracciones III y IV; 189 con los párrafos cuarto y
+**quinto.** recorriéndose el actual párrafo cuarto para ser último párrafo; 190 Bis; 190 Bis 1; 200, fracción I, con los párrafos tercero, cuarto y quinto y con una fracción XII; 204, con los párrafos quinto, sexto y
+**séptimo.** , recorriéndose los demás párrafos en su orden y según corresponda; 212, fracción III, primer párrafo con los incisos e) y f) y los párrafos cuarto, quinto y sexto, antepenúltimo, penúltimo y último; 224, con un segundo párrafo; 226, primer párrafo con las fracciones VIII y IX y un último párrafo; un artículo 226 Bis; 227, primer párrafo con una fracción V; 227 Bis; 237, con un último párrafo; 237 Bis; 244, con una fracción X, recorriéndose las demás fracciones en su orden y según corresponda; 252 Bis; 259, con un último párrafo; 262, con un último párrafo; 279, con un tercer párrafo; 280 con una fracción XI y recorriéndose la actual fracción XI en su orden; 333, con un último párrafo; 339, con un último párrafo; 351 Bis; 358 Bis; 363, fracción X, con un inciso d); 366, con un tercer párrafo, recorriéndose el actual
+**tercero.** para ser el último; 370 Bis; 371, primer párrafo con las fracciones VI y VII; 383 Bis; 386, con un
+**segundo.** párrafo, recorriéndose el segundo y tercer párrafos en su orden y según corresponda; 390, con un último párrafo; 391, fracción IV; 391 Bis; 392, primer párrafo, fracciones I, inciso a) con un segundo párrafo y el inciso aa), III, incisos z) a ac), VIII y IX y los párrafos cuarto y quinto, recorriéndose los párrafos cuarto y quinto en su orden y según corresponda, así como un último párrafo; 393 Bis; un
 
 ## Capítulo II Bis — “De los programas de autocorrección” al Título XV que comprende los artículos 395 Bis a
 395 Bis 3; 399, con los párrafos penúltimo y último; y se DEROGAN los artículos 20, inciso c) y último párrafo, 226, fracciones IV y VII y segundo párrafo; 264, último párrafo; 391, sexto y último párrafos; 392, quedar como sigue: ……….
-Disposiciones Transitorias ARTÍCULO CUADRAGÉSIMO.- En relación con las modificaciones a que se refiere el Artículo Trigésimo Noveno de este Decreto, se estará a lo siguiente.
+Disposiciones Transitorias ARTÍCULO CUADRAGÉSIMO.- En relación con las modificaciones a que se refiere el Artículo
+**Trigésimo.** Noveno de este Decreto, se estará a lo siguiente.
 
 I. Los asesores en inversiones tendrán un plazo de un año contado a partir de la publicación en el Diario Oficial de la Federación de este Decreto, para ajustarse a lo previsto en los artículos 225 Decreto.
 A partir de la fecha en la que los asesores en inversiones realicen el registro ante la Comisión a que se refiere el segundo párrafo del artículo 225 de la presente Ley, dicha Comisión ejercerá en exclusiva las facultades de supervisión de los asesores en inversiones en materia de prevención y detección de actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en del artículo 400 Bis del mismo Código.
@@ -5379,7 +5302,5 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 **Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 **Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-### artículo Sexto
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

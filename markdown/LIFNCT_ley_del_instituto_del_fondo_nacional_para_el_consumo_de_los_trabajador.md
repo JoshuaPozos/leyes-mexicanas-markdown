@@ -69,10 +69,7 @@ IV. Instrumentar acciones que permitan obtener a los trabajadores financiamiento
 
 V. Participar en términos de la presente Ley en los programas que establezcan las instituciones de crédito y sociedades financieras de objeto limitado, dirigidos a fomentar el crédito para los trabajadores, así como para los almacenes y tiendas a que se refiere el artículo 103 de la Ley Federal del Trabajo;
 
-VI. Brindar apoyo y asesoría en el funcionamiento de las tiendas y almacenes a que se refiere el
-
-### artículo 103
-de la Ley Federal del Trabajo;
+VI. Brindar apoyo y asesoría en el funcionamiento de las tiendas y almacenes a que se refiere el artículo 103 de la Ley Federal del Trabajo;
 
 VII. Celebrar los actos o contratos relacionados directa o indirectamente con su objeto;
 
