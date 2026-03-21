@@ -260,12 +260,9 @@ a F Lrzr> Ñ Als +SsS+.roeaamM> oa Á Mi ee eo e x pra. Mo. A IA ii = SS SR e a 
 é ia > “A 7 = a 2 a == — : El DA a Y Aa A SS A Ed ——— SS: a e A Estroja. —_ A — -—_\ }——_ > ee a >| ¡— SSS ñón, Ciñat0h iñal pa.trieftus sie nes deo : De la a“ E Ii va paz... elercan_gel A Ly a So bs a 3 == == o a SS 5-5 =>T>—H- ==
 
 
-
-> Za
-
-3 e Y
-| PI | 9 | 1 | 16 | ee | 7 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | --- | --- | --- | --- | --- | --- |
+| PI | 9 | 1 | 16 | ee | 7 |
 
 e 4 Jf Also. no.rorugirdel. don Y re - liembleen suscen.tros la tierra, ca_ a PA > “3 \ h —— === ha re Pa => =— oo 0 aa HE E a e
 
@@ -301,11 +298,10 @@ ZIN
 
 >
 
-A a M2 E SE + E A E eee ——]] a E ii: 3 | A OZ Also. no.rorugirdel. dof Y re - liembleen suscen.tros la tierra, ca_ PA tees sf Tea h = === er —————— ee v ij e a o EE ~ hon Y re tiem.bleensus te : Al , _ cen.tros la rra so_ no.rorugir del..ca. —-4 a os E E om = FA Ha ME as — ' E 3.
-E uu 1 ae 3S = —— ie — == AA oe ar HH AA — E 1d - mima — 1 y A Estroja.
-TE a, e — —— — EI —h ++ 1 ee SSS ñón. Ciñat0h ite i pa.trieftus jalhie sie el nes deo Ii = De la a“ va paz... elercan_gel A Ly Sa bd 3
-| A | . | 4 |
+A a M2 E SE + E A E eee ——]] a E ii: 3 | A OZ Also. no.rorugirdel. dof Y re - liembleen suscen.tros la tierra, ca_ PA tees sf Tea h = === er —————— ee
+| hon A ñón. | Y re tiem.bleensus te : _ cen.tros la Estroja. Ciñat0h ite i pa.trieftus jalhie sie el nes deo Ii = | Al rra so_ no.rorugir del..ca. - mima — 1 De la a“ - va paz... elercan_gel |
 | --- | --- | --- |
+| A | . | 4 |
 
 == + Ade do. +2 =1 = == A SSS SS
 

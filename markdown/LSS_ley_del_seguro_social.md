@@ -1377,8 +1377,9 @@ SECCION SEXTA DE LA PENSION GARANTIZADA
 . Pensión garantizada es aquélla que el Estado asegura a quienes tengan sesenta años o más de edad, hayan cotizado mil o más semanas y que se calculará conforme a la tabla prevista en este artículo, considerando el promedio de su salario base de cotización durante su afiliación al Instituto. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
 
 Salario base de cotización del trabajador Cuota Social
-| 1.01 SM | a | 1.50 | UMA" | $ | 10.00 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | --- | --- | --- | --- | --- | --- |
+| 1.01 SM | a | 1.50 | UMA" | $ | 10.00 |
 | 1.51 | a | 2.00 | UMA | $ | 9.25 |
 | 2.01 | a | 2.50 | UMA | $ | 8.50 |
 | 2.51 |  |  | UMA |  | $7.75 |
@@ -1406,8 +1407,9 @@ Artículo reformado DOF 16-12-2020
 . El asegurado, cuyos recursos acumulados en su cuenta individual resulten insuficientes para contratar una renta vitalicia o un retiro programado que le asegure el disfrute de una pensión garantizada y la adquisición de un seguro de sobrevivencia para sus beneficiarios, en los porcentajes del capítulo V de este Título, recibirá del Gobierno Federal una aportación complementaria suficiente para el pago de las pensiones correspondientes, mismas que se otorgarán en los siguientes términos:
 
 Semanas de Cotización
-|  | 1,000 | 1,025 | 1,050 | 1,075 | 1,100 | 1,125 | 1,180 | 1,175 | 1,200 | 1,225 | 125 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1,000 | 1,025 | 1,050 | 1,075 | 1,100 | 1,125 | 1,180 | 1,175 | 1,200 | 1,225 | 125 |
 
 Salario Base de Pensión garantizada mensual en pesos Cotización 15Madog | 60 2,622 ZT16 2,809 2,903 2,997 3,090 3,184 3,278 3371 3,465 3,559 UMA‘ E 2,560 2753 2,847 7941 3034 3128 3721 3,315 3409 3,502 3,596 62 2,537 2,71 2,5884 2,978 3077 3,765 3,259 1353 3446 3540 1,684 63 | 2,734 2,828 2,922 3,015 3,109 3,203 3,298 3,390 3,484 4,877 3,671 54 2,772 2,556 2,959 3,053 3,747 3,240 3,934 3,427 3,821 3,516 3,708 SS | 2809 2903 2,997 3,090 3,484 3,278 3,371 3,465 3,559 3,652 3,746 60 3,409 3,530 3,652 ara 3,896. 4,017 4,139 4,261 4,383 4,504 4,626 61 3,457 3,578 3,701 3,6823 3,944 4,066 4,188 4,310 4,431 4,553 4,675 62 3,606 3,628 3,750 3,874 3,993 4,115 4,237 4,558 4,480 4,602 4,724 20az99 UMA 63 | 3,555 3,677 3,798 3,920 4,042 4,464 4,285 4,407 4,529 4,651 4,772 Ed 3,604 3725 1,847 3,969 4,094 4212 4,334 4,456 4,577 4,699 4,821 ee 3,652 3,774 3,696 4,017 4439 4,264 4,383 4,504 4,626 4,748 4,870 60 | 4195 4,345 4,495 4.645 4,795 4,945 5,094 5,244 5,394 5,544 5,604 61 4,255 4405 4,555 4,705 4,855 5,005 5,154 5,304 5454 5604 5,754 62 | 4,315 4485 4,815 4,765 4,915 5084 5,214 5,364 5,514 5,684 5,514 aha xe “UMA 63 4,375 4,525 4,675 4,825 4,975 5,124 5274 5474 5,574 5,724 5,874 Ed 4435 4,585 4,735 4885 5,034 5,184 5,334 5,48 5,534 5,784 6,933 wine | 4.495 4,645 4,795 4,845 5,094 5,244 5,394 5,544 5,6% 5,844 5,993 60 4,581 5,160 5,338 5,516 5,594 5,872 6,050 6,228 6405 6,583 6,761 61 | 5,053 5,231 5409 5,587 5,765 5,943 6,121 6,299 6,477 6,655 6,832 62 | 5,124 5,302 5480 5,658 5,836 6,014 6,192 6,370 6,548 6,726 6904 4024.80 “UMA 63 5,1986 5,373 5,551 5,729 5,907 6,085 6,263 6441 6,619 6,797 6,975 64 5,267 5,445 65,623 5,601 5,876 6,156 6,334 6,512 6,690 6,868 7,046 me 5,138 5,516 5,594 5,877 6,050 6,2725 6,405 6,583 E,761 6,939 7,147 60 5,769 5,975 6,184 6,387 6,593 5,709 7,005 7,211 7,417 7,623 7,829 61 | 5,851 6,057 6,26% 6469 E675 6,581 7,087 7,293 7,408 7,705 7,1 52 5.833 6,140 6,346 6,552 6,758 6,964 7,170 7,376 7,582 7,768 7,9% soumAen | | adolante 63 | 6,016 6,222 6428 6,634 6,640 7,046 7,252 7,458 7,664 7,870 6,076 64 | 5,098 6304 6,510 6,716 6,822 71428 7,334 7,540 7,746 7,953 6159 eo | 6181 6,387 6,593 6,799 7,005 7,211 7,417 7,623 7,829 8,035 8,241 “Salario Minimo “Unidad de Medida y Actualización monto de la pensión se actualizará anualmente en el mes de febrero, conforme al Índice Na
 
@@ -3487,9 +3489,10 @@ Ia SEYJUIUO, 1J/, PalidiVs PIHINICIV, STCYUINIYO y SICCIV, 1J0, 193, HACUIVIICS 
 
 ## Transitorios
 
-nero. El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto rios siguientes. undo. La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la si Salario base
-| de | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
+nero. El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto rios siguientes. undo. La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la si
+| Salario base | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| de | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
 
 cotización 1.0 SM* 3.150% 3.150% 3.150% 13.150% 3.150% 3.150% 13.150% 3.150%
 |
@@ -3502,9 +3505,9 @@ Los valores mencionados del importe de la cuota social, se actualizarán trimest
 **Cuarto.** En la fecha en que entre en vigor el presente Decreto las semanas de cotización que se requieren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como para el cálculo de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, y se incrementarán anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecidas en dichos preceptos.
 La pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la edad, semanas de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
 
-Salario base de cotización del Cuota social Trabajador
-| 4.01 | a | 5UMA* | $2.45 |
+| Salario base | de Trabajador | cotización del | Cuota social |
 | --- | --- | --- | --- |
+| 4.01 | a | 5UMA* | $2.45 |
 | 5.01 |  | a6UMA | 31.80 |
 | 6.01 | a 7.09 | UMA | 51.00 |
 
@@ -3515,9 +3518,10 @@ Salario base de cotización del Cuota social Trabajador
 midad con el Indice Nacional de Precios al Consumidor, en los meses de marzo, junio, septi mbre de 2023. arto. En la fecha en que entre en vigor el presente Decreto las semanas de cotización ce ren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como fF ) de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, ientaran anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecid preceptos.
 
 
-vecretaria de Servicios Farlamentarios e — Año Semanas de Cotización
-|  |  |  |  |  |  |  |  |  |  |  | 4,000 0 |
+vecretaria de Servicios Farlamentarios e
+| Año | Col 2 | Col 3 | Col 4 | Col 5 | Semanas | de | Cotización | Col 9 | Col 10 | Col 11 | Col 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |  | 4,000 0 |
 | 2021 | 750 | 775 | 800 | 825 | 850 | 875 | 900 | 925 | 950 | 975 | más |
 | 2022 |  |  |  |  |  |  |  |  |  |  | 1,0750 |
 |  | 775 | 800 | 875 | 850 | 875 | 900 | 925 | 950 | 976 | 1400 |  |

@@ -373,46 +373,167 @@ def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
                 col_positions.append(sum(centers) / len(centers))
 
     # --- Paso 3: asignar cada palabra de cada fila a una columna ---
+    # Calcular boundaries entre columnas (punto medio entre centros adyacentes)
+    col_boundaries: list[float] = []
+    for i in range(len(col_positions) - 1):
+        col_boundaries.append((col_positions[i] + col_positions[i + 1]) / 2)
+
     def assign_to_columns(row_words: list[dict]) -> list[str]:
-        """Asigna palabras a las columnas más cercanas por posición x."""
+        """Asigna palabras a columnas usando boundaries entre centros."""
         if not col_positions:
             return [w['text'] for w in row_words]
         cols: dict[int, list[str]] = defaultdict(list)
         for w in row_words:
             w_center = w['left'] + w['width'] / 2
-            # Encontrar columna más cercana
-            best_col = min(range(len(col_positions)),
-                           key=lambda c: abs(col_positions[c] - w_center))
-            cols[best_col].append(w['text'])
+            # Usar boundaries: avanzar hasta pasar el boundary correcto
+            col = 0
+            for b in col_boundaries:
+                if w_center > b:
+                    col += 1
+                else:
+                    break
+            cols[col].append(w['text'])
         return [' '.join(cols.get(c, [''])) for c in range(target_cols)]
 
-    # --- Paso 4: separar encabezado textual, filas de tabla, y texto posterior ---
-    md: list[str] = ['']
-    header_emitted = False
-    table_started = False
-    post_text: list[str] = []
+    # --- Paso 4: separar título, encabezados de columna, filas de datos, texto posterior ---
+    # Encontrar el índice de la primera fila numérica
+    first_num_idx = None
+    for i, row in enumerate(sorted_rows):
+        num_count = sum(1 for w in row if NUM_RE.match(w['text']))
+        if num_count >= max(len(row) * 0.5, 2):
+            first_num_idx = i
+            break
 
-    for row in sorted_rows:
+    if first_num_idx is None:
+        # Sin filas numéricas → texto plano (no debería llegar aquí)
+        lines = []
+        for row in sorted_rows:
+            lines.append(' '.join(w['text'] for w in row))
+        return ['', *lines, '']
+
+    # Clasificar filas pre-tabla: título vs encabezados de columna.
+    # Heurística: encontrar el mayor salto vertical (gap) entre filas pre-tabla.
+    # Todo lo que está por encima del mayor gap es título; por debajo es header.
+    pre_rows = sorted_rows[:first_num_idx]
+    title_rows: list[list[dict]] = []
+    header_rows: list[list[dict]] = []
+
+    if len(pre_rows) <= 1:
+        # 0-1 filas pre-tabla: no hay encabezados que reconstruir
+        title_rows = pre_rows
+    elif col_positions:
+        # Calcular y-center de cada fila pre-tabla
+        def _row_y(row: list[dict]) -> float:
+            return sum(w['top'] + w['height'] / 2 for w in row) / len(row)
+        pre_ys = [_row_y(r) for r in pre_rows]
+        # Encontrar el mayor gap vertical
+        max_gap = 0.0
+        split_idx = 0  # split: [0..split_idx) = title, [split_idx..] = header
+        for i in range(1, len(pre_ys)):
+            gap = pre_ys[i] - pre_ys[i - 1]
+            if gap > max_gap:
+                max_gap = gap
+                split_idx = i
+        # Solo separar si el gap es significativo (> 50% del gap promedio)
+        avg_gap = (pre_ys[-1] - pre_ys[0]) / max(len(pre_ys) - 1, 1)
+        if max_gap > avg_gap * 1.5 and split_idx > 0:
+            title_rows = pre_rows[:split_idx]
+            header_rows = pre_rows[split_idx:]
+        else:
+            # Gap uniforme → todo es header (no hay título)
+            header_rows = pre_rows
+    else:
+        title_rows = pre_rows
+
+    # Reconstruir encabezados de columna: asignar cada fila de header a columnas
+    # y unir verticalmente (multi-line headers)
+    col_headers: list[list[str]] = [[] for _ in range(target_cols)]
+
+    def _assign_header_row(row: list[dict]) -> list[str]:
+        """Asigna una fila de header a columnas.
+        Si todas las palabras caen en una zona reducida (1-2 columnas adyacentes)
+        y ninguna en las primeras columnas, unir todo en una sola columna.
+        Se asigna a max_col (la columna más a la derecha) porque los headers
+        anchos de la última columna suelen extenderse hacia la izquierda."""
+        base = assign_to_columns(row)
+        if len(row) >= 2 and col_boundaries:
+            word_cols = []
+            for w in row:
+                wc = w['left'] + w['width'] / 2
+                c = 0
+                for b in col_boundaries:
+                    if wc > b:
+                        c += 1
+                    else:
+                        break
+                word_cols.append(c)
+            occupied = set(word_cols)
+            if len(occupied) <= 2:
+                min_col = min(occupied)
+                max_col = max(occupied)
+                if max_col - min_col <= 1 and min_col > 0:
+                    # Ninguna palabra en las columnas anteriores a min_col
+                    min_x = min(w['left'] for w in row)
+                    left_boundary = col_boundaries[min_col - 1]
+                    if min_x > left_boundary:
+                        merged = ['' for _ in range(target_cols)]
+                        merged[max_col] = ' '.join(w['text'] for w in row)
+                        return merged
+        return base
+
+    for row in header_rows:
+        # Filtrar filas de ruido OCR: requiere al menos una palabra de >= 4 letras
+        has_real_word = any(
+            sum(c.isalpha() for c in w['text']) >= 4 for w in row
+        )
+        if not has_real_word:
+            continue
+        assigned = _assign_header_row(row)
+        for c in range(target_cols):
+            val = assigned[c].strip() if c < len(assigned) else ''
+            if val and val not in (',', '.', '-'):
+                col_headers[c].append(val)
+
+    # Construir nombres de columna finales
+    header_names = [' '.join(parts) if parts else f'Col {c+1}'
+                    for c, parts in enumerate(col_headers)]
+
+    # Detectar si la primera fila numérica es una fila de unidades (ej. $ $ $ %)
+    # y si es así, incorporarla a los encabezados
+    data_start_idx = first_num_idx
+    first_data_row = sorted_rows[first_num_idx]
+    UNIT_RE = re.compile(r'^[\$%#€£¥]+$')
+    first_row_vals = assign_to_columns(first_data_row)
+    if all(UNIT_RE.match(v.strip()) for v in first_row_vals if v.strip()):
+        # Es fila de unidades → agregar al header
+        for c, val in enumerate(first_row_vals):
+            unit = val.strip()
+            if unit and c < len(header_names):
+                header_names[c] = f'{header_names[c]} ({unit})' if header_names[c] != f'Col {c+1}' else unit
+        data_start_idx = first_num_idx + 1
+
+    # Emitir markdown
+    md: list[str] = ['']
+
+    # Título (texto previo que no alinea con columnas)
+    for row in title_rows:
+        text = ' '.join(w['text'] for w in row)
+        md.append(f'**{text}**' if text == text.upper() and len(text) > 3 else text)
+
+    # Tabla: header
+    md.append('| ' + ' | '.join(header_names) + ' |')
+    md.append('| ' + ' | '.join(['---'] * target_cols) + ' |')
+
+    # Tabla: filas de datos
+    post_text: list[str] = []
+    for row in sorted_rows[data_start_idx:]:
         num_count = sum(1 for w in row if NUM_RE.match(w['text']))
         is_numeric = num_count >= max(len(row) * 0.5, 2)
-
         if is_numeric and not post_text:
-            if not table_started:
-                table_started = True
             cols = assign_to_columns(row)
-            if not header_emitted:
-                md.append('| ' + ' | '.join(cols) + ' |')
-                md.append('| ' + ' | '.join(['---'] * len(cols)) + ' |')
-                header_emitted = True
-            else:
-                md.append('| ' + ' | '.join(cols) + ' |')
+            md.append('| ' + ' | '.join(cols) + ' |')
         else:
-            text = ' '.join(w['text'] for w in row)
-            if table_started:
-                post_text.append(text)
-            else:
-                # Texto previo (título de la tarifa)
-                md.append(f'**{text}**' if text == text.upper() and len(text) > 3 else text)
+            post_text.append(' '.join(w['text'] for w in row))
 
     if post_text:
         md.append('')

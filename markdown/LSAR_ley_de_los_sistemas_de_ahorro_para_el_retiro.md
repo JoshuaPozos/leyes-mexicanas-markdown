@@ -1990,9 +1990,10 @@ III. En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá real
 
 ## Transitorios
 
-nero. El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto rios siguientes. undo. La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la si Salario base
-| de | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
+nero. El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto rios siguientes. undo. La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la si
+| Salario base | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| de | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
 
 cotización 1.0 SM* 3.150% 3.150% 3.150% 3.150% 3.150% 3.150% 3.150% 1.150% 1.01SMa 1.50 UMA*" 3.281% 3.413% 3.544% 3.676% 3.807% 3.939% 4.070% 44.202% _ 1.51a 2.00 UMA 3.575% 4.000% 4.426% 4.851% 5.276% 5.701% 6.126% 6.552% 2.01 a 2.50 UMA 3.751% 4.353% 4.954% _5.556% 6.157% 6.759% _7.380% 17962% _ 2.51 a 3.00 UMA 3.869% 4.588% 5.307% _ 6.026% 6.745% 7.464% — 8.183% ,902% _ 3.01 a 3.50 UMA 3.953% 4.756% 5.559% 6.361% 7.164% 7.967% 8.770% 9.573% 3.51 a 4.00 ____UMA______ 4.016% 4.882% 5.747% 7.479% 8.3455% _9.211% 10.077% a 4.01 UMA en adelante 4.241% 5.331% 6.422% 7.513% 8.603% 9.694% 10.784% 11.875% * Salario Minimo ** Unidad de Medida Actualización y
 
@@ -2002,9 +2003,9 @@ Los valores mencionados del importe de la cuota social, se actualizarán trimest
 **Cuarto.** En la fecha en que entre en vigor el presente Decreto las semanas de cotización que se requieren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como para el cálculo de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, y se incrementarán anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecidas en dichos preceptos.
 La pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la edad, semanas de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
 
-Salario base de cotización del Cuota social Trabajador
-| 4.01 | a | 5UMA* | $2.45 |
+| Salario base | de Trabajador | cotización del | Cuota social |
 | --- | --- | --- | --- |
+| 4.01 | a | 5UMA* | $2.45 |
 | 5.01 |  | a6UMA | 51.80 |
 | 6.01 | a 7.09 | UMA | 51.00 |
 
@@ -2015,9 +2016,10 @@ Salario base de cotización del Cuota social Trabajador
 midad con el Indice Nacional de Precios al Consumidor, en los meses de marzo, junio, septi mbre de 2023. arto. En la fecha en que entre en vigor el presente Decreto las semanas de cotización ce ren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como r ) de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, ientaran anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecid preceptos. pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la las de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el : do se actualizará conforme al Indice Nacional de Precios al Consumidor a la fecha en o ne el trabajador.
 
 
-vecretaria de Servicios Farlamentarios e — Año Semanas de Cotización
-|  |  |  |  |  |  |  |  |  |  |  | 1,000 0 |
+vecretaria de Servicios Farlamentarios e
+| Año | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Semanas de | Cotización | Col 9 | Col 10 | Col 11 | Col 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |  | 1,000 0 |
 | 2021 | 750 | 775 | 800 | 825 | 850 | 875 | 900 | 925 | 950 | 975 | más |
 |  |  |  |  | 850 | 875 | 900 | 925 | 950 |  |  | 1,025 0 |
 | 2022 | 775 | 800 | 825 |  |  |  |  |  | 76 | 1000 |  |

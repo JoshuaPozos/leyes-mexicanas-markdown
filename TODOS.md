@@ -19,10 +19,8 @@
 
 ---
 
-## 3. Encabezados de tablas no se extraen correctamente de imágenes/OCR
+## 3. ~~Encabezados de tablas no se extraen correctamente de imágenes/OCR~~ ✅
 
-- **Prioridad:** Alta
-- **Archivos afectados:** `scripts/pdf_to_md.py`, todos los `.md` con tablas
-- **Causa raíz:** Cuando el PDF contiene tablas renderizadas como imagen, el OCR no extrae correctamente los encabezados de columna. Los encabezados se pierden o se concatenan de forma ilegible en una sola línea.
-- **Ejemplo:** En la LISR Art. 96, la "TARIFA MENSUAL" del PDF tiene encabezados claros: "Límite inferior | Límite superior | Cuota fija | Por ciento para aplicarse sobre el excedente del límite inferior". En el MD generado aparece como: `**TARIFA MENSUAL** Por ciento para aplicarse sobre el nte ura , Limite inferior Limite superior Cuota fija excedente del` — todo revuelto en una línea, y la tabla queda con encabezados genéricos `| $ | $ | $ | % |`.
-- **Fix propuesto:** Mejorar el post-procesamiento de tablas detectadas por OCR: reconstruir encabezados a partir de la estructura de columnas, o aplicar heurísticas para separar el texto de encabezado cuando se detecta un patrón de tabla Markdown.
+- **Estado:** Resuelto — `_build_table_from_spatial` reconstruye headers de columna desde filas pre-tabla usando boundaries y detección de filas de unidades
+- **Resultado:** Headers como `| $ | $ | $ | % |` → `| Limite inferior ($) | Limite superior ($) | Cuota fija ($) | Por ciento para aplicarse sobre el excedente del (%) |`
+- **Archivos afectados:** `scripts/pdf_to_md.py`

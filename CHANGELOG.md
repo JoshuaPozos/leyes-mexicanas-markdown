@@ -2,6 +2,16 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Fix 11 — Headers de tablas OCR reconstruidos] — 2026-03-21
+
+- `_build_table_from_spatial()` reescrito: separación título/headers/datos usando gap vertical
+- `assign_to_columns()`: cambiado de closest-center a column boundaries (punto medio entre centros)
+- `_assign_header_row()`: filas de header con texto en 1-2 columnas adyacentes se fusionan correctamente
+- Detección de filas de unidades (`$ $ $ %`) e incorporación al nombre de columna
+- Filtro de ruido OCR en filas de header (requiere al menos una palabra de ≥4 letras)
+- **Resultado:** Headers genéricos `| $ | $ | $ | % |` → `| Limite inferior ($) | Limite superior ($) | Cuota fija ($) | Por ciento para... (%) |`
+- Todos los 315 `.md` regenerados
+
 ## [Fix 10 — Falsos positivos en headings de artículos] — 2026-03-21
 
 - `is_article_heading()`: eliminado `re.IGNORECASE` — solo reconoce "Artículo" con A mayúscula
