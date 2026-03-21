@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **20/03/2026** — **114/315** leyes disponibles en Markdown (36%).
+> Última actualización: **21/03/2026** — **249/315** leyes disponibles en Markdown (79%).
 
 ---
 
@@ -121,141 +121,141 @@
 | 112 | LEY del Impuesto al Valor Agregado | DOF 12/11/2021 | [`LIVA_ley_del_impuesto_al_valor_agregado.md`](markdown/LIVA_ley_del_impuesto_al_valor_agregado.md) |
 | 113 | LEY del Impuesto Especial sobre Producción y Servicios | DOF 22/12/2025 | [`LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios.md`](markdown/LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios.md) |
 | 114 | LEY del Impuesto sobre la Renta | DOF 01/04/2024 | [`LISR_ley_del_impuesto_sobre_la_renta.md`](markdown/LISR_ley_del_impuesto_sobre_la_renta.md) |
-| 115 | LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | Notificación 15/01/2026 Sentencia SCJN | — |
-| 116 | LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | DOF 15/01/2026 | — |
-| 117 | LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores | DOF 21/02/2025 | — |
-| 118 | LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores | DOF 03/01/2024 | — |
-| 119 | LEY del Instituto Mexicano de la Juventud | DOF 01/04/2024 | — |
-| 120 | LEY del Instituto Nacional de los Pueblos Indígenas | DOF 29/12/2023 | — |
-| 121 | LEY del Mercado de Valores | DOF 14/11/2025 | — |
-| 122 | LEY del Registro Público Vehicular | DOF 20/05/2021 | — |
-| 123 | LEY del Sector Eléctrico | Sin reforma | — |
-| 124 | LEY del Sector Hidrocarburos | Sin reforma | — |
-| 125 | LEY del Seguro Social | DOF 15/01/2026 | — |
-| 126 | LEY del Servicio de Administración Tributaria | DOF 04/12/2018 | — |
-| 127 | LEY del Servicio Exterior Mexicano | DOF 19/04/2018 | — |
-| 128 | LEY del Servicio Militar | DOF 18/05/2022 | — |
-| 129 | LEY del Servicio Postal Mexicano | DOF 19/01/2023 | — |
-| 130 | LEY del Servicio Profesional de Carrera en la Administración Pública Federal | DOF 09/01/2006 | — |
-| 131 | LEY del Sistema Nacional de Información Estadística y Geográfica | DOF 14/11/2025 | — |
-| 132 | LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública | Sin reforma | — |
-| 133 | LEY del Sistema Público de Radiodifusión del Estado Mexicano | DOF 14/11/2025 | — |
-| 134 | LEY en Materia de Telecomunicaciones y Radiodifusión | Sin reforma | — |
-| 135 | LEY Federal contra la Delincuencia Organizada | DOF 28/11/2025 | — |
-| 136 | LEY Federal de Armas de Fuego y Explosivos | DOF 29/05/2025 | — |
-| 137 | LEY Federal de Austeridad Republicana | DOF 16/04/2025 | — |
-| 138 | LEY Federal de Cinematografía | Notificación 01/09/2025 Sentencia SCJN | — |
-| 139 | LEY Federal de Competencia Económica | DOF 14/11/2025 | — |
-| 140 | LEY Federal de Consulta Popular | DOF 19/05/2021 | — |
-| 141 | LEY Federal de Correduría Pública | DOF 09/04/2012 | — |
-| 142 | LEY Federal de Declaración Especial de Ausencia para Personas Desaparecidas | DOF 01/04/2024 | — |
-| 143 | LEY Federal de Defensoría Pública | DOF 01/04/2024 | — |
-| 144 | LEY Federal de Derechos | DOF 28/12/2025 | — |
-| 145 | LEY Federal de Deuda Pública (Antes "Ley General de Deuda Pública") | DOF 30/01/2018 | — |
-| 146 | LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | DOF 01/04/2024 | — |
-| 147 | LEY Federal de Juegos y Sorteos | Sin reforma | — |
-| 148 | LEY Federal de las Entidades Paraestatales | DOF 16/07/2025 | — |
-| 149 | LEY Federal de los Derechos del Contribuyente | Sin reforma | — |
-| 150 | LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | DOF 15/01/2026 | — |
-| 151 | LEY Federal de Presupuesto y Responsabilidad Hacendaria | DOF 16/07/2025 | — |
-| 152 | LEY Federal de Procedimiento Administrativo | DOF 14/11/2025 | — |
-| 153 | LEY Federal de Procedimiento Contencioso Administrativo | DOF 14/11/2025 | — |
-| 154 | LEY Federal de Producción, Certificación y Comercio de Semillas | DOF 11/05/2018 | — |
-| 155 | LEY Federal de Protección a la Propiedad Industrial | DOF 15/01/2026 | — |
-| 156 | LEY Federal de Protección al Consumidor | DOF 23/12/2025 | — |
-| 157 | LEY Federal de Protección de Datos Personales en Posesión de los Particulares | DOF 14/11/2025 | — |
-| 158 | Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas | DOF 14/11/2025 | — |
-| 159 | LEY Federal de Remuneraciones de los Servidores Públicos | Sin reforma | — |
-| 160 | LEY Federal de Responsabilidad Ambiental | DOF 14/11/2025 | — |
-| 161 | LEY Federal de Responsabilidad Patrimonial del Estado | DOF 29/12/2023 | — |
-| 162 | LEY Federal de Responsabilidades de los Servidores Públicos | DOF 01/04/2024 | — |
-| 163 | LEY Federal de Revocación de Mandato | DOF 26/09/2022 Sentencia SCJN | — |
-| 164 | LEY Federal de Sanidad Animal | DOF 21/05/2024 | — |
-| 165 | LEY Federal de Sanidad Vegetal | DOF 11/05/2022 | — |
-| 166 | LEY Federal de Seguridad Privada | DOF 17/10/2011 | — |
-| 167 | LEY Federal de Variedades Vegetales | DOF 11/05/2022 | — |
-| 168 | LEY Federal de Zonas Económicas Especiales | DOF 01/04/2024 | — |
-| 169 | LEY Federal del Derecho de Autor | DOF 15/01/2026 | — |
-| 170 | LEY Federal del Impuesto sobre Automóviles Nuevos | DOF 28/12/2025 | — |
-| 171 | LEY Federal del Mar | Sin reforma | — |
-| 172 | LEY Federal del Trabajo | DOF 15/01/2026 | — |
-| 173 | LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | DOF 03/05/2023 | — |
-| 174 | LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | DOF 14/11/2025 | — |
-| 175 | LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal | DOF 27/03/2023 | — |
-| 176 | LEY Federal para el Fomento y Protección del Maíz Nativo | Sin reforma | — |
-| 177 | LEY Federal para la Administración y Enajenación de Bienes del Sector Público | DOF 30/04/2024 | — |
-| 178 | LEY Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | DOF 16/07/2025 | — |
-| 179 | LEY Federal para la Protección a Personas que Intervienen en el Procedimiento Penal | DOF 20/05/2021 | — |
-| 180 | LEY Federal para Prevenir y Eliminar la Discriminación | DOF 14/11/2025 | — |
-| 181 | LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | DOF 12/11/2021 | — |
-| 182 | LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos | DOF 14/11/2025 | — |
-| 183 | LEY General de Acceso de las Mujeres a una Vida Libre de Violencias (Antes "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia") | DOF 15/01/2026 | — |
-| 184 | LEY General de Aguas | Sin reforma | — |
-| 185 | LEY General de Archivos | DOF 14/11/2025 | — |
-| 186 | LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano | DOF 01/04/2024 | — |
-| 187 | LEY General de Bibliotecas | DOF 29/11/2023 | — |
-| 188 | LEY General de Bienes Nacionales | DOF 14/11/2025 | — |
-| 189 | LEY General de Cambio Climático | DOF 01/04/2024 | — |
-| 190 | LEY General de Comunicación Social | DOF 01/04/2024 | — |
-| 191 | LEY General de Contabilidad Gubernamental | DOF 16/07/2025 | — |
-| 192 | LEY General de Cultura Física y Deporte | DOF 14/11/2025 | — |
-| 193 | LEY General de Cultura y Derechos Culturales | DOF 15/01/2026 | — |
-| 194 | LEY General de Derechos Lingüísticos de los Pueblos Indígenas | DOF 18/10/2023 | — |
-| 195 | LEY General de Desarrollo Forestal Sustentable | DOF 01/04/2024 | — |
-| 196 | LEY General de Desarrollo Social | DOF 15/01/2026 | — |
-| 197 | LEY General de Economía Circular | Sin reforma | — |
-| 198 | LEY General de Educación | DOF 15/01/2026 | — |
-| 199 | LEY General de Educación Superior | Sin reforma | — |
-| 200 | LEY General de Instituciones y Procedimientos Electorales | DOF 14/10/2024 | — |
-| 201 | LEY General de la Alimentación Adecuada y Sostenible | Sin reforma | — |
-| 202 | LEY General de los Derechos de Niñas, Niños y Adolescentes | DOF 15/01/2026 | — |
-| 203 | LEY General de los Medios de Impugnación en Materia Electoral | DOF 24/11/2023 Sentencia SCJN | — |
-| 204 | LEY General de Mecanismos Alternativos de Solución de Controversias | Sin reforma | — |
-| 205 | LEY General de Movilidad y Seguridad Vial | DOF 29/12/2023 | — |
-| 206 | LEY General de Organizaciones y Actividades Auxiliares del Crédito | DOF 14/11/2025 | — |
-| 207 | LEY General de Partidos Políticos | DOF 24/11/2023 Sentencia SCJN | — |
-| 208 | LEY General de Pesca y Acuacultura Sustentables | DOF 01/04/2024 | — |
-| 209 | LEY General de Población | DOF 16/07/2025 | — |
-| 210 | LEY General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil | DOF 01/04/2024 | — |
-| 211 | LEY General de Protección Civil | DOF 21/12/2023 | — |
-| 212 | LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados | DOF 14/11/2025 | — |
-| 213 | LEY General de Responsabilidades Administrativas | DOF 15/12/2025 | — |
-| 214 | LEY General de Salud | DOF 15/01/2026 | — |
-| 215 | LEY General de Sociedades Cooperativas | DOF 16/04/2025 | — |
-| 216 | LEY General de Sociedades Mercantiles | DOF 26/12/2025 | — |
-| 217 | LEY General de Títulos y Operaciones de Crédito | DOF 26/03/2024 | — |
-| 218 | LEY General de Transparencia y Acceso a la Información Pública | Sin reforma | — |
-| 219 | LEY General de Turismo | DOF 14/11/2025 | — |
-| 220 | LEY General de Víctimas | DOF 01/04/2024 | — |
-| 221 | LEY General de Vida Silvestre | DOF 16/07/2025 | — |
-| 222 | LEY General del Equilibrio Ecológico y la Protección al Ambiente | DOF 19/01/2026 | — |
-| 223 | LEY General del Sistema de Medios de Impugnación en Materia Electoral | DOF 14/11/2025 | — |
-| 224 | LEY General del Sistema Nacional Anticorrupción | DOF 20/05/2021 | — |
-| 225 | LEY General del Sistema Nacional de Seguridad Pública | Sin reforma | — |
-| 226 | LEY General del Sistema para la Carrera de las Maestras y los Maestros | Sin reforma | — |
-| 227 | LEY General en Materia de Delitos Electorales | DOF 20/05/2021 | — |
-| 228 | LEY General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas | DOF 16/07/2025 | — |
-| 229 | LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación | Sin reforma | — |
-| 230 | LEY General para el Control del Tabaco | DOF 17/02/2022 | — |
-| 231 | LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista | DOF 27/05/2016 | — |
-| 232 | LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia | Sin reforma | — |
-| 233 | LEY General para la Igualdad Sustantiva entre Mujeres y Hombres (Antes "Ley General para la Igualdad entre Mujeres y Hombres") | DOF 15/01/2026 | — |
-| 234 | LEY General para la Inclusión de las Personas con Discapacidad | DOF 14/06/2024 | — |
-| 235 | LEY General para la Prevención Social de la Violencia y la Delincuencia | DOF 04/05/2021 | — |
-| 236 | LEY General para la Prevención y Gestión Integral de los Residuos | DOF 19/01/2026 | — |
-| 237 | LEY General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes | DOF 28/04/2022 | — |
-| 238 | Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | Sin reforma | — |
-| 239 | LEY General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos | DOF 14/11/2025 | — |
-| 240 | LEY General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | DOF 20/05/2021 | — |
-| 241 | LEY Monetaria de los Estados Unidos Mexicanos | DOF 19/01/2026 | — |
-| 242 | LEY Nacional de Ejecución Penal | DOF 01/04/2024 | — |
-| 243 | LEY Nacional de Extinción de Dominio | DOF 28/11/2025 | — |
-| 244 | LEY Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal | DOF 01/04/2024 | — |
-| 245 | LEY Nacional del Registro de Detenciones | Sin reforma | — |
-| 246 | LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes | DOF 20/12/2022 | — |
-| 247 | LEY Nacional para Eliminar Trámites Burocráticos | Sin reforma | — |
-| 248 | LEY Nacional sobre el Uso de la Fuerza | DOF 24/01/2024 | — |
-| 249 | LEY Orgánica de la Administración Pública Federal | DOF 16/07/2025 | — |
+| 115 | LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | Notificación 15/01/2026 Sentencia SCJN | [`LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican.md`](markdown/LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican.md) |
+| 116 | LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | DOF 15/01/2026 | [`LISSSTE_ley_del_instituto_de_seguridad_y_servicios_sociales_de_los_trabajadore.md`](markdown/LISSSTE_ley_del_instituto_de_seguridad_y_servicios_sociales_de_los_trabajadore.md) |
+| 117 | LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores | DOF 21/02/2025 | [`LIFNVT_ley_del_instituto_del_fondo_nacional_de_la_vivienda_para_los_trabajado.md`](markdown/LIFNVT_ley_del_instituto_del_fondo_nacional_de_la_vivienda_para_los_trabajado.md) |
+| 118 | LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores | DOF 03/01/2024 | [`LIFNCT_ley_del_instituto_del_fondo_nacional_para_el_consumo_de_los_trabajador.md`](markdown/LIFNCT_ley_del_instituto_del_fondo_nacional_para_el_consumo_de_los_trabajador.md) |
+| 119 | LEY del Instituto Mexicano de la Juventud | DOF 01/04/2024 | [`LIMJ_ley_del_instituto_mexicano_de_la_juventud.md`](markdown/LIMJ_ley_del_instituto_mexicano_de_la_juventud.md) |
+| 120 | LEY del Instituto Nacional de los Pueblos Indígenas | DOF 29/12/2023 | [`LINPI_ley_del_instituto_nacional_de_los_pueblos_indigenas.md`](markdown/LINPI_ley_del_instituto_nacional_de_los_pueblos_indigenas.md) |
+| 121 | LEY del Mercado de Valores | DOF 14/11/2025 | [`LMV_ley_del_mercado_de_valores.md`](markdown/LMV_ley_del_mercado_de_valores.md) |
+| 122 | LEY del Registro Público Vehicular | DOF 20/05/2021 | [`LRPV_ley_del_registro_publico_vehicular.md`](markdown/LRPV_ley_del_registro_publico_vehicular.md) |
+| 123 | LEY del Sector Eléctrico | Sin reforma | [`LSE_ley_del_sector_electrico.md`](markdown/LSE_ley_del_sector_electrico.md) |
+| 124 | LEY del Sector Hidrocarburos | Sin reforma | [`LSH_ley_del_sector_hidrocarburos.md`](markdown/LSH_ley_del_sector_hidrocarburos.md) |
+| 125 | LEY del Seguro Social | DOF 15/01/2026 | [`LSS_ley_del_seguro_social.md`](markdown/LSS_ley_del_seguro_social.md) |
+| 126 | LEY del Servicio de Administración Tributaria | DOF 04/12/2018 | [`LSAT_ley_del_servicio_de_administracion_tributaria.md`](markdown/LSAT_ley_del_servicio_de_administracion_tributaria.md) |
+| 127 | LEY del Servicio Exterior Mexicano | DOF 19/04/2018 | [`LSEM_ley_del_servicio_exterior_mexicano.md`](markdown/LSEM_ley_del_servicio_exterior_mexicano.md) |
+| 128 | LEY del Servicio Militar | DOF 18/05/2022 | [`LSM_ley_del_servicio_militar.md`](markdown/LSM_ley_del_servicio_militar.md) |
+| 129 | LEY del Servicio Postal Mexicano | DOF 19/01/2023 | [`LSPM_ley_del_servicio_postal_mexicano.md`](markdown/LSPM_ley_del_servicio_postal_mexicano.md) |
+| 130 | LEY del Servicio Profesional de Carrera en la Administración Pública Federal | DOF 09/01/2006 | [`LSPCAPF_ley_del_servicio_profesional_de_carrera_en_la_administracion_publica_f.md`](markdown/LSPCAPF_ley_del_servicio_profesional_de_carrera_en_la_administracion_publica_f.md) |
+| 131 | LEY del Sistema Nacional de Información Estadística y Geográfica | DOF 14/11/2025 | [`LSNIEG_ley_del_sistema_nacional_de_informacion_estadistica_y_geografica.md`](markdown/LSNIEG_ley_del_sistema_nacional_de_informacion_estadistica_y_geografica.md) |
+| 132 | LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública | Sin reforma | [`LSNIIMSP_ley_del_sistema_nacional_de_investigacion_e_inteligencia_en_materia_de.md`](markdown/LSNIIMSP_ley_del_sistema_nacional_de_investigacion_e_inteligencia_en_materia_de.md) |
+| 133 | LEY del Sistema Público de Radiodifusión del Estado Mexicano | DOF 14/11/2025 | [`LSPREM_ley_del_sistema_publico_de_radiodifusion_del_estado_mexicano.md`](markdown/LSPREM_ley_del_sistema_publico_de_radiodifusion_del_estado_mexicano.md) |
+| 134 | LEY en Materia de Telecomunicaciones y Radiodifusión | Sin reforma | [`LMTR_ley_en_materia_de_telecomunicaciones_y_radiodifusion.md`](markdown/LMTR_ley_en_materia_de_telecomunicaciones_y_radiodifusion.md) |
+| 135 | LEY Federal contra la Delincuencia Organizada | DOF 28/11/2025 | [`LFCDO_ley_federal_contra_la_delincuencia_organizada.md`](markdown/LFCDO_ley_federal_contra_la_delincuencia_organizada.md) |
+| 136 | LEY Federal de Armas de Fuego y Explosivos | DOF 29/05/2025 | [`LFAFE_ley_federal_de_armas_de_fuego_y_explosivos.md`](markdown/LFAFE_ley_federal_de_armas_de_fuego_y_explosivos.md) |
+| 137 | LEY Federal de Austeridad Republicana | DOF 16/04/2025 | [`LFAR_ley_federal_de_austeridad_republicana.md`](markdown/LFAR_ley_federal_de_austeridad_republicana.md) |
+| 138 | LEY Federal de Cinematografía | Notificación 01/09/2025 Sentencia SCJN | [`LFC_ley_federal_de_cinematografia.md`](markdown/LFC_ley_federal_de_cinematografia.md) |
+| 139 | LEY Federal de Competencia Económica | DOF 14/11/2025 | [`LFCE_ley_federal_de_competencia_economica.md`](markdown/LFCE_ley_federal_de_competencia_economica.md) |
+| 140 | LEY Federal de Consulta Popular | DOF 19/05/2021 | [`LFCPo_ley_federal_de_consulta_popular.md`](markdown/LFCPo_ley_federal_de_consulta_popular.md) |
+| 141 | LEY Federal de Correduría Pública | DOF 09/04/2012 | [`LFCP_ley_federal_de_correduria_publica.md`](markdown/LFCP_ley_federal_de_correduria_publica.md) |
+| 142 | LEY Federal de Declaración Especial de Ausencia para Personas Desaparecidas | DOF 01/04/2024 | [`LFDEAPD_ley_federal_de_declaracion_especial_de_ausencia_para_personas_desapare.md`](markdown/LFDEAPD_ley_federal_de_declaracion_especial_de_ausencia_para_personas_desapare.md) |
+| 143 | LEY Federal de Defensoría Pública | DOF 01/04/2024 | [`LFDefP_ley_federal_de_defensoria_publica.md`](markdown/LFDefP_ley_federal_de_defensoria_publica.md) |
+| 144 | LEY Federal de Derechos | DOF 28/12/2025 | [`LFD_ley_federal_de_derechos.md`](markdown/LFD_ley_federal_de_derechos.md) |
+| 145 | LEY Federal de Deuda Pública (Antes "Ley General de Deuda Pública") | DOF 30/01/2018 | [`LFDP_ley_federal_de_deuda_publica_antes_ley_general_de_deuda_publica.md`](markdown/LFDP_ley_federal_de_deuda_publica_antes_ley_general_de_deuda_publica.md) |
+| 146 | LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | DOF 01/04/2024 | [`LFFAOSC_ley_federal_de_fomento_a_las_actividades_realizadas_por_organizaciones.md`](markdown/LFFAOSC_ley_federal_de_fomento_a_las_actividades_realizadas_por_organizaciones.md) |
+| 147 | LEY Federal de Juegos y Sorteos | Sin reforma | [`LFJS_ley_federal_de_juegos_y_sorteos.md`](markdown/LFJS_ley_federal_de_juegos_y_sorteos.md) |
+| 148 | LEY Federal de las Entidades Paraestatales | DOF 16/07/2025 | [`LFEP_ley_federal_de_las_entidades_paraestatales.md`](markdown/LFEP_ley_federal_de_las_entidades_paraestatales.md) |
+| 149 | LEY Federal de los Derechos del Contribuyente | Sin reforma | [`LFDC_ley_federal_de_los_derechos_del_contribuyente.md`](markdown/LFDC_ley_federal_de_los_derechos_del_contribuyente.md) |
+| 150 | LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | DOF 15/01/2026 | [`LFTSE_ley_federal_de_los_trabajadores_al_servicio_del_estado_reglamentaria_d.md`](markdown/LFTSE_ley_federal_de_los_trabajadores_al_servicio_del_estado_reglamentaria_d.md) |
+| 151 | LEY Federal de Presupuesto y Responsabilidad Hacendaria | DOF 16/07/2025 | [`LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria.md`](markdown/LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria.md) |
+| 152 | LEY Federal de Procedimiento Administrativo | DOF 14/11/2025 | [`LFPA_ley_federal_de_procedimiento_administrativo.md`](markdown/LFPA_ley_federal_de_procedimiento_administrativo.md) |
+| 153 | LEY Federal de Procedimiento Contencioso Administrativo | DOF 14/11/2025 | [`LFPCA_ley_federal_de_procedimiento_contencioso_administrativo.md`](markdown/LFPCA_ley_federal_de_procedimiento_contencioso_administrativo.md) |
+| 154 | LEY Federal de Producción, Certificación y Comercio de Semillas | DOF 11/05/2018 | [`LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas.md`](markdown/LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas.md) |
+| 155 | LEY Federal de Protección a la Propiedad Industrial | DOF 15/01/2026 | [`LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial.md`](markdown/LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial.md) |
+| 156 | LEY Federal de Protección al Consumidor | DOF 23/12/2025 | [`LFPC_ley_federal_de_proteccion_al_consumidor.md`](markdown/LFPC_ley_federal_de_proteccion_al_consumidor.md) |
+| 157 | LEY Federal de Protección de Datos Personales en Posesión de los Particulares | DOF 14/11/2025 | [`LFPDPPP_ley_federal_de_proteccion_de_datos_personales_en_posesion_de_los_parti.md`](markdown/LFPDPPP_ley_federal_de_proteccion_de_datos_personales_en_posesion_de_los_parti.md) |
+| 158 | Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas | DOF 14/11/2025 | [`LFPPCPCIA_ley_federal_de_proteccion_del_patrimonio_cultural_de_los_pueblos_y_com.md`](markdown/LFPPCPCIA_ley_federal_de_proteccion_del_patrimonio_cultural_de_los_pueblos_y_com.md) |
+| 159 | LEY Federal de Remuneraciones de los Servidores Públicos | Sin reforma | [`LFRemSP_ley_federal_de_remuneraciones_de_los_servidores_publicos.md`](markdown/LFRemSP_ley_federal_de_remuneraciones_de_los_servidores_publicos.md) |
+| 160 | LEY Federal de Responsabilidad Ambiental | DOF 14/11/2025 | [`LFRA_ley_federal_de_responsabilidad_ambiental.md`](markdown/LFRA_ley_federal_de_responsabilidad_ambiental.md) |
+| 161 | LEY Federal de Responsabilidad Patrimonial del Estado | DOF 29/12/2023 | [`LFRPE_ley_federal_de_responsabilidad_patrimonial_del_estado.md`](markdown/LFRPE_ley_federal_de_responsabilidad_patrimonial_del_estado.md) |
+| 162 | LEY Federal de Responsabilidades de los Servidores Públicos | DOF 01/04/2024 | [`LFRSP_ley_federal_de_responsabilidades_de_los_servidores_publicos.md`](markdown/LFRSP_ley_federal_de_responsabilidades_de_los_servidores_publicos.md) |
+| 163 | LEY Federal de Revocación de Mandato | DOF 26/09/2022 Sentencia SCJN | [`LFRM_ley_federal_de_revocacion_de_mandato.md`](markdown/LFRM_ley_federal_de_revocacion_de_mandato.md) |
+| 164 | LEY Federal de Sanidad Animal | DOF 21/05/2024 | [`LFSA_ley_federal_de_sanidad_animal.md`](markdown/LFSA_ley_federal_de_sanidad_animal.md) |
+| 165 | LEY Federal de Sanidad Vegetal | DOF 11/05/2022 | [`LFSV_ley_federal_de_sanidad_vegetal.md`](markdown/LFSV_ley_federal_de_sanidad_vegetal.md) |
+| 166 | LEY Federal de Seguridad Privada | DOF 17/10/2011 | [`LFSP_ley_federal_de_seguridad_privada.md`](markdown/LFSP_ley_federal_de_seguridad_privada.md) |
+| 167 | LEY Federal de Variedades Vegetales | DOF 11/05/2022 | [`LFVV_ley_federal_de_variedades_vegetales.md`](markdown/LFVV_ley_federal_de_variedades_vegetales.md) |
+| 168 | LEY Federal de Zonas Económicas Especiales | DOF 01/04/2024 | [`LFZEE_ley_federal_de_zonas_economicas_especiales.md`](markdown/LFZEE_ley_federal_de_zonas_economicas_especiales.md) |
+| 169 | LEY Federal del Derecho de Autor | DOF 15/01/2026 | [`LFDA_ley_federal_del_derecho_de_autor.md`](markdown/LFDA_ley_federal_del_derecho_de_autor.md) |
+| 170 | LEY Federal del Impuesto sobre Automóviles Nuevos | DOF 28/12/2025 | [`LFISAN_ley_federal_del_impuesto_sobre_automoviles_nuevos.md`](markdown/LFISAN_ley_federal_del_impuesto_sobre_automoviles_nuevos.md) |
+| 171 | LEY Federal del Mar | Sin reforma | [`LFM_ley_federal_del_mar.md`](markdown/LFM_ley_federal_del_mar.md) |
+| 172 | LEY Federal del Trabajo | DOF 15/01/2026 | [`LFT_ley_federal_del_trabajo.md`](markdown/LFT_ley_federal_del_trabajo.md) |
+| 173 | LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | DOF 03/05/2023 | [`LFCPQ_ley_federal_para_el_control_de_precursores_quimicos_productos_quimicos.md`](markdown/LFCPQ_ley_federal_para_el_control_de_precursores_quimicos_productos_quimicos.md) |
+| 174 | LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | DOF 14/11/2025 | [`LFCSQ_ley_federal_para_el_control_de_sustancias_quimicas_susceptibles_de_des.md`](markdown/LFCSQ_ley_federal_para_el_control_de_sustancias_quimicas_susceptibles_de_des.md) |
+| 175 | LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal | DOF 27/03/2023 | [`LFFMAA_ley_federal_para_el_fomento_de_la_microindustria_y_la_actividad_artesa.md`](markdown/LFFMAA_ley_federal_para_el_fomento_de_la_microindustria_y_la_actividad_artesa.md) |
+| 176 | LEY Federal para el Fomento y Protección del Maíz Nativo | Sin reforma | [`LFFPMN_ley_federal_para_el_fomento_y_proteccion_del_maiz_nativo.md`](markdown/LFFPMN_ley_federal_para_el_fomento_y_proteccion_del_maiz_nativo.md) |
+| 177 | LEY Federal para la Administración y Enajenación de Bienes del Sector Público | DOF 30/04/2024 | [`LFAEBSP_ley_federal_para_la_administracion_y_enajenacion_de_bienes_del_sector.md`](markdown/LFAEBSP_ley_federal_para_la_administracion_y_enajenacion_de_bienes_del_sector.md) |
+| 178 | LEY Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | DOF 16/07/2025 | [`LFPIORPI_ley_federal_para_la_prevencion_e_identificacion_de_operaciones_con_rec.md`](markdown/LFPIORPI_ley_federal_para_la_prevencion_e_identificacion_de_operaciones_con_rec.md) |
+| 179 | LEY Federal para la Protección a Personas que Intervienen en el Procedimiento Penal | DOF 20/05/2021 | [`LFPPIPP_ley_federal_para_la_proteccion_a_personas_que_intervienen_en_el_proced.md`](markdown/LFPPIPP_ley_federal_para_la_proteccion_a_personas_que_intervienen_en_el_proced.md) |
+| 180 | LEY Federal para Prevenir y Eliminar la Discriminación | DOF 14/11/2025 | [`LFPED_ley_federal_para_prevenir_y_eliminar_la_discriminacion.md`](markdown/LFPED_ley_federal_para_prevenir_y_eliminar_la_discriminacion.md) |
+| 181 | LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | DOF 12/11/2021 | [`LFPSDMH_ley_federal_para_prevenir_y_sancionar_los_delitos_cometidos_en_materia.md`](markdown/LFPSDMH_ley_federal_para_prevenir_y_sancionar_los_delitos_cometidos_en_materia.md) |
+| 182 | LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos | DOF 14/11/2025 | [`LFMZAAH_ley_federal_sobre_monumentos_y_zonas_arqueologicos_artisticos_e_histor.md`](markdown/LFMZAAH_ley_federal_sobre_monumentos_y_zonas_arqueologicos_artisticos_e_histor.md) |
+| 183 | LEY General de Acceso de las Mujeres a una Vida Libre de Violencias (Antes "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia") | DOF 15/01/2026 | [`LGAMVLV_ley_general_de_acceso_de_las_mujeres_a_una_vida_libre_de_violencias_an.md`](markdown/LGAMVLV_ley_general_de_acceso_de_las_mujeres_a_una_vida_libre_de_violencias_an.md) |
+| 184 | LEY General de Aguas | Sin reforma | [`LGAg_ley_general_de_aguas.md`](markdown/LGAg_ley_general_de_aguas.md) |
+| 185 | LEY General de Archivos | DOF 14/11/2025 | [`LGA_ley_general_de_archivos.md`](markdown/LGA_ley_general_de_archivos.md) |
+| 186 | LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano | DOF 01/04/2024 | [`LGAHOTDU_ley_general_de_asentamientos_humanos_ordenamiento_territorial_y_desarr.md`](markdown/LGAHOTDU_ley_general_de_asentamientos_humanos_ordenamiento_territorial_y_desarr.md) |
+| 187 | LEY General de Bibliotecas | DOF 29/11/2023 | [`LGB_ley_general_de_bibliotecas.md`](markdown/LGB_ley_general_de_bibliotecas.md) |
+| 188 | LEY General de Bienes Nacionales | DOF 14/11/2025 | [`LGBN_ley_general_de_bienes_nacionales.md`](markdown/LGBN_ley_general_de_bienes_nacionales.md) |
+| 189 | LEY General de Cambio Climático | DOF 01/04/2024 | [`LGCC_ley_general_de_cambio_climatico.md`](markdown/LGCC_ley_general_de_cambio_climatico.md) |
+| 190 | LEY General de Comunicación Social | DOF 01/04/2024 | [`LGCS_ley_general_de_comunicacion_social.md`](markdown/LGCS_ley_general_de_comunicacion_social.md) |
+| 191 | LEY General de Contabilidad Gubernamental | DOF 16/07/2025 | [`LGCG_ley_general_de_contabilidad_gubernamental.md`](markdown/LGCG_ley_general_de_contabilidad_gubernamental.md) |
+| 192 | LEY General de Cultura Física y Deporte | DOF 14/11/2025 | [`LGCFD_ley_general_de_cultura_fisica_y_deporte.md`](markdown/LGCFD_ley_general_de_cultura_fisica_y_deporte.md) |
+| 193 | LEY General de Cultura y Derechos Culturales | DOF 15/01/2026 | [`LGCDC_ley_general_de_cultura_y_derechos_culturales.md`](markdown/LGCDC_ley_general_de_cultura_y_derechos_culturales.md) |
+| 194 | LEY General de Derechos Lingüísticos de los Pueblos Indígenas | DOF 18/10/2023 | [`LGDLPI_ley_general_de_derechos_linguisticos_de_los_pueblos_indigenas.md`](markdown/LGDLPI_ley_general_de_derechos_linguisticos_de_los_pueblos_indigenas.md) |
+| 195 | LEY General de Desarrollo Forestal Sustentable | DOF 01/04/2024 | [`LGDFS_ley_general_de_desarrollo_forestal_sustentable.md`](markdown/LGDFS_ley_general_de_desarrollo_forestal_sustentable.md) |
+| 196 | LEY General de Desarrollo Social | DOF 15/01/2026 | [`LGDS_ley_general_de_desarrollo_social.md`](markdown/LGDS_ley_general_de_desarrollo_social.md) |
+| 197 | LEY General de Economía Circular | Sin reforma | [`LGEC_ley_general_de_economia_circular.md`](markdown/LGEC_ley_general_de_economia_circular.md) |
+| 198 | LEY General de Educación | DOF 15/01/2026 | [`LGE_ley_general_de_educacion.md`](markdown/LGE_ley_general_de_educacion.md) |
+| 199 | LEY General de Educación Superior | Sin reforma | [`LGES_ley_general_de_educacion_superior.md`](markdown/LGES_ley_general_de_educacion_superior.md) |
+| 200 | LEY General de Instituciones y Procedimientos Electorales | DOF 14/10/2024 | [`LGIPE_ley_general_de_instituciones_y_procedimientos_electorales.md`](markdown/LGIPE_ley_general_de_instituciones_y_procedimientos_electorales.md) |
+| 201 | LEY General de la Alimentación Adecuada y Sostenible | Sin reforma | [`LGAAS_ley_general_de_la_alimentacion_adecuada_y_sostenible.md`](markdown/LGAAS_ley_general_de_la_alimentacion_adecuada_y_sostenible.md) |
+| 202 | LEY General de los Derechos de Niñas, Niños y Adolescentes | DOF 15/01/2026 | [`LGDNNA_ley_general_de_los_derechos_de_ninas_ninos_y_adolescentes.md`](markdown/LGDNNA_ley_general_de_los_derechos_de_ninas_ninos_y_adolescentes.md) |
+| 203 | LEY General de los Medios de Impugnación en Materia Electoral | DOF 24/11/2023 Sentencia SCJN | [`LGMIME_ley_general_de_los_medios_de_impugnacion_en_materia_electoral.md`](markdown/LGMIME_ley_general_de_los_medios_de_impugnacion_en_materia_electoral.md) |
+| 204 | LEY General de Mecanismos Alternativos de Solución de Controversias | Sin reforma | [`LGMASC_ley_general_de_mecanismos_alternativos_de_solucion_de_controversias.md`](markdown/LGMASC_ley_general_de_mecanismos_alternativos_de_solucion_de_controversias.md) |
+| 205 | LEY General de Movilidad y Seguridad Vial | DOF 29/12/2023 | [`LGMSV_ley_general_de_movilidad_y_seguridad_vial.md`](markdown/LGMSV_ley_general_de_movilidad_y_seguridad_vial.md) |
+| 206 | LEY General de Organizaciones y Actividades Auxiliares del Crédito | DOF 14/11/2025 | [`LGOAAC_ley_general_de_organizaciones_y_actividades_auxiliares_del_credito.md`](markdown/LGOAAC_ley_general_de_organizaciones_y_actividades_auxiliares_del_credito.md) |
+| 207 | LEY General de Partidos Políticos | DOF 24/11/2023 Sentencia SCJN | [`LGPP_ley_general_de_partidos_politicos.md`](markdown/LGPP_ley_general_de_partidos_politicos.md) |
+| 208 | LEY General de Pesca y Acuacultura Sustentables | DOF 01/04/2024 | [`LGPAS_ley_general_de_pesca_y_acuacultura_sustentables.md`](markdown/LGPAS_ley_general_de_pesca_y_acuacultura_sustentables.md) |
+| 209 | LEY General de Población | DOF 16/07/2025 | [`LGP_ley_general_de_poblacion.md`](markdown/LGP_ley_general_de_poblacion.md) |
+| 210 | LEY General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil | DOF 01/04/2024 | [`LGPSACDII_ley_general_de_prestacion_de_servicios_para_la_atencion_cuidado_y_desa.md`](markdown/LGPSACDII_ley_general_de_prestacion_de_servicios_para_la_atencion_cuidado_y_desa.md) |
+| 211 | LEY General de Protección Civil | DOF 21/12/2023 | [`LGPC_ley_general_de_proteccion_civil.md`](markdown/LGPC_ley_general_de_proteccion_civil.md) |
+| 212 | LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados | DOF 14/11/2025 | [`LGPDPPSO_ley_general_de_proteccion_de_datos_personales_en_posesion_de_sujetos_o.md`](markdown/LGPDPPSO_ley_general_de_proteccion_de_datos_personales_en_posesion_de_sujetos_o.md) |
+| 213 | LEY General de Responsabilidades Administrativas | DOF 15/12/2025 | [`LGRA_ley_general_de_responsabilidades_administrativas.md`](markdown/LGRA_ley_general_de_responsabilidades_administrativas.md) |
+| 214 | LEY General de Salud | DOF 15/01/2026 | [`LGS_ley_general_de_salud.md`](markdown/LGS_ley_general_de_salud.md) |
+| 215 | LEY General de Sociedades Cooperativas | DOF 16/04/2025 | [`LGSC_ley_general_de_sociedades_cooperativas.md`](markdown/LGSC_ley_general_de_sociedades_cooperativas.md) |
+| 216 | LEY General de Sociedades Mercantiles | DOF 26/12/2025 | [`LGSM_ley_general_de_sociedades_mercantiles.md`](markdown/LGSM_ley_general_de_sociedades_mercantiles.md) |
+| 217 | LEY General de Títulos y Operaciones de Crédito | DOF 26/03/2024 | [`LGTOC_ley_general_de_titulos_y_operaciones_de_credito.md`](markdown/LGTOC_ley_general_de_titulos_y_operaciones_de_credito.md) |
+| 218 | LEY General de Transparencia y Acceso a la Información Pública | Sin reforma | [`LGTAIP_ley_general_de_transparencia_y_acceso_a_la_informacion_publica.md`](markdown/LGTAIP_ley_general_de_transparencia_y_acceso_a_la_informacion_publica.md) |
+| 219 | LEY General de Turismo | DOF 14/11/2025 | [`LGT_ley_general_de_turismo.md`](markdown/LGT_ley_general_de_turismo.md) |
+| 220 | LEY General de Víctimas | DOF 01/04/2024 | [`LGV_ley_general_de_victimas.md`](markdown/LGV_ley_general_de_victimas.md) |
+| 221 | LEY General de Vida Silvestre | DOF 16/07/2025 | [`LGVS_ley_general_de_vida_silvestre.md`](markdown/LGVS_ley_general_de_vida_silvestre.md) |
+| 222 | LEY General del Equilibrio Ecológico y la Protección al Ambiente | DOF 19/01/2026 | [`LGEEPA_ley_general_del_equilibrio_ecologico_y_la_proteccion_al_ambiente.md`](markdown/LGEEPA_ley_general_del_equilibrio_ecologico_y_la_proteccion_al_ambiente.md) |
+| 223 | LEY General del Sistema de Medios de Impugnación en Materia Electoral | DOF 14/11/2025 | [`LGSMIME_ley_general_del_sistema_de_medios_de_impugnacion_en_materia_electoral.md`](markdown/LGSMIME_ley_general_del_sistema_de_medios_de_impugnacion_en_materia_electoral.md) |
+| 224 | LEY General del Sistema Nacional Anticorrupción | DOF 20/05/2021 | [`LGSNA_ley_general_del_sistema_nacional_anticorrupcion.md`](markdown/LGSNA_ley_general_del_sistema_nacional_anticorrupcion.md) |
+| 225 | LEY General del Sistema Nacional de Seguridad Pública | Sin reforma | [`LGSNSP_ley_general_del_sistema_nacional_de_seguridad_publica.md`](markdown/LGSNSP_ley_general_del_sistema_nacional_de_seguridad_publica.md) |
+| 226 | LEY General del Sistema para la Carrera de las Maestras y los Maestros | Sin reforma | [`LGSCMM_ley_general_del_sistema_para_la_carrera_de_las_maestras_y_los_maestros.md`](markdown/LGSCMM_ley_general_del_sistema_para_la_carrera_de_las_maestras_y_los_maestros.md) |
+| 227 | LEY General en Materia de Delitos Electorales | DOF 20/05/2021 | [`LGMDE_ley_general_en_materia_de_delitos_electorales.md`](markdown/LGMDE_ley_general_en_materia_de_delitos_electorales.md) |
+| 228 | LEY General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas | DOF 16/07/2025 | [`LGMDFP_ley_general_en_materia_de_desaparicion_forzada_de_personas_desaparicio.md`](markdown/LGMDFP_ley_general_en_materia_de_desaparicion_forzada_de_personas_desaparicio.md) |
+| 229 | LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación | Sin reforma | [`LGMHCTI_ley_general_en_materia_de_humanidades_ciencias_tecnologias_e_innovacio.md`](markdown/LGMHCTI_ley_general_en_materia_de_humanidades_ciencias_tecnologias_e_innovacio.md) |
+| 230 | LEY General para el Control del Tabaco | DOF 17/02/2022 | [`LGCT_ley_general_para_el_control_del_tabaco.md`](markdown/LGCT_ley_general_para_el_control_del_tabaco.md) |
+| 231 | LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista | DOF 27/05/2016 | [`LGAPPCEA_ley_general_para_la_atencion_y_proteccion_a_personas_con_la_condicion.md`](markdown/LGAPPCEA_ley_general_para_la_atencion_y_proteccion_a_personas_con_la_condicion.md) |
+| 232 | LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia | Sin reforma | [`LGDOCIA_ley_general_para_la_deteccion_oportuna_del_cancer_en_la_infancia_y_la.md`](markdown/LGDOCIA_ley_general_para_la_deteccion_oportuna_del_cancer_en_la_infancia_y_la.md) |
+| 233 | LEY General para la Igualdad Sustantiva entre Mujeres y Hombres (Antes "Ley General para la Igualdad entre Mujeres y Hombres") | DOF 15/01/2026 | [`LGISMH_ley_general_para_la_igualdad_sustantiva_entre_mujeres_y_hombres_antes.md`](markdown/LGISMH_ley_general_para_la_igualdad_sustantiva_entre_mujeres_y_hombres_antes.md) |
+| 234 | LEY General para la Inclusión de las Personas con Discapacidad | DOF 14/06/2024 | [`LGIPD_ley_general_para_la_inclusion_de_las_personas_con_discapacidad.md`](markdown/LGIPD_ley_general_para_la_inclusion_de_las_personas_con_discapacidad.md) |
+| 235 | LEY General para la Prevención Social de la Violencia y la Delincuencia | DOF 04/05/2021 | [`LGPSVD_ley_general_para_la_prevencion_social_de_la_violencia_y_la_delincuenci.md`](markdown/LGPSVD_ley_general_para_la_prevencion_social_de_la_violencia_y_la_delincuenci.md) |
+| 236 | LEY General para la Prevención y Gestión Integral de los Residuos | DOF 19/01/2026 | [`LGPGIR_ley_general_para_la_prevencion_y_gestion_integral_de_los_residuos.md`](markdown/LGPGIR_ley_general_para_la_prevencion_y_gestion_integral_de_los_residuos.md) |
+| 237 | LEY General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes | DOF 28/04/2022 | [`LGPIST_ley_general_para_prevenir_investigar_y_sancionar_la_tortura_y_otros_tr.md`](markdown/LGPIST_ley_general_para_prevenir_investigar_y_sancionar_la_tortura_y_otros_tr.md) |
+| 238 | Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | Sin reforma | [`LGPISDME_ley_general_para_prevenir_investigar_y_sancionar_los_delitos_en_materi.md`](markdown/LGPISDME_ley_general_para_prevenir_investigar_y_sancionar_los_delitos_en_materi.md) |
+| 239 | LEY General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos | DOF 14/11/2025 | [`LGPSEDMTP_ley_general_para_prevenir_sancionar_y_erradicar_los_delitos_en_materia.md`](markdown/LGPSEDMTP_ley_general_para_prevenir_sancionar_y_erradicar_los_delitos_en_materia.md) |
+| 240 | LEY General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | DOF 20/05/2021 | [`LGPSDMS_ley_general_para_prevenir_y_sancionar_los_delitos_en_materia_de_secues.md`](markdown/LGPSDMS_ley_general_para_prevenir_y_sancionar_los_delitos_en_materia_de_secues.md) |
+| 241 | LEY Monetaria de los Estados Unidos Mexicanos | DOF 19/01/2026 | [`LMEUM_ley_monetaria_de_los_estados_unidos_mexicanos.md`](markdown/LMEUM_ley_monetaria_de_los_estados_unidos_mexicanos.md) |
+| 242 | LEY Nacional de Ejecución Penal | DOF 01/04/2024 | [`LNEP_ley_nacional_de_ejecucion_penal.md`](markdown/LNEP_ley_nacional_de_ejecucion_penal.md) |
+| 243 | LEY Nacional de Extinción de Dominio | DOF 28/11/2025 | [`LNED_ley_nacional_de_extincion_de_dominio.md`](markdown/LNED_ley_nacional_de_extincion_de_dominio.md) |
+| 244 | LEY Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal | DOF 01/04/2024 | [`LNMASCMP_ley_nacional_de_mecanismos_alternativos_de_solucion_de_controversias_e.md`](markdown/LNMASCMP_ley_nacional_de_mecanismos_alternativos_de_solucion_de_controversias_e.md) |
+| 245 | LEY Nacional del Registro de Detenciones | Sin reforma | [`LNRD_ley_nacional_del_registro_de_detenciones.md`](markdown/LNRD_ley_nacional_del_registro_de_detenciones.md) |
+| 246 | LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes | DOF 20/12/2022 | [`LNSIJPA_ley_nacional_del_sistema_integral_de_justicia_penal_para_adolescentes.md`](markdown/LNSIJPA_ley_nacional_del_sistema_integral_de_justicia_penal_para_adolescentes.md) |
+| 247 | LEY Nacional para Eliminar Trámites Burocráticos | Sin reforma | [`LNETB_ley_nacional_para_eliminar_tramites_burocraticos.md`](markdown/LNETB_ley_nacional_para_eliminar_tramites_burocraticos.md) |
+| 248 | LEY Nacional sobre el Uso de la Fuerza | DOF 24/01/2024 | [`LNUF_ley_nacional_sobre_el_uso_de_la_fuerza.md`](markdown/LNUF_ley_nacional_sobre_el_uso_de_la_fuerza.md) |
+| 249 | LEY Orgánica de la Administración Pública Federal | DOF 16/07/2025 | [`LOAPF_ley_organica_de_la_administracion_publica_federal.md`](markdown/LOAPF_ley_organica_de_la_administracion_publica_federal.md) |
 | 250 | LEY Orgánica de la Armada de México | Sin reforma | — |
 | 251 | LEY Orgánica de la Procuraduría de la Defensa del Contribuyente | DOF 11/05/2022 | — |
 | 252 | LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal | DOF 24/02/2012 | — |
@@ -454,141 +454,141 @@ python scripts/gen_indice.py
 | 112 | LEY del Impuesto al Valor Agregado | DOF 12/11/2021 | [`LIVA_ley_del_impuesto_al_valor_agregado.md`](markdown/LIVA_ley_del_impuesto_al_valor_agregado.md) |
 | 113 | LEY del Impuesto Especial sobre Producción y Servicios | DOF 22/12/2025 | [`LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios.md`](markdown/LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios.md) |
 | 114 | LEY del Impuesto sobre la Renta | DOF 01/04/2024 | [`LISR_ley_del_impuesto_sobre_la_renta.md`](markdown/LISR_ley_del_impuesto_sobre_la_renta.md) |
-| 115 | LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | Notificación 15/01/2026 Sentencia SCJN | — |
-| 116 | LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | DOF 15/01/2026 | — |
-| 117 | LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores | DOF 21/02/2025 | — |
-| 118 | LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores | DOF 03/01/2024 | — |
-| 119 | LEY del Instituto Mexicano de la Juventud | DOF 01/04/2024 | — |
-| 120 | LEY del Instituto Nacional de los Pueblos Indígenas | DOF 29/12/2023 | — |
-| 121 | LEY del Mercado de Valores | DOF 14/11/2025 | — |
-| 122 | LEY del Registro Público Vehicular | DOF 20/05/2021 | — |
-| 123 | LEY del Sector Eléctrico | Sin reforma | — |
-| 124 | LEY del Sector Hidrocarburos | Sin reforma | — |
-| 125 | LEY del Seguro Social | DOF 15/01/2026 | — |
-| 126 | LEY del Servicio de Administración Tributaria | DOF 04/12/2018 | — |
-| 127 | LEY del Servicio Exterior Mexicano | DOF 19/04/2018 | — |
-| 128 | LEY del Servicio Militar | DOF 18/05/2022 | — |
-| 129 | LEY del Servicio Postal Mexicano | DOF 19/01/2023 | — |
-| 130 | LEY del Servicio Profesional de Carrera en la Administración Pública Federal | DOF 09/01/2006 | — |
-| 131 | LEY del Sistema Nacional de Información Estadística y Geográfica | DOF 14/11/2025 | — |
-| 132 | LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública | Sin reforma | — |
-| 133 | LEY del Sistema Público de Radiodifusión del Estado Mexicano | DOF 14/11/2025 | — |
-| 134 | LEY en Materia de Telecomunicaciones y Radiodifusión | Sin reforma | — |
-| 135 | LEY Federal contra la Delincuencia Organizada | DOF 28/11/2025 | — |
-| 136 | LEY Federal de Armas de Fuego y Explosivos | DOF 29/05/2025 | — |
-| 137 | LEY Federal de Austeridad Republicana | DOF 16/04/2025 | — |
-| 138 | LEY Federal de Cinematografía | Notificación 01/09/2025 Sentencia SCJN | — |
-| 139 | LEY Federal de Competencia Económica | DOF 14/11/2025 | — |
-| 140 | LEY Federal de Consulta Popular | DOF 19/05/2021 | — |
-| 141 | LEY Federal de Correduría Pública | DOF 09/04/2012 | — |
-| 142 | LEY Federal de Declaración Especial de Ausencia para Personas Desaparecidas | DOF 01/04/2024 | — |
-| 143 | LEY Federal de Defensoría Pública | DOF 01/04/2024 | — |
-| 144 | LEY Federal de Derechos | DOF 28/12/2025 | — |
-| 145 | LEY Federal de Deuda Pública (Antes "Ley General de Deuda Pública") | DOF 30/01/2018 | — |
-| 146 | LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | DOF 01/04/2024 | — |
-| 147 | LEY Federal de Juegos y Sorteos | Sin reforma | — |
-| 148 | LEY Federal de las Entidades Paraestatales | DOF 16/07/2025 | — |
-| 149 | LEY Federal de los Derechos del Contribuyente | Sin reforma | — |
-| 150 | LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | DOF 15/01/2026 | — |
-| 151 | LEY Federal de Presupuesto y Responsabilidad Hacendaria | DOF 16/07/2025 | — |
-| 152 | LEY Federal de Procedimiento Administrativo | DOF 14/11/2025 | — |
-| 153 | LEY Federal de Procedimiento Contencioso Administrativo | DOF 14/11/2025 | — |
-| 154 | LEY Federal de Producción, Certificación y Comercio de Semillas | DOF 11/05/2018 | — |
-| 155 | LEY Federal de Protección a la Propiedad Industrial | DOF 15/01/2026 | — |
-| 156 | LEY Federal de Protección al Consumidor | DOF 23/12/2025 | — |
-| 157 | LEY Federal de Protección de Datos Personales en Posesión de los Particulares | DOF 14/11/2025 | — |
-| 158 | Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas | DOF 14/11/2025 | — |
-| 159 | LEY Federal de Remuneraciones de los Servidores Públicos | Sin reforma | — |
-| 160 | LEY Federal de Responsabilidad Ambiental | DOF 14/11/2025 | — |
-| 161 | LEY Federal de Responsabilidad Patrimonial del Estado | DOF 29/12/2023 | — |
-| 162 | LEY Federal de Responsabilidades de los Servidores Públicos | DOF 01/04/2024 | — |
-| 163 | LEY Federal de Revocación de Mandato | DOF 26/09/2022 Sentencia SCJN | — |
-| 164 | LEY Federal de Sanidad Animal | DOF 21/05/2024 | — |
-| 165 | LEY Federal de Sanidad Vegetal | DOF 11/05/2022 | — |
-| 166 | LEY Federal de Seguridad Privada | DOF 17/10/2011 | — |
-| 167 | LEY Federal de Variedades Vegetales | DOF 11/05/2022 | — |
-| 168 | LEY Federal de Zonas Económicas Especiales | DOF 01/04/2024 | — |
-| 169 | LEY Federal del Derecho de Autor | DOF 15/01/2026 | — |
-| 170 | LEY Federal del Impuesto sobre Automóviles Nuevos | DOF 28/12/2025 | — |
-| 171 | LEY Federal del Mar | Sin reforma | — |
-| 172 | LEY Federal del Trabajo | DOF 15/01/2026 | — |
-| 173 | LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | DOF 03/05/2023 | — |
-| 174 | LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | DOF 14/11/2025 | — |
-| 175 | LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal | DOF 27/03/2023 | — |
-| 176 | LEY Federal para el Fomento y Protección del Maíz Nativo | Sin reforma | — |
-| 177 | LEY Federal para la Administración y Enajenación de Bienes del Sector Público | DOF 30/04/2024 | — |
-| 178 | LEY Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | DOF 16/07/2025 | — |
-| 179 | LEY Federal para la Protección a Personas que Intervienen en el Procedimiento Penal | DOF 20/05/2021 | — |
-| 180 | LEY Federal para Prevenir y Eliminar la Discriminación | DOF 14/11/2025 | — |
-| 181 | LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | DOF 12/11/2021 | — |
-| 182 | LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos | DOF 14/11/2025 | — |
-| 183 | LEY General de Acceso de las Mujeres a una Vida Libre de Violencias (Antes "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia") | DOF 15/01/2026 | — |
-| 184 | LEY General de Aguas | Sin reforma | — |
-| 185 | LEY General de Archivos | DOF 14/11/2025 | — |
-| 186 | LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano | DOF 01/04/2024 | — |
-| 187 | LEY General de Bibliotecas | DOF 29/11/2023 | — |
-| 188 | LEY General de Bienes Nacionales | DOF 14/11/2025 | — |
-| 189 | LEY General de Cambio Climático | DOF 01/04/2024 | — |
-| 190 | LEY General de Comunicación Social | DOF 01/04/2024 | — |
-| 191 | LEY General de Contabilidad Gubernamental | DOF 16/07/2025 | — |
-| 192 | LEY General de Cultura Física y Deporte | DOF 14/11/2025 | — |
-| 193 | LEY General de Cultura y Derechos Culturales | DOF 15/01/2026 | — |
-| 194 | LEY General de Derechos Lingüísticos de los Pueblos Indígenas | DOF 18/10/2023 | — |
-| 195 | LEY General de Desarrollo Forestal Sustentable | DOF 01/04/2024 | — |
-| 196 | LEY General de Desarrollo Social | DOF 15/01/2026 | — |
-| 197 | LEY General de Economía Circular | Sin reforma | — |
-| 198 | LEY General de Educación | DOF 15/01/2026 | — |
-| 199 | LEY General de Educación Superior | Sin reforma | — |
-| 200 | LEY General de Instituciones y Procedimientos Electorales | DOF 14/10/2024 | — |
-| 201 | LEY General de la Alimentación Adecuada y Sostenible | Sin reforma | — |
-| 202 | LEY General de los Derechos de Niñas, Niños y Adolescentes | DOF 15/01/2026 | — |
-| 203 | LEY General de los Medios de Impugnación en Materia Electoral | DOF 24/11/2023 Sentencia SCJN | — |
-| 204 | LEY General de Mecanismos Alternativos de Solución de Controversias | Sin reforma | — |
-| 205 | LEY General de Movilidad y Seguridad Vial | DOF 29/12/2023 | — |
-| 206 | LEY General de Organizaciones y Actividades Auxiliares del Crédito | DOF 14/11/2025 | — |
-| 207 | LEY General de Partidos Políticos | DOF 24/11/2023 Sentencia SCJN | — |
-| 208 | LEY General de Pesca y Acuacultura Sustentables | DOF 01/04/2024 | — |
-| 209 | LEY General de Población | DOF 16/07/2025 | — |
-| 210 | LEY General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil | DOF 01/04/2024 | — |
-| 211 | LEY General de Protección Civil | DOF 21/12/2023 | — |
-| 212 | LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados | DOF 14/11/2025 | — |
-| 213 | LEY General de Responsabilidades Administrativas | DOF 15/12/2025 | — |
-| 214 | LEY General de Salud | DOF 15/01/2026 | — |
-| 215 | LEY General de Sociedades Cooperativas | DOF 16/04/2025 | — |
-| 216 | LEY General de Sociedades Mercantiles | DOF 26/12/2025 | — |
-| 217 | LEY General de Títulos y Operaciones de Crédito | DOF 26/03/2024 | — |
-| 218 | LEY General de Transparencia y Acceso a la Información Pública | Sin reforma | — |
-| 219 | LEY General de Turismo | DOF 14/11/2025 | — |
-| 220 | LEY General de Víctimas | DOF 01/04/2024 | — |
-| 221 | LEY General de Vida Silvestre | DOF 16/07/2025 | — |
-| 222 | LEY General del Equilibrio Ecológico y la Protección al Ambiente | DOF 19/01/2026 | — |
-| 223 | LEY General del Sistema de Medios de Impugnación en Materia Electoral | DOF 14/11/2025 | — |
-| 224 | LEY General del Sistema Nacional Anticorrupción | DOF 20/05/2021 | — |
-| 225 | LEY General del Sistema Nacional de Seguridad Pública | Sin reforma | — |
-| 226 | LEY General del Sistema para la Carrera de las Maestras y los Maestros | Sin reforma | — |
-| 227 | LEY General en Materia de Delitos Electorales | DOF 20/05/2021 | — |
-| 228 | LEY General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas | DOF 16/07/2025 | — |
-| 229 | LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación | Sin reforma | — |
-| 230 | LEY General para el Control del Tabaco | DOF 17/02/2022 | — |
-| 231 | LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista | DOF 27/05/2016 | — |
-| 232 | LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia | Sin reforma | — |
-| 233 | LEY General para la Igualdad Sustantiva entre Mujeres y Hombres (Antes "Ley General para la Igualdad entre Mujeres y Hombres") | DOF 15/01/2026 | — |
-| 234 | LEY General para la Inclusión de las Personas con Discapacidad | DOF 14/06/2024 | — |
-| 235 | LEY General para la Prevención Social de la Violencia y la Delincuencia | DOF 04/05/2021 | — |
-| 236 | LEY General para la Prevención y Gestión Integral de los Residuos | DOF 19/01/2026 | — |
-| 237 | LEY General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes | DOF 28/04/2022 | — |
-| 238 | Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | Sin reforma | — |
-| 239 | LEY General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos | DOF 14/11/2025 | — |
-| 240 | LEY General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | DOF 20/05/2021 | — |
-| 241 | LEY Monetaria de los Estados Unidos Mexicanos | DOF 19/01/2026 | — |
-| 242 | LEY Nacional de Ejecución Penal | DOF 01/04/2024 | — |
-| 243 | LEY Nacional de Extinción de Dominio | DOF 28/11/2025 | — |
-| 244 | LEY Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal | DOF 01/04/2024 | — |
-| 245 | LEY Nacional del Registro de Detenciones | Sin reforma | — |
-| 246 | LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes | DOF 20/12/2022 | — |
-| 247 | LEY Nacional para Eliminar Trámites Burocráticos | Sin reforma | — |
-| 248 | LEY Nacional sobre el Uso de la Fuerza | DOF 24/01/2024 | — |
-| 249 | LEY Orgánica de la Administración Pública Federal | DOF 16/07/2025 | — |
+| 115 | LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | Notificación 15/01/2026 Sentencia SCJN | [`LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican.md`](markdown/LISSFAM_ley_del_instituto_de_seguridad_social_para_las_fuerzas_armadas_mexican.md) |
+| 116 | LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | DOF 15/01/2026 | [`LISSSTE_ley_del_instituto_de_seguridad_y_servicios_sociales_de_los_trabajadore.md`](markdown/LISSSTE_ley_del_instituto_de_seguridad_y_servicios_sociales_de_los_trabajadore.md) |
+| 117 | LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores | DOF 21/02/2025 | [`LIFNVT_ley_del_instituto_del_fondo_nacional_de_la_vivienda_para_los_trabajado.md`](markdown/LIFNVT_ley_del_instituto_del_fondo_nacional_de_la_vivienda_para_los_trabajado.md) |
+| 118 | LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores | DOF 03/01/2024 | [`LIFNCT_ley_del_instituto_del_fondo_nacional_para_el_consumo_de_los_trabajador.md`](markdown/LIFNCT_ley_del_instituto_del_fondo_nacional_para_el_consumo_de_los_trabajador.md) |
+| 119 | LEY del Instituto Mexicano de la Juventud | DOF 01/04/2024 | [`LIMJ_ley_del_instituto_mexicano_de_la_juventud.md`](markdown/LIMJ_ley_del_instituto_mexicano_de_la_juventud.md) |
+| 120 | LEY del Instituto Nacional de los Pueblos Indígenas | DOF 29/12/2023 | [`LINPI_ley_del_instituto_nacional_de_los_pueblos_indigenas.md`](markdown/LINPI_ley_del_instituto_nacional_de_los_pueblos_indigenas.md) |
+| 121 | LEY del Mercado de Valores | DOF 14/11/2025 | [`LMV_ley_del_mercado_de_valores.md`](markdown/LMV_ley_del_mercado_de_valores.md) |
+| 122 | LEY del Registro Público Vehicular | DOF 20/05/2021 | [`LRPV_ley_del_registro_publico_vehicular.md`](markdown/LRPV_ley_del_registro_publico_vehicular.md) |
+| 123 | LEY del Sector Eléctrico | Sin reforma | [`LSE_ley_del_sector_electrico.md`](markdown/LSE_ley_del_sector_electrico.md) |
+| 124 | LEY del Sector Hidrocarburos | Sin reforma | [`LSH_ley_del_sector_hidrocarburos.md`](markdown/LSH_ley_del_sector_hidrocarburos.md) |
+| 125 | LEY del Seguro Social | DOF 15/01/2026 | [`LSS_ley_del_seguro_social.md`](markdown/LSS_ley_del_seguro_social.md) |
+| 126 | LEY del Servicio de Administración Tributaria | DOF 04/12/2018 | [`LSAT_ley_del_servicio_de_administracion_tributaria.md`](markdown/LSAT_ley_del_servicio_de_administracion_tributaria.md) |
+| 127 | LEY del Servicio Exterior Mexicano | DOF 19/04/2018 | [`LSEM_ley_del_servicio_exterior_mexicano.md`](markdown/LSEM_ley_del_servicio_exterior_mexicano.md) |
+| 128 | LEY del Servicio Militar | DOF 18/05/2022 | [`LSM_ley_del_servicio_militar.md`](markdown/LSM_ley_del_servicio_militar.md) |
+| 129 | LEY del Servicio Postal Mexicano | DOF 19/01/2023 | [`LSPM_ley_del_servicio_postal_mexicano.md`](markdown/LSPM_ley_del_servicio_postal_mexicano.md) |
+| 130 | LEY del Servicio Profesional de Carrera en la Administración Pública Federal | DOF 09/01/2006 | [`LSPCAPF_ley_del_servicio_profesional_de_carrera_en_la_administracion_publica_f.md`](markdown/LSPCAPF_ley_del_servicio_profesional_de_carrera_en_la_administracion_publica_f.md) |
+| 131 | LEY del Sistema Nacional de Información Estadística y Geográfica | DOF 14/11/2025 | [`LSNIEG_ley_del_sistema_nacional_de_informacion_estadistica_y_geografica.md`](markdown/LSNIEG_ley_del_sistema_nacional_de_informacion_estadistica_y_geografica.md) |
+| 132 | LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública | Sin reforma | [`LSNIIMSP_ley_del_sistema_nacional_de_investigacion_e_inteligencia_en_materia_de.md`](markdown/LSNIIMSP_ley_del_sistema_nacional_de_investigacion_e_inteligencia_en_materia_de.md) |
+| 133 | LEY del Sistema Público de Radiodifusión del Estado Mexicano | DOF 14/11/2025 | [`LSPREM_ley_del_sistema_publico_de_radiodifusion_del_estado_mexicano.md`](markdown/LSPREM_ley_del_sistema_publico_de_radiodifusion_del_estado_mexicano.md) |
+| 134 | LEY en Materia de Telecomunicaciones y Radiodifusión | Sin reforma | [`LMTR_ley_en_materia_de_telecomunicaciones_y_radiodifusion.md`](markdown/LMTR_ley_en_materia_de_telecomunicaciones_y_radiodifusion.md) |
+| 135 | LEY Federal contra la Delincuencia Organizada | DOF 28/11/2025 | [`LFCDO_ley_federal_contra_la_delincuencia_organizada.md`](markdown/LFCDO_ley_federal_contra_la_delincuencia_organizada.md) |
+| 136 | LEY Federal de Armas de Fuego y Explosivos | DOF 29/05/2025 | [`LFAFE_ley_federal_de_armas_de_fuego_y_explosivos.md`](markdown/LFAFE_ley_federal_de_armas_de_fuego_y_explosivos.md) |
+| 137 | LEY Federal de Austeridad Republicana | DOF 16/04/2025 | [`LFAR_ley_federal_de_austeridad_republicana.md`](markdown/LFAR_ley_federal_de_austeridad_republicana.md) |
+| 138 | LEY Federal de Cinematografía | Notificación 01/09/2025 Sentencia SCJN | [`LFC_ley_federal_de_cinematografia.md`](markdown/LFC_ley_federal_de_cinematografia.md) |
+| 139 | LEY Federal de Competencia Económica | DOF 14/11/2025 | [`LFCE_ley_federal_de_competencia_economica.md`](markdown/LFCE_ley_federal_de_competencia_economica.md) |
+| 140 | LEY Federal de Consulta Popular | DOF 19/05/2021 | [`LFCPo_ley_federal_de_consulta_popular.md`](markdown/LFCPo_ley_federal_de_consulta_popular.md) |
+| 141 | LEY Federal de Correduría Pública | DOF 09/04/2012 | [`LFCP_ley_federal_de_correduria_publica.md`](markdown/LFCP_ley_federal_de_correduria_publica.md) |
+| 142 | LEY Federal de Declaración Especial de Ausencia para Personas Desaparecidas | DOF 01/04/2024 | [`LFDEAPD_ley_federal_de_declaracion_especial_de_ausencia_para_personas_desapare.md`](markdown/LFDEAPD_ley_federal_de_declaracion_especial_de_ausencia_para_personas_desapare.md) |
+| 143 | LEY Federal de Defensoría Pública | DOF 01/04/2024 | [`LFDefP_ley_federal_de_defensoria_publica.md`](markdown/LFDefP_ley_federal_de_defensoria_publica.md) |
+| 144 | LEY Federal de Derechos | DOF 28/12/2025 | [`LFD_ley_federal_de_derechos.md`](markdown/LFD_ley_federal_de_derechos.md) |
+| 145 | LEY Federal de Deuda Pública (Antes "Ley General de Deuda Pública") | DOF 30/01/2018 | [`LFDP_ley_federal_de_deuda_publica_antes_ley_general_de_deuda_publica.md`](markdown/LFDP_ley_federal_de_deuda_publica_antes_ley_general_de_deuda_publica.md) |
+| 146 | LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | DOF 01/04/2024 | [`LFFAOSC_ley_federal_de_fomento_a_las_actividades_realizadas_por_organizaciones.md`](markdown/LFFAOSC_ley_federal_de_fomento_a_las_actividades_realizadas_por_organizaciones.md) |
+| 147 | LEY Federal de Juegos y Sorteos | Sin reforma | [`LFJS_ley_federal_de_juegos_y_sorteos.md`](markdown/LFJS_ley_federal_de_juegos_y_sorteos.md) |
+| 148 | LEY Federal de las Entidades Paraestatales | DOF 16/07/2025 | [`LFEP_ley_federal_de_las_entidades_paraestatales.md`](markdown/LFEP_ley_federal_de_las_entidades_paraestatales.md) |
+| 149 | LEY Federal de los Derechos del Contribuyente | Sin reforma | [`LFDC_ley_federal_de_los_derechos_del_contribuyente.md`](markdown/LFDC_ley_federal_de_los_derechos_del_contribuyente.md) |
+| 150 | LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | DOF 15/01/2026 | [`LFTSE_ley_federal_de_los_trabajadores_al_servicio_del_estado_reglamentaria_d.md`](markdown/LFTSE_ley_federal_de_los_trabajadores_al_servicio_del_estado_reglamentaria_d.md) |
+| 151 | LEY Federal de Presupuesto y Responsabilidad Hacendaria | DOF 16/07/2025 | [`LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria.md`](markdown/LFPRH_ley_federal_de_presupuesto_y_responsabilidad_hacendaria.md) |
+| 152 | LEY Federal de Procedimiento Administrativo | DOF 14/11/2025 | [`LFPA_ley_federal_de_procedimiento_administrativo.md`](markdown/LFPA_ley_federal_de_procedimiento_administrativo.md) |
+| 153 | LEY Federal de Procedimiento Contencioso Administrativo | DOF 14/11/2025 | [`LFPCA_ley_federal_de_procedimiento_contencioso_administrativo.md`](markdown/LFPCA_ley_federal_de_procedimiento_contencioso_administrativo.md) |
+| 154 | LEY Federal de Producción, Certificación y Comercio de Semillas | DOF 11/05/2018 | [`LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas.md`](markdown/LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas.md) |
+| 155 | LEY Federal de Protección a la Propiedad Industrial | DOF 15/01/2026 | [`LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial.md`](markdown/LFPPI_ley_federal_de_proteccion_a_la_propiedad_industrial.md) |
+| 156 | LEY Federal de Protección al Consumidor | DOF 23/12/2025 | [`LFPC_ley_federal_de_proteccion_al_consumidor.md`](markdown/LFPC_ley_federal_de_proteccion_al_consumidor.md) |
+| 157 | LEY Federal de Protección de Datos Personales en Posesión de los Particulares | DOF 14/11/2025 | [`LFPDPPP_ley_federal_de_proteccion_de_datos_personales_en_posesion_de_los_parti.md`](markdown/LFPDPPP_ley_federal_de_proteccion_de_datos_personales_en_posesion_de_los_parti.md) |
+| 158 | Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas | DOF 14/11/2025 | [`LFPPCPCIA_ley_federal_de_proteccion_del_patrimonio_cultural_de_los_pueblos_y_com.md`](markdown/LFPPCPCIA_ley_federal_de_proteccion_del_patrimonio_cultural_de_los_pueblos_y_com.md) |
+| 159 | LEY Federal de Remuneraciones de los Servidores Públicos | Sin reforma | [`LFRemSP_ley_federal_de_remuneraciones_de_los_servidores_publicos.md`](markdown/LFRemSP_ley_federal_de_remuneraciones_de_los_servidores_publicos.md) |
+| 160 | LEY Federal de Responsabilidad Ambiental | DOF 14/11/2025 | [`LFRA_ley_federal_de_responsabilidad_ambiental.md`](markdown/LFRA_ley_federal_de_responsabilidad_ambiental.md) |
+| 161 | LEY Federal de Responsabilidad Patrimonial del Estado | DOF 29/12/2023 | [`LFRPE_ley_federal_de_responsabilidad_patrimonial_del_estado.md`](markdown/LFRPE_ley_federal_de_responsabilidad_patrimonial_del_estado.md) |
+| 162 | LEY Federal de Responsabilidades de los Servidores Públicos | DOF 01/04/2024 | [`LFRSP_ley_federal_de_responsabilidades_de_los_servidores_publicos.md`](markdown/LFRSP_ley_federal_de_responsabilidades_de_los_servidores_publicos.md) |
+| 163 | LEY Federal de Revocación de Mandato | DOF 26/09/2022 Sentencia SCJN | [`LFRM_ley_federal_de_revocacion_de_mandato.md`](markdown/LFRM_ley_federal_de_revocacion_de_mandato.md) |
+| 164 | LEY Federal de Sanidad Animal | DOF 21/05/2024 | [`LFSA_ley_federal_de_sanidad_animal.md`](markdown/LFSA_ley_federal_de_sanidad_animal.md) |
+| 165 | LEY Federal de Sanidad Vegetal | DOF 11/05/2022 | [`LFSV_ley_federal_de_sanidad_vegetal.md`](markdown/LFSV_ley_federal_de_sanidad_vegetal.md) |
+| 166 | LEY Federal de Seguridad Privada | DOF 17/10/2011 | [`LFSP_ley_federal_de_seguridad_privada.md`](markdown/LFSP_ley_federal_de_seguridad_privada.md) |
+| 167 | LEY Federal de Variedades Vegetales | DOF 11/05/2022 | [`LFVV_ley_federal_de_variedades_vegetales.md`](markdown/LFVV_ley_federal_de_variedades_vegetales.md) |
+| 168 | LEY Federal de Zonas Económicas Especiales | DOF 01/04/2024 | [`LFZEE_ley_federal_de_zonas_economicas_especiales.md`](markdown/LFZEE_ley_federal_de_zonas_economicas_especiales.md) |
+| 169 | LEY Federal del Derecho de Autor | DOF 15/01/2026 | [`LFDA_ley_federal_del_derecho_de_autor.md`](markdown/LFDA_ley_federal_del_derecho_de_autor.md) |
+| 170 | LEY Federal del Impuesto sobre Automóviles Nuevos | DOF 28/12/2025 | [`LFISAN_ley_federal_del_impuesto_sobre_automoviles_nuevos.md`](markdown/LFISAN_ley_federal_del_impuesto_sobre_automoviles_nuevos.md) |
+| 171 | LEY Federal del Mar | Sin reforma | [`LFM_ley_federal_del_mar.md`](markdown/LFM_ley_federal_del_mar.md) |
+| 172 | LEY Federal del Trabajo | DOF 15/01/2026 | [`LFT_ley_federal_del_trabajo.md`](markdown/LFT_ley_federal_del_trabajo.md) |
+| 173 | LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | DOF 03/05/2023 | [`LFCPQ_ley_federal_para_el_control_de_precursores_quimicos_productos_quimicos.md`](markdown/LFCPQ_ley_federal_para_el_control_de_precursores_quimicos_productos_quimicos.md) |
+| 174 | LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | DOF 14/11/2025 | [`LFCSQ_ley_federal_para_el_control_de_sustancias_quimicas_susceptibles_de_des.md`](markdown/LFCSQ_ley_federal_para_el_control_de_sustancias_quimicas_susceptibles_de_des.md) |
+| 175 | LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal | DOF 27/03/2023 | [`LFFMAA_ley_federal_para_el_fomento_de_la_microindustria_y_la_actividad_artesa.md`](markdown/LFFMAA_ley_federal_para_el_fomento_de_la_microindustria_y_la_actividad_artesa.md) |
+| 176 | LEY Federal para el Fomento y Protección del Maíz Nativo | Sin reforma | [`LFFPMN_ley_federal_para_el_fomento_y_proteccion_del_maiz_nativo.md`](markdown/LFFPMN_ley_federal_para_el_fomento_y_proteccion_del_maiz_nativo.md) |
+| 177 | LEY Federal para la Administración y Enajenación de Bienes del Sector Público | DOF 30/04/2024 | [`LFAEBSP_ley_federal_para_la_administracion_y_enajenacion_de_bienes_del_sector.md`](markdown/LFAEBSP_ley_federal_para_la_administracion_y_enajenacion_de_bienes_del_sector.md) |
+| 178 | LEY Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | DOF 16/07/2025 | [`LFPIORPI_ley_federal_para_la_prevencion_e_identificacion_de_operaciones_con_rec.md`](markdown/LFPIORPI_ley_federal_para_la_prevencion_e_identificacion_de_operaciones_con_rec.md) |
+| 179 | LEY Federal para la Protección a Personas que Intervienen en el Procedimiento Penal | DOF 20/05/2021 | [`LFPPIPP_ley_federal_para_la_proteccion_a_personas_que_intervienen_en_el_proced.md`](markdown/LFPPIPP_ley_federal_para_la_proteccion_a_personas_que_intervienen_en_el_proced.md) |
+| 180 | LEY Federal para Prevenir y Eliminar la Discriminación | DOF 14/11/2025 | [`LFPED_ley_federal_para_prevenir_y_eliminar_la_discriminacion.md`](markdown/LFPED_ley_federal_para_prevenir_y_eliminar_la_discriminacion.md) |
+| 181 | LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | DOF 12/11/2021 | [`LFPSDMH_ley_federal_para_prevenir_y_sancionar_los_delitos_cometidos_en_materia.md`](markdown/LFPSDMH_ley_federal_para_prevenir_y_sancionar_los_delitos_cometidos_en_materia.md) |
+| 182 | LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos | DOF 14/11/2025 | [`LFMZAAH_ley_federal_sobre_monumentos_y_zonas_arqueologicos_artisticos_e_histor.md`](markdown/LFMZAAH_ley_federal_sobre_monumentos_y_zonas_arqueologicos_artisticos_e_histor.md) |
+| 183 | LEY General de Acceso de las Mujeres a una Vida Libre de Violencias (Antes "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia") | DOF 15/01/2026 | [`LGAMVLV_ley_general_de_acceso_de_las_mujeres_a_una_vida_libre_de_violencias_an.md`](markdown/LGAMVLV_ley_general_de_acceso_de_las_mujeres_a_una_vida_libre_de_violencias_an.md) |
+| 184 | LEY General de Aguas | Sin reforma | [`LGAg_ley_general_de_aguas.md`](markdown/LGAg_ley_general_de_aguas.md) |
+| 185 | LEY General de Archivos | DOF 14/11/2025 | [`LGA_ley_general_de_archivos.md`](markdown/LGA_ley_general_de_archivos.md) |
+| 186 | LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano | DOF 01/04/2024 | [`LGAHOTDU_ley_general_de_asentamientos_humanos_ordenamiento_territorial_y_desarr.md`](markdown/LGAHOTDU_ley_general_de_asentamientos_humanos_ordenamiento_territorial_y_desarr.md) |
+| 187 | LEY General de Bibliotecas | DOF 29/11/2023 | [`LGB_ley_general_de_bibliotecas.md`](markdown/LGB_ley_general_de_bibliotecas.md) |
+| 188 | LEY General de Bienes Nacionales | DOF 14/11/2025 | [`LGBN_ley_general_de_bienes_nacionales.md`](markdown/LGBN_ley_general_de_bienes_nacionales.md) |
+| 189 | LEY General de Cambio Climático | DOF 01/04/2024 | [`LGCC_ley_general_de_cambio_climatico.md`](markdown/LGCC_ley_general_de_cambio_climatico.md) |
+| 190 | LEY General de Comunicación Social | DOF 01/04/2024 | [`LGCS_ley_general_de_comunicacion_social.md`](markdown/LGCS_ley_general_de_comunicacion_social.md) |
+| 191 | LEY General de Contabilidad Gubernamental | DOF 16/07/2025 | [`LGCG_ley_general_de_contabilidad_gubernamental.md`](markdown/LGCG_ley_general_de_contabilidad_gubernamental.md) |
+| 192 | LEY General de Cultura Física y Deporte | DOF 14/11/2025 | [`LGCFD_ley_general_de_cultura_fisica_y_deporte.md`](markdown/LGCFD_ley_general_de_cultura_fisica_y_deporte.md) |
+| 193 | LEY General de Cultura y Derechos Culturales | DOF 15/01/2026 | [`LGCDC_ley_general_de_cultura_y_derechos_culturales.md`](markdown/LGCDC_ley_general_de_cultura_y_derechos_culturales.md) |
+| 194 | LEY General de Derechos Lingüísticos de los Pueblos Indígenas | DOF 18/10/2023 | [`LGDLPI_ley_general_de_derechos_linguisticos_de_los_pueblos_indigenas.md`](markdown/LGDLPI_ley_general_de_derechos_linguisticos_de_los_pueblos_indigenas.md) |
+| 195 | LEY General de Desarrollo Forestal Sustentable | DOF 01/04/2024 | [`LGDFS_ley_general_de_desarrollo_forestal_sustentable.md`](markdown/LGDFS_ley_general_de_desarrollo_forestal_sustentable.md) |
+| 196 | LEY General de Desarrollo Social | DOF 15/01/2026 | [`LGDS_ley_general_de_desarrollo_social.md`](markdown/LGDS_ley_general_de_desarrollo_social.md) |
+| 197 | LEY General de Economía Circular | Sin reforma | [`LGEC_ley_general_de_economia_circular.md`](markdown/LGEC_ley_general_de_economia_circular.md) |
+| 198 | LEY General de Educación | DOF 15/01/2026 | [`LGE_ley_general_de_educacion.md`](markdown/LGE_ley_general_de_educacion.md) |
+| 199 | LEY General de Educación Superior | Sin reforma | [`LGES_ley_general_de_educacion_superior.md`](markdown/LGES_ley_general_de_educacion_superior.md) |
+| 200 | LEY General de Instituciones y Procedimientos Electorales | DOF 14/10/2024 | [`LGIPE_ley_general_de_instituciones_y_procedimientos_electorales.md`](markdown/LGIPE_ley_general_de_instituciones_y_procedimientos_electorales.md) |
+| 201 | LEY General de la Alimentación Adecuada y Sostenible | Sin reforma | [`LGAAS_ley_general_de_la_alimentacion_adecuada_y_sostenible.md`](markdown/LGAAS_ley_general_de_la_alimentacion_adecuada_y_sostenible.md) |
+| 202 | LEY General de los Derechos de Niñas, Niños y Adolescentes | DOF 15/01/2026 | [`LGDNNA_ley_general_de_los_derechos_de_ninas_ninos_y_adolescentes.md`](markdown/LGDNNA_ley_general_de_los_derechos_de_ninas_ninos_y_adolescentes.md) |
+| 203 | LEY General de los Medios de Impugnación en Materia Electoral | DOF 24/11/2023 Sentencia SCJN | [`LGMIME_ley_general_de_los_medios_de_impugnacion_en_materia_electoral.md`](markdown/LGMIME_ley_general_de_los_medios_de_impugnacion_en_materia_electoral.md) |
+| 204 | LEY General de Mecanismos Alternativos de Solución de Controversias | Sin reforma | [`LGMASC_ley_general_de_mecanismos_alternativos_de_solucion_de_controversias.md`](markdown/LGMASC_ley_general_de_mecanismos_alternativos_de_solucion_de_controversias.md) |
+| 205 | LEY General de Movilidad y Seguridad Vial | DOF 29/12/2023 | [`LGMSV_ley_general_de_movilidad_y_seguridad_vial.md`](markdown/LGMSV_ley_general_de_movilidad_y_seguridad_vial.md) |
+| 206 | LEY General de Organizaciones y Actividades Auxiliares del Crédito | DOF 14/11/2025 | [`LGOAAC_ley_general_de_organizaciones_y_actividades_auxiliares_del_credito.md`](markdown/LGOAAC_ley_general_de_organizaciones_y_actividades_auxiliares_del_credito.md) |
+| 207 | LEY General de Partidos Políticos | DOF 24/11/2023 Sentencia SCJN | [`LGPP_ley_general_de_partidos_politicos.md`](markdown/LGPP_ley_general_de_partidos_politicos.md) |
+| 208 | LEY General de Pesca y Acuacultura Sustentables | DOF 01/04/2024 | [`LGPAS_ley_general_de_pesca_y_acuacultura_sustentables.md`](markdown/LGPAS_ley_general_de_pesca_y_acuacultura_sustentables.md) |
+| 209 | LEY General de Población | DOF 16/07/2025 | [`LGP_ley_general_de_poblacion.md`](markdown/LGP_ley_general_de_poblacion.md) |
+| 210 | LEY General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil | DOF 01/04/2024 | [`LGPSACDII_ley_general_de_prestacion_de_servicios_para_la_atencion_cuidado_y_desa.md`](markdown/LGPSACDII_ley_general_de_prestacion_de_servicios_para_la_atencion_cuidado_y_desa.md) |
+| 211 | LEY General de Protección Civil | DOF 21/12/2023 | [`LGPC_ley_general_de_proteccion_civil.md`](markdown/LGPC_ley_general_de_proteccion_civil.md) |
+| 212 | LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados | DOF 14/11/2025 | [`LGPDPPSO_ley_general_de_proteccion_de_datos_personales_en_posesion_de_sujetos_o.md`](markdown/LGPDPPSO_ley_general_de_proteccion_de_datos_personales_en_posesion_de_sujetos_o.md) |
+| 213 | LEY General de Responsabilidades Administrativas | DOF 15/12/2025 | [`LGRA_ley_general_de_responsabilidades_administrativas.md`](markdown/LGRA_ley_general_de_responsabilidades_administrativas.md) |
+| 214 | LEY General de Salud | DOF 15/01/2026 | [`LGS_ley_general_de_salud.md`](markdown/LGS_ley_general_de_salud.md) |
+| 215 | LEY General de Sociedades Cooperativas | DOF 16/04/2025 | [`LGSC_ley_general_de_sociedades_cooperativas.md`](markdown/LGSC_ley_general_de_sociedades_cooperativas.md) |
+| 216 | LEY General de Sociedades Mercantiles | DOF 26/12/2025 | [`LGSM_ley_general_de_sociedades_mercantiles.md`](markdown/LGSM_ley_general_de_sociedades_mercantiles.md) |
+| 217 | LEY General de Títulos y Operaciones de Crédito | DOF 26/03/2024 | [`LGTOC_ley_general_de_titulos_y_operaciones_de_credito.md`](markdown/LGTOC_ley_general_de_titulos_y_operaciones_de_credito.md) |
+| 218 | LEY General de Transparencia y Acceso a la Información Pública | Sin reforma | [`LGTAIP_ley_general_de_transparencia_y_acceso_a_la_informacion_publica.md`](markdown/LGTAIP_ley_general_de_transparencia_y_acceso_a_la_informacion_publica.md) |
+| 219 | LEY General de Turismo | DOF 14/11/2025 | [`LGT_ley_general_de_turismo.md`](markdown/LGT_ley_general_de_turismo.md) |
+| 220 | LEY General de Víctimas | DOF 01/04/2024 | [`LGV_ley_general_de_victimas.md`](markdown/LGV_ley_general_de_victimas.md) |
+| 221 | LEY General de Vida Silvestre | DOF 16/07/2025 | [`LGVS_ley_general_de_vida_silvestre.md`](markdown/LGVS_ley_general_de_vida_silvestre.md) |
+| 222 | LEY General del Equilibrio Ecológico y la Protección al Ambiente | DOF 19/01/2026 | [`LGEEPA_ley_general_del_equilibrio_ecologico_y_la_proteccion_al_ambiente.md`](markdown/LGEEPA_ley_general_del_equilibrio_ecologico_y_la_proteccion_al_ambiente.md) |
+| 223 | LEY General del Sistema de Medios de Impugnación en Materia Electoral | DOF 14/11/2025 | [`LGSMIME_ley_general_del_sistema_de_medios_de_impugnacion_en_materia_electoral.md`](markdown/LGSMIME_ley_general_del_sistema_de_medios_de_impugnacion_en_materia_electoral.md) |
+| 224 | LEY General del Sistema Nacional Anticorrupción | DOF 20/05/2021 | [`LGSNA_ley_general_del_sistema_nacional_anticorrupcion.md`](markdown/LGSNA_ley_general_del_sistema_nacional_anticorrupcion.md) |
+| 225 | LEY General del Sistema Nacional de Seguridad Pública | Sin reforma | [`LGSNSP_ley_general_del_sistema_nacional_de_seguridad_publica.md`](markdown/LGSNSP_ley_general_del_sistema_nacional_de_seguridad_publica.md) |
+| 226 | LEY General del Sistema para la Carrera de las Maestras y los Maestros | Sin reforma | [`LGSCMM_ley_general_del_sistema_para_la_carrera_de_las_maestras_y_los_maestros.md`](markdown/LGSCMM_ley_general_del_sistema_para_la_carrera_de_las_maestras_y_los_maestros.md) |
+| 227 | LEY General en Materia de Delitos Electorales | DOF 20/05/2021 | [`LGMDE_ley_general_en_materia_de_delitos_electorales.md`](markdown/LGMDE_ley_general_en_materia_de_delitos_electorales.md) |
+| 228 | LEY General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas | DOF 16/07/2025 | [`LGMDFP_ley_general_en_materia_de_desaparicion_forzada_de_personas_desaparicio.md`](markdown/LGMDFP_ley_general_en_materia_de_desaparicion_forzada_de_personas_desaparicio.md) |
+| 229 | LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación | Sin reforma | [`LGMHCTI_ley_general_en_materia_de_humanidades_ciencias_tecnologias_e_innovacio.md`](markdown/LGMHCTI_ley_general_en_materia_de_humanidades_ciencias_tecnologias_e_innovacio.md) |
+| 230 | LEY General para el Control del Tabaco | DOF 17/02/2022 | [`LGCT_ley_general_para_el_control_del_tabaco.md`](markdown/LGCT_ley_general_para_el_control_del_tabaco.md) |
+| 231 | LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista | DOF 27/05/2016 | [`LGAPPCEA_ley_general_para_la_atencion_y_proteccion_a_personas_con_la_condicion.md`](markdown/LGAPPCEA_ley_general_para_la_atencion_y_proteccion_a_personas_con_la_condicion.md) |
+| 232 | LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia | Sin reforma | [`LGDOCIA_ley_general_para_la_deteccion_oportuna_del_cancer_en_la_infancia_y_la.md`](markdown/LGDOCIA_ley_general_para_la_deteccion_oportuna_del_cancer_en_la_infancia_y_la.md) |
+| 233 | LEY General para la Igualdad Sustantiva entre Mujeres y Hombres (Antes "Ley General para la Igualdad entre Mujeres y Hombres") | DOF 15/01/2026 | [`LGISMH_ley_general_para_la_igualdad_sustantiva_entre_mujeres_y_hombres_antes.md`](markdown/LGISMH_ley_general_para_la_igualdad_sustantiva_entre_mujeres_y_hombres_antes.md) |
+| 234 | LEY General para la Inclusión de las Personas con Discapacidad | DOF 14/06/2024 | [`LGIPD_ley_general_para_la_inclusion_de_las_personas_con_discapacidad.md`](markdown/LGIPD_ley_general_para_la_inclusion_de_las_personas_con_discapacidad.md) |
+| 235 | LEY General para la Prevención Social de la Violencia y la Delincuencia | DOF 04/05/2021 | [`LGPSVD_ley_general_para_la_prevencion_social_de_la_violencia_y_la_delincuenci.md`](markdown/LGPSVD_ley_general_para_la_prevencion_social_de_la_violencia_y_la_delincuenci.md) |
+| 236 | LEY General para la Prevención y Gestión Integral de los Residuos | DOF 19/01/2026 | [`LGPGIR_ley_general_para_la_prevencion_y_gestion_integral_de_los_residuos.md`](markdown/LGPGIR_ley_general_para_la_prevencion_y_gestion_integral_de_los_residuos.md) |
+| 237 | LEY General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes | DOF 28/04/2022 | [`LGPIST_ley_general_para_prevenir_investigar_y_sancionar_la_tortura_y_otros_tr.md`](markdown/LGPIST_ley_general_para_prevenir_investigar_y_sancionar_la_tortura_y_otros_tr.md) |
+| 238 | Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | Sin reforma | [`LGPISDME_ley_general_para_prevenir_investigar_y_sancionar_los_delitos_en_materi.md`](markdown/LGPISDME_ley_general_para_prevenir_investigar_y_sancionar_los_delitos_en_materi.md) |
+| 239 | LEY General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos | DOF 14/11/2025 | [`LGPSEDMTP_ley_general_para_prevenir_sancionar_y_erradicar_los_delitos_en_materia.md`](markdown/LGPSEDMTP_ley_general_para_prevenir_sancionar_y_erradicar_los_delitos_en_materia.md) |
+| 240 | LEY General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | DOF 20/05/2021 | [`LGPSDMS_ley_general_para_prevenir_y_sancionar_los_delitos_en_materia_de_secues.md`](markdown/LGPSDMS_ley_general_para_prevenir_y_sancionar_los_delitos_en_materia_de_secues.md) |
+| 241 | LEY Monetaria de los Estados Unidos Mexicanos | DOF 19/01/2026 | [`LMEUM_ley_monetaria_de_los_estados_unidos_mexicanos.md`](markdown/LMEUM_ley_monetaria_de_los_estados_unidos_mexicanos.md) |
+| 242 | LEY Nacional de Ejecución Penal | DOF 01/04/2024 | [`LNEP_ley_nacional_de_ejecucion_penal.md`](markdown/LNEP_ley_nacional_de_ejecucion_penal.md) |
+| 243 | LEY Nacional de Extinción de Dominio | DOF 28/11/2025 | [`LNED_ley_nacional_de_extincion_de_dominio.md`](markdown/LNED_ley_nacional_de_extincion_de_dominio.md) |
+| 244 | LEY Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal | DOF 01/04/2024 | [`LNMASCMP_ley_nacional_de_mecanismos_alternativos_de_solucion_de_controversias_e.md`](markdown/LNMASCMP_ley_nacional_de_mecanismos_alternativos_de_solucion_de_controversias_e.md) |
+| 245 | LEY Nacional del Registro de Detenciones | Sin reforma | [`LNRD_ley_nacional_del_registro_de_detenciones.md`](markdown/LNRD_ley_nacional_del_registro_de_detenciones.md) |
+| 246 | LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes | DOF 20/12/2022 | [`LNSIJPA_ley_nacional_del_sistema_integral_de_justicia_penal_para_adolescentes.md`](markdown/LNSIJPA_ley_nacional_del_sistema_integral_de_justicia_penal_para_adolescentes.md) |
+| 247 | LEY Nacional para Eliminar Trámites Burocráticos | Sin reforma | [`LNETB_ley_nacional_para_eliminar_tramites_burocraticos.md`](markdown/LNETB_ley_nacional_para_eliminar_tramites_burocraticos.md) |
+| 248 | LEY Nacional sobre el Uso de la Fuerza | DOF 24/01/2024 | [`LNUF_ley_nacional_sobre_el_uso_de_la_fuerza.md`](markdown/LNUF_ley_nacional_sobre_el_uso_de_la_fuerza.md) |
+| 249 | LEY Orgánica de la Administración Pública Federal | DOF 16/07/2025 | [`LOAPF_ley_organica_de_la_administracion_publica_federal.md`](markdown/LOAPF_ley_organica_de_la_administracion_publica_federal.md) |
 | 250 | LEY Orgánica de la Armada de México | Sin reforma | — |
 | 251 | LEY Orgánica de la Procuraduría de la Defensa del Contribuyente | DOF 11/05/2022 | — |
 | 252 | LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal | DOF 24/02/2012 | — |
