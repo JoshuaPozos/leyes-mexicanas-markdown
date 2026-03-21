@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **21/03/2026** — **294/315** leyes disponibles en Markdown (93%).
+> Última actualización: **21/03/2026** — **315/315** leyes disponibles en Markdown (100%).
 
 ---
 
@@ -301,27 +301,27 @@
 | 292 | LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear | DOF 12/01/1972 | [`LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio.md`](markdown/LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio.md) |
 | 293 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento | DOF 06/06/2025 | [`LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md`](markdown/LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md) |
 | 294 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo | DOF 29/12/2014 | [`LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md`](markdown/LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md) |
-| 295 | LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República | Sin reforma | — |
-| 296 | LEY Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | — |
-| 297 | LEY Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | — |
-| 298 | LEY Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera | Sin reforma | — |
-| 299 | LEY Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | — |
-| 300 | LEY Reglamentaria del Artículo 27 Constitucional en Materia Nuclear | DOF 09/04/2012 | — |
-| 301 | LEY Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación | Sin reforma | — |
-| 302 | LEY Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México (Antes "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en el Distrito Federal") | DOF 19/01/2018 | — |
-| 303 | LEY Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica | DOF 14/11/2025 | — |
-| 304 | LEY Reglamentaria del Servicio Ferroviario | DOF 14/11/2025 | — |
-| 305 | LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas | DOF 09/04/2012 | — |
-| 306 | LEY Sobre el Contrato de Seguro | DOF 04/04/2013 | — |
-| 307 | LEY sobre el Escudo, la Bandera y el Himno Nacionales | DOF 21/07/2025 | — |
-| 308 | LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica | Sin reforma | — |
-| 309 | LEY sobre la Celebración de Tratados | DOF 14/11/2025 | — |
-| 310 | LEY sobre Refugiados, Protección Complementaria y Asilo Político (Antes "Ley sobre Refugiados y Protección Complementaria") | DOF 18/02/2022 | — |
-| 311 | ORDENANZA General de la Armada | DOF 19/10/2000 | — |
-| 312 | PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026 | Sin reforma | — |
-| 313 | REGLAMENTO de la Cámara de Diputados | DOF 07/05/2025 | — |
-| 314 | REGLAMENTO del Senado de la República | DOF 06/12/2024 | — |
-| 315 | REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | DOF 24/12/2010 | — |
+| 295 | LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República | Sin reforma | [`LRFVACGR_ley_reglamentaria_de_la_fraccion_v_del_articulo_76_de_la_constitucion.md`](markdown/LRFVACGR_ley_reglamentaria_de_la_fraccion_v_del_articulo_76_de_la_constitucion.md) |
+| 296 | LEY Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | [`LRArt76_fracVI_ley_reglamentaria_de_la_fraccion_vi_del_articulo_76_de_la_constitucion.md`](markdown/LRArt76_fracVI_ley_reglamentaria_de_la_fraccion_vi_del_articulo_76_de_la_constitucion.md) |
+| 297 | LEY Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | [`LRFXIIIB_Art123_ley_reglamentaria_de_la_fraccion_xiii_bis_del_apartado_b_del_articulo.md`](markdown/LRFXIIIB_Art123_ley_reglamentaria_de_la_fraccion_xiii_bis_del_apartado_b_del_articulo.md) |
+| 298 | LEY Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera | Sin reforma | [`LRFXAC_ley_reglamentaria_de_la_fraccion_xviii_del_articulo_73_constitucional.md`](markdown/LRFXAC_ley_reglamentaria_de_la_fraccion_xviii_del_articulo_73_constitucional.md) |
+| 299 | LEY Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | [`LRFIyII_Art105_ley_reglamentaria_de_las_fracciones_i_y_ii_del_articulo_105_de_la_cons.md`](markdown/LRFIyII_Art105_ley_reglamentaria_de_las_fracciones_i_y_ii_del_articulo_105_de_la_cons.md) |
+| 300 | LEY Reglamentaria del Artículo 27 Constitucional en Materia Nuclear | DOF 09/04/2012 | [`LRACMN_ley_reglamentaria_del_articulo_27_constitucional_en_materia_nuclear.md`](markdown/LRACMN_ley_reglamentaria_del_articulo_27_constitucional_en_materia_nuclear.md) |
+| 301 | LEY Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación | Sin reforma | [`LRArt3_MMCE_ley_reglamentaria_del_articulo_3o_de_la_constitucion_politica_de_los_e.md`](markdown/LRArt3_MMCE_ley_reglamentaria_del_articulo_3o_de_la_constitucion_politica_de_los_e.md) |
+| 302 | LEY Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México (Antes "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en el Distrito Federal") | DOF 19/01/2018 | [`LRAC_ley_reglamentaria_del_articulo_5o_constitucional_relativo_al_ejercicio.md`](markdown/LRAC_ley_reglamentaria_del_articulo_5o_constitucional_relativo_al_ejercicio.md) |
+| 303 | LEY Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica | DOF 14/11/2025 | [`LRArt6_MDR_ley_reglamentaria_del_articulo_6o_parrafo_primero_de_la_constitucion_p.md`](markdown/LRArt6_MDR_ley_reglamentaria_del_articulo_6o_parrafo_primero_de_la_constitucion_p.md) |
+| 304 | LEY Reglamentaria del Servicio Ferroviario | DOF 14/11/2025 | [`LRSF_ley_reglamentaria_del_servicio_ferroviario.md`](markdown/LRSF_ley_reglamentaria_del_servicio_ferroviario.md) |
+| 305 | LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas | DOF 09/04/2012 | [`LCA_ley_sobre_camaras_agricolas_que_en_lo_sucesivo_se_denominaran_asociaci.md`](markdown/LCA_ley_sobre_camaras_agricolas_que_en_lo_sucesivo_se_denominaran_asociaci.md) |
+| 306 | LEY Sobre el Contrato de Seguro | DOF 04/04/2013 | [`LCS_ley_sobre_el_contrato_de_seguro.md`](markdown/LCS_ley_sobre_el_contrato_de_seguro.md) |
+| 307 | LEY sobre el Escudo, la Bandera y el Himno Nacionales | DOF 21/07/2025 | [`LEBHN_ley_sobre_el_escudo_la_bandera_y_el_himno_nacionales.md`](markdown/LEBHN_ley_sobre_el_escudo_la_bandera_y_el_himno_nacionales.md) |
+| 308 | LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica | Sin reforma | [`LATIME_ley_sobre_la_aprobacion_de_tratados_internacionales_en_materia_economi.md`](markdown/LATIME_ley_sobre_la_aprobacion_de_tratados_internacionales_en_materia_economi.md) |
+| 309 | LEY sobre la Celebración de Tratados | DOF 14/11/2025 | [`LSCT_ley_sobre_la_celebracion_de_tratados.md`](markdown/LSCT_ley_sobre_la_celebracion_de_tratados.md) |
+| 310 | LEY sobre Refugiados, Protección Complementaria y Asilo Político (Antes "Ley sobre Refugiados y Protección Complementaria") | DOF 18/02/2022 | [`LRPCAP_ley_sobre_refugiados_proteccion_complementaria_y_asilo_politico_antes.md`](markdown/LRPCAP_ley_sobre_refugiados_proteccion_complementaria_y_asilo_politico_antes.md) |
+| 311 | ORDENANZA General de la Armada | DOF 19/10/2000 | [`OGA_ordenanza_general_de_la_armada.md`](markdown/OGA_ordenanza_general_de_la_armada.md) |
+| 312 | PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026 | Sin reforma | [`PEF_presupuesto_de_egresos_de_la_federacion_para_el_ejercicio_fiscal_2026.md`](markdown/PEF_presupuesto_de_egresos_de_la_federacion_para_el_ejercicio_fiscal_2026.md) |
+| 313 | REGLAMENTO de la Cámara de Diputados | DOF 07/05/2025 | [`Reg_Diputados_reglamento_de_la_camara_de_diputados.md`](markdown/Reg_Diputados_reglamento_de_la_camara_de_diputados.md) |
+| 314 | REGLAMENTO del Senado de la República | DOF 06/12/2024 | [`Reg_Senado_reglamento_del_senado_de_la_republica.md`](markdown/Reg_Senado_reglamento_del_senado_de_la_republica.md) |
+| 315 | REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | DOF 24/12/2010 | [`RGICGEUM_reglamento_para_el_gobierno_interior_del_congreso_general_de_los_estad.md`](markdown/RGICGEUM_reglamento_para_el_gobierno_interior_del_congreso_general_de_los_estad.md) |
 
 ---
 
@@ -634,27 +634,27 @@ python scripts/gen_indice.py
 | 292 | LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear | DOF 12/01/1972 | [`LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio.md`](markdown/LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio.md) |
 | 293 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento | DOF 06/06/2025 | [`LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md`](markdown/LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md) |
 | 294 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo | DOF 29/12/2014 | [`LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md`](markdown/LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md) |
-| 295 | LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República | Sin reforma | — |
-| 296 | LEY Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | — |
-| 297 | LEY Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | — |
-| 298 | LEY Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera | Sin reforma | — |
-| 299 | LEY Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | — |
-| 300 | LEY Reglamentaria del Artículo 27 Constitucional en Materia Nuclear | DOF 09/04/2012 | — |
-| 301 | LEY Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación | Sin reforma | — |
-| 302 | LEY Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México (Antes "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en el Distrito Federal") | DOF 19/01/2018 | — |
-| 303 | LEY Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica | DOF 14/11/2025 | — |
-| 304 | LEY Reglamentaria del Servicio Ferroviario | DOF 14/11/2025 | — |
-| 305 | LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas | DOF 09/04/2012 | — |
-| 306 | LEY Sobre el Contrato de Seguro | DOF 04/04/2013 | — |
-| 307 | LEY sobre el Escudo, la Bandera y el Himno Nacionales | DOF 21/07/2025 | — |
-| 308 | LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica | Sin reforma | — |
-| 309 | LEY sobre la Celebración de Tratados | DOF 14/11/2025 | — |
-| 310 | LEY sobre Refugiados, Protección Complementaria y Asilo Político (Antes "Ley sobre Refugiados y Protección Complementaria") | DOF 18/02/2022 | — |
-| 311 | ORDENANZA General de la Armada | DOF 19/10/2000 | — |
-| 312 | PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026 | Sin reforma | — |
-| 313 | REGLAMENTO de la Cámara de Diputados | DOF 07/05/2025 | — |
-| 314 | REGLAMENTO del Senado de la República | DOF 06/12/2024 | — |
-| 315 | REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | DOF 24/12/2010 | — |
+| 295 | LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República | Sin reforma | [`LRFVACGR_ley_reglamentaria_de_la_fraccion_v_del_articulo_76_de_la_constitucion.md`](markdown/LRFVACGR_ley_reglamentaria_de_la_fraccion_v_del_articulo_76_de_la_constitucion.md) |
+| 296 | LEY Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | [`LRArt76_fracVI_ley_reglamentaria_de_la_fraccion_vi_del_articulo_76_de_la_constitucion.md`](markdown/LRArt76_fracVI_ley_reglamentaria_de_la_fraccion_vi_del_articulo_76_de_la_constitucion.md) |
+| 297 | LEY Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | [`LRFXIIIB_Art123_ley_reglamentaria_de_la_fraccion_xiii_bis_del_apartado_b_del_articulo.md`](markdown/LRFXIIIB_Art123_ley_reglamentaria_de_la_fraccion_xiii_bis_del_apartado_b_del_articulo.md) |
+| 298 | LEY Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera | Sin reforma | [`LRFXAC_ley_reglamentaria_de_la_fraccion_xviii_del_articulo_73_constitucional.md`](markdown/LRFXAC_ley_reglamentaria_de_la_fraccion_xviii_del_articulo_73_constitucional.md) |
+| 299 | LEY Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | [`LRFIyII_Art105_ley_reglamentaria_de_las_fracciones_i_y_ii_del_articulo_105_de_la_cons.md`](markdown/LRFIyII_Art105_ley_reglamentaria_de_las_fracciones_i_y_ii_del_articulo_105_de_la_cons.md) |
+| 300 | LEY Reglamentaria del Artículo 27 Constitucional en Materia Nuclear | DOF 09/04/2012 | [`LRACMN_ley_reglamentaria_del_articulo_27_constitucional_en_materia_nuclear.md`](markdown/LRACMN_ley_reglamentaria_del_articulo_27_constitucional_en_materia_nuclear.md) |
+| 301 | LEY Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación | Sin reforma | [`LRArt3_MMCE_ley_reglamentaria_del_articulo_3o_de_la_constitucion_politica_de_los_e.md`](markdown/LRArt3_MMCE_ley_reglamentaria_del_articulo_3o_de_la_constitucion_politica_de_los_e.md) |
+| 302 | LEY Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México (Antes "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en el Distrito Federal") | DOF 19/01/2018 | [`LRAC_ley_reglamentaria_del_articulo_5o_constitucional_relativo_al_ejercicio.md`](markdown/LRAC_ley_reglamentaria_del_articulo_5o_constitucional_relativo_al_ejercicio.md) |
+| 303 | LEY Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica | DOF 14/11/2025 | [`LRArt6_MDR_ley_reglamentaria_del_articulo_6o_parrafo_primero_de_la_constitucion_p.md`](markdown/LRArt6_MDR_ley_reglamentaria_del_articulo_6o_parrafo_primero_de_la_constitucion_p.md) |
+| 304 | LEY Reglamentaria del Servicio Ferroviario | DOF 14/11/2025 | [`LRSF_ley_reglamentaria_del_servicio_ferroviario.md`](markdown/LRSF_ley_reglamentaria_del_servicio_ferroviario.md) |
+| 305 | LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas | DOF 09/04/2012 | [`LCA_ley_sobre_camaras_agricolas_que_en_lo_sucesivo_se_denominaran_asociaci.md`](markdown/LCA_ley_sobre_camaras_agricolas_que_en_lo_sucesivo_se_denominaran_asociaci.md) |
+| 306 | LEY Sobre el Contrato de Seguro | DOF 04/04/2013 | [`LCS_ley_sobre_el_contrato_de_seguro.md`](markdown/LCS_ley_sobre_el_contrato_de_seguro.md) |
+| 307 | LEY sobre el Escudo, la Bandera y el Himno Nacionales | DOF 21/07/2025 | [`LEBHN_ley_sobre_el_escudo_la_bandera_y_el_himno_nacionales.md`](markdown/LEBHN_ley_sobre_el_escudo_la_bandera_y_el_himno_nacionales.md) |
+| 308 | LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica | Sin reforma | [`LATIME_ley_sobre_la_aprobacion_de_tratados_internacionales_en_materia_economi.md`](markdown/LATIME_ley_sobre_la_aprobacion_de_tratados_internacionales_en_materia_economi.md) |
+| 309 | LEY sobre la Celebración de Tratados | DOF 14/11/2025 | [`LSCT_ley_sobre_la_celebracion_de_tratados.md`](markdown/LSCT_ley_sobre_la_celebracion_de_tratados.md) |
+| 310 | LEY sobre Refugiados, Protección Complementaria y Asilo Político (Antes "Ley sobre Refugiados y Protección Complementaria") | DOF 18/02/2022 | [`LRPCAP_ley_sobre_refugiados_proteccion_complementaria_y_asilo_politico_antes.md`](markdown/LRPCAP_ley_sobre_refugiados_proteccion_complementaria_y_asilo_politico_antes.md) |
+| 311 | ORDENANZA General de la Armada | DOF 19/10/2000 | [`OGA_ordenanza_general_de_la_armada.md`](markdown/OGA_ordenanza_general_de_la_armada.md) |
+| 312 | PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026 | Sin reforma | [`PEF_presupuesto_de_egresos_de_la_federacion_para_el_ejercicio_fiscal_2026.md`](markdown/PEF_presupuesto_de_egresos_de_la_federacion_para_el_ejercicio_fiscal_2026.md) |
+| 313 | REGLAMENTO de la Cámara de Diputados | DOF 07/05/2025 | [`Reg_Diputados_reglamento_de_la_camara_de_diputados.md`](markdown/Reg_Diputados_reglamento_de_la_camara_de_diputados.md) |
+| 314 | REGLAMENTO del Senado de la República | DOF 06/12/2024 | [`Reg_Senado_reglamento_del_senado_de_la_republica.md`](markdown/Reg_Senado_reglamento_del_senado_de_la_republica.md) |
+| 315 | REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | DOF 24/12/2010 | [`RGICGEUM_reglamento_para_el_gobierno_interior_del_congreso_general_de_los_estad.md`](markdown/RGICGEUM_reglamento_para_el_gobierno_interior_del_congreso_general_de_los_estad.md) |
 
 ---
 
