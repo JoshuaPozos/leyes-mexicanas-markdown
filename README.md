@@ -33,7 +33,9 @@ Este repo los convierte a Markdown con jerarquía clara (`##` por Título/Capít
 | Lote 7 | 064-073 | ✅ Publicado |
 | Lote 8 | 074-083 | ✅ Publicado |
 | Lote 9 | 084-113 | ✅ Publicado |
-| Lotes 10-16 | 114-315 | ⏳ Pendiente |
+| Lotes 10-12 | 115-249 | ✅ Publicado |
+| Lote 13 | 250-294 | ✅ Publicado |
+| Lote 14 | 295-315 | ✅ Publicado |
 
 Consulta el [CHANGELOG](CHANGELOG.md) y el [INDICE](INDICE.md) para el estado actualizado ley por ley.
 
@@ -53,7 +55,7 @@ mx-md/
 │   ├── batch_convert.py    # Convierte todos los PDFs a Markdown
 │   ├── pdf_to_md.py        # Conversión individual (CLI)
 │   └── gen_indice.py       # Genera INDICE.md
-├── origen-docs/            # PDFs descargados (no versionados)
+├── origen-docs/            # PDFs descargados (no versionados, mismo slug que los .md)
 ├── catalogo.json           # Catálogo de leyes (generado automáticamente)
 ├── INDICE.md               # Índice navegable de todas las leyes
 ├── CHANGELOG.md            # Historial de lotes publicados
@@ -106,7 +108,7 @@ python scripts/batch_convert.py
 python scripts/batch_convert.py --skip-existing
 
 # Convertir un PDF específico
-python scripts/pdf_to_md.py origen-docs/LISR.pdf --verbose
+python scripts/pdf_to_md.py origen-docs/LISR_ley_del_impuesto_sobre_la_renta.pdf --verbose
 ```
 
 ### 4. Regenerar el índice

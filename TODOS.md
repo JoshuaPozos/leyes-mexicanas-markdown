@@ -4,13 +4,10 @@
 
 ---
 
-## 1. Renombrar PDFs descargados con el patrón slug de los MD
+## 1. ~~Renombrar PDFs descargados con el patrón slug de los MD~~ ✅
 
-- **Prioridad:** Media
-- **Archivos afectados:** `scripts/download_leyes.py`, `origen-docs/*.pdf`
-- **Causa raíz:** Los PDFs se guardan con el nombre original del servidor (ej. `202.pdf`, `208_190118.pdf`, `23.pdf`), lo que dificulta identificarlos y puede generar falsos positivos al verificar si ya existen.
-- **Ejemplo:** El PDF de la Ley del Impuesto sobre la Renta se guarda como `LISR.pdf` (nombre del servidor), pero su MD se llama `LISR_ley_del_impuesto_sobre_la_renta.md`. Con nombres genéricos como `23.pdf` o `202.pdf` es imposible saber a qué ley corresponden.
-- **Fix propuesto:** Al descargar, renombrar el archivo PDF usando el mismo patrón slug que genera el MD: `{siglas}_{nombre_slugificado}.pdf`. Esto mantiene consistencia entre `origen-docs/` y `markdown/`.
+- **Estado:** Resuelto — `download_leyes.py` ahora guarda como `{md_slug}.pdf`
+- **Archivos afectados:** `scripts/download_leyes.py`
 
 ---
 

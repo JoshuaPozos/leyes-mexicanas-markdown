@@ -2,6 +2,61 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Lote 14 — Leyes 295-315] — 2026-03-21
+
+### Leyes publicadas (21) — Catálogo completo 315/315 🎉
+| No. | Clave | Ley |
+|-----|-------|-----|
+| 295 | LRFVACGR | Ley Reglamentaria de la Fracción V del Artículo 76 de la Constitución |
+| 296 | LRArt76 | Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución |
+| 297 | LRFXIIIB | Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 |
+| 298 | LRFXAC | Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional |
+| 299 | LRFIyII | Ley Reglamentaria de las Fracciones I y II del Artículo 105 |
+| 300 | LRACMN | Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear |
+| 301 | LRArt3 | Ley Reglamentaria del Artículo 3o. de la Constitución |
+| 302 | LRAC | Ley Reglamentaria del Artículo 5o. Constitucional |
+| 303 | LRArt6 | Ley Reglamentaria del artículo 6o. de la Constitución |
+| 304 | LRSF | Ley Reglamentaria del Servicio Ferroviario |
+| 305 | LCA | Ley sobre Cámaras Agrícolas |
+| 306 | LCS | Ley Sobre el Contrato de Seguro |
+| 307 | LEBHN | Ley sobre el Escudo, la Bandera y el Himno Nacionales |
+| 308 | LATIME | Ley Sobre la Aprobación de Tratados Internacionales en Materia Económica |
+| 309 | LSCT | Ley sobre la Celebración de Tratados |
+| 310 | LRPCAP | Ley sobre Refugiados, Protección Complementaria y Asilo Político |
+| 311 | OGA | Ordenanza General de la Armada |
+| 312 | PEF | Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026 |
+| 313 | Reg_Diputados | Reglamento de la Cámara de Diputados |
+| 314 | Reg_Senado | Reglamento del Senado de la República |
+| 315 | RGICGEUM | Reglamento para el Gobierno Interior del Congreso General |
+
+---
+
+## [Lote 13 — Leyes 250-294] — 2026-03-21
+
+### Leyes publicadas (45)
+Leyes orgánicas (LOAM, LOPDC, LOPGJDF, LOUAAAN, LOUAM, LOUNAM, LOTA, LONF, LOSHF, LOBB, LOBNCE, LOBNOSP, LOBNE, LOCFCRL, LOCGEUM, LOEFAM, LOINAH, LOIPN, LOPJF, LOSCM, LOTFJA), leyes para conservar/determinar/impulsar (LCNP, LDVUMA, LDCMPME, LD, LUPDECR, LIISPCEN, LC, LCACSEFAM, LPPDDHP, LTPCPIMCP, LTOSF), leyes para regular (LRASCAP, LRAF, LRITF, LRSIC), leyes que aprueban/crean/declaran/establecen (LAAMCCBD, LCFGFA, LCINBAL, LAEM, LCUAC, LCUEFA, LDRMNYU, LCCAIF, LEBEM).
+
+---
+
+## [Lotes 10-12 — Leyes 115-249] — 2026-03-21
+
+### Leyes publicadas (135)
+Incluye: leyes del instituto (LISSFAM, LISSSTE, LIFNVT, LIFNCT, LIMJ, LINPI), leyes del mercado/sector (LMV, LSE, LSH, LSS, LSM, LSPM), leyes del servicio (LSAT, LSEM, LSPCAPF), leyes del sistema (LSNIEG, LSNIIMSP, LSPREM), ley en materia de telecomunicaciones (LMTR), leyes federales contra/de/del/para (LFCDO…LFMZAAH — 48 leyes), leyes generales (LGAMVLV…LGPSDMS — 58 leyes), leyes nacionales (LMEUM…LNUF — 8 leyes), ley orgánica APF (LOAPF).
+
+---
+
+## [Fix Issues 6-9 — OCR y mejoras] — 2026-03-19
+
+### Correcciones aplicadas
+| # | Issue | Resultado |
+|---|-------|-----------|
+| 6 | Nombres descriptivos de sección sin formato | Ahora se añaden como `— NOMBRE` al heading |
+| 7 | Fracciones romanas (I., II., XVI.) pegadas sin separar | Ahora en párrafos separados |
+| 8 | Sub-incisos a), b), c) pegados inline | Ahora en párrafos separados |
+| 9 | Tablas-imagen sin contenido (placeholder) | OCR con Tesseract: extracción real de tablas |
+
+---
+
 ## [Lote 9 — Leyes 084-113] — 2026-03-19
 
 ### Leyes publicadas (30)

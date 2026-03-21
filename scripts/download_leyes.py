@@ -189,10 +189,11 @@ def fetch_index() -> list[dict]:
         if not pdf_href:
             continue
 
-        pdf_filename = pdf_href.split("/")[-1]
-        pdf_stem = Path(pdf_filename).stem
+        pdf_filename_origen = pdf_href.split("/")[-1]
+        pdf_stem = Path(pdf_filename_origen).stem
         pdf_url = BASE_URL + pdf_href
         md_slug = compute_md_slug(pdf_stem, nombre, numero)
+        pdf_filename = f"{md_slug}.pdf"
 
         laws.append({
             "numero": numero,
@@ -201,6 +202,7 @@ def fetch_index() -> list[dict]:
             "ultima_reforma": ultima_reforma,
             "pdf_url": pdf_url,
             "pdf_filename": pdf_filename,
+            "pdf_filename_origen": pdf_filename_origen,
             "md_slug": md_slug,
         })
 
