@@ -89,7 +89,7 @@ def main() -> None:
     failed = 0
 
     for i, pdf_path in enumerate(subset, 1):
-        # Get metadata from catalog
+        # Obtener metadatos del catálogo
         info = catalog.get(pdf_path.name, {})
         md_slug = info.get("md_slug", pdf_path.stem)
         md_path = MARKDOWN_DIR / f"{md_slug}.md"
@@ -113,7 +113,7 @@ def main() -> None:
     print(f"\n📊 Resultado: {converted} convertidos, {skipped} omitidos, {failed} errores")
     print(f"📁 Markdowns en: {MARKDOWN_DIR}")
 
-    # Generate index after conversion
+    # Generar índice tras la conversión
     print("\n📇 Generando índice...")
     gen_index = SCRIPTS_DIR / "gen_indice.py"
     if gen_index.exists():

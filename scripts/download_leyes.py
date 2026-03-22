@@ -31,11 +31,11 @@ CATALOG_PATH = ROOT / "catalogo.json"
 
 
 # ---------------------------------------------------------------------------
-# HTML parsing
+# Análisis HTML
 # ---------------------------------------------------------------------------
 
 class LeyesTableParser(HTMLParser):
-    """Parses the leyes table from diputados.gob.mx/LeyesBiblio/index.htm"""
+    """Analiza la tabla de leyes de diputados.gob.mx/LeyesBiblio/index.htm"""
 
     def __init__(self):
         super().__init__()
@@ -91,13 +91,13 @@ class LeyesTableParser(HTMLParser):
 def parse_law_name(raw: str) -> tuple[str, str]:
     """
     Extrae nombre limpio y fecha DOF del texto raw de la celda.
-    Returns (nombre, dof_date).
+    Devuelve (nombre, dof_date).
     """
-    # Remove "(Abrogado...)" and "(Antes ...)" notes for the name
-    # but keep them for reference
+    # Eliminar notas "(Abrogado...)" y "(Antes ...)" del nombre,
+    # pero conservarlas como referencia
     lines = raw.split("DOF")
     nombre = lines[0].strip().rstrip()
-    # Clean trailing whitespace, 'Nueva reforma', etc.
+    # Limpiar espacios sobrantes, 'Nueva reforma', etc.
     nombre = re.sub(r'\s*(Nueva reforma|Ley en vigor.*|Ley Abrogada.*)$', '', nombre, flags=re.IGNORECASE).strip()
 
     dof_date = ""
@@ -109,7 +109,7 @@ def parse_law_name(raw: str) -> tuple[str, str]:
 
 
 def slugify(text: str, max_len: int = 70) -> str:
-    """Convert text to snake_case ASCII slug."""
+    """Convierte texto a slug snake_case ASCII."""
     text = unicodedata.normalize('NFD', text)
     text = ''.join(c for c in text if unicodedata.category(c) != 'Mn')
     text = text.lower()
@@ -128,13 +128,13 @@ _STOP_WORDS = {
 
 def derive_acronym(nombre: str, max_len: int = 8) -> str:
     """
-    Derives an acronym from the law's name by taking the first letter of each
-    significant word in the main clause (before the first comma or parenthesis),
-    ignoring stop words. Max max_len characters.
-    E.g. 'ESTATUTO de Gobierno del Distrito Federal' -> 'EGDF'
-         'IMPUESTO sobre Servicios Expresamente Declarados...' -> 'ISEDIP'
+    Deriva un acrónimo del nombre de la ley tomando la primera letra de cada
+    palabra significativa en la cláusula principal (antes de la primera coma
+    o paréntesis), ignorando las palabras vacías. Máximo max_len caracteres.
+    Ej. 'ESTATUTO de Gobierno del Distrito Federal' -> 'EGDF'
+        'IMPUESTO sobre Servicios Expresamente Declarados...' -> 'ISEDIP'
     """
-    # Take only the main clause (before first comma or parenthesis)
+    # Tomar solo la cláusula principal (antes de la primera coma o paréntesis)
     main = re.split(r'[,(]', nombre)[0].strip()
     words = re.split(r'[\s\-/]+', main)
     letters = [
@@ -147,14 +147,14 @@ def derive_acronym(nombre: str, max_len: int = 8) -> str:
 
 def compute_md_slug(pdf_stem: str, nombre: str, numero: str) -> str:
     """
-    Computes a clean filename slug: {ABBREV}_{nombre_snake}.
-    Uses the PDF stem as abbreviation if it looks like an acronym (starts with a letter),
-    stripping any trailing date/version suffix (e.g. LCEC_120419 → LCEC).
-    Otherwise derives an acronym from the law name.
+    Construye el slug de nombre de archivo: {ABREV}_{nombre_snake}.
+    Usa el stem del PDF como abreviatura si parece un acrónimo (empieza con letra),
+    eliminando cualquier sufijo numérico al final (ej. LCEC_120419 → LCEC).
+    Si no, deriva un acrónimo del nombre de la ley.
     """
     name_slug = slugify(nombre, max_len=70)
     if len(pdf_stem) > 0 and not pdf_stem[0].isdigit():
-        # Strip trailing numeric suffix (e.g. _120419, _270614)
+        # Eliminar sufijo numérico al final (ej. _120419, _270614)
         abbrev = re.sub(r'_\d+$', '', pdf_stem)
     else:
         abbrev = derive_acronym(nombre)
@@ -162,7 +162,7 @@ def compute_md_slug(pdf_stem: str, nombre: str, numero: str) -> str:
 
 
 def fetch_index() -> list[dict]:
-    """Fetches and parses the leyes index page. Returns list of law dicts."""
+    """Obtiene y analiza la página del índice de leyes. Devuelve lista de dicts."""
     req = urllib.request.Request(INDEX_URL, headers={"User-Agent": USER_AGENT})
     html = urllib.request.urlopen(req, timeout=30).read().decode("latin-1")
 
@@ -172,14 +172,14 @@ def fetch_index() -> list[dict]:
     laws = []
     for row in parser.rows:
         numero = row.get("numero", "").strip()
-        # Skip the header row
+        # Saltar la fila de encabezado
         if not numero or numero.lower() == "no.":
             continue
 
         nombre, dof = parse_law_name(row.get("nombre_raw", ""))
         ultima_reforma = row.get("ultima_reforma", "").strip()
 
-        # Find the PDF link (not pdf_mov)
+        # Buscar el enlace al PDF (no pdf_mov)
         pdf_href = ""
         for link in row.get("links", []):
             if link.startswith("pdf/") and link.endswith(".pdf"):
@@ -214,7 +214,7 @@ def fetch_index() -> list[dict]:
 # ---------------------------------------------------------------------------
 
 def download_pdf(url: str, dest: Path, verbose: bool = False) -> bool:
-    """Downloads a single PDF. Returns True on success."""
+    """Descarga un PDF. Devuelve True si tuvo éxito."""
     try:
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
         resp = urllib.request.urlopen(req, timeout=60)
@@ -273,7 +273,7 @@ def main() -> None:
     laws = fetch_index()
     print(f"📋 {len(laws)} leyes encontradas.\n", flush=True)
 
-    # Save catalog
+    # Guardar catálogo
     with open(CATALOG_PATH, "w", encoding="utf-8") as f:
         json.dump(laws, f, ensure_ascii=False, indent=2)
     print(f"💾 Catálogo guardado en {CATALOG_PATH}\n")
@@ -284,7 +284,7 @@ def main() -> None:
             print(f"       PDF: {law['pdf_filename']}  |  Reforma: {law['ultima_reforma']}")
         return
 
-    # Download
+    # Descargar
     subset = laws[:args.limit] if args.limit > 0 else laws
     output_dir = args.output_dir.resolve()
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -311,7 +311,7 @@ def main() -> None:
         else:
             failed += 1
 
-        # Be polite to the server
+        # Ser amable con el servidor
         time.sleep(0.3)
 
     print(f"\n📊 Resultado: {downloaded} descargados, {skipped} omitidos, {failed} errores")

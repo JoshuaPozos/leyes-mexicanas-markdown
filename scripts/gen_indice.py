@@ -27,7 +27,7 @@ def main() -> None:
     with open(CATALOG_PATH, encoding="utf-8") as f:
         laws = json.load(f)
 
-    # Check which markdowns exist (keyed by md_slug)
+    # Verificar qué markdowns existen (indexados por md_slug)
     existing_mds = {p.stem for p in MARKDOWN_DIR.glob("*.md")}
     total = len(laws)
     done = len(existing_mds)

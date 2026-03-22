@@ -202,7 +202,7 @@ def _is_descriptive_name(line: str) -> bool:
     rm = FRACCION_ROMAN_RE.match(s)
     if rm and _is_roman_numeral(rm.group(1)):
         return False
-    # ALL CAPS con al menos una palabra de 3+ letras
+    # ALL CAPS con al menos una palabra de ≥3 letras
     if s == s.upper() and re.search(r'[A-ZÁÉÍÓÚÑ]{3,}', s):
         return True
     # Title Case con prefijo descriptivo
@@ -272,7 +272,7 @@ def extract_lines(pdf_path: Path, verbose: bool = False) -> tuple[list[str], int
                     img_top = min(img.get('top', img.get('y0', 0)), img.get('y0', 0))
                     img_bottom = max(img.get('bottom', img.get('y1', 0)), img.get('y1', 0))
 
-                    # Texto ANTES de la imagen
+                    # Texto ANTES de la imagen (región superior de la página)
                     if img_top > cursor_y + 1:
                         try:
                             region_above = page.crop((0, cursor_y, page_width, img_top))
@@ -330,7 +330,7 @@ def _ocr_page_table(page, large_imgs: list, page_num: int, verbose: bool) -> lis
         try:
             cropped = page.crop((x0, y0, x1, y1))
             pil_img = cropped.to_image(resolution=300).original
-            # Obtener datos espaciales con --psm 6 (bloque uniforme)
+            # Obtener datos espaciales con --psm 6 (bloque de texto uniforme)
             data = pytesseract.image_to_data(
                 pil_img, lang='spa+eng', config='--psm 6',
                 output_type=pytesseract.Output.DICT,
@@ -417,8 +417,7 @@ def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
     col_counts = Counter(len(r) for r in numeric_rows)
     target_cols = col_counts.most_common(1)[0][0]
 
-    # Calcular posiciones x centrales para cada columna usando las filas
-    # numéricas con el target_cols correcto
+    # Calcular posiciones x centrales de cada columna usando las filas numéricas
     col_positions: list[float] = []
     matching_rows = [r for r in numeric_rows if len(r) == target_cols]
     if matching_rows:
@@ -441,7 +440,7 @@ def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
         cols: dict[int, list[str]] = defaultdict(list)
         for w in row_words:
             w_center = w['left'] + w['width'] / 2
-            # Usar boundaries: avanzar hasta pasar el boundary correcto
+            # Avanzar con boundaries: si el centro de la palabra supera el boundary, siguiente columna
             col = 0
             for b in col_boundaries:
                 if w_center > b:
@@ -475,22 +474,22 @@ def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
     header_rows: list[list[dict]] = []
 
     if len(pre_rows) <= 1:
-        # 0-1 filas pre-tabla: no hay encabezados que reconstruir
+        # 0-1 filas pre-tabla: no hay separación título/encabezado posible
         title_rows = pre_rows
     elif col_positions:
         # Calcular y-center de cada fila pre-tabla
         def _row_y(row: list[dict]) -> float:
             return sum(w['top'] + w['height'] / 2 for w in row) / len(row)
         pre_ys = [_row_y(r) for r in pre_rows]
-        # Encontrar el mayor gap vertical
+        # Encontrar el mayor salto vertical (gap) entre filas pre-tabla
         max_gap = 0.0
-        split_idx = 0  # split: [0..split_idx) = title, [split_idx..] = header
+        split_idx = 0  # índice de corte: [0..split_idx) = título, [split_idx..] = encabezado
         for i in range(1, len(pre_ys)):
             gap = pre_ys[i] - pre_ys[i - 1]
             if gap > max_gap:
                 max_gap = gap
                 split_idx = i
-        # Solo separar si el gap es significativo (> 50% del gap promedio)
+        # Solo separar si el gap es significativo (>150% del gap promedio)
         avg_gap = (pre_ys[-1] - pre_ys[0]) / max(len(pre_ys) - 1, 1)
         if max_gap > avg_gap * 1.5 and split_idx > 0:
             title_rows = pre_rows[:split_idx]
@@ -501,8 +500,8 @@ def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
     else:
         title_rows = pre_rows
 
-    # Reconstruir encabezados de columna: asignar cada fila de header a columnas
-    # y unir verticalmente (multi-line headers)
+    # Reconstruir encabezados de columna: asignar cada fila de encabezado a columnas
+    # y fusionar verticalmente (encabezados multi-línea)
     col_headers: list[list[str]] = [[] for _ in range(target_cols)]
 
     def _assign_header_row(row: list[dict]) -> list[str]:
@@ -528,7 +527,7 @@ def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
                 min_col = min(occupied)
                 max_col = max(occupied)
                 if max_col - min_col <= 1 and min_col > 0:
-                    # Ninguna palabra en las columnas anteriores a min_col
+                    # Ninguna palabra en columnas anteriores a min_col: texto del encabezado derecho
                     min_x = min(w['left'] for w in row)
                     left_boundary = col_boundaries[min_col - 1]
                     if min_x > left_boundary:
@@ -538,7 +537,7 @@ def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
         return base
 
     for row in header_rows:
-        # Filtrar filas de ruido OCR: requiere al menos una palabra de >= 4 letras
+        # Filtrar filas de ruido OCR: requiere al menos una palabra de ≥4 letras
         has_real_word = any(
             sum(c.isalpha() for c in w['text']) >= 4 for w in row
         )
@@ -550,7 +549,7 @@ def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
             if val and val not in (',', '.', '-'):
                 col_headers[c].append(val)
 
-    # Construir nombres de columna finales
+    # Construir nombres de columna finales a partir de los fragmentos recopilados
     header_names = [' '.join(parts) if parts else f'Col {c+1}'
                     for c, parts in enumerate(col_headers)]
 
@@ -561,14 +560,14 @@ def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
     UNIT_RE = re.compile(r'^[\$%#€£¥]+$')
     first_row_vals = assign_to_columns(first_data_row)
     if all(UNIT_RE.match(v.strip()) for v in first_row_vals if v.strip()):
-        # Es fila de unidades → agregar al header
+        # Fila de unidades detectada → incorporar al nombre de columna
         for c, val in enumerate(first_row_vals):
             unit = val.strip()
             if unit and c < len(header_names):
                 header_names[c] = f'{header_names[c]} ({unit})' if header_names[c] != f'Col {c+1}' else unit
         data_start_idx = first_num_idx + 1
 
-    # Emitir markdown
+    # Emitir Markdown
     md: list[str] = ['']
 
     # Título (texto previo que no alinea con columnas)
@@ -576,11 +575,11 @@ def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
         text = ' '.join(w['text'] for w in row)
         md.append(f'**{text}**' if text == text.upper() and len(text) > 3 else text)
 
-    # Tabla: header
+    # Tabla: fila de encabezado
     md.append('| ' + ' | '.join(header_names) + ' |')
     md.append('| ' + ' | '.join(['---'] * target_cols) + ' |')
 
-    # Tabla: filas de datos
+    # Tabla: filas de datos y texto posterior
     post_text: list[str] = []
     for row in sorted_rows[data_start_idx:]:
         num_count = sum(1 for w in row if NUM_RE.match(w['text']))
@@ -610,7 +609,7 @@ def _detect_running_header(lines: list[str]) -> str:
         stripped = line.strip()
         # Los running headers son ALL CAPS, largos, y contienen el nombre de la ley
         if len(stripped) > 15 and stripped == stripped.upper() and re.search(r'[A-ZÁÉÍÓÚÑ]{4,}', stripped):
-            # Normalizar espacios
+            # Normalizar espacios múltiples
             norm = ' '.join(stripped.split())
             candidates[norm] += 1
     if not candidates:
@@ -728,9 +727,9 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
             joined.append("")
             in_transitorios = True
             if rest:
-                # El resto puede empezar con un ordinal
+                # El resto puede empezar con un ordinal transitorio
                 stripped = rest
-                # fall through to ordinal check below
+                # continuar evaluando ordinales abajo
             else:
                 continue
 
@@ -794,7 +793,7 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
                     buffer = ""
                 ordinal = om.group(1).strip().rstrip('.')
                 rest = om.group(2).strip().lstrip('.-').strip()
-                # Separador original (.- o .)
+                # Separador original (.- o .) para el ordinal transitorio
                 sep = '.-' if '.-' in stripped[:len(om.group(1))+3] else '.'
                 formatted = f"**{ordinal}{sep}** {rest}" if rest else f"**{ordinal}{sep}**"
                 buffer = formatted
@@ -832,7 +831,7 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
     if buffer:
         joined.append(buffer.strip())
 
-    # Post-proceso: separar incisos que quedaron inline
+    # Post-proceso: separar incisos que quedaron en línea tras la unión de párrafos
     processed = _post_split_incisos(joined)
     return meta_header + processed
 
@@ -876,7 +875,7 @@ def main() -> None:
         print(f"Error: no se encontró el archivo '{pdf_path}'", file=sys.stderr)
         sys.exit(1)
 
-    # Output por defecto: markdown/<nombre>.md
+    # Ruta de salida por defecto: markdown/<nombre>.md
     if args.output is None:
         output_path = Path(__file__).parent.parent / "markdown" / (pdf_path.stem + ".md")
     else:
