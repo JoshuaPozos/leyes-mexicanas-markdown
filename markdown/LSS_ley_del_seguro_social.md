@@ -1364,17 +1364,6 @@ III. Se deroga.
 Fracción derogada DOF 16-12-2020
 
 IV. El Gobierno Federal, por cada día de salario cotizado, aportará mensualmente una cantidad por concepto de la cuota social, para los trabajadores que ganen hasta cuatro veces la unidad de medida y actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
-Párrafo con tabla reformado DOF 16-12-2020 Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de cada año.
-Fracción reformada DOF 26-05-2009 Estas cuotas y aportaciones al destinarse al otorgamiento de pensiones y demás beneficios establecidos en esta Ley, se entenderán destinadas al gasto público en materia de seguridad social.
-Párrafo reformado DOF 26-05-2009
-
-### Artículo 169
-. Los recursos depositados en la cuenta individual de cada trabajador son propiedad de éste con las modalidades que se establecen en esta Ley y demás disposiciones aplicables.
-Estos recursos son inembargables y no podrán otorgarse como garantía. Lo anterior no será aplicable para los recursos depositados en la subcuenta de aportaciones voluntarias.
-SECCION SEXTA DE LA PENSION GARANTIZADA
-
-### Artículo 170
-. Pensión garantizada es aquélla que el Estado asegura a quienes tengan sesenta años o más de edad, hayan cotizado mil o más semanas y que se calculará conforme a la tabla prevista en este artículo, considerando el promedio de su salario base de cotización durante su afiliación al Instituto. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
 
 Salario base de cotización del trabajador Cuota Social
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
@@ -1399,12 +1388,6 @@ SECCION SEXTA DE LA PENSION GARANTIZADA
 ### Artículo 170
 . Pensión garantizada es aquélla que el Estado asegura a quienes tengan sesenta año s de edad, hayan cotizado mil o más semanas y que se calculará conforme a la tabla prevista en e culo, considerando el promedio de su salario base de cotización durante su afiliación al Instituto. P os efectos, el salario señalado se actualizará conforme al Indice Nacional de Precios al Consumidc echa en que se pensione el trabajador.
 
-El monto de la pensión se actualizará anualmente en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor, para garantizar su poder adquisitivo.
-En el cómputo de las semanas de cotización y el promedio del salario base de cotización se considerarán los que los trabajadores tengan registrados en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos del convenio de portabilidad que éste tenga suscrito con el Instituto.
-Artículo reformado DOF 16-12-2020
-
-### Artículo 171
-. El asegurado, cuyos recursos acumulados en su cuenta individual resulten insuficientes para contratar una renta vitalicia o un retiro programado que le asegure el disfrute de una pensión garantizada y la adquisición de un seguro de sobrevivencia para sus beneficiarios, en los porcentajes del capítulo V de este Título, recibirá del Gobierno Federal una aportación complementaria suficiente para el pago de las pensiones correspondientes, mismas que se otorgarán en los siguientes términos:
 
 Semanas de Cotización
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
@@ -1417,6 +1400,8 @@ Salario Base de Pensión garantizada mensual en pesos Cotización 15Madog | 60 2
 
 el cómputo de las semanas de cotización y el promedio del salario base de cotizaci Jeraran los que los trabajadores tengan registrados en el Instituto de Seguridad y Servicios So Trabajadores del Estado, en los términos del convenio de portabilidad que éste tenga suscrit ituto.
 Artículo reformado DOF 16tículo 171. El asegurado, cuyos recursos acumulados en su cuenta individual resulten insufic contratar una renta vitalicia o un retiro programado que le asegure el disfrute de una pe tizada y la adquisición de un seguro de sobrevivencia para sus beneficiarios, en los porcentaj
+
+capítulo V de este Título, recibirá del Gobierno Federal una aportación complementaria suficiente para el pago de las pensiones correspondientes, mismas que se otorgarán en los siguientes términos:
 
 I. La pensión de viudez será igual al noventa por ciento de la que estuviese gozando el pensionado al fallecer;
 
@@ -3464,26 +3449,7 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
 Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2020
 
 ### Artículo Primero
-Se reforman los artículos 139, párrafo segundo; 141, párrafos segundo y tercero; 154, párrafo segundo; 157, párrafos primero, segundo y tercero; 158; 159, fracciones I, párrafo primero, IV y V; 162, párrafo primero; 164, párrafos primero, segundo y tercero; 165, párrafo primero; 168, fracciones II y IV, párrafo primero; 170; 172, párrafos tercero y cuarto; 172 A, fracción II; 190; 192, párrafo
-**tercero.** ; 193; 194, párrafo primero; 218, inciso a); 302, y el párrafo segundo del artículo Vigésimo Noveno
-
-## Transitorio
-
-; se adiciona un párrafo tercero al artículo 159, y un párrafo quinto al artículo 172, y se deroga la fracción III del artículo 168, de la Ley del Seguro Social, para quedar como sigue: ………
-
-## Transitorios
-
-**Primero.** El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto en los
-
-## transitorios
-
-siguientes.
-**Segundo.** La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del Seguro Social será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la siguiente tabla:
-Del 1 de enero de 2021 al 31 de diciembre de 2022:
-
-I. Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzada y vejez, una cuota del tres punto ciento cincuenta por ciento sobre el salario base de cotización del trabajador.
-
-II. El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad avanzada y vejez, la cuota social de conformidad con el artículo 168, fracción IV, de la Ley del Seguro Social vigente antes de la entrada en vigor del presente Decreto.
+Se reforman los artículos 139, párrafo segundo; 141, párrafos segundo y tercero; 154, párrafo segundo; 157, párrafos primero, segundo y tercero; 158; 159, fracciones I, párrafo primero,
 
 Ia SEYJUIUO, 1J/, PalidiVs PIHINICIV, STCYUINIYO y SICCIV, 1J0, 193, HACUIVIICS |, ValldalU Y ; 162, párrafo primero; 164, párrafos primero, segundo y tercero; 165, párrafo primer ies Il y IV, párrafo primero; 170; 172, párrafos tercero y cuarto; 172 A, fracción II; 190; 192, 193; 194, párrafo primero; 218, inciso a); 302, y el párrafo segundo del artículo Vigésimo | rio; se adiciona un párrafo tercero al artículo 159, y un párrafo quinto al artículo 172, y se ión III del artículo 168, de la Ley del Seguro Social, para quedar como sigue:
 
@@ -3498,12 +3464,15 @@ cotización 1.0 SM* 3.150% 3.150% 3.150% 13.150% 3.150% 3.150% 13.150% 3.150%
 |
 1.01SMa 1.50 UMA** 3.281% 3.413% 3.544% 3.676% 3.807% 3.939% 4.070% 4.202% _ 1.51.4 2.00 UMA 3.575% 4.000% 4.426% 4.851% 5.276% 5.701% 6.126% 6.552% 2.01 a 2.50 UMA 3.751% 4.353% 4.954% _5.556% 6.157% 6.759% 7.360% L7962% _ 2.51 a 3.00 UMA 3.869% 4.588% 5.307% _ 6.026% 6.745% 7.464% 18183% 1 5lg9072% 3.01 a 3.50 UMA 3.953% 4.756% 5.559% 6.361% 7.164% 7.967% 8.770% 9.573% 3.51 a 4.00 UMA _____ 4.016% 4.882% 5.747% _ 6.613% 7.479%% 86.3455% _19211% 10.077% 4.01 UMA en adelante 4.241% 5.331% 6.422% 7.513% 8.603% 9.694% 10.784% 11.875% * Salario Minimo ** Unidad de Medida Actualización y
 
+Del 1 de enero de 2021 al 31 de diciembre de 2022:
+
+I. Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzada y vejez, una cuota del tres punto ciento cincuenta por ciento sobre el salario base de cotización del trabajador.
+
+II. El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad avanzada y vejez, la cuota social de conformidad con el artículo 168, fracción IV, de la Ley del Seguro Social vigente antes de la entrada en vigor del presente Decreto.
+
 III. En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá realizando una contribución igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales.
 **Tercero.** La cuota a cargo del Gobierno Federal prevista en el artículo 168, fracción IV, de la Ley del Seguro Social será aplicable a partir del 1 de enero de 2023.
 Del 1 de enero al 31 de diciembre de 2023, el Gobierno Federal cubrirá mensualmente en los ramos de cesantía en edad avanzada y vejez, una cantidad por cada día de salario cotizado, por concepto de cuota social para los trabajadores que ganen de cuatro punto cero uno hasta siete punto cero nueve veces la Unidad de Medida y Actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
-Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de 2023.
-**Cuarto.** En la fecha en que entre en vigor el presente Decreto las semanas de cotización que se requieren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como para el cálculo de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, y se incrementarán anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecidas en dichos preceptos.
-La pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la edad, semanas de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
 
 | Salario base | de Trabajador | cotización del | Cuota social |
 | --- | --- | --- | --- |
@@ -3517,6 +3486,7 @@ La pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará 
 
 midad con el Indice Nacional de Precios al Consumidor, en los meses de marzo, junio, septi mbre de 2023. arto. En la fecha en que entre en vigor el presente Decreto las semanas de cotización ce ren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como fF ) de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, ientaran anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecid preceptos.
 
+La pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la edad, semanas de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
 
 vecretaria de Servicios Farlamentarios e
 | Año | Col 2 | Col 3 | Col 4 | Col 5 | Semanas | de | Cotización | Col 9 | Col 10 | Col 11 | Col 12 |

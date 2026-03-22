@@ -260,6 +260,23 @@ a F Lrzr> Ñ Als +SsS+.roeaamM> oa Á Mi ee eo e x pra. Mo. A IA ii = SS SR e a 
 é ia > “A 7 = a 2 a == — : El DA a Y Aa A SS A Ed ——— SS: a e A Estroja. —_ A — -—_\ }——_ > ee a >| ¡— SSS ñón, Ciñat0h iñal pa.trieftus sie nes deo : De la a“ E Ii va paz... elercan_gel A Ly a So bs a 3 == == o a SS 5-5 =>T>—H- ==
 
 
+Coro ra
+
+>
+
+p 1k 1 Me-x1 — canosal a = El a ce.roa-pres.tad ye) : bri. grito..de gue —— Tra — ZEN A 2 SS ee a — Ha E de. Se SS eS SS eS a 2 Ce E RS) aa nas a oy | ES See —] er A eels —_-—]—]——_—]— € SS — Bi — Ss a SS ss —— PP A = = oe :
+ZIN
+
+>
+
+A a M2 E SE + E A E eee ——]] a E ii: 3 | A OZ Also. no.rorugirdel. dof Y re - liembleen suscen.tros la tierra, ca_ PA tees sf Tea h = === er —————— ee
+| hon A ñón. | Y re tiem.bleensus te : _ cen.tros la Estroja. Ciñat0h ite i pa.trieftus jalhie sie el nes deo Ii = | Al rra so_ no.rorugir del..ca. - mima — 1 De la a“ - va paz... elercan_gel |
+| --- | --- | --- |
+| A | . | 4 |
+
+== + Ade do. +2 =1 = == A SSS SS
+
+
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | --- | --- | --- | --- | --- | --- |
 | PI | 9 | 1 | 16 | ee | 7 |
@@ -289,23 +306,16 @@ Aa Sa SS ae Ss 2 a =:
 Fl > ' u E TT. A li Sa hon, Y re la tie Al del._ rra so_no-ro rugir ca. é La > a: . , 4 2 a = maa se = ae i M0 oe pt um ee E CA ee ————— a so —_ í E ——— E A oe FEE — Cee Set ee Fe Se HL eS wre eo ee Sen ees eS Se AN =a = —ozq ae £ a ae or CL... ae ee eee 1 E Y] T—
 
 
-Coro ra
+A. > CS SSS I — iy Y —y os vi no,Queenel cielo tueter_nodes..ti.no Porel de dode Diosseescri — E —— 00S ae CN Ee ee e. = pt t,t 1 — ll Se ee ne 4 [+ ph 2 , + 3 = Sm A ee —O —oe“—ZL - a o a ee gp 9 II IM a e Pza Laa > _—————————————————————————— A bió: Meassio_sa.reunex.tra.ño e.ne mi — go Pro_fa—nar.... consuplen.ta tu € be 7 — ee = = =. —_ í = e mea Aa Mir a dam A > > 2 Er Pr si, a a... SS SS Se Se ae sue _ lo, Piensai0h pa_tria!que_ri ida quecl cie Unsol
+
+> —s
+
+_f HF ——.——.—].— 1 —Ú ——]]]——— o aS ee eee a ier — — tas — oS e O O o hi-jo te dió. da-dognca.da hi-jo te dió. Un.... sol — dadoenca.da
 
 >
 
-p 1k 1 Me-x1 — canosal a = El a ce.roa-pres.tad ye) : bri. grito..de gue —— Tra — ZEN A 2 SS ee a — Ha E de. Se SS eS SS eS a 2 Ce E RS) aa nas a oy | ES See —] er A eels —_-—]—]——_—]— € SS — Bi — Ss a SS ss —— PP A = = oe :
-ZIN
+E Ji —a — Sy Fee y a e y o ai 0 ae = ne —— , = Se ee E E (E a == ==—a ————Á D =I — — b ba h y *
 
->
-
-A a M2 E SE + E A E eee ——]] a E ii: 3 | A OZ Also. no.rorugirdel. dof Y re - liembleen suscen.tros la tierra, ca_ PA tees sf Tea h = === er —————— ee
-| hon A ñón. | Y re tiem.bleensus te : _ cen.tros la Estroja. Ciñat0h ite i pa.trieftus jalhie sie el nes deo Ii = | Al rra so_ no.rorugir del..ca. - mima — 1 De la a“ - va paz... elercan_gel |
-| --- | --- | --- |
-| A | . | 4 |
-
-== + Ade do. +2 =1 = == A SSS SS
-
-ARTÍCULO 59.- Derogado
 
 a > > a do LA A A Pa? E Co ——l—] I — iy Y —y os vi no,Queenel cielo tueter_nodes..ti.no Porel de dode Diosseescri — E -— Se Ge SS a Se, a a ——]b emo ¿bel
 
@@ -329,18 +339,7 @@ ee EII kk TT — a ee gp 9 II IM a SL SL Se a ee SS Se Se ee) ee > — ll A ee e
 IC — hot E pe IN IZ ZI E SS Se zzz BA a > — ll A A UE A ee CS NÓ NN E AE LOA SETS A ee A A A E CA NU e 0 © ee _—————————————————————————— A bid; mi Pro_fanar.... tu — go b>. b a 4 * 0 E. — — — er A Ey a ee a ;—]]]]] es et al S50 le ——— ee eee E” SSeS lA] a ay ee a SY ewe tn ee Se mz SS Cr y = = = f = = — (PSI E AA a a > > <£2£2Z22 A OO a ik e e E d Me | E Li a se eS — 2 dl] ——]—=— sue _ _ lo, Piensai0hpa.tria!que-ri da queel cie cla Unso. + —~> E = See SS ee eee ee Ye a ee ._— LL Tr —— —e Hate ———— d —] ee T—zJo —>]o — o A =o oe ee ss 2 ST e A AE e A ——— had _ lA A MOE. A A EA ITZA “e A Ve.
 Zo Ar. ars 3
 
-
-A. > CS SSS I — iy Y —y os vi no,Queenel cielo tueter_nodes..ti.no Porel de dode Diosseescri — E —— 00S ae CN Ee ee e. = pt t,t 1 — ll Se ee ne 4 [+ ph 2 , + 3 = Sm A ee —O —oe“—ZL - a o a ee gp 9 II IM a e Pza Laa > _—————————————————————————— A bió: Meassio_sa.reunex.tra.ño e.ne mi — go Pro_fa—nar.... consuplen.ta tu € be 7 — ee = = =. —_ í = e mea Aa Mir a dam A > > 2 Er Pr si, a a... SS SS Se Se ae sue _ lo, Piensai0h pa_tria!que_ri ida quecl cie Unsol
-
-> —s
-
-_f HF ——.——.—].— 1 —Ú ——]]]——— o aS ee eee a ier — — tas — oS e O O o hi-jo te dió. da-dognca.da hi-jo te dió. Un.... sol — dadoenca.da
-
->
-
-E Ji —a — Sy Fee y a e y o ai 0 ae = ne —— , = Se ee E E (E a == ==—a ————Á D =I — — b ba h y *
-
-Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018 ARTÍCULO 60.- Derogado Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018
+ARTÍCULO 59.- Derogado Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018 ARTÍCULO 60.- Derogado Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018
 
 ## TRANSITORIOS
 

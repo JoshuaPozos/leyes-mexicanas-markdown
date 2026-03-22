@@ -1971,22 +1971,6 @@ Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2020
 Se adiciona un párrafo octavo, pasando los actuales párrafos octavo a décimo
 **octavo.** a ser los párrafos noveno a décimo noveno, del artículo 37 de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ………
 
-## Transitorios
-
-**Primero.** El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto en los
-
-## transitorios
-
-siguientes.
-**Segundo.** La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del Seguro Social será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la siguiente tabla:
-Del 1 de enero de 2021 al 31 de diciembre de 2022:
-
-I. Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzada y vejez, una cuota del tres punto ciento cincuenta por ciento sobre el salario base de cotización del trabajador.
-
-II. El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad avanzada y vejez, la cuota social de conformidad con el artículo 168, fracción IV, de la Ley del Seguro Social vigente antes de la entrada en vigor del presente Decreto.
-
-III. En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá realizando una contribución igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales.
-
 
 ## Transitorios
 
@@ -1997,11 +1981,15 @@ nero. El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo disp
 
 cotización 1.0 SM* 3.150% 3.150% 3.150% 3.150% 3.150% 3.150% 3.150% 1.150% 1.01SMa 1.50 UMA*" 3.281% 3.413% 3.544% 3.676% 3.807% 3.939% 4.070% 44.202% _ 1.51a 2.00 UMA 3.575% 4.000% 4.426% 4.851% 5.276% 5.701% 6.126% 6.552% 2.01 a 2.50 UMA 3.751% 4.353% 4.954% _5.556% 6.157% 6.759% _7.380% 17962% _ 2.51 a 3.00 UMA 3.869% 4.588% 5.307% _ 6.026% 6.745% 7.464% — 8.183% ,902% _ 3.01 a 3.50 UMA 3.953% 4.756% 5.559% 6.361% 7.164% 7.967% 8.770% 9.573% 3.51 a 4.00 ____UMA______ 4.016% 4.882% 5.747% 7.479% 8.3455% _9.211% 10.077% a 4.01 UMA en adelante 4.241% 5.331% 6.422% 7.513% 8.603% 9.694% 10.784% 11.875% * Salario Minimo ** Unidad de Medida Actualización y
 
+Del 1 de enero de 2021 al 31 de diciembre de 2022:
+
+I. Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzada y vejez, una cuota del tres punto ciento cincuenta por ciento sobre el salario base de cotización del trabajador.
+
+II. El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad avanzada y vejez, la cuota social de conformidad con el artículo 168, fracción IV, de la Ley del Seguro Social vigente antes de la entrada en vigor del presente Decreto.
+
+III. En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá realizando una contribución igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales.
 **Tercero.** La cuota a cargo del Gobierno Federal prevista en el artículo 168, fracción IV, de la Ley del Seguro Social será aplicable a partir del 1 de enero de 2023.
 Del 1 de enero al 31 de diciembre de 2023, el Gobierno Federal cubrirá mensualmente en los ramos de cesantía en edad avanzada y vejez, una cantidad por cada día de salario cotizado, por concepto de cuota social para los trabajadores que ganen de cuatro punto cero uno hasta siete punto cero nueve veces la Unidad de Medida y Actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
-Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de 2023.
-**Cuarto.** En la fecha en que entre en vigor el presente Decreto las semanas de cotización que se requieren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como para el cálculo de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, y se incrementarán anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecidas en dichos preceptos.
-La pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la edad, semanas de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
 
 | Salario base | de Trabajador | cotización del | Cuota social |
 | --- | --- | --- | --- |

@@ -859,11 +859,7 @@ a) Con las aportaciones previstas en el artículo 55-BIS de la presente Ley, y
 
 b) Con las aportaciones equivalentes al tope del 2% máximo previsto en la fracción I inciso b. del presente artículo permitido en el Ahorro Solidario previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado efectuadas al Fondo de Previsión Social a que se refiere el presente artículo, en caso de estar sujetos al régimen previsto en el artículo décimo transitorio de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 Las aportaciones referidas en el párrafo anterior se depositarán, individualizarán e invertirán en un Fondo de Previsión Social contratado al efecto por la Secretaría con una administradora de fondos para el retiro, elegida de conformidad con los procedimientos que se determinen en el Reglamento.
-El apoyo económico complementario podrá acumularse a la renta vitalicia o retiro programado que, en su caso, el miembro disfrute como pensión por vejez bajo el régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-Asimismo, en caso de que los recursos acumulados en el Fondo de Previsión Social a su nombre sean suficientes para contratar con la aseguradora de su elección un seguro de pensión que le otorgue una renta vitalicia, que se actualice anualmente en el mes de febrero conforme al Índice Nacional de Precios al Consumidor, podrán disponer de dichos recursos y contratar con cargo a ellos la renta vitalicia.
-Los miembros que reúnan los requisitos establecidos en el presente artículo podrán optar por un apoyo económico complementario a cargo del Gobierno Federal conforme a la tabla siguiente:
-Los montos anteriores se actualizarán anualmente en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor a partir del mes de febrero de 2019.
-Los trabajadores que cumplan 65 años de edad o más tendrán derecho a recibir el cincuenta por ciento de la cantidad correspondiente a su rango siempre que cumplan con los requisitos a que se
+El apoyo económico complementario podrá acumularse a la renta vitalicia o retiro programado que, en su caso, el miembro disfrute como pensión por vejez bajo el régimen de la Ley del Instituto de Seguridad
 
 
 > los Trabajadores del Estado.
@@ -875,7 +871,8 @@ Los trabajadores que cumplan 65 años de edad o más tendrán derecho a recibir 
 plementario a cargo del Gobierno Federal conforme a la tabla sic Apoyo Económico Puesto Complementario en Pesos, Moneda Nacional Embajador 17,279 Ministro 15,426 Consejero 8,821 Primer Secretario 8,615
 **Segundo.** Secretario 8,202 Tercer Secretario 7,902 Agregado Diplomatico 7,067 Coordinador Administrativo del SEM 8,615 Agregado Administrativo A 8,202 Agregado Administrativo B 7,902 Agregado Administrativo C 7,067
 
-refieren las fracciones I y III del presente artículo y se encuentren activos en el servicio al momento de solicitar el apoyo económico complementario.
+Los montos anteriores se actualizarán anualmente en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor a partir del mes de febrero de 2019.
+Los trabajadores que cumplan 65 años de edad o más tendrán derecho a recibir el cincuenta por ciento de la cantidad correspondiente a su rango siempre que cumplan con los requisitos a que se refieren las fracciones I y III del presente artículo y se encuentren activos en el servicio al momento de solicitar el apoyo económico complementario.
 En el caso que el Miembro del Servicio Exterior opte por los apoyos económicos complementarios que se reciban en los términos de la tabla anterior, los recursos acumulados a nombre del miembro en el Fondo de Previsión Social serán transferidos al Gobierno Federal para el financiamiento del referido apoyo.
 En todo caso, el apoyo económico complementario se sujetará a lo establecido en esta Ley, su Secretaría de Hacienda y Crédito Público y en las disposiciones administrativas que expida la Comisión Nacional del Sistema de Ahorro para el Retiro o la Comisión Nacional de Seguros y Fianzas según corresponda, respectivamente.
 En caso de que un Miembro del Servicio Exterior de carrera, no reúna los requisitos para disfrutar del apoyo económico complementario en los términos del presente artículo, tendrá derecho a recibir, en una sola exhibición, exclusivamente los recursos acumulados por las aportaciones realizadas por él. Las aportaciones realizadas por el Gobierno Federal se transferirán a la Tesorería de la Federación.

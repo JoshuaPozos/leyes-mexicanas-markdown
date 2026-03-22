@@ -2,6 +2,13 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Fix 12 — Tablas OCR en posición correcta] — 2026-03-21
+
+- `extract_lines()`: para páginas con tablas-imagen, divide la extracción en regiones verticales (texto arriba + OCR tabla + texto abajo) en vez de extraer todo el texto y agregar la tabla al final
+- Las tablas ahora aparecen en su posición natural dentro del artículo, no desplazadas varios párrafos abajo
+- Párrafos que antes se cortaban por la tabla ("aplicar la tasa [tabla] máxima para...") ahora fluyen correctamente
+- 8 MDs con tablas-imagen regenerados
+
 ## [Fix 11 — Headers de tablas OCR reconstruidos] — 2026-03-21
 
 - `_build_table_from_spatial()` reescrito: separación título/headers/datos usando gap vertical

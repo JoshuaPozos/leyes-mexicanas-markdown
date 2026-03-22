@@ -234,27 +234,83 @@ def extract_lines(pdf_path: Path, verbose: bool = False) -> tuple[list[str], int
             if verbose and page_num % 20 == 0:
                 print(f"  Procesando página {page_num + 1}/{total}...", flush=True)
 
-            text = page.extract_text(layout=False, x_tolerance=2, y_tolerance=2)
-            if not text:
-                continue
-
-            for raw_line in text.split('\n'):
-                line = clean_page_markers(raw_line.strip(), marker_re)
-                if not line:
-                    continue
-                if is_header_line(line):
-                    continue
-                all_lines.append(line)
-
-            # --- Issue 9: Detectar tablas-imagen y extraer con OCR ---
+            # --- Detectar tablas-imagen para intercalar OCR en posición correcta ---
             large_imgs = [img for img in (page.images or [])
                           if abs(img.get('x1', 0) - img.get('x0', 0)) > 200
                           and abs(img.get('y1', 0) - img.get('y0', 0)) > 100]
+
+            has_table_imgs = False
             if large_imgs:
                 tables = page.extract_tables()
                 if not tables:
-                    ocr_result = _ocr_page_table(page, large_imgs, page_num + 1, verbose)
+                    has_table_imgs = True
+
+            if not has_table_imgs:
+                # Página sin tablas-imagen: extracción normal
+                text = page.extract_text(layout=False, x_tolerance=2, y_tolerance=2)
+                if not text:
+                    continue
+                for raw_line in text.split('\n'):
+                    line = clean_page_markers(raw_line.strip(), marker_re)
+                    if not line:
+                        continue
+                    if is_header_line(line):
+                        continue
+                    all_lines.append(line)
+            else:
+                # Página con tablas-imagen: extraer texto por regiones verticales
+                # para insertar la tabla OCR en su posición correcta.
+                # Ordenar imágenes por posición vertical (top).
+                sorted_imgs = sorted(large_imgs,
+                                     key=lambda im: min(im.get('top', im.get('y0', 0)),
+                                                        im.get('y0', 0)))
+                page_height = page.height
+                page_width = page.width
+                cursor_y = 0  # posición vertical actual
+
+                for img in sorted_imgs:
+                    img_top = min(img.get('top', img.get('y0', 0)), img.get('y0', 0))
+                    img_bottom = max(img.get('bottom', img.get('y1', 0)), img.get('y1', 0))
+
+                    # Texto ANTES de la imagen
+                    if img_top > cursor_y + 1:
+                        try:
+                            region_above = page.crop((0, cursor_y, page_width, img_top))
+                            text_above = region_above.extract_text(
+                                layout=False, x_tolerance=2, y_tolerance=2)
+                            if text_above:
+                                for raw_line in text_above.split('\n'):
+                                    line = clean_page_markers(raw_line.strip(), marker_re)
+                                    if not line:
+                                        continue
+                                    if is_header_line(line):
+                                        continue
+                                    all_lines.append(line)
+                        except Exception:
+                            pass
+
+                    # OCR de la imagen (tabla)
+                    ocr_result = _ocr_page_table(page, [img], page_num + 1, verbose)
                     all_lines.extend(ocr_result)
+
+                    cursor_y = img_bottom
+
+                # Texto DESPUÉS de la última imagen
+                if cursor_y < page_height - 1:
+                    try:
+                        region_below = page.crop((0, cursor_y, page_width, page_height))
+                        text_below = region_below.extract_text(
+                            layout=False, x_tolerance=2, y_tolerance=2)
+                        if text_below:
+                            for raw_line in text_below.split('\n'):
+                                line = clean_page_markers(raw_line.strip(), marker_re)
+                                if not line:
+                                    continue
+                                if is_header_line(line):
+                                    continue
+                                all_lines.append(line)
+                    except Exception:
+                        pass
 
     return all_lines, total
 

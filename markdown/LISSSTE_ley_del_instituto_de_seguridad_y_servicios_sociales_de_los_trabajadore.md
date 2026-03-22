@@ -2163,13 +2163,6 @@ La opción adoptada por el Trabajador deberá comunicarla por escrito al Institu
 Cuando el Trabajador no manifieste la opción que elige dentro del plazo previsto, se le deberá hacer saber en los términos que establezca el reglamento respectivo conforme al cual se respetará lo conducente a los Trabajadores que no manifiesten su elección.
 **OCTAVO.** Los Trabajadores que hubieran optado por el régimen del artículo décimo transitorio, en ningún caso tendrán derecho a la acreditación de Bonos de Pensión del ISSSTE.
 **NOVENO.** El valor nominal de emisión expresado en unidades de inversión de los Bonos de Pensión del ISSSTE que se calculará a cada Trabajador será el que se determine conforme a la tabla siguiente:
-Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
-RÉGIMEN DE LOS TRABAJADORES QUE NO OPTEN POR EL BONO
-**DÉCIMO.** A los Trabajadores que no opten por la acreditación de Bonos de Pensión del ISSSTE, se les aplicarán las siguientes modalidades:
-
-I. A partir de la entrada en vigor de esta Ley hasta el treinta y uno de diciembre de dos mil nueve:
-
-a) Los Trabajadores que hubieren cotizado treinta años o más y las Trabajadoras que hubieran cotizado veintiocho años o más, tendrán derecho a Pensión por Jubilación equivalente al cien por ciento del promedio del Sueldo Básico de su último año de servicio y su percepción comenzará a partir del día siguiente a aquél en que el Trabajador hubiese disfrutado el último sueldo antes de causar baja;
 
 Años de Servicio ——
 | 16] 0.63] 1 22
@@ -2212,6 +2205,8 @@ REGIMEN DE LOS TRABAJADORES QUE NO OPTEN POR EL BONO DECIMO. A los Trabajadores 
 I. A partir de la entrada en vigor de esta Ley hasta el treinta y uno de diciembre de dos mil nueve:
 
 a) Los Trabajadores que hubieren cotizado treinta años o más y las Trabajadoras que hubie zado veintiocho años o más, tendrán derecho a Pensión por Jubilación equivalente al cien por cie nem marti. Ae! a PUE PU a E PA LA A mea A A A LA A
+
+del promedio del Sueldo Básico de su último año de servicio y su percepción comenzará a partir del día siguiente a aquél en que el Trabajador hubiese disfrutado el último sueldo antes de causar baja;
 
 b) Los Trabajadores que cumplan cincuenta y cinco años de edad o más y quince años o más de cotización al Instituto, tendrán derecho a una Pensión de retiro por edad y tiempo de servicios equivalente a un porcentaje del promedio del Sueldo Básico de su último año de servicio que se define en la fracción IV, de conformidad con la siguiente Tabla: 15 años de servicio........................ 50 % 16 años de servicio........................ 52.5 % 17 años de servicio........................ 55 % 18 años de servicio........................ 57.5 % 19 años de servicio........................ 60 % 20 años de servicio........................ 62.5 % 21 años de servicio........................ 65 % 22 años de servicio........................ 67.5 % 23 años de servicio........................ 70 % 24 años de servicio........................ 72.5 % 25 años de servicio........................ 75 % 26 años de servicio........................ 80 % 27 años de servicio........................ 85 % 28 años de servicio........................ 90 % 29 años de servicio........................ 95 %
 
@@ -2299,9 +2294,6 @@ VR = Valor de redención anticipada expresado en pesos al día t.
 VN = Valor nominal de emisión del Bono de Pensión del ISSSTE, expresado en unidades de inversión. n = Número de años faltantes para el vencimiento del Bono de Pensión del ISSSTE, expresado como el número de días para el vencimiento, dividido entre trescientos sesenta y cinco.
 Esta fórmula utiliza los mismos supuestos de cálculo utilizados para determinar el valor de los Bonos de Pensión del ISSSTE acreditados al Trabajador.
 De conformidad con la fórmula de pago anticipado, el valor de redención expresado en unidades de inversión de los Bonos de Pensión del ISSSTE a la fecha de su emisión será el siguiente:
-Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico mensual, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
-A efecto de cumplir con las obligaciones generadas con los Trabajadores conforme a lo dispuesto en la presente Ley, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a celebrar los actos jurídicos necesarios para emitir y pagar los Bonos de Pensión del ISSSTE, así como, en su caso, a contratar, ejercer, y autorizar créditos, empréstitos y otras formas del crédito público, incluso mediante la emisión de valores, para el financiamiento de las obligaciones del Gobierno Federal asociadas a esta Ley. Asimismo, se autoriza al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público para realizar los ajustes correspondientes en el Presupuesto de Egresos de la Federación a efecto de que se reconozca como gasto el mismo importe de las obligaciones a cargo del Gobierno Federal a que se refiere esta Ley.
-**VIGÉSIMO SEGUNDO.** Los procedimientos para acreditar en las Cuentas Individuales los Bonos de Pensión del ISSSTE y su traspaso al PENSIONISSSTE o a las Administradoras se deberán sujetar a las disposiciones que emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
 Años de Servicio [ala sal sf el 7 se sf 43 al asf de ql asf tg) 20] af za 23) sl asf ze 27) 28) 297 30
 | 0.24
@@ -2361,6 +2353,7 @@ rabajador al último día del año anterior a que entre en vigor esta Ley.
 A efecto de cumplir con las obligaciones generadas con los Trabajadores conforme a lo dispuesto yresente Ley, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crét ico, a celebrar los actos jurídicos necesarios para emitir y pagar los Bonos de Pensión del ISSS como, en su caso, a contratar, ejercer, y autorizar créditos, empréstitos y otras formas del cré ico, incluso mediante la emisión de valores, para el financiamiento de las obligaciones del Gobie leral asociadas a esta Ley. Asimismo, se autoriza al Ejecutivo Federal por conducto de la Secret Hacienda y Crédito Público para realizar los ajustes correspondientes en el Presupuesto de Egre: la Federación a efecto de que se reconozca como gasto el mismo importe de las obligaciones a ca Gobierno Federal a que se refiere esta Ley.
 VIGESIMO SEGUNDO. Los procedimientos para acreditar en las Cuentas Individuales los Bonos sión del ISSSTE y su traspaso al PENSIONISSSTE o a las Administradoras se deberán sujetar a E E o. A A EU A e . CAE E A e. ee oe
 
+disposiciones que emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
 El PENSIONISSSTE y, en su caso, las Administradoras, deberán incorporar en los estados de cuenta que expidan a los Trabajadores el valor nominal de sus Bonos de Pensión del ISSSTE en unidades de inversión y en pesos, así como el valor de pago anticipado de los Bonos en unidades de inversión y en pesos, a la fecha de corte del estado de cuenta, de conformidad con las disposiciones que emita al efecto la Comisión Nacional del Sistema de Ahorro para el Retiro.
 DEL PENSIONISSSTE
 **VIGÉSIMO TERCERO.** El Instituto dispondrá de un plazo de doce meses a partir de la vigencia de esta Ley, para que en el orden administrativo establezca lo necesario para la creación y el funcionamiento del PENSIONISSSTE debiendo proveer los recursos humanos, materiales y presupuestales que se requieran desde el inicio de operaciones del PENSIONISSSTE hasta que éste reciba recursos por concepto de comisiones.

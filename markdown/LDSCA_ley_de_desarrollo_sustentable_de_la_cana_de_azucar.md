@@ -495,12 +495,14 @@ CAPITULO III De las Organizaciones Nacionales de Abastecedores de Caña
 
 ### Artículo 38
 .- Las organizaciones nacionales de Abastecedores de Caña de azúcar deberán estar debidamente inscritas ante el Registro.
-Para su debido registro, deberán exhibir dos copias del padrón de Abastecedores de Caña asociados que deberán actualizar anualmente. La certificación del padrón se basará en el registro de afiliaciones de sus organizaciones locales, sancionadas por el Comité de cada uno de los Ingenios.
-Con objeto de fomentar la constitución de nuevas organizaciones nacionales de Abastecedores de Caña, por única vez el Servicio Nacional del Registro Agropecuario podrá otorgar a organizaciones nacionales de Abastecedores de Caña registro condicionado durante los ciclos 2005-2006 y 2006-2007, el cual podrá ser definitivo siempre y cuando dichas Organizaciones demuestren que sus organizaciones locales están constituidas en términos del artículo 34 de esta Ley, y:
+Para su debido registro, deberán exhibir dos copias del padrón de Abastecedores de Caña asociados que deberán actualizar anualmente. La certificación del padrón se basará en el registro de afiliaciones de
 
-a) Contar inicialmente con el 5% de la membresía del Padrón Nacional de Abastecedores de Caña, el 5% de la producción nacional de caña y tener presencia al menos en cuatro Estados productores de caña de azúcar, y
+zaciones locales, sancionadas por el Comité de cada uno de los Ingenios. jeto de fomentar la constitución de nuevas organizaciones nacionales de Abastec única vez el Servicio Nacional del Registro Agropecuario podrá otorgar a orga de Abastecedores de Caña registro condicionado durante los ciclos 2005-2006 y * rá ser definitivo siempre y cuando dichas Organizaciones demuestren que sus orga án constituidas en términos del artículo 34 de esta Ley, y:
+Contar inicialmente con el 5% de la membresía del Padrón Nacional de Abastet Caña, el 5% de la producción nacional de caña y tener presencia al menos Estados productores de caña de azúcar, y Contar con presencia en Estados productores de caña de azúcar y con el por membresía y de producción nacional durante los ciclos azucareros siguientes:
+Ciclo Azucarero Porcentaje de Número de Estados Abastecedores de Caña y Cañeros en los que de Producción Nacional deberá tener presencia con organización local
+| 2005-2006 5% | 4aX |
+2006-2007 — _e 7 2008-2009 7 2009-2010 10% | 8 |
 
-b) Contar con presencia en Estados productores de caña de azúcar y con el porcentaje de membresía y de producción nacional durante los ciclos azucareros siguientes:
 Si en cualquier ciclo de los mencionados, la organización nacional que tenga registro condicionado acredita cumplir con los requisitos previstos en el párrafo segundo de este artículo, obtendrá su registro definitivo; en caso de no cumplirlos perderá el registro condicionado.
 La organización nacional con registro condicionado, tendrá derecho a participar con voz y sin voto en el Comité Nacional y en la Junta Permanente, hasta en tanto no obtenga su registro definitivo.
 
@@ -510,12 +512,6 @@ La organización nacional con registro condicionado, tendrá derecho a participa
 I. Representar los intereses de sus afiliados ante cualquier autoridad u organismo de carácter público o privado;
 
 II. Apoyar el desarrollo y fortalecimiento de las organizaciones locales afiliadas;
-
-zaciones locales, sancionadas por el Comité de cada uno de los Ingenios. jeto de fomentar la constitución de nuevas organizaciones nacionales de Abastec única vez el Servicio Nacional del Registro Agropecuario podrá otorgar a orga de Abastecedores de Caña registro condicionado durante los ciclos 2005-2006 y * rá ser definitivo siempre y cuando dichas Organizaciones demuestren que sus orga án constituidas en términos del artículo 34 de esta Ley, y:
-Contar inicialmente con el 5% de la membresía del Padrón Nacional de Abastet Caña, el 5% de la producción nacional de caña y tener presencia al menos Estados productores de caña de azúcar, y Contar con presencia en Estados productores de caña de azúcar y con el por membresía y de producción nacional durante los ciclos azucareros siguientes:
-Ciclo Azucarero Porcentaje de Número de Estados Abastecedores de Caña y Cañeros en los que de Producción Nacional deberá tener presencia con organización local
-| 2005-2006 5% | 4aX |
-2006-2007 — _e 7 2008-2009 7 2009-2010 10% | 8 |
 
 III. Fomentar la modernización del campo cañero nacional y la adopción de mejoras tecnológicas;
 

@@ -24,3 +24,11 @@
 - **Estado:** Resuelto — `_build_table_from_spatial` reconstruye headers de columna desde filas pre-tabla usando boundaries y detección de filas de unidades
 - **Resultado:** Headers como `| $ | $ | $ | % |` → `| Limite inferior ($) | Limite superior ($) | Cuota fija ($) | Por ciento para aplicarse sobre el excedente del (%) |`
 - **Archivos afectados:** `scripts/pdf_to_md.py`
+
+---
+
+## 4. ~~Tablas OCR aparecían desplazadas de su posición en el texto~~ ✅
+
+- **Estado:** Resuelto — `extract_lines()` ahora extrae texto por regiones verticales (arriba/tabla/abajo) en vez de agregar la tabla al final de la página
+- **Resultado:** Art. 96 LISR: la TARIFA MENSUAL ahora aparece justo después de "la siguiente:" y antes de "Quienes hagan pagos..."
+- **Archivos afectados:** `scripts/pdf_to_md.py`
