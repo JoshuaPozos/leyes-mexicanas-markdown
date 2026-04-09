@@ -22,3 +22,6 @@ Thumbs.db
 .idea/
 *.swp
 tmp_backup/
+
+# Documentos internos (no publicar)
+RESUMEN_TECNICO.md

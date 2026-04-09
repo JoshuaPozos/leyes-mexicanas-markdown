@@ -1,0 +1,268 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "mx-md Law AST",
+  "description": "Canonical structured representation of a Mexican federal law. Generated from PDF, used to render Markdown and power APIs.",
+  "type": "object",
+  "required": ["schema_version", "id", "name", "source", "structure"],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0.0",
+      "description": "Schema version for forward compatibility."
+    },
+    "id": {
+      "type": "string",
+      "description": "Stable unique identifier (the md_slug). E.g. 'CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos'."
+    },
+    "abbreviation": {
+      "type": "string",
+      "description": "Official abbreviation. E.g. 'CPEUM', 'CFF', 'LISR'."
+    },
+    "name": {
+      "type": "string",
+      "description": "Full official name. E.g. 'CONSTITUCIÓN Política de los Estados Unidos Mexicanos'."
+    },
+    "catalog_number": {
+      "type": "string",
+      "description": "Sequential number from the Cámara de Diputados index. E.g. '001'."
+    },
+    "source": {
+      "type": "object",
+      "required": ["pdf_url", "captured_at"],
+      "properties": {
+        "pdf_url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Official PDF URL from diputados.gob.mx."
+        },
+        "pdf_filename_origen": {
+          "type": "string",
+          "description": "Original filename on the server. E.g. 'CPEUM.pdf'."
+        },
+        "dof_publication": {
+          "type": "string",
+          "description": "Original DOF publication date. E.g. 'DOF 05/02/1917'."
+        },
+        "last_reform": {
+          "type": "string",
+          "description": "Last reform as published. E.g. 'DOF 03/03/2026'."
+        },
+        "captured_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp of when the PDF was downloaded and processed."
+        }
+      }
+    },
+    "preamble": {
+      "type": "array",
+      "description": "Text blocks before the first structural division (introductory notes, publication history, etc.).",
+      "items": { "$ref": "#/$defs/text_block" }
+    },
+    "structure": {
+      "type": "array",
+      "description": "Top-level structural divisions (Títulos, Libros, or directly Capítulos/Artículos for simpler laws).",
+      "items": { "$ref": "#/$defs/node" }
+    }
+  },
+  "$defs": {
+    "node": {
+      "type": "object",
+      "description": "A structural node in the law hierarchy.",
+      "required": ["type", "id"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "libro",
+            "titulo",
+            "capitulo",
+            "seccion",
+            "articulo",
+            "transitorios",
+            "transitorio_articulo"
+          ],
+          "description": "Structural type."
+        },
+        "id": {
+          "type": "string",
+          "description": "Stable path-based ID within the law. E.g. 'titulo-1', 'titulo-1.capitulo-2', 'titulo-1.capitulo-2.art-15', 'transitorios.primero'."
+        },
+        "heading": {
+          "type": "string",
+          "description": "The heading text. E.g. 'TÍTULO I', 'Capítulo II', 'Artículo 15', 'ARTÍCULO PRIMERO'."
+        },
+        "descriptor": {
+          "type": ["string", "null"],
+          "description": "Optional descriptive name. E.g. 'DISPOSICIONES GENERALES', 'De los Derechos Humanos y sus Garantías'."
+        },
+        "ordinal": {
+          "type": ["string", "null"],
+          "description": "The enumeration value. E.g. 'I', '15', '15-A', 'Bis', 'PRIMERO'."
+        },
+        "content": {
+          "type": "array",
+          "description": "Body content of this node: paragraphs, fracciones, incisos, tables, reform notes.",
+          "items": { "$ref": "#/$defs/content_element" }
+        },
+        "children": {
+          "type": "array",
+          "description": "Child structural nodes (e.g. capítulos inside título, artículos inside capítulo).",
+          "items": { "$ref": "#/$defs/node" }
+        }
+      }
+    },
+    "content_element": {
+      "oneOf": [
+        { "$ref": "#/$defs/text_block" },
+        { "$ref": "#/$defs/fraccion" },
+        { "$ref": "#/$defs/inciso" },
+        { "$ref": "#/$defs/apartado" },
+        { "$ref": "#/$defs/table" },
+        { "$ref": "#/$defs/reform_note" }
+      ]
+    },
+    "text_block": {
+      "type": "object",
+      "required": ["type", "text"],
+      "properties": {
+        "type": { "const": "paragraph" },
+        "text": {
+          "type": "string",
+          "description": "Plain text content of the paragraph."
+        }
+      }
+    },
+    "fraccion": {
+      "type": "object",
+      "required": ["type", "ordinal", "text"],
+      "properties": {
+        "type": { "const": "fraccion" },
+        "ordinal": {
+          "type": "string",
+          "description": "Roman numeral. E.g. 'I', 'II', 'XVI', 'XXIX-A'."
+        },
+        "text": {
+          "type": "string",
+          "description": "Text of the fracción."
+        },
+        "incisos": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/inciso" }
+        },
+        "reform_notes": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/reform_note" }
+        }
+      }
+    },
+    "inciso": {
+      "type": "object",
+      "required": ["type", "ordinal", "text"],
+      "properties": {
+        "type": { "const": "inciso" },
+        "ordinal": {
+          "type": "string",
+          "description": "Lowercase letter. E.g. 'a', 'b', 'c'."
+        },
+        "text": {
+          "type": "string",
+          "description": "Text of the inciso."
+        },
+        "numerals": {
+          "type": "array",
+          "description": "Sub-numerals (1., 2., 3.) nested under inciso.",
+          "items": {
+            "type": "object",
+            "required": ["type", "ordinal", "text"],
+            "properties": {
+              "type": { "const": "numeral" },
+              "ordinal": { "type": "string" },
+              "text": { "type": "string" }
+            }
+          }
+        },
+        "reform_notes": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/reform_note" }
+        }
+      }
+    },
+    "apartado": {
+      "type": "object",
+      "required": ["type", "ordinal"],
+      "properties": {
+        "type": { "const": "apartado" },
+        "ordinal": {
+          "type": "string",
+          "description": "Uppercase letter. E.g. 'A', 'B', 'C', 'D'."
+        },
+        "text": {
+          "type": "string",
+          "description": "Opening text of the apartado."
+        },
+        "fracciones": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/fraccion" }
+        },
+        "reform_notes": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/reform_note" }
+        }
+      }
+    },
+    "table": {
+      "type": "object",
+      "required": ["type", "headers", "rows"],
+      "properties": {
+        "type": { "const": "table" },
+        "title": {
+          "type": ["string", "null"],
+          "description": "Optional table title (e.g. 'TARIFA MENSUAL')."
+        },
+        "headers": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Column header names."
+        },
+        "rows": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "description": "Data rows, each an array of cell values."
+        },
+        "source_method": {
+          "type": "string",
+          "enum": ["text", "ocr"],
+          "description": "'text' if extracted natively from PDF, 'ocr' if via Tesseract."
+        },
+        "source_page": {
+          "type": ["integer", "null"],
+          "description": "PDF page number where the table was found."
+        }
+      }
+    },
+    "reform_note": {
+      "type": "object",
+      "required": ["type", "text"],
+      "properties": {
+        "type": { "const": "reform_note" },
+        "text": {
+          "type": "string",
+          "description": "Raw reform annotation. E.g. 'Párrafo reformado DOF 10-06-2011'."
+        },
+        "action": {
+          "type": ["string", "null"],
+          "enum": ["reformado", "adicionado", "derogado", "recorrido", "fe_de_erratas", null],
+          "description": "Parsed reform action, if detectable."
+        },
+        "dof_date": {
+          "type": ["string", "null"],
+          "description": "Parsed DOF date from the note, if detectable. E.g. '10-06-2011'."
+        }
+      }
+    }
+  }
+}

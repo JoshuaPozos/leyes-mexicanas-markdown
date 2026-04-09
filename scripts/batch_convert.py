@@ -21,6 +21,7 @@ SCRIPTS_DIR = ROOT / "scripts"
 PDF_TO_MD = SCRIPTS_DIR / "pdf_to_md.py"
 ORIGEN_DIR = ROOT / "origen-docs"
 MARKDOWN_DIR = ROOT / "markdown"
+CANONICAL_DIR = ROOT / "canonical"
 CATALOG_PATH = ROOT / "catalogo.json"
 
 
@@ -33,7 +34,8 @@ def load_catalog() -> dict[str, dict]:
     return {law["pdf_filename"]: law for law in laws}
 
 
-def convert_pdf(pdf_path: Path, output_path: Path, title: str, verbose: bool) -> bool:
+def convert_pdf(pdf_path: Path, output_path: Path, title: str, verbose: bool,
+                canonical_dir: Path | None = None) -> bool:
     """Runs pdf_to_md.py on a single PDF. Returns True on success."""
     cmd = [
         sys.executable, str(PDF_TO_MD),
@@ -41,6 +43,8 @@ def convert_pdf(pdf_path: Path, output_path: Path, title: str, verbose: bool) ->
         "--output", str(output_path),
         "--title", title,
     ]
+    if canonical_dir:
+        cmd.extend(["--canonical-dir", str(canonical_dir)])
     if verbose:
         cmd.append("--verbose")
 
@@ -83,6 +87,7 @@ def main() -> None:
 
     subset = pdfs[:args.limit] if args.limit > 0 else pdfs
     MARKDOWN_DIR.mkdir(parents=True, exist_ok=True)
+    CANONICAL_DIR.mkdir(parents=True, exist_ok=True)
 
     converted = 0
     skipped = 0
@@ -97,13 +102,15 @@ def main() -> None:
 
         label = f"[{i}/{len(subset)}] {pdf_path.name}"
 
-        if args.skip_existing and md_path.exists():
+        json_path = CANONICAL_DIR / f"{md_slug}.json"
+
+        if args.skip_existing and md_path.exists() and json_path.exists():
             print(f"  ⏭️  {label} → ya existe")
             skipped += 1
             continue
 
         print(f"  📄 {label} → {md_path.name}...", flush=True)
-        if convert_pdf(pdf_path, md_path, title, args.verbose):
+        if convert_pdf(pdf_path, md_path, title, args.verbose, CANONICAL_DIR):
             print(f"     ✅ Listo")
             converted += 1
         else:
@@ -112,6 +119,7 @@ def main() -> None:
 
     print(f"\n📊 Resultado: {converted} convertidos, {skipped} omitidos, {failed} errores")
     print(f"📁 Markdowns en: {MARKDOWN_DIR}")
+    print(f"📁 JSON en:      {CANONICAL_DIR}")
 
     # Generar índice tras la conversión
     print("\n📇 Generando índice...")

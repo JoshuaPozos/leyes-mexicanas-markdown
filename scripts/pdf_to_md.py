@@ -9,8 +9,11 @@ Uso:
 """
 
 import argparse
+import json
 import re
 import sys
+import unicodedata
+from datetime import datetime, timezone
 from pathlib import Path
 
 try:
@@ -648,6 +651,400 @@ def _post_split_incisos(lines: list[str]) -> list[str]:
 
 
 # ---------------------------------------------------------------------------
+# Reform note detection
+# ---------------------------------------------------------------------------
+
+REFORM_NOTE_RE = re.compile(
+    r'^(?:Párrafo|Párrafos|Fracción|Fracciones|Inciso|Incisos|'
+    r'Artículo|Artículos|Numeral|Numerales|Sección|Capítulo|Título|'
+    r'Denominación[^.]{0,30}|Apartado|Fe de erratas)'
+    r'\s+(?:reformad|adicionad|derogad|recorrid|abrogad|publicad)',
+    re.IGNORECASE,
+)
+
+_REFORM_DOF_RE = re.compile(r'DOF\s+(\d{2}[/-]\d{2}[/-]\d{4})')
+_REFORM_ACTION_RE = re.compile(
+    r'(reformad[oa]s?|adicionad[oa]s?|derogad[oa]s?|recorrid[oa]s?|'
+    r'abrogad[oa]s?|fe de erratas)',
+    re.IGNORECASE,
+)
+
+
+def _is_reform_note(text: str) -> bool:
+    """Detect reform annotation lines like 'Párrafo reformado DOF 10-06-2011'."""
+    s = text.strip()
+    if 'DOF' not in s:
+        return False
+    return bool(REFORM_NOTE_RE.match(s))
+
+
+def _parse_reform_note(text: str) -> dict:
+    """Parse a reform annotation into a structured dict."""
+    node: dict = {"type": "reform_note", "text": text.strip()}
+    m = _REFORM_ACTION_RE.search(text)
+    if m:
+        raw = m.group(1).lower()
+        if raw.startswith('reformad'):
+            node["action"] = "reformado"
+        elif raw.startswith('adicionad'):
+            node["action"] = "adicionado"
+        elif raw.startswith('derogad'):
+            node["action"] = "derogado"
+        elif raw.startswith('recorrid'):
+            node["action"] = "recorrido"
+        elif raw.startswith('abrogad'):
+            node["action"] = "abrogado"
+        elif 'fe de erratas' in raw:
+            node["action"] = "fe_de_erratas"
+        else:
+            node["action"] = None
+    else:
+        node["action"] = None
+    dates = _REFORM_DOF_RE.findall(text)
+    node["dof_date"] = dates[-1].replace('/', '-') if dates else None
+    return node
+
+
+def _slugify_ordinal(text: str) -> str:
+    """Normalize an ordinal for use in stable IDs.
+    'I' → 'i', 'Primero' → 'primero', '1o.' → '1', '15-A' → '15-a'."""
+    s = text.strip().lower()
+    s = re.sub(r'[°ºo.]+$', '', s)
+    s = unicodedata.normalize('NFD', s)
+    s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
+    s = re.sub(r'[^a-z0-9\-]', '-', s)
+    s = re.sub(r'-+', '-', s).strip('-')
+    return s or 'unknown'
+
+
+def _parse_table_lines(table_lines: list[str]) -> dict:
+    """Parse markdown table lines (| ... |) into a table content node."""
+    headers: list[str] = []
+    rows: list[list[str]] = []
+    for line in table_lines:
+        cells = [c.strip() for c in line.strip().strip('|').split('|')]
+        if all(re.fullmatch(r'-{2,}', c.strip()) for c in cells if c.strip()):
+            continue  # separator row
+        if not headers:
+            headers = cells
+        else:
+            rows.append(cells)
+    return {
+        "type": "table",
+        "title": None,
+        "headers": headers,
+        "rows": rows,
+        "source_method": "ocr",
+        "source_page": None,
+    }
+
+
+def _load_catalog_entry(pdf_path: Path) -> dict:
+    """Load catalog metadata for a PDF from catalogo.json."""
+    catalog_path = Path(__file__).parent.parent / "catalogo.json"
+    if not catalog_path.exists():
+        return {}
+    with open(catalog_path, encoding="utf-8") as f:
+        laws = json.load(f)
+    for law in laws:
+        if law.get("pdf_filename") == pdf_path.name:
+            return law
+        if pdf_path.stem == law.get("md_slug"):
+            return law
+    return {}
+
+
+# ---------------------------------------------------------------------------
+# AST Builder — Canonical JSON representation
+# ---------------------------------------------------------------------------
+
+def build_ast(lines: list[str], metadata: dict) -> dict:
+    """
+    Build a canonical AST from extracted text lines and catalog metadata.
+    Conforms to schema/law_ast.schema.json.
+
+    The AST is the structured 'source of truth'; Markdown and other formats
+    are rendered from it.  The detection logic mirrors build_markdown() but
+    constructs a tree instead of flat strings.
+    """
+    # --- Detect and clean running header (same as build_markdown) ---
+    global _running_header
+    _running_header = _detect_running_header(lines)
+    if _running_header:
+        cleaned: list[str] = []
+        for line in lines:
+            stripped = line.strip()
+            norm = ' '.join(stripped.split())
+            if norm == _running_header:
+                continue
+            cleaned.append(_strip_running_header_inline(stripped, _running_header))
+        lines = cleaned
+
+    # --- Derive abbreviation from slug ---
+    md_slug = metadata.get("md_slug", "")
+    abbrev = md_slug.split('_')[0] if md_slug else ""
+
+    # --- Initialize root document ---
+    root: dict = {
+        "schema_version": "1.0.0",
+        "id": md_slug,
+        "abbreviation": abbrev,
+        "name": metadata.get("nombre", ""),
+        "catalog_number": metadata.get("numero", ""),
+        "source": {
+            "pdf_url": metadata.get("pdf_url", ""),
+            "pdf_filename_origen": metadata.get("pdf_filename_origen", ""),
+            "dof_publication": metadata.get("dof", ""),
+            "last_reform": metadata.get("ultima_reforma", ""),
+            "captured_at": datetime.now(timezone.utc).isoformat(),
+        },
+        "preamble": [],
+        "structure": [],
+    }
+
+    # --- Hierarchy management ---
+    # level: titulo=1, capitulo=2, seccion=3, articulo/transitorio_articulo=4
+    LEVEL = {"titulo": 1, "capitulo": 2, "seccion": 3, "transitorios": 1,
+             "articulo": 4, "transitorio_articulo": 4}
+
+    stack: list[tuple[dict, int]] = []  # (node, level)
+    first_structural = False  # True once the first heading is seen
+    buffer = ""
+    in_transitorios = False
+    pending_section = False
+    table_accum: list[str] = []
+
+    # -- inner helpers --
+
+    def _current() -> dict:
+        return stack[-1][0] if stack else root
+
+    def _current_id() -> str:
+        return stack[-1][0]["id"] if stack else ""
+
+    def _pop_to(level: int) -> None:
+        while stack and stack[-1][1] >= level:
+            stack.pop()
+
+    def _push(node_type: str, heading: str, ordinal: str | None,
+              descriptor: str | None = None) -> dict:
+        nonlocal first_structural
+        first_structural = True
+        level = LEVEL.get(node_type, 4)
+        _pop_to(level)
+        parent_id = _current_id()
+        ord_slug = _slugify_ordinal(ordinal) if ordinal else node_type
+        node_id = (f"{parent_id}.{node_type}-{ord_slug}" if parent_id
+                   else f"{node_type}-{ord_slug}")
+        node: dict = {
+            "type": node_type,
+            "id": node_id,
+            "heading": heading,
+            "descriptor": descriptor,
+            "ordinal": ordinal,
+            "content": [],
+            "children": [],
+        }
+        parent = _current()
+        target = parent["children"] if "children" in parent else parent["structure"]
+        target.append(node)
+        stack.append((node, level))
+        return node
+
+    def _target_list() -> list:
+        """Return the list to append content nodes into."""
+        container = _current()
+        if first_structural:
+            return container.get("content", [])
+        return container.get("preamble", container.get("structure", []))
+
+    def _add_text(text: str) -> None:
+        """Classify text and append to current content target."""
+        target = _target_list()
+        # Reform note
+        if _is_reform_note(text):
+            target.append(_parse_reform_note(text))
+            return
+        # Fracción
+        fm = FRACCION_ROMAN_RE.match(text)
+        if fm and _is_roman_numeral(fm.group(1)):
+            target.append({"type": "fraccion", "ordinal": fm.group(1),
+                           "text": text[fm.end():].strip()})
+            return
+        # Inciso
+        if INCISO_RE.match(text):
+            target.append({"type": "inciso", "ordinal": text[0],
+                           "text": text[3:].strip() if len(text) > 3 else ""})
+            return
+        # Paragraph
+        target.append({"type": "paragraph", "text": text})
+
+    def _flush() -> None:
+        nonlocal buffer
+        if not buffer:
+            return
+        text = buffer.strip()
+        buffer = ""
+        if text:
+            _add_text(text)
+
+    def _flush_table() -> None:
+        nonlocal table_accum
+        if not table_accum:
+            return
+        _target_list().append(_parse_table_lines(table_accum))
+        table_accum = []
+
+    # ---- Main processing loop ----
+
+    for line in lines:
+        stripped = line.strip()
+
+        # Blank line
+        if not stripped:
+            if table_accum:
+                _flush_table()
+            if buffer:
+                _flush()
+            pending_section = False
+            continue
+
+        # Blockquotes (table placeholders etc.)
+        if stripped.startswith('>'):
+            if table_accum:
+                _flush_table()
+            _flush()
+            _target_list().append({"type": "paragraph", "text": stripped})
+            pending_section = False
+            continue
+
+        # Table rows — accumulate
+        if stripped.startswith('|'):
+            _flush()
+            table_accum.append(stripped)
+            pending_section = False
+            continue
+        elif table_accum:
+            _flush_table()
+
+        # Pending descriptive section name (follows a section heading)
+        if pending_section:
+            pending_section = False
+            if _is_descriptive_name(stripped):
+                _current()["descriptor"] = stripped
+                continue
+
+        # Reform notes — detect early to avoid merging with next paragraph
+        if _is_reform_note(stripped):
+            _flush()
+            _target_list().append(_parse_reform_note(stripped))
+            continue
+
+        # Transitorios heading
+        tm = TRANSITORIO_HEADING_RE.match(stripped)
+        if tm:
+            _flush()
+            _push("transitorios", tm.group(1), None)
+            in_transitorios = True
+            rest = stripped[tm.end():].strip()
+            if rest:
+                stripped = rest
+            else:
+                continue
+
+        # ARTÍCULO + ORDINAL (decree articles)
+        am = ARTICLE_ORDINAL_RE.match(stripped)
+        if am:
+            if buffer and _ARTICLE_REF_TRAILING_RE.search(buffer.rstrip()):
+                buffer = (buffer + " " + stripped).strip()
+                continue
+            _flush()
+            heading = am.group(1).strip().rstrip('.')
+            body = am.group(2).strip().lstrip('.-').strip() if am.group(2) else None
+            ntype = "transitorio_articulo" if in_transitorios else "articulo"
+            _push(ntype, heading, heading)
+            if body:
+                buffer = body
+            continue
+
+        # Artículo numérico
+        if is_article_heading(stripped):
+            if buffer and _ARTICLE_REF_TRAILING_RE.search(buffer.rstrip()):
+                buffer = (buffer + " " + stripped).strip()
+                continue
+            _flush()
+            heading, body = split_article_heading(stripped)
+            ordinal_m = re.match(r'^Artículo\s+(.+)', heading)
+            ordinal = ordinal_m.group(1).strip() if ordinal_m else heading
+            _push("articulo", heading, ordinal)
+            in_transitorios = False
+            if body:
+                buffer = body
+            continue
+
+        # TÍTULO / CAPÍTULO / SECCIÓN
+        sm = _match_section_heading(stripped)
+        if sm:
+            _flush()
+            heading_text = sm.group(1).strip()
+            rest = sm.group(2).strip()
+            descriptor = rest if rest else None
+            ht_upper = heading_text.upper()
+            if 'TÍTULO' in ht_upper or 'TITULO' in ht_upper:
+                sec_type = "titulo"
+            elif 'CAPÍTULO' in ht_upper or 'CAPITULO' in ht_upper:
+                sec_type = "capitulo"
+            else:
+                sec_type = "seccion"
+            parts = heading_text.split(None, 1)
+            ordinal = parts[1].strip() if len(parts) > 1 else ""
+            _push(sec_type, heading_text, ordinal, descriptor)
+            pending_section = descriptor is None
+            continue
+
+        # Transitorio ordinals
+        if in_transitorios:
+            om = TRANSITORIO_ORDINAL_RE.match(stripped)
+            if om:
+                _flush()
+                ordinal = om.group(1).strip().rstrip('.')
+                rest = om.group(2).strip().lstrip('.-').strip()
+                _push("transitorio_articulo", ordinal, ordinal)
+                if rest:
+                    buffer = rest
+                continue
+
+        # Fracciones romanas → new paragraph
+        rm = FRACCION_ROMAN_RE.match(stripped)
+        if rm and _is_roman_numeral(rm.group(1)):
+            _flush()
+            buffer = stripped
+            continue
+
+        # Incisos → new paragraph
+        if INCISO_RE.match(stripped):
+            _flush()
+            buffer = stripped
+            continue
+
+        # Line joining (same rules as build_markdown)
+        if buffer.endswith('-'):
+            buffer = buffer[:-1] + stripped
+        elif buffer and buffer[-1] in '.;:' and stripped[0].isupper():
+            _flush()
+            buffer = stripped
+        else:
+            buffer = (buffer + " " + stripped).strip() if buffer else stripped
+
+    # Final flush
+    if table_accum:
+        _flush_table()
+    _flush()
+
+    return root
+
+
+# ---------------------------------------------------------------------------
 # Formateo Markdown
 # ---------------------------------------------------------------------------
 
@@ -864,6 +1261,12 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Muestra progreso página a página.",
     )
+    parser.add_argument(
+        "--canonical-dir", "-c",
+        type=Path,
+        default=None,
+        help="Directorio para JSON canónico (default: no genera JSON).",
+    )
     return parser.parse_args()
 
 
@@ -904,8 +1307,30 @@ def main() -> None:
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write('\n'.join(md_lines))
 
-    print(f"✅ Listo → {output_path}")
-    print(f"   Líneas totales: {len(md_lines)}")
+    print(f"✅ Markdown → {output_path}")
+    print(f"   Líneas: {len(md_lines)}")
+
+    # --- Generate canonical JSON ---
+    canonical_dir = args.canonical_dir
+    if canonical_dir is None:
+        # Default: canonical/ alongside markdown/
+        canonical_dir = Path(__file__).parent.parent / "canonical"
+
+    catalog_entry = _load_catalog_entry(pdf_path)
+    if not catalog_entry.get("nombre"):
+        catalog_entry["nombre"] = title
+
+    print("Construyendo AST canónico...", flush=True)
+    ast = build_ast(lines, catalog_entry)
+
+    canonical_dir = canonical_dir.resolve()
+    canonical_dir.mkdir(parents=True, exist_ok=True)
+    json_path = canonical_dir / (pdf_path.stem + ".json")
+
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(ast, f, ensure_ascii=False, indent=2)
+
+    print(f"✅ JSON    → {json_path}")
 
 
 if __name__ == "__main__":
