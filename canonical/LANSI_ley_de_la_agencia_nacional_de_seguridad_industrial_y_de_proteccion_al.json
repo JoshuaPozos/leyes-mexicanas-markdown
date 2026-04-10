@@ -1,0 +1,2306 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LANSI_ley_de_la_agencia_nacional_de_seguridad_industrial_y_de_proteccion_al",
+  "abbreviation": "LANSI",
+  "name": "LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+  "catalog_number": "065",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf",
+    "pdf_filename_origen": "LANSI.pdf",
+    "dof_publication": "DOF11/08/2014",
+    "last_reform": "DOF 11/05/2022",
+    "captured_at": "2026-04-09T09:39:07.357676+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "SECTOR HIDROCARBUROS LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS Nueva Ley publicada en el Diario Oficial de la Federación el 11 de agosto de 2014 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA LEY DE LOS ÓRGANOS REGULADORES COORDINADOS EN MATERIA ENERGÉTICA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y, SE EXPIDE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS."
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTÍCULOS PRIMERO Y SEGUNDO. ………."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-tercer",
+      "heading": "ARTÍCULO TERCERO",
+      "descriptor": null,
+      "ordinal": "ARTÍCULO TERCERO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos:"
+        },
+        {
+          "type": "paragraph",
+          "text": "LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-primer",
+      "heading": "TÍTULO PRIMERO",
+      "descriptor": "Disposiciones Generales",
+      "ordinal": "PRIMERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-unic",
+          "heading": "Capítulo Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Naturaleza y Objeto"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-1",
+              "heading": "Artículo 1o",
+              "descriptor": null,
+              "ordinal": "1o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La presente Ley es de orden público e interés general y de aplicación en todo el territorio nacional y zonas en las que la Nación ejerce soberanía o jurisdicción y tiene como objeto crear la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, como un órgano administrativo desconcentrado de la Secretaría de Medio Ambiente y Recursos Naturales, con autonomía técnica y de gestión."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Agencia tiene por objeto la protección de las personas, el medio ambiente y las instalaciones del sector hidrocarburos a través de la regulación y supervisión de:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La Seguridad Industrial y Seguridad Operativa;"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SECTOR HIDROCARBUROS"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Las actividades de desmantelamiento y abandono de instalaciones, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "El control integral de los residuos y emisiones contaminantes."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-2",
+              "heading": "Artículo 2o",
+              "descriptor": null,
+              "ordinal": "2o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La actuación de la Agencia se regirá por los principios de eficacia, eficiencia, honestidad, imparcialidad, objetividad, productividad, profesionalización, transparencia, participación social y rendición de cuentas."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Agencia planeará y conducirá sus actividades con sujeción a lo dispuesto en esta Ley y los instrumentos que se emitan en el marco del sistema nacional de planeación democrática y las políticas que determine el Titular del Ejecutivo Federal para el logro de los objetivos y prioridades del desarrollo nacional, integral y sustentable, así como a los programas que establezcan las Secretarías del ramo en materia de Medio Ambiente y Energía."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En el ejercicio de sus funciones, tomará en consideración criterios de sustentabilidad y de desarrollo bajo en emisiones, así como atenderá lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Desarrollo Forestal Sustentable, la Ley General de Vida Silvestre, la Ley de Bioseguridad de Organismos Genéticamente Modificados y demás ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-3",
+              "heading": "Artículo 3o",
+              "descriptor": null,
+              "ordinal": "3o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Además de las definiciones contempladas en la Ley de Hidrocarburos y en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para los efectos de esta Ley se entenderá, en singular o plural, por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Agencia: Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Contingencia: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de la población, el medio ambiente o las instalaciones industriales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Consecuencia: Resultado real o potencial de un evento no deseado, medido por sus efectos en las personas, instalaciones y el medio ambiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Emergencia: Situación derivada de actividades humanas o fenómenos naturales que al ocurrir, afectan la integridad de la población, el medio ambiente o las instalaciones industriales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Evaluación estratégica: Proceso sistemático de análisis que realiza la Agencia para emitir observaciones y recomendaciones en las materias de Seguridad Industrial, Seguridad Operativa y de protección ambiental en las iniciativas de políticas públicas, planes o programas de gobierno relacionadas con las actividades del Sector Hidrocarburos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Externalidades: Los impactos positivos o negativos que genera la provisión de un bien o servicio y que afectan o que pudieran afectar a una tercera persona o al medio ambiente. Las externalidades ocurren cuando el costo pagado por un bien o servicio es diferente del costo total de los daños y beneficios en términos económicos, sociales, ambientales y a la salud que involucran su producción y consumo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Instalación: El conjunto de estructuras, plantas industriales, equipos, circuitos de tuberías de proceso y servicios auxiliares, así como sistemas instrumentados, dispuestos para un proceso productivo o comercial específicos, incluyendo, entre otros, pozos para la exploración y extracción de hidrocarburos, plataformas, plantas de almacenamiento, refinación y procesamiento de hidrocarburos en tierra y en mar, plantas de compresión y descompresión de SECTOR HIDROCARBUROS hidrocarburos, sistemas de transporte y distribución en cualquier modalidad, así como estaciones de expendio al público;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Regulados: Las empresas productivas del Estado, las personas físicas y morales de los sectores público, social y privado que realicen actividades reguladas y materia de la presente Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Riesgo: Es la probabilidad de ocurrencia de un evento indeseable medido en términos de sus consecuencias en las personas, instalaciones, medio ambiente o la comunidad;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Riesgo crítico: Riesgo que implica un peligro inminente y requiere acción inmediata para reducirse a condiciones aceptables sin limitar el costo de su solución;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Sector Hidrocarburos o Sector: Las actividades siguientes: a. El reconocimiento y exploración superficial, y la exploración y extracción de hidrocarburos; b. El tratamiento, refinación, enajenación, comercialización, transporte y almacenamiento del petróleo; c. El procesamiento, compresión, licuefacción, descompresión y regasificación, así como el transporte, almacenamiento, distribución y expendio al público de gas natural; d. El transporte, almacenamiento, distribución y expendio al público de gas licuado de petróleo; e. El transporte, almacenamiento, distribución y expendio al público de petrolíferos, y f. El transporte por ducto y el almacenamiento, que se encuentre vinculado a ductos de petroquímicos producto del procesamiento del gas natural y de la refinación del petróleo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Secretaría: Secretaría de Medio Ambiente y Recursos Naturales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Seguridad Industrial: Área multidisciplinaria que se encarga de identificar, reducir, evaluar, prevenir, mitigar, controlar y administrar los riesgos en el Sector, mediante un conjunto de normas que incluyen directrices técnicas sobre las instalaciones, y de las actividades relacionadas con aquéllas que tengan riesgos asociados, cuyo principal objetivo es preservar la integridad física de las personas, de las instalaciones, así como la protección al medio ambiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Seguridad Operativa: Área multidisciplinaria que se encarga de los procesos contenidos en las disposiciones y normas técnicas, administrativas y operativas, respecto de la tecnología aplicada, así como del análisis, evaluación, prevención, mitigación y control de los riesgos asociados de proceso, desde la fase de diseño, construcción, arranque y puesta en operación, operación rutinaria, paros normales y de emergencia, mantenimiento preventivo y correctivo."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "También incluye los procedimientos de operación y prácticas seguras, entrenamiento y desempeño, investigación y análisis de incidentes y accidentes, planes de respuesta a emergencias, auditorías, aseguramiento de calidad, pre-arranque, integridad mecánica y administración de cambios, entre otros, en el Sector;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "Sistema de Administración: Conjunto integral de elementos interrelacionados y documentados cuyo propósito es la prevención, control y mejora del desempeño de una SECTOR HIDROCARBUROS instalación o conjunto de ellas, en materia de Seguridad Industrial, Seguridad Operativa y de protección al medio ambiente en el Sector, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "Supervisión: Acto de autoridad mediante el cual la Agencia verifica, inspecciona y, en su caso, comprueba el cumplimiento de las disposiciones legales, reglamentarias y normativas en las materias objeto de esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-4",
+              "heading": "Artículo 4o",
+              "descriptor": null,
+              "ordinal": "4o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- En lo no previsto por la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley de Hidrocarburos, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Desarrollo Forestal Sustentable, la Ley de Bioseguridad de Organismos Genéticamente Modificados, y la Ley Federal de Procedimiento Administrativo."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-segund",
+      "heading": "TÍTULO SEGUNDO",
+      "descriptor": null,
+      "ordinal": "SEGUNDO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Atribuciones de la Agencia y Bases de Coordinación"
+        }
+      ],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": null,
+          "ordinal": "I",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Atribuciones de la Agencia"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-5",
+              "heading": "Artículo 5o",
+              "descriptor": null,
+              "ordinal": "5o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Agencia tendrá las siguientes atribuciones:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Aportar los elementos técnicos sobre Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, a las autoridades competentes, para las políticas energética y ambiental del país, así como para la formulación de los programas sectoriales en esas materias. Para ello, participará con la Secretaría y con la Secretaría de Energía en el desarrollo de la Evaluación Estratégica del Sector;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Participar con los distintos órdenes de gobierno, dependencias y entidades competentes, en el diseño y atención de los planes nacionales e internacionales para prevenir y atender situaciones de emergencia en las actividades del Sector;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Regular, supervisar y sancionar en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, en relación con las actividades del Sector, incluyendo las etapas de desmantelamiento y abandono de las instalaciones, así como de control integral de los residuos y las emisiones a la atmósfera;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Regular a través de lineamientos, directrices, criterios u otras disposiciones administrativas de carácter general necesarias en las materias de su competencia y, en su caso, normas oficiales mexicanas, previa opinión de la Secretaría, en materia de protección al medio ambiente y de la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, en materia de Seguridad Industrial y Seguridad Operativa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Definir las medidas técnicas en el ámbito de su competencia, que deben ser incluidas en los protocolos para hacer frente a emergencias o situaciones de Riesgo Crítico o situaciones que puedan ocasionar un daño grave a las personas o a los bienes y al medio ambiente, cuando la magnitud del evento lo requiera y, en su caso, participar bajo la coordinación de las autoridades competentes para su aplicación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Emitir las bases y criterios para que los Regulados adopten las mejores prácticas de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente que resulten aplicables a las actividades del Sector."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SECTOR HIDROCARBUROS Lo anterior incluirá el control y seguimiento geofísico en la operación cuando ésta lo requiera, las etapas de desmantelamiento y abandono de las instalaciones, la restauración de los sitios impactados por las actividades del Sector, así como el control integral de sus residuos y sus emisiones de contaminantes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Establecer los lineamientos para la conformación y operación de los Sistemas de Administración con que deberán contar los Regulados;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Supervisar y vigilar el cumplimiento por parte de los Regulados de los ordenamientos legales, reglamentarios y demás normativa que resulten aplicables a las materias de su competencia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para ello, podrá realizar y ordenar certificaciones, auditorías y verificaciones, así como llevar a cabo visitas de inspección y supervisión."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Asimismo, en el ejercicio de sus atribuciones, podrá instruir la comparecencia de representantes de los Regulados."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para llevar a cabo la supervisión, la Agencia podrá ordenar visitas de inspección."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En la sustanciación de las visitas, la Agencia aplicará lo dispuesto en la Ley Federal de Procedimiento Administrativo y, en su caso, la Ley Federal sobre Metrología y Normalización;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Autorizar a servidores públicos de la Agencia y acreditar a personas físicas o morales para que lleven a cabo las actividades de supervisión, inspección y verificación, evaluaciones e investigaciones técnicas, así como de certificación y auditorías referidas en la presente Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Instaurar, tramitar y resolver, en los términos de las disposiciones legales y reglamentarias aplicables, los procedimientos administrativos, que correspondan con motivo de sus atribuciones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Imponer medidas de seguridad, de apremio o sanciones que resulten aplicables conforme a la legislación correspondiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Resolver sobre las solicitudes de revocación, modificación y conmutación de multas, en los términos previstos en las disposiciones jurídicas aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Establecer los mecanismos a través de los cuales los Regulados deberán informar sobre los siniestros, accidentes, incidentes, emergencias, fugas y derrames vinculados con las actividades del Sector;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Llevar a cabo investigaciones de causa raíz en caso de incidentes y accidentes operativos, industriales y medioambientales, conforme a los lineamientos que al efecto emita o establecer las bases para que los Regulados lleven a cabo dichas investigaciones, así como la comunicación de riesgos y lecciones aprendidas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "Promover la colaboración entre Regulados con el objetivo de optimizar el uso de recursos para la atención de contingencias, emergencias, prevención y mitigación de riesgos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "Coordinar un programa de certificación en Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, en relación con el cumplimiento de la normatividad y estándares de desempeño, con base en el principio de autogestión y conforme a los requisitos técnicos que para tal efecto establezca;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVII",
+                  "text": "Autorizar los Sistemas de Administración de los Regulados;"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SECTOR HIDROCARBUROS"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVIII",
+                  "text": "Expedir, suspender, revocar o negar las licencias, autorizaciones, permisos y registros en materia ambiental, a que se refiere el artículo 7 de esta Ley, en los términos de las disposiciones normativas aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIX",
+                  "text": "Regular y supervisar, en relación con las materias de su competencia, las actividades de captura, exploración, extracción, transporte e inyección industrial de bióxido de carbono, que se realizan con el fin de mejorar la producción de hidrocarburos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XX",
+                  "text": "Regular y supervisar la producción, transporte, almacenamiento y distribución industrial de biocombustibles, cuando estas actividades estén directamente vinculadas al proceso de mezclado o preparación de gasolinas y/o diésel, en relación con las materias de su competencia, en coordinación, en su caso, con otras autoridades competentes y atendiendo a las disposiciones normativas aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXI",
+                  "text": "Requerir a los Regulados la información y la documentación necesaria para el ejercicio de sus atribuciones, así como la exhibición de dictámenes, reportes técnicos, informes de pruebas, contratos con terceros, estudios, certificados o cualquier otro documento de evaluación de la conformidad;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXII",
+                  "text": "Realizar estudios de valoración económica de las externalidades ambientales y riesgos asociados a las instalaciones, actividades y operación del Sector, con base en una metodología que tome en cuenta las mejores prácticas internacionales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXIII",
+                  "text": "Impulsar un desarrollo regional sustentable y exigir que las actividades relacionadas con el Sector se realicen, entre otras, con apego a la protección, conservación, compensación y restauración de los ecosistemas, flora y fauna silvestres, bienes y servicios ambientales, en coordinación con las unidades administrativas competentes de la Secretaría;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXIV",
+                  "text": "Proporcionar el apoyo técnico que soliciten las dependencias y entidades de la Administración Pública Federal, en el ámbito de su competencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXV",
+                  "text": "Coadyuvar, con las dependencias competentes, al seguimiento de mecanismos, acuerdos y convenios internacionales en materia de su competencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXVI",
+                  "text": "Participar, con las autoridades competentes, en el diseño de los mecanismos de creación, administración, evaluación y rendición de cuentas de los fondos que, en su caso, se constituyan para la atención de Riesgos Críticos y eventos mayores;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXVIII",
+                  "text": "Publicar un informe anual sobre sus actividades;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXIX",
+                  "text": "Contratar servicios de consultorías, asesorías, estudios e investigaciones técnicas, requeridos para sus actividades, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXX",
+                  "text": "Las demás que le confieran esta Ley y otros ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-6",
+              "heading": "Artículo 6o",
+              "descriptor": null,
+              "ordinal": "6o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La regulación que emita la Agencia será publicada en el Diario Oficial de la Federación y deberá comprender, entre otros aspectos, los siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "En materia de Seguridad Industrial y Seguridad Operativa:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SECTOR HIDROCARBUROS"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "La adopción y observancia obligatoria de estándares técnicos nacionales e internacionales;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "La prevención y contención de derrames y fugas de hidrocarburos en las instalaciones y actividades del Sector, así como los procesos de remediación de las afectaciones que en su caso resulten, en coordinación con las unidades administrativas de la Secretaría;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "El requerimiento de garantías o cualquier otro instrumento financiero necesario para que los Regulados cuenten con coberturas financieras contingentes frente a daños o perjuicios que se pudieran generar. Dicha regulación deberá contar con la opinión favorable de la Secretaría de Energía y de la Secretaría de Hacienda y Crédito Público, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "d",
+                  "text": "La integridad física y operativa de las instalaciones; el análisis de riesgo y los planes de atención de contingencias y emergencias, así como su cumplimiento."
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "En materia de protección al medio ambiente:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Las condiciones de protección ambiental de los suelos, flora y fauna silvestres a que se sujetarán las actividades de exploración, extracción, transporte, almacenamiento y distribución de hidrocarburos para evitar o minimizar las alteraciones ambientales que generen esas actividades;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "La caracterización y clasificación de los residuos generados en las actividades del Sector y los criterios generales para la elaboración de los planes de manejo correspondientes, en los que se definan sus etapas, estructura de manejo, jerarquía y responsabilidad compartida de las partes involucradas;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "Las actividades de manejo integral de los residuos peligrosos y de manejo especial generados o provenientes de las actividades del Sector;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "d",
+                  "text": "Las condiciones de protección ambiental para el manejo de materiales peligrosos que se utilicen en las actividades del Sector. Para los efectos de este inciso, se considerarán materiales peligrosos los residuos peligrosos valorizados identificados como subproductos;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "e",
+                  "text": "Las condiciones ambientales para prevenir la contaminación por residuos generados por las actividades del Sector, cuya disposición final pueda provocar salinización e incrementos excesivos de carga orgánica en suelos y cuerpos de agua en los sitios en donde se realicen dichas actividades;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "f",
+                  "text": "El desempeño ambiental que deberá prevalecer en el manejo integral de residuos sólidos urbanos y de manejo especial generados por las actividades del Sector;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "g",
+                  "text": "Las previsiones a que deberá sujetarse la operación de fuentes fijas donde se desarrollen actividades del Sector que emitan contaminantes atmosféricos, en casos de Contingencias o Emergencias ambientales;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "h",
+                  "text": "Las especificaciones y los requisitos del control de emisiones de contaminantes procedentes de las fuentes fijas del Sector para cumplir los niveles máximos permisibles de emisiones por contaminante o por fuente contenidos en las normas oficiales mexicanas que expida la Secretaría;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "i",
+                  "text": "La información técnica específica de los organismos genéticamente modificados que se utilizarán en la bioremediación de sitios contaminados por hidrocarburos, y SECTOR HIDROCARBUROS"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "j",
+                  "text": "Las cantidades mínimas necesarias para considerar como adversos o dañosos el deterioro, la pérdida, el cambio, el menoscabo, la afectación, la modificación y la contaminación al ambiente y a los recursos naturales, que generen las actividades del Sector, para los efectos de la Ley Federal de Responsabilidad Ambiental."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-7",
+              "heading": "Artículo 7o",
+              "descriptor": null,
+              "ordinal": "7o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los actos administrativos a que se refiere la fracción XVIII del artículo 5o., serán los siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Autorizaciones en materia de impacto y riesgo ambiental del Sector Hidrocarburos; de carbonoductos; instalaciones de tratamiento, confinamiento o eliminación de residuos peligrosos; aprovechamientos forestales en selvas tropicales, y especies de difícil regeneración; así como obras y actividades en humedales, manglares, lagunas, ríos, lagos y esteros conectados con el mar, litorales o las zonas federales de las áreas antes mencionadas, en términos del artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y del Reglamento de la materia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Autorización para emitir olores, gases o partículas sólidas o líquidas a la atmósfera por las Instalaciones del Sector Hidrocarburos, en términos del artículo 111 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y del Reglamento de la materia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Autorizaciones en materia de residuos peligrosos en el Sector Hidrocarburos, previstas en el artículo 50, fracciones I a IX, de la Ley General para la Prevención y Gestión Integral de los Residuos y de los reglamentos en la materia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Autorización de las propuestas de remediación de sitios contaminados y la liberación de los mismos al término de la ejecución del programa de remediación correspondiente, en términos de la Ley General para la Prevención y Gestión Integral de los Residuos y de su Reglamento;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Autorizaciones en materia de residuos de manejo especial, en términos de la Ley General para la Prevención y Gestión Integral de los Residuos y de los reglamentos en la materia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Registro de planes de manejo de residuos y programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a la Ley General para la Prevención y Gestión Integral de los Residuos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Autorizaciones de cambio de uso del suelo en terrenos forestales, en términos del artículo 117 de la Ley General de Desarrollo Forestal Sustentable y de su Reglamento, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Permisos para la realización de actividades de liberación al ambiente de organismos genéticamente modificados para bioremediación de sitios contaminados con hidrocarburos, así como establecer y dar seguimiento a las condiciones y medidas a las que se deberán sujetar dichas actividades, conforme a la Ley de Bioseguridad de Organismos Genéticamente Modificados y de su Reglamento."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": null,
+          "ordinal": "II",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Coordinación con otras Autoridades"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-8",
+              "heading": "Artículo 8o",
+              "descriptor": null,
+              "ordinal": "8o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Agencia se coordinará con las dependencias y entidades de la Administración Pública Federal para el ejercicio de sus respectivas atribuciones relacionadas con el Sector."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SECTOR HIDROCARBUROS Para estos efectos, la Agencia también participará en el Consejo de Coordinación del Sector Energético en términos de las reglas de operación de dicho Consejo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-9",
+              "heading": "Artículo 9o",
+              "descriptor": null,
+              "ordinal": "9o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Para la mejor eficiencia y eficacia en el ejercicio de sus atribuciones en materia de protección al medio ambiente en relación con las actividades del Sector, la Agencia establecerá los mecanismos de coordinación que sean necesarios con las unidades administrativas y demás órganos y entidades sectorizadas en la Secretaría."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-10",
+              "heading": "Artículo 10",
+              "descriptor": null,
+              "ordinal": "10",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- En materia de seguridad de las personas, la Agencia y la Secretaría del Trabajo y Previsión Social establecerán mecanismos específicos de coordinación para el ejercicio de sus respectivas atribuciones de regulación y supervisión en el Sector."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-11",
+              "heading": "Artículo 11",
+              "descriptor": null,
+              "ordinal": "11",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Agencia informará a la Secretaría de Energía, a la Secretaría de Hacienda y Crédito Público y a la Comisión Nacional de Hidrocarburos y a la Comisión Reguladora de Energía, sobre cualquier medida o resolución que implique afectación a la producción de hidrocarburos, de sus derivados, así como al transporte, almacenamiento, distribución de los mismos, de conformidad con lo dispuesto en la Ley de Hidrocarburos."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Agencia informará a la Secretaría de Salud sobre cualquier actividad del Sector que represente un riesgo potencial a la salud pública."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Agencia está obligada a denunciar ante la Fiscalía General de la República cualquier hecho que pudiera constituir un delito contra el ambiente en las actividades del Sector."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 20-05-2021",
+                  "action": "reformado",
+                  "dof_date": "20-05-2021"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-iii",
+          "heading": "Capítulo III",
+          "descriptor": null,
+          "ordinal": "III",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sistema de Administración de Seguridad Industrial, Seguridad Operativa y Protección al Medio Ambiente"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-12",
+              "heading": "Artículo 12",
+              "descriptor": null,
+              "ordinal": "12",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Agencia establecerá las normas de carácter general para que los Regulados implementen Sistemas de Administración en las actividades que lleven a cabo."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los Sistemas de Administración a los que alude el párrafo anterior deberán prever los estándares, funciones, responsabilidades y encargados de la Seguridad Industrial, Seguridad Operativa y protección al medio ambiente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-13",
+              "heading": "Artículo 13",
+              "descriptor": null,
+              "ordinal": "13",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los Sistemas de Administración deben considerar todo el ciclo de vida de las instalaciones, incluyendo su abandono y desmantelamiento, de conformidad con lo que prevean las reglas de carácter general correspondientes y considerar como mínimo lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La política de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "La evaluación de la integridad física y operativa de las instalaciones mediante procedimientos, instrumentos y metodologías reconocidos en el Sector Hidrocarburos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "La identificación de riesgos, análisis, evaluación, medidas de prevención, monitoreo, mitigación y valuación de incidentes, accidentes, pérdidas esperadas en los distintos escenarios de riesgos, así como las consecuencias que los riesgos representan a la población, medio ambiente, a las instalaciones y edificaciones comprendidas dentro del perímetro de las instalaciones industriales y en las inmediaciones;"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SECTOR HIDROCARBUROS"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "La identificación e incorporación de las mejores prácticas y estándares a nivel nacional e internacional en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "El establecimiento de objetivos, metas e indicadores para evaluar el desempeño en Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, así como de la implementación del Sistema de Administración;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "La asignación de funciones y responsabilidades para implementar, administrar y mejorar el propio Sistema de Administración;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "El plan general de capacitación y entrenamiento en Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "El control de actividades y procesos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Los mecanismos de comunicación, difusión y consulta, tanto interna como externa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Los mecanismos de control de documentos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Las disposiciones para los contratistas en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Los lineamientos y procedimientos para la prevención de accidentes y atención de emergencias;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Los procedimientos para el registro, investigación y análisis de incidentes y accidentes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Los mecanismos para el monitoreo, verificación y evaluación de la implementación y desempeño del propio Sistema de Administración;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "Los procedimientos para la ejecución de auditorías internas y externas, así como para el seguimiento de atención a incumplimientos detectados;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "Los aspectos legales y normativos internos y externos de las actividades de los Regulados en materia de Seguridad Industrial, Seguridad Operativa y de protección al medio ambiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVII",
+                  "text": "La revisión de los resultados de la verificación, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVIII",
+                  "text": "El informe periódico del desempeño en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-14",
+              "heading": "Artículo 14",
+              "descriptor": null,
+              "ordinal": "14",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los Regulados deberán establecer en los contratos, o en cualquier otro acuerdo de voluntades que celebren, la obligación de sus contratistas de apegarse a un Sistema de Administración que cumpla con los requisitos establecidos por la Agencia, en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, cuando la ejecución de los mismos implique riesgos para la población, medio ambiente o las instalaciones."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-15",
+              "heading": "Artículo 15",
+              "descriptor": null,
+              "ordinal": "15",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Agencia elaborará un informe anual de desempeño de los Sistemas de Administración del Sector, con el objeto de actualizar la normatividad en la materia de su competencia, conforme a las mejores prácticas y estándares internacionales."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SECTOR HIDROCARBUROS"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-16",
+              "heading": "Artículo 16",
+              "descriptor": null,
+              "ordinal": "16",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los Regulados deberán contar con un área responsable de la implementación, evaluación y mejora del Sistema de Administración."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-17",
+              "heading": "Artículo 17",
+              "descriptor": null,
+              "ordinal": "17",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El área a que se refiere el artículo anterior será responsable de:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Fungir como representante técnico de los Regulados ante la Agencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Proponer la adopción de medidas para aplicar las mejores prácticas internacionales en la realización de actividades del Sector;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Dar aviso a la Agencia de cualquier Riesgo o Riesgo Crítico que pueda comprometer la Seguridad Industrial, la Seguridad Operativa o el medio ambiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Coordinar los trabajos internos para subsanar las irregularidades o incumplimientos de la normatividad externa e interna aplicable;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Presentar anualmente a la Agencia un informe del cumplimiento de las obligaciones a su cargo, en la forma y términos que ella misma establezca mediante reglas de carácter general, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Las demás que le establezca la regulación que al efecto emita la Agencia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las áreas responsables a que se refiere el artículo anterior ejercerán sus funciones sin perjuicio de las que correspondan a los auditores externos que, en su caso, contrate el Regulado."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-18",
+              "heading": "Artículo 18",
+              "descriptor": null,
+              "ordinal": "18",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los Regulados podrán acreditar mediante el dictamen de auditores externos certificados por la Agencia el cumplimiento de las obligaciones derivadas de las licencias, permisos, registros y autorizaciones, así como de las establecidas en el Sistema de Administración a que se refiere esta Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Lo anterior, sin perjuicio de las facultades de supervisión e inspección que directamente puede llevar a cabo la Agencia a los Regulados."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-19",
+              "heading": "Artículo 19",
+              "descriptor": null,
+              "ordinal": "19",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Agencia establecerá, mediante reglas de carácter general, las características y requisitos que deberán cumplir las personas interesadas en obtener la certificación como auditores externos del Sector Hidrocarburos, el procedimiento para llevar a cabo dicha certificación y las causas, requisitos y procedimientos aplicables para la anulación, revocación o cancelación de dichas certificaciones."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Además, los citados auditores externos, la persona moral de la cual sean socios y los socios o personas que formen parte del equipo de auditoría, no deberán ubicarse en ninguno de los supuestos de falta de independencia que se establezcan en las reglas de carácter general, las que considerarán entre otros aspectos, vínculos financieros o de dependencia económica, y prestación de servicios adicionales al de auditoría."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En cualquier caso, el plazo durante el cual los auditores externos podrán prestar los servicios de auditoría externa a un mismo Regulado no podrá exceder de tres años."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-20",
+              "heading": "Artículo 20",
+              "descriptor": null,
+              "ordinal": "20",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Sin perjuicio de sus facultades para supervisar directamente a los Regulados, la Agencia contará con facultades de supervisión y verificación, así como de revisión de escritorio o gabinete, respecto de los auditores externos, a fin de verificar el cumplimiento de esta Ley y la observancia de las reglas de carácter general que de ella emanen."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para tal efecto, la Agencia podrá emitir o reconocer normas y procedimientos de auditoría que deberán observar los auditores externos al dictaminar o emitir opiniones relativas a las actividades de los Regulados."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SECTOR HIDROCARBUROS"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-21",
+              "heading": "Artículo 21",
+              "descriptor": null,
+              "ordinal": "21",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El auditor externo estará obligado a conservar la documentación, información y demás elementos utilizados para elaborar su dictamen, informe u opinión, por lo menos, durante un plazo de diez años. Para tales efectos, se podrán utilizar medios automatizados o digitalizados."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-iv",
+          "heading": "Capítulo IV",
+          "descriptor": null,
+          "ordinal": "IV",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Medidas de Seguridad"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iv.articulo-22",
+              "heading": "Artículo 22",
+              "descriptor": null,
+              "ordinal": "22",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Cuando alguna obra o instalación represente un Riesgo Crítico en materia de Seguridad Industrial, Seguridad Operativa o de protección al medio ambiente, la Agencia podrá ordenar cualquiera de las siguientes medidas de seguridad:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Suspender trabajos relacionados con la construcción de obras e instalaciones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Clausurar temporal, total o parcialmente las obras, instalaciones o sistemas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Ordenar la suspensión temporal del suministro o del servicio;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Asegurar substancias, materiales, equipos, accesorios, ductos, instalaciones, sistemas o vehículos de cualquier especie, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Inutilizar sustancias, materiales, equipos o accesorios."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al ejercer cualquiera de las medidas de seguridad previstas en el presente artículo, la Agencia deberá, de inmediato, dar aviso a la autoridad que hubiera emitido los permisos o autorizaciones respectivas, para los efectos conducentes."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iv.articulo-23",
+              "heading": "Artículo 23",
+              "descriptor": null,
+              "ordinal": "23",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los Regulados que sean declarados responsables de los accidentes, daños y perjuicios ocasionados con motivo o en ejercicio de las actividades y trabajos que ejecuten, deberán pagar la remediación, las sanciones e indemnizaciones correspondientes de acuerdo con lo que las leyes determinen. Esta responsabilidad subsistirá aún en el caso de que el operador contrate el trabajo por medio de un intermediario."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iv.articulo-24",
+              "heading": "Artículo 24",
+              "descriptor": null,
+              "ordinal": "24",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Contra los actos de la Agencia podrá interponerse opcionalmente el recurso de revisión, conforme a la Ley Federal de Procedimiento Administrativo, o el juicio de nulidad conforme a la Ley Federal del Procedimiento Contencioso Administrativo."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-v",
+          "heading": "Capítulo V",
+          "descriptor": null,
+          "ordinal": "V",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Infracciones y Sanciones"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-v.articulo-25",
+              "heading": "Artículo 25",
+              "descriptor": null,
+              "ordinal": "25",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Agencia podrá sancionar las conductas que se describen a continuación, de acuerdo a lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La restricción de acceso a instalaciones relacionadas con actividades del Sector, a los inspectores y verificadores, con multas de entre setenta y cinco mil a doscientas veinticinco mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "El incumplimiento o entorpecimiento de la obligación de informar o reportar, conforme a las disposiciones jurídicas aplicables, cualquier situación relacionada con esta Ley, sus disposiciones reglamentarias o las reglas de carácter general que emita la Agencia, con multas SECTOR HIDROCARBUROS de entre siete mil quinientas a ciento cincuenta mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La sanción a que se refiere el párrafo anterior también será aplicable a los terceros que operen por cuenta y orden de los Asignatarios o Contratistas que incumplan o entorpezcan la obligación de informar o reportar a las autoridades que correspondan conforme a lo establecido en las disposiciones aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Proporcionar información falsa, alterada o simular registros relacionados con las materias competencia de esta Ley, en contravención de las disposiciones jurídicas aplicables, con multas de entre tres millones setecientas cincuenta mil a siete millones quinientas mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Las violaciones a esta Ley, a la Ley de Hidrocarburos y a sus disposiciones reglamentarias, así como a la regulación, lineamientos y disposiciones administrativas, que sean competencia de la Agencia, podrán ser sancionadas con multas de entre setecientas cincuenta mil a siete millones quinientas mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En el caso de reincidencia, el monto de la multa podrá ser hasta por el doble del monto originalmente impuesto, así como la clausura definitiva de las instalaciones. Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Agencia podrá suspender o revocar las licencias, autorizaciones, permisos y registros, conforme a los términos previstos en las mismas."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Sin perjuicio de las sanciones económicas aplicables, la Agencia podrá sancionar las violaciones graves o reiteradas a lo establecido en esta Ley y en la Ley de Hidrocarburos, con amonestación, suspensión, remoción o inhabilitación del personal que preste sus servicios a un Asignatario o Contratista."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para la imposición de sanciones por infracciones en materia de protección al medio ambiente, la Agencia estará a lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable y la Ley de Bioseguridad de Organismos Genéticamente Modificados."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-v.articulo-26",
+              "heading": "Artículo 26",
+              "descriptor": null,
+              "ordinal": "26",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Para la imposición de las sanciones por infracciones a esta Ley se tomará en cuenta:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La gravedad de la infracción, considerando principalmente los siguientes criterios: los daños que se hubieran producido a los bienes o a la salud de las personas, o la afectación del medio ambiente o los recursos naturales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Las condiciones económicas del infractor;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "La reincidencia, si la hubiere;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "El carácter intencional o negligente de la acción u omisión constitutiva de la infracción, y SECTOR HIDROCARBUROS"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "El beneficio directamente obtenido por el infractor por los actos relacionados con la imposición de sanciones."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Agencia imponga una sanción, dicha autoridad podrá considerar tal situación como atenuante de la infracción cometida."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-tercer",
+      "heading": "TÍTULO TERCERO",
+      "descriptor": null,
+      "ordinal": "TERCERO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Integración y Funcionamiento de la Agencia"
+        }
+      ],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": "Disposiciones Generales",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-27",
+              "heading": "Artículo 27",
+              "descriptor": null,
+              "ordinal": "27",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Agencia estará a cargo de la persona Titular de la Dirección Ejecutiva, quien será designada y removida libremente por el Ejecutivo Federal."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 11-05-2022",
+                  "action": "reformado",
+                  "dof_date": "11-05-2022"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Agencia contará con las unidades administrativas necesarias para el cumplimiento de sus atribuciones, conforme se establezca en su Reglamento Interior."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-28",
+              "heading": "Artículo 28",
+              "descriptor": null,
+              "ordinal": "28",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los servidores públicos de la Agencia sujetarán sus actividades a un código de conducta que será público, el cual establecerá como mínimo:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Las reglas para llevar a cabo reuniones con los Regulados y los mecanismos para hacerlas públicas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Las reglas para participar en eventos académicos o de difusión, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "La prohibición de aceptar obsequios de cualquier tipo, servicios, financiamiento o aportaciones económicas o en especie, así como otras consideraciones de valor."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-29",
+              "heading": "Artículo 29",
+              "descriptor": null,
+              "ordinal": "29",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los servidores públicos de la Agencia que se especifiquen en el Reglamento Interior, podrán tratar asuntos de su competencia con personas que representen los intereses de los Regulados únicamente mediante audiencia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "De cada audiencia se llevará un registro que deberá contener, al menos, el lugar, la fecha, la hora de inicio y la hora de conclusión de la audiencia, los nombres completos de las personas que estuvieron presentes y los temas tratados. Esta información deberá publicarse en la página de internet de la Agencia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las audiencias serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología, manteniéndose la información reservada, salvo para la Secretaría, el Director Ejecutivo de la Agencia y los órganos de fiscalización de la Federación."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Lo dispuesto en el presente artículo será sin perjuicio de la participación de los servidores públicos en foros y eventos públicos."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Director Ejecutivo de la Agencia, mediante acuerdo administrativo interno, emitirá los lineamientos que regulen el desarrollo de las audiencias previstas en el presente artículo."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": "Del Director Ejecutivo",
+          "ordinal": "II",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "SECTOR HIDROCARBUROS"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-30",
+              "heading": "Artículo 30",
+              "descriptor": null,
+              "ordinal": "30",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Director Ejecutivo deberá reunir los siguientes requisitos:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Ser ciudadano mexicano;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Poseer título profesional en cualquiera de las ingenierías, ciencias físico-matemáticas, biológicas, químicas, de las ciencias sociales y administrativas, que se vinculen con las actividades del Sector Hidrocarburos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Haber desempeñado cargos de alta responsabilidad, cuando menos cinco años, en actividades profesionales en el sector público o privado, sustancialmente relacionadas con las materias objeto de la Agencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "No haber sido Secretario o Subsecretario de Estado, Procurador o Fiscal General de la República, senador, diputado federal o local, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, durante el año previo a su nombramiento;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 20-05-2021",
+                  "action": "reformado",
+                  "dof_date": "20-05-2021"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "No haber sido accionista, consejero, directivo, comisario o apoderado de empresas del Sector Hidrocarburos, asociadas o comercialmente relacionadas con Regulados, dentro del año inmediato anterior a su designación o tener parentesco consanguíneo en línea recta hasta el segundo grado con dichos accionistas, consejeros, directivos, comisarios o apoderados, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "No haber sido sentenciado por delito doloso que haya ameritado pena privativa de la libertad por más de un año."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Director Ejecutivo no podrá desempeñar durante el periodo de su encargo ninguna otra comisión o empleo particular o dentro de la administración pública, a excepción de cargos o empleos de carácter docente y los honoríficos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-31",
+              "heading": "Artículo 31",
+              "descriptor": null,
+              "ordinal": "31",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Son facultades del Director Ejecutivo:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Administrar y representar legalmente a la Agencia, con la suma de facultades generales y especiales, incluyendo facultades para actos de administración y de dominio que, en su caso, requiera conforme a la legislación aplicable;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Dirigir las actividades de la Agencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Nombrar y remover libremente a los servidores públicos de la Agencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Expedir las reglas y disposiciones de carácter general en materia de Seguridad Industrial y Seguridad Operativa, así como las normas oficiales mexicanas en materia de protección ambiental, que sean competencia de la Agencia conforme a la presente Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Formular el anteproyecto de presupuesto anual y presentarlo ante la Secretaría para su entrega a la Secretaría de Hacienda y Crédito Público;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Ejercer o autorizar el ejercicio del presupuesto autorizado a la Agencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Participar en las negociaciones de tratados internacionales que lleve a cabo el Ejecutivo Federal en las materias de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente que tengan vinculación con el Sector, y SECTOR HIDROCARBUROS"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Las demás que sean necesarias para el cumplimiento de sus atribuciones y de la presente Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Director Ejecutivo podrá delegar la representación legal de la Agencia y sus facultades en favor de los servidores públicos previstos en el Reglamento Interior respectivo, mediante acuerdo delegatorio que deberá publicarse en el Diario Oficial de la Federación, con excepción de la prevista en la fracción IV del presente artículo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-32",
+              "heading": "Artículo 32",
+              "descriptor": null,
+              "ordinal": "32",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Agencia contará con un Consejo Técnico, el cual apoyará el desarrollo de sus actividades y servirá como instancia de coordinación entre las dependencias, órganos y entidades de la Administración Pública Federal con atribuciones relacionadas con las materias de esta Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Consejo Técnico estará integrado por los titulares de las secretarías de Medio Ambiente y Recursos Naturales, quien lo presidirá; de Gobernación; de Marina; de Hacienda y Crédito Público; de Energía; de Comunicaciones y Transportes; del Trabajo y Previsión Social; de Salud; de la Comisión Nacional de Hidrocarburos; de la Comisión Reguladora de Energía; de la Comisión Nacional del Agua; de la Comisión Nacional de Áreas Naturales Protegidas y a el Instituto Nacional de Ecología y Cambio Climático. Los miembros titulares podrán nombrar un suplente con nivel mínimo de Director General o su equivalente."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Consejo Técnico podrá invitar a sus sesiones a representantes de las demás dependencias y entidades de la Administración Pública Federal, los cuales podrán intervenir con voz, pero sin voto."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Director Ejecutivo de la Agencia fungirá como Secretario Técnico del Consejo Técnico. Las actas de las sesiones deberán ser aprobadas y firmadas por quienes asistieron a las mismas."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La periodicidad de las sesiones del Consejo Técnico y las formalidades para su convocatoria y desarrollo, se regirán por lo dispuesto en el Reglamento Interior de la Agencia."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-33",
+              "heading": "Artículo 33",
+              "descriptor": null,
+              "ordinal": "33",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Consejo Técnico de la Agencia tendrá las siguientes funciones:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Conocer el programa de trabajo y el informe anual de labores de la Agencia que presente el Director Ejecutivo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Acordar los asuntos que se sometan a su consideración, relacionados con la Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Conocer del ejercicio de los recursos del fideicomiso a que se refiere esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Expedir el código de conducta al que deberá sujetarse el personal de la Agencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Aportar elementos para el diseño y formulación de políticas nacionales, relacionadas con las materias objeto de la presente Ley, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Las demás que se señalen en el Reglamento Interior y las necesarias para el cumplimiento de su objeto."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-34",
+              "heading": "Artículo 34",
+              "descriptor": null,
+              "ordinal": "34",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La persona Titular de la Dirección Ejecutiva se apoyará de un Comité Científico, órgano de consulta, que tendrá como objeto proporcionar elementos técnicos para la toma de decisiones sobre los temas que por su complejidad requieran el sustento de especialistas en la materia de que se trate."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Dicho Comité estará integrado de manera paritaria por cinco vocalías, nombradas por la persona Titular de la Dirección Ejecutiva. Su desempeño será honorífico y tendrán las facultades que se establezcan en el Reglamento Interior."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-05-2022",
+                  "action": "reformado",
+                  "dof_date": "11-05-2022"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SECTOR HIDROCARBUROS"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-35",
+              "heading": "Artículo 35",
+              "descriptor": null,
+              "ordinal": "35",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los servidores públicos de la Agencia podrán contar con un seguro de responsabilidad civil y asistencia legal, el cual no formará parte de las prestaciones que por norma les corresponden."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para tal fin, la Agencia creará anualmente las provisiones presupuestarias correspondientes en su presupuesto de gasto de operación."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-cuart",
+      "heading": "TÍTULO CUARTO",
+      "descriptor": null,
+      "ordinal": "CUARTO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Ingresos y Presupuesto"
+        }
+      ],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-unic",
+          "heading": "Capítulo Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-36",
+              "heading": "Artículo 36",
+              "descriptor": null,
+              "ordinal": "36",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Agencia podrá disponer de los ingresos derivados de los derechos y aprovechamientos que se establezcan por los servicios que correspondan conforme a sus atribuciones para financiar su presupuesto total."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-37",
+              "heading": "Artículo 37",
+              "descriptor": null,
+              "ordinal": "37",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El fideicomiso público al cual se deberán aportar los remanentes de ingresos propios excedentes que obtenga la Agencia, se sujetará a lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Si al finalizar el ejercicio fiscal existiera saldo remanente de ingresos propios excedentes, el Director Ejecutivo de la Agencia instruirá su aportación al fideicomiso público constituido por la Secretaría, en una institución de banca de desarrollo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "La Agencia instruirá al fiduciario la aplicación de los recursos de este fideicomiso a la cobertura de gastos necesarios para cumplir con sus funciones en posteriores ejercicios fiscales, respetando los principios a los que hace referencia el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y estando sujetos a la evaluación y al control de la Auditoría Superior de la Federación y de la Secretaría de la Función Pública;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "No podrán acumular recursos superiores al equivalente de tres veces el presupuesto anual de la Agencia, tomando como referencia el presupuesto aprobado para el último ejercicio fiscal. En caso de que existan recursos adicionales, éstos serán transferidos a la Tesorería de la Federación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Deberá registrarse y renovar anualmente su registro ante la Secretaría de Hacienda y Crédito Público para efectos del seguimiento de los recursos públicos, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "La Agencia deberá incluir en los informes trimestrales y en la Cuenta Pública un reporte del cumplimiento de la misión y fines del fideicomiso, así como de los recursos ejercidos para tal efecto; así como poner esta información a disposición del público en general, a través de su respectiva página de Internet, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Estará sujeto a las obligaciones en materia de transparencia conforme a la ley de la materia."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-38",
+              "heading": "Artículo 38",
+              "descriptor": null,
+              "ordinal": "38",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Cámara de Diputados realizará las acciones necesarias para proveer de recursos presupuestarios a la Agencia, con el fin de que pueda llevar a cabo sus funciones. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales, necesarios para cumplir con sus funciones."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "SECTOR HIDROCARBUROS"
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Director Ejecutivo de la Agencia, será designado por el Titular del Ejecutivo Federal en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para efecto de designar por primera vez al Director Ejecutivo de la Agencia, no será aplicable, por única ocasión, la fracción V del artículo 30 de esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal expedirá el Reglamento Interior de la Agencia dentro de los siguientes ciento ochenta días naturales contados a partir del nombramiento del Director Ejecutivo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía continuarán despachando los asuntos que les competen, con base en las disposiciones legales aplicables, hasta la entrada en vigor del Reglamento Interior de la Agencia."
+            },
+            {
+              "type": "paragraph",
+              "text": "En los asuntos que se encuentren en trámite a la entrada en vigor del Reglamento Interior de la Agencia, la autoridad que los tenga a su cargo decretará una suspensión del procedimiento y los remitirá a la Agencia en un plazo que no exceda de quince días hábiles."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Agencia reanudará los procedimientos correspondientes en un plazo máximo de diez días hábiles posteriores a su recepción."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los recursos de revisión en contra de los actos emitidos por las unidades administrativas de la Secretaría antes de la entrada en vigor de la Agencia, continuarán su trámite y serán resueltos por dicha dependencia del Ejecutivo Federal."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En tanto no entren en vigor las disposiciones administrativas de carácter general y normas oficiales mexicanas que expida la Agencia, continuarán vigentes y serán obligatorias para todos los Regulados, los lineamientos, disposiciones técnicas y administrativas, acuerdos, criterios, así como normas oficiales mexicanas, emitidas por la Secretaría, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, que regulen las actividades objeto de la presente Ley, y que hayan sido publicadas en el Diario Oficial de la Federación o en los portales de internet de dichas dependencias u órganos reguladores."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos, la Comisión Reguladora de Energía y Petróleos Mexicanos deberán instaurar un procedimiento de coordinación con la Agencia, a fin de transmitir toda la información, procedimientos, expedientes, estadística y cualquier otra documentación que tengan en su poder, correspondiente a las atribuciones, competencias y facultades de la Agencia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Cámara de Diputados realizará las previsiones presupuestales necesarias para el efecto de que la Agencia cuente con el presupuesto necesario para iniciar sus funciones."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los recursos humanos, financieros y materiales con que cuenten las unidades administrativas de las dependencias y entidades que estén relacionadas con las funciones que se transfieren o asignan a la Agencia por virtud de este Decreto, se le traspasarán a fin de apoyar el cumplimiento de sus funciones."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los oficiales mayores o equivalentes serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas aquellas disposiciones que contravengan a la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "SECTOR HIDROCARBUROS"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "Noveno",
+          "descriptor": null,
+          "ordinal": "Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las autorizaciones que se hubieren expedido por las autoridades competentes, a la fecha de entrada en vigor de esta Ley, continuarán vigentes en los términos y condiciones en que fueron expedidas."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 31 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "SECTOR HIDROCARBUROS ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-vigesimo-tercer",
+          "heading": "Artículo Vigésimo Tercero",
+          "descriptor": null,
+          "ordinal": "Artículo Vigésimo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el tercer párrafo del artículo 11; y la fracción IV del artículo 30, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley Orgánica de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que SECTOR HIDROCARBUROS pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán."
+            },
+            {
+              "type": "paragraph",
+              "text": "A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición."
+            },
+            {
+              "type": "paragraph",
+              "text": "SECTOR HIDROCARBUROS"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "Noveno",
+          "descriptor": null,
+          "ordinal": "Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decim",
+          "heading": "Décimo",
+          "descriptor": null,
+          "ordinal": "Décimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-primer",
+          "heading": "Décimo Primero",
+          "descriptor": null,
+          "ordinal": "Décimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "Décimo Segundo",
+          "descriptor": null,
+          "ordinal": "Décimo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "tercero",
+          "descriptor": null,
+          "ordinal": "tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "del artículo 88 del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-tercer",
+          "heading": "Décimo Tercero",
+          "descriptor": null,
+          "ordinal": "Décimo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-cuart",
+          "heading": "Décimo Cuarto",
+          "descriptor": null,
+          "ordinal": "Décimo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "SECTOR HIDROCARBUROS Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-quint",
+          "heading": "Décimo Quinto",
+          "descriptor": null,
+          "ordinal": "Décimo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-sext",
+          "heading": "Décimo Sexto",
+          "descriptor": null,
+          "ordinal": "Décimo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quedan derogadas todas las disposiciones que se opongan a este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "SECTOR HIDROCARBUROS DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-septim",
+          "heading": "Artículo Séptimo",
+          "descriptor": null,
+          "ordinal": "Artículo Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 27, primer párrafo, y 34 de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, para quedar como sigue: ……."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables."
+            },
+            {
+              "type": "paragraph",
+              "text": "SECTOR HIDROCARBUROS Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

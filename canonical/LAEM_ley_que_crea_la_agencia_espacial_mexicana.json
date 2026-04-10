@@ -1,0 +1,932 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LAEM_ley_que_crea_la_agencia_espacial_mexicana",
+  "abbreviation": "LAEM",
+  "name": "LEY que crea la Agencia Espacial Mexicana",
+  "catalog_number": "289",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf",
+    "pdf_filename_origen": "LAEM.pdf",
+    "dof_publication": "DOF30/07/2010",
+    "last_reform": "Sin reforma",
+    "captured_at": "2026-04-09T09:39:01.798814+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 30 de julio de 2010 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA  ."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "ARTÍCULO ÚNICO",
+      "descriptor": null,
+      "ordinal": "ARTÍCULO ÚNICO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley que crea la Agencia Espacial Mexicana."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "CAPÍTULO I",
+      "descriptor": "Disposiciones Generales",
+      "ordinal": "I",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-1",
+          "heading": "Artículo 1",
+          "descriptor": null,
+          "ordinal": "1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Se crea la Agencia Espacial Mexicana como organismo público descentralizado, con personalidad jurídica y patrimonio propio y con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines."
+            },
+            {
+              "type": "paragraph",
+              "text": "El organismo formará parte del sector coordinado por la Secretaría de Comunicaciones y Transportes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Su domicilio legal será la Ciudad de México, Distrito Federal, sin perjuicio de establecer oficinas y domicilios convencionales en cualquier parte del país."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-2",
+          "heading": "Artículo 2",
+          "descriptor": null,
+          "ordinal": "2",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Agencia Espacial Mexicana tendrá por objeto:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Formular y proponer al titular de la Secretaría de Comunicaciones y Transportes las líneas generales de la Política Espacial de México, así como el Programa Nacional de Actividades Espaciales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Ejecutar la Política Espacial de México, a través de la elaboración y aplicación del Programa Nacional de Actividades Espaciales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Promover el efectivo desarrollo de actividades espaciales para ampliar las capacidades del país en las ramas educativa, industrial, científica y tecnológica en materia espacial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Desarrollar la capacidad científico-tecnológica del país a través de la articulación de los sectores involucrados en todos los campos de la actividad espacial que hagan posible su actuación en un marco de autonomía nacional en la materia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Promover el desarrollo de los sistemas espaciales y los medios, tecnología e infraestructura necesarios para la consolidación y autonomía de este sector en México;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Facilitar la incorporación de los sectores relacionados a esta política y particularmente la participación del sector productivo, a fin de que éste adquiera competitividad en los mercados de bienes y servicios espaciales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Promover una activa cooperación internacional mediante acuerdos que beneficien a las actividades espaciales y que permitan la integración activa de México a la Comunidad Espacial Internacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Servir como instrumento de la rectoría del Estado en este sector, a fin de fortalecer la soberanía;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Velar por el interés y seguridad nacionales, mediante una estrategia que integre conocimiento científico y tecnológico, eficiencia, experiencia y capacidad de coordinación entre las entidades públicas de la Administración Pública Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Garantizar y preservar el interés público y la protección de la población, como fundamentos del desarrollo, seguridad, paz y prevención de problemas de seguridad nacional en México, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Recibir de las entidades públicas, privadas y sociales, propuestas y observaciones en el área espacial para su estudio y consideración."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-3",
+          "heading": "Artículo 3",
+          "descriptor": null,
+          "ordinal": "3",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Son instrumentos de la Política Espacial de México:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La selección de alternativas tecnológicas para la solución de problemas nacionales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "El desarrollo de soluciones propias para problemas específicos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "La utilización de información y tecnología generada en las áreas espaciales y relacionadas, que sean de interés y para el beneficio de la sociedad mexicana;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Negociaciones, acuerdos y tratados internacionales en materias relacionadas con las actividades espaciales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Las investigaciones en materia espacial y la formación de recursos humanos de alto nivel, así como la infraestructura necesaria para dicho fin;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "El reconocimiento de la importancia que para la economía, la educación, la cultura y la vida social, tiene el desarrollo, apropiación y utilización de los conocimientos científicos y desarrollos tecnológicos asociados a la investigación espacial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "El intercambio académico entre instituciones de investigación científica y tecnológica nacionales y extranjeras;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "El intercambio científico, tecnológico y de colaboración con otras agencias espaciales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "La participación de las empresas mexicanas con la capacidad tecnológica necesaria para proveer de equipos, materiales, insumos y servicios que requieran proyectos propios o de agencias con las que se tengan protocolos de intercambio y colaboración, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "La adecuación del sector productivo nacional para participar y adquirir competitividad en los mercados de bienes y servicios espaciales."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-4",
+          "heading": "Artículo 4",
+          "descriptor": null,
+          "ordinal": "4",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para el cumplimiento de su objeto, la Agencia tendrá las siguientes funciones:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Impulsar estudios y desarrollo de investigaciones científicas y tecnológicas en la materia y en las áreas prioritarias de atención definidas en el Programa Nacional de Actividades Espaciales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Establecer y desarrollar actividades de vinculación con instituciones nacionales de carácter académico, tecnológico y profesional dedicadas a estudios de especialidades relacionadas con la materia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Promover el desarrollo de actividades espaciales para ampliar las capacidades del país, tanto en esta materia como en lo que a la industria aeronáutica, las telecomunicaciones y todas sus aplicaciones relacionadas con la ciencia y la tecnología espacial corresponde;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Apoyar la adecuación de los sectores relacionados con la política espacial, particularmente el productivo, para que se incorporen y participen competitivamente en los mercados de bienes y servicios espaciales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Promover la formación, el acercamiento y la colaboración entre instituciones, organismos públicos y privados nacionales, extranjeros o internacionales, que realicen actividades en materia espacial, así como el desarrollo de los sistemas espaciales y los medios, tecnología, infraestructura y formación de los recursos humanos necesarios para la consolidación y autonomía de este sector en México;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Promover la firma de tratados internacionales de carácter bilateral y multilateral, y asesorar al Gobierno Federal en la implementación de los mismos, así como en la interpretación de textos internacionales relativos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Diseñar estrategias e instrumentos para el desarrollo del conocimiento, difusión y aplicación de las ciencias y tecnologías asociadas a la investigación espacial, en coordinación con dependencias de los tres órdenes de gobierno, así como con las instancias de la iniciativa privada y organizaciones de la sociedad civil interesadas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Definir y promover programas, proyectos y acciones para fortalecer conocimiento y el desarrollo de la investigación espacial, su influencia en la vida cotidiana y sus potencialidades como factor de desarrollo económico;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Impulsar investigaciones a través de las instituciones de investigación básica y aplicada y/o empresas especializadas, así como la difusión de sus resultados y aplicaciones;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Realizar investigaciones, trabajos, peritajes y emitir opiniones de carácter técnico, científico y legal sobre la materia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Impulsar la formación de especialistas en materia espacial y sus disciplinas afines, mediante la vinculación de actividades y programas de licenciatura, posgrado, diplomados y cursos de especialización, actualización y capacitación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Formular y realizar proyectos de difusión y educativos en la materia, así como elaborar y promover la producción de materiales de divulgación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Crear y operar un sistema de información y consulta en la materia; llevar el registro nacional de las actividades relativas y promover el desarrollo y la educación espacial formal, así como la divulgación de estudios sobre investigación espacial, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Las demás que se deriven de los ordenamientos jurídicos y administrativos aplicables en la materia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-5",
+          "heading": "Artículo 5",
+          "descriptor": null,
+          "ordinal": "5",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Son atribuciones de la Agencia Espacial Mexicana:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Coordinar el desarrollo de los sistemas de normalización, acreditación y certificación en la materia, en colaboración con las dependencias nacionales y organismos extranjeros e internacionales competentes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Difundir lo dispuesto en la Constitución, esta Ley y los tratados internacionales ratificados por México en la materia, para aprovechar las oportunidades de desarrollo que puedan permitir estos últimos, y expedir a los tres órdenes de gobierno recomendaciones pertinentes para su desarrollo y aprovechamiento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Promover y apoyar la creación y funcionamiento de instancias afines en los estados y municipios, conforme a las leyes aplicables en las entidades federativas y de acuerdo a sus realidades, necesidades y capacidades de participación en proyectos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Formular el Programa Nacional de Actividades Espaciales, gestionar y ejercer el presupuesto necesario para la realización de sus fines, así como procurar fuentes alternas de financiamiento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Asesorar y resolver consultas que le formulen instituciones y dependencias de los diferentes órdenes y ramas de gobierno, sobre los problemas relativos a concesiones, permisos y autorizaciones de uso, desarrollo y aplicaciones tecnológicas en materia espacial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Realizar eventos científicos y tecnológicos en materia espacial, donde participen integrantes de la Agencia y especialistas invitados nacionales y extranjeros;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Proponer la designación de los representantes del país ante las instancias internacionales en materia espacial de las que México sea parte y establecer la postura nacional en materia de su competencia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Realizar y participar en acciones y eventos científicos y tecnológicos en materia espacial, con el fin de incrementar la competencia técnico científica nacional, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Ejecutar todos los demás actos análogos que impliquen la realización de sus atribuciones."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "CAPÍTULO II",
+      "descriptor": null,
+      "ordinal": "II",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Organización y Funcionamiento"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-6",
+          "heading": "Artículo 6",
+          "descriptor": null,
+          "ordinal": "6",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Agencia contará con los siguientes órganos de administración y gobierno:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Junta de Gobierno;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Dirección General;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Órgano de Vigilancia, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Las estructuras técnicas y administrativas que se establezcan en el Estatuto Orgánico."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-7",
+          "heading": "Artículo 7",
+          "descriptor": null,
+          "ordinal": "7",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Junta de Gobierno de la Agencia Espacial Mexicana estará integrada por 15 miembros, que serán:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "El titular de la Secretaría de Comunicaciones y Transportes, quien la presidirá;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Un representante de la Secretaría de Gobernación que deberá tener nivel de subsecretario;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Un representante de la Secretaría de Relaciones Exteriores que deberá tener nivel de subsecretario;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Un representante de la Secretaría de Educación Pública que deberá tener nivel de subsecretario;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Un representante de la Secretaría de Hacienda y Crédito Público que deberá tener nivel de subsecretario;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Un representante de la Secretaría de la Defensa Nacional que deberá tener nivel de subsecretario;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Un representante de la Secretaría de Marina que deberá tener nivel de subsecretario;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "El titular del Consejo Nacional de Ciencia y Tecnología;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "El Rector de la Universidad Nacional Autónoma de México;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "El Director General del Instituto Politécnico Nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "El Presidente de la Academia Mexicana de Ciencias;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "El Presidente de la Academia de Ingeniería;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "El Presidente de la Academia Nacional de Medicina;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Un representante de la Asociación Nacional de Universidades e Instituciones de Educación Superior, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "El titular del Instituto Nacional de Estadística y Geografía."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por cada miembro propietario de la Junta de Gobierno habrá un suplente designado por el titular, quien en su caso deberá tener el nivel de director general o equivalente. El suplente contará con las mismas facultades que los propietarios y podrá asistir, con voz y voto, a las sesiones de la Junta, cuando el propietario respectivo no concurra."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-8",
+          "heading": "Artículo 8",
+          "descriptor": null,
+          "ordinal": "8",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Junta de Gobierno sesionará por lo menos cuatro veces al año y las sesiones que celebre podrán ser ordinarias y extraordinarias."
+            },
+            {
+              "type": "paragraph",
+              "text": "Sesionará válidamente con la asistencia de por lo menos ocho de sus miembros; y sus resoluciones serán válidas cuando sean tomadas por la mayoría de los presentes. Sólo en caso de empate, el presidente de la Junta de Gobierno decidirá con voto de calidad."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Junta de Gobierno tendrá un Secretario Técnico y un Prosecretario, quienes serán los responsables de preparar lo necesario para sus sesiones, integrar las carpetas básicas y dar seguimiento a los acuerdos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-9",
+          "heading": "Artículo 9",
+          "descriptor": null,
+          "ordinal": "9",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Junta de Gobierno tendrá las siguientes facultades indelegables:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Formular y proponer al titular de la Secretaría de Comunicaciones y Transportes las líneas generales de la política espacial de México y, así como el Programa Nacional de Actividades Espaciales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Definir prioridades, conocer y aprobar programas y proyectos de la Agencia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Aprobar recomendaciones, orientaciones y acuerdos de política y acciones en materia espacial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Proponer y aprobar acciones que aseguren el cumplimiento de tratados, convenciones y acuerdos internacionales signados y ratificados por México en la materia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Aprobar políticas en materia de evaluación, seguimiento, promoción y orientación de los programas de la Agencia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Conocer y en su caso aprobar los informes del Director General;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Autorizar los programas y el proyecto de presupuesto de la Agencia, así como las modificaciones en su ejercicio;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Conocer y en su caso aprobar los estados financieros de la Agencia y autorizar su publicación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Aprobar acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos relacionados con la materia, instituciones académicas, de investigación y asociaciones;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Fijar bases y mecanismos de coordinación, participación y colaboración con autoridades e instituciones, particulares y grupos sociales e instituciones autónomas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Fijar criterios y bases para crear o ampliar instancias locales afines asociadas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Analizar y en su caso aprobar el Reglamento, Estatuto Orgánico, Manual de Organización, Manual de Procedimientos y Manual de Servicios de la Agencia, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Las demás que le señalen la presente Ley y otros ordenamientos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Director General de la Agencia será nombrado y removido por el titular del Ejecutivo Federal. El nombramiento será por un periodo de cuatro años, con posibilidad de un periodo adicional."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para ser Director General deberán cumplirse los siguientes requisitos:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Ser ciudadano mexicano por nacimiento, mayor de 30 años y estar en pleno goce y ejercicio de sus derechos civiles y políticos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Haber desempeñado cargos de alto nivel decisorio y contar con conocimientos y experiencia en materia técnica y espacial por lo menos cinco años, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "No encontrarse comprendido en alguno de los impedimentos que establecen la Ley Federal de las Entidades Paraestatales o la Ley Federal de Responsabilidades de los Servidores Públicos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Son causas de remoción del Director General, aquellas que marca la Ley Federal de Responsabilidades de los Servidores Públicos y el marco legal aplicable."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Director General es el responsable de la conducción, administración y buena marcha de la Agencia, y tendrá las siguientes facultades:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Elaborar el Programa Nacional de Actividades Espaciales y someterlo a la aprobación de la Junta de Gobierno;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Ejercer las más amplias facultades de dominio, administración y pleitos y cobranzas, aun de aquellas que requieran de autorización especial, según otras disposiciones legales o reglamentarias con apego a la Ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Emitir, avalar y negociar títulos de crédito;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Formular querellas y otorgar perdón;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Ejercitar y desistirse de acciones judiciales, inclusive del juicio de amparo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Comprometer asuntos en arbitraje y celebrar transacciones;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Otorgar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Informar a la Junta de Gobierno respecto a sus actividades;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Elaborar el proyecto de Reglamento Interno, Estatuto Orgánico, el Manual de Organización General, los de Procedimientos y de Servicios al Público de la Agencia."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Sustituir y revocar poderes generales o especiales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Dar seguimiento y cumplimiento a los acuerdos de la Junta de Gobierno, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Las demás que le señalen el Estatuto Orgánico, la presente Ley y otros ordenamientos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-13",
+          "heading": "Artículo 13",
+          "descriptor": null,
+          "ordinal": "13",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La vigilancia del organismo estará a cargo del Gobierno Federal, por conducto de un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública; lo anterior, sin perjuicio de sus propios órganos internos de control que sean parte integrante de la estructura del organismo."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Comisario Público asistirá, con voz pero sin voto, a las sesiones de la Junta de Gobierno."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-14",
+          "heading": "Artículo 14",
+          "descriptor": null,
+          "ordinal": "14",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Comisario Público evaluará el desempeño global y por áreas del organismo, su nivel de eficiencia, y el apego a las disposiciones legales, así como el manejo de sus ingresos y egresos, pudiendo solicitar y estando el organismo obligado a proporcionar toda la información que requiera para la realización de sus funciones."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tendrá a su cargo las atribuciones que le confieren los artículos correspondientes de la Ley Federal de las Entidades Paraestatales, así como las del Reglamento Interno de la Agencia y las demás disposiciones legales aplicables."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-15",
+          "heading": "Artículo 15",
+          "descriptor": null,
+          "ordinal": "15",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las relaciones laborales entre la Agencia Espacial Mexicana y sus trabajadores se regirán por lo dispuesto en el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y las demás disposiciones legales y reglamentarias de la misma."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "CAPÍTULO III",
+      "descriptor": "Del Presupuesto y Patrimonio",
+      "ordinal": "III",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-16",
+          "heading": "Artículo 16",
+          "descriptor": null,
+          "ordinal": "16",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Agencia administrará su patrimonio conforme a las disposiciones legales aplicables y a los programas y presupuestos que formule anualmente y que apruebe su Junta de Gobierno."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-17",
+          "heading": "Artículo 17",
+          "descriptor": null,
+          "ordinal": "17",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El patrimonio de la Agencia se integrará con:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Los bienes muebles e inmuebles que se destinen a su servicio;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La cantidad que se le asigne en el Presupuesto de Egresos de la Federación para su funcionamiento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Los ingresos que perciba por los servicios que preste;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Las donaciones y legados que se otorguen a su favor;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Los demás bienes, derechos y recursos que adquiera por cualquier otro título legal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Los ingresos de la Agencia generados por servicios, aportaciones, donaciones o cualquier otro concepto provenientes de sus propias actividades o de instituciones u organismos públicos o privados nacionales o extranjeros, no tendrán que ser concentrados en la Tesorería de la Federación para su reasignación a la Agencia, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Los recursos que ingresen a la Agencia por los conceptos señalados en el apartado anterior, deberán ser aplicados precisamente para los fines, programas y proyectos que sean autorizados por la Junta Directiva."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "Artículo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Junta de Gobierno se instalará en un periodo no mayor a los cuarenta y cinco días naturales siguientes a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-tercer",
+          "heading": "Artículo Tercero",
+          "descriptor": null,
+          "ordinal": "Artículo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Una vez instalada la Junta de Gobierno, ésta organizará y convocará a foros y mesas permanentes de trabajo para que en un plazo no mayor a ciento ochenta días, expertos en materia espacial, tanto nacionales como extranjeros, así como Instituciones de Educación Superior y Centros Públicos de Investigación, discutan y formulen las líneas generales de la Política Espacial de México que será desarrollada por la Agencia Espacial Mexicana."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-cuart",
+          "heading": "Artículo Cuarto",
+          "descriptor": null,
+          "ordinal": "Artículo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Una vez concluidos los foros y mesas permanentes de trabajo, el Presidente de la Junta de Gobierno expedirá la convocatoria para la designación del Director General de la Agencia Espacial Mexicana, quien será nombrado en un periodo no mayor a los treinta días naturales siguientes a partir de la expedición de dicha convocatoria y de acuerdo a lo dispuesto en este Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-quint",
+          "heading": "Artículo Quinto",
+          "descriptor": null,
+          "ordinal": "Artículo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Director General de la Agencia contará con un plazo de noventa días naturales a partir de su nombramiento para elaborar y presentar el Programa Nacional de Actividades Espaciales, el proyecto de Reglamento Interior, así como el proyecto de Estatuto Orgánico que le permitan a la Agencia cumplir sus funciones, los cuales serán aprobados por la Junta de Gobierno en un plazo no mayor a noventa días naturales a partir de su presentación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 20 de abril de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Jaime Arturo Vazquez Aguilar, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de julio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

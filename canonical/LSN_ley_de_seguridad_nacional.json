@@ -1,0 +1,3200 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LSN_ley_de_seguridad_nacional",
+  "abbreviation": "LSN",
+  "name": "LEY de Seguridad Nacional",
+  "catalog_number": "099",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf",
+    "pdf_filename_origen": "LSN.pdf",
+    "dof_publication": "DOF31/01/2005",
+    "last_reform": "DOF 14/11/2025",
+    "captured_at": "2026-04-09T10:40:31.094161+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "Nueva Ley publicada en el Diario Oficial de la Federación el 31 de enero de 2005 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA  ; Y SE REFORMA EL ARTÍCULO 50 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-primer",
+      "heading": "ARTÍCULO PRIMERO",
+      "descriptor": null,
+      "ordinal": "ARTÍCULO PRIMERO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley de Seguridad Nacional, en los siguientes términos:"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-primer",
+      "heading": "TÍTULO PRIMERO",
+      "descriptor": "DISPOSICIONES GENERALES",
+      "ordinal": "PRIMERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-1",
+              "heading": "Artículo 1",
+              "descriptor": null,
+              "ordinal": "1",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Las disposiciones de la presente Ley son de orden público y de observancia general en todo el territorio nacional."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La misma tiene por objeto establecer las bases de integración y acción coordinada de las instituciones y autoridades encargadas de preservar la Seguridad Nacional, en sus respectivos ámbitos de competencia; así como, la forma y los términos en que las autoridades de las entidades federativas y los municipios colaborarán con la Federación en dicha tarea; regular los instrumentos legítimos para fortalecer los controles aplicables a la materia."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-2",
+              "heading": "Artículo 2",
+              "descriptor": null,
+              "ordinal": "2",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Corresponde al Titular del Ejecutivo Federal la determinación de la política en la materia y dictar los lineamientos que permitan articular las acciones de las dependencias que integran el Consejo de Seguridad Nacional."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-3",
+              "heading": "Artículo 3",
+              "descriptor": null,
+              "ordinal": "3",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Para efectos de esta Ley, por Seguridad Nacional se entienden las acciones destinadas de manera inmediata y directa a mantener la integridad, estabilidad y permanencia del Estado Mexicano, que conlleven a:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La protección de la nación mexicana frente a las amenazas y riesgos que enfrente nuestro país;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "La preservación de la soberanía e independencia nacionales y la defensa del territorio;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "El mantenimiento del orden constitucional y el fortalecimiento de las instituciones democráticas de gobierno;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "El mantenimiento de la unidad de las partes integrantes de la Federación señaladas en el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "La defensa legítima del Estado Mexicano respecto de otros Estados o sujetos de derecho internacional, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "La preservación de la democracia, fundada en el desarrollo económico social y político del país y sus habitantes."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-4",
+              "heading": "Artículo 4",
+              "descriptor": null,
+              "ordinal": "4",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Seguridad Nacional se rige por los principios de legalidad, responsabilidad, respeto a los derechos fundamentales de protección a la persona humana y garantías individuales y sociales, confidencialidad, lealtad, transparencia, eficiencia, coordinación y cooperación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-5",
+              "heading": "Artículo 5",
+              "descriptor": null,
+              "ordinal": "5",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Para los efectos de la presente Ley, son amenazas a la Seguridad Nacional:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Actos tendentes a consumar espionaje, sabotaje, terrorismo, rebelión, traición a la patria, genocidio, en contra de los Estados Unidos Mexicanos dentro del territorio nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Actos de interferencia extranjera en los asuntos nacionales que puedan implicar una afectación al Estado Mexicano;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Actos que impidan a las autoridades actuar contra la delincuencia organizada;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Actos tendentes a quebrantar la unidad de las partes integrantes de la Federación, señaladas en el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Actos tendentes a obstaculizar o bloquear operaciones militares o navales contra la delincuencia organizada;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Actos en contra de la seguridad de la aviación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Actos que atenten en contra del personal diplomático;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Todo acto tendente a consumar el tráfico ilegal de materiales nucleares, de armas químicas, biológicas y convencionales de destrucción masiva;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Actos ilícitos en contra de la navegación marítima;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Todo acto de financiamiento de acciones y organizaciones terroristas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Actos tendentes a obstaculizar o bloquear actividades de inteligencia o contrainteligencia;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 08-11-2019",
+                  "action": "reformado",
+                  "dof_date": "08-11-2019"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Actos tendentes a destruir o inhabilitar la infraestructura de carácter estratégico o indispensable para la provisión de bienes o servicios públicos, y"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 08-11-2019",
+                  "action": "reformado",
+                  "dof_date": "08-11-2019"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "[Actos ilícitos en contra del fisco federal a los que hace referencia el artículo 167 del Código Nacional de Procedimientos Penales.]"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción adicionada DOF 08-11-2019",
+                  "action": "adicionado",
+                  "dof_date": "08-11-2019"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-6",
+              "heading": "Artículo 6",
+              "descriptor": null,
+              "ordinal": "6",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Para los efectos de la presente Ley, se entiende por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Consejo: Consejo de Seguridad Nacional."
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Instancias: Instituciones y autoridades que en función de sus atribuciones participen directa o indirectamente en la Seguridad Nacional."
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Red: Red Nacional de Investigación."
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Centro: Centro de Investigación y Seguridad Nacional;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 18-12-2020",
+                  "action": "reformado",
+                  "dof_date": "18-12-2020"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Información gubernamental confidencial: Los datos personales otorgados a una instancia por servidores públicos, así como los datos personales proporcionados al Estado Mexicano para determinar o prevenir una amenaza a la Seguridad Nacional, y"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 18-12-2020",
+                  "action": "reformado",
+                  "dof_date": "18-12-2020"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Agentes Extranjeros: Funcionarios extranjeros que en sus países de origen ejercen funciones policiales, de inspección o de supervisión de las leyes y otras disposiciones de carácter reglamentario o aquéllas de carácter técnico especializado."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción adicionada DOF 18-12-2020",
+                  "action": "adicionado",
+                  "dof_date": "18-12-2020"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-7",
+              "heading": "Artículo 7",
+              "descriptor": null,
+              "ordinal": "7",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- En el Plan Nacional de Desarrollo y en el programa que de él derive, se definirán temas de Seguridad Nacional."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para la elaboración de la Agenda Nacional de Riesgos, se tomará en cuenta tanto el Plan Nacional de Desarrollo como el programa respectivo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-8",
+              "heading": "Artículo 8",
+              "descriptor": null,
+              "ordinal": "8",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- A falta de previsión expresa en la presente Ley, se estará a las siguientes reglas de supletoriedad:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Respecto del apoyo que deban prestar las Instancias se estará a lo dispuesto en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "En lo relativo al régimen disciplinario de los servidores públicos de las dependencias federales que integran el Consejo, se aplicará la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Con referencia al control judicial de la inteligencia para la Seguridad Nacional, será aplicable en lo conducente el Código Nacional de Procedimientos Civiles y Familiares y la Ley Orgánica del Poder Judicial de la Federación;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 14-11-2025",
+                  "action": "reformado",
+                  "dof_date": "14-11-2025"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "En materia de coadyuvancia y de intervención de comunicaciones privadas, será aplicable el"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Por cuanto hace a la información de Seguridad Nacional, se estará a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Para el resto de los aspectos, se aplicarán los principios generales del derecho."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La materia de Seguridad Nacional está excluida de la aplicación supletoria de la Ley Federal de Procedimiento Administrativo."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-segund",
+      "heading": "TÍTULO SEGUNDO",
+      "descriptor": "DE LAS INSTANCIAS ENCARGADAS DE LA SEGURIDAD NACIONAL",
+      "ordinal": "SEGUNDO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-i",
+          "heading": "CAPÍTULO I",
+          "descriptor": "DEL CONSEJO DE SEGURIDAD NACIONAL",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-9",
+              "heading": "Artículo 9",
+              "descriptor": null,
+              "ordinal": "9",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Las instancias de Seguridad Nacional contarán con la estructura, organización y recursos que determinen las disposiciones que les den origen."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las actividades propias de inteligencia para la Seguridad Nacional cuyas características requieran de confidencialidad y reserva para el éxito de las investigaciones serán normadas presupuestalmente de manera específica por las dependencias del Ejecutivo Federal que correspondan, de acuerdo a su competencia."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-10",
+              "heading": "Artículo 10",
+              "descriptor": null,
+              "ordinal": "10",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El personal de las instancias de Seguridad Nacional, acordará previamente a su ingreso con la institución contratante, la guarda de secreto y confidencialidad de la información que conozcan en o con motivo de su función."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-11",
+              "heading": "Artículo 11",
+              "descriptor": null,
+              "ordinal": "11",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los titulares de las instituciones de Seguridad Nacional, deben reunir los requisitos siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Ser mexicano por nacimiento;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Tener por lo menos 30 años cumplidos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Acreditar la capacidad y experiencia para el desempeño de la función;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Ser de reconocida probidad."
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "No estar procesado, ni haber sido condenado por delito doloso."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-12",
+              "heading": "Artículo 12",
+              "descriptor": null,
+              "ordinal": "12",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Para la coordinación de acciones orientadas a preservar la Seguridad Nacional se establece el Consejo de Seguridad Nacional, que estará integrado por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "El Titular del Ejecutivo Federal, quien lo presidirá;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "El Secretario de Gobernación, quien fungirá como Secretario Ejecutivo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "El Secretario de la Defensa Nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "El Secretario de Marina;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "El Secretario de Seguridad Pública;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "El Secretario de Hacienda y Crédito Público;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "El Secretario de la Función Pública;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "El Secretario de Relaciones Exteriores;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "El Secretario de Comunicaciones y Transportes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "El Fiscal General de la República, y"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 20-05-2021",
+                  "action": "reformado",
+                  "dof_date": "20-05-2021"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "El Director General del Centro de Investigación y Seguridad Nacional."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los integrantes del Consejo no podrán nombrar suplente. En caso de ausencia del Presidente, el Secretario Ejecutivo presidirá la reunión."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Consejo contará con un Secretario Técnico, que será nombrado por el Presidente de la República, dependerá directamente de él, contará con un equipo técnico especializado y un presupuesto asignado en el Presupuesto de Egresos de la Federación. Éste no será integrante del Consejo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-13",
+              "heading": "Artículo 13",
+              "descriptor": null,
+              "ordinal": "13",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Consejo de Seguridad Nacional es una instancia deliberativa cuya finalidad es establecer y articular la política en la materia. Por tanto conocerá los asuntos siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La integración y coordinación de los esfuerzos orientados a preservar la Seguridad Nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Los lineamientos que permitan el establecimiento de políticas generales para la Seguridad Nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "El Programa para la Seguridad Nacional y la definición anual de la Agenda Nacional de Riesgos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "La evaluación periódica de los resultados del Programa y el seguimiento de la Agenda Nacional de Riesgos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Los programas de cooperación internacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Las medidas necesarias para la Seguridad Nacional, dentro del marco de atribuciones previsto en la presente Ley y en otros ordenamientos aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Los lineamientos para regular el uso de aparatos útiles en la intervención de comunicaciones privadas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Los lineamientos para que el Centro preste auxilio y colaboración en materia de Seguridad Pública, procuración de justicia y en cualquier otro ramo de la Administración Pública que acuerde el Consejo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Los procesos de clasificación y desclasificación de información en materia de Seguridad Nacional, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Los demás que establezcan otras disposiciones o el Presidente de la República."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-14",
+              "heading": "Artículo 14",
+              "descriptor": null,
+              "ordinal": "14",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Secretario Ejecutivo tendrá la obligación de promover en todo tiempo la efectiva coordinación y funcionamiento del Consejo, y estará facultado para celebrar los convenios y bases de colaboración que acuerde éste."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-15",
+              "heading": "Artículo 15",
+              "descriptor": null,
+              "ordinal": "15",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Secretario Técnico del Consejo tendrá a su cargo las siguientes funciones:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Elaborar y certificar los acuerdos que se tomen en el Consejo, llevando su archivo y el de los instrumentos jurídicos que se generen en el seno del mismo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Realizar las acciones necesarias para la debida ejecución y seguimientos de los acuerdos del Consejo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Proponer al Consejo políticas, lineamientos y acciones en materia de Seguridad Nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Proponer el contenido del Programa para la Seguridad Nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Presentar al Consejo la Agenda Nacional de Riesgos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Elaborar los informes de actividades que ordene el Consejo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Entregar en tiempo a la Comisión Bicamaral la documentación e informes a las que se refiere el artículo 57 de la presente Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Administrar y sistematizar los instrumentos y redes de información que se generen en el seno del Consejo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Promover la ejecución de las acciones conjuntas que se acuerden en el Consejo, de conformidad con las bases y reglas que emita el mismo y con respeto a las atribuciones de las instancias vinculadas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Realizar estudios especializados en materias relacionadas con la Seguridad Nacional por acuerdo del Consejo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Realizar el inventario de la infraestructura estratégica del país;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Solicitar información necesaria a las dependencias federales para seguridad nacional que requiera explícitamente el Consejo, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Las demás que señalen las leyes y reglamentos, o que sean necesarias para cumplir las anteriores."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-16",
+              "heading": "Artículo 16",
+              "descriptor": null,
+              "ordinal": "16",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Consejo se reunirá a convocatoria de su Presidente con la periodicidad que éste determine. En todo caso deberá reunirse, cuando menos, bimestralmente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-17",
+              "heading": "Artículo 17",
+              "descriptor": null,
+              "ordinal": "17",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Las reuniones del Consejo serán de carácter reservado. Para un mejor conocimiento por parte de sus miembros de los asuntos que se sometan a su competencia, podrán asistir a ellas los servidores públicos que determine el Presidente del Consejo."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las actas y documentos que se generen en las sesiones del Consejo son reservados, y su divulgación se considerará como causa de responsabilidad, conforme lo establezcan las leyes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Previa autorización del Presidente del Consejo, también se podrán realizar consultas a expertos, instituciones académicas y de investigación en las materias relacionadas con la Seguridad Nacional."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-ii",
+          "heading": "CAPÍTULO II",
+          "descriptor": "DEL CENTRO DE INVESTIGACIÓN Y SEGURIDAD NACIONAL",
+          "ordinal": "II",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-18",
+              "heading": "Artículo 18",
+              "descriptor": null,
+              "ordinal": "18",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Centro de Investigación y Seguridad Nacional, es un órgano administrativo desconcentrado de la Secretaría de Gobernación, con autonomía, técnica, operativa y de gasto, adscrito directamente al Titular de dicha Secretaría."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-19",
+              "heading": "Artículo 19",
+              "descriptor": null,
+              "ordinal": "19",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Son atribuciones del Centro:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Operar tareas de inteligencia como parte del sistema de seguridad nacional que contribuyan a preservar la integridad, estabilidad y permanencia del Estado Mexicano, a dar sustento a la gobernabilidad y a fortalecer el Estado de Derecho;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Procesar la información que generen sus operaciones, determinar su tendencia, valor, significado e interpretación específica y formular las conclusiones que se deriven de las evaluaciones correspondientes, con el propósito de salvaguardar la seguridad del país;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Preparar estudios de carácter político, económico, social y demás que se relacionen con sus atribuciones, así como aquellos que sean necesarios para alertar sobre los riesgos y amenazas a la Seguridad Nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Elaborar los lineamientos generales del plan estratégico y la Agenda Nacional de Riesgos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Proponer medidas de prevención, disuasión, contención y desactivación de riesgos y amenazas que pretendan vulnerar el territorio, la soberanía, las instituciones nacionales, la gobernabilidad democrática o el Estado de Derecho;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Establecer cooperación interinstitucional con las diversas dependencias de la Administración Pública Federal, autoridades federales, de las entidades federativas y municipales o delegacionales, en estricto apego a sus respectivos ámbitos de competencia con la finalidad de coadyuvar en la preservación de la integridad, estabilidad y permanencia del Estado Mexicano;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Proponer al Consejo el establecimiento de sistemas de cooperación internacional, con el objeto de identificar posibles riesgos y amenazas a la soberanía y seguridad nacionales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Adquirir, administrar y desarrollar tecnología especializada para la investigación y difusión confiable de las comunicaciones del Gobierno Federal en materia de Seguridad Nacional, así como para la protección de esas comunicaciones y de la información que posea;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Operar la tecnología de comunicaciones especializadas, en cumplimiento de las atribuciones que tiene encomendadas o en apoyo de las instancias de gobierno que le solicite el Consejo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Prestar auxilio técnico a cualquiera de las instancias de gobierno representadas en el Consejo, conforme a los acuerdos que se adopten en su seno, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Las demás que le confieran otras disposiciones jurídicas aplicables o le señale, en el ámbito de su competencia, el Consejo o el Secretario Ejecutivo."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-iii",
+          "heading": "CAPÍTULO III",
+          "descriptor": "ESTATUTO DEL PERSONAL DEL CENTRO",
+          "ordinal": "III",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-20",
+              "heading": "Artículo 20",
+              "descriptor": null,
+              "ordinal": "20",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los mecanismos y las reglas para la selección, ingreso, nombramiento, capacitación, promoción y profesionalización del personal del Centro, se regirán por el Estatuto Laboral que al efecto expida el Presidente de la República. En éste se garantizarán los mecanismos de capacitación y promoción para la seguridad laboral, así como los estímulos requeridos para un servicio confiable, profesional y de calidad por parte del personal del Centro."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-21",
+              "heading": "Artículo 21",
+              "descriptor": null,
+              "ordinal": "21",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Todas las funciones que desempeñen los servidores públicos del Centro, serán consideradas de confianza y están obligados a mantener reserva de la información y de los asuntos a los que tengan acceso, por la naturaleza de sus funciones. Sólo podrán rendir testimonio por escrito."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-22",
+              "heading": "Artículo 22",
+              "descriptor": null,
+              "ordinal": "22",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los servidores públicos del Centro estarán sujetos a los mecanismos de control de confiabilidad que determine el Estatuto."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-iv",
+          "heading": "CAPÍTULO IV",
+          "descriptor": "DE LA COORDINACIÓN PARA LA SEGURIDAD NACIONAL",
+          "ordinal": "IV",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iv.articulo-23",
+              "heading": "Artículo 23",
+              "descriptor": null,
+              "ordinal": "23",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- En la aplicación de la presente Ley y las medidas de coordinación que establece, se mantendrá el respeto a las atribuciones de las instancias que participen."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iv.articulo-24",
+              "heading": "Artículo 24",
+              "descriptor": null,
+              "ordinal": "24",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Cuando un hecho concreto que atente en contra de la Seguridad Nacional y constituya a su vez presuntamente un delito, las instancias del Consejo que conozcan del asunto decidirán sobre la oportunidad de la presentación de la denuncia, sin perjuicio de seguir ejerciendo las facultades que tengan en la esfera de su competencia, para prevenir y evitar amenazas, con independencia de las que le correspondan al Ministerio Público."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iv.articulo-25",
+              "heading": "Artículo 25",
+              "descriptor": null,
+              "ordinal": "25",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- En los términos y ámbitos de competencia que para las instancias prevé el Título Sexto de la presente Ley, el Secretario Ejecutivo del Consejo celebrará convenios de colaboración generales y específicos para coordinar las acciones en materia de Seguridad Nacional con autoridades estatales y municipales y otras entidades de la Administración Pública Federal."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En el mismo sentido y para establecer los términos y lineamientos que orienten el ejercicio de las atribuciones que confiere la presente Ley, celebrará Bases de Colaboración con las dependencias de la Administración Pública Federal que resulten competentes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En materia de procuración de justicia, el Centro será auxiliar del Ministerio Público de la Federación y prestará cooperación, apoyo técnico y tecnológico, intercambio de información sobre delincuencia organizada y las demás acciones que se acuerden en el Consejo, observando en todo momento respeto a las formalidades legales, las garantías individuales y los derechos humanos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iv.articulo-26",
+              "heading": "Artículo 26",
+              "descriptor": null,
+              "ordinal": "26",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Con independencia de los mecanismos de coordinación que se establezcan, cuando se investiguen amenazas inminentes y concretas a la Seguridad Nacional las instancias los organismos constitucionalmente autónomos y las instituciones de seguridad de las entidades federativas, proporcionarán de manera inmediata la cooperación e información que se les solicite."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iv.articulo-27",
+              "heading": "Artículo 27",
+              "descriptor": null,
+              "ordinal": "27",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Las instancias establecerán una Red Nacional de Información que sirva como instrumento de apoyo en el proceso de toma de decisiones."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En la formación y operación de la Red, así como en la instrumentación de las políticas, los programas y las acciones relacionadas con la Seguridad Nacional, se integrará al esfuerzo de la Federación, el de las entidades federativas y los municipios, a través del Secretario Ejecutivo del Consejo mediante convenios de colaboración que se celebrarán, conforme a lo establecido por el artículo 14 de la presente Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iv.articulo-28",
+              "heading": "Artículo 28",
+              "descriptor": null,
+              "ordinal": "28",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los integrantes del Consejo, podrán solicitar a los distintos órganos de gobierno y a los organismos constitucionalmente autónomos, la información necesaria para el cumplimiento de las atribuciones que le otorga esta Ley."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-tercer",
+      "heading": "TÍTULO TERCERO",
+      "descriptor": "DE LA INTELIGENCIA PARA LA SEGURIDAD NACIONAL",
+      "ordinal": "TERCERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-i",
+          "heading": "CAPÍTULO I",
+          "descriptor": "DE LA INFORMACIÓN Y LA INTELIGENCIA",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-29",
+              "heading": "Artículo 29",
+              "descriptor": null,
+              "ordinal": "29",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Se entiende por inteligencia el conocimiento obtenido a partir de la recolección, procesamiento, diseminación y explotación de información, para la toma de decisiones en materia de Seguridad Nacional."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-30",
+              "heading": "Artículo 30",
+              "descriptor": null,
+              "ordinal": "30",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La información sólo podrá ser recabada, compilada, procesada y diseminada con fines de Seguridad Nacional por las instancias autorizadas."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-31",
+              "heading": "Artículo 31",
+              "descriptor": null,
+              "ordinal": "31",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Al ejercer atribuciones propias de la producción de inteligencia, las instancias gozarán de autonomía técnica y podrán hacer uso de cualquier método de recolección de información, sin afectar en ningún caso las garantías individuales ni los derechos humanos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-32",
+              "heading": "Artículo 32",
+              "descriptor": null,
+              "ordinal": "32",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Para los efectos de esta Ley se entiende por contrainteligencia a las medidas de protección de las instancias en contra de actos lesivos, así como las acciones orientadas a disuadir o contrarrestar su comisión."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-ii",
+          "heading": "CAPÍTULO II",
+          "descriptor": "DE LAS INTERVENCIONES DE COMUNICACIONES",
+          "ordinal": "II",
+          "content": [],
+          "children": [
+            {
+              "type": "seccion",
+              "id": "titulo-tercer.capitulo-ii.seccion-i",
+              "heading": "SECCIÓN I",
+              "descriptor": "DE LA SOLICITUD",
+              "ordinal": "I",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-i.articulo-33",
+                  "heading": "Artículo 33",
+                  "descriptor": null,
+                  "ordinal": "33",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- En los casos de amenaza inminente a los que se refiere el artículo 5 de esta Ley, el Gobierno Mexicano podrá hacer uso de los recursos que legalmente se encuentren a su alcance, incluyendo la información anónima."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-i.articulo-34",
+                  "heading": "Artículo 34",
+                  "descriptor": null,
+                  "ordinal": "34",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- De conformidad con lo dispuesto por el párrafo noveno del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, el Centro deberá solicitar en los términos y supuestos previstos por la presente Ley, autorización judicial para efectuar intervenciones de comunicaciones privadas en materia de Seguridad Nacional."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Se entiende por intervención de comunicaciones la toma, escucha, monitoreo, grabación o registro, que hace una instancia autorizada, de comunicaciones privadas de cualquier tipo y por cualquier medio, aparato o tecnología."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-i.articulo-35",
+                  "heading": "Artículo 35",
+                  "descriptor": null,
+                  "ordinal": "35",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- La solicitud a que se refiere el artículo anterior sólo procederá cuando se esté en uno de los supuestos que se contemplan en el artículo 5 de la presente Ley. En ningún otro caso podrá autorizarse al Centro la intervención de comunicaciones privadas."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El Poder Judicial de la Federación, de acuerdo con su ley orgánica, determinará los juzgados que deban conocer de las solicitudes que en materia de Seguridad Nacional se presenten para intervenir comunicaciones privadas."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-i.articulo-36",
+                  "heading": "Artículo 36",
+                  "descriptor": null,
+                  "ordinal": "36",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Los procedimientos judiciales que se instauren para autorizar las solicitudes de intervención en materia de Seguridad Nacional no tendrán naturaleza contenciosa y sus constancias procesales carecerán de valor probatorio en procedimientos judiciales o administrativos."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Cuando el Centro coopere en las actividades de procuración de justicia, las intervenciones de comunicaciones privadas en las que se preste auxilio técnico tendrán naturaleza distinta a las reguladas Procedimientos Penales y la Ley Federal contra la Delincuencia Organizada."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-tercer.capitulo-ii.seccion-ii",
+              "heading": "SECCIÓN II",
+              "descriptor": "DEL PROCEDIMIENTO",
+              "ordinal": "II",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-ii.articulo-37",
+                  "heading": "Artículo 37",
+                  "descriptor": null,
+                  "ordinal": "37",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- El procedimiento tiene carácter reservado, por lo que las solicitudes se registrarán en un libro de gobierno especial que se manejará por el personal que para tal efecto designe el juez. No se permitirá el acceso a los expedientes a persona alguna, salvo al secretario del juzgado y a quien se autorice por escrito por parte del Director General del Centro."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-ii.articulo-38",
+                  "heading": "Artículo 38",
+                  "descriptor": null,
+                  "ordinal": "38",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- La solicitud a que se refiere el artículo 34 debe contener:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Una descripción detallada de los hechos y situaciones que representen alguna amenaza para la Seguridad Nacional en los términos del artículo 5 de esta Ley."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Dicha descripción omitirá datos de identificación de personas, lugares o cosas cuya difusión indebida, ponga en riesgo su seguridad o la investigación en curso."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "No obstante lo dispuesto en el párrafo anterior, los datos de identificación omitidos en la solicitud, serán presentados en un sobre cerrado, relacionado con la solicitud que acompaña, el cual será debidamente identificado y señalado por el juez mediante acuerdo reservado que recaiga a la solicitud. El expediente que se forma con este motivo, se manejará en sigilo y se guardará en el secreto del juzgado;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Las consideraciones que motivaran la solicitud, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "El lapso de vigencia de la autorización que se solicita."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-ii.articulo-39",
+                  "heading": "Artículo 39",
+                  "descriptor": null,
+                  "ordinal": "39",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Una vez presentada la solicitud, el juez debe proporcionar acuse de recibo y emitir dentro de las veinticuatro horas contadas a partir de la solicitud, una resolución fundada y motivada en la que puede otorgar o negar la autorización solicitada."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "En caso de negarla, el juez señalará los motivos de su negativa y los requisitos que deben cubrirse para la procedencia de ésta."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "La intervención puede aplicarse a comunicaciones y emisiones privadas, realizadas por cualquier medio de transmisión, conocido o por conocerse, o entre presentes, incluyendo la grabación de imágenes privadas."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-ii.articulo-40",
+                  "heading": "Artículo 40",
+                  "descriptor": null,
+                  "ordinal": "40",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- El juez, al emitir la resolución que autorice la medida solicitada, en todo caso deberá precisar:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Los datos de identificación del expediente en que se actúa;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "El tipo de actividad que autoriza;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "El lapso durante el cual se autoriza la medida;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "En caso necesario, la autorización expresa para instalar o remover cualquier instrumento o medio de intervención, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "V",
+                      "text": "Cualquier apreciación que el juez considere necesaria."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-ii.articulo-41",
+                  "heading": "Artículo 41",
+                  "descriptor": null,
+                  "ordinal": "41",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- El control y la ejecución de las intervenciones en materia de Seguridad Nacional están a cargo del Centro."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El juez podrá requerir informes periódicos respecto de la ejecución de la autorización, los cuales en todo momento deberán ajustarse a las prevenciones del artículo que antecede."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-ii.articulo-42",
+                  "heading": "Artículo 42",
+                  "descriptor": null,
+                  "ordinal": "42",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Los datos que se obtengan de las actividades autorizadas mediante resolución judicial será información reservada que sólo podrá conocer el Director General del Centro, las personas que designe el Consejo y los jueces federales competentes."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-tercer.capitulo-ii.seccion-iii",
+              "heading": "SECCIÓN III",
+              "descriptor": "DE LA VIGENCIA DE LA AUTORIZACIÓN",
+              "ordinal": "III",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-iii.articulo-43",
+                  "heading": "Artículo 43",
+                  "descriptor": null,
+                  "ordinal": "43",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Las intervenciones se autorizarán por un lapso no mayor de ciento ochenta días naturales. Como casos de excepción debidamente justificados, el juez podrá autorizar prórroga a dicho plazo; hasta por un periodo igual al de la autorización original."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-iii.articulo-44",
+                  "heading": "Artículo 44",
+                  "descriptor": null,
+                  "ordinal": "44",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- La solicitud de prórroga se someterá al procedimiento a que se refiere la Sección II del presente Capítulo, y en ella se deberán especificar las consideraciones que justifiquen que la intervención continúa siendo necesaria para investigar una amenaza a la Seguridad Nacional. En la descripción de los hechos que motiven la prórroga se aplicará lo dispuesto en la fracción I del artículo 38 de esta Ley."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-tercer.capitulo-ii.seccion-iv",
+              "heading": "SECCIÓN IV",
+              "descriptor": "DE LAS OBLIGACIONES",
+              "ordinal": "IV",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-iv.articulo-45",
+                  "heading": "Artículo 45",
+                  "descriptor": null,
+                  "ordinal": "45",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- El personal del juzgado referido en el artículo 37 está obligado a mantener secreto del contenido de las solicitudes y resoluciones de autorización, así como aquella información generada por la aplicación de las mismas, de la que llegaren a tener conocimiento."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-iv.articulo-46",
+                  "heading": "Artículo 46",
+                  "descriptor": null,
+                  "ordinal": "46",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Las empresas que provean o presten servicios de comunicación de cualquier tipo, están obligadas a conceder todas las facilidades y acatar las resoluciones por las que se autoricen las actividades materia del presente Título."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-iv.articulo-47",
+                  "heading": "Artículo 47",
+                  "descriptor": null,
+                  "ordinal": "47",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Toda información que se obtenga por medio de las actividades materia del presente Capítulo es parte de la información del Centro, por lo que su destino final será determinado por el Consejo. Las personas que participen en las diligencias de intervención de comunicaciones, excepto el personal instruido para ello por el Director General del Centro, se abstendrán de obtener o guardar original o copia de la información obtenida a través de tales medidas."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-iv.articulo-48",
+                  "heading": "Artículo 48",
+                  "descriptor": null,
+                  "ordinal": "48",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- La información y los materiales de cualquier especie que sean producto de una intervención de comunicaciones privadas autorizadas conforme a las disposiciones de este Capítulo, tendrán invariablemente el carácter de reservados. Su difusión no autorizada implicará responsabilidad en los términos de la presente Ley, sin perjuicio de lo dispuesto en otros ordenamientos legales aplicables."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-tercer.capitulo-ii.seccion-v",
+              "heading": "SECCIÓN V",
+              "descriptor": "DE LOS CASOS DE URGENCIA",
+              "ordinal": "V",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-ii.seccion-v.articulo-49",
+                  "heading": "Artículo 49",
+                  "descriptor": null,
+                  "ordinal": "49",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- En casos de excepción, cuando el cumplimiento del procedimiento establecido en la Sección II del presente Capítulo comprometa el éxito de una investigación y existan indicios de que pueda consumarse una amenaza a la Seguridad Nacional, el juez, por la urgencia, podrá autorizar de inmediato la medida que se requiera."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-iii",
+          "heading": "CAPÍTULO III",
+          "descriptor": "DEL ACCESO A LA INFORMACIÓN EN MATERIA DE SEGURIDAD NACIONAL",
+          "ordinal": "III",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-50",
+              "heading": "Artículo 50",
+              "descriptor": null,
+              "ordinal": "50",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Cada instancia representada en el Consejo es responsable de la administración, protección, clasificación, desclasificación y acceso de la información que genere o custodie, en los términos de la presente Ley y de la Ley Federal de Transparencia y Acceso a la Información Pública gubernamental."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-51",
+              "heading": "Artículo 51",
+              "descriptor": null,
+              "ordinal": "51",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Además de la información que satisfaga los criterios establecidos en la legislación general aplicable, es información reservada por motivos de Seguridad Nacional:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Aquella cuya aplicación implique la revelación de normas, procedimientos, métodos, fuentes, especificaciones técnicas, tecnología o equipo útiles a la generación de inteligencia para la Seguridad Nacional, sin importar la naturaleza o el origen de los documentos que la consignen, o"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Aquella cuya revelación pueda ser utilizada para actualizar o potenciar una amenaza."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-52",
+              "heading": "Artículo 52",
+              "descriptor": null,
+              "ordinal": "52",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La publicación de información no reservada, generada o custodiada por el Centro, se realizará invariablemente con apego al principio de la información confidencial gubernamental."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-53",
+              "heading": "Artículo 53",
+              "descriptor": null,
+              "ordinal": "53",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los servidores públicos que laboren en las instancias que integren el Consejo o en el Centro, así como cualquier otro servidor público o cualquier persona que se le conceda acceso a la información relacionada con la Seguridad Nacional, deberán otorgar por escrito una promesa de confidencialidad que observarán en todo tiempo, aún después de que hayan cesado en el cargo en razón del cual se les otorgó el acceso."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-54",
+              "heading": "Artículo 54",
+              "descriptor": null,
+              "ordinal": "54",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La persona que por algún motivo participe o tenga conocimiento de productos, fuentes, métodos, medidas u operaciones de inteligencia, registros o información derivados de las acciones previstas en la presente Ley, debe abstenerse de difundirlo por cualquier medio y adoptar las medidas necesarias para evitar que lleguen a tener publicidad."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-55",
+              "heading": "Artículo 55",
+              "descriptor": null,
+              "ordinal": "55",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Corresponde al Centro definir las medidas de protección, destrucción, códigos de seguridad en las comunicaciones y demás aspectos necesarios para el resguardo de la información que se genere con motivo de los sistemas de coordinación en materia de Seguridad Nacional."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-cuart",
+      "heading": "TÍTULO CUARTO",
+      "descriptor": "DEL CONTROL LEGISLATIVO",
+      "ordinal": "CUARTO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-56",
+              "heading": "Artículo 56",
+              "descriptor": null,
+              "ordinal": "56",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Las políticas y acciones vinculadas con la Seguridad Nacional estarán sujetas al control y evaluación del Poder Legislativo Federal, por conducto de una Comisión Bicamaral integrada por 3 Senadores y 3 Diputados."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La presidencia de la Comisión será rotativa y recaerá alternadamente en un senador y un diputado."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo adicionado DOF 26-12-2005",
+                  "action": "adicionado",
+                  "dof_date": "26-12-2005"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-57",
+              "heading": "Artículo 57",
+              "descriptor": null,
+              "ordinal": "57",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Comisión Bicamaral tendrá las siguientes atribuciones:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Solicitar informes concretos al Centro, cuando se discuta una ley o se estudie un asunto concerniente a su ramo o actividades;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Conocer el proyecto anual de la Agenda Nacional de Riesgos y emitir opinión al respecto;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Conocer el informe a que hace referencia el artículo 58 de esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Conocer los reportes de actividades que envíe el Director General del Centro al Secretario Ejecutivo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Conocer los informes generales de cumplimiento de las directrices que dé por escrito el Secretario Ejecutivo al Director General del Centro;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Conocer de los Acuerdos de Cooperación que establezca el Centro y las Acciones que realicen en cumplimiento de esos Acuerdos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Requerir al Centro y a las instancias correspondientes los resultados de las revisiones, auditorías y procedimientos que se practiquen a dicha institución;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Enviar al Consejo cualquier recomendación que considere apropiada, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Las demás que le otorgue otras disposiciones legales."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-58",
+              "heading": "Artículo 58",
+              "descriptor": null,
+              "ordinal": "58",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- En los meses en que inicien los periodos ordinarios de sesiones del Congreso, el Secretario Técnico del Consejo deberá rendir a la Comisión Bicamaral un informe general de las actividades desarrolladas en el semestre inmediato anterior."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Comisión Bicamaral podrá citar al Secretario Técnico para que explique el contenido del informe."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 26-12-2005",
+                  "action": "reformado",
+                  "dof_date": "26-12-2005"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-59",
+              "heading": "Artículo 59",
+              "descriptor": null,
+              "ordinal": "59",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los informes y documentos distintos a los que se entreguen periódicamente, sólo podrán revelar datos en casos específicos, una vez que los mismos se encuentren concluidos."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En todo caso, omitirán cualquier información cuya revelación indebida afecte la Seguridad Nacional, el desempeño de las funciones del Centro o la privacidad de los particulares. Para tal efecto, ningún informe o documento deberá revelar información reservada."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-60",
+              "heading": "Artículo 60",
+              "descriptor": null,
+              "ordinal": "60",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Comisión Bicamaral deberá resguardar y proteger la información y documentación que se le proporcione, evitando su uso indebido, sin que pueda ser difundida o referida. En caso contrario, se aplicarán las sanciones que las leyes prescriban."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-quint",
+      "heading": "TÍTULO QUINTO",
+      "descriptor": "DE LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS",
+      "ordinal": "QUINTO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-quint.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-61",
+              "heading": "Artículo 61",
+              "descriptor": null,
+              "ordinal": "61",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los servidores públicos cuyas áreas estén relacionadas con la Seguridad Nacional, orientarán, con base en los principios previstos en el artículo 3o., el desempeño de sus funciones, preservando los de legalidad, responsabilidad, respeto a los derechos fundamentales y garantías individuales y sociales, confidencialidad, lealtad, transparencia, eficiencia, coordinación y cooperación que deben cumplir en términos de las disposiciones legales que regulan al servicio público."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-62",
+              "heading": "Artículo 62",
+              "descriptor": null,
+              "ordinal": "62",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Fuera de los casos y condiciones previstos por esta Ley, ninguna persona estará obligada a proporcionar información a los servidores públicos adscritos al Centro."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-63",
+              "heading": "Artículo 63",
+              "descriptor": null,
+              "ordinal": "63",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los datos personales de los sujetos que proporcionen información, serán confidenciales."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-64",
+              "heading": "Artículo 64",
+              "descriptor": null,
+              "ordinal": "64",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- En ningún caso se divulgará información reservada que, a pesar de no tener vinculación con amenazas a la Seguridad Nacional o con acciones o procedimientos preventivos de las mismas, lesionen la privacidad, la dignidad de las personas o revelen datos personales."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-sext",
+      "heading": "TÍTULO SEXTO",
+      "descriptor": "DE LA COOPERACIÓN DE LAS INSTANCIAS LOCALES Y MUNICIPALES",
+      "ordinal": "SEXTO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-sext.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-unic.articulo-65",
+              "heading": "Artículo 65",
+              "descriptor": null,
+              "ordinal": "65",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La cooperación de los poderes y órganos de gobierno de las entidades federativas en la función de garantizar la Seguridad Nacional se establecerá para:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Aportar cualquier información del orden local a la Red;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Colaborar con las autoridades federales previstas en esta Ley, a fin de lograr una coordinación efectiva y oportuna de políticas, acciones y programas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Celebrar convenios de colaboración generales y específicos que deriven de la presente Ley, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Promover la participación de los Municipios en las políticas, acciones y programas."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-unic.articulo-66",
+              "heading": "Artículo 66",
+              "descriptor": null,
+              "ordinal": "66",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los gobiernos de las entidades federativas, en el ejercicio de las atribuciones que les correspondan por virtud de lo previsto en el presente Título, en ningún caso estarán facultados para causar actos de molestia o de cualquier naturaleza que afecten la esfera jurídica de los particulares."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-unic.articulo-67",
+              "heading": "Artículo 67",
+              "descriptor": null,
+              "ordinal": "67",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- En la regulación y el ejercicio de las atribuciones que conforme al presente Título les correspondan a las entidades federativas, se observará puntualmente lo previsto por los artículos 117, 118 y 119 de la Constitución Política de los Estados Unidos Mexicanos."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-septim",
+      "heading": "TÍTULO SÉPTIMO",
+      "descriptor": "DE LA COOPERACIÓN CON LOS GOBIERNOS EXTRANJEROS EN MATERIA DE",
+      "ordinal": "SÉPTIMO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "SEGURIDAD QUE CONTRIBUYAN A PRESERVAR LA SEGURIDAD NACIONAL"
+        },
+        {
+          "type": "reform_note",
+          "text": "Título adicionado DOF 18-12-2020",
+          "action": "adicionado",
+          "dof_date": "18-12-2020"
+        }
+      ],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-septim.capitulo-i",
+          "heading": "CAPÍTULO I",
+          "descriptor": "DE LA COOPERACIÓN INTERNACIONAL",
+          "ordinal": "I",
+          "content": [
+            {
+              "type": "reform_note",
+              "text": "Capítulo adicionado DOF 18-12-2020",
+              "action": "adicionado",
+              "dof_date": "18-12-2020"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-i.articulo-68",
+              "heading": "Artículo 68",
+              "descriptor": null,
+              "ordinal": "68",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- En el marco de la cooperación internacional, las embajadas y misiones extranjeras acreditadas en el país deberán informar a las autoridades correspondientes conforme a los respectivos convenios de cooperación bilateral suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional sobre los hechos de que tengan conocimiento en el desempeño de las funciones derivadas de dichos convenios y programas. En las disposiciones que rigen el presente Título se observará el principio de reciprocidad entre Estados Soberanos."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 18-12-2020",
+                  "action": "adicionado",
+                  "dof_date": "18-12-2020"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-i.articulo-69",
+              "heading": "Artículo 69",
+              "descriptor": null,
+              "ordinal": "69",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los Agentes Extranjeros podrán ser autorizados para internarse temporalmente en territorio nacional para fines de intercambio de información, en el marco de los convenios y programas de cooperación bilateral suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Secretaría de Relaciones Exteriores, previo acuerdo con las secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina, resolverá sobre la acreditación y la circunscripción territorial del agente extranjero de que se trate. Para tal efecto deberá considerar el principio de reciprocidad bilateral."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 18-12-2020",
+                  "action": "adicionado",
+                  "dof_date": "18-12-2020"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-i.articulo-70",
+              "heading": "Artículo 70",
+              "descriptor": null,
+              "ordinal": "70",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los servidores públicos de los tres Poderes de la Unión, de los organismos dotados de autonomía constitucional, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, en su relación con Agentes Extranjeros, deberán apegarse a las normas, parámetros y obligaciones previstas en la presente Ley y en los lineamientos que para el efecto emita el Consejo. Su inobservancia será causa de responsabilidad administrativa o penal, de conformidad con las leyes respectivas."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los servidores públicos de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, deberán entregar a las secretarías de Relaciones Exteriores y de Seguridad y Protección Ciudadana, dentro de los tres días siguientes de la celebración de cualquier reunión, intercambio de información, llamadas telefónicas o comunicaciones que sostengan con los Agentes Extranjeros, un informe por escrito de las mismas. Las reuniones que sostengan con los Agentes Extranjeros deberán ser autorizadas con anterioridad por el Grupo de Alto Nivel de Seguridad. En dichas reuniones deberá estar presente un representante de la Secretaría de Relaciones Exteriores."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 18-12-2020",
+                  "action": "adicionado",
+                  "dof_date": "18-12-2020"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-i.articulo-71",
+              "heading": "Artículo 71",
+              "descriptor": null,
+              "ordinal": "71",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los Agentes Extranjeros deberán observar las siguientes disposiciones:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Sólo podrán desarrollar las actividades de enlace para el intercambio de información con autoridades mexicanas en términos de lo dispuesto en la acreditación que se hubiese expedido a su favor;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "No podrán ejercer las facultades reservadas a las autoridades mexicanas ni podrán aplicar o ejecutar las leyes extranjeras en territorio nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Deberán abstenerse de realizar gestiones directas ante autoridades distintas de la Secretaría de Relaciones Exteriores o de las dependencias que corresponda en términos de los respectivos convenios de cooperación internacional suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Deberán poner en conocimiento de las autoridades mexicanas que corresponda, en términos de los respectivos convenios de cooperación internacional suscrito por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional, la información de que se alleguen en el ejercicio de sus funciones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Deberán presentar ante las secretarías de Relaciones Exteriores y de Seguridad y Protección Ciudadana un informe de carácter mensual en las materias relativas a los convenios de cooperación bilateral suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional. En dicho informe se deberán incluir las actividades y gestiones que desarrollen ante las diversas autoridades federales, de las entidades federativas y de los municipios. En todo caso, deberán mantener la confidencialidad de la información que obtengan derivado de la aplicación de los convenios de cooperación bilateral, de conformidad con los términos establecidos en los mismos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Tendrán prohibido realizar o inducir a terceras personas a realizar detenciones, a realizar acciones tendientes a la privación de la libertad, a allanar la propiedad privada o cualquiera otra conducta que resulte violatoria de la Constitución Política de los Estados Unidos Mexicanos y las leyes nacionales aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Deberán abstenerse de realizar actividades que pongan en peligro su integridad física. En consecuencia, deberán sujetarse a los criterios que determine la Secretaría de Seguridad y Protección Ciudadana, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Sólo podrán portar las armas de fuego que, en su caso, les autorice la Secretaría de la Defensa Nacional."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 18-12-2020",
+                  "action": "adicionado",
+                  "dof_date": "18-12-2020"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-i.articulo-72",
+              "heading": "Artículo 72",
+              "descriptor": null,
+              "ordinal": "72",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los Agentes Extranjeros no tendrán ninguna inmunidad en caso de incurrir en la comisión de delitos o infracciones o por infringir las disposiciones normativas que prohíben a los extranjeros el ejercicio de funciones reservadas a las autoridades mexicanas."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 18-12-2020",
+                  "action": "adicionado",
+                  "dof_date": "18-12-2020"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-i.articulo-73",
+              "heading": "Artículo 73",
+              "descriptor": null,
+              "ordinal": "73",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Gobierno de México supervisará, en todo momento, el cumplimiento por parte de los Agentes Extranjeros de las obligaciones legales y de aquellas que deriven de los convenios bilaterales suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cuando a juicio de las autoridades mexicanas un agente extranjero incumpla con las disposiciones generales y específicas que le resulten aplicables, el Gobierno de México solicitará su retiro al gobierno del Estado acreditante y quedará sujeto a las sanciones que resulten aplicables en términos de las leyes mexicanas."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 18-12-2020",
+                  "action": "adicionado",
+                  "dof_date": "18-12-2020"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-i.articulo-74",
+              "heading": "Artículo 74",
+              "descriptor": null,
+              "ordinal": "74",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Cuando se compruebe que un gobierno extranjero, por conducto de sus agentes, incite o promueva la comisión de los ilícitos consistentes en el cohecho, la privación ilegal de la libertad de las personas, así como la sustracción de los habitantes del territorio nacional para ser llevados a juicio ante otro Estado, el Estado mexicano suspenderá la ejecución de los convenios de cooperación bilateral de que se trate y prohibirá la realización de actividades por parte de los Agentes Extranjeros en territorio nacional. En su caso, los individuos que hubieren incurrido en las conductas antes descritas serán responsables en los términos de las disposiciones jurídicas aplicables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las autoridades responsables de la supervisión y vigilancia de los agentes y técnicos especializados serán corresponsables del incumplimiento de las disposiciones generales y específicas que resulten aplicables. En su caso, serán sancionados en los términos que disponga la Ley."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 18-12-2020",
+                  "action": "adicionado",
+                  "dof_date": "18-12-2020"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-septim.capitulo-ii",
+          "heading": "CAPÍTULO II",
+          "descriptor": "DE LOS ÓRGANOS AUXILIARES",
+          "ordinal": "II",
+          "content": [
+            {
+              "type": "reform_note",
+              "text": "Capítulo adicionado DOF 18-12-2020",
+              "action": "adicionado",
+              "dof_date": "18-12-2020"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-ii.articulo-75",
+              "heading": "Artículo 75",
+              "descriptor": null,
+              "ordinal": "75",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Grupo de Alto Nivel de Seguridad es el órgano auxiliar del Consejo para la atención y gestión de los convenios, programas y temas estratégicos de cooperación suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional. Será integrado por los representantes de las dependencias y autoridades que determine el Consejo y presidido por la Secretaría de Relaciones Exteriores. El Consejo emitirá las disposiciones generales que regulen su organización y funcionamiento."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 18-12-2020",
+                  "action": "adicionado",
+                  "dof_date": "18-12-2020"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-ii.articulo-76",
+              "heading": "Artículo 76",
+              "descriptor": null,
+              "ordinal": "76",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Grupo de Coordinación Operativa es el órgano auxiliar del Consejo encargado de coordinar y supervisar la ejecución de los convenios, programas, acciones o acuerdos de cooperación suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional con las agencias de seguridad de países extranjeros que determine el Grupo de Alto Nivel de Seguridad."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Será dirigido por un representante de la Secretaría de Seguridad y Protección Ciudadana con nivel de Jefe o Titular de Unidad y se integrará por representantes de las dependencias u organismos que determine el Consejo. El Consejo, emitirá las disposiciones generales que regulen su organización y funcionamiento."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 18-12-2020",
+                  "action": "adicionado",
+                  "dof_date": "18-12-2020"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ARTÍCULOS TRANSITORIOS"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-ii.articulo-articulo-primer",
+              "heading": "ARTÍCULO PRIMERO",
+              "descriptor": null,
+              "ordinal": "ARTÍCULO PRIMERO",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-ii.articulo-articulo-segund",
+              "heading": "ARTÍCULO SEGUNDO",
+              "descriptor": null,
+              "ordinal": "ARTÍCULO SEGUNDO",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "El Titular del Ejecutivo Federal expedirá el Estatuto Laboral del Centro, dentro de los nueve meses siguientes a la entrada en vigor de la presente Ley, el cual deberá ser publicado en el Diario Oficial de la Federación para surtir plenos efectos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-ii.articulo-articulo-tercer",
+              "heading": "ARTÍCULO TERCERO",
+              "descriptor": null,
+              "ordinal": "ARTÍCULO TERCERO",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "El Consejo deberá quedar instalado y celebrar su primera reunión, durante los quince días siguientes al inicio de la vigencia de la presente Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-ii.articulo-articulo-cuart",
+              "heading": "ARTÍCULO CUARTO",
+              "descriptor": null,
+              "ordinal": "ARTÍCULO CUARTO",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "El Ejecutivo Federal expedirá y publicará el Reglamento de esta Ley, dentro de los nueve meses siguientes a la entrada en vigor del presente ordenamiento."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-ii.articulo-articulo-quint",
+              "heading": "ARTÍCULO QUINTO",
+              "descriptor": null,
+              "ordinal": "ARTÍCULO QUINTO",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "El Ejecutivo Federal establecerá las medidas presupuestarias necesarias para el cumplimiento de la presente Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-ii.articulo-articulo-sext",
+              "heading": "ARTÍCULO SEXTO",
+              "descriptor": null,
+              "ordinal": "ARTÍCULO SEXTO",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "La autonomía de gasto que el artículo 18 de la presente Ley establece para el Centro de Investigación y Seguridad Nacional en el ejercicio de su presupuesto, se definirá en el Reglamento de esta Ley, en los términos de las disposiciones presupuestarias aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-ii.articulo-articulo-septim",
+              "heading": "ARTÍCULO SÉPTIMO",
+              "descriptor": null,
+              "ordinal": "ARTÍCULO SÉPTIMO",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "El Poder Judicial de la Federación determinará los juzgados a que se refiere el segundo párrafo del artículo 35, dentro de los 45 días siguientes a entrada en vigor de la presente Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-ii.articulo-articulo-segund",
+              "heading": "ARTÍCULO SEGUNDO",
+              "descriptor": null,
+              "ordinal": "ARTÍCULO SEGUNDO",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".........."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ARTÍCULO TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "México, D.F., a 14 de diciembre de 2004.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Sara I. Castellanos Cortés, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma el artículo 58 y se adiciona un segundo párrafo al artículo 56 de la Ley de Seguridad Nacional."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2005"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-ii.articulo-articulo-unic",
+              "heading": "ARTÍCULO ÚNICO",
+              "descriptor": null,
+              "ordinal": "ARTÍCULO ÚNICO",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "Se reforma el artículo 58 y se adiciona un segundo párrafo al artículo 56 de la Ley de Seguridad Nacional, para quedar como sigue: .........."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Al entrar en vigor el presente Decreto y para los efectos del segundo párrafo del artículo 56 de este Decreto de Reformas, en un plazo de un año, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos por parte del Congreso General de los Estados Unidos Mexicanos para contar con las atribuciones necesarias para el mejor desempeño de la Comisión Bicamaral."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 22 de noviembre de 2005.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I."
+            },
+            {
+              "type": "paragraph",
+              "text": "Castellanos Cortés, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 8 de noviembre de 2019"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se adiciona una fracción XIII al artículo 5 de la Ley de Seguridad Nacional, para quedar como sigue: ……….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día 1o. de enero de 2020."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 15 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se adicionan diversas disposiciones a la Ley de Seguridad Nacional."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2020"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se adicionan una fracción VI al artículo 6, y un Título Séptimo denominado \"De la Cooperación con los Gobiernos Extranjeros en materia de seguridad que contribuyan a preservar la Seguridad Nacional\", conformado por dos Capítulos y los artículos 68; 69; 70; 71; 72; 73; 74; 75 y 76 a la Ley de Seguridad Nacional, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 15 de diciembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dulce María Sauri Riancho, Presidenta.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo Cuadragésimo Octavo.- Se reforma la fracción X del artículo 12 de la Ley de Seguridad Nacional, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley Orgánica de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán."
+            },
+            {
+              "type": "paragraph",
+              "text": "A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "Noveno",
+          "descriptor": null,
+          "ordinal": "Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decim",
+          "heading": "Décimo",
+          "descriptor": null,
+          "ordinal": "Décimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-primer",
+          "heading": "Décimo Primero",
+          "descriptor": null,
+          "ordinal": "Décimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "Décimo Segundo",
+          "descriptor": null,
+          "ordinal": "Décimo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "tercero",
+          "descriptor": null,
+          "ordinal": "tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "del artículo 88 del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-tercer",
+          "heading": "Décimo Tercero",
+          "descriptor": null,
+          "ordinal": "Décimo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-cuart",
+          "heading": "Décimo Cuarto",
+          "descriptor": null,
+          "ordinal": "Décimo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-quint",
+          "heading": "Décimo Quinto",
+          "descriptor": null,
+          "ordinal": "Décimo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-sext",
+          "heading": "Décimo Sexto",
+          "descriptor": null,
+          "ordinal": "Décimo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quedan derogadas todas las disposiciones que se opongan a este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 130/2019 y su acumulada 136/2019, promovida por la Comisión Nacional de los Derechos Humanos y diversos integrantes de la Cámara de Senadores del Congreso de la Unión."
+            },
+            {
+              "type": "paragraph",
+              "text": "Notificados al Congreso de la Unión para efectos legales el 25 de noviembre de 2022 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación."
+            },
+            {
+              "type": "paragraph",
+              "text": "SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/450/2022 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el veinticuatro de noviembre de dos mil veintidós, resolvió la acción de inconstitucionalidad 130/2019 y su acumulada 136/2019, promovida por la Comisión Nacional de los Derechos Humanos y diversos integrantes de la Cámara de Senadores del Congreso de la Unión, en los términos siguientes: “PRIMERO: Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoría."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad-con lo expuesto en el apartado VI de esta decisión."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2°, párrafo primero, fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "QUINTO",
+          "descriptor": null,
+          "ordinal": "QUINTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se declara la invalidez por extensión, de los artículos 187, párrafo segundo, en su porción normativa ‘Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, y 192, párrafo tercero, en su porción normativa ‘La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "SEXTO",
+          "descriptor": null,
+          "ordinal": "SEXTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión."
+            },
+            {
+              "type": "paragraph",
+              "text": "Atentamente Ciudad de México; 24 de noviembre de 2022 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el viernes 25 de noviembre de 2022 a las 12:11 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido."
+            },
+            {
+              "type": "paragraph",
+              "text": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 130/2019 y su acumulada 136/2019, así como los Votos Concurrente y Particular de la señora Ministra Ana Margarita Ríos Farjat, Concurrente y Aclaratorio del señor Ministro Juan Luis González Alcántara Carrancá y Concurrente de la señora Ministra Presidenta Norma Lucía Piña Hernández."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicada en el Diario Oficial de la Federación el 20 de agosto de 2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCIÓN DE INCONSTITUCIONALIDAD 130/2019 Y SU ACUMULADA 136/2019 PROMOVENTES: COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS Y DIVERSOS INTEGRANTES DE LA CÁMARA DE SENADORES DEL CONGRESO DE LA UNIÓN VISTO BUENO SR. MINISTRO PONENTE: MINISTRO LUIS MARÍA AGUILAR MORALES COTEJÓ SECRETARIOS: LUIS ALBERTO TREJO OSORNIO ROBERTO NEGRETE ROMERO Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al veinticuatro de noviembre de dos mil veintidós, emite la siguiente:"
+            },
+            {
+              "type": "paragraph",
+              "text": "SENTENCIA …….."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "DECISIÓN. 594. Por lo antes expuesto, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve:"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoria."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad con lo expuesto en el apartado VI de esta decisión."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2º, párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "primero",
+          "descriptor": null,
+          "ordinal": "primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ", fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "QUINTO",
+          "descriptor": null,
+          "ordinal": "QUINTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se declara la invalidez, por extensión, de los artículos 187, párrafo segundo, en su porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, y 192, párrafo tercero, en su porción normativa “La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "SEXTO",
+          "descriptor": null,
+          "ordinal": "SEXTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta."
+            },
+            {
+              "type": "paragraph",
+              "text": "Notifíquese; mediante oficio a las partes, al titular de la Fiscalía General de la República, a las Fiscalías Generales de las entidades federativas y a los Tribunales Superiores de Justicia de las entidades federativas del País y, en su oportunidad, archívese el expediente como asunto concluido."
+            },
+            {
+              "type": "paragraph",
+              "text": "Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……."
+            },
+            {
+              "type": "paragraph",
+              "text": "El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos propuestos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En la sesión privada ordinaria celebrada el primero de abril de dos mil veinticinco, se aprobó el texto del engrose por unanimidad de ocho votos de las señoras Ministras y los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá con precisiones, Esquivel Mossa, Ortiz Ahlf, Pardo Rebolledo, Laynez Potisek, Pérez Dayán con precisiones y Presidenta Piña Hernández con precisiones. La señora Ministra Ana Margarita Ríos Farjat no asistió a la sesión por gozar de vacaciones al haber integrado la Comisión de Receso correspondiente al segundo período de sesiones de dos mil veinticuatro. La señora Ministras Batres Guadarrama estuvo ausente en la votación."
+            },
+            {
+              "type": "paragraph",
+              "text": "La señora Ministra Presidenta Piña Hernández declaró que en los términos antes precisados se aprobó el texto del engrose de la sentencia emitida en la acción de inconstitucionalidad 130/2019 y su acumulada 136/2019."
+            },
+            {
+              "type": "paragraph",
+              "text": "Firma el Secretario General de Acuerdos, quien da fe y certifica, para los efectos de lo previsto en el artículo 68, fracciones III y XIII, del Reglamento Interior de la Suprema Corte de Justicia de la Nación, la causa por la cual el engrose no se suscribe ni por el Ministro Presidente ni por el Ministro que presentó como ponente la propuesta de resolución que se discutió y aprobó en la sesión en la que se dictó la sentencia de la presente acción de inconstitucionalidad y su acumulada."
+            },
+            {
+              "type": "paragraph",
+              "text": "EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Para efectos de lo previsto en el artículo 68, fracciones III y XIII, del Reglamento Interior de la Suprema Corte de Justicia de la Nación, ante la conclusión de los períodos constitucionales de los Ministros Arturo Zaldívar Lelo de Larrea y Luis María Aguilar Morales, el primero con motivo de la renuncia aprobada por el Senado de la República en su sesión del quince de noviembre de dos mil veintitrés, al tenor de su comunicado número 451 de esa fecha y, el segundo, por virtud de la terminación de dicho periodo el treinta de noviembre de dos mil veinticuatro, se hace constar que, como se advierte de las actas de las sesiones públicas del cinco, seis y ocho de septiembre, así como del veintidós y veinticuatro de noviembre de dos mil veintidós, en dichas sesiones se analizó y resolvió el proyecto presentado por el Ministro Aguilar Morales respecto de la acción de inconstitucionalidad 130/2019 y su acumulada 136/2019, en las cuales fungió como Presidente el Ministro Zaldívar Lelo de Larrea; posteriormente, en términos de la última parte de la fracción IV del artículo 14 de la Ley Orgánica del Poder Judicial de la Federación, el engrose respectivo circuló para observaciones del veintidós al veintiocho de noviembre de dos mil veinticuatro, plazo durante el cual se recibieron las observaciones de la Ministra Presidenta Norma Lucía Piña Hernández, las que se incorporaron al engrose y en sesión privada del Tribunal Pleno del primero de abril de dos mil veinticinco se aprobó el texto del engrose, lo que se precisa para los efectos de lo establecido en la primera parte de la fracción IV del artículo 14 de la Ley Orgánica del Poder Judicial de la Federación abrogada, aplicable en términos de lo previsto en el artículo tercero transitorio de la Ley Orgánica del Poder Judicial de la Federación vigente a partir del veintiuno de diciembre de dos mil veinticuatro.- Ciudad de México a veintiuno de abril de dos mil veinticinco.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de noventa y ocho fojas útiles en las que se cuenta esta certificación, concuerda fiel y exactamente con el original de la sentencia emitida en la acción de inconstitucionalidad 130/2019 y su acumulada 136/2019, promovidas por la Comisión Nacional de los Derechos Humanos y diversos integrantes de la Cámara de Senadores del Congreso de la Unión, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del veinticuatro de noviembre de dos mil veintidós, con la certificación correspondiente del Secretario General de Acuerdos en términos de lo previsto en el artículo 68, fracciones III y XIII, del Reglamento Interior de la Suprema Corte de Justicia de la Nación, para los efectos de lo establecido en el artículo 14, fracción IV, de la Ley Orgánica del Poder Judicial de la Federación. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación. Ciudad de México, a veintitrés de junio de dos mil veinticinco.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-vigesimo-cuart",
+          "heading": "Artículo Vigésimo Cuarto",
+          "descriptor": null,
+          "ordinal": "Artículo Vigésimo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma la fracción III del artículo 8 de la Ley de Seguridad Nacional, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023."
+            },
+            {
+              "type": "paragraph",
+              "text": "En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión."
+            },
+            {
+              "type": "paragraph",
+              "text": "En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares."
+            },
+            {
+              "type": "paragraph",
+              "text": "No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-sext",
+          "heading": "artículo Sexto",
+          "descriptor": null,
+          "ordinal": "artículo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

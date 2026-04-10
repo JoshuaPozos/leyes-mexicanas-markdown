@@ -1,0 +1,763 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LRArt76_fracVI_ley_reglamentaria_de_la_fraccion_vi_del_articulo_76_de_la_constitucion",
+  "abbreviation": "LRArt76",
+  "name": "LEY Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+  "catalog_number": "296",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf",
+    "pdf_filename_origen": "LRArt76_fracVI.pdf",
+    "dof_publication": "DOF31/08/2007",
+    "last_reform": "DOF 14/11/2025",
+    "captured_at": "2026-04-09T10:37:13.801418+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "UNIDOS MEXICANOS LEY REGLAMENTARIA DE LA FRACCIÓN VI DEL ARTÍCULO 76 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Nueva Ley publicada en el Diario Oficial de la Federación el 31 de agosto de 2007 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA LEY REGLAMENTARIA DE LA FRACCIÓN VI DEL ARTÍCULO 76 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "ARTÍCULO ÚNICO",
+      "descriptor": null,
+      "ordinal": "ARTÍCULO ÚNICO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-1",
+      "heading": "Artículo 1",
+      "descriptor": null,
+      "ordinal": "1",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Esta Ley tiene por objeto establecer los casos en los cuales la Cámara de Senadores del Congreso de la Unión, de conformidad con lo dispuesto en la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos, asumirá el conocimiento de las cuestiones políticas que surjan entre los poderes de un Estado, así como también prever las bases según las cuales conocerá de ellas y regular el proceso a través del cual las resolverá."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Cámara de Senadores no ejercerá funciones jurisdiccionales."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-2",
+      "heading": "Artículo 2",
+      "descriptor": null,
+      "ordinal": "2",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Se configura la cuestión política, si los actos o hechos que la motivan constituyen un conflicto que dañe gravemente la relación entre dos o más poderes de un Estado o afecten su funcionamiento."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-3",
+      "heading": "Artículo 3",
+      "descriptor": null,
+      "ordinal": "3",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Se estará ante una cuestión política si se actualiza alguno de los siguientes supuestos:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Las diferencias políticas que surjan entre los poderes de un Estado y que alteren, obstaculicen o impidan el legal y correcto ejercicio de las atribuciones de uno de ellos;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "La falta de colaboración, coordinación o complementación a lo que obligan los principios legales que regulan la división de poderes y que éstos se muestren incapaces de solucionar;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Las expresiones que en forma pública y reiterada formule un poder respecto de otro, cuyo propósito o sus efectos tiendan a socavar su autoridad;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "El enfrentamiento físico entre los titulares o integrantes de los poderes, aunque éste no interrumpa el orden constitucional;"
+        },
+        {
+          "type": "paragraph",
+          "text": "UNIDOS MEXICANOS"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Los hechos de violencia del tipo que sea, de un poder hacia otro, que pudieran alterar o interrumpir el orden constitucional local o el ejercicio de sus respectivas funciones, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "En general, todos los actos o hechos que un poder estatal realice o se abstenga de hacer, en perjuicio de otro u otros."
+        },
+        {
+          "type": "paragraph",
+          "text": "Procederá plantear la cuestión política siempre que, para resolverla, no haya recurso, vía o instancia jurisdiccional."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-4",
+      "heading": "Artículo 4",
+      "descriptor": null,
+      "ordinal": "4",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La Cámara de Senadores resolverá las cuestiones políticas que le sean sometidas, conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado al que pertenezcan los poderes en conflicto y la presente Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "En lo no previsto en los cuerpos normativos anteriores, se aplicarán supletoriamente las disposiciones del Código Nacional de Procedimientos Civiles y Familiares."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 14-11-2025",
+          "action": "reformado",
+          "dof_date": "14-11-2025"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-5",
+      "heading": "Artículo 5",
+      "descriptor": null,
+      "ordinal": "5",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La intervención de la Cámara de Senadores se dará:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "A petición de parte, cuando de suscitarse una cuestión política, uno o más de los poderes en conflicto se lo solicite, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "De Oficio, cuando un poder se valga de la fuerza pública en contra de otro, tengan lugar hechos de violencia o haya riesgos de que ello suceda."
+        },
+        {
+          "type": "paragraph",
+          "text": "En el último supuesto, bastará que un ciudadano lo haga del conocimiento de la Cámara de Senadores y no será necesario cubrir formalidad alguna."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-6",
+      "heading": "Artículo 6",
+      "descriptor": null,
+      "ordinal": "6",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La Cámara de Senadores no intervendrá si el conflicto se refiere a:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Controversias constitucionales;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Casos en que la cuestión política se dé entre poderes de un Estado y otro, o entre los poderes de un Estado y las Autoridades Locales del Distrito Federal;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Cuestiones Políticas que surjan entre:"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "a",
+          "text": "Autoridades Locales del Distrito Federal;"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "b",
+          "text": "Ayuntamientos y poderes de un Estado;"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "c",
+          "text": "Ayuntamientos de un Estado;"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "d",
+          "text": "Ayuntamientos de un Estado y poderes o ayuntamientos de otro, y"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "e",
+          "text": "Autoridades Locales del Distrito Federal y sus demarcaciones territoriales."
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Los conflictos previstos en el primer párrafo del artículo 119 de la Constitución Política de los Estados Unidos Mexicanos, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Las cuestiones que, por cualquier vía, se hayan planteado ante la Suprema Corte de Justicia de la Nación, salvo que ella decline su conocimiento."
+        },
+        {
+          "type": "paragraph",
+          "text": "UNIDOS MEXICANOS"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-7",
+      "heading": "Artículo 7",
+      "descriptor": null,
+      "ordinal": "7",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Los poderes de los Estados podrán plantear en todo momento las cuestiones políticas que surjan entre ellos, si los actos o hechos son continuos, sin embargo si se tratare de actos o hechos consumados que afecten de manera grave la gobernabilidad del Estado, lo harán de forma inmediata. No habrá término para hacerlo ni perderán el derecho a solicitar la intervención de la Cámara de Senadores."
+        },
+        {
+          "type": "paragraph",
+          "text": "La falta de presentación de solicitud de intervención, no implicará un consentimiento tácito de parte del o de los poderes que se consideren afectados por la cuestión política que diere motivo a la intervención, bastará que uno de los poderes ocurra a la Cámara de Senadores para que ésta asuma el conocimiento de la cuestión política planteada. Para tal efecto, no se requerirá la anuencia de la otra parte para que tenga lugar dicha intervención."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-8",
+      "heading": "Artículo 8",
+      "descriptor": null,
+      "ordinal": "8",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Cuando la intervención de la Cámara de Senadores sea a petición de parte, podrá promoverla cualquiera de los poderes en conflicto, ya sea por su titular o por su representante legal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando el poder que solicita la intervención sea un órgano colegiado, será necesario un acuerdo previo adoptado conforme a las normas que regulan su integración y funcionamiento."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-9",
+      "heading": "Artículo 9",
+      "descriptor": null,
+      "ordinal": "9",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La solicitud a que se refiere el artículo anterior, deberá contener una relación de los hechos que la motivaron, los argumentos por los que se considera configurada una cuestión política, las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y las de la Constitución Local que funden la actuación o que se consideren violadas con los actos o los hechos ejecutados por quien es señalado como contraparte, y los aspectos específicos respecto de los cuales deba pronunciarse la Cámara de Senadores."
+        },
+        {
+          "type": "paragraph",
+          "text": "El escrito inicial deberá ser acompañado por:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Los documentos que acrediten la personalidad del compareciente, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Las pruebas que sustenten los actos o hechos referidos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cada una de las partes señalará desde el principio, el domicilio en donde podrán oír y recibir notificaciones y documentos."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-10",
+      "heading": "Artículo 10",
+      "descriptor": null,
+      "ordinal": "10",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La solicitud se presentará ante la Cámara de Senadores y durante los recesos, ante la Comisión Permanente quien deberá turnarla inmediatamente a la Junta de Coordinación Política de la Cámara de Senadores."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-11",
+      "heading": "Artículo 11",
+      "descriptor": null,
+      "ordinal": "11",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La Cámara de Senadores dará trámite a toda solicitud de intervención, para lo cual deberá ceñirse a lo previsto en esta Ley."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-12",
+      "heading": "Artículo 12",
+      "descriptor": null,
+      "ordinal": "12",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La solicitud se turnará a la Junta de Coordinación Política, la cual decidirá su procedencia. Para tal efecto, la Junta observará:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Si se trata de uno de los supuestos considerados como una cuestión política;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Si se acompaña de los documentos requeridos, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Si la cuestión planteada no es de índole constitucional."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-13",
+      "heading": "Artículo 13",
+      "descriptor": null,
+      "ordinal": "13",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Si la Junta de Coordinación Política al valorar la situación motivo de la intervención, infiere que se han dado o puedan darse hechos de violencia, lo hará en su caso del conocimiento de la UNIDOS MEXICANOS Comisión Permanente, a fin de que convoque a la Cámara de Senadores a un período de sesiones extraordinarias, conforme a la fracción IV del artículo 78 Constitucional."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-14",
+      "heading": "Artículo 14",
+      "descriptor": null,
+      "ordinal": "14",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Para la debida instrucción del proceso, la Junta de Coordinación Política, una vez decidida la procedencia de la solicitud, la enviará a la Mesa Directiva, la cual deberá turnarla a la Comisión responsable de su prosecución."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para el adecuado desempeño de su función, la Comisión se auxiliará de especialistas o del personal que estime necesario."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-15",
+      "heading": "Artículo 15",
+      "descriptor": null,
+      "ordinal": "15",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La Comisión, en caso de estimarlo necesario, podrá requerir a la parte solicitante los documentos o pruebas adicionales, para lo cual le otorgará un término de diez días hábiles a partir de la fecha de la notificación."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las notificaciones se harán por correo certificado."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-16",
+      "heading": "Artículo 16",
+      "descriptor": null,
+      "ordinal": "16",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La Comisión requerirá un informe al o a los Poderes señalados como contraparte, respecto de los actos o los hechos consignados por el o los promoventes de la intervención."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dicho informe se rendirá en un plazo de quince días hábiles a partir de la notificación e incluirá, de ser necesario, las pruebas que acrediten los hechos en él referidos."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-17",
+      "heading": "Artículo 17",
+      "descriptor": null,
+      "ordinal": "17",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". En el transcurso del proceso, la Comisión podrá requerir a una o a ambas partes, la presentación de nuevos elementos de convicción que considere convenientes o promover el desahogo de las diligencias que a su juicio sean indispensables."
+        },
+        {
+          "type": "paragraph",
+          "text": "También podrá si lo juzga conveniente, oír a los interesados, entrevistar autoridades y particulares, realizar investigaciones y recabar toda la información que requiera para elaborar el proyecto de resolución."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-18",
+      "heading": "Artículo 18",
+      "descriptor": null,
+      "ordinal": "18",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La Comisión propondrá al Pleno las medidas precautorias que estime necesarias, a fin de que no se agrave la cuestión política surgida entre los poderes de un Estado o para suspender temporalmente los actos o hechos motivo del conflicto."
+        },
+        {
+          "type": "paragraph",
+          "text": "La suspensión se someterá a la consideración del Pleno de la Cámara de Senadores y será aprobada por la mayoría simple de los senadores presentes, la cual no podrá disponerse en los casos que impliquen la vigencia o aplicación de las leyes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para los efectos anteriores, la Comisión podrá solicitar a la Junta de Coordinación Política que recurra, de considerarlo ésta procedente, al auxilio del Ejecutivo Federal."
+        },
+        {
+          "type": "paragraph",
+          "text": "La observancia de las medidas que se dicten, será obligatoria para las partes en conflicto; deberán acatarlas, sin importar que se haya o no rendido el informe a que hace referencia el artículo 16 de esta Ley."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-19",
+      "heading": "Artículo 19",
+      "descriptor": null,
+      "ordinal": "19",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La Comisión, elaborará el proyecto de resolución con base en la solicitud, los informes, los elementos de convicción que se allegue y las constancias que integren el expediente respectivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "En la elaboración del proyecto, se observarán las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y las de la Constitución particular del Estado al que pertenecen las partes."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-20",
+      "heading": "Artículo 20",
+      "descriptor": null,
+      "ordinal": "20",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La Comisión determinará en el proyecto de resolución:"
+        },
+        {
+          "type": "paragraph",
+          "text": "UNIDOS MEXICANOS"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "La materia o materias objeto del conflicto;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Si en efecto se configuró la cuestión política y si ésta afectó a uno de los poderes;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Las acciones u omisiones que las partes deben asumir para dar por concluido el conflicto, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Las prevenciones que se adoptarán en caso de incumplimiento de la resolución por alguna de las partes."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-21",
+      "heading": "Artículo 21",
+      "descriptor": null,
+      "ordinal": "21",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". El proyecto se someterá a la consideración del Pleno de la Cámara de Senadores y para su aprobación se requerirá las dos terceras partes de los miembros presentes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Su resolución será definitiva e inatacable y será notificada de forma inmediata a las partes."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-22",
+      "heading": "Artículo 22",
+      "descriptor": null,
+      "ordinal": "22",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". En caso de que alguna de la partes considere que la actuación de la Comisión o la de alguno de sus integrantes ha sido irregular, podrá interponer el recurso de revisión, el cual será resuelto por la Junta de Coordinación Política en un término de diez días hábiles a partir de la interposición del mismo."
+        },
+        {
+          "type": "paragraph",
+          "text": "El recurso de revisión se interpondrá por escrito y en un plazo de cinco días hábiles a partir de que tengan conocimiento del hecho irregular."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-23",
+      "heading": "Artículo 23",
+      "descriptor": null,
+      "ordinal": "23",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Cuando alguna de las partes no cumpla con las determinaciones que emita la Comisión en el curso de la instrucción, procederá el recurso de queja y la misma dará trámite al recurso emitiendo la resolución que en derecho corresponda, dictando las medidas que se consideren pertinentes para hacer cumplir dicha resolución."
+        },
+        {
+          "type": "paragraph",
+          "text": "El recurso se resolverá dentro de los diez días hábiles posteriores a la interposición del mismo."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-24",
+      "heading": "Artículo 24",
+      "descriptor": null,
+      "ordinal": "24",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". En el caso de que una de las partes no cumpla con la resolución de la Cámara de Senadores, la parte afectada por el desacato, podrá interponer por escrito el recurso de reclamación de incumplimiento ante la Junta de Coordinación Política para que ésta resuelva lo conducente."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Junta de Coordinación requerirá al poder remiso para que rinda un informe dentro de los tres días hábiles siguientes. Recibido éste propondrá al Pleno de la Cámara de Senadores las medidas necesarias para el cumplimiento de la resolución dentro de los diez días hábiles siguientes."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-25",
+      "heading": "Artículo 25",
+      "descriptor": null,
+      "ordinal": "25",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Si el poder remiso no rinde dicho informe o se niega al cumplimento de la resolución, ello será considerado, conforme a los artículos constitucionales 109, fracción I; 110, párrafo segundo y 114, párrafo primero, una violación grave a la Constitución Política de los Estados Unidos Mexicanos, por lo que el Pleno de la Cámara de Senadores declarará su desacato para los efectos legales correspondientes."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "ARTÍCULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 8 de febrero de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Eduardo Sergio de la Torre Jaramillo, Secretario.- Rúbricas.\" UNIDOS MEXICANOS En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de agosto de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "UNIDOS MEXICANOS ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Quincuagésimo Séptimo.- Se reforma el segundo párrafo del artículo 4 de la Ley Reglamentaria de la Fracción VI del Artículo 76 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023."
+            },
+            {
+              "type": "paragraph",
+              "text": "En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión."
+            },
+            {
+              "type": "paragraph",
+              "text": "En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares."
+            },
+            {
+              "type": "paragraph",
+              "text": "No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-sext",
+          "heading": "artículo Sexto",
+          "descriptor": null,
+          "ordinal": "artículo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas.\" UNIDOS MEXICANOS En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

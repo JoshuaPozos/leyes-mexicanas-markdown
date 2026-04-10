@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LDVUMA_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion",
+  "abbreviation": "LDVUMA",
+  "name": "LEY para Determinar el Valor de la Unidad de Medida y Actualización",
+  "catalog_number": "272",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf",
+    "pdf_filename_origen": "LDVUMA_301216.pdf",
+    "dof_publication": "DOF30/12/2016",
+    "last_reform": "Sin reforma",
+    "captured_at": "2026-04-09T09:45:51.041867+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 30 de diciembre de 2016 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA LEY PARA DETERMINAR EL VALOR DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "Artículo Único",
+      "descriptor": null,
+      "ordinal": "Artículo Único",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley para Determinar el Valor de la Unidad de Medida y Actualización."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ley para Determinar el Valor de la Unidad de Medida y Actualización"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-1",
+      "heading": "Artículo 1",
+      "descriptor": null,
+      "ordinal": "1",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". La presente Ley tiene por objeto establecer el método de cálculo que debe aplicar el Instituto Nacional de Estadística y Geografía para determinar el valor actualizado de la Unidad de Medida y Actualización."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-2",
+      "heading": "Artículo 2",
+      "descriptor": null,
+      "ordinal": "2",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Para efectos de lo dispuesto en la presente Ley, se entenderá por:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Índice Nacional de Precios al Consumidor: El que elabora el Instituto Nacional de Estadística y Geografía conforme a lo previsto en el artículo 59, fracción III, inciso a de la Ley del Sistema Nacional de Información Estadística y Geográfica;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "INEGI: Al Instituto Nacional de Estadística y Geografía; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "UMA: A la Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-3",
+      "heading": "Artículo 3",
+      "descriptor": null,
+      "ordinal": "3",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". Las obligaciones y supuestos denominados en UMA se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en las citadas unidades, por el valor de dicha unidad a la fecha correspondiente."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-4",
+      "heading": "Artículo 4",
+      "descriptor": null,
+      "ordinal": "4",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". El valor actualizado de la UMA se calculará y determinará anualmente por el INEGI, de conformidad con el siguiente método:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "El valor diario se determinará multiplicando el valor diario de la UMA del año inmediato anterior por el resultado de la suma de uno más la variación interanual del índice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior."
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "El valor mensual será el producto de multiplicar el valor diario de la UMA por 30.4."
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "El valor anual será el producto de multiplicar el valor mensual de la UMA por 12."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-5",
+      "heading": "Artículo 5",
+      "descriptor": null,
+      "ordinal": "5",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ". El INEGI publicará en el Diario Oficial de la Federación dentro de los primeros diez días del mes de enero de cada año el valor diario, mensual y anual en moneda nacional de la UMA y entrarán en vigor dichos valores el 1o. de febrero de dicho año."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor de esta Ley, será el publicado por el Instituto Nacional de Estadística y Geografía el 28 de enero de 2016, en el Diario Oficial de la Federación, mismo que permanecerá vigente hasta en tanto se emita otra publicación en términos del artículo 5 de la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El valor a que se refiere el transitorio anterior se actualizará conforme al procedimiento establecido en el artículo 4 de la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintitrés de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

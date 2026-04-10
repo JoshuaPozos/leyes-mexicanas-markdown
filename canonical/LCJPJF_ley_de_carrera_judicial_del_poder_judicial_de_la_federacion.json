@@ -1,0 +1,2388 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion",
+  "abbreviation": "LCJPJF",
+  "name": "LEY de Carrera Judicial del Poder Judicial de la Federación",
+  "catalog_number": "034",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf",
+    "pdf_filename_origen": "LCJPJF.pdf",
+    "dof_publication": "DOF02/01/2025",
+    "last_reform": "Sin reforma",
+    "captured_at": "2026-04-09T09:43:23.894895+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 2 de enero de 2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "CLAUDIA SHEINBAUM PARDO, Presidenta de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "Artículo Único",
+      "descriptor": null,
+      "ordinal": "Artículo Único",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley de Carrera Judicial del Poder Judicial de la Federación"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-primer",
+      "heading": "TÍTULO PRIMERO",
+      "descriptor": null,
+      "ordinal": "PRIMERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": "DISPOSICIONES GENERALES",
+          "ordinal": "ÚNICO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-1",
+              "heading": "Artículo 1",
+              "descriptor": null,
+              "ordinal": "1",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Objeto La presente Ley tiene por objeto establecer las bases para el desarrollo de la Carrera Judicial de las personas servidoras públicas de carácter jurisdiccional del Poder Judicial de la Federación y regular su funcionamiento."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-2",
+              "heading": "Artículo 2",
+              "descriptor": null,
+              "ordinal": "2",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Glosario Para los efectos de esta Ley se entenderá por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Carrera Judicial: Carrera Judicial del Poder Judicial de la Federación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Conflicto de interés: La posible afectación al desempeño imparcial y objetivo de las funciones de las personas servidoras públicas en razón de intereses personales, familiares o de negocios;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Constitución: Constitución Política de los Estados Unidos Mexicanos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Defensoría Pública: Instituto Federal de Defensoría Pública;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Directora o Director General: Directora o Director General de la Escuela Nacional de Formación Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Escuela Judicial: Escuela Nacional de Formación Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Integrantes del Órgano de Administración Judicial: Las personas que integran el Pleno del Órgano de Administración Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Ley: Ley de Carrera Judicial del Poder Judicial de la Federación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Órgano: El Órgano de Administración Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Órgano Jurisdiccional: Tribunales Colegiados de Circuito, Tribunales Colegiados de Apelación, Plenos Regionales, Centros de Justicia Penal Federal, Juzgados de Distrito, Tribunales Laborales Federales o el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Pleno: Pleno del Órgano de Administración Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Presidenta/Presidente: Presidenta o Presidente del Órgano de Administración Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Registro Único: Registro Único de Personas Servidoras Públicas de la Carrera Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Suprema Corte: Suprema Corte de Justicia de la Nación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "Titulares: Las Magistradas y los Magistrados de Circuito, así como las Juezas y los Jueces de Distrito y sus categorías equivalentes en el sistema penal acusatorio y en el nuevo sistema de justicia laboral;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVII",
+                  "text": "Vínculo o relación familiar: El o la que tienen las personas servidoras públicas con su cónyuge, concubina o concubinario, conviviente o con quien o quienes sostengan relación análoga a las anteriores, conforme a las legislaciones aplicables que regulen instituciones o figuras del derecho de familia, así como con parientes consanguíneos o por afinidad hasta el cuarto grado, tanto en línea recta, como colateral."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-3",
+              "heading": "Artículo 3",
+              "descriptor": null,
+              "ordinal": "3",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Normas aplicables Además de lo previsto en esta Ley, la Carrera Judicial se rige por la Ley Orgánica del Poder Judicial de la Federación, la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, los acuerdos generales que emitan las instancias competentes del Poder Judicial de la Federación y las demás disposiciones jurídicas aplicables."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-segund",
+      "heading": "TÍTULO SEGUNDO",
+      "descriptor": "CARRERA JUDICIAL",
+      "ordinal": "SEGUNDO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-primer",
+          "heading": "CAPÍTULO PRIMERO",
+          "descriptor": "FINALIDAD DE LA CARRERA JUDICIAL",
+          "ordinal": "PRIMERO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-primer.articulo-4",
+              "heading": "Artículo 4",
+              "descriptor": null,
+              "ordinal": "4",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Definición La Carrera Judicial constituye un sistema institucional integrado por los procesos de ingreso, formación, promoción, evaluación del desempeño, permanencia y separación del cargo de las personas servidoras públicas que la componen, basado en el mérito y la igualdad real de oportunidades."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-primer.articulo-5",
+              "heading": "Artículo 5",
+              "descriptor": null,
+              "ordinal": "5",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Finalidad La Carrera Judicial tiene como fines:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Garantizar la independencia, imparcialidad, idoneidad, estabilidad, profesionalización y especialización de las personas servidoras públicas que forman parte de ella;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Propiciar la permanencia y superación de sus integrantes, con base en expectativas de desarrollo personal progresivo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Desarrollar un sentido de identidad y pertenencia hacia el Poder Judicial de la Federación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Contribuir a la excelencia, eficiencia y eficacia de la impartición de justicia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Coadyuvar en la legitimidad de los órganos jurisdiccionales que integran el Poder Judicial de la Federación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Vincular el cumplimiento de los objetivos institucionales con el desempeño de las responsabilidades y el desarrollo profesional de las personas servidoras públicas que forman parte de ella, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Coadyuvar en el ejercicio de una justicia orientada por la igualdad sustantiva y la justicia social."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-primer.articulo-6",
+              "heading": "Artículo 6",
+              "descriptor": null,
+              "ordinal": "6",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Acceso a la Carrera Judicial Toda persona puede aspirar a desempeñar cargos dentro de la Carrera Judicial, siempre que reúna los requisitos establecidos en esta Ley y los acuerdos correspondientes."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-segund",
+          "heading": "CAPÍTULO SEGUNDO",
+          "descriptor": "PRINCIPIOS RECTORES DE LA CARRERA JUDICIAL",
+          "ordinal": "SEGUNDO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-segund.articulo-7",
+              "heading": "Artículo 7",
+              "descriptor": null,
+              "ordinal": "7",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Principios El desarrollo de la Carrera Judicial deberá garantizar en todas sus etapas, la observancia de los siguientes principios:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Excelencia: Fomentar una calidad superior progresiva en el ejercicio de la actividad jurisdiccional con sentido de pertenencia hacia la institución, vocación de servicio social, humanismo, honestidad, responsabilidad, justicia y empatía en la prestación del servicio;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Profesionalismo: Disposición para ejercer de manera responsable, seria y eficiente la función jurisdiccional, con capacidad, dedicación y ética en el ejercicio del servicio público;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Objetividad: Desempeñar la actividad jurisdiccional de manera clara, precisa, apegada a la realidad, y sin influencias extrañas al derecho;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Imparcialidad: Condición esencial que debe revestir la función jurisdiccional para ser ajenos o extraños a los intereses personales y a los intereses de las partes en controversia, sin favorecer indebidamente a ninguna de ellas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Independencia: Condición esencial que debe revestir la función jurisdiccional para que su ejercicio no pueda verse afectado por decisiones o presiones extra-jurisdiccionales ajenas a los fines del proceso;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Antigüedad: Estimación del tiempo transcurrido en el desempeño de los diversos cargos en el Poder Judicial de la Federación como factor a considerar en el desarrollo de la Carrera Judicial, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Paridad de género: Generación de condiciones orientadas a consolidar, de manera progresiva y gradual, una composición igualitaria entre hombres y mujeres en las distintas etapas, procesos y cargos que comprende la Carrera Judicial."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-segund.articulo-8",
+              "heading": "Artículo 8",
+              "descriptor": null,
+              "ordinal": "8",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Perspectiva de género El Poder Judicial de la Federación incorporará la perspectiva de género, de forma transversal, progresiva e igualitaria en el desarrollo de la Carrera Judicial, a fin de garantizar a mujeres y hombres el ejercicio y goce de sus derechos humanos con un enfoque de igualdad sustantiva y velará por que los órganos a su cargo así lo hagan."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La formación en perspectiva e igualdad de género será contemplada como un criterio obligatorio para el nombramiento y el ascenso de las personas servidoras públicas que integran el Poder Judicial de la Federación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-segund.articulo-9",
+              "heading": "Artículo 9",
+              "descriptor": null,
+              "ordinal": "9",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Combate a la violencia institucional Las personas servidoras públicas competentes para aplicar las disposiciones de esta Ley adoptarán medidas de prevención, atención y reparación para la erradicación de cualquier tipo de violencia institucional en el Poder Judicial de la Federación."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-tercer",
+          "heading": "CAPÍTULO TERCERO",
+          "descriptor": "PERFIL DEL FUNCIONARIO O FUNCIONARIA JUDICIAL",
+          "ordinal": "TERCERO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-tercer.articulo-10",
+              "heading": "Artículo 10",
+              "descriptor": null,
+              "ordinal": "10",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Perfil El perfil de la funcionaria o el funcionario judicial está constituido por el conjunto de capacidades y cualidades personales que permiten asegurar que, en el ejercicio de sus funciones, responderá de manera idónea a las demandas de justicia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Entre las principales características que deberá reunir la persona servidora pública judicial, se encuentran las siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Formación jurídica sólida e integral;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Independencia y autonomía en el ejercicio de su función y defensa del estado de derecho;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "El respeto absoluto y el compromiso con la defensa y protección de los derechos humanos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Conocimiento de los estándares de derechos humanos y habilidad para interpretar y razonar jurídicamente a partir de casos concretos, aplicando un enfoque de interseccionalidad;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Aptitud para identificar los contextos sociales y los factores de desigualdad estructural que se presentan en los casos sujetos a su conocimiento para garantizar una función judicial orientada por la igualdad sustantiva;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Conocimiento de la organización y, en su caso, manejo del despacho judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Vocación de servicio público y compromiso social;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Ética en el servicio público;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Trayectoria personal íntegra;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Capacidad para aplicar el método de juzgar con perspectiva de género, así como los enfoques de justicia social e interseccional para garantizar un análisis integral de los casos, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "La observancia irrestricta de la prohibición de ejercer cualquier tipo de violencia institucional en el Poder Judicial de la Federación."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-cuart",
+          "heading": "CAPÍTULO CUARTO",
+          "descriptor": "CATEGORÍAS DE LA CARRERA JUDICIAL",
+          "ordinal": "CUARTO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-cuart.articulo-11",
+              "heading": "Artículo 11",
+              "descriptor": null,
+              "ordinal": "11",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Categorías La Carrera Judicial está integrada por las siguientes categorías:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Secretaria o Secretario General de Acuerdos de la Suprema Corte, de la Sala Superior del Tribunal Electoral o del Tribunal de Disciplina Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Subsecretaria o Subsecretario General de Acuerdos de la Suprema Corte, de la Sala Superior del Tribunal Electoral o del Tribunal de Disciplina Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Secretaria o Secretario de Estudio y Cuenta de Ministra o Ministro; Secretaria o Secretario de Estudio y Cuenta, e Instructor o Instructora de la Sala Superior del Tribunal Electoral; y Secretaria o Secretario Proyectista, e Instructor o Instructora del Tribunal de Disciplina Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Secretaria o Secretario de Tribunal de Circuito; Secretario o Secretaria de Estudio y Cuenta, así como Instructor o Instructora de las Salas Regionales del Tribunal Electoral;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Asistente de constancias y registro de tribunal de alzada;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Secretario o Secretaria Proyectista de Tribunal de Circuito;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Secretario o Secretaria de Juzgado de Distrito;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Asistente de constancias y registro de Juez de control o Juez de enjuiciamiento; así como los Secretarios o Secretarias instructores, de constancias, de audiencias, de acuerdos, de diligencias y de instrucción de los juzgados laborales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Secretaria o Secretario Proyectista de Juzgado de Distrito;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Actuaria o Actuario del Poder Judicial de la Federación, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Oficial judicial."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las categorías señaladas en las fracciones IV, V y VI, son equivalentes en rango y se encuentran por encima de las categorías precisadas en las fracciones VII, VIII y IX, que también son equivalentes entre sí."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las categorías de puestos no podrán ser creadas, modificadas o derogadas por reglamento, acuerdo general o disposición administrativa."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-quint",
+          "heading": "CAPÍTULO QUINTO",
+          "descriptor": "REQUISITOS DE LOS PERFILES DE PUESTO",
+          "ordinal": "QUINTO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-quint.articulo-12",
+              "heading": "Artículo 12",
+              "descriptor": null,
+              "ordinal": "12",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Servicio público Las categorías de la Carrera Judicial deberán observar los requisitos contemplados en esta Ley y lo dispuesto por la Constitución General para el servicio público."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-quint.articulo-13",
+              "heading": "Artículo 13",
+              "descriptor": null,
+              "ordinal": "13",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Requisitos para las categorías de la Carrera Judicial en la Suprema Corte La Secretaria o el Secretario General de Acuerdos, la Subsecretaria o Subsecretario General de Acuerdos, las Secretarias y los Secretarios Auxiliares de Acuerdos y, las Secretarias y los Secretarios de Estudio y Cuenta de Ministra o Ministro deberán contar con título de licenciada o licenciado en derecho expedido legalmente, gozar de buena reputación, no haber sido condenadas o condenados por delito doloso con sanción privativa de libertad mayor de un año y no haber sido sancionadas o sancionados por faltas administrativas graves y no graves que hayan resultado en inhabilitación."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Subsecretaria o el Subsecretario y las Secretarias y los Secretarios de Estudio y Cuenta, así como la Secretaria o el Secretario General de Acuerdos, deberán tener, además, por lo menos tres y cinco años de práctica profesional, respectivamente, preferentemente en el Poder Judicial de la Federación o en la academia."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-quint.articulo-14",
+              "heading": "Artículo 14",
+              "descriptor": null,
+              "ordinal": "14",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Requisitos para las categorías de la Carrera Judicial en el Tribunal de Disciplina Judicial La Secretaria o el Secretario General de Acuerdos, la Subsecretaria o Subsecretario General de Acuerdos, las Secretarias y los Secretarios Auxiliares de Acuerdos, las Secretarias o Secretarios Proyectistas, y las Instructoras e Instructores del Tribunal de Disciplina Judicial, deberán ser ciudadanas o ciudadanos mexicanos, estar en el pleno goce y ejercicio de sus derechos civiles y políticos, gozar de buena reputación, contar con título de licenciada o licenciado en derecho expedido legalmente, no haber sido condenadas o condenados por delito doloso con sanción privativa de libertad mayor de un año y no haber sido sancionadas o sancionados por faltas administrativas graves y no graves que hayan resultado en inhabilitación."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Subsecretaria o el Subsecretario de acuerdos, las Secretarias o Secretarios Proyectistas, y las Instructoras e Instructores del Tribunal de Disciplina Judicial deberán tener, además, por lo menos tres años de práctica profesional, y la Secretaria o el Secretario de Acuerdos, cinco años de práctica profesional."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para el ingreso y la promoción en el Tribunal de Disciplina Judicial se estará a lo dispuesto por esta Ley y las disposiciones aplicables de la Ley Orgánica del Poder Judicial de la Federación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-quint.articulo-15",
+              "heading": "Artículo 15",
+              "descriptor": null,
+              "ordinal": "15",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Requisitos para ser Secretaria o Secretario de Tribunal de Circuito y de Juzgados de Distrito Las Secretarias y los Secretarios de Tribunal de Circuito y de Juzgados de Distrito deberán contar con experiencia profesional de al menos tres años, ser ciudadanas o ciudadanos mexicanos, estar en pleno goce y ejercicio de sus derechos civiles y políticos, gozar de buena reputación, contar con título de licenciada o licenciado en derecho expedido legalmente, no haber sido condenadas o condenados por delito doloso con sanción privativa de libertad mayor de un año y no haber sido sancionadas o sancionados por faltas administrativas graves y no graves que hayan resultado en inhabilitación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-quint.articulo-16",
+              "heading": "Artículo 16",
+              "descriptor": null,
+              "ordinal": "16",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Requisitos para ser Asistente de constancias y registro en tribunal de alzada Para ser Asistente de constancias y registro de tribunal de alzada se deberá contar con experiencia profesional de al menos tres años, ser ciudadana o ciudadano mexicano, estar en pleno goce y ejercicio de sus derechos civiles y políticos, gozar de buena reputación, contar con título de licenciada o licenciado en derecho expedido legalmente, no haber sido condenada o condenado por delito doloso con sanción privativa de libertad mayor de un año y no haber sido sancionada o sancionado por faltas administrativas graves y no graves que hayan resultado en inhabilitación; serán nombradas y nombrados de conformidad con las disposiciones de esta Ley y de los acuerdos generales aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-quint.articulo-17",
+              "heading": "Artículo 17",
+              "descriptor": null,
+              "ordinal": "17",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Requisitos para ser Asistente de constancias y registro en juzgados de control y enjuiciamiento, así como secretarias o secretarios judiciales Los Asistentes de constancia y registro de Juez o Jueza de control o Juez o Jueza de enjuiciamiento, así como, las Secretarias o los Secretarios instructores, Secretarias o Secretarios de constancias, de audiencias, de acuerdos, de diligencias y de instrucción de los juzgados laborales deberán contar con una experiencia profesional de al menos tres años, ser ciudadanas o ciudadanos mexicanos, estar en pleno goce y ejercicio de sus derechos civiles y políticos, gozar de buena reputación, contar con título de licenciada o licenciado en derecho expedido legalmente, no haber sido condenadas o condenados por delito doloso con sanción privativa de libertad mayor de un año y no haber sido sancionadas o sancionados por faltas administrativas graves y no graves que hayan resultado en inhabilitación; serán nombradas y nombrados de conformidad con las disposiciones de esta Ley y de los acuerdos generales aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-quint.articulo-18",
+              "heading": "Artículo 18",
+              "descriptor": null,
+              "ordinal": "18",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Requisitos para ser Actuaria o Actuario Las Actuarias y los Actuarios deberán ser ciudadanas y ciudadanos mexicanos, estar en pleno ejercicio de sus derechos, gozar de buena reputación, contar con título de licenciado o licenciada en derecho expedido legalmente, no haber sido condenada o condenado por delito doloso con sanción privativa de libertad mayor de un año y no haber sido sancionada o sancionado por faltas administrativas graves y no graves que hayan resultado en inhabilitación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-quint.articulo-19",
+              "heading": "Artículo 19",
+              "descriptor": null,
+              "ordinal": "19",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Requisitos para ser Oficial judicial Las y los Oficiales judiciales deberán ser ciudadanas y ciudadanos mexicanos, estar en pleno ejercicio de sus derechos, gozar de buena reputación, no haber sido condenada o condenado por delito doloso con sanción privativa de libertad mayor de un año y no haber sido sancionada o sancionado por faltas administrativas graves y no graves que hayan resultado en inhabilitación. Su permanencia en el cargo estará condicionada a la obtención de título de licenciado o licenciada en derecho expedido legalmente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-quint.articulo-20",
+              "heading": "Artículo 20",
+              "descriptor": null,
+              "ordinal": "20",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Requisitos para las categorías del Tribunal Electoral Los requisitos para las categorías de la Carrera Judicial en el Tribunal Electoral se encuentran previstos en la Ley Orgánica del Poder Judicial de la Federación."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-sext",
+          "heading": "CAPÍTULO SEXTO",
+          "descriptor": "ETAPAS DE LA CARRERA JUDICIAL",
+          "ordinal": "SEXTO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-sext.articulo-21",
+              "heading": "Artículo 21",
+              "descriptor": null,
+              "ordinal": "21",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Etapas de la carrera Las etapas de la Carrera Judicial previstas en el presente Capítulo comprenden el ingreso, promoción, evaluación del desempeño, permanencia y separación en el cargo del personal de Carrera Judicial, con excepción de aquellas o aquellos de la Suprema Corte y del Tribunal Electoral."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-segund.capitulo-sext.seccion-primera",
+              "heading": "SECCIÓN PRIMERA",
+              "descriptor": "INGRESO Y PROMOCIÓN",
+              "ordinal": "PRIMERA",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-primera.articulo-22",
+                  "heading": "Artículo 22",
+                  "descriptor": null,
+                  "ordinal": "22",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Ingreso a la Carrera Judicial Cualquier persona puede ingresar a la Carrera Judicial a través de las siguientes vías:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Mediante los concursos abiertos de oposición que para ocupar la categoría de Oficial judicial se realicen por la Escuela Nacional de Formación Judicial, con la periodicidad que determine el Órgano de Administración Judicial o a través del Programa de Prácticas Judiciales para dicha categoría;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "A través de la designación en alguna de las categorías de Carrera Judicial pertenecientes a la Suprema Corte, al Tribunal Electoral y al Tribunal de Disciplina Judicial, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "A través de la designación como Secretaria o Secretario Proyectista de Tribunal de Circuito o como Secretaria o Secretario Proyectista de Juzgado de Distrito."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-primera.articulo-23",
+                  "heading": "Artículo 23",
+                  "descriptor": null,
+                  "ordinal": "23",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Promoción en la Carrera Judicial La promoción a las categorías de Actuaria o Actuario; Secretaria o Secretario de Juzgado o Asistente de constancias y registro de Jueza o Juez de control o Juez o Jueza de enjuiciamiento; Secretaria o Secretario de Tribunal o Asistente de constancias y registro de tribunal de alzada; Secretaria o Secretario instructor, de constancias, de audiencias, de acuerdos, de diligencias y de instrucción de los juzgados laborales, y Secretaria o Secretario Proyectista, e Instructor o Instructora del Tribunal de Disciplina Judicial se hará a través de concursos internos o se podrá realizar mediante concursos abiertos de oposición en los términos de esta Ley y de los acuerdos generales que al efecto expida el Órgano de Administración Judicial."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-primera.articulo-24",
+                  "heading": "Artículo 24",
+                  "descriptor": null,
+                  "ordinal": "24",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Modalidades de los concursos de oposición Las modalidades de los concursos de oposición a las distintas categorías de la Carrera Judicial serán las siguientes:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "De acuerdo con las personas que pueden participar, éstos podrán ser:"
+                    },
+                    {
+                      "type": "inciso",
+                      "ordinal": "a",
+                      "text": "Internos: Aquellos concursos en los que podrán participar las personas que ocupen algún cargo dentro de la Carrera Judicial y que cumplan con los requisitos para ingresar establecidos en esta Ley, el Acuerdo General del Pleno del Órgano de Administración Judicial que reglamente la Carrera Judicial y la convocatoria respectiva."
+                    },
+                    {
+                      "type": "inciso",
+                      "ordinal": "b",
+                      "text": "Abiertos: En estos concursos podrá participar cualquier persona que cumpla con los requisitos señalados en esta Ley y el Acuerdo General del Pleno del Órgano de Administración Judicial que reglamente la Carrera Judicial, salvo los referidos al desempeño previo de cargos en la Carrera Judicial. No obstante, en la convocatoria se podrán fijar requisitos que aseguren que las y los concursantes tengan el perfil y experiencia necesarios para desempeñar la función de la categoría que se concurse."
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "De acuerdo con el mecanismo de selección, éstos podrán ser:"
+                    },
+                    {
+                      "type": "inciso",
+                      "ordinal": "a",
+                      "text": "Escolarizados: Se denominan escolarizados cuando dentro de las etapas del concurso se prevé la realización de un curso de formación impartido por la Escuela Judicial."
+                    },
+                    {
+                      "type": "inciso",
+                      "ordinal": "b",
+                      "text": "No escolarizados: Los concursos de este tipo serán todos los demás casos que no impliquen llevar a cabo algún curso de formación."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Sin perjuicio de lo anterior, la Escuela Judicial podrá establecer en la convocatoria respectiva, la obligatoriedad de una capacitación que, según lo determine, podrá ser previa o posterior a los concursos de oposición. Esta capacitación será inherente y estrictamente relacionada con las funciones realizadas para la categoría postulada."
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "De acuerdo con la finalidad, éstos podrán ser:"
+                    },
+                    {
+                      "type": "inciso",
+                      "ordinal": "a",
+                      "text": "Para acceder directamente a una plaza dentro de alguna de las categorías de la Carrera Judicial."
+                    },
+                    {
+                      "type": "inciso",
+                      "ordinal": "b",
+                      "text": "Para incorporarse a una lista de acceso o promoción en la Carrera Judicial."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "En aras del principio de paridad de género de la Carrera Judicial se podrán llevar a cabo concursos de oposición dirigidos exclusivamente a mujeres, independientemente de la modalidad de éstos."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-primera.articulo-25",
+                  "heading": "Artículo 25",
+                  "descriptor": null,
+                  "ordinal": "25",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Categorías elegibles para concursos de oposición internos En los concursos de oposición para ser promovido a la categoría de Actuaria o Actuario únicamente podrán participar las y los Oficiales judiciales."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "En los concursos de oposición para ser promovido a la categoría de Secretaria o Secretario de Juzgado o de Asistente de constancias y registro de Jueza o Juez de control o Jueza o Juez de enjuiciamiento, así como de Secretaria o Secretario instructor, de constancias, de audiencias, de acuerdos, de diligencias y de instrucción de los juzgados laborales, podrán participar las y los Oficiales judiciales y las Actuarias y los Actuarios."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "En los concursos de oposición para la promoción a la categoría de Secretaria o Secretario de tribunal, Asistente de constancias y registro de tribunal de alzada y de Secretaria o Secretario Proyectista, e Instructor o Instructora del Tribunal de Disciplina Judicial, únicamente podrán participar las Secretarias o los Secretarios de juzgado, los Asistentes de constancias y registro de Jueza o Juez de control o Jueza o Juez de enjuiciamiento, las Secretarias o los Secretarios Proyectistas de Juzgado de Distrito, las y los Oficiales judiciales y las Actuarias y los Actuarios."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-primera.articulo-26",
+                  "heading": "Artículo 26",
+                  "descriptor": null,
+                  "ordinal": "26",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Disposiciones comunes a los concursos de oposición Las convocatorias a los concursos de oposición deberán ser publicadas por una vez en el Diario Oficial de la Federación y por dos veces en uno de los diarios de mayor circulación nacional, con un intervalo de cinco días hábiles entre cada publicación. En la convocatoria, se deberá especificar si el concurso se trata de oposición abierto o interno, así como los criterios de desempate, entre ellos el de paridad de género. Además, las convocatorias deberán contemplar ajustes razonables para garantizar que los concursos de oposición serán en igualdad de condiciones."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "La convocatoria señalará la categoría para la cual se concursa y se precisará el lugar, día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Como requisito indispensable en toda convocatoria se deberá establecer la obligación de la persona aspirante de manifestar bajo protesta de decir verdad todas las relaciones familiares por afinidad o consanguinidad hasta el cuarto grado en el Poder Judicial de la Federación."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El Órgano tendrá la facultad de obtener y verificar, en todo momento, la información que las personas aspirantes le hubieren proporcionado."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El Órgano podrá suspender o cancelar el desarrollo de un concurso de oposición cuando concurran causas extraordinarias y debidamente justificadas, debiendo hacerlo del conocimiento de las y los concursantes."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-primera.articulo-27",
+                  "heading": "Artículo 27",
+                  "descriptor": null,
+                  "ordinal": "27",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Organización y celebración de los concursos de oposición La celebración y organización de los concursos de oposición para acceder a las categorías de la Carrera Judicial a que se refieren las fracciones III a XI del artículo 11 de esta Ley, con excepción de las personas servidoras públicas de la Suprema Corte y del Tribunal Electoral, estará a cargo de la Escuela Nacional de Formación Judicial en términos de las bases que determine el Órgano, de conformidad con lo que dispone esta Ley y los acuerdos generales correspondientes."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las y los concursantes que resulten vencedores en los concursos de oposición serán integrados a las listas que para cada circuito elabore la Escuela Judicial, para poder ser designados en la categoría respectiva, en los términos previstos por esta Ley y los acuerdos generales que para tal efecto expida el Órgano. Dicha lista deberá integrarse en orden decreciente a partir de la calificación más alta obtenida en el concurso."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-primera.articulo-28",
+                  "heading": "Artículo 28",
+                  "descriptor": null,
+                  "ordinal": "28",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Facultad de nombramiento del personal Para los efectos de la atribución prevista en el párrafo quinto del artículo 97 de la Constitución, las y los titulares cubrirán las vacantes de personal jurisdiccional de entre aquellas personas que figuren en el diez por ciento superior de las listas de vencedores, garantizando la integración paritaria del órgano jurisdiccional en cada categoría."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Si la convocatoria del concurso se emitió para ocupar una categoría de un órgano jurisdiccional especializado, se integrarán listas específicas para esa categoría y las vacantes de dichos órganos serán cubiertas con aquellas personas que figuren en el diez por ciento superior de esa lista. Con base en esas listas solo podrán cubrirse vacantes del órgano especializado para el que se concursó, sin perjuicio de que una misma persona pueda figurar en una o más listas."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Cuando la vacante a cubrir corresponda a las categorías de Secretarias o Secretarios Proyectistas de Tribunal de Circuito o Juzgado de Distrito, al ser un puesto considerado como de confianza, la designación y remoción de los mismos será libre, pero el nombramiento respectivo quedará sujeto a la condición de que la persona acredite dentro de los tres meses siguientes al nombramiento, el examen que para tal efecto diseñe la Escuela Nacional de Formación Judicial."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Lo dispuesto por el párrafo anterior también será aplicable a las Secretarias y Secretarios Proyectistas e Instructores del Tribunal de Disciplina Judicial cuando ingresen mediante designación de la persona titular correspondiente."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "La persona titular del órgano jurisdiccional deberá nombrar a la persona que cubrirá la vacante dentro de un plazo de treinta días naturales, notificando de ello al Órgano en un plazo no mayor a tres días hábiles. En caso de que la o el titular no llegare a nombrar a la persona que cubrirá la vacante a partir de la lista correspondiente, el Órgano lo designará de plano tomando en consideración la lista antes referida y de acuerdo con el orden de la misma en función de las calificaciones más altas, procurando garantizar la integración paritaria del órgano jurisdiccional."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-segund.capitulo-sext.seccion-segunda",
+              "heading": "SECCIÓN SEGUNDA",
+              "descriptor": "DESARROLLO PROFESIONAL",
+              "ordinal": "SEGUNDA",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-segunda.articulo-29",
+                  "heading": "Artículo 29",
+                  "descriptor": null,
+                  "ordinal": "29",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Definición El desarrollo profesional se encarga de establecer los procesos para determinar los planes individualizados de carrera de las personas servidoras públicas a fin de identificar posibles trayectorias de desarrollo, así como los requisitos y las reglas por cubrir por parte de los mismos, con el objetivo de impulsar el desarrollo integral de las y los integrantes de la Carrera Judicial en cualquiera de sus especialidades y contribuir al cumplimento de los fines de la misma."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-segunda.articulo-30",
+                  "heading": "Artículo 30",
+                  "descriptor": null,
+                  "ordinal": "30",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Capacitación El desarrollo profesional implica a su vez el acceso a esquemas de capacitación acordes a los perfiles y funciones que desempeña cada integrante de la Carrera Judicial, siendo a su vez un factor indispensable para evaluar su desempeño. Estará a cargo, fundamentalmente, de la Escuela Nacional de Formación Judicial."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Todas y todos los integrantes de la Carrera Judicial tienen derecho a perfeccionarse y actualizarse continuamente, en igualdad de condiciones y oportunidades."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-segunda.articulo-31",
+                  "heading": "Artículo 31",
+                  "descriptor": null,
+                  "ordinal": "31",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Programa de formación y desarrollo profesional El Órgano de Administración Judicial, por conducto de la Escuela Judicial, deberá expedir un Programa de Formación y Desarrollo Profesional, basado en esquemas de capacitación y profesionalización permanentes, en función de las distintas categorías de la Carrera Judicial, contemplando al menos los siguientes aspectos:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Humanidades;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Procesos de decisión y de formalización de la justicia;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "Acceso a la justicia;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "Buena administración de la justicia;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "V",
+                      "text": "Comunicación judicial y lenguaje ciudadano;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VI",
+                      "text": "Interpretación y argumentación judicial;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VII",
+                      "text": "Dimensión nacional e internacional de la justicia;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VIII",
+                      "text": "Protección y defensa de los derechos humanos;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IX",
+                      "text": "Igualdad y perspectiva de género;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "X",
+                      "text": "Derechos de niñas, niños y adolescentes;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XI",
+                      "text": "Derechos de pueblos y comunidades indígenas y afromexicanas;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XII",
+                      "text": "Derechos de personas con discapacidad;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XIII",
+                      "text": "Integridad en el ejercicio de la función;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XIV",
+                      "text": "Gestión de recursos humanos y administrativos;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XV",
+                      "text": "Transparencia y rendición de cuentas;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XVI",
+                      "text": "Mecanismos Alternativos de Solución de Controversias;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XVII",
+                      "text": "Materias específicas y multidisciplinarias para cada integrante de la Carrera Judicial, en función de su perfil y de las actividades de naturaleza jurisdiccional que realice, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XVIII",
+                      "text": "Las demás que establezcan los acuerdos generales aplicables."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-segund.capitulo-sext.seccion-tercera",
+              "heading": "SECCIÓN TERCERA",
+              "descriptor": "EVALUACIÓN DEL DESEMPEÑO",
+              "ordinal": "TERCERA",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-tercera.articulo-32",
+                  "heading": "Artículo 32",
+                  "descriptor": null,
+                  "ordinal": "32",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Definición La evaluación del desempeño implica el establecimiento de métodos para valorar el cumplimiento cualitativo y cuantitativo, de manera individual y, en su caso, colectiva, de las funciones y objetivos asignados a las y los integrantes de la Carrera Judicial, contribuyendo a fortalecer la eficiencia, eficacia y calidad de la administración de justicia."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-tercera.articulo-33",
+                  "heading": "Artículo 33",
+                  "descriptor": null,
+                  "ordinal": "33",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Fines A través de la evaluación del desempeño se podrá apreciar el rendimiento de cada persona servidora pública de la Carrera Judicial evaluado o evaluada dentro del marco de su categoría y actividades concretas, así como detectar las necesidades de capacitación o recomendar la incorporación de mejores prácticas para optimizar la impartición de justicia."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-tercera.articulo-34",
+                  "heading": "Artículo 34",
+                  "descriptor": null,
+                  "ordinal": "34",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Evaluación del desempeño La evaluación del desempeño de las personas de Carrera Judicial es facultad del Órgano de Administración Judicial."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El Órgano, a través de acuerdos generales, establecerá los criterios y mecanismos de evaluación de la eficacia y eficiencia del ejercicio de las funciones jurisdiccionales, en función de cada categoría de la Carrera Judicial, determinando a su vez los alcances y efectos de los resultados de la evaluación. De igual forma, establecerá el periodo de aplicación, las instancias y órganos encargados de la evaluación y el seguimiento de los resultados."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "La Escuela Judicial coadyuvará con las funciones de evaluación del desempeño que realicen el Órgano y el Tribunal de Disciplina Judicial en los términos y mediante los procesos que establezca el Órgano mediante acuerdos generales."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "La Escuela Judicial llevará un seguimiento del desarrollo de las personas servidoras públicas de la Carrera Judicial para el logro de sus fines."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-tercera.articulo-35",
+                  "heading": "Artículo 35",
+                  "descriptor": null,
+                  "ordinal": "35",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Resultados Los resultados de la evaluación serán la base para la obtención de reconocimientos, así como para la toma de decisiones en materia de permanencia y, en su caso, separación de la Carrera Judicial."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Los resultados observarán el principio de publicidad para la satisfacción del derecho a la información pública. El Órgano velará por el cumplimiento de esta obligación."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El Órgano podrá remitir al Comité de Evaluación del Poder Judicial de la Federación los resultados de la evaluación de desempeño de las personas de Carrera Judicial que se postulen a un cargo de elección judicial. El Órgano definirá los términos y procedimientos para el desahogo de esta atribución mediante acuerdo general."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-segund.capitulo-sext.seccion-cuarta",
+              "heading": "SECCIÓN CUARTA",
+              "descriptor": "PERMANENCIA",
+              "ordinal": "CUARTA",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-cuarta.articulo-36",
+                  "heading": "Artículo 36",
+                  "descriptor": null,
+                  "ordinal": "36",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Resultado de la evaluación del desempeño La permanencia en la Carrera Judicial de las categorías previstas en las fracciones III a XI del artículo 11 de esta Ley, con excepción de las personas servidoras públicas de la Suprema Corte y del Tribunal Electoral, estará sujeta al resultado de la evaluación del desempeño en los términos de esta Ley y de los acuerdos que para tal efecto emitan los órganos competentes del Órgano. Lo anterior, sin perjuicio de lo previsto por el artículo 37 de esta Ley."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-segund.capitulo-sext.seccion-quinta",
+              "heading": "SECCIÓN QUINTA",
+              "descriptor": "SEPARACIÓN",
+              "ordinal": "QUINTA",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-quinta.articulo-37",
+                  "heading": "Artículo 37",
+                  "descriptor": null,
+                  "ordinal": "37",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Separación de la carrera El proceso de separación de la Carrera Judicial comprende los criterios y procedimientos para que el nombramiento otorgado a las personas servidoras públicas pertenecientes a la misma, deje de surtir efectos sin responsabilidad para el Poder Judicial de la Federación."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-quinta.articulo-38",
+                  "heading": "Artículo 38",
+                  "descriptor": null,
+                  "ordinal": "38",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Causales de separación La separación de las personas servidoras públicas pertenecientes a la Carrera Judicial ocurrirá cuando se presente cualquiera de las siguientes causas:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Renuncia;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Incapacidad física o mental que impida el desempeño de sus funciones, sin perjuicio de los ajustes razonables que procedan;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "Designación para ocupar un puesto, cargo o función no perteneciente al servicio de carrera sin previa licencia;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "No acreditar el procedimiento que disponga el Órgano mediante acuerdo general respecto de las evaluaciones de desempeño a que se refiere la presente Ley y las disposiciones normativas aplicables que al efecto se emitan;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "V",
+                      "text": "Destitución o inhabilitación por resolución firme que así lo determine;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VI",
+                      "text": "Condena a pena privativa de libertad por razón de delito doloso que haya causado ejecutoria;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VII",
+                      "text": "Rescisión de la relación laboral derivada de un conflicto de trabajo, determinada por la autoridad competente, que haya quedado firme;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VIII",
+                      "text": "Por remoción, tratándose de las categorías previstas en las fracciones I, II, III, VI, IX y XI del artículo 11 de esta Ley;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IX",
+                      "text": "Retiro por edad;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "X",
+                      "text": "Jubilación, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XI",
+                      "text": "Las demás que establezca la presente Ley y demás disposiciones aplicables."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-quinta.articulo-39",
+                  "heading": "Artículo 39",
+                  "descriptor": null,
+                  "ordinal": "39",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Facultad de remoción La facultad de remoción tratándose de las categorías previstas en las fracciones I, II, III, VI, IX y XI del artículo 11 de la presente Ley se ejercerá en los términos de la normatividad aplicable."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-sext.seccion-quinta.articulo-40",
+                  "heading": "Artículo 40",
+                  "descriptor": null,
+                  "ordinal": "40",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Efectos de la separación La separación de las personas integrantes de la Carrera Judicial implicará que quede sin efecto su nombramiento, así como la pérdida de los derechos inherentes al cargo."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-septim",
+          "heading": "CAPÍTULO SÉPTIMO",
+          "descriptor": "INTEGRACIÓN DE LA PLANTILLA DE LOS ÓRGANOS JURISDICCIONALES",
+          "ordinal": "SÉPTIMO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-septim.articulo-41",
+              "heading": "Artículo 41",
+              "descriptor": null,
+              "ordinal": "41",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La plantilla de los órganos jurisdiccionales deberá integrarse observando el principio de paridad de género, en el entendido de que, de manera integral y en cada nivel de cargo o escalafón, cuando menos la mitad de las plazas sean ocupadas por mujeres. Esta regla admite como única excepción el caso de que en determinado puesto el número de plazas sea impar o tratándose de puestos en los que sólo exista una plaza."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-octav",
+          "heading": "CAPÍTULO OCTAVO",
+          "descriptor": "DERECHOS Y OBLIGACIONES",
+          "ordinal": "OCTAVO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-octav.articulo-42",
+              "heading": "Artículo 42",
+              "descriptor": null,
+              "ordinal": "42",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Derechos Son derechos de las personas servidoras públicas integrantes de la Carrera Judicial:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Recibir el nombramiento como persona servidora pública integrante de la Carrera Judicial cumplidos los requisitos establecidos en la presente Ley y demás disposiciones aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Percibir las remuneraciones y prestaciones laborales correspondientes a la categoría para la cual hayan sido designados de conformidad con la normativa aplicable en el Poder Judicial de la Federación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Gozar de permisos y licencias en términos de las disposiciones aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Percibir los reconocimientos correspondientes en los términos y bajo las condiciones establecidas en la presente Ley y demás disposiciones aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Recibir capacitación por parte de la Escuela Judicial para el mejor desempeño de sus funciones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Contar con la autorización y las facilidades del superior jerárquico para asistir a los cursos de capacitación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Conocer los resultados obtenidos de las evaluaciones que se le hayan realizado;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Acceder en igualdad de condiciones a los concursos de oposición para las categorías de la Carrera Judicial, cuando hayan cumplido los requisitos y procedimientos descritos en la presente Ley y disposiciones normativas aplicables, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Los demás que determinen las leyes y disposiciones normativas aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-octav.articulo-43",
+              "heading": "Artículo 43",
+              "descriptor": null,
+              "ordinal": "43",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Obligaciones Son obligaciones de las personas servidoras públicas integrantes de la Carrera Judicial:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Ejercer sus funciones con estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, respeto a los derechos humanos y los demás previstos en la presente Ley y demás disposiciones normativas aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Participar en los cursos de capacitación que imparta la Escuela Judicial y acreditar las evaluaciones de desempeño establecidas para su continuidad y desarrollo en la Carrera Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Conducirse con respeto a la normativa en materia de igualdad de género y fomentar espacios laborales libres de violencia y discriminación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Proporcionar la información y documentación necesarias a la persona servidora pública que se designe para suplirlo en ausencias temporales, conforme a la normativa aplicable;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Realizar las funciones propias de su cargo conforme a la normativa y en el tiempo y lugar estipulado, con la responsabilidad, la prontitud, el cuidado y la eficiencia que sean compatibles con sus aptitudes, su preparación y su destreza;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Abstenerse de participar, directa o indirectamente en la designación o nombramiento en cualquier órgano jurisdiccional o área administrativa del Poder Judicial de la Federación en que ejerza funciones, de personas con las que tenga lazos de parentesco por consanguinidad o afinidad hasta el cuarto grado o vínculo de matrimonio, concubinato o afectivo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Conducirse en su actuar con apego a la independencia de la función judicial procurando una administración de la justicia pronta, completa, expedita e imparcial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Manifestar bajo protesta de decir verdad los vínculos familiares o por afinidad hasta el cuarto grado con personas servidoras públicas del Poder Judicial de la Federación, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Las demás que establezca la presente Ley y demás disposiciones aplicables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La omisión, falsedad o mala fe en las manifestaciones o validaciones a que se refieren las fracciones VIII y IX de este artículo, tendrá como consecuencia que el nombramiento del servidor público obligado o la servidora pública obligada quede sin efecto, con independencia de las demás responsabilidades a que haya lugar."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-noven",
+          "heading": "CAPÍTULO NOVENO",
+          "descriptor": "INSTANCIAS DE LA CARRERA JUDICIAL",
+          "ordinal": "NOVENO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-noven.articulo-44",
+              "heading": "Artículo 44",
+              "descriptor": null,
+              "ordinal": "44",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Instancias Serán en lo conducente, instancias competentes para aplicar las disposiciones previstas en esta Ley, el Pleno de la Suprema Corte, el Órgano, el Pleno del Tribunal Electoral y el Pleno del Tribunal de Disciplina Judicial, en sus respectivos ámbitos de competencia, así como la Escuela Judicial y las correspondientes comisiones, secretarías ejecutivas, unidades administrativas y direcciones generales de dichas instancias, según corresponda, en los términos que establezca esta Ley y los acuerdos generales aplicables."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-decim",
+          "heading": "CAPÍTULO DÉCIMO",
+          "descriptor": "REGISTRO ÚNICO DE PERSONAS SERVIDORAS PÚBLICAS DE LA CARRERA JUDICIAL",
+          "ordinal": "DÉCIMO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-decim.articulo-45",
+              "heading": "Artículo 45",
+              "descriptor": null,
+              "ordinal": "45",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Registro único El Registro es un padrón que contiene información básica y técnica en materia de recursos humanos del personal perteneciente a la Carrera Judicial. Se establece con el fin de apoyar el desarrollo del servidor público o de la servidora pública dentro de la misma y para que el Poder Judicial de la Federación cuente con información actualizada, confiable y eficaz que contribuya al establecimiento de políticas públicas enfocadas en el fortalecimiento de la profesionalización y eficacia en la impartición de justicia. Los datos personales que en él se contengan serán considerados confidenciales."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-decim.articulo-46",
+              "heading": "Artículo 46",
+              "descriptor": null,
+              "ordinal": "46",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Elementos del Registro El Registro sistematizará la información relativa a la planeación de recursos humanos, ingreso, promoción, evaluación del desempeño, permanencia y separación de las personas servidoras públicas de la Carrera Judicial. El Registro deberá incluir a cada persona servidora pública que ingrese a la Carrera Judicial."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En el caso del Órgano, el Registro contará con un padrón de relaciones familiares a través de un sistema electrónico en el portal de Internet de su página electrónica en donde las servidoras o servidores públicos cada seis meses deberán manifestar bajo protesta de decir verdad sus relaciones familiares en el Poder Judicial de la Federación, por afinidad o consanguinidad hasta el cuarto grado, así como los potenciales conflictos de interés en el ejercicio de su encargo. Dicha información será registrada con un número de expediente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-decim.articulo-47",
+              "heading": "Artículo 47",
+              "descriptor": null,
+              "ordinal": "47",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Actualización Los datos del Registro respecto al proceso de capacitación y desarrollo deberán actualizarse de manera permanente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-decim.articulo-48",
+              "heading": "Artículo 48",
+              "descriptor": null,
+              "ordinal": "48",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Información El Poder Judicial de la Federación, para efectos del Registro, podrá recabar información de recursos humanos proporcionada por las autoridades o instituciones con las cuales se suscriban convenios."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La información contenida en el Registro deberá ser resguardada por el Poder Judicial de la Federación conforme a las leyes y disposiciones administrativas de la materia."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-decim",
+          "heading": "CAPÍTULO DÉCIMO",
+          "descriptor": "PRIMERO",
+          "ordinal": "DÉCIMO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "RECONOCIMIENTOS"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-decim.articulo-49",
+              "heading": "Artículo 49",
+              "descriptor": null,
+              "ordinal": "49",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Reconocimientos El Órgano establecerá, de acuerdo con su presupuesto y mediante disposiciones generales, un sistema de reconocimientos para aquellas personas comprendidas en las categorías señaladas en el artículo 11 de esta Ley. Dicho sistema tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro de la Escuela Judicial, la antigüedad, grado académico, y los demás que mediante acuerdos generales estime necesarios el propio Órgano."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-decim",
+          "heading": "CAPÍTULO DÉCIMO",
+          "descriptor": "SEGUNDO",
+          "ordinal": "DÉCIMO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "SUSTITUCIONES Y LICENCIAS"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-decim.articulo-50",
+              "heading": "Artículo 50",
+              "descriptor": null,
+              "ordinal": "50",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Sustituciones y licencias Para los efectos de las sustituciones y licencias de las servidoras públicas y los servidores públicos de la Carrera Judicial, se estará a lo dispuesto en la Ley Orgánica del Poder Judicial de la Federación y en los acuerdos generales conducentes."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-tercer",
+      "heading": "TÍTULO TERCERO",
+      "descriptor": "MEDIDAS DE COMBATE AL NEPOTISMO",
+      "ordinal": "TERCERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": "IMPEDIMENTOS EN LOS NOMBRAMIENTOS Y OBLIGACIÓN DE INFORMAR VÍNCULOS",
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "FAMILIARES"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-51",
+              "heading": "Artículo 51",
+              "descriptor": null,
+              "ordinal": "51",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Impedimentos en los nombramientos Las y los Titulares están impedidas e impedidos para otorgar nombramiento, prórroga o promoción a cualquier persona en los supuestos siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Con la que tenga vínculo o relación familiar o de pareja, o conflicto de interés;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Con la que tenga vínculo o relación familiar o de pareja con cualquier persona servidora pública del órgano jurisdiccional en el que es Titular, lo que incluye al resto de Titulares en el caso de órganos jurisdiccionales colegiados y al personal de la Secretaría de Acuerdos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "A quien tenga vínculo o relación familiar o de pareja, o conflicto de interés, con otra persona Titular de órgano jurisdiccional o área administrativa, si se configura alguno de los siguientes esquemas:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Nombramientos cruzados: Cuando dos Titulares contraten entre sí familiares de cada uno de ellos, o personas con las que tengan conflicto de interés, con independencia de que los respectivos nombramientos sean o no simultáneos."
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Nombramientos triangulados: Cuando más de dos Titulares contraten entre sí familiares de cada uno de ellos o personas con las que tengan conflicto de interés, siempre que los respectivos nombramientos sean simultáneos."
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "Rotación intermitente: Cuando más de dos Titulares, con el propósito de evadir la configuración del esquema de nombramientos triangulados, otorguen nombramientos no simultáneos, de forma intermitente, a familiares de cada uno de ellos o personas con las que tengan conflicto de interés."
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "d",
+                  "text": "Nombramientos a terceros: Cuando dos o más Titulares, con el propósito de evadir la configuración de los esquemas de nombramientos cruzados y triangulados, contraten a servidores públicos con los que no tengan relación familiar, para beneficiar a familiares de alguno o algunos de ellos o personas con las que tengan conflicto de interés;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "A la que tenga vínculo, relación familiar o de pareja, o conflicto de interés con algún o alguna Titular que haya estado adscrito en los dos años inmediatos anteriores al órgano jurisdiccional donde se pretenda dar el nombramiento."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Con independencia de lo anterior, las y los Titulares deberán abstenerse de construir esquemas de contratación en los que se genere beneficio a una o más personas con las que aquellos u otros Titulares tengan vínculo o relación familiar o de pareja, o algún otro conflicto de interés."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La contravención a lo dispuesto en el presente artículo será considerada una falta grave conforme lo dispuesto en los artículos 58 y 63 Bis de la Ley General de Responsabilidades Administrativas y los artículos 187, fracciones VII, XVI, XVII y 203 de la Ley Orgánica y, por lo tanto, será causa de responsabilidad administrativa."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-52",
+              "heading": "Artículo 52",
+              "descriptor": null,
+              "ordinal": "52",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Impedimentos en la transferencia de personal de órganos jurisdiccionales El Órgano deberá evitar concentrar en un mismo órgano jurisdiccional servidores públicos con vínculos o relaciones familiares, en los casos de transferencia de personal por conclusión de funciones, así como en casos de cambios de adscripción o supuesto análogos."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cuando el Órgano emita una determinación que pudiera contravenir lo dispuesto en este artículo, las personas servidoras públicas involucradas deberán informarlo a las instancias respectivas, a efecto de que se corrija la situación, preferentemente antes de que surta efectos la determinación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-53",
+              "heading": "Artículo 53",
+              "descriptor": null,
+              "ordinal": "53",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Obtención de un vínculo o relación posterior al nombramiento La circunstancia de que alguna o algún Titular obtenga un vínculo o relación familiar o de pareja con alguna de las personas servidoras públicas adscritas al mismo órgano jurisdiccional del que sea Titular, no hace cesar el nombramiento previamente expedido. En el supuesto anterior, deberá actualizarse la declaración establecida en el padrón de relaciones familiares, contenido en el Registro Único, y se comunicará a el área competente del Órgano dentro del plazo de tres días, con la finalidad de valorar la situación de la o el Titular."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cuando el vínculo o relación familiar o de pareja se obtenga entre personas adscritas a un mismo órgano jurisdiccional, y ninguna de ellas sea Titular del mismo, el personal deberá actualizar su información en el padrón de relaciones familiares y hacerlo del conocimiento de dicha o dicho Titular, para que éste, a su vez, dé el aviso correspondiente a Recursos Humanos y ésta valide la información en el padrón de relaciones familiares, contenido en el Registro Único. Asimismo, el o la Titular procurará adoptar las medidas de organización necesarias para evitar que las personas con vínculos o relaciones familiares laboren juntas o en los mismos equipos o áreas de trabajo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-54",
+              "heading": "Artículo 54",
+              "descriptor": null,
+              "ordinal": "54",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Contratación de personas vinculadas o relacionadas con otras personas Titulares La contratación de quienes tengan vínculo o relación familiar o de pareja, o conflicto de interés con otra persona Titular de órgano jurisdiccional o de área administrativa, será sometida a consulta ante el área competente del Órgano."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas titulares podrán formular la consulta a el área competente del Órgano antes de otorgar el nombramiento, o bien, otorgarlo y realizar la consulta dentro de los cinco días hábiles siguientes. En el último supuesto, el otorgamiento del nombramiento no dará lugar a responsabilidad administrativa, pero la omisión de efectuar la consulta sí producirá causa de responsabilidad administrativa no grave conforme lo dispuesto en el artículo 49 de la Ley General de Responsabilidades Administrativas y el artículo 187, fracción XVIII, de la Ley Orgánica."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El área competente del Órgano deberá emitir la determinación respectiva dentro de los cinco días hábiles siguientes a la recepción de la consulta, la cual tendrá efectos vinculantes. Si se emite Determinación de Inexistencia de Impedimento, se eximirá de responsabilidad administrativa al Titular por lo que hace a ese movimiento, pero no lo libera de la que pudiera derivar si con motivo de una investigación se recaban pruebas que acrediten la configuración de algún esquema de contratación prohibido que, por su complejidad, no fuera evidente al momento de resolver la consulta."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "De dictarse Determinación de Existencia de Impedimento, deberá notificarse al Titular para que se abstenga de continuar con la contratación o, en su caso, para que deje sin efectos el nombramiento."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-55",
+              "heading": "Artículo 55",
+              "descriptor": null,
+              "ordinal": "55",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Nombramientos en Tribunales Colegiados o Plenos Regionales En los Tribunales Colegiados y en los Plenos Regionales, todos los nombramientos serán firmados por la Magistrada o Magistrado Presidente, de conformidad con lo solicitado por la Magistrada o Magistrado a cuya ponencia esté adscrita la persona de que se trate. La designación hecha por una Magistrada o Magistrado sólo acarrea responsabilidad a quien la solicite, por lo que la Magistrada o Magistrado Presidente no podrá negarse a firmar el nombramiento respectivo."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "No obstante, si la Magistrada o Magistrado Presidente del Tribunal tiene conocimiento de la posible actualización de algún impedimento, deberá dar el aviso respectivo a Recursos Humanos y a el área competente del Órgano."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los nombramientos correspondientes a la Secretaria o Secretario de Acuerdos, a la o el Oficial de Partes, a las personas técnicas de servicios, y demás personal que integre la Secretaría de Acuerdos de un Tribunal Colegiado, así como a las personas servidoras públicas de la Actuaría, serán firmados por la Magistrada o Magistrado Presidente de éste, de conformidad con lo que previamente acuerde el Tribunal funcionando en Pleno."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-56",
+              "heading": "Artículo 56",
+              "descriptor": null,
+              "ordinal": "56",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Consultas El área competente del Órgano está facultada para resolver las consultas relativas a nombramientos de Oficiales judiciales, Actuarias y Actuarios y de Secretarias y Secretarios de Tribunales de Circuito y Juzgados de Distrito, a propuesta de la Magistrada o Magistrado de Circuito o Jueza o Juez de Distrito respectivo. En su caso, requerirá la opinión de las áreas administrativas competentes."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-57",
+              "heading": "Artículo 57",
+              "descriptor": null,
+              "ordinal": "57",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Contravención a los impedimentos de nombramiento Los nombramientos realizados en contravención a este Capítulo constituyen una causal de responsabilidad administrativa para las y los Titulares que intervengan en los mismos. Adicionalmente, el área competente del Órgano dejará sin efectos dichos nombramientos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-58",
+              "heading": "Artículo 58",
+              "descriptor": null,
+              "ordinal": "58",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Obligación de informar Las personas servidoras públicas tendrán la obligación de informar sus vínculos familiares y de pareja."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para tal efecto, deberán hacer los registros respectivos en el padrón de relaciones familiares, contenido en el Registro Único, e informar a sus Titulares, para que éstos tengan claridad sobre casos que pudieran actualizar una prohibición de contratación en el futuro o si deben solicitar opinión a el área competente del Órgano respecto de ésta. En el caso de los Tribunales Colegiados, los vínculos familiares y de pareja del personal que no esté asignado a una ponencia, serán informados a la Presidencia."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-59",
+              "heading": "Artículo 59",
+              "descriptor": null,
+              "ordinal": "59",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Obligación de refrendar y actualizar información Las personas servidoras públicas tendrán la obligación de refrendar y actualizar la información sobre sus vínculos o relaciones familiares y de pareja, contenida en el Registro Único."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los periodos para refrendar información serán los meses de mayo y noviembre de cada anualidad, en términos de la plantilla autorizada hasta el día inmediato anterior. La actualización deberá hacerse dentro de los primeros treinta días a partir de la notificación electrónica que se haga en el correo institucional o cuando se tenga conocimiento del vínculo familiar o de pareja."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas servidoras públicas que reciban un nombramiento provisional o definitivo contarán con treinta días hábiles para registrar la información respectiva en el padrón de relaciones familiares."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En adición a las responsabilidades administrativas que pudieran surgir, el incumplimiento en el llenado del padrón electrónico de relaciones familiares, contenido en el Registro Único, ya sea en el registro inicial, actualizaciones o refrendos, impedirá a quien incurra en dicha omisión recibir licencias -a excepción de las licencias médicas de así considerarlo el área correspondiente-, participar en concursos para cubrir una plaza de mayor nivel, recibir nuevos nombramientos, bases o prórrogas de nombramientos. Lo anterior, en tanto no se subsane dicha omisión."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para efectos de lo anterior, dentro de los treinta días siguientes a cada período de refrendo, las y los Titulares recibirán un aviso con los nombres de las personas adscritas a los órganos jurisdiccionales a su cargo que hayan incurrido en dicha omisión."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-cuart",
+      "heading": "TÍTULO CUARTO",
+      "descriptor": "HOSTIGAMIENTO Y ACOSO SEXUAL",
+      "ordinal": "CUARTO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": "PREVENCIÓN, SANCIÓN Y PROHIBICIÓN DEL HOSTIGAMIENTO Y ACOSO SEXUAL",
+          "ordinal": "ÚNICO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-60",
+              "heading": "Artículo 60",
+              "descriptor": null,
+              "ordinal": "60",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Prevención del hostigamiento laboral y acoso sexual Las personas Titulares deberán procurar adoptar medidas preventivas a fin de evitar conductas de hostigamiento laboral y acoso sexual, así como otras formas de violencia sexual y de género en los órganos jurisdiccionales a su cargo. La unidad especializada en la prevención y el combate al acoso sexual podrá sugerir la adopción de medidas preventivas para combatir el acoso sexual, hostigamiento sexual o cualquier otro tipo de violencia sexual o de género o en virtud de conductas de violencia laboral estrechamente relacionadas con violencia sexual o de género."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-61",
+              "heading": "Artículo 61",
+              "descriptor": null,
+              "ordinal": "61",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Sanciones por hostigamiento y acoso sexual En caso de que una persona servidora pública cometa alguna de las acciones contenidas en el artículo anterior podrá ser sujeto a una responsabilidad administrativa en términos del artículo 187, fracción XV, de la Ley Orgánica."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-62",
+              "heading": "Artículo 62",
+              "descriptor": null,
+              "ordinal": "62",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Prohibición del hostigamiento y acoso sexual Sin importar la categoría en la que se desempeñen, las personas servidoras públicas pertenecientes a la Carrera Judicial, tendrán absolutamente prohibido acosar u hostigar sexualmente, o bien, llevar a cabo conductas de naturaleza sexual, valiéndose de su posición jerárquica o, aunque no exista dicha posición, sobre otra persona de su entorno laboral sin el consentimiento de ésta."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cuando una persona servidora pública perteneciente a la Carrera Judicial tenga conocimiento de una posible vulneración a la integridad física o psicológica de otra persona en virtud de conductas de acoso sexual, hostigamiento sexual o cualquier otro tipo de violencia sexual o de género, deberá canalizar a la persona vulnerada con el área especializada en la prevención y el combate al acoso sexual que establezca para tal efecto el Órgano, cuidando en todo momento la identidad y datos personales de la víctima y velando especialmente por no incurrir en conductas que pudieran constituir victimización secundaria."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-63",
+              "heading": "Artículo 63",
+              "descriptor": null,
+              "ordinal": "63",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Cambio de adscripción por hostigamiento laboral y acoso sexual Adicionalmente a lo establecido en los artículos anteriores, la unidad especializada en la prevención y el combate al acoso sexual podrá proponer a el área competente del Órgano el cambio de adscripción de personas servidoras públicas, como una medida de prevención en los casos de acoso sexual, hostigamiento sexual o cualquier otro tipo de violencia sexual o de género o en virtud de conductas de violencia laboral estrechamente relacionadas con violencia sexual o de género, atendiendo siempre al interés y máxima protección de la persona en riesgo."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-quint",
+      "heading": "TÍTULO QUINTO",
+      "descriptor": null,
+      "ordinal": "QUINTO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-quint.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": "DE LA ESCUELA NACIONAL DE FORMACIÓN JUDICIAL",
+          "ordinal": "ÚNICO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-64",
+              "heading": "Artículo 64",
+              "descriptor": null,
+              "ordinal": "64",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Naturaleza La Escuela Judicial es un órgano auxiliar del Órgano de Administración Judicial con autonomía técnica y de gestión."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Escuela Judicial es responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de Carrera Judicial y administrativo del Poder Judicial de la Federación, sus órganos auxiliares y, en su caso, del personal de los Poderes Judiciales locales, fiscalías, defensorías públicas, organismos de protección de derechos humanos, instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la Carrera Judicial."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para el desempeño de sus funciones, la Escuela Judicial impartirá educación para la profesionalización de la Carrera Judicial, para los estudios de posgrado, educación continua e investigación, así como para la formación, capacitación y actualización del personal jurisdiccional y administrativo del Poder Judicial de la Federación, así como para las demás personas servidoras públicas y particulares contemplados en el párrafo anterior en los términos que establezca el Órgano mediante acuerdo general."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-65",
+              "heading": "Artículo 65",
+              "descriptor": null,
+              "ordinal": "65",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Facultades de la Escuela Judicial La Escuela Judicial tendrá las siguientes facultades:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Educar, capacitar y actualizar a las funcionarias y los funcionarios del Poder Judicial de la Federación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Participar en los exámenes de oposición, así como en los procesos de selección y evaluación del personal del Poder Judicial de la Federación en los términos de esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Elaborar, calificar y resguardar los reactivos y demás documentación correspondiente a los concursos y procesos de selección que se realicen;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Capacitar y actualizar al personal del Instituto Federal de Defensoría Pública, así como realizar los concursos de oposición para defensoras públicas o defensores públicos y asesoras jurídicas o asesores jurídicos de dicho Instituto, en términos de lo dispuesto en las disposiciones jurídicas aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Emitir y ejecutar el Plan Anual de Capacitación para el personal del Instituto Federal de Defensoría Pública;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Expedir el Programa de Formación y Desarrollo Profesional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Implementar la formación permanente y obligatoria en perspectiva de género como un criterio obligatorio para la obtención de nombramientos y ascensos en la Carrera Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Diseñar, difundir e impartir sus programas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Diseñar, difundir e impartir posgrados, programas de educación continua y cursos de formación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Implementar programas de investigación que desarrollen y mejoren las funciones del Poder Judicial de la Federación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Diseñar, difundir e impartir cursos de preparación para los concursos correspondientes a las distintas categorías que componen la Carrera Judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Coordinarse con instituciones académicas para que lo auxilien en sus funciones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Promover intercambios académicos con instituciones de educación superior;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Celebrar convenios de colaboración para la formación, capacitación, evaluación, certificación y actualización del personal de los Poderes Judiciales locales, fiscalías, defensorías públicas locales, organismos de protección de derechos humanos, e instituciones de seguridad pública, de acuerdo con las disposiciones que emita el Órgano mediante acuerdos generales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "Obtener, en su caso, el reconocimiento de validez oficial de los planes y programas de estudio que elabore;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "Establecer extensiones regionales, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVII",
+                  "text": "Las demás que se determinen en las leyes y los acuerdos generales del Órgano."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-66",
+              "heading": "Artículo 66",
+              "descriptor": null,
+              "ordinal": "66",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Directora o Director General La Escuela Judicial contará con una Directora o Director quien será la o el encargado de determinar las líneas generales de capacitación y selección del personal de Carrera Judicial. Para ello, se auxiliará del personal de la Escuela Judicial que estime pertinente. El Pleno del Órgano designará a la Directora o Director, a propuesta de la Presidenta o Presidente, quien durará dos años, con posibilidad de ratificación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-67",
+              "heading": "Artículo 67",
+              "descriptor": null,
+              "ordinal": "67",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Integración del Comité Académico La Escuela Judicial tendrá un Comité Académico que presidirá su Directora o Director y estará integrado por cuando menos ocho personas miembros, designados por el Órgano, para ejercer por un período no menor de dos años ni mayor de cuatro, de entre personas con reconocida experiencia profesional o académica."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Con el fin de propiciar la participación del sector académico nacional en los procesos de selección y evaluación del personal del Poder Judicial de la Federación, la Escuela Judicial podrá invitar a participar en los mismos a instituciones académicas de reconocida experiencia y capacidad en la materia, que serán autorizados por el Órgano."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Comité Académico tendrá como función determinar de manera conjunta con la Directora o Director General, los programas de investigación, preparación y capacitación de las y los alumnos de la Escuela Judicial, los mecanismos de evaluación y rendimiento, la elaboración de los proyectos de reglamentos de la Escuela Judicial y la participación en los exámenes de oposición a que se refiere esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-68",
+              "heading": "Artículo 68",
+              "descriptor": null,
+              "ordinal": "68",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Formación La formación del personal de la Carrera Judicial deberá plantearse desde un enfoque transversal teniendo el objetivo de desarrollar y consolidar las competencias de las servidoras públicas o los servidores públicos de la Carrera Judicial con independencia de su función. Por lo tanto, el método pedagógico priorizará los conocimientos comunes a todas las funciones."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-69",
+              "heading": "Artículo 69",
+              "descriptor": null,
+              "ordinal": "69",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Programas Los programas que imparta la Escuela Judicial tendrán como objeto lograr que las y los integrantes del Poder Judicial de la Federación o quienes aspiren a ingresar a éste, fortalezcan los conocimientos y habilidades necesarios para el adecuado desempeño de la función judicial. Para ello, la Escuela Judicial establecerá los programas y cursos tendientes a:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Desarrollar el conocimiento práctico de los trámites, diligencias y actuaciones que forman parte de los procedimientos y asuntos de la competencia del Poder Judicial de la Federación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Perfeccionar las habilidades y técnicas en materia de preparación y ejecución de actuaciones judiciales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Reforzar, actualizar y profundizar los conocimientos respecto del ordenamiento jurídico positivo, doctrina y jurisprudencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Proporcionar y desarrollar técnicas de análisis, argumentación e interpretación que permitan valorar correctamente las pruebas y evidencias aportadas en los procedimientos, así como formular adecuadamente las actuaciones y proyectos de resolución judiciales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Difundir las técnicas de organización en la función jurisdiccional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Contribuir al desarrollo de la vocación de servicio, así como al ejercicio de los valores y principios éticos inherentes a la función judicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Promover intercambios académicos con instituciones de educación superior, entre otras, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Implementar la formación permanente y obligatoria en perspectiva de género."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-70",
+              "heading": "Artículo 70",
+              "descriptor": null,
+              "ordinal": "70",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Cursos La Escuela Judicial podrá llevar a cabo cursos de preparación para los concursos correspondientes a las distintas categorías que componen la Carrera Judicial."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-71",
+              "heading": "Artículo 71",
+              "descriptor": null,
+              "ordinal": "71",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Investigación La Escuela Judicial contará con un área de investigación, la cual tendrá como función primordial la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial de la Federación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-72",
+              "heading": "Artículo 72",
+              "descriptor": null,
+              "ordinal": "72",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Especialización para la oralidad La Escuela Judicial deberá contar con una instancia específica para la formación, capacitación y concursos de oposición inherentes a las materias cuya regla procesal sea la oralidad."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-73",
+              "heading": "Artículo 73",
+              "descriptor": null,
+              "ordinal": "73",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Defensores públicos o Defensoras públicas y Asesoras o Asesores jurídicos Corresponde a la Escuela Judicial la capacitación y actualización del personal del Instituto Federal de Defensoría Pública, así como la realización de los concursos de oposición para Defensoras públicas o Defensores públicos y Asesoras o Asesores jurídicos, en términos de lo dispuesto en la Ley Federal de Defensoría Pública."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los procesos de selección y oposición para el ingreso al servicio de carrera del Instituto Federal de Defensoría Pública se sujetarán, en lo conducente, a las disposiciones del Título Segundo, Capítulo Sexto, Sección Segunda de esta Ley, y a los acuerdos generales del Órgano. Los demás aspectos del servicio se regirán por lo dispuesto por la Ley Federal de Defensoría Pública."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-sext",
+      "heading": "TÍTULO SEXTO",
+      "descriptor": null,
+      "ordinal": "SEXTO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-sext.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": "RESPONSABILIDADES ADMINISTRATIVAS",
+          "ordinal": "ÚNICO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-unic.articulo-74",
+              "heading": "Artículo 74",
+              "descriptor": null,
+              "ordinal": "74",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Régimen de responsabilidades Para los efectos de las responsabilidades administrativas de las servidoras públicas y los servidores públicos de la Carrera Judicial se estará a lo dispuesto por la Ley Orgánica del Poder Judicial de la"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los concursos de oposición y procesos de selección iniciados con anterioridad a la entrada en vigor del presente Decreto, salvo aquellos que hayan sido celebrados para la designación de Titulares, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los derechos laborales de las personas trabajadoras del Poder Judicial de la Federación serán respetados en su totalidad. Los presupuestos de egresos del ejercicio fiscal que corresponda considerarán los recursos necesarios para el pago de pensiones complementarias, apoyos médicos y otras obligaciones de carácter laboral, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones que se opongan al presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley de Carrera Judicial del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 10 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 31 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

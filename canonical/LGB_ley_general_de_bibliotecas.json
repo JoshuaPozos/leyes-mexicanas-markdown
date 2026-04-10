@@ -1,0 +1,1540 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LGB_ley_general_de_bibliotecas",
+  "abbreviation": "LGB",
+  "name": "LEY General de Bibliotecas",
+  "catalog_number": "187",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf",
+    "pdf_filename_origen": "LGB.pdf",
+    "dof_publication": "DOF01/06/2021",
+    "last_reform": "DOF 29/11/2023",
+    "captured_at": "2026-04-09T10:01:35.697421+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "Nueva Ley publicada en el Diario Oficial de la Federación el 1 de junio de 2021 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA  ."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "Artículo Único",
+      "descriptor": null,
+      "ordinal": "Artículo Único",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley General de Bibliotecas."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "CAPÍTULO I",
+      "descriptor": "Disposiciones Generales",
+      "ordinal": "I",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-1",
+          "heading": "Artículo 1",
+          "descriptor": null,
+          "ordinal": "1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La presente Ley es de observancia general en toda la República, sus disposiciones son de orden público e interés social y tiene por objeto:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Establecer las bases de coordinación de los gobiernos Federal, de las entidades federativas, los municipios y alcaldías de la Ciudad de México en materia de bibliotecas públicas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Definir las políticas de establecimiento, sostenimiento y organización de las bibliotecas públicas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Definir las normas básicas de funcionamiento de la Red Nacional de Bibliotecas Públicas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Proponer las directrices para la integración del Sistema Nacional de Bibliotecas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Fomentar la formación de bibliotecas por parte de los sectores social y privado;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Fomentar y garantizar la conservación del patrimonio documental, bibliográfico, hemerográfico, auditivo, visual, audiovisual, digital y, en general, cualquier otro medio que contenga información afín, estableciendo instrumentos para la difusión cultural, la consolidación de la memoria comunitaria y el progreso educativo, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Regular los términos del Depósito Legal."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-2",
+          "heading": "Artículo 2",
+          "descriptor": null,
+          "ordinal": "2",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para los efectos de la presente Ley, se entenderá por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Biblioteca: Espacio dispuesto para la consulta de acervos de publicaciones impresas, digitales o virtuales, o una combinación de ellas, de carácter general o especializado, catalogados y clasificados en los términos de normas técnicas y administrativas aplicables."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Biblioteca de México: Al conjunto de acervos y recursos que integran los repositorios de la Biblioteca de La Ciudadela José Vasconcelos, localizada en el inmueble de La Ciudadela, y la Biblioteca Vasconcelos, localizada a un costado de la antigua estación de ferrocarriles de la Ciudad de México. Ambas dependientes de la Secretaría de Cultura y adscritas a la Dirección General de Bibliotecas."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Biblioteca del Congreso de la Unión: Institución que reúne los fondos documentales y bibliográficos del Congreso de la Unión y es facultada, a partir del decreto del 24 de diciembre de 1936, para recibir dos ejemplares de cada libro o periódico que se publiquen en el país a través del Depósito Legal."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Biblioteca Nacional de México: Institución que resguarda el acervo patrimonial y que tiene como finalidad integrar, organizar, preservar y facilitar la consulta. Está constituida por los materiales publicados en el país recibidos desde 1850 a través del Depósito Legal, la compra y la donación. Es custodiada por la Universidad Nacional Autónoma de México desde el año de 1929."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Biblioteca pública: Biblioteca que presta servicios de consulta al público en general, de forma gratuita y sin discriminación y que, con base en los recursos a su disposición, desarrolla otras actividades que incluyen, préstamo a domicilio o interbibliotecario, fomento de la lectura, formación cultural, educativa y de uso de tecnologías de la información y comunicación, además de orientación e información bibliográfica y documental, que permitan a la población adquirir, transmitir, acrecentar y disfrutar de la información y el conocimiento."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Bibliotecario: Personas certificadas que administran las bibliotecas con base en su formación, competencias y experiencia."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Catalogación: Registro técnico de los materiales que integran los acervos bibliotecarios con base en normas técnicas."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Catálogo nacional: Instrumento que compila los datos bibliográficos de los libros y documentos conservados en las bibliotecas del país que participan de la Red Nacional de Bibliotecas y del Sistema Nacional de Bibliotecas."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Conservación: Conjunto de acciones directas en el tratamiento y reparación de materiales en proceso de deterioro u obsolescencia para mantener su funcionalidad y uso."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Descarte: Proceso de depuración de libros y documentos de los acervos de las bibliotecas públicas con base en criterios objetivos y normas técnicas de conformidad con parámetros bibliotecológicos, los que, por diferentes motivos, pierden su valor científico y práctico."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Dirección General: Dirección General de Bibliotecas de la Secretaría de Cultura del Gobierno Federal."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Infraestructura bibliotecaria: Espacios físicos e inmuebles diseñados, construidos o adaptados para la realización de las funciones, procesos y prestación de servicios bibliotecarios."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Inventario: Registro en donde son inscritos el mobiliario, equipos y fondos bibliográficos."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Libro: Toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, editada en cualquier soporte, lenguaje o código, incluido el digital, cuya edición se haga en su totalidad de una sola vez en un volumen o a intervalos en varios volúmenes o fascículos. Comprenderá también los materiales complementarios en cualquier tipo de soporte, incluido el electrónico, que conformen, conjuntamente con el libro, un todo unitario que no pueda comercializarse separadamente."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Preservación: Conjunto de actividades administrativas y económicas orientadas a prevenir el deterioro de los documentos, garantizando así la permanencia física de los acervos y de la información contenida en ellos."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Publicación electrónica: Toda información unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, editada en forma digital o existente en versión electrónica, fijada o no en algún soporte, cuyo contenido es susceptible de contar con una edición impresa. Por sus características presenta modalidades de consulta y acceso sujetas a la licencia de uso, temporalidad y dispositivos de lectura disponibles de cada biblioteca."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "Publicación periódica: Toda publicación que se edita en forma continua con una periodicidad establecida, de carácter cultural, científico, literario, artístico, técnico, educativo, informativo o recreativo, que puede estar en cualquier soporte, lenguaje o código, incluido el digital."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVIII",
+              "text": "Red: Red Nacional de Bibliotecas Públicas."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIX",
+              "text": "Red Estatal: Red Estatal de Bibliotecas Públicas en cada una de las entidades federativas de los Estados Unidos Mexicanos."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XX",
+              "text": "Red Nacional de Bibliotecas Públicas: Conjunto de bibliotecas de los tres órdenes de gobierno articuladas bajo políticas comunes de selección, conservación, inventario, registro, catalogación y clasificación de acervos de libros, con base en acuerdos o convenios de colaboración para la prestación de los servicios bibliotecarios."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXI",
+              "text": "Secretaría: Secretaría de Cultura del Gobierno Federal."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXII",
+              "text": "Servicios bibliotecarios: Conjunto de actividades desarrolladas en una biblioteca, con el fin de facilitar y promover la disponibilidad y el acceso a la información y a la cultura con estándares de calidad, pertinencia y oportunidad."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIII",
+              "text": "Sistema: Sistema Nacional de Bibliotecas."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIV",
+              "text": "Sistema Nacional de Bibliotecas: Conjunto de bibliotecas de los sectores público, social y privado que, de manera voluntaria, se adscriben a un proyecto común con la finalidad de intercambiar información y facilitar la prestación de servicios bibliotecarios para el público en general y especializado, para contribuir a la labor educativa, cultural y de investigación."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXV",
+              "text": "Sitio web: Punto de acceso electrónico formado por una o varias páginas electrónicas agrupadas en un dominio de Internet."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVI",
+              "text": "Soporte no tangible: Soporte virtual de una obra o contenido difundidos a través de redes electrónicas."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVII",
+              "text": "Usuario: Persona que requiere alguna información bibliográfica o documental."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-3",
+          "heading": "Artículo 3",
+          "descriptor": null,
+          "ordinal": "3",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Se declara de interés público la integración, formación y preservación de bibliotecas, así como su apertura para consulta de los habitantes de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-4",
+          "heading": "Artículo 4",
+          "descriptor": null,
+          "ordinal": "4",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La biblioteca pública tiene como finalidad ofrecer en forma democrática el acceso y servicios de consulta de su acervo, así como otros servicios culturales complementarios."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-5",
+          "heading": "Artículo 5",
+          "descriptor": null,
+          "ordinal": "5",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los servicios culturales complementarios de una biblioteca pública permiten a sus usuarios adquirir, transmitir, acrecentar y conservar el conocimiento en todas las ramas del saber. Estos servicios consistirán en al menos:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Orientación e información que permita localizar materiales en otras bibliotecas públicas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Asesoría sobre la manera correcta de usar y citar fuentes bibliográficas, audiovisuales o electrónicas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Disponibilidad de salas de lectura y trabajo con conexión gratuita a Internet y medios audiovisuales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Préstamo a domicilio y préstamo interbibliotecario;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Programas de fomento a la lectura y alfabetización informacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Facilitar el acceso a las expresiones culturales, al diálogo intercultural y favorecer la diversidad cultural, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Disposición de información para el ejercicio de los derechos y obligaciones ciudadanas."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-6",
+          "heading": "Artículo 6",
+          "descriptor": null,
+          "ordinal": "6",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los usuarios de las bibliotecas públicas harán uso de los servicios bibliotecarios sin más límite que los establecidos por las disposiciones reglamentarias sobre consulta de acervos y visita pública. Los responsables de las bibliotecas públicas en ningún caso podrán condicionar el acceso a dichos servicios, con independencia del uso que cada usuario haga de la información a la que tenga acceso."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para fines estadísticos o de reconocimiento al trabajo de la institución a cargo del acervo, los responsables de las bibliotecas públicas podrán solicitar a la persona usuaria información sobre las fuentes de consulta, el tema de su investigación y si tiene planeado hacerla pública."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-7",
+          "heading": "Artículo 7",
+          "descriptor": null,
+          "ordinal": "7",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El acervo de una biblioteca pública podrá comprender colecciones bibliográficas, hemerográficas, auditivas, visuales, audiovisuales, digitales, bienes culturales y, en general, registros en cualquier otro formato, sean soportes tangibles o no tangibles, que contengan información de utilidad para la persona usuaria."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-8",
+          "heading": "Artículo 8",
+          "descriptor": null,
+          "ordinal": "8",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Corresponde a la Secretaría, a través de la Dirección General de Bibliotecas, proponer, ejecutar y evaluar la política nacional de bibliotecas atendiendo al Plan Nacional de Desarrollo y demás programas correspondientes, así como el diseño y propuesta de normas técnicas y reglamentarias para la conservación, clasificación, registro, consulta y visita pública de las bibliotecas."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-9",
+          "heading": "Artículo 9",
+          "descriptor": null,
+          "ordinal": "9",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los gobiernos Federal, de las entidades federativas, así como de los municipios y alcaldías, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y sostenimiento de bibliotecas públicas, impulsando el establecimiento, equipamiento, mantenimiento y actualización permanente de un área de servicios de cómputo y los servicios culturales complementarios que a través de éstas se otorguen."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "CAPÍTULO II",
+      "descriptor": "De la Red Nacional de Bibliotecas Públicas",
+      "ordinal": "II",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Se integra la Red Nacional de Bibliotecas Públicas con:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Las bibliotecas constituidas y en operación dependientes de la Secretaría de Educación Pública Federal y de la Secretaría;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Las bibliotecas en operación dependientes de cualquier dependencia o entidad de la Administración Pública Federal u órgano constitucional autónomo de los poderes públicos que, con base en un acuerdo o convenio de colaboración, se adscriban a la Red;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Las bibliotecas creadas conforme a los acuerdos o convenios de coordinación celebrados por el Ejecutivo Federal, a través de la Secretaría, con los gobiernos de las entidades federativas o cualquiera de los órganos constitucionales autónomos en esas entidades, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Las bibliotecas creadas conforme a los acuerdos o convenios de coordinación celebrados por cualquier entidad del Ejecutivo Federal con los gobiernos de los municipios o alcaldías."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La operación y mantenimiento de la Red es de interés público y social. Los recursos destinados a la Red se consideran, para todos los efectos legales, inversión social."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Red tiene como objetivo general la coordinación de esfuerzos de todas las bibliotecas públicas para que las y los usuarios tengan acceso libre, amplio y sencillo al conocimiento conservado en sus acervos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-13",
+          "heading": "Artículo 13",
+          "descriptor": null,
+          "ordinal": "13",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Red tiene como objetivos:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Integrar los recursos de las bibliotecas públicas y coordinar sus funciones para fortalecer y optimizar la operación de éstas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Ampliar y diversificar los acervos y orientar los servicios de registro, catalogación y consulta de las bibliotecas públicas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Formar un catálogo de acceso público sobre el patrimonio bibliográfico existente en las bibliotecas públicas, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Fomentar la lectura y la alfabetización digital."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-14",
+          "heading": "Artículo 14",
+          "descriptor": null,
+          "ordinal": "14",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Corresponde a la Secretaría, a través de la Dirección General:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Coordinar la Red;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Establecer los mecanismos participativos para planear y programar la expansión y modernización tecnológica de la Red;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Emitir la normatividad técnica bibliotecaria para las bibliotecas integradas a la Red, y supervisar su cumplimiento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Operar un programa de capacitación y certificación de bibliotecarias y bibliotecarios de las bibliotecas públicas a nivel nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Establecer criterios para la selección, integración y desarrollo de las colecciones de las bibliotecas públicas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Enviar a las bibliotecas integradas a la Red dotaciones de nuevos materiales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Enviar a las bibliotecas integrantes de la Red los materiales bibliográficos catalogados y clasificados de acuerdo con las normas técnicas bibliotecológicas autorizadas por la propia Dirección General, a efecto de que los servicios bibliotecarios puedan ofrecerse con mayor eficiencia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Proporcionar, por sí o a través de otras instituciones, el servicio de catalogación de acervos complementarios que adquiera una biblioteca de la Red;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Proporcionar, por sí o a través de otras instituciones, apoyo técnico para el mantenimiento de los servicios informáticos de las bibliotecas integrantes de la Red;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Proporcionar, por sí o a través de otras instituciones, entrenamiento y capacitación al personal adscrito a las bibliotecas públicas de la Red;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Proporcionar, por sí o a través de otras instituciones, asesoría técnica en materia bibliotecaria e informática a las bibliotecas incluidas en la Red;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Registrar los acervos de la Red verificando que las bibliotecas cuenten con un catálogo a disposición del público, mismo que deberá ser consultable electrónicamente a través de una red de información pública, manteniendo un inventario y sistema de catalogación actualizado;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Difundir a nivel nacional los servicios bibliotecarios y actividades afines de las bibliotecas que forman la Red;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Llevar a cabo y fomentar investigaciones encaminadas al uso de los servicios bibliotecarios, tanto impresos como digitales, así como para incentivar el hábito de la lectura, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Realizar las demás funciones que sean análogas o complementarias a las anteriores y que le permitan alcanzar sus propósitos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-15",
+          "heading": "Artículo 15",
+          "descriptor": null,
+          "ordinal": "15",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Secretaría, a través de la Dirección General, de acuerdo con la necesidad de cada caso y con base en la disponibilidad presupuestal, proporcionará a las nuevas bibliotecas públicas, en formato impreso y digital, un acervo de publicaciones informativas, recreativas y formativas; así como obras de consulta y publicaciones periódicas, a efecto de que respondan a las necesidades culturales, educativas y de desarrollo en general de los habitantes de la localidad en donde se establezca la nueva institución."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "CAPÍTULO III",
+      "descriptor": "De las Redes de Bibliotecas Públicas en las Entidades Federativas",
+      "ordinal": "III",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-16",
+          "heading": "Artículo 16",
+          "descriptor": null,
+          "ordinal": "16",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Corresponderá a los gobiernos de las entidades federativas, en los términos de las disposiciones aplicables y los acuerdos de coordinación que se celebren:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Coordinar, administrar y operar la Red de Bibliotecas Públicas de la entidad federativa y supervisar su funcionamiento, asegurando que los recintos bibliotecarios cuenten con materiales bibliográficos catalogados y clasificados de acuerdo con las normas técnicas establecidas, además de tecnología, conectividad y acervos actualizados;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Participar en la planeación, programación del desarrollo, actualización tecnológica y expansión de las bibliotecas públicas a su cargo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Nombrar, adscribir y remunerar a las y los bibliotecarios y al personal destinado a la operación de sus bibliotecas públicas, así como promover su entrenamiento, capacitación certificada y actualización en los contenidos y las prácticas bibliotecarias;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Difundir a nivel estatal los servicios bibliotecarios y las actividades afines a sus bibliotecas públicas, así como las colecciones multimedia y las bibliotecas digitales y virtuales de que disponen;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Designar a una persona titular de la Red Estatal quien fungirá como enlace con la Red Nacional, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Proporcionar la conservación preventiva y correctiva, por sí o a través de otras instituciones, de los acervos impresos y digitales dañados."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-17",
+          "heading": "Artículo 17",
+          "descriptor": null,
+          "ordinal": "17",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Corresponderá a los gobiernos de los municipios y a las alcaldías de la Ciudad de México:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Conformar, según el caso, la Red de Bibliotecas Públicas del municipio o alcaldía;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Velar por la conservación e integridad de las instalaciones, el mobiliario, el equipo y los acervos de las bibliotecas públicas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Mantener en operación los servicios generales de las bibliotecas públicas bajo su jurisdicción;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Promover actividades educativas, cívicas, artísticas, sociales y culturales en las bibliotecas públicas, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Difundir a nivel local los servicios prestados por la Red y el Sistema, así como actividades afines."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-18",
+          "heading": "Artículo 18",
+          "descriptor": null,
+          "ordinal": "18",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las entidades federativas y los municipios o alcaldías deberán nombrar, adscribir y remunerar de manera digna, al personal destinado a la operación de las bibliotecas públicas bajo su jurisdicción, asegurando que su desempeño sea adecuado, para lo cual procurarán que ese personal cuente:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Con título profesional en bibliotecología o área de conocimiento equivalente, o"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Con una acreditación o certificación de la Dirección General, que garantice su experiencia o capacitación en la materia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-19",
+          "heading": "Artículo 19",
+          "descriptor": null,
+          "ordinal": "19",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las editoriales del país podrán deducir impuestos a través de las donaciones que realicen en especie a la Dirección General en términos de lo dispuesto por los artículos 27, fracción I, siempre y cuando las donaciones realizadas sean valoradas y, en su caso, aceptadas por la Secretaría."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv",
+      "heading": "CAPÍTULO IV",
+      "descriptor": "De la Adhesión a las Redes Nacional y de las Entidades Federativas",
+      "ordinal": "IV",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-20",
+          "heading": "Artículo 20",
+          "descriptor": null,
+          "ordinal": "20",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las bibliotecas de los sectores social y privado que presten servicios con características de biblioteca pública en los términos de la presente Ley y que manifiesten su disposición a incorporarse a la Red nacional o a una de alguna entidad federativa, celebrarán con la Secretaría o con el gobierno de la entidad federativa un convenio de adhesión. En su caso, podrán solicitar que luego de su adhesión, les sean aportados materiales de los mencionados en el artículo 15 de esta Ley."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-v",
+      "heading": "CAPÍTULO V",
+      "descriptor": "De la Biblioteca de México",
+      "ordinal": "V",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-21",
+          "heading": "Artículo 21",
+          "descriptor": null,
+          "ordinal": "21",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Secretaría, a través de la Dirección General, organizará la Biblioteca de México."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-22",
+          "heading": "Artículo 22",
+          "descriptor": null,
+          "ordinal": "22",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Biblioteca de México tiene el carácter de biblioteca central en la Red y de las bibliotecas del orden federal de gobierno."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vi",
+      "heading": "CAPÍTULO VI",
+      "descriptor": "Del Sistema Nacional de Bibliotecas",
+      "ordinal": "VI",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-23",
+          "heading": "Artículo 23",
+          "descriptor": null,
+          "ordinal": "23",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Sistema Nacional de Bibliotecas es una instancia de colaboración, integrado por las bibliotecas escolares, públicas, especializadas y cualquier otra que, de manera voluntaria, se integre al mecanismo, incluidas las bibliotecas de personas físicas o morales de los sectores social y privado."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-24",
+          "heading": "Artículo 24",
+          "descriptor": null,
+          "ordinal": "24",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Corresponde a la Secretaría de Cultura la responsabilidad de convocar y coordinar los trabajos del Sistema con pleno respeto a la autonomía, naturaleza jurídica y vocación de las bibliotecas, así como establecer las bases de cooperación, los protocolos para el intercambio de información y las reglas de operación del mismo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-25",
+          "heading": "Artículo 25",
+          "descriptor": null,
+          "ordinal": "25",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Sistema tendrá como propósitos:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Articular los esfuerzos nacionales de las bibliotecas del sector público y de los sectores social y privado a través de la concertación, a fin de integrar y ordenar la información bibliográfica, impresa y digital, disponible en apoyo a las labores educativas, de investigación y cultura en general;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Consolidar la innovación educativa y renovar las prácticas bibliotecarias en los procesos académico y cultural, enfocándose en el acceso, comprensión y utilización de recursos informáticos y tecnológicos con los que cuenten las bibliotecas públicas, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Apoyar a la Red en el desarrollo y uso adecuado de recursos informáticos, tecnológicos y desarrollo de tecnologías de la información y comunicación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para dar cumplimiento a su objeto y obtener un uso adecuado de los recursos informáticos y tecnológicos, la Red Institucional de Bibliotecas Públicas se auxiliará de todos aquellos organismos y entidades públicas y privadas especializados en el desarrollo de tecnologías de la información y comunicación que cuenten con los permisos correspondientes en materia de publicaciones digitales."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-26",
+          "heading": "Artículo 26",
+          "descriptor": null,
+          "ordinal": "26",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para el cumplimiento de sus propósitos, el Sistema promoverá el desarrollo de las siguientes acciones:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Elaborar el listado general de las bibliotecas que integren al Sistema;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Orientar a las bibliotecas pertenecientes al Sistema respecto de los medios técnicos en materia bibliotecaria y su actualización, para su mejor organización y operación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Elaborar el catálogo general de acervos impresos y digitales de las bibliotecas incorporadas al Sistema, conforme a las reglas de catalogación y clasificación bibliográfica que adopte el Sistema para lograr su uniformidad. Este catálogo estará a disposición del público y podrá consultarse a través de una red de información pública, manteniendo un inventario y sistema de catalogación actualizado;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Operar como medio de enlace entre las instituciones del Sistema y, entre éstas y las organizaciones bibliotecológicas internacionales, para desarrollar programas conjuntos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Procurar programas de capacitación técnica y profesional del personal que tenga a su cargo servicios bibliotecarios, tendiendo a la optimización de éstos y al apoyo de las labores en la materia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Procurar servicios de catalogación y clasificación a solicitud de las bibliotecas interesadas, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Las demás que sean análogas a las anteriores que le permitan alcanzar sus propósitos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-27",
+          "heading": "Artículo 27",
+          "descriptor": null,
+          "ordinal": "27",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Secretaría, a través de la Dirección General, propondrá reglas para fomentar y coordinar el préstamo interbibliotecario a nivel nacional, vinculando a las instituciones integrantes de la Red y el Sistema entre sí."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vii",
+      "heading": "CAPÍTULO VII",
+      "descriptor": "De la Participación Ciudadana",
+      "ordinal": "VII",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-28",
+          "heading": "Artículo 28",
+          "descriptor": null,
+          "ordinal": "28",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Sistema contará con un Consejo Consultivo, integrado por la representación de los sistemas bibliotecarios y bibliotecas cuyos acervos y colecciones constituyan un patrimonio bibliográfico de gran relevancia para el país, la representación del sector editorial y de especialistas en bibliotecología y biblioteconomía, el cual operará con base en un estatuto aprobado por sus miembros. La persona titular de la Secretaría de Cultura presidirá el Consejo y será suplida por la persona titular de la Dirección General."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-viii",
+      "heading": "CAPÍTULO VIII",
+      "descriptor": null,
+      "ordinal": "VIII",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Personal y Usuarios de los Servicios Bibliotecarios"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-29",
+          "heading": "Artículo 29",
+          "descriptor": null,
+          "ordinal": "29",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El personal destinado a la operación de una biblioteca deberá capacitarse de manera continua."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-30",
+          "heading": "Artículo 30",
+          "descriptor": null,
+          "ordinal": "30",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Es obligación del gobierno estatal y de la Dirección General ofrecer una capacitación continua y pertinente al personal destinado a la operación de las bibliotecas públicas."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-31",
+          "heading": "Artículo 31",
+          "descriptor": null,
+          "ordinal": "31",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El usuario de la biblioteca tiene derecho a:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Recibir trato digno;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Ser asesorado sobre la información que busca;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Que el personal destinado a la operación de una biblioteca no lo discrimine sobre sus ideas y búsquedas, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Que la biblioteca pública conserve el patrimonio cultural oral de su comunidad."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ix",
+      "heading": "CAPÍTULO IX",
+      "descriptor": null,
+      "ordinal": "IX",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Descarte"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-32",
+          "heading": "Artículo 32",
+          "descriptor": null,
+          "ordinal": "32",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para garantizar la pertinencia y la actualidad del acervo bibliográfico, el personal destinado a la operación de una biblioteca dentro de la Red, llevará a cabo el descarte de las publicaciones obsoletas, las que se encuentren en mal estado o aquellas solicitadas para su consulta de menos una ocasión cada tres años. Se exceptúa de esta disposición las ediciones de libros del Depósito Legal y aquellos que tengan un interés particular en términos de su contenido, rareza, antigüedad o estado de conservación, en los términos que establezca el reglamento de la Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "CAPITULO X Del Depósito Legal de Publicaciones"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-33",
+          "heading": "Artículo 33",
+          "descriptor": null,
+          "ordinal": "33",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Se declara de interés público la recopilación, integración, almacenamiento, custodia y conservación de toda obra editada o producida en el territorio nacional, de contenido educativo, cultural, científico o técnico, distribuida para su comercialización o de manera gratuita, en formatos impreso o electrónico, analógico o digital. El conjunto de obras recopiladas constituye el Depósito Legal."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 29-11-2023",
+              "action": "reformado",
+              "dof_date": "29-11-2023"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-34",
+          "heading": "Artículo 34",
+          "descriptor": null,
+          "ordinal": "34",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las obras a que se refiere el artículo anterior podrán ser, de manera enunciativa y no limitativa, las siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Libros, publicaciones periódicas, catálogos, folletos y pliegos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Publicaciones periódicas como periódicos, diarios, anuarios, revistas y memorias;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Material cartográfico como mapas y planos, cartas de navegación, aeronáuticas o celestes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Partituras;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Fonogramas, discos y cintas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Obras audiovisuales, micropelículas, diapositivas y fotografías;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Material gráfico, carteles y diagramas, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Cualquier otra que se considere relevante para documentar la memoria del conocimiento en el territorio nacional."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-34",
+          "heading": "Artículo 34",
+          "descriptor": null,
+          "ordinal": "34",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bis. Las obras señaladas en el artículo anterior se integrarán al Depósito Legal con base en lo que señale el reglamento de la Ley y tomando en cuenta los siguientes criterios:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Respeto a los derechos de autor y conexos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Implementación de medidas tecnológicas de protección por parte de las Instituciones Depositarias;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Obras de contenido educativo, cultural, científico o técnico;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Disponibilidad de los materiales para la consulta pública conforme al número de ejemplares entregados a cada institución depositaria o, en su caso, con base en los acuerdos que se establezcan con los editores o productores de las obras;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Características de entrega de las obras con base en sus formatos de edición, distribución o difusión, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Fomento del trabajo colegiado entre las Instituciones receptoras del Depósito Legal."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 29-11-2023",
+              "action": "adicionado",
+              "dof_date": "29-11-2023"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-35",
+          "heading": "Artículo 35",
+          "descriptor": null,
+          "ordinal": "35",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". No serán objeto de Depósito Legal las publicaciones y documentos a que se refiere la Ley General de Archivos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-36",
+          "heading": "Artículo 36",
+          "descriptor": null,
+          "ordinal": "36",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Son Instituciones Depositarias reconocidas por esta Ley:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La Biblioteca de México;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La Biblioteca del Congreso de la Unión, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "La Biblioteca Nacional de México."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-37",
+          "heading": "Artículo 37",
+          "descriptor": null,
+          "ordinal": "37",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Todos los editores y productores de los materiales mencionados en los artículos 33 y 34 de esta Ley, deberán entregar ejemplares de todas sus ediciones y producciones, de acuerdo con lo siguiente:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Dos ejemplares a la Biblioteca de México;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Dos ejemplares a la Biblioteca del Congreso de la Unión, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Dos ejemplares a la Biblioteca Nacional de México."
+            },
+            {
+              "type": "paragraph",
+              "text": "En el caso de las obras publicadas en formatos electrónico, analógico o digital, se entregará un solo ejemplar por institución con los materiales complementarios que permitan su consulta y preservación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-38",
+          "heading": "Artículo 38",
+          "descriptor": null,
+          "ordinal": "38",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Cada uno de los repositorios del Depósito Legal, establecerá sus políticas de almacenamiento, custodia, conservación y consulta pública, con base en las disposiciones aplicables."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-39",
+          "heading": "Artículo 39",
+          "descriptor": null,
+          "ordinal": "39",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las obras a que se refieren los artículos 33, 34 y 34 Bis, se entregarán dentro de los noventa días naturales siguientes a la fecha de su publicación, distribución comercial, difusión o puesta a disposición, salvo aquellas que por la naturaleza de su formato, producción o comercialización, requieran de un plazo mayor y cuyas prevenciones se establezcan en el reglamento."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 29-11-2023",
+              "action": "reformado",
+              "dof_date": "29-11-2023"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-40",
+          "heading": "Artículo 40",
+          "descriptor": null,
+          "ordinal": "40",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las instituciones receptoras del Depósito Legal deberán:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Recibir los materiales objeto de Depósito Legal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Expedir a la editora o productora constancia que acredite la recepción de los materiales, las que contendrán los datos básicos que permitan la identificación fiscal de la editora o productora;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Establecer las medidas que sean necesarias para la debida organización de los materiales recibidos, la prestación de los servicios bibliotecarios y, en su caso, de consulta pública;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Verificar que las editoriales cumplan con sus obligaciones sobre el Depósito Legal, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Publicar e informar anualmente la estadística de los materiales recibidos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-41",
+          "heading": "Artículo 41",
+          "descriptor": null,
+          "ordinal": "41",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". En el caso de materiales distintos de los bibliográficos entregados a la Biblioteca de México, la Dirección General podrá destinarlos a instituciones especializadas para su conservación y uso, como es el caso de la Fonoteca Nacional y de la Cineteca Nacional."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-42",
+          "heading": "Artículo 42",
+          "descriptor": null,
+          "ordinal": "42",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Instituto Nacional del Derecho de Autor de la Secretaría de Cultura enviará mensualmente a las instituciones receptoras del Depósito Legal una relación en formatos automatizados de las publicaciones a las que fue asignado el Número Internacional Normalizado del Libro (ISBN) y el Número Internacional Normalizado de Publicaciones Periódicas (ISSN), con objeto de facilitar la verificación del cumplimiento de la obligación consignada en la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-43",
+          "heading": "Artículo 43",
+          "descriptor": null,
+          "ordinal": "43",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los editores y productores que no cumplan con la obligación consignada en el artículo 39 de esta Ley, se harán acreedores a una multa equivalente a veinte veces el precio de venta al público de los materiales no entregados. La aplicación de la sanción no excusa al infractor de cumplir con la entrega de los materiales. Se exceptúa de lo anterior a los editores de obras impresas en cualquier formato cuyo tiraje sea inferior a 25 ejemplares."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 29-11-2023",
+              "action": "reformado",
+              "dof_date": "29-11-2023"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-44",
+          "heading": "Artículo 44",
+          "descriptor": null,
+          "ordinal": "44",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Secretaría de Hacienda y Crédito Público hará efectivas las sanciones administrativas que correspondan conforme a las disposiciones legales aplicables, y el monto que se recaude por concepto de multas se integrará en un fondo para el fortalecimiento de los propósitos de Depósito Legal."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley General de Bibliotecas publicada en el Diario Oficial de la Federación el 21 de enero de 1988."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga el Decreto que dispone la obligación de los editores y productores de materiales bibliográficos y documentales, de entregar ejemplares de sus obras a la Biblioteca Nacional y a la Biblioteca del Congreso de la Unión, publicado en el Diario Oficial de la Federación el 23 de julio de 1991."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes, y se realizarán con cargo a su presupuesto aprobado para el ejercicio fiscal que corresponda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 30 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Martha Hortencia Garay Cadena, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman los artículos 33, 39 y 43 y se adiciona un artículo 34 Bis de la Ley General de Bibliotecas."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2023"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 33, 39 y 43 y se adiciona un artículo 34 Bis de la Ley General de Bibliotecas, para quedar como sigue: ........"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Poder Ejecutivo tendrá hasta 120 días para la expedición del reglamento de la Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 17 de octubre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Claudia Esther Balderas Espinoza, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de noviembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

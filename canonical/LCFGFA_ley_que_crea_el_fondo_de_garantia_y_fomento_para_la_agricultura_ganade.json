@@ -1,0 +1,735 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LCFGFA_ley_que_crea_el_fondo_de_garantia_y_fomento_para_la_agricultura_ganade",
+  "abbreviation": "LCFGFA",
+  "name": "LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
+  "catalog_number": "287",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/192.pdf",
+    "pdf_filename_origen": "192.pdf",
+    "dof_publication": "DOF31/12/1954",
+    "last_reform": "DOF 09/04/2012",
+    "captured_at": "2026-04-09T09:42:49.174864+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "LEY QUE CREA EL FONDO DE GARANTÍA Y FOMENTO PARA LA AGRICULTURA, GANADERÍA Y AVICULTURA Nueva Ley publicada en el Diario Oficial de la Federación el 31 de diciembre de 1954 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "ADOLFO RUIZ CORTINES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO: \"El Congreso de los Estados Unidos mexicanos, decreta:"
+    },
+    {
+      "type": "paragraph",
+      "text": "LEY QUE CREA EL FONDO DE GARANTIA Y FOMENTO PARA LA AGRICULTURA, GANADERIA Y AVICULTURA."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-1",
+      "heading": "Artículo 1o",
+      "descriptor": null,
+      "ordinal": "1o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Se crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura que será manejado en fideicomiso por el Banco de México, S. A., de conformidad con las normas que se establecen en la presente ley, con las reglas de operación correspondientes y con el contrato de fideicomiso que celebre la Secretaría de Hacienda y Crédito Público con el Fiduciario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fe de erratas al párrafo DOF 04-03-1955. Reformado DOF 23-12-1993 (se deja sin efecto en lo referente al Banco de México) La canalización y el uso de los recursos del Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, para el desarrollo del sector agropecuario y forestal, se harán a través de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de depósito y de los demás intermediarios financieros no bancarios que determine la Secretaría de Hacienda y Crédito Público. Al efecto, las tasas de interés, primas de garantías y demás requisitos que se aplicarán a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los demás intermediarios financieros no bancarios que operen con el Fondo, deberán ser aprobados por el Comité Técnico, considerando el riesgo financiero y calidad crediticia que representen los intermediarios financieros y sus acreditados finales."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 12-05-2005",
+          "action": "adicionado",
+          "dof_date": "12-05-2005"
+        },
+        {
+          "type": "paragraph",
+          "text": "Los productores que se beneficien con los recursos del Fondo, recibirán financiamiento en condiciones adecuadas para el desarrollo del sector."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 12-05-2005",
+          "action": "adicionado",
+          "dof_date": "12-05-2005"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-2",
+      "heading": "Artículo 2o",
+      "descriptor": null,
+      "ordinal": "2o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Fondo quedará constituído:"
+        },
+        {
+          "type": "paragraph",
+          "text": "I.- Con los recursos que integran actualmente el Fondo Nacional de Garantía Agrícola;"
+        },
+        {
+          "type": "paragraph",
+          "text": "II.- Con el importe de los fideicomisos o de los fondos constituídos por el Gobierno Federal para el otorgamiento de créditos a la agricultura que están siendo operados a través de las instituciones de crédito privadas;"
+        },
+        {
+          "type": "paragraph",
+          "text": "III.- Con una aportación inicial de $100.000,000.00 que hará el Gobierno Federal;"
+        },
+        {
+          "type": "paragraph",
+          "text": "IV.- Con los recursos que anualmente señale el Presupuesto de Egresos de la Federación;"
+        },
+        {
+          "type": "paragraph",
+          "text": "V.- Con el producto de las inversiones que con recursos del Fondo se realicen;"
+        },
+        {
+          "type": "paragraph",
+          "text": "VI.- Con el producto de las primas que provengan del servicio de garantía que el Fondo otorgue; y VII.- Con los demás recursos con que resuelva incrementarlo el Ejecutivo Federal."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-3",
+      "heading": "Artículo 3o",
+      "descriptor": null,
+      "ordinal": "3o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Dentro de las limitaciones establecidas en la presente ley y las que se establezcan en las reglas de operación respectivas y en el contrato de fideicomiso, el Fiduciario podrá realizar las siguientes operaciones:"
+        },
+        {
+          "type": "paragraph",
+          "text": "I.- Garantizar a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los intermediarios financieros no bancarios que operen con el Fondo, en la recuperación de los préstamos que se otorguen a los productores agropecuarios y forestales;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 12-05-2005",
+          "action": "reformado",
+          "dof_date": "12-05-2005"
+        },
+        {
+          "type": "paragraph",
+          "text": "II.- Descontar en casos necesarios a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los intermediarios financieros no bancarios que operen con el Fondo, títulos de crédito provenientes de préstamos otorgados a los productores agropecuarios y forestales;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 12-05-2005",
+          "action": "reformado",
+          "dof_date": "12-05-2005"
+        },
+        {
+          "type": "paragraph",
+          "text": "III.- Abrir créditos y otorgar préstamos a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los intermediarios financieros no bancarios que operen con el Fondo, con objeto de que éstas a su vez abran créditos a los productores agropecuarios y forestales, y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 12-05-2005",
+          "action": "reformado",
+          "dof_date": "12-05-2005"
+        },
+        {
+          "type": "paragraph",
+          "text": "IV.- Realizar las demás que se fijen en las reglas de operación, siempre que sean por conducto de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de depósito o de los intermediarios financieros no bancarios que operen con el Fondo."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 12-05-2005",
+          "action": "reformado",
+          "dof_date": "12-05-2005"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-4",
+      "heading": "Artículo 4o",
+      "descriptor": null,
+      "ordinal": "4o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Fiduciario podrá emitir valores pero para ello se requerirá la aprobación del Ejecutivo, respecto al monto de las emisiones, a sus características y a los planes de inversión del producto de los valores que proponga emitir."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fe de erratas al artículo DOF 04-03-1955"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-5",
+      "heading": "Artículo 5o",
+      "descriptor": null,
+      "ordinal": "5o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las operaciones a que se refiere el artículo 3o. de esta ley, se sujetarán a las siguientes normas:"
+        },
+        {
+          "type": "paragraph",
+          "text": "I.- Sólo se efectuarán en relación con financiamientos que hayan sido otorgados o concertados a personas físicas o morales cuyas actividades se encuentren relacionadas con la producción, acopio y distribución de bienes y servicios de o para los sectores agropecuario y forestal, así como de la agroindustria y de otras actividades conexas o afines, o que se desarrollen en el medio rural;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fe de erratas a la fracción DOF 04-03-1955. Reformada DOF 12-05-2005 II.- Sólo podrán garantizarse los financiamientos a que se refiere la fracción I anterior, cuando el acreditado cumpla con alguno de los siguientes requisitos:"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "a",
+          "text": "Invertir con recursos propios la parte que señalen las reglas de operación, del presupuesto para cuyos fines se otorgue el financiamiento, o"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "b",
+          "text": "Tener bienes suficientes para responder del financiamiento total, independientemente del valor que se espere de la actividad productiva a la que se destinen los recursos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fe de erratas a la fracción DOF 04-03-1955. Reformada DOF 12-05-2005 III.- Los créditos que sean objeto de la garantía, los que se descuenten y los que se otorguen con recursos provenientes del Fondo deberán estar documentados y requisitados conforme a lo dispuesto en las Leyes General de Títulos y Operaciones de Crédito y General de Instituciones de Crédito y Organizaciones Auxiliares, y a la presente ley."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-6",
+      "heading": "Artículo 6o",
+      "descriptor": null,
+      "ordinal": "6o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- No podrán garantizarse los créditos que hayan sido otorgados en condiciones que sean susceptibles de asegurarse a través del Seguro Agrícola Integral y Ganadero. Para este efecto, las reglas de operación determinarán los límites y las normas a que se sujetarán las garantías que otorgue el Fondo, en relación con las reglas del Seguro Agrícola."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-7",
+      "heading": "Artículo 7o",
+      "descriptor": null,
+      "ordinal": "7o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La garantía del fondo no excederá del 60% del crédito otorgado o concertado, según lo establezcan las reglas de operación; pero dicha garantía sólo se hará efectiva en relación con la cantidad que realmente se haya ejercido, conforme al calendario correspondiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "El Fiduciario se subrogará en los derechos de la institución de banca múltiple, de la unión de crédito, del almacén general de depósito o del intermediario financiero no bancario acreedor, por las cantidades que le pague con motivo de la garantía otorgada y dicho intermediario financiero suscribirá, con sujeción a las normas legales, los documentos que se requieran para que tales derechos queden a favor del Fondo."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 12-05-2005",
+          "action": "reformado",
+          "dof_date": "12-05-2005"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-8",
+      "heading": "Artículo 8o",
+      "descriptor": null,
+      "ordinal": "8o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Se crea un Comité Técnico integrado por nueve miembros nombrados respectivamente por la Secretaría de Hacienda y Crédito Público, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, el Banco de México, S.A., el Banco Nacional de Comercio Exterior, la Asociación de Banqueros de México, el Consorcio del Seguro Agrícola y un representante de los ejidatarios, otro de los pequeños agricultores y uno de los ganaderos que serán designados por el Ejecutivo. El Comité tendrá las siguientes facultades:"
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 09-04-2012",
+          "action": "reformado",
+          "dof_date": "09-04-2012"
+        },
+        {
+          "type": "paragraph",
+          "text": "I.- Aprobar las operaciones que se realicen con cargo al Fondo, en los términos de esta ley, de las reglas de operación y del contrato de fideicomiso respectivos."
+        },
+        {
+          "type": "paragraph",
+          "text": "II.- Aprobar el presupuesto anual de gastos que presente el fiduciario."
+        },
+        {
+          "type": "paragraph",
+          "text": "III.- Fijar las primas que deban cobrarse por el otorgamiento de garantías, así como los intereses para las demás operaciones a que se refiere el artículo 3o."
+        },
+        {
+          "type": "paragraph",
+          "text": "IV.- Las que se le atribuyan en esta ley, en las reglas de operación y en el contrato de fideicomiso respectivo."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 23-12-1993 (se deja sin efecto en lo referente al Banco de México)",
+          "action": "reformado",
+          "dof_date": "23-12-1993"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-9",
+      "heading": "Artículo 9o",
+      "descriptor": null,
+      "ordinal": "9o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Fiduciario deberá reservarse las facultades necesarias para que, cuando lo juzgue oportuno pueda efectuar auditorías, exigir estados de contabilidad, documentos y demás datos a los productores agropecuarios y forestales, según el caso, directamente o por conducto de la institución de banca múltiple, de la unión de crédito, del almacén general de depósito o del intermediario financiero no bancario que haya intervenido en la operación respectiva."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 12-05-2005",
+          "action": "reformado",
+          "dof_date": "12-05-2005"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-10",
+      "heading": "Artículo 10",
+      "descriptor": null,
+      "ordinal": "10",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Todas las operaciones a que se refiere la presente Ley sólo podrán efectuarse por conducto de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de depósito o de los demás intermediarios financieros no bancarios que determine la Secretaría de Hacienda y Crédito Público."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 12-05-2005",
+          "action": "reformado",
+          "dof_date": "12-05-2005"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-11",
+      "heading": "Artículo 11",
+      "descriptor": null,
+      "ordinal": "11",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Fiduciario mantendrá invertidos en valores del Estado por lo menos el 10% del importe de las garantías que otorgue."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-12",
+      "heading": "Artículo 12",
+      "descriptor": null,
+      "ordinal": "12",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Con cargo al fondo se cubrirán los gastos que demande el manejo del fideicomiso, incluyendo los honorarios que puedan corresponder al Fiduciario conforme al contrato de fideicomiso respectivo."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-13",
+      "heading": "Artículo 13",
+      "descriptor": null,
+      "ordinal": "13",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En la forma en que se determine en las reglas de operación, son susceptibles de realizarse las operaciones mencionadas en el artículo 3o. de esta ley, cuando se trate del otorgamiento de créditos a la avicultura y la ganadería."
+        },
+        {
+          "type": "paragraph",
+          "text": "El fiduciario, con cargo al Fondo, podrá efectuar las operaciones a que se refiere el párrafo anterior, por conducto del Banco Nacional de Comercio Exterior, S. A., exceptuándose en ese caso lo dispuesto en el artículo 10 de esta ley."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-14",
+      "heading": "Artículo 14",
+      "descriptor": null,
+      "ordinal": "14",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Queda facultada la Secretaría de Hacienda y Crédito Público para fijar las normas complementarias en el contrato de fideicomiso que celebre con el Banco de México, S. A. El Ejecutivo expedirá el reglamento de esta ley."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 23-12-1993 (se deja sin efecto en lo referente al Banco de México)",
+          "action": "reformado",
+          "dof_date": "23-12-1993"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ":"
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "Artículo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal determinará, por conducto de la Secretaría de Hacienda y Crédito Público, la forma y plazo como deba hacerse la aportación inicial que se cita en la fracción III del artículo 2o. de esta ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan el decreto de 21 de marzo de 1944, publicado en el \"Diario Oficial\" de la Federación el 12 de mayo del mismo año, relativo al Fondo Nacional de Garantía Agrícola y las demás disposiciones que se opongan a la presente ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-tercer",
+          "heading": "Artículo Tercero",
+          "descriptor": null,
+          "ordinal": "Artículo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las garantías que estén en vigor en la fecha de esta ley, otorgadas con cargo al Fondo de Garantía Agrícola, continuarán rigiéndose por las disposiciones legales vigentes en la época en que se establecieron y el fiduciario cuidará de conservar la provisión de fondos que sea necesaria para satisfacer, en su caso, esas garantías."
+            },
+            {
+              "type": "paragraph",
+              "text": "Rodolfo González Guevara, D. P.- Teófilo Borunda, S. P.- Ramón García Ruíz, D. S.- Efraín Brito Rosado, S. S.- Rúbricas\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos cincuenta y cuatro.- Adolfo Ruíz Cortines.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Carrillo Flores.- Rúbrica.- El Secretario de Agricultura y Ganadería, Gilberto Flores Muñoz.- Rúbrica.- El Secretario de Gobernación, Angel Carvajal.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA FE DE ERRATAS a la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, publicada el día 31 de diciembre próximo pasado."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicada en el Diario Oficial de la Federación el 4 de marzo de 1955"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "transitorios-transitorios.articulo-1",
+          "heading": "Artículo 1o",
+          "descriptor": null,
+          "ordinal": "1o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "., renglón 3, dice: “manejada en fideicomiso por...” Debe decir: “manejado en fideicomiso por...”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "transitorios-transitorios.articulo-4",
+          "heading": "Artículo 4o",
+          "descriptor": null,
+          "ordinal": "4o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "., renglón 2, dice: “se requerirá la aprobación previa del Ejecutivo,” Debe decir: “...se requerirá la aprobación del Ejecutivo,”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "transitorios-transitorios.articulo-5",
+          "heading": "Artículo 5o",
+          "descriptor": null,
+          "ordinal": "5o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "., Fracción I, renglón 2 ” dice: “tación y avio y refaccionarios...” Debe decir: “tación o avio y refaccionarios...”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "transitorios-transitorios.articulo-5",
+          "heading": "Artículo 5o",
+          "descriptor": null,
+          "ordinal": "5o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "., Fracción II, inciso a), renglón 2, dice: ”las reglas de operación del prespuesto...” Debe decir: ”las reglas de operación, del presupuesto...” México, D. F. a 2 de marzo de 1955."
+            },
+            {
+              "type": "paragraph",
+              "text": "LA DIRECCION LEY del Banco de México."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicada en el Diario Oficial de la Federación el 23 de diciembre de 1993"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día siguiente de la publicación de la Ley en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "La designación de los primeros integrantes de la Junta de Gobierno será hecha en los términos previstos en la presente Ley, con anterioridad al 31 de marzo de 1994."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A DECIMO SEPTIMO.- .........."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984."
+            },
+            {
+              "type": "paragraph",
+              "text": "Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "décimo segundo",
+          "descriptor": null,
+          "ordinal": "décimo segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artículos 1o., 2o., 8o., y 21, fracción IV, del reglamento de dicha Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 12 de mayo de 2005"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 3o. fracciones I, II, III y IV; 5o. fracciones I y II; 7o. segundo párrafo; 9o. y 10 y se adiciona el artículo 1o. con dos párrafos; todos de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, para quedar como sigue: .........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para los efectos del presente Decreto, las Uniones de Crédito que reciban de sus socios depósitos de ahorro, deberán ajustarse a los plazos, requisitos, términos y condiciones que establece la Ley de Ahorro y Crédito Popular, así como sus reformas subsecuentes."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 10 de marzo de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de abril de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO SEPTUAGÉSIMO TERCERO. Se reforma el artículo 8o, primer párrafo de la Ley que crea el Fondo de Garantía y Fomento a la Agricultura, Ganadería y Avicultura, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

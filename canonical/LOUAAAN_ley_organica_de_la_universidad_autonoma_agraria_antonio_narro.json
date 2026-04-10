@@ -1,0 +1,717 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LOUAAAN_ley_organica_de_la_universidad_autonoma_agraria_antonio_narro",
+  "abbreviation": "LOUAAAN",
+  "name": "LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro",
+  "catalog_number": "253",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf",
+    "pdf_filename_origen": "LOUAAAN.pdf",
+    "dof_publication": "DOF26/04/2006",
+    "last_reform": "Sin reforma",
+    "captured_at": "2026-04-09T10:34:48.763483+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 26 de abril 2006 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA  ."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "ARTÍCULO ÚNICO",
+      "descriptor": null,
+      "ordinal": "ARTÍCULO ÚNICO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ": Se expide la Ley Orgánica de la Universidad Autónoma Agraria Antonio Narro. ."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "Capítulo I",
+      "descriptor": "De la Naturaleza y los Objetivos.",
+      "ordinal": "I",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 1. Se crea la Universidad Autónoma Agraria Antonio Narro, como un organismo público descentralizado, con personalidad jurídica propia, patrimonio propio y dotado de Autonomía en los términos de la Fracción VII del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, con todas las facultades que en el mismo se establecen."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 2. La sede de la Universidad Autónoma Agraria Antonio Narro será la localidad de Buenavista, municipio de Saltillo de Zaragoza, Estado de Coahuila."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podrá establecer unidades de investigación, de servicios o de postgrado en cualquier lugar de la república, mediante convenio con instituciones de educación superior o de investigación científica de otras entidades, avalados por las correspondientes autoridades educativas."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 3. La Universidad, basada en el principio de autonomía, tendrá por objetivos fundamentales:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Impartir educación y formar recursos humanos en las diferentes áreas y niveles, en el campo de las ciencias agrarias y en otras que la sociedad requiera, buscando que desarrollen el juicio crítico, la vocación humanista, los valores democráticos y los principios nacionalistas, y que resulten capaces de contribuir a la solución de los problemas del país en general y de su medio rural, en particular;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Realizar investigación en las áreas de su competencia, cuyos resultados favorezcan al desarrollo sustentable - tecnológico, social, económico y ecológico del país -, atendiendo a las especificidades regionales; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Preservar, promover, investigar y acrecentar la cultura, la ciencia y la tecnología en general, y en forma particular, las que se relacionan directamente con su naturaleza y misión de servicio, dentro de un proceso de intercambio sistemático con la sociedad, para contribuir al desarrollo sustentable."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "Capítulo II",
+      "descriptor": "De su Patrimonio.",
+      "ordinal": "II",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 4. El patrimonio de la Universidad estará constituido por:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Todos los bienes que, al momento de su creación, sean propiedad de la Universidad Autónoma Agraria Antonio Narro creada por el Congreso del Estado de Coahuila, en Decreto de 4 de Abril de 1989, como su patrimonio en los términos de la Ley Orgánica, así como los bienes que haya adquirido con posterioridad;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "El subsidio ordinario anual y los extraordinarios que el Ejecutivo Federal incluya en el Presupuesto de Egresos de la Federación y apruebe la Cámara de Diputados;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "El subsidio ordinario anual y los extraordinarios que el Gobierno y el Congreso del Estado de Coahuila le asignen;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Las aportaciones y legados que reciba de particulares, de instituciones públicas o privadas, de organismos internacionales y de los fideicomisos que en su favor se constituyan;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Los ingresos autogenerados que obtenga por la producción, explotación o comercialización de bienes, o la prestación de servicios, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Los bienes muebles e inmuebles, los derechos reales y personales y todos los ingresos que adquiera por cualquier título legal."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 5. Todos los bienes muebles e inmuebles que constituyen el patrimonio de la Universidad tendrán el carácter de inalienables e imprescriptibles, y no se podrá constituir sobre los mismos ningún gravamen, mientras no se desafecten del servicio a que están destinados, previo acuerdo del H. Consejo Universitario, excepción hecha de los recursos a que se refiere la fracción V del artículo anterior. En caso de ser desafectados se aplicarán a dichos bienes las disposiciones del derecho común."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "Capítulo III",
+      "descriptor": "De sus Atribuciones.",
+      "ordinal": "III",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 6. La Universidad, para el logro de sus objetivos, tendrá las siguientes atribuciones:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Establecer, organizar y modificar su gobierno, estructura, funciones y dependencias en la forma que esta Ley Orgánica, el Estatuto y los reglamentos lo determinen;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Expedir su Estatuto, sus reglamentos y demás normas;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Administrar libremente su patrimonio;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Formular planes y programas de docencia, investigación y desarrollo, conforme a los principios de libertad de cátedra y de investigación;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Establecer los términos de ingreso, promoción y permanencia de alumnos y del personal académico;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Otorgar y expedir títulos, diplomas, certificados de estudio, menciones honoríficas y grados académicos;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VII",
+          "text": "Revalidar estudios realizados en instituciones nacionales o extranjeras, estableciendo para tal efecto las equivalencias que estime convenientes;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VIII",
+          "text": "Incorporar instituciones afines a sus objetivos fundamentales de acuerdo con lo que establezca su reglamentación interna;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IX",
+          "text": "Establecer y fomentar las relaciones y convenios con Universidades o instituciones nacionales o extranjeras;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "X",
+          "text": "Prestar asistencia técnica y servicio social a la comunidad en general, principalmente a la del medio rural, según sus planes académicos y cuando lo juzgue conveniente;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XI",
+          "text": "Establecer las relaciones y los convenios para la ejecución de planes y programas con dependencias gubernamentales;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XII",
+          "text": "Celebrar convenios laborales con sus trabajadores en los términos que establezca la Ley Federal del Trabajo;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XIII",
+          "text": "Establecer, en los términos que señale la Ley Orgánica, el Estatuto y los reglamentos, patronatos y asociaciones para su apoyo; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XIV",
+          "text": "Preservar y desarrollar todos los servicios que se prestan a la Comunidad Universitaria de acuerdo a su capacidad y a sus necesidades."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv",
+      "heading": "Capítulo IV",
+      "descriptor": "De la Comunidad Universitaria y de sus Autoridades.",
+      "ordinal": "IV",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 7. La Comunidad Universitaria estará constituida por sus autoridades, profesoresinvestigadores y alumnos, en los términos que especifiquen el Estatuto y los reglamentos internos."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 8. Son autoridades de la Universidad:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "El H. Consejo Universitario;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "El Rector;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "El Consejo Directivo;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Los Titulares de las Unidades Regionales; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Las demás que contemple el Estatuto Universitario."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 9. Las autoridades universitarias serán electas por la Comunidad o designadas por el órgano o autoridad que corresponda, cada una de acuerdo a los términos y modalidades establecidos por esta Ley Orgánica, el Estatuto Universitario y sus Reglamentos."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-v",
+      "heading": "Capítulo V",
+      "descriptor": "Del H. Consejo Universitario y sus Comisiones.",
+      "ordinal": "V",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 10. El H. Consejo Universitario será la máxima autoridad de la Universidad y estará integrado paritariamente por profesores-investigadores y alumnos, electos de conformidad con el Estatuto y los reglamentos respectivos. El cargo de Consejero Universitario será honorario."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 11. El Consejo sesionará de manera ordinaria dos veces por año en al menos cuatro sesiones, y de manera extraordinaria cada vez que sea convocado, en los términos de la normatividad vigente."
+        },
+        {
+          "type": "paragraph",
+          "text": "El Consejo trabajará en sesiones plenarias y en comisiones temáticas."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 12. Corresponde al H. Consejo Universitario:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Reformar, adicionar y abrogar las disposiciones internas;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Resolver, en última instancia, sobre los conflictos de competencia de las dependencias universitarias;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Elegir a los integrantes del Consejo Directivo de conformidad a lo que establezca el Estatuto y los reglamentos correspondientes;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Examinar, discutir y aprobar anualmente los presupuestos de ingresos y egresos de la Universidad;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Remover a las autoridades, por causa justificada, en los términos que el Estatuto indique;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VII",
+          "text": "Discutir y aprobar, en su caso, los planes y programas necesarios para llevar adelante los objetivos universitarios;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VIII",
+          "text": "Discutir y aprobar, en su caso, la creación o supresión de las unidades y dependencias de la Universidad;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IX",
+          "text": "Discutir y aprobar, en su caso, las modificaciones a la estructura de las unidades y dependencias de la Universidad;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "X",
+          "text": "Discutir y aprobar, en su caso, la incorporación o fusión de instituciones afines a la Universidad;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XI",
+          "text": "Conocer y aprobar, en su caso, el Informe del Rector y de otras autoridades en los términos que establezca el Estatuto;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XII",
+          "text": "Resolver, en última instancia, las apelaciones en los términos que señalen las disposiciones internas;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XIII",
+          "text": "Constituirse en Colegio Electoral para la elección del Rector, de acuerdo al reglamento respectivo;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XIV",
+          "text": "Tomar la protesta al Rector, expedir su nombramiento, resolver acerca de su renuncia y removerlo por causa justificada. En ejercicio de esta última facultad, se auscultará a la Comunidad Universitaria;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XV",
+          "text": "Nombrar las comisiones permanentes que se establecen en el Estatuto y las especiales que juzgue necesarias para el cumplimiento de sus funciones;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XVI",
+          "text": "Remover a los consejeros y miembros de las comisiones por las causas que el Estatuto indique;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XVII",
+          "text": "Conocer y resolver sobre las auditorías que, de acuerdo a su reglamentación interna, sean practicadas en la Universidad;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XVIII",
+          "text": "Nombrar al contralor interno de acuerdo al procedimiento que se señale para tal efecto;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XIX",
+          "text": "Publicar los acuerdos tomados; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XX",
+          "text": "Ejercer las demás facultades que esta Ley Orgánica y el Estatuto le señale."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 13. Para la validez de los acuerdos en los asuntos a que se refieren las fracciones I, II, IV, V, VI, VII, VIII, IX, X, XII, XVI, y XVII del artículo 12, se requiere el dictamen previo de la comisión respectiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para la validez de los acuerdos relacionados con las fracciones I, II, IV, VI, VIII, X y XIV en el caso de remoción del artículo 12, se requerirá sin excepción, el voto aprobatorio de no menos de dos terceras partes de los miembros del H. Consejo Universitario."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vi",
+      "heading": "Capítulo VI",
+      "descriptor": "Del Consejo Directivo.",
+      "ordinal": "VI",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 14. El Consejo Directivo se integrará y funcionará de acuerdo a lo que determine esta Ley Orgánica, el Estatuto y el reglamento correspondientes."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 15. Corresponde al Consejo Directivo, según lo que establezca el Estatuto y los reglamentos respectivos:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Participar en el proceso de elección de las autoridades a que se refieren las fracciones II y IV del artículo 8 de esta Ley Orgánica;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Participar en la definición de políticas generales de planes y programas institucionales, y en su seguimiento y evaluación;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Promover la participación y vinculación de la Universidad con la sociedad;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Colaborar en la gestión de los recursos para el cumplimiento de los fines de la Universidad y promover la transparencia de su uso; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Las demás que le asigne el Estatuto."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vii",
+      "heading": "Capítulo VII",
+      "descriptor": "Del Rector.",
+      "ordinal": "VII",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 16. El Rector será la máxima autoridad ejecutora de la Universidad."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 17. El Rector, será el representante legal de la Universidad, durará en su encargo cuatro años y no podrá ser reelecto. En los casos de ausencia temporal, será substituido en la forma y términos que establezca el Estatuto y los reglamentos."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 18. Para ser Rector se requiere:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Ser ciudadano mexicano por nacimiento en pleno goce de sus derechos;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Ser mayor de 30 años;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Ser electo en los términos que marque este ordenamiento, el Estatuto y los reglamentos respectivos;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Ser profesor-investigador de tiempo completo e indeterminado, con antigüedad laboral mínima de cinco años y haber trabajado ininterrumpidamente en la Universidad en los últimos tres años inmediatos anteriores a la elección;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "No estar comprendido en alguna de las causas de inhabilitación o incapacidad que se establecen en el Estatuto para ser Consejero Universitario; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Los demás requisitos que señalen el Estatuto y sus reglamentos."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 19. La elección de Rector se realizará de acuerdo al siguiente procedimiento:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "El Consejo Directivo, considerando los méritos de los aspirantes y una consulta a la Comunidad Universitaria, propondrá al H. Consejo Universitario una terna de candidatos elegibles, de acuerdo con los términos que para tal efecto determine este ordenamiento, el Estatuto y las disposiciones respectivas;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Una vez conocida la propuesta de los candidatos hecha por el Consejo Directivo, el H. Consejo Universitario la someterá a votación universal y secreta de la Comunidad Universitaria, de acuerdo a lo establecido en el Estatuto, los Reglamentos y las disposiciones correspondientes; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Será Rector electo el que determine la Comunidad Universitaria, de acuerdo a los resultados de la votación, conforme a lo que disponga el Estatuto y reglamento respectivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 20. El Rector, tendrá las siguientes facultades y obligaciones:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Cumplir y hacer cumplir esta Ley Orgánica, el Estatuto y los reglamentos que de ella emanen;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Convocar y presidir las reuniones del H. Consejo Universitario con voz pero sin voto;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Cumplir y hacer cumplir los acuerdos del H. Consejo Universitario;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Designar y remover a los funcionarios en los casos en que el Estatuto expresamente lo faculte;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Rendir ante el H. Consejo Universitario el informe anual de las actividades de la Universidad, conforme lo determine el Estatuto;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Ejecutar las medidas disciplinarias en los términos que señalen el Estatuto y los reglamentos;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VII",
+          "text": "Gestionar los recursos necesarios para el mejor logro de los objetivos universitarios;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VIII",
+          "text": "Coordinar las actividades de los órganos de gobierno y el funcionamiento general de la Universidad;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IX",
+          "text": "Presentar ante el H. Consejo Universitario, para su sanción, los planes, programas y presupuestos necesarios para el logro de los objetivos universitarios en los términos que establezca el Estatuto y los reglamentos;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "X",
+          "text": "Otorgar, delegar, sustituir y revocar poderes generales y especiales conforme a las leyes vigentes;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XI",
+          "text": "Celebrar todo tipo de convenios para el cumplimiento de los fines de la Universidad, con las limitaciones que se deriven de esta Ley Orgánica y sus reglamentos; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XII",
+          "text": "Las demás que señale este ordenamiento, así como las normas y disposiciones reglamentarias de la Universidad."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-viii",
+      "heading": "Capítulo VIII",
+      "descriptor": "Del Patronato.",
+      "ordinal": "VIII",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 21. El Patronato estará integrado por un Presidente, un Vicepresidente, un Secretario, un Tesorero y tres vocales."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los miembros del Patronato serán mexicanos y de reconocida solvencia moral. Durarán en su cargo ocho años y podrán ser reelectos. El cargo de miembro del Patronato será honorario."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 22. Corresponde al Patronato:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Procurar los ingresos necesarios para el financiamiento de la Universidad;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Organizar planes para arbitrar fondos a la Universidad;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Autorizar la adquisición de los bienes que se requieran para las actividades de la Universidad; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Acrecentar el patrimonio de la Universidad."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ejercer las demás atribuciones que le confieran este ordenamiento y las normas y disposiciones reglamentarias de la Universidad."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ix",
+      "heading": "Capítulo IX",
+      "descriptor": "Disposiciones Generales.",
+      "ordinal": "IX",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 23. Para la elección de los titulares de las unidades regionales se seguirá el mismo procedimiento que para Rector, aunque sólo votará la Comunidad Universitaria de la unidad correspondiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 24. Para que un trabajador académico sea considerado sujeto de una relación laboral, deberá someterse a los procedimientos de selección que determine el Estatuto y reglamentos y disposiciones legales."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 25. Los sindicatos o asociaciones de personal académico, personal administrativo y alumnos serán independientes de los órganos de gobierno de la Universidad y se organizarán en la forma en que los propios interesados determinen."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 26. Las disposiciones y reglamentos que emanen de las autoridades a que se refiere el artículo 8, fracción V, deberá ser conforme a los preceptos contenidos en esta Ley Orgánica y las"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto se publicará en el Diario Oficial de la Federación y entrará en vigor al día siguiente a aquél en que el H. Congreso del Estado apruebe y el Titular del Ejecutivo Estatal publique en el Periódico Oficial del Estado de Coahuila de Zaragoza la Abrogación de la Ley Orgánica de la Universidad Agraria Antonio Narro del 4 de abril de 1989, y la desincorporación de todos los bienes muebles e inmuebles que conforman el patrimonio de la Universidad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El H. Consejo Universitario deberá elaborar y aprobar las reformas necesarias al Estatuto y los reglamentos que procedan, para hacerlos congruentes con esta Ley Orgánica, dentro de un plazo no mayor de 60 días naturales contados a partir de la entrada en vigor de la presente Ley Orgánica."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Todos los asuntos que se encuentren pendientes de trámite al momento de entrar en vigor el presente Decreto se substanciarán hasta su total conclusión de conformidad con la Ley Orgánica emitida por el H. Congreso de Coahuila del 4 de abril de 1989."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las autoridades en función, al momento de entrar en vigor esta Ley Orgánica, permanecerán en su cargo hasta concluir el periodo para el cual fueron electas o designadas conforme a la Ley Orgánica anterior. Concluido dicho término, las nuevas autoridades se designarán o elegirán conforme a la Ley Orgánica en vigor, y al estatuto y los reglamentos que de ella emanen."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 7 de marzo de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de abril de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2302 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LRArt3_MMCE_ley_reglamentaria_del_articulo_3o_de_la_constitucion_politica_de_los_e",
+  "abbreviation": "LRArt3",
+  "name": "LEY Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
+  "catalog_number": "301",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf",
+    "pdf_filename_origen": "LRArt3_MMCE_300919.pdf",
+    "dof_publication": "DOF30/09/2019",
+    "last_reform": "Sin reforma",
+    "captured_at": "2026-04-09T10:37:08.006560+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE MEJORA CONTINUA DE LA EDUCACIÓN TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 30 de septiembre de 2019 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS  ."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "Artículo Único",
+      "descriptor": null,
+      "ordinal": "Artículo Único",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE MEJORA CONTINUA DE LA EDUCACIÓN"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-primer",
+      "heading": "Título Primero",
+      "descriptor": "Disposiciones Generales",
+      "ordinal": "Primero",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-unic",
+          "heading": "Capítulo Único",
+          "descriptor": "Del objeto de la Ley",
+          "ordinal": "Único",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-1",
+              "heading": "Artículo 1",
+              "descriptor": null,
+              "ordinal": "1",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La presente Ley es reglamentaria del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de mejora continua de la educación. Es de observancia general para toda la República y sus disposiciones son de orden público e interés social."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Su objeto es regular el Sistema Nacional de Mejora Continua de la Educación, así como el organismo que lo coordina, al que se denominará Comisión Nacional para la Mejora Continua de la Educación y el Sistema Integral de Formación, Actualización y Capacitación que será retroalimentado por evaluaciones diagnósticas."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-2",
+              "heading": "Artículo 2",
+              "descriptor": null,
+              "ordinal": "2",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La interpretación de esta Ley para efectos administrativos corresponde a la Secretaría y la Comisión, en sus respectivos ámbitos de competencia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente, la Ley General de Educación, la Ley Federal de las Entidades Paraestatales, su reglamento y demás LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS ordenamientos en materia educativa, así como lo dispuesto en los tratados internacionales sobre el derecho a la educación celebrados por el Estado mexicano."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-3",
+              "heading": "Artículo 3",
+              "descriptor": null,
+              "ordinal": "3",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para efectos de esta Ley se entiende por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Autoridades de educación media superior: a la instancia de la Secretaría de Educación Pública de la Administración Pública Federal encargada del ejercicio de la función social educativa en el tipo medio superior, los niveles que corresponda y su equivalente en las entidades federativas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Autoridad Educativa Federal o Secretaría: a la Secretaría de Educación Pública de la Administración Pública Federal;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Autoridad educativa de los Estados y de la Ciudad de México: al ejecutivo de cada una de estas entidades federativas, así como a las instancias que, en su caso, se establezcan para el ejercicio de la función social educativa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Comisión: a la Comisión Nacional para la Mejora Continua de la Educación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Comité: al Comité consultivo y deliberativo de las acciones del Sistema Nacional de Mejora Continua de la Educación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Consejo Ciudadano: al Consejo Ciudadano referido en el último párrafo de la fracción IX del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Consejo Técnico: al Consejo Técnico de Educación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Junta: a la Junta Directiva de la Comisión;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Ley: al presente ordenamiento;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Organismo descentralizado: a la entidad paraestatal, federal o local, con personalidad jurídica y patrimonio propio que imparta educación media superior;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Reglamento: al Reglamento de la presente Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Sistema: al Sistema Nacional de Mejora Continua de la Educación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Sistema Educativo Nacional: al constituido en términos de lo dispuesto en la Ley General de Educación, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Unidad del Sistema: a la Unidad del Sistema Nacional para la Carrera de las Maestras y los Maestros."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-segund",
+      "heading": "Título Segundo",
+      "descriptor": "Del Sistema Nacional de Mejora Continua de la Educación",
+      "ordinal": "Segundo",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": "Del objeto y principios del Sistema Nacional de Mejora Continua de la Educación",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-4",
+              "heading": "Artículo 4",
+              "descriptor": null,
+              "ordinal": "4",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Sistema Nacional de Mejora Continua de la Educación es un conjunto de actores, instituciones y procesos estructurados y coordinados, que contribuyen a la mejora continua de la LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS educación, para dar cumplimiento a los principios, fines y criterios establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Educación y en la presente Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-5",
+              "heading": "Artículo 5",
+              "descriptor": null,
+              "ordinal": "5",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Sistema tiene por objeto contribuir a garantizar la excelencia y la equidad de los servicios educativos prestados por el Estado y los particulares con autorización o con reconocimiento de validez oficial de estudios, para contribuir al desarrollo integral del educando."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-6",
+              "heading": "Artículo 6",
+              "descriptor": null,
+              "ordinal": "6",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los principios del Sistema son:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "El aprendizaje de las niñas, niños, adolescentes y jóvenes, como centro de la acción del Estado para lograr el desarrollo armónico de todas sus capacidades orientadas a fortalecer su identidad como mexicanas y mexicanos, responsables con sus semejantes y comprometidos con la transformación de la sociedad de que forman parte;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "La mejora continua de la educación que implica el desarrollo y fortalecimiento permanente del Sistema Educativo Nacional para el incremento del logro académico de los educandos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "El reconocimiento de las maestras y los maestros como agentes fundamentales del proceso educativo y de la transformación social;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "La búsqueda de la excelencia en la educación, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad, considerando las capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de los educandos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "La integralidad del Sistema Educativo Nacional, procurando la continuidad, complementariedad y articulación de la educación, desde el nivel inicial hasta el tipo superior;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "La contribución para garantizar una cobertura universal en todos los tipos y niveles educativos, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "La participación social y comunitaria."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Todo lo anterior en concordancia con el enfoque de derechos humanos, de igualdad sustantiva y de respeto irrestricto a la dignidad de las personas, así como del carácter obligatorio, universal, inclusivo, intercultural, integral, público, gratuito, de excelencia y laico de la educación que imparte el Estado y la rectoría que éste ejerce, de conformidad con los fines establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, para lograr la mejora continua de la educación."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": null,
+          "ordinal": "II",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "De la integración y facultades del Sistema Nacional de Mejora Continua de la Educación"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-7",
+              "heading": "Artículo 7",
+              "descriptor": null,
+              "ordinal": "7",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Sistema contará con un Comité consultivo y deliberativo, cuya función será:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Coadyuvar en las acciones del Sistema, a fin de contribuir a la mejora continua del Sistema Educativo Nacional de manera integral;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Intercambiar información del Sistema Educativo Nacional y promover la vinculación interinstitucional sobre experiencias relativas, provenientes de los estudios, investigaciones especializadas y evaluaciones diagnósticas, formativas e integrales que contribuyan a la mejora continua de la educación, y LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Conocer y opinar sobre las propuestas que la Comisión emita en materia de mejora continua de la educación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-8",
+              "heading": "Artículo 8",
+              "descriptor": null,
+              "ordinal": "8",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los integrantes del Comité acordarán los lineamientos que regirán su funcionamiento, así como las actividades específicas de colaboración encaminadas a lograr los principios del Sistema."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-9",
+              "heading": "Artículo 9",
+              "descriptor": null,
+              "ordinal": "9",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Comité estará integrado por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La persona titular de la Secretaría de Educación Pública, quien lo presidirá;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "La Junta, cuya persona que la presida coordinará las actividades del Sistema;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Las personas titulares de las subsecretarías que formen parte de la Secretaría;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "La persona titular de la Unidad del Sistema para la Carrera de las Maestras y los Maestros;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Las Presidencias de las Comisiones de Educación del H. Congreso de la Unión;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Un representante de las instituciones de formación inicial docente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Un representante del Consejo Técnico, diferente a la persona que presida la Junta, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Un representante del Consejo Ciudadano."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La presidencia del Comité, invitará de manera permanente a representantes de la Secretaría de Hacienda y Crédito Público, de la Secretaría de la Función Pública y del Instituto Nacional de las Mujeres a las sesiones, de igual forma podrá invitar a representantes de instituciones públicas, de organismos públicos autónomos, así como a docentes, especialistas, y demás actores sociales involucrados en el proceso educativo que puedan contribuir al logro de los fines del Sistema, que asistirán con voz, pero sin voto."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-10",
+              "heading": "Artículo 10",
+              "descriptor": null,
+              "ordinal": "10",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Comité mediante mayoría simple del voto de sus integrantes presentes en la sesión correspondiente y a iniciativa de su presidencia, nombrará a la persona titular de la Secretaría Técnica del Comité, quien también auxiliará a la Comisión en su calidad de Secretaría Ejecutiva."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Junta podrá proponer a la presidencia del Comité, perfiles de personas para los efectos del párrafo anterior."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-11",
+              "heading": "Artículo 11",
+              "descriptor": null,
+              "ordinal": "11",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Comité sesionará de manera ordinaria tres veces al año y de manera extraordinaria cuando así se requiera."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La presidencia del Comité, por conducto de la Secretaría Técnica, convocará a las sesiones ordinarias al menos con cinco días hábiles de anticipación y, con cuarenta y ocho horas, tratándose de sesiones extraordinarias."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En las sesiones del Comité se tomará en cuenta los resolutivos del Consejo Nacional de Autoridades Educativas que adopte en materia de mejora continua de la educación."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-tercer",
+      "heading": "Título Tercero",
+      "descriptor": "Del Sistema Integral de Formación, Capacitación y Actualización",
+      "ordinal": "Tercero",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS"
+        }
+      ],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": null,
+          "ordinal": "I",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Del derecho a la formación, capacitación y actualización de las maestras y los maestros"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-12",
+              "heading": "Artículo 12",
+              "descriptor": null,
+              "ordinal": "12",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal que ejerza las funciones docentes, directiva o de supervisión tendrá derecho a acceder a un sistema integral de formación, de capacitación y de actualización."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Estado garantizará lo necesario para que dicho personal en la Federación, las entidades federativas y municipios, tengan opciones de formación, capacitación y actualización, cuyos contenidos serán elaborados con perspectiva de género, enfoque de derechos humanos, además de tomar en cuenta los contextos locales y regionales de la prestación de los servicios educativos, así como las condiciones de vulnerabilidad social."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para los efectos del párrafo anterior, las autoridades de educación media superior, las autoridades educativas de los Estados y de la Ciudad de México y los organismos descentralizados, bajo la coordinación de la Secretaría a través de sus áreas competentes, ofrecerán programas de desarrollo profesional y cursos, de conformidad con los criterios que emita la Comisión."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-13",
+              "heading": "Artículo 13",
+              "descriptor": null,
+              "ordinal": "13",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría, las autoridades de educación media superior, las autoridades educativas de los Estados y la Ciudad de México y los organismos descentralizados, podrán suscribir convenios de colaboración con instituciones dedicadas a la formación pedagógica de los profesionales de la educación e instituciones de educación superior nacionales o extranjeras, para ampliar las opciones de formación, capacitación y actualización que para tal efecto establezca la Comisión."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Asimismo, impulsarán los proyectos pedagógicos y de desarrollo de la docencia generados por las instituciones de formación docente y los sectores académicos, de conformidad con los criterios que emita la Comisión."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-14",
+              "heading": "Artículo 14",
+              "descriptor": null,
+              "ordinal": "14",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Sistema Integral de Formación, Capacitación y Actualización tendrá los siguientes fines:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La formación, con nivel de licenciatura, de maestras y maestros de educación básica con los conocimientos y aptitudes necesarios para el aprendizaje y el desarrollo integral de los educandos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "La formación continua, la actualización de conocimientos de las humanidades, las artes, la ciencia, la tecnología e innovación y otras que contribuyan a la superación docente de las maestras y los maestros en servicio;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "La promoción de programas de especialización, maestría y doctorado para una orientación integral, adecuados a las necesidades, contextos regionales y locales de la prestación de los servicios educativos y de los recursos disponibles;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "La realización de programas de inducción, actualización, capacitación y superación profesional para las maestras y maestros de educación media superior;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "La promoción del enfoque de derechos humanos, de igualdad sustantiva, la cultura de la paz y la integridad en la práctica de las funciones de las maestras y los maestros, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "El desarrollo de la investigación pedagógica y la difusión de la cultura educativa."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La implementación del Sistema Integral de Formación, Capacitación y Actualización será progresiva y se ajustará a la suficiencia presupuestaria del ejercicio fiscal correspondiente."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-15",
+              "heading": "Artículo 15",
+              "descriptor": null,
+              "ordinal": "15",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para efectos de su instrumentación y con el fin de garantizar el derecho al acceso al Sistema Integral de Formación, Capacitación y Actualización, se entenderá por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Actualización, a la oferta de servicios para la adquisición y desarrollo del conocimiento educativo actual, con el fin de mejorar permanentemente la actividad profesional de las maestras y los maestros;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Capacitación, al conjunto de acciones encaminadas a generar aptitudes, transmitir conocimientos o detonar habilidades específicas para el ejercicio de la función docente, técnico docente, de asesoría técnico pedagógica, de dirección y de supervisión, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Formación, al conjunto de acciones diseñadas y ejecutadas por las autoridades educativas que imparten educación básica y media superior, y las instituciones de educación superior para proporcionar las bases teórico prácticas de la pedagogía y demás ciencias de la educación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-16",
+              "heading": "Artículo 16",
+              "descriptor": null,
+              "ordinal": "16",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La oferta de formación, capacitación y actualización deberá:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Centrarse en la mejora continua de las maestras y los maestros para fortalecer el aprendizaje de las niñas, niños, adolescentes y jóvenes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Fortalecer el desempeño académico de los educandos, a partir de una oferta amplia de métodos pedagógicos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Favorecer la equidad educativa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Propiciar la excelencia de la educación que imparta el Estado;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Ser gratuita, diversa y de excelencia, en función de las necesidades de desarrollo del personal, para su mejor desempeño profesional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Ser pertinente con las necesidades del docente, de la escuela, de su zona escolar y de su entidad federativa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Responder, en su dimensión regional o local, a los requerimientos que el personal solicite para su desarrollo profesional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Incorporar la perspectiva de género y el enfoque de derechos humanos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Propiciar un marco de inclusión educativa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Atender a los resultados de las evaluaciones diagnósticas que apliquen las autoridades de educación media superior, las autoridades educativas de los Estados y la Ciudad de México y los organismos descentralizados;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Tomar en cuenta las evaluaciones internas de las escuelas en la región de que se trate, desarrolladas por las instancias educativas correspondientes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Aprovechar y promover el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para facilitar el acceso a la formación, capacitación y actualización, y LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Atender al personal interesado en participar en los procesos de promoción y reconocimiento, para proporcionar, entre otras, herramientas de trayectos formativos en la innovación, métodos tecnológicos de profesionalización o de gestión directiva."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El personal elegirá los programas o cursos de formación, capacitación y actualización en función de los resultados obtenidos en la evaluación diagnóstica en que participe o de sus necesidades, intereses, habilidades y capacidades, tomando en cuenta además los contextos locales y regionales de la prestación de los servicios educativos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-17",
+              "heading": "Artículo 17",
+              "descriptor": null,
+              "ordinal": "17",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Unidad del Sistema, enviará a la Comisión los resultados de los procesos de selección para la admisión, promoción y reconocimiento previstos en la Ley respectiva, para que determine, formule y fortalezca los programas de formación, capacitación y actualización de las maestras y los maestros."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Comisión emitirá los criterios conforme a los cuales la Secretaría, las autoridades de educación media superior, las autoridades educativas de los Estados y la Ciudad de México y los organismos descentralizados llevarán a cabo la valoración del diseño, la operación y los resultados de la oferta de formación, capacitación y actualización, y formularán las recomendaciones pertinentes. Dichos criterios serán revisados periódicamente por la Comisión."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La oferta de formación, capacitación y actualización se adecuará conforme a los avances científicos, humanísticos, tecnológicos y de innovación."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Unidad del Sistema remitirá a las autoridades de educación media superior, las autoridades educativas de las entidades federativas y los organismos descentralizados, los resultados de la evaluación diagnóstica, para que implementen, de conformidad con los criterios que determine la Secretaría, los programas de formación, capacitación y actualización de las maestras y los maestros, formulados por la Comisión."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": "De las evaluaciones diagnósticas",
+          "ordinal": "II",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-18",
+              "heading": "Artículo 18",
+              "descriptor": null,
+              "ordinal": "18",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las evaluaciones diagnósticas serán formativas e integrales y consisten en procesos mediante los cuales se formulan juicios fundamentados en evidencia, sobre las cualidades de los actores, instituciones o procesos del Sistema Educativo Nacional, con la finalidad de contar con una retroalimentación que promueva una acción de mejora en la educación."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La evaluación del Sistema Educativo Nacional será integral, continua, colectiva, incluyente, diagnóstica y comunitaria. Contará al menos con las etapas de diagnóstico, implementación, seguimiento y evaluación. Será participativa y transparente en todas sus etapas, sustentada en los principios de igualdad sustantiva, interculturalidad, imparcialidad, transparencia y rendición de cuentas de la autoridad educativa, además de los criterios de equidad y excelencia en educación."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La evaluación a la que se refiere este artículo valorará el cumplimiento de las responsabilidades de las autoridades educativas sobre la atención de las problemáticas de las escuelas y los avances de las políticas que lleven para el cumplimiento de sus obligaciones en materia educativa; además de aquellas de madres y padres de familia o tutores respecto a sus hijas, hijos o pupilos menores de dieciocho años en términos de lo que dispone la Constitución Política de los Estados Unidos Mexicanos. La Comisión determinará los lineamientos y periodicidad para llevar a cabo la realización de las evaluaciones diagnósticas y formativas previstas en este artículo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-19",
+              "heading": "Artículo 19",
+              "descriptor": null,
+              "ordinal": "19",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Sistema Integral de Formación, Capacitación y Actualización será retroalimentado por evaluaciones diagnósticas, las cuales tendrán como objetivo fortalecer las capacidades, conocimientos, LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS aptitudes, habilidades, destrezas y actitudes del personal que ejerza la función docente, directiva o de supervisión, para contribuir al logro de aprendizaje y desarrollo integral del educando, así como cumplir los objetivos y propósitos del Sistema Educativo Nacional y proporcionar elementos que promuevan el desarrollo humano y profesional de las maestras y los maestros."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-20",
+              "heading": "Artículo 20",
+              "descriptor": null,
+              "ordinal": "20",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La evaluación diagnóstica será un proceso para apreciar las capacidades, conocimientos, aptitudes, habilidades, destrezas y actitudes del personal que ejerza la función docente, directiva o de supervisión, para detectar las fortalezas e identificar sus áreas de oportunidad, las cuales serán atendidas a través del Sistema Integral de Formación, Capacitación y Actualización. La evaluación diagnóstica será formativa e integral y atenderá a los contextos locales y regionales de la prestación de los servicios educativos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-21",
+              "heading": "Artículo 21",
+              "descriptor": null,
+              "ordinal": "21",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Con la finalidad de que el personal docente, técnico docente, asesor técnico pedagógico, con funciones de dirección y de supervisión, en la educación básica y media superior que imparta el Estado, reciba formación, capacitación y actualización profesional, la cual tendrá valor curricular, será objeto de una evaluación diagnóstica, a través de la cual se detectarán sus fortalezas y áreas de oportunidad."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Secretaría dispondrá de las medidas para que cada participante conozca los resultados que obtuvo en la evaluación diagnóstica. Dichos resultados no generarán ningún perjuicio en el desempeño de las funciones del personal al que se refiere el presente Capítulo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-22",
+              "heading": "Artículo 22",
+              "descriptor": null,
+              "ordinal": "22",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los resultados de la evaluación diagnóstica en ningún caso tendrán efecto sobre la permanencia en la plaza de las maestras y los maestros."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-23",
+              "heading": "Artículo 23",
+              "descriptor": null,
+              "ordinal": "23",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Unidad del Sistema determinará los procesos, criterios e indicadores, además de los mecanismos de participación de las autoridades de educación media superior, las autoridades educativas de los Estados y la Ciudad de México y los organismos descentralizados, mediante los cuales se realizarán las evaluaciones diagnósticas al personal que ejerza la función docente, directiva o de supervisión, en términos de las disposiciones previstas en esta Ley."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-cuart",
+      "heading": "Título Cuarto",
+      "descriptor": "De la Comisión Nacional para la Mejora Continua de la Educación",
+      "ordinal": "Cuarto",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": "De la naturaleza, objeto y atribuciones de la Comisión",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-i.articulo-24",
+              "heading": "Artículo 24",
+              "descriptor": null,
+              "ordinal": "24",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Comisión se constituye como un organismo público descentralizado, no sectorizado, con autonomía técnica, operativa, presupuestaria, de decisión y de gestión, con personalidad jurídica y patrimonio propio."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La autonomía presupuestaria a la que se refiere el párrafo anterior, se sujetará a lo establecido en los artículos 5, fracción II y 29 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-i.articulo-25",
+              "heading": "Artículo 25",
+              "descriptor": null,
+              "ordinal": "25",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Presupuesto de Egresos de la Federación deberá contener las partidas y previsiones necesarias para sufragar los gastos derivados de la operación de la Comisión, quedando sometido a las reglas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública Federal."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-i.articulo-26",
+              "heading": "Artículo 26",
+              "descriptor": null,
+              "ordinal": "26",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El patrimonio de la Comisión se integra con los recursos que se le asignen en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, los derechos y bienes muebles e inmuebles que le sean asignados por el sector público, los fondos nacionales o extranjeros obtenidos para el financiamiento de programas específicos, así como los demás ingresos que perciba en LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS los términos de las disposiciones aplicables, que podrán consistir en donaciones, legados, derechos y otras que reciba de personas físicas y morales."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-i.articulo-27",
+              "heading": "Artículo 27",
+              "descriptor": null,
+              "ordinal": "27",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Comisión se rige para su organización, funcionamiento y control, por las disposiciones constitucionales relativas, las de esta Ley, las de su Reglamento y demás disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-i.articulo-28",
+              "heading": "Artículo 28",
+              "descriptor": null,
+              "ordinal": "28",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Comisión tiene por objeto coordinar el Sistema Nacional de Mejora Continua de la Educación, y tiene las siguientes atribuciones en términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Realizar estudios, investigaciones especializadas y evaluaciones diagnósticas, formativas e integrales del Sistema Educativo Nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Determinar indicadores de resultados de la mejora continua de la educación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Establecer los criterios que deben cumplir las instancias evaluadoras para los procesos valorativos, cualitativos, continuos y formativos de la mejora continua de la educación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Emitir lineamientos relacionados con el desarrollo del magisterio, el desempeño escolar, los resultados de aprendizaje; así como de la mejora de las escuelas, organización y profesionalización de la gestión escolar;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Proponer mecanismos de coordinación entre las autoridades educativas federal y de las entidades federativas, para la atención de las necesidades de las personas en la materia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Sugerir elementos que contribuyan a la mejora de los objetivos de la educación inicial, de los planes y programas de estudio de educación básica y media superior, así como para la educación inclusiva y de adultos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Generar y difundir información que contribuya a la mejora continua del Sistema Educativo Nacional, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Las demás que se establezcan en otras disposiciones legales."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En el ejercicio de sus atribuciones, la Comisión se regirá por los principios de independencia, transparencia, rendición de cuentas, objetividad, pertinencia, diversidad e inclusión."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": "Del gobierno, organización y funcionamiento",
+          "ordinal": "II",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-29",
+              "heading": "Artículo 29",
+              "descriptor": null,
+              "ordinal": "29",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Comisión está integrada por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La Junta Directiva;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "El Consejo Técnico de Educación, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "El Consejo Ciudadano."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para el desempeño de sus labores se auxiliará, en los términos previstos en esta Ley, de una Secretaría Ejecutiva y las áreas administrativas. Contará con un Órgano Interno de Control conforme a lo establecido en las disposiciones aplicables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-30",
+              "heading": "Artículo 30",
+              "descriptor": null,
+              "ordinal": "30",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Junta de la Comisión es el cuerpo colegiado responsable de la conducción, planeación, programación, organización y coordinación de los trabajos de la Comisión. Para tal efecto, se auxiliará del Consejo Técnico, de la Secretaría Ejecutiva, así como de las unidades administrativas que integran la Comisión."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-31",
+              "heading": "Artículo 31",
+              "descriptor": null,
+              "ordinal": "31",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Junta se integra por cinco personas denominadas comisionados, nombradas por la Cámara de Senadores, con el voto de las dos terceras partes de sus integrantes, las cuales durarán en su cargo siete años improrrogables, serán renovadas en forma escalonada y no podrán ser reelectas. En su composición se procurará la paridad de género."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas que integren la Junta, deberán ser especialistas en investigación, política educativa, temas pedagógicos o tener experiencia docente en cualquier tipo o modalidad educativa; además acreditar el grado académico de su especialidad y experiencia, no haber sido dirigente de algún partido político o candidato a ocupar un cargo de elección popular en los cuatro años anteriores a la designación."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En caso de falta absoluta de un integrante de la Junta, ésta informará inmediatamente a la Cámara de Senadores, para que lleve a cabo la sustitución en términos de la fracción IX del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La persona elegida en la hipótesis a que se refiere el párrafo anterior, solo podrá desempeñar el cargo durante el tiempo que reste al periodo del nombramiento de aquella que ha sido sustituida."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas que integren la Junta serán remuneradas conforme a las disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-32",
+              "heading": "Artículo 32",
+              "descriptor": null,
+              "ordinal": "32",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las personas que integren la Junta, deberán reunir los requisitos siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Ser especialista en investigación, política educativa, temas pedagógicos o experiencia docente en cualquier tipo o modalidad educativa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Acreditar el grado académico de su especialidad, así como su experiencia en las materias referidas en la fracción II de este artículo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "No haber sido dirigente de algún partido político o candidato a ocupar un cargo de elección popular en los cuatro años anteriores a la designación, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "No haber sido Senador, Diputado Federal o local ni Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, en los cuatro años anteriores a la designación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-33",
+              "heading": "Artículo 33",
+              "descriptor": null,
+              "ordinal": "33",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las personas integrantes de la Junta sólo podrán ser removidas por causa grave en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-34",
+              "heading": "Artículo 34",
+              "descriptor": null,
+              "ordinal": "34",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La persona que presida la Junta será nombrada por sus integrantes por un periodo de dos años y presidirá el Consejo Técnico. Su ausencia temporal será suplida por el integrante que la Junta determine."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-35",
+              "heading": "Artículo 35",
+              "descriptor": null,
+              "ordinal": "35",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Son facultades de la Junta:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Proponer, al titular del Ejecutivo Federal, para su consideración las modificaciones al Reglamento;"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Establecer, con conocimiento del Sistema, la organización general de la Comisión y los manuales de función y procedimientos, así como las demás normas de aplicación general necesarias para el funcionamiento y operación de la Comisión;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Ratificar a la Secretaría Ejecutiva de la Comisión, de acuerdo con el artículo 10 de esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Aprobar el presupuesto, programas, proyectos, informes de actividades y estados financieros anuales de la Comisión y, en su caso, autorizar su publicación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Autorizar la creación de comités de apoyo y grupos de trabajo temporales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Aprobar los programas anuales de actividades de la Comisión;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Aprobar los instrumentos, lineamientos, criterios, políticas y demás medidas y actos jurídicos a los que se refiere esta Ley necesarios para el cumplimiento del objeto de la Comisión;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Aprobar las acciones necesarias para formalizar la participación, colaboración y coordinación en materia de mejora continua de la educación con las autoridades educativas federal, de los Estados y de la Ciudad de México, instituciones académicas y de investigación, organizaciones sociales nacionales y extranjeras, así como con organismos internacionales, universidades o instituciones de educación superior;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Nombrar y remover, a través de la Secretaría Ejecutiva, a las servidoras y los servidores públicos del nivel administrativo inferior inmediato al de éste;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Desahogar los asuntos relacionados con la aplicación de esta Ley, que sometan a su consideración sus integrantes, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Las demás que confiera esta Ley y otras disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-36",
+              "heading": "Artículo 36",
+              "descriptor": null,
+              "ordinal": "36",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Junta sesionará de manera ordinaria una vez al mes y extraordinariamente cuando sea necesario. En ambos casos, se requiere un quórum de mayoría simple de sus integrantes para su funcionamiento y las resoluciones que adopten serán válidas cuando se aprueben por cuando menos tres votos de los integrantes presentes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las sesiones de la Junta serán convocadas por la presidencia, por conducto de la Secretaría Ejecutiva, o mediante solicitud que formulen a éste cuando menos tres de sus integrantes. Las demás reglas para el debido funcionamiento de la Junta se establecerán en el Reglamento."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-37",
+              "heading": "Artículo 37",
+              "descriptor": null,
+              "ordinal": "37",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los acuerdos que resulten de las sesiones de la Junta quedarán asentados en el Acta de la sesión y se harán del dominio público en un plazo no mayor a setenta y dos horas a través del medio de comunicación que establezca la Junta para ello, con la excepción de aquellos que se definan bajo reserva por la naturaleza de la información o de los datos que contengan, en términos de la legislación correspondiente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-38",
+              "heading": "Artículo 38",
+              "descriptor": null,
+              "ordinal": "38",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Junta se auxiliará de la Secretaría Ejecutiva, quien asistirá con voz, pero sin voto, a las sesiones."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Asimismo, podrá acordar la asistencia de otros servidores públicos de la Comisión que estime pertinentes, atendiendo a la naturaleza de sus asuntos, para que le rindan directamente la información que les solicite."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-39",
+              "heading": "Artículo 39",
+              "descriptor": null,
+              "ordinal": "39",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las personas integrantes de la Junta desempeñarán su función con autonomía y probidad, no podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, salvo para el estricto ejercicio de sus funciones, ni divulgarla por cualquier medio."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Igualmente, las servidoras y los servidores públicos de la Comisión que asistan a las sesiones de la Junta deberán guardar confidencialidad respecto de los asuntos que se traten en ellas, en caso contrario, serán acreedores a las responsabilidades que establezcan las disposiciones en la materia."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-ii.articulo-40",
+              "heading": "Artículo 40",
+              "descriptor": null,
+              "ordinal": "40",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Corresponden a la presidencia de la Junta las facultades siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Coordinar los trabajos de la Junta;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Proponer y dar seguimiento a la agenda de trabajo de la Junta;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Supervisar la publicación, seguimiento y cumplimiento de los acuerdos de la Junta;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Representar a la Comisión ante autoridades federales y locales, así como ante organismos nacionales e internacionales en las materias de su competencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Presentar, previo acuerdo de la Junta, los informes relacionados de las labores de la Comisión ante las instancias correspondientes, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Las demás que le confiera la presente Ley o las derivadas de los acuerdos de la Junta."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-iii",
+          "heading": "Capítulo III",
+          "descriptor": "Del Consejo Técnico de Educación",
+          "ordinal": "III",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iii.articulo-41",
+              "heading": "Artículo 41",
+              "descriptor": null,
+              "ordinal": "41",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Comisión contará con un Consejo Técnico de Educación, que será un órgano colegiado multidisciplinario, cuyo propósito es asesorar a la Junta en aspectos técnicos y metodológicos, en materia de mejora continua de la educación, para el cumplimiento de sus atribuciones."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iii.articulo-42",
+              "heading": "Artículo 42",
+              "descriptor": null,
+              "ordinal": "42",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo Técnico será presidido por la presidencia de la Junta, y se apoyará de la Secretaría Ejecutiva de la Comisión."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iii.articulo-43",
+              "heading": "Artículo 43",
+              "descriptor": null,
+              "ordinal": "43",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo Técnico estará integrado por siete personas nombradas por la Cámara de Senadores, con el voto de las dos terceras partes de sus integrantes, las cuales durarán en su cargo cinco años improrrogables, serán renovadas en forma escalonada y no podrán ser reelectas. En su composición se procurará la diversidad y representación de los tipos y modalidades educativos, así como la paridad de género."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas que integren el Consejo Técnico, deberán ser especialistas en investigación, política educativa, temas pedagógicos o tener experiencia docente en cualquier tipo o modalidad educativa; además acreditar el grado académico de su especialidad y experiencia, no haber sido dirigente de algún partido político o candidato a ocupar un cargo de elección popular en los cuatro años anteriores a la designación."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En caso de falta absoluta de un integrante del Consejo, la Junta, informará inmediatamente a la Cámara de Senadores, para que lleve a cabo la sustitución en los términos de la fracción IX del artículo 3o. Constitucional."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La persona elegida en la hipótesis a que se refiere el párrafo anterior solo podrá desempeñar el cargo durante el tiempo que reste al periodo del nombramiento de aquel que ha sido sustituido. Si el periodo a LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS cubrir es menor a un año, no habrá impedimento para que participe en el siguiente o posteriores procesos de elección para miembros del Consejo Técnico."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iii.articulo-44",
+              "heading": "Artículo 44",
+              "descriptor": null,
+              "ordinal": "44",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Le corresponde al Consejo Técnico:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Asesorar, revisar y, en su caso, formular recomendaciones técnicas y metodológicas a la Junta sobre los trabajos correspondientes en materia de mejora continua de la educación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Mantener informada a la Junta, a través de su presidencia, del avance de los asuntos a cargo del Consejo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Proponer estrategias, metodologías de evaluaciones diagnósticas, indicadores, lineamientos, políticas, directrices, elementos y criterios, así como realizar estudios, informes, proyectos y análisis de las acciones implementadas por la Comisión;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Sugerir mecanismos de colaboración con autoridades educativas, instituciones académicas y de investigación, instituciones u organizaciones públicas, privadas y de la sociedad civil, nacionales o extranjeras; así como con universidades y otras instituciones de educación superior a las que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, relacionadas con la mejora continua de la educación, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Las demás que se deriven de las disposiciones que regulan el funcionamiento del Consejo, los acuerdos adoptados en las sesiones y las que le encomiende expresamente la Junta o, en su caso, la presidencia de la Comisión."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iii.articulo-45",
+              "heading": "Artículo 45",
+              "descriptor": null,
+              "ordinal": "45",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para cumplir con sus funciones, el Consejo Técnico establecerá siete Comités presididos uno por cada integrante. El Reglamento determinará su funcionamiento."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los Comités del Consejo Técnico serán los siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "De educación básica;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "De educación media superior;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "De educación superior;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "De educación inicial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "De educación indígena;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "De educación inclusiva, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "De formación docente."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los trabajos realizados por los Comités a los que se refiere este artículo incorporarán el enfoque de derechos humanos y de igualdad sustantiva para contribuir en la eliminación de cualquier tipo o modalidad de violencia y discriminación, especialmente la que se ejerce contra las niñas y las mujeres."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iii.articulo-46",
+              "heading": "Artículo 46",
+              "descriptor": null,
+              "ordinal": "46",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo Técnico se reunirá ordinariamente cuatro veces al año y, de manera extraordinaria, a convocatoria de su presidencia."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iii.articulo-47",
+              "heading": "Artículo 47",
+              "descriptor": null,
+              "ordinal": "47",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las personas que integren el Consejo Técnico serán remuneradas por su participación en las sesiones ordinarias o extraordinarias y, en su caso, por trabajos específicos que le sean LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS requeridos, evitando conflictos de interés, de acuerdo con los lineamientos que determine la Junta, a través de la Secretaría Ejecutiva."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iii.articulo-48",
+              "heading": "Artículo 48",
+              "descriptor": null,
+              "ordinal": "48",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La presidencia del Consejo Técnico, a través de la Secretaría Técnica, convocará a las sesiones mediante comunicado escrito o en forma electrónica, asegurando su recepción."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En dicho comunicado se deberá indicar el día, la hora y el domicilio físico o electrónico para su celebración presencial o remota, lo cual quedará asentado en el acta respectiva. La convocatoria también incluirá el orden del día y, de ser el caso, la documentación correspondiente, y deberá ser enviada con al menos cinco días hábiles de anticipación."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para sesionar deberá contarse con la presencia de la mayoría de sus integrantes y las resoluciones que adopten serán válidas cuando se aprueben por la mayoría simple de los miembros presentes."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iii.articulo-49",
+              "heading": "Artículo 49",
+              "descriptor": null,
+              "ordinal": "49",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En el acta que se levante de las sesiones ordinarias o extraordinarias, quedarán consignados, si los hubiere, los acuerdos, así como el resumen de los asuntos tratados y las opiniones expresadas sobre cada uno."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La presidencia del Consejo Técnico deberá informar a la Junta el orden del día y los resultados de las sesiones ordinarias o extraordinarias."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-iv",
+          "heading": "Capítulo IV",
+          "descriptor": "Del Consejo Ciudadano",
+          "ordinal": "IV",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iv.articulo-50",
+              "heading": "Artículo 50",
+              "descriptor": null,
+              "ordinal": "50",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo Ciudadano es un órgano colegiado honorífico de consulta de la Comisión, constituido bajo el principio de máxima inclusión, cuyo propósito es facilitar la participación activa y armónica de los actores del proceso educativo y de los sectores social, público y privado en la mejora continua de la educación. Su función es conocer, opinar y dar seguimiento a los resultados de los trabajos que realice la Comisión, así como a las acciones para su difusión. Tendrá a su cargo la elaboración de un plan de gran visión educativa de carácter orientador para la formulación de los programas de mediano plazo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iv.articulo-51",
+              "heading": "Artículo 51",
+              "descriptor": null,
+              "ordinal": "51",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo Ciudadano elegirá a la persona que lo presida, entre uno de sus miembros, por mayoría simple de sus integrantes. Se apoyará en la Secretaría Ejecutiva, quien tendrá el carácter de Secretaría Técnica de dicho Consejo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iv.articulo-52",
+              "heading": "Artículo 52",
+              "descriptor": null,
+              "ordinal": "52",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo Ciudadano se integrará de la siguiente manera:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Constará de 15 miembros de pleno derecho, seleccionados por convocatoria pública expedida por la Junta de la Comisión;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Para ser consideradas por la Junta para formar parte del Consejo Ciudadano, las personas deberán contar con al menos diez años de actividad en el ámbito educativo y tener presencia reconocida a nivel regional o nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "En la integración del Consejo Ciudadano, la Junta, contemplará a docentes de los diversos tipos y modalidades de la educación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "La Junta elegirá por la mayoría de sus integrantes presentes, a las personas que constituirán el Consejo Ciudadano, buscando siempre que su conformación sea plural, representativa y procurando la paridad de género;"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "El encargo de los integrantes del Consejo Ciudadano será de doce años de manera escalonada;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "En caso de ausencia de alguno de sus integrantes, la Junta emitirá la convocatoria respectiva para la elección de la persona que integre al Consejo Ciudadano en los términos del presente artículo, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "La pertenencia al Consejo Ciudadano será de carácter honorífico."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iv.articulo-53",
+              "heading": "Artículo 53",
+              "descriptor": null,
+              "ordinal": "53",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo Ciudadano sesionará de manera ordinaria tres veces al año. Podrá sesionar de manera extraordinaria a solicitud de la presidencia o de la Junta."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para el funcionamiento de este Consejo se estará a lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Para llevar a cabo las sesiones deberá contarse con la presencia de, al menos, la mitad más uno de sus miembros y las resoluciones que adopten serán válidas cuando se aprueben por la mayoría simple de los integrantes presentes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Las sesiones ordinarias y extraordinarias podrán ser presenciales o a distancia y deberá ser consignado en el acta correspondiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Los integrantes del Consejo Ciudadano podrán someter asuntos a tratar en las sesiones a través de la presidencia del Consejo Ciudadano o de la Secretaría Técnica;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "La Junta podrá remover a los integrantes del Consejo Ciudadano que no asistan dos veces consecutivas a las sesiones ordinarias, sin que medie la justificación correspondiente, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Participarán en las sesiones ordinarias o extraordinarias un integrante de la Junta y podrán participar los servidores públicos de la Comisión a invitación de la presidencia del Consejo Ciudadano, a través de la Secretaría Técnica."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iv.articulo-54",
+              "heading": "Artículo 54",
+              "descriptor": null,
+              "ordinal": "54",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La presidencia del Consejo Ciudadano, por conducto de la Secretaría Técnica, convocará a las sesiones mediante comunicado escrito o en forma electrónica, asegurando su recepción. En dicho comunicado se deberá indicar el día, la hora y el domicilio o el servicio de datos para su celebración presencial o a distancia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La convocatoria también incluirá el orden del día y, de ser el caso, la documentación correspondiente, que deberá ser enviada con al menos cinco días hábiles de anticipación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-iv.articulo-55",
+              "heading": "Artículo 55",
+              "descriptor": null,
+              "ordinal": "55",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En el acta que se levante de las sesiones ordinarias o extraordinarias, quedarán consignados, si los hubiere, los acuerdos, así como las opiniones expresadas en cada asunto."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La presidencia del Consejo Ciudadano deberá informar a la Junta, al momento de emitir la convocatoria correspondiente, el orden del día y los resultados de las sesiones ordinarias o extraordinarias."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-v",
+          "heading": "Capítulo V",
+          "descriptor": "De la Secretaría Ejecutiva",
+          "ordinal": "V",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-v.articulo-56",
+              "heading": "Artículo 56",
+              "descriptor": null,
+              "ordinal": "56",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría Ejecutiva es la instancia encargada de auxiliar a la Junta en la coordinación, administración y funcionamiento de la Comisión, de conformidad con las disposiciones aplicables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS Para el cumplimiento de sus atribuciones, le corresponde a la Secretaría Ejecutiva:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Actuar en su calidad de Secretaría Técnica del Comité del Sistema, de la Junta, del Consejo Técnico de Educación y del Consejo Ciudadano, así como remitir a los integrantes de dichos órganos colegiados los documentos y anexos necesarios, a través de medios digitales o electrónicos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Ejecutar y supervisar el adecuado cumplimiento de los acuerdos del Comité y de la Junta;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Acordar con las presidencias del Comité y de la Junta los asuntos de su competencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Elaborar anualmente el anteproyecto de presupuesto de la Comisión, de acuerdo con la normatividad y criterios establecidos para tal efecto, y someterlo a aprobación de la Junta;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Acordar y coordinarse con las áreas de la Comisión, para el desarrollo de sus labores administrativas y funcionamiento, además de coordinar las acciones entre estas instancias y la Junta;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Actuar en nombre y representación de la Junta y del Consejo Técnico en los procedimientos administrativos y judiciales en los cuales sean parte, quedando obligado a informar periódicamente del estado que guarden los procedimientos en cuestión a la propia Junta Directiva o al Consejo Técnico, según corresponda;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Coordinar y ejecutar las acciones necesarias para atender los requerimientos que le formule el Órgano Interno de Control como coadyuvante en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes de la Comisión y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a las y los servidores públicos de la Comisión, debiendo informar periódicamente de ello a la Junta;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Suscribir conjuntamente con la presidencia de la Junta, los instrumentos jurídicos en el ámbito de competencia de la Comisión;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Emitir los nombramientos y las remociones determinadas por acuerdo de la Junta, de las personas titulares de las áreas administrativas y demás personal que integren la Comisión;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Representar legalmente a la Comisión y otorgar, sustituir y revocar poderes para pleitos y cobranzas, de conformidad con las disposiciones aplicables y previa autorización de la Junta."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-vi",
+          "heading": "Capítulo VI",
+          "descriptor": "De las áreas administrativas",
+          "ordinal": "VI",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-vi.articulo-57",
+              "heading": "Artículo 57",
+              "descriptor": null,
+              "ordinal": "57",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Comisión contará con las siguientes áreas administrativas:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "De evaluación diagnóstica;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "De apoyo y seguimiento a la mejora continua e innovación educativa, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "De vinculación e integralidad del aprendizaje."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-vi.articulo-58",
+              "heading": "Artículo 58",
+              "descriptor": null,
+              "ordinal": "58",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El objeto central del área de evaluación diagnóstica es establecer criterios que deban cumplir las instancias evaluadoras para los procesos valorativos, cualitativos y formativos de la mejora LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS continua de la educación y proponer, diseñar y, en su caso, implementar evaluaciones diagnósticas, formativas e integrales del Sistema Educativo Nacional, así como estudios e investigaciones especializadas, orientadas a la mejora continua de los distintos niveles y modalidades de la educación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-vi.articulo-59",
+              "heading": "Artículo 59",
+              "descriptor": null,
+              "ordinal": "59",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El objeto central del área de apoyo y seguimiento a la mejora continua e innovación educativa es determinar indicadores de resultados para la mejora continua de la educación; emitir lineamientos relacionados con el desempeño escolar, los resultados de aprendizaje, la mejora de las escuelas y la innovación en los materiales y las tecnologías educativas, así como sugerir elementos que contribuyan a la mejora de los objetivos de la educación inicial, de los planes y programas de estudio de educación básica y media superior, así como para la educación inclusiva y de adultos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-vi.articulo-60",
+              "heading": "Artículo 60",
+              "descriptor": null,
+              "ordinal": "60",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El objeto central del área de vinculación e integralidad del aprendizaje es proponer mecanismos de coordinación entre las autoridades educativas federal, de los Estados y de la Ciudad de México, así como entre los distintos niveles y modalidades educativos; emitir lineamientos, criterios y programas relacionados con la formación, capacitación y actualización del magisterio en todos sus niveles y modalidades educativas, la mejora del desempeño profesional, el desarrollo de capacidades de liderazgo y gestión, y la profesionalización de la gestión escolar."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-quint",
+      "heading": "Título Quinto",
+      "descriptor": "De los mecanismos de colaboración y coordinación",
+      "ordinal": "Quinto",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-quint.capitulo-unic",
+          "heading": "Capítulo Único",
+          "descriptor": "Disposiciones generales",
+          "ordinal": "Único",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-61",
+              "heading": "Artículo 61",
+              "descriptor": null,
+              "ordinal": "61",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para el cumplimiento de su objeto y el ejercicio de sus atribuciones, la Comisión podrá suscribir los convenios necesarios para la coordinación y colaboración con autoridades educativas, instituciones académicas y de investigación, organizaciones sociales nacionales o extranjeras, relacionadas con la mejora continua de la educación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-62",
+              "heading": "Artículo 62",
+              "descriptor": null,
+              "ordinal": "62",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Comisión podrá suscribir los actos jurídicos que la Junta considere convenientes para el cumplimiento de su objeto y atribuciones, con organizaciones de la sociedad civil, así como con instituciones y organizaciones privadas, nacionales e internacionales."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-63",
+              "heading": "Artículo 63",
+              "descriptor": null,
+              "ordinal": "63",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para el cumplimiento de sus atribuciones, la Comisión además podrá suscribir convenios con universidades y otras instituciones de educación superior a las que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-sext",
+      "heading": "Título Sexto",
+      "descriptor": null,
+      "ordinal": "Sexto",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Previsiones Generales"
+        }
+      ],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-sext.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": "De la información pública, la transparencia y la rendición de cuentas",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-i.articulo-64",
+              "heading": "Artículo 64",
+              "descriptor": null,
+              "ordinal": "64",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Toda la información generada, obtenida, adquirida, transformada o en posesión de la Comisión es pública y accesible a cualquier persona, misma que se sujetará a los términos y condiciones Transparencia y Acceso a la Información Pública, y demás disposiciones aplicables."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-sext.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": "De la vigilancia y del Órgano Interno de Control",
+          "ordinal": "II",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-ii.articulo-65",
+              "heading": "Artículo 65",
+              "descriptor": null,
+              "ordinal": "65",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Órgano de Vigilancia de la Comisión estará integrado por un Comisario Público propietario y un suplente designados por la Secretaría de la Función Pública. Ejercerá sus facultades conforme a la Ley Federal de las Entidades Paraestatales, su reglamento y el de la Secretaría de la Función Pública y las demás disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-ii.articulo-66",
+              "heading": "Artículo 66",
+              "descriptor": null,
+              "ordinal": "66",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Comisión contará con un Órgano Interno de Control, cuya persona titular será designada por la Secretaría de la Función Pública en términos de lo dispuesto por la Ley Orgánica de la Administración Pública Federal quien, en el ejercicio de sus facultades, se auxiliará por las personas titulares de, al menos, las áreas de auditoría interna, quejas y responsabilidades designados en los mismos términos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-ii.articulo-67",
+              "heading": "Artículo 67",
+              "descriptor": null,
+              "ordinal": "67",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Órgano Interno de Control se conformará en términos de la legislación en la materia y la normatividad que determine la Secretaría de la Función Pública."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-sext.capitulo-iii",
+          "heading": "Capítulo III",
+          "descriptor": "Del régimen laboral",
+          "ordinal": "III",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-iii.articulo-68",
+              "heading": "Artículo 68",
+              "descriptor": null,
+              "ordinal": "68",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las relaciones laborales entre la Comisión y sus trabajadores se regirán por el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones normativas, legales y reglamentarias que se opongan al sentido de la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley, dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los integrantes de la Junta Directiva y del Consejo Técnico de Educación de la Comisión Nacional para la Mejora Continua de la Educación, electos por la Cámara de Senadores en sesión extraordinaria del 1 de julio de 2019, asumirán sus funciones hasta la entrada en vigor de la presente Ley, en términos del artículo Noveno Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado el 15 de mayo de 2019 en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para la integración del primer Consejo Ciudadano de la Comisión Nacional para la Mejora Continua de la Educación, la Junta Directiva de este órgano, emitirá la convocatoria respectiva en un plazo máximo de sesenta días, contados a partir de la entrada en vigor del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Con el fin de asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, éstos se harán por los periodos siguientes:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Tres nombramientos por un periodo de tres años;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Tres nombramientos por un periodo de seis años;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Tres nombramientos por un periodo de nueve años;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Tres nombramientos por un periodo de diez años;"
+            },
+            {
+              "type": "paragraph",
+              "text": "LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Dos nombramientos por un periodo de once años, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "Un nombramiento por un periodo de doce años."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Una vez instalado el Comité del Sistema Nacional de Mejora Continua de la Educación, en su primera sesión ordinaria, deberá someter para su aprobación a la persona que fungirá como Secretaria Técnica quien, a su vez, tendrá el carácter de Secretaria Ejecutiva de la Comisión Nacional para la Mejora Continua de la Educación, una vez ratificada por su Junta Directiva."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los recursos materiales y financieros del extinto Instituto Nacional para la Evaluación de la Educación, pasan a formar parte de la Comisión Nacional para la Mejora Continua de la Educación que se regula en los términos de la presente Ley y demás disposiciones aplicables."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los proyectos, planes, procedimientos, trámites, investigaciones y asuntos en general, que se encuentren en proceso, se deberán concluir conforme a lo programado, en aquello que no se contraponga a la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "Noveno",
+          "descriptor": null,
+          "ordinal": "Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los asuntos que se encuentren en trámite en el Órgano Interno de Control serán desahogados por el servidor público designado para ese fin por la Secretaría de la Función Pública conforme al artículo 66 de esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decim",
+          "heading": "Décimo",
+          "descriptor": null,
+          "ordinal": "Décimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El acervo de información, archivos administrativos, bases de datos y cualquier otro instrumento documental, en cualquier medio impreso o digital de conservación, que no revista el carácter de información pública en términos del artículo Décimo Transitorio del Decreto citado en el artículo Cuarto"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "de esta Ley, deberá quedar en resguardo de la Secretaría Ejecutiva de la Comisión Nacional para la Mejora Continua de la Educación, una vez realizada su designación."
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-primer",
+          "heading": "Décimo Primero",
+          "descriptor": null,
+          "ordinal": "Décimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los derechos y obligaciones a cargo del extinto Instituto Nacional para la Evaluación de la Educación, que no hubieren terminado a partir de la reforma constitucional del 15 de mayo de 2019, serán asumidos por la Comisión Nacional para la Mejora Continua de la Educación en lo que resulte compatible con sus atribuciones constitucionales y legales."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "Décimo Segundo",
+          "descriptor": null,
+          "ordinal": "Décimo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-tercer",
+          "heading": "Décimo Tercero",
+          "descriptor": null,
+          "ordinal": "Décimo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Comisión Nacional para la Mejora Continua de la Educación permanecerá en el Ramo 42 del Presupuesto de Egresos de la Federación hasta el 31 de diciembre de 2019. A partir del 1o. de enero de 2020 se incluirá en la relación de Entidades Paraestatales de la Administración Pública Paraestatal como descentralizado no sectorizado."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-cuart",
+          "heading": "Décimo Cuarto",
+          "descriptor": null,
+          "ordinal": "Décimo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las personas integrantes de la Junta Directiva de la Comisión Nacional para la Mejora Continua, las y los servidores públicos de la Comisión y las personas que tengan acceso a información que se genere en estricto apego a las facultades de la Junta y que esté catalogada como reservada no podrán difundir, transmitir o utilizar dicha información, salvo para el estricto ejercicio de sus funciones. La violación a este precepto será sancionada en los términos de las disposiciones legales aplicables."
+            },
+            {
+              "type": "paragraph",
+              "text": "Asimismo, los datos personales y la información considerada como confidencial, no se podrá dar a conocer, salvo las excepciones que la propia legislación de la materia establece."
+            },
+            {
+              "type": "paragraph",
+              "text": "LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS Ciudad de México, a 25 de septiembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Maribel Martínez Ruiz, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de septiembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

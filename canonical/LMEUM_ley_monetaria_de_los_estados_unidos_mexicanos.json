@@ -1,0 +1,2913 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LMEUM_ley_monetaria_de_los_estados_unidos_mexicanos",
+  "abbreviation": "LMEUM",
+  "name": "LEY Monetaria de los Estados Unidos Mexicanos",
+  "catalog_number": "241",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf",
+    "pdf_filename_origen": "LMEUM.pdf",
+    "dof_publication": "DOF27/07/1931",
+    "last_reform": "DOF 19/01/2026",
+    "captured_at": "2026-04-09T10:28:13.998985+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "Nueva Ley publicada en el Diario Oficial de la Federación el 27 de julio de 1931 TEXTO VIGENTE Últimas reformas publicadas DOF 19-01-2026 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación."
+    },
+    {
+      "type": "paragraph",
+      "text": "El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme la siguiente Ley: “PASCUAL ORTIZ RUBIO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el H. Congreso de la Unión ha tenido a bien expedir la siguiente Ley:"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Congreso de los Estados Unidos Mexicanos, decreta:"
+    }
+  ],
+  "structure": [
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "CAPÍTULO I",
+      "descriptor": "De la Moneda y de su Régimen Legal",
+      "ordinal": "I",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-1",
+          "heading": "Artículo 1º",
+          "descriptor": null,
+          "ordinal": "1º",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La unidad del sistema monetario de los Estados Unidos Mexicanos es el “peso”, con la equivalencia que por Ley se señalará posteriormente."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al artículo DOF 29-07-1931. Reformado DOF 31-08-1936. Fe de erratas DOF 14-10-1936"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-2",
+          "heading": "Artículo 2º",
+          "descriptor": null,
+          "ordinal": "2º",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las únicas monedas circulantes serán: a). Los billetes del Banco de México, S. A., con las denominaciones que fijen sus estatutos; b). Las monedas metálicas de cincuenta, veinte, diez, cinco, dos y un pesos, y de cincuenta, veinte, diez, y cinco centavos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos relativos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 08-12-1992, 09-09-1993",
+              "action": "reformado",
+              "dof_date": "08-12-1992"
+            },
+            {
+              "type": "paragraph",
+              "text": "Cuando los decretos relativos prevean aleaciones opcionales para la composición de las monedas metálicas, la Secretaría de Hacienda y Crédito Público, a propuesta del Banco de México, determinará su composición metálica señalando alguna de las aleaciones establecidas en el decreto respectivo o sustituyendo la así señalada por otra de ellas."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación las resoluciones en las que se determine la aleación que se utilizará en la composición metálica de las monedas de que se trata."
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 31-12-1976, 07-01-1980, 22-12-1983, 08-01-1986, 09-11-1987, 23-07-1990, 22-06-1992",
+              "action": "reformado",
+              "dof_date": "31-12-1976"
+            },
+            {
+              "type": "paragraph",
+              "text": "c). Las monedas metálicas conmemorativas de acontecimientos de importancia nacional, en platino, en oro, en plata o en metales industriales, con los diámetros, leyes o composiciones metálicas, pesos, cuños y demás características que señalen los decretos relativos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 24-12-1984, 08-01-1986",
+              "action": "reformado",
+              "dof_date": "24-12-1984"
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al artículo DOF 29-07-1931. Reformado DOF 27-04-1935, 06-05-1936, 31-08-1936. Fe de erratas DOF 14-10-1936. Reformado DOF 29-12-1938, 31-12-1942, 10-08-1943, 21-03-1944, 27-09-1945, 19-09-1947, 31-12-1947, 30-12-1949, 24-11-1950, 30-12-1950, 15-09-1955, 31-12-1956. Fe de erratas DOF 21-10-1957. Reformado DOF 30-12-1963, 30-12-1969. Reformado (y se suprimen los incisos"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "y e) del mismo) DOF 31-12-1973"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-2",
+          "heading": "Artículo 2º",
+          "descriptor": null,
+          "ordinal": "2º",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "bis.- También formarán parte del sistema las monedas metálicas acuñadas en platino, en oro y en plata, cuyo peso, cuño, ley y demás características señalen los decretos relativos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 08-01-1986",
+              "action": "reformado",
+              "dof_date": "08-01-1986"
+            },
+            {
+              "type": "paragraph",
+              "text": "Estas monedas:"
+            },
+            {
+              "type": "paragraph",
+              "text": "I.- Gozarán de curso legal por el equivalente en pesos de su cotización diaria;"
+            },
+            {
+              "type": "paragraph",
+              "text": "II.- No tendrán valor nominal;"
+            },
+            {
+              "type": "paragraph",
+              "text": "III.- Expresarán su contenido de metal fino; y IV.- Tendrán poder liberatorio referido exclusivamente al pago de las obligaciones mencionadas en el segundo párrafo del artículo 7o. Dicho poder liberatorio será ilimitado en cuanto al número de piezas a entregar en un mismo pago."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 28-12-1981. Fe de erratas DOF 23-03-1982",
+              "action": "reformado",
+              "dof_date": "23-03-1982"
+            },
+            {
+              "type": "paragraph",
+              "text": "El Banco de México determinará diariamente la cotización de estas monedas, con base en el precio internacional del metal fino contenido en ellas."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Banco de México, directamente o a través de sus corresponsales, estará obligado a recibir ilimitadamente estas monedas, a su valor de cotización, entregando a cambio de ellas billetes y monedas metálicas de los mencionados en el artículo 2o. de esta ley."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 07-01-1980",
+              "action": "adicionado",
+              "dof_date": "07-01-1980"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-3",
+          "heading": "Artículo 3º",
+          "descriptor": null,
+          "ordinal": "3º",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los pagos en efectivo de obligaciones en moneda nacional cuyo importe comprenda fracciones de la unidad monetaria que no sean múltiplos de cinco centavos, se efectuarán ajustando el monto del pago, al múltiplo de cinco centavos más próximo a dicho importe."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los pagos cuya realización no implique entrega de efectivo se efectuarán por el monto exacto de la obligación."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 27-04-1935, 31-08-1936. Fe de erratas DOF 14-10-1936. Derogado DOF 29-12-1938. Adicionado DOF 31-12-1976.",
+              "action": "reformado",
+              "dof_date": "31-12-1976"
+            },
+            {
+              "type": "paragraph",
+              "text": "Reformado 22-12-1983, 22-06-1992"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-4",
+          "heading": "Artículo 4º",
+          "descriptor": null,
+          "ordinal": "4º",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los billetes del Banco de México tendrán poder liberatorio ilimitado y deberán contener una o varias características que permitan identificar su denominación a las personas invidentes."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo derogado DOF 27-04-1935. Adicionado DOF 31-08-1936. Fe de erratas DOF 14-10-1936. Reformado DOF 29-12-1938, 11-05-2004",
+              "action": "derogado",
+              "dof_date": "29-12-1938"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-5",
+          "heading": "Artículo 5º",
+          "descriptor": null,
+          "ordinal": "5º",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las monedas metálicas a que se refieren los incisos b) y siguientes del artículo 2o. de esta ley, tendrán poder liberatorio limitado al valor de cien piezas de cada denominación en un mismo pago."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las citadas monedas deberán ser acuñadas de manera tal que sean identificables por las personas invidentes."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 11-05-2004",
+              "action": "adicionado",
+              "dof_date": "11-05-2004"
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al artículo DOF 29-07-1931. Reformado DOF 27-04-1935, 06-05-1936, 31-08-1936, 31-12-1942. Fe de erratas DOF 07-01-1943."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reformado DOF 19-09-1947, 31-12-1947, 30-12-1949, 30-12-1950, 15-09-1955, 31-12-1956, 30-12-1969"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-6",
+          "heading": "Artículo 6º",
+          "descriptor": null,
+          "ordinal": "6º",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las oficinas públicas de la Federación, de los Estados y de los Municipios, estarán obligadas a recibir las monedas a que se refiere el artículo que antecede, sin limitación alguna, en pago de toda clase de impuestos, servicios o derechos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-7",
+          "heading": "Artículo 7º",
+          "descriptor": null,
+          "ordinal": "7º",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las obligaciones de pago de cualquier suma en moneda mexicana se denominarán invariablemente en pesos y, en su caso, sus fracciones. Dichas obligaciones se solventarán mediante la entrega, por su valor nominal, de billetes del Banco de México o monedas metálicas de las señaladas en el artículo 2o."
+            },
+            {
+              "type": "paragraph",
+              "text": "No obstante, si el deudor demuestra que recibió del acreedor monedas de las mencionadas en el artículo 2o. bis, podrá solventar su obligación entregando monedas de esa misma clase conforme a la cotización de éstas para el día en que se haga el pago."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 27-04-1935, 31-08-1936. Fe de erratas DOF 14-10-1936. Reformado DOF 29-12-1938, 07-01-1980, 28-12-1981",
+              "action": "reformado",
+              "dof_date": "29-12-1938"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-8",
+          "heading": "Artículo 8º",
+          "descriptor": null,
+          "ordinal": "8º",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La moneda extranjera no tendrá curso legal en la República, salvo en los casos en que la Ley expresamente determine otra cosa. Las obligaciones de pago en moneda extranjera contraídas dentro o fuera de la República para ser cumplidas en ésta, se solventarán entregando el equivalente en moneda nacional, al tipo de cambio que rija en el lugar y fecha en que se haga el pago."
+            },
+            {
+              "type": "paragraph",
+              "text": "Este tipo de cambio se determinará conforme a las disposiciones que para esos efectos expida el Banco de México en los términos de su Ley Orgánica."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 08-01-1986",
+              "action": "adicionado",
+              "dof_date": "08-01-1986"
+            },
+            {
+              "type": "paragraph",
+              "text": "Los pagos en moneda extranjera originados en situaciones o transferencias de fondos desde el exterior, que se lleven a cabo a través del Banco de México o de Instituciones de Crédito, deberán ser cumplidos entregando la moneda, objeto de dicha trasferencia o situación. Ello sin perjuicio del cumplimiento de las obligaciones que imponga el régimen de Control de Cambios en vigor."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 08-01-1986",
+              "action": "adicionado",
+              "dof_date": "08-01-1986"
+            },
+            {
+              "type": "paragraph",
+              "text": "Las obligaciones a que se refiere el primer párrafo de este artículo, originadas en depósitos bancarios irregulares constituidos en moneda extranjera, se solventarán conforme a lo previsto en dicho párrafo, a menos que el deudor se haya obligado en forma expresa a efectuar el pago precisamente en moneda extranjera, en cuyo caso deberá entregar esta moneda. Esta última forma de pago sólo podrá establecerse en los casos en que las autoridades bancarias competentes lo autoricen, mediante reglas de carácter general que deberán publicarse en el Diario Oficial de la Federación; ello sin perjuicio del cumplimiento de las obligaciones que imponga el régimen de control de cambios en vigor."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 07-05-1986",
+              "action": "adicionado",
+              "dof_date": "07-05-1986"
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 06-03-1935",
+              "action": "reformado",
+              "dof_date": "06-03-1935"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-9",
+          "heading": "Artículo 9º",
+          "descriptor": null,
+          "ordinal": "9º",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las prevenciones de los dos artículos anteriores no son renunciables y toda estipulación en contrario será nula."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las piezas perforadas o recortadas, las que tengan marcas o contraseñas y las que presenten vestigios de usos no monetarios, carecerán de curso legal y no serán admitidas en oficinas públicas."
+            },
+            {
+              "type": "paragraph",
+              "text": "Se prohíbe alterar o transformar las monedas metálicas en circulación, mediante su fundición o cualquier otro procedimiento, que tengan por objeto aprovechar su contenido metálico. Los infractores serán sancionados administrativamente por la Secretaría de Hacienda y Crédito Público con multa hasta de un tanto del valor del metal contenido en las piezas alteradas o transformadas. El importe de la multa correspondiente se fijará oyendo al Banco de México y tomando en cuenta el valor y el número de las piezas utilizadas, el destino que se haya dado o pretendido dar a las monedas o a sus componentes, la utilidad percibida por el infractor, las circunstancias peculiares de éste y el daño producido a la circulación monetaria."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 07-01-1980",
+              "action": "adicionado",
+              "dof_date": "07-01-1980"
+            },
+            {
+              "type": "paragraph",
+              "text": "La prevención del párrafo anterior en cuanto al aprovechamiento del contenido metálico de las piezas, no es aplicable al Banco de México."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 07-01-1980",
+              "action": "adicionado",
+              "dof_date": "07-01-1980"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "CAPÍTULO II",
+      "descriptor": "De la Emisión de Moneda",
+      "ordinal": "II",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La emisión de billetes del Banco de México se ajustará a lo dispuesto en esta ley y en la Constitutiva de dicha institución."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al artículo DOF 29-07-1931. Reformado DOF 27-04-1935"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Corresponderá privativamente al Banco de México ordenar la acuñación de monedas según lo exijan las necesidades monetarias de la República y estrictamente dentro de los límites de esas necesidades."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-03-1932",
+              "action": "reformado",
+              "dof_date": "10-03-1932"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-13",
+          "heading": "Artículo 13",
+          "descriptor": null,
+          "ordinal": "13",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Banco de México sólo podrá ordenar la fabricación de moneda metálica a quienes previamente la Secretaría de Hacienda y Crédito Público haya autorizado para este efecto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reforma DOF 23-12-1993: Derogó del artículo los entonces párrafos primero y segundo"
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-03-1932. Fe de erratas DOF 14-04-1932. Reformado DOF 22-03-1933, 07-01-1980",
+              "action": "reformado",
+              "dof_date": "22-03-1933"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "CAPÍTULO III",
+      "descriptor": "De la Reserva Monetaria",
+      "ordinal": "III",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-14",
+          "heading": "Artículo 14",
+          "descriptor": null,
+          "ordinal": "14",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Reserva Monetaria estará formada por los siguientes recursos: a). Los que la integran al ser expedida esta ley. b). La plata contenida en las antiguas monedas de un peso y de cincuenta, veinte y diez centavos, retiradas de la circulación en ejecución de esta ley. c). La parte de las utilidades del Banco de México que la ley respectiva señala. d). La diferencia que resulte entre el costo y el valor monetario de las monedas fraccionarias que se acuñen. e). El producto de los préstamos que se contraten para el aumento de la Reserva. f). La suma que anualmente asigne el Presupuesto de Egresos de la Federación para ese objeto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Igualmente corresponderán a la Reserva Monetaria todos los incrementos que tenga, sea por el aumento del valor de sus bienes, sea por los provechos que alcance en las operaciones que por su cuenta se practiquen."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 22-03-1933, 27-04-1935",
+              "action": "reformado",
+              "dof_date": "22-03-1933"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-15",
+          "heading": "Artículo 15",
+          "descriptor": null,
+          "ordinal": "15",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Reserva Monetaria se destinará exclusivamente a sostener el valor de la moneda nacional, y a regular su circulación y los cambios sobre el exterior."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 22-03-1933, 27-04-1935",
+              "action": "reformado",
+              "dof_date": "22-03-1933"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-16",
+          "heading": "Artículo 16",
+          "descriptor": null,
+          "ordinal": "16",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los recursos que constituyen la Reserva Monetaria, en los términos del artículo 14 de esta ley, serán considerados por su valor comercial en los estados y balances que el Banco de México publique conforme a su Ley Constitutiva."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 22-03-1933, 27-04-1935",
+              "action": "reformado",
+              "dof_date": "22-03-1933"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv",
+      "heading": "CAPÍTULO IV",
+      "descriptor": "De la Seguridad en la Circulación Monetaria",
+      "ordinal": "IV",
+      "content": [
+        {
+          "type": "reform_note",
+          "text": "Capítulo adicionado DOF 07-01-1980",
+          "action": "adicionado",
+          "dof_date": "07-01-1980"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-17",
+          "heading": "Artículo 17",
+          "descriptor": null,
+          "ordinal": "17",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Queda prohibida la imitación o reproducción total o parcial, de monedas metálicas o de billetes, nacionales o extranjeros, en rótulos, viñetas, anuncios o en cualquiera otra forma, salvo en aquellos casos en que la Secretaría de Hacienda y Crédito Público, oyendo previamente al Banco de México, lo autorice expresamente, por tratarse de imágenes de monedas que carezcan de idoneidad para engañar, que no conduzcan o puedan conducir a la falsificación de dichas piezas ni, en general, afecten la seguridad de la circulación monetaria."
+            },
+            {
+              "type": "paragraph",
+              "text": "Queda igualmente prohibida la comercialización de reproducciones o imitaciones no autorizadas."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las personas que contravengan lo dispuesto en este artículo, serán sancionadas administrativamente por la Secretaría de Hacienda y Crédito Público, con multa hasta de un millón de pesos. El importe de la multa respectiva se fijará oyendo al Banco de México y tomando en cuenta el número de las imitaciones o reproducciones, los efectos de éstas en la seguridad de la circulación monetaria, la utilidad percibida por el infractor y las circunstancias de éste."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo derogado DOF 22-03-1933. Adicionado DOF 07-01-1980",
+              "action": "derogado",
+              "dof_date": "07-01-1980"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-18",
+          "heading": "Artículo 18",
+          "descriptor": null,
+          "ordinal": "18",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Queda prohibida la fabricación de piezas nacionales o extranjeras que hubieren tenido el carácter de billetes o de monedas metálicas. Los infractores serán sancionados administrativamente por la Secretaría de Hacienda y Crédito Público, oyendo al Banco de México, con multa hasta de un tanto del valor de mercado de las piezas reproducidas, o de no existir éste, del valor que les fije la propia Secretaría."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Banco de México, con autorización de la Secretaría de Hacienda y Crédito Público, podrá fabricar piezas mexicanas de las señaladas en el párrafo anterior."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 07-01-1980",
+              "action": "adicionado",
+              "dof_date": "07-01-1980"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-19",
+          "heading": "Artículo 19",
+          "descriptor": null,
+          "ordinal": "19",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Cuando exista presunción de que una moneda nacional o extranjera es falsa o ha sido alterada, su tenedor podrá pedir al Banco de México, directamente o por conducto de cualquiera institución de crédito del país, verificar esas circunstancias, contra la entrega del recibo correspondiente."
+            },
+            {
+              "type": "paragraph",
+              "text": "En el caso de que tal petición se formule por conducto de una institución de crédito, ésta deberá remitir al Banco de México, en los términos que el mismo señale y en un plazo no mayor de un día hábil, contado a partir de la fecha de su recibo, las piezas que le sean entregadas para su análisis."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cuando las piezas sean auténticas serán devueltas a su tenedor; si por el contrario resultaren falsas, estuvieren alteradas o no se pudiera determinar la autenticidad de las mismas, el Banco de México procederá a dar parte de inmediato a las autoridades competentes, poniéndolas a su disposición para el aseguramiento correspondiente."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 07-01-1980",
+              "action": "adicionado",
+              "dof_date": "07-01-1980"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-20",
+          "heading": "Artículo 20",
+          "descriptor": null,
+          "ordinal": "20",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Si las monedas respecto a las cuales exista presunción de que son falsas o han sido alteradas, llegan a poder de una institución de crédito por medio diverso al previsto en el artículo anterior, dicha institución, como auxiliar del Ministerio Público y de la Policía Judicial, deberá dar parte de inmediato a las autoridades competentes, poniendo las piezas respectivas a su disposición. Las citadas autoridades deberán remitir al Banco de México, para su análisis, las piezas objeto de la averiguación o instrucción, quedando las mismas al cuidado y bajo la responsabilidad de éste último."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cuando, en los términos previstos en este artículo, se proceda al aseguramiento de monedas, su tenedor tendrá derecho a que la institución de crédito respectiva le extienda un recibo provisional en el que se identifiquen las piezas de que se trate, en tanto la autoridad competente le entrega, por conducto de la propia institución, el recibo definitivo."
+            },
+            {
+              "type": "paragraph",
+              "text": "El carácter de auxiliar del Ministerio Público y de la Policía Judicial que se atribuye a las instituciones de crédito, es exclusivamente para los propósitos señalados en este artículo."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 07-01-1980",
+              "action": "adicionado",
+              "dof_date": "07-01-1980"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-21",
+          "heading": "Artículo 21",
+          "descriptor": null,
+          "ordinal": "21",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las sanciones previstas en esta ley se aplicarán sin perjuicio de las responsabilidades que resulten por haberse cometido alguno o algunos de los ilícitos previstos en el Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 07-01-1980",
+              "action": "adicionado",
+              "dof_date": "07-01-1980"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-v",
+      "heading": "CAPÍTULO V",
+      "descriptor": "De la Desmonetización",
+      "ordinal": "V",
+      "content": [
+        {
+          "type": "reform_note",
+          "text": "Capítulo adicionado DOF 07-01-1980",
+          "action": "adicionado",
+          "dof_date": "07-01-1980"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-22",
+          "heading": "Artículo 22",
+          "descriptor": null,
+          "ordinal": "22",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para la adecuada integración del sistema monetario, en función de las necesidades del público y de la duración y costo de los materiales relativos, el Banco de México podrá sustituir los billetes que forman parte de dicho sistema por otros nuevos o dejar de emitir los de cierta denominación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las resoluciones que al efecto adopte esa Institución deberán de publicarse en el “Diario Oficial” de la Federación y especificar los billetes a que estén referidas, así como el término durante el cual éstos conservarán su poder liberatorio, mismo que no será inferior a veinticuatro meses contado a partir de la fecha en que se publique la resolución correspondiente."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 07-01-1980",
+              "action": "adicionado",
+              "dof_date": "07-01-1980"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-23",
+          "heading": "Artículo 23",
+          "descriptor": null,
+          "ordinal": "23",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Banco de México, dentro del plazo a que se refiere el artículo anterior, directamente o a través de sus corresponsales, canjeará ilimitadamente y a valor nominal los billetes que se retiren de la circulación conforme a ese artículo."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 07-01-1980",
+              "action": "adicionado",
+              "dof_date": "07-01-1980"
+            },
+            {
+              "type": "paragraph",
+              "text": "DISPOSICIONES TRANSITORIAS ARTICULO 1°.- Desde la fecha en que entre en vigor la presente ley, se suspenderá indefinidamente la acuñación de monedas nacionales de oro, quedando privadas de todo poder liberatorio legal, las monedas de oro de dos, dos cincuenta, cinco, diez, veinte y cincuenta pesos, de los cuños establecidos por las Leyes de 25 de marzo de 1905, de 27 de junio de 1917, de 31 de octubre de 1918 y de 14 de septiembre de 1921."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al artículo DOF 29-07-1931 ARTICULO 2°.- Se declaran libres la exportación y la importación de oro acuñado o en pasta, quedando derogados, en consecuencia, los artículos 26 y 53 de la Ley de 19 de diciembre de 1929."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO 3°.- Todas las obligaciones contraídas hasta la fecha de esta ley en moneda nacional de cualquier especie, se solventarán entregando monedas de los cuños que esta ley conserva, dentro de los límites respectivos de su poder liberatorio."
+            },
+            {
+              "type": "paragraph",
+              "text": "No obstante lo prevenido en el párrafo anterior, deberán entregar monedas de oro quienes las hayan recibido en cobros por cuenta de tercero, o en depósito confidencial, o en virtud de cualquier otro contrato que no trasmita el dominio. Los bancos e instituciones bancarias deberán pagar en monedas de oro el 30% de los depósitos que el público hubiere constituído en ellos en esa especie, a la vista o a plazo no mayor de treinta días vista."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO 4°.- Las obligaciones de pago en moneda extranjera contraídas dentro de la República para ser cumplidas en ésta, se solventarán en los términos del artículo octavo de esta ley, a menos que el deudor demuestre. tratándose de operaciones de préstamo, que la moneda recibida del acreedor fue moneda nacional de cualquier clase, o que, tratándose de otras operaciones, la moneda en que se contrajo originalmente la obligación fue moneda nacional de cualquier clase; en estos casos, las obligaciones de referencia se solventarán en monedas nacionales, en los términos de los artículos cuarto y quinto de esta ley, respectivamente, al tipo que se hubiere tomado en cuenta al efectuarse la operación para hacer la conversión de la moneda nacional recibida a la moneda extranjera o, si no es posible fijar ese tipo, a la paridad legal."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO 5°.- A contar de la fecha de la promulgación de esta ley, quedan privadas de todo poder legal liberatorio las monedas de plata de cuños distintos a los mencionados en las fracciones b) y c) del artículo segundo de esta ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las monedas de plata de dos pesos, creadas por Ley de 22 de septiembre de 1921, serán canjeadas en la forma que determine la Junta Central Bancaria, por monedas de plata de un peso del cuño que esta ley conserva, si se presentan al efecto dentro de un plazo de seis meses a partir de la fecha de esta ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al párrafo DOF 29-07-1931 Las demás monedas de plata y fraccionarias retiradas de la circulación, serán canjeadas por monedas de plata o fraccionarias, respectivamente, de los cuños que esta ley conserva, en los plazos y condiciones establecidos en los decretos correspondientes."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO 6°.- (Se deroga)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al artículo DOF 29-07-1931. Derogado DOF 10-03-1932 ARTICULO 7°.- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo derogado DOF 10-03-1932",
+              "action": "derogado",
+              "dof_date": "10-03-1932"
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO 8°.- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo derogado DOF 10-03-1932",
+              "action": "derogado",
+              "dof_date": "10-03-1932"
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO 9°.- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo derogado DOF 10-03-1932",
+              "action": "derogado",
+              "dof_date": "10-03-1932"
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO 10.- (Se deroga)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al artículo DOF 29-07-1931. Derogado DOF 10-03-1932 ARTICULO 11.- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo derogado DOF 10-03-1932",
+              "action": "derogado",
+              "dof_date": "10-03-1932"
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO 12.- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo derogado DOF 10-03-1932",
+              "action": "derogado",
+              "dof_date": "10-03-1932"
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO 13.- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo derogado DOF 10-03-1932",
+              "action": "derogado",
+              "dof_date": "10-03-1932"
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO 14.- Se deroga la Ley de 24 de diciembre de 1930, debiendo aplicarse a la formación de la Reserva Monetaria, el saldo que exista a favor de la Comisión de Cambios como resultado de las operaciones practicadas por dicha Comisión. Se modifican, en cuanto se opongan a la presente ley y en los términos de la misma, las disposiciones relativas de la Ley General de Instituciones de Crédito y Establecimientos Bancarios, y de la Ley de 13 de abril de 1918."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al artículo DOF 29-07-1931 ARTICULO 15.- Queda facultada la Secretaría de Hacienda y Crédito Público, para proveer en la esfera administrativa, a la ejecución de las disposiciones de esta ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Salón de Sesiones del Congreso de la Unión.- México, D. F., a 25 de julio de 1931.- Gonzalo Bautista, D. P.- Antonio Gutiérrez, S. P.- José M. Dávila, D. S.- Miguel Ramos, S. S.- Manuel Mijares V., D. S.- José D. Aguayo, S. S.- Rúbricas.” Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dada en el Palacio del Poder Ejecutivo Federal, en México, a los veinticinco días del mes de julio de mil novecientos treinta y uno.- P. Ortíz Rubio.- Rúbrica.-El Secretario de Estado y del Despacho de Hacienda y Crédito Público, L. Montes de Oca.- Rúbrica.-Al C. Subsecretario de Gobernación, Encargado del Despacho.- Presente.” Lo comunico a usted para su publicación y demás fines."
+            },
+            {
+              "type": "paragraph",
+              "text": "Sufragio Efectivo. No Reelección."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 25 de julio de 1931.- El Subsecretario de Gobernación, Encargado del Despacho, Octavio Mendoza González.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "Al C...."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA A partir de 1990 DECRETO por el que se reforma el inciso b) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de las monedas de cien, doscientos, quinientos, mil, dos mil, cinco mil y diez mil pesos. (Se deroga) Decreto derogado DOF 22-06-1992 Publicado en el Diario Oficial de la Federación el 23 de julio de 1990 ARTICULO PRIMERO.- Se reforma el inciso b) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTICULO PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO SEGUNDO.- Se derogan las disposiciones que señalan o modifican las características de monedas a que se refiere el inciso b) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos, con denominaciones de las indicadas en este Decreto."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO TERCERO.- Las piezas de uno, cinco, diez, veinte y cincuenta pesos, y las de cien, quinientos y mil pesos anteriores a las previstas en este Decreto, así como las conmemorativas a que se refiere el inciso c) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos, que no hayan sido desmonetizadas, continuarán con el poder liberatorio que les señala el artículo 5o. de la citada Ley, hasta que sean retiradas de la circulación por el Banco de México. Este, en los términos de su Ley Orgánica, efectuará el canje de dichas monedas."
+        },
+        {
+          "type": "paragraph",
+          "text": "México, D. F., 12 de julio de 1990.- Sen. Enrique Burgos García, Presidente.- Dip. Humberto Roque Villanueva, Presidente.- Sen. José Joaquín González Castro, Secretario.- Dip. Guadalupe Gómez Maganda de Anaya, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto, en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a los trece días del mes de julio de mil novecientos noventa.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica."
+        },
+        {
+          "type": "paragraph",
+          "text": "DECRETO por el que se crea una nueva unidad del Sistema Monetario de los Estados Unidos Mexicanos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicado en el Diario Oficial de la Federación el 22 de junio de 1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el 1º de enero de 1993, con la excepción del décimo"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ", el cual entrará en vigor el día siguiente al de la publicación del Decreto en el Diario Oficial de la Federación."
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los billetes del Banco de México y las monedas metálicas, representativos de la unidad monetaria que se sustituye en virtud del presente Decreto, podrán emitirse con posterioridad al 1º de enero de 1993. Tales signos, independientemente de las fechas de su colocación en el público, continuarán en la circulación conservando su poder liberatorio, hasta que sean desmonetizados."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En tanto los billetes del Banco de México y las monedas metálicas referidos en el artículo anterior no hayan sido desmonetizados, los billetes y monedas representativos de la nueva unidad deberán contener la expresión \"nuevos pesos\" o el símbolo \"N$\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "A partir de la fecha en que los signos monetarios mencionados en primer término hayan sido desmonetizados, se iniciará la circulación de signos representativos de la nueva unidad en cuya denominación no figure la palabra \"nuevos\" ni su abreviatura \"N\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los signos monetarios metálicos que representen fracciones de la nueva unidad contendrán desde un principio sólo la expresión \"centavos\" o su símbolo \"¢\", sin anteponer la palabra \"nuevos\" o su abreviatura \"N\"."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los precios, salarios y demás prestaciones de carácter laboral, así como las sumas en moneda nacional contenidas en estados financieros u otros documentos contables, o en títulos de crédito y, en general, cualquier otra suma en dicha moneda, deberán expresarse en \"nuevos pesos\", \"centavos\" y, en su caso, en fracciones de estos últimos, hasta que los signos monetarios referidos en el segundo"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "sean desmonetizados."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se exceptúan de lo previsto en el primer párrafo de este artículo las denominaciones en pesos que contengan antiguas monedas mexicanas acuñadas en metales finos así como monedas de curso legal acuñadas en dichos metales, las cuales podrán continuar expresándose en pesos."
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "QUINTO",
+          "descriptor": null,
+          "ordinal": "QUINTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir del 1º de enero de 1993 y en tanto los billetes del Banco de México y las monedas metálicas representativos de la unidad monetaria que se sustituye no hayan sido desmonetizados, las obligaciones de pago en moneda nacional deberán indicar que se denominan en la nueva unidad mediante la expresión \"nuevos pesos\" o el símbolo \"N$\" y, en su caso, la expresión \"centavos\" o el símbolo \"¢\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "A falta de esta indicación, las obligaciones se entenderán contraídas en la nueva unidad monetaria, a menos que cualquiera de las partes demuestre que la intención de éstas fue pactar en la unidad monetaria que se sustituye en virtud del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "SEXTO",
+          "descriptor": null,
+          "ordinal": "SEXTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las instituciones de crédito y el Banco de México deberán abstenerse de pagar los cheques expedidos durante el período a que se refiere el artículo anterior, cuyo importe indicado en palabras no vaya seguido de la expresión \"nuevos pesos\". Dichos cheques serán devueltos a quienes los presenten, previa la inclusión en el propio título de la causa por la que no se paga."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tratándose de pagarés, notas de venta, fichas de compra u otros documentos que, durante el período referido en el artículo anterior, suscriban usuarios de tarjetas de crédito conforme a los contratos de apertura de crédito en cuenta corriente que originen la expedición de esas tarjetas, el acreditante no deberá cubrir su importe a los proveedores respectivos cuando a la suma expresada en cifras no se anteponga el símbolo \"N$\" o, de contener la suma a pagar escrita en palabras, ésta no estuviere seguida de la expresión \"nuevos pesos\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "SEPTIMO.- Las obligaciones dinerarias contraídas con anterioridad a la entrada en vigor del presente Decreto se solventarán, conforme a lo dispuesto por el artículo 3º. Al efecto, se aplicará la equivalencia establecida en el artículo 1º."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "OCTAVO",
+          "descriptor": null,
+          "ordinal": "OCTAVO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En tanto los billetes del Banco de México y las monedas metálicas representativos de la unidad monetaria que se sustituye no hayan sido desmonetizados, el pago en moneda nacional de obligaciones contraídas en ésta o en moneda extranjera, independientemente de la fecha en que tales obligaciones se hayan contraído, se solventarán entregando, indistintamente, dichos billetes y monedas o los nuevos signos monetarios. Al efecto, se aplicará la equivalencia establecida en el artículo 1º."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "NOVENO",
+          "descriptor": null,
+          "ordinal": "NOVENO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las expresiones en moneda nacional contenidas en leyes, reglamentos, circulares u otras disposiciones, que hayan entrado en vigor con anterioridad al 1º de enero de 1993, se entenderán referidas a la unidad monetaria que se sustituye. Al computar, expresar o pagar dichas cantidades en la nueva unidad monetaria, se aplicará la equivalencia establecida en el Artículo 1º."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECIMO.- A partir del día siguiente a la fecha de publicación de este Decreto, las dependencias y entidades de la administración pública federal, en el ámbito de sus respectivas competencias, quedan facultadas para tomar las medidas necesarias y dictar las disposiciones conducentes para preparar y asegurar la adecuada y oportuna operación del nuevo sistema monetario, con la debida salvaguarda de los intereses del público. Particularmente, en materia de precios, dichas dependencias y entidades habrán de proveer lo necesario para que estos se expresen tanto en pesos actuales como en \"nuevos pesos\", por lo menos durante el período comprendido del 3 de noviembre de 1992 al 28 de febrero de 1993."
+            },
+            {
+              "type": "paragraph",
+              "text": "Al tomar las medidas y dictar las disposiciones conducentes, tales dependencias y entidades deberán contar previamente con la opinión del Banco de México."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., 18 de junio de 1992.- Dip. Gustavo Carvajal Moreno, Presidente.- Sen. Manuel Aguilera Gómez, Presidente.- Dip. Jaime Rodríguez Calderón, Secretario.- Sen. Alger León Moreno, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a los veintiún días del mes de junio de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 22 de junio de 1992 ARTICULO PRIMERO.- Se reforma y adiciona el inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes: ………."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO SEGUNDO.- Se reforma el artículo 3º de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes: ………."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULO TERCERO.- Las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, a que se refiere el inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos, serán las siguientes:"
+            },
+            {
+              "type": "paragraph",
+              "text": "MONEDA DE CINCO CENTAVOS VALOR FACIAL: Cinco centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "FORMA: Circular."
+            },
+            {
+              "type": "paragraph",
+              "text": "DIAMETRO: 15.5 mm (quince milímetros y medio)."
+            },
+            {
+              "type": "paragraph",
+              "text": "COMPOSICION: Podrá, conforme a lo previsto en el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, ser cualquiera de las aleaciones siguientes:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) Aleación de acero inoxidable."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará integrada como sigue: entre 16% y 18% (dieciséis y dieciocho por ciento), de cromo; 0.75% (setenta y cinco centésimos de punto porcentual) de níquel, máximo; 0.12% (doce centésimos de punto porcentual) de carbono, máximo; 1% (uno por ciento) de silicio, máximo; 1% (uno por ciento) de manganeso, máximo; 0.03% (tres centésimos de punto porcentual) de azufre máximo; 0.04% (cuatro centésimos de punto porcentual) de fósforo, máximo; y lo restante de hierro."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 1.58 g (un gramo cincuenta y ocho centésimos), y la tolerancia en peso por pieza será de 0.075 g (setenta y cinco miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) Aleación de acero recubierto de níquel."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará compuesta por dos partes: un núcleo cuyo peso corresponderá entre 92% y 96% (noventa y dos y noventa y seis por ciento) y un recubrimiento cuyo peso corresponderá entre 8% y 4% (ocho y cuatro por ciento), del peso total de la pieza. La composición de cada una de estas partes será la siguiente:"
+            },
+            {
+              "type": "paragraph",
+              "text": "B1) Núcleo de acero."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará integrada como sigue: 0.08% (ocho centésimos de punto porcentual) de carbono, máximo; entre 0.25% y 0.40% (veinticinco y cuarenta centésimos de punto porcentual) de manganeso; 0.04% (cuatro centésimos de punto porcentual) de fósforo, máximo; 0.05% (cinco centésimos de punto porcentual) de azufre, máximo; y lo restante de hierro."
+            },
+            {
+              "type": "paragraph",
+              "text": "B2) Recubrimiento de níquel."
+            },
+            {
+              "type": "paragraph",
+              "text": "Estará integrado como sigue: 99.9% (noventa y nueve, nueve décimos por ciento) de níquel, mínimo."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 1.63 g (un gramo sesenta y tres centésimos), y la tolerancia en peso por pieza será de 0.080 g (ochenta miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) Aleación de aluminio-magnesio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará integrada como sigue: entre 2.2% y 2.8% (dos, dos décimos y dos, ocho décimos por ciento) de magnesio; entre 0.15% y 0.35% (quince, y treinta y cinco centésimos de punto porcentual) de cromo; 0.25% (veinticinco centésimos de punto porcentual) de silicio, máximo; 0.40% (cuarenta centésimos de punto porcentual) de hierro, máximo; 0.10% (diez centésimos de puto porcentual) de cobre, máximo; 0.10% (diez centésimos de punto porcentual) de manganeso, máximo; 0.10% (diez centésimos de punto porcentual) de zinc, máximo; 0.15% (quince centésimos de punto porcentual), de otros elementos, máximo; y lo restante de aluminio."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 0.55 g (cincuenta y cinco centésimos de gramo), y la tolerancia en peso por pieza será de 0.030 g (treinta miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "CUÑOS:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Anverso: Al centro el Escudo Nacional en relieve escultórico, con la leyenda \"ESTADOS UNIDOS MEXICANOS\", formando el semicírculo superior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reverso: En la parte central de la moneda, el número cinco \"5\" como motivo principal y valor facial, a su derecha el símbolo de centavos \"c\", en el campo superior al centro el año de acuñación y a la derecha el símbolo de la Casa de Moneda de México \"M\", a la izquierda paralelo a un pentágono inscrito, una estilización de los rayos solares del Anillo de los Quincunces de la Piedra del Sol."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al párrafo DOF 26-06-1992 CANTO: Será liso para las composiciones de los incisos A) y B); y estriado para la composición del inciso C)."
+            },
+            {
+              "type": "paragraph",
+              "text": "MONEDA DE DIEZ CENTAVOS VALOR FACIAL: Diez centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "FORMA: Circular."
+            },
+            {
+              "type": "paragraph",
+              "text": "DIÁMETRO: 14.0 mm (catorce milímetros)."
+            },
+            {
+              "type": "paragraph",
+              "text": "CANTO: Llevará una ranura perimetral."
+            },
+            {
+              "type": "paragraph",
+              "text": "COMPOSICIÓN: Será, conforme a lo previsto en el inciso b) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos, la siguiente:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Aleación de Acero Inoxidable."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará integrada como sigue:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Entre 16% y 18% (dieciséis y dieciocho por ciento), de cromo; 0.75% (setenta y cinco centésimos de punto porcentual) de níquel, máximo; 0.12% (doce centésimos de punto porcentual) de carbono, máximo; 1% (uno por ciento) de silicio, máximo; 1% (uno por ciento) de manganeso, máximo; 0.03% (tres centésimas de punto porcentual) de azufre, máximo; 0.04% (cuatro centésimas de punto porcentual) de fósforo, máximo, y lo restante de hierro."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición, el peso será de 1.755 g (un gramo, setecientos cincuenta y cinco miligramos), y la tolerancia en peso por pieza será de 0.105 g (ciento cinco miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "CUÑOS:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Anverso: Al centro el Escudo Nacional en relieve escultórico, con la leyenda “ESTADOS UNIDOS MEXICANOS” formando el semicírculo superior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reverso: En la parte central de la moneda el número diez “10” como motivo principal y valor facial, a su derecha el símbolo de centavos “¢”, en el campo superior al centro el año de acuñación, en el campo inferior al centro el símbolo de la Casa de Moneda “M”, a la derecha paralelo al marco, una estilización del Anillo del Sacrificio de la Piedra del Sol."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al “Cuño de reverso” DOF 26-06-1992. Características de la “Moneda de diez centavos” reformadas DOF 20-01-2009 MONEDA DE VEINTE CENTAVOS VALOR FACIAL: Veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "FORMA: Circular."
+            },
+            {
+              "type": "paragraph",
+              "text": "DIÁMETRO: 15.3 mm (quince milímetros, tres décimos)."
+            },
+            {
+              "type": "paragraph",
+              "text": "CANTO: Estriado discontinuo."
+            },
+            {
+              "type": "paragraph",
+              "text": "COMPOSICIÓN: Será, conforme a lo previsto en el inciso b) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos, la siguiente:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Aleación de Acero Inoxidable."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará integrada como sigue:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Entre 16% y 18% (dieciséis y dieciocho por ciento), de cromo; 0.75% (setenta y cinco centésimos de punto porcentual) de níquel, máximo; 0.12% (doce centésimos de punto porcentual) de carbono, máximo; 1% (uno por ciento) de silicio, máximo; 1% (uno por ciento) de manganeso, máximo; 0.03% (tres centésimas de punto porcentual) de azufre, máximo; 0.04% (cuatro centésimas de punto porcentual) de fósforo, máximo, y lo restante de hierro."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición, el peso será de 2.258 g (dos gramos, doscientos cincuenta y ocho miligramos), y la tolerancia en peso por pieza será de 0.113 g (ciento trece miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "CUÑOS:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Anverso: Al centro el Escudo Nacional en relieve escultórico, con la leyenda “ESTADOS UNIDOS MEXICANOS” formando el semicírculo superior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reverso: En la parte central de la moneda el número veinte “20” como motivo principal y valor facial, a su derecha el símbolo de centavos “¢”, en el campo superior al centro el año de acuñación, en el campo inferior al centro el símbolo de la Casa de Moneda “M”; a la izquierda paralelo al marco, una estilización del Acatl, decimotercer día de la Piedra del Sol."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al “Cuño de reverso” DOF 26-06-1992. Características de la “Moneda de veinte centavos” reformadas DOF 20-01-2009 MONEDA DE CINCUENTA CENTAVOS VALOR FACIAL: Cincuenta centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "FORMA: Circular."
+            },
+            {
+              "type": "paragraph",
+              "text": "DIÁMETRO: 17.0 mm (diecisiete milímetros)."
+            },
+            {
+              "type": "paragraph",
+              "text": "CANTO: Estriado."
+            },
+            {
+              "type": "paragraph",
+              "text": "COMPOSICIÓN: Será, conforme a lo previsto en el inciso b) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos, la siguiente:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Aleación de Acero Inoxidable."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará integrada como sigue:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Entre 16% y 18% (dieciséis y dieciocho por ciento), de cromo; 0.75% (setenta y cinco centésimos de punto porcentual) de níquel, máximo; 0.12% (doce centésimos de punto porcentual) de carbono, máximo; 1% (uno por ciento) de silicio, máximo; 1% (uno por ciento) de manganeso, máximo; 0.03% (tres centésimas de punto porcentual) de azufre, máximo; 0.04% (cuatro centésimas de punto porcentual) de fósforo, máximo, y lo restante de hierro."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición, el peso será de 3.103 g (tres gramos, ciento tres miligramos), y la tolerancia en peso por pieza será de 0.155 g (ciento cincuenta y cinco miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "CUÑOS:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Anverso: Al centro el Escudo Nacional en relieve escultórico, con la leyenda “ESTADOS UNIDOS MEXICANOS” formando el semicírculo superior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reverso: En la parte central de la moneda el número cincuenta “50” como motivo principal y valor facial, a su derecha el símbolo de centavos “¢”, en el campo superior al centro el año de acuñación, en el campo inferior al centro el símbolo de la Casa de Moneda “M” y paralelo al marco en semicírculo, en la parte inferior una estilización del Anillo de la Aceptación de la Piedra del Sol."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al “Cuño de reverso” DOF 26-06-1992. Características de la “Moneda de cincuenta centavos” reformadas DOF 20-01-2009 MONEDA DE UN PESO VALOR FACIAL: Un peso."
+            },
+            {
+              "type": "paragraph",
+              "text": "FORMA: Circular."
+            },
+            {
+              "type": "paragraph",
+              "text": "DIAMETRO: 21.0 mm (veintiún milímetros)."
+            },
+            {
+              "type": "paragraph",
+              "text": "COMPOSICION: La moneda será bimetálica y estará constituida por dos aleaciones, una para su parte central y otra para su anillo perimétrico, que serán como sigue: 1. Parte central de la moneda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Podrá, conforme a lo previsto en el inciso b) del artículo 2° de la Ley Monetaria de los Unidos Mexicanos, ser cualquiera de las aleaciones siguientes:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) Aleación de bronce-aluminio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en inciso A), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 1.81 g (un gramo, ochenta y un centésimos), y la tolerancia en peso por pieza será de 0.081 g (ochenta y un miligramos), en más o menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) Aleación de acero recubierto de bronce."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso B), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 1.79 g (un gramo, setenta y nueve centésimos), y la tolerancia en peso por pieza será de 0.081 g (ochenta y un miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) Aleación de bronce-aluminio-hierro."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso C), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 1.81 g (un gramo, ochenta y un centésimo), y la tolerancia en peso por pieza será de 0.081 g (ochenta y un miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "D) Aleación de alpaca dorada."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso D), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 1.97 g (un gramo, noventa y siete centésimos), y la tolerancia en peso por pieza será de 0.088 g (ochenta y ocho miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "E) Aleación de acero con recubrimiento cerámico."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso E), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 1.77 g (un gramo, setenta y siete centésimos), y la tolerancia en peso por pieza será de 0.079 g (setenta y nueve miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "F) Aleación de acero inoxidable con recubrimiento cerámico."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará compuesta por dos partes: un núcleo cuyo peso mínimo corresponderá al 94% (noventa y cuatro por ciento), y un recubrimiento cuyo peso máximo corresponderá al 6% (seis por ciento) del peso total de la pieza. La composición de cada una de estas partes será la siguiente:"
+            },
+            {
+              "type": "paragraph",
+              "text": "F1) Núcleo de acero inoxidable."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso A), de la composición de la moneda de cinco centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "F2) Recubrimiento cerámico."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso E2), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 1.74 g (un gramo, setenta y cuatro centésimos), y la tolerancia en peso por pieza será de 0.078 g (setenta y ocho miligramos), en más o en menos. 2. Anillo perimétrico de la moneda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Aleación de acero inoxidable como la que se refiere en el inciso A), de la composición de la moneda de cinco centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 2.14 g (dos gramos, catorce centésimos), y la tolerancia en peso por pieza será de 0.100 g (cien miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "PESO TOTAL: Será la suma de los pesos de la parte central de la moneda y del anillo perimétrico de la misma, que corresponderá, para cada inciso del punto 1. anterior, como a continuación se indica:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) 3.95 g (tres gramos, noventa y cinco centésimos), y la tolerancia en peso por pieza será de 0.181 g (ciento ochenta y un miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) 3.93 g (tres gramos, noventa y tres centésimos), y la tolerancia en peso por pieza será de 0.181 g (ciento ochenta y un miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) 3.95 g (tres gramos, noventa y cinco centésimos), y la tolerancia en peso por pieza será de 0.181 g (ciento ochenta y un miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "D) 4.11 g (cuatro gramos, once centésimos), y la tolerancia en peso por pieza será de 0.188 g (ciento ochenta y ocho miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "E) 3.91 g (tres gramos, noventa y un centésimos), y la tolerancia en peso por pieza será de 0.179 g (ciento setenta y nueve miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "F) 3.88 g (tres gramos, ochenta y ocho centésimos), y la tolerancia en peso por pieza será de 0.178 g (ciento setenta y ocho miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "CUÑOS:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Anverso: El Escudo Nacional con la leyenda \"ESTADOS UNIDOS MEXICANOS\", formando el semicírculo superior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reverso: En la parte central a la izquierda el símbolo \"$\" y a la derecha el valor facial uno \"1\", en el campo superior al centro el año de acuñación, en el campo derecho al centro el símbolo de la Casa de Moneda de México \"M\". Como motivo principal una estilización del anillo del Resplandor Solar de la Piedra del Sol."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al párrafo DOF 26-06-1992 CANTO: Liso."
+            },
+            {
+              "type": "paragraph",
+              "text": "MONEDA DE DOS PESOS VALOR FACIAL: Dos pesos."
+            },
+            {
+              "type": "paragraph",
+              "text": "FORMA: Circular."
+            },
+            {
+              "type": "paragraph",
+              "text": "DIAMETRO: 23.0 mm (veintitrés milímetros)."
+            },
+            {
+              "type": "paragraph",
+              "text": "COMPOSICION: La moneda será bimetálica y estará constituida por dos aleaciones, una para su parte central y otra para su anillo perimétrico, que serán como sigue: 1. Parte central de la moneda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Podrá, conforme a lo previsto en el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, ser cualquiera de las aleaciones siguientes:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) Aleación de bronce-aluminio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso A), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 2.38 g (dos gramos, treinta y ocho centésimos), y la tolerancia en peso por pieza será de 0.109 g (ciento nueve miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) Aleación de acero recubierto de bronce."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso B), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 2.40 g (dos gramos, cuarenta centésimos), y la tolerancia en peso por pieza será de 0.108 g (ciento ocho miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) Aleación de bronce-aluminio-hierro."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso C), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 2.43 g (dos gramos, cuarenta y tres centésimos), y la tolerancia en peso por pieza será de 0.109 g (ciento nueve miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "D) Aleación de alpaca dorada."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso O), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 2.64 g (dos gramos, sesenta y cuatro centésimos), y la tolerancia en peso por pieza será de 0.119 g (ciento diecinueve miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "E) Aleación de acero con recubrimiento cerámico."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso E), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 2.37 g (dos gramos, treinta y siete centésimos), y la tolerancia en peso por pieza será de 0.107 g (ciento siete miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "F) Aleación de acero inoxidable con recubrimiento cerámico."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso F), de la composición de la moneda de un peso."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 2.34 g (dos gramos, treinta y cuatro centésimos), y la tolerancia en peso por pieza será de 0.105 g (ciento cinco miligramos), en más o en menos. 2. Anillo perimétrico de la moneda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Aleación de acero inoxidable, como la que se refiere en el inciso A), de la composición de la moneda de cinco centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 2.81 g (dos gramos, ochenta y un centésimos), y la tolerancia en peso por pieza será de 0.120 g (ciento veinte miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "PESO TOTAL: Será la suma de los pesos de la parte central de la moneda y del anillo perimétrico de la misma, que corresponderá para cada inciso del punto 1. anterior, como a continuación se indica:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) 5.19 g (cinco gramos, diecinueve centésimos), y la tolerancia en peso por pieza será de 0.229 g (doscientos veintinueve miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) 5.21 g (cinco gramos, veintiún centésimos), y la tolerancia en peso por pieza será de 0.228 g (doscientos veintiocho miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) 5.24 g (cinco gramos, veinticuatro centésimos), y la tolerancia en peso por pieza será de 0.229 g (doscientos veintinueve miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "D) 5.45 g (cinco gramos, cuarenta y cinco centésimos), y la tolerancia en peso por pieza será de 0.239 g (doscientos treinta y nueve miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "E) 5.18 g (cinco gramos, dieciocho centésimos), y la tolerancia en peso por pieza será de 0.227 g (doscientos veintisiete miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "F) 5.15 g (cinco gramos, quince centésimos), y la tolerancia en peso por pieza será de 0.225 g (doscientos veinticinco miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "CUÑOS:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Anverso: El Escudo Nacional con la leyenda \"ESTADOS UNIDOS MEXICANOS\", formando el semicírculo superior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reverso: En la parte central a la izquierda aparece \"$\", al lado derecho el valor facial dos \"2\", en el campo superior el año de acuñación, en el campo derecho al centro, el símbolo de la casa de Moneda de México \"M\". Como motivo principal una estilización del Anillo de los Días de la Piedra del Sol."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al párrafo DOF 26-06-1992 CANTO: Liso."
+            },
+            {
+              "type": "paragraph",
+              "text": "MONEDA DE CINCO PESOS VALOR FACIAL: Cinco pesos."
+            },
+            {
+              "type": "paragraph",
+              "text": "FORMA: Circular."
+            },
+            {
+              "type": "paragraph",
+              "text": "DIAMETRO: 25.5 mm (veinticinco milímetros, cinco décimos)."
+            },
+            {
+              "type": "paragraph",
+              "text": "COMPOSICION: La moneda será bimetálica y estará constituida por dos aleaciones, una para su parte central y otra para su anillo perimétrico, que será como sigue: 1. Parte central de la moneda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Podrá, conforme a lo previsto en el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, ser cualquiera de las aleaciones siguientes:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) Aleación de bronce-aluminio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso A), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 3.25 g (tres gramos, veinticinco centésimos), y la tolerancia en peso por pieza será de 0.146 g (ciento cuarenta y seis miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) Aleación de acero recubierto de bronce."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso B), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 3.21 g (tres gramos, veintiún centésimas), y la tolerancia en peso por pieza será de 0.144 g (ciento cuarenta y cuatro miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) Aleación de bronce-aluminio-hierro."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso C), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 3.25 g (tres gramos, veinticinco centésimos), y la tolerancia en peso por pieza será de 0.146 g (ciento cuarenta y seis miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "D) Aleación de alpaca dorada."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso D), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 3.53 g (tres gramos, cincuenta y tres centésimos), y la tolerancia en peso por pieza será de 0.159 g (ciento cincuenta y nueve miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "E) Aleación de acero con recubrimiento cerámico."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso E), de la composición de la moneda de veinte centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 3.17 g (tres gramos, diecisiete centésimos), y la tolerancia en peso por pieza será de 0.143 g (ciento cuarenta y tres miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "F) Aleación de acero inoxidable con recubrimiento cerámico."
+            },
+            {
+              "type": "paragraph",
+              "text": "Como la que se refiere en el inciso F), de la composición de la moneda de un peso."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 3.13 g (tres gramos, trece centésimos), y la tolerancia en peso por pieza será de 0.141 g (ciento cuarenta y un miligramos), en más o en menos. 2. Anillo perimétrico de la moneda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Aleación de acero inoxidable, como la que se refiere en el inciso A), de la composición de la moneda de cinco centavos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 3.82 g (tres gramos, ochenta y dos centésimos), y la tolerancia en peso por pieza será de 0.145 g (ciento cuarenta y cinco miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "PESO TOTAL: Será la suma de los pesos de la parte central de la moneda y del anillo perimétrico de la misma, que corresponderá, para cada inciso del punto 1. anterior, como a continuación se indica:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) 7.07 g (siete gramos, siete centésimos), y la tolerancia en peso por pieza será de 0.291 g (doscientos noventa y un miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) 7.03 g (siete gramos, tres centésimos), y la tolerancia en peso por pieza será de 0.289 g (doscientos ochenta y nueve miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) 7.07 g (siete gramos, siete centésimos), y la tolerancia en peso por pieza será de 0.291 g (doscientos noventa y un miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "D) 7.35 g (siete gramos, treinta y cinco centésimos), y la tolerancia en peso por pieza será de 0.304 g (trescientos cuatro miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "E) 6.99 g (seis gramos, noventa y nueve centésimos), y la tolerancia en peso por pieza será de 0.288 g (doscientos ochenta y ocho miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "F) 6.95 g (seis gramos, noventa y cinco centésimos), y la tolerancia en peso por pieza será de 0.286 g (doscientos ochenta y seis miligramos), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "CUÑOS:"
+            },
+            {
+              "type": "paragraph",
+              "text": "ANVERSO: El Escudo Nacional con la leyenda \"ESTADOS UNIDOS MEXICANOS\", formando el semicírculo superior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reverso: En la parte central a la izquierda aparece el símbolo \"$\" y al centro el número cinco \"5\" como valor facial, en el campo superior izquierdo el año de acuñación, en el campo derecho al centro el símbolo de la Casa de Moneda de México \"M\". Como motivo principal aparece una estilización del Anillo de las Serpientes de la Piedra del Sol."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al párrafo DOF 26-06-1992 CANTO: Liso."
+            },
+            {
+              "type": "paragraph",
+              "text": "MONEDA DE DIEZ PESOS"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "VALOR FACIAL: $ 10.00 (Diez pesos 00/100 M.N.)."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "FORMA: Circular."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "DIÁMETRO: 28.0 mm (veintiocho milímetros)."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "COMPOSICIÓN: La moneda será bimetálica y estará constituida por dos aleaciones, una para su parte central y otra para su anillo perimétrico, que serán como sigue: 1. Parte central de la moneda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Podrá, conforme a lo previsto en el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, ser cualquiera de las aleaciones siguientes:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) Aleación de plata sterling."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ley: 0.925."
+            },
+            {
+              "type": "paragraph",
+              "text": "Metal de liga: Cobre Peso: 5.604 g (cinco gramos, seiscientos cuatro milésimos)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Contenido: 5.184 g (cinco gramos, ciento ochenta y cuatro milésimos), equivalente a 1/6 oz (un sexto de onza) troy de plata pura."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tolerancia en Ley: 0.005 (cinco milésimos) en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tolerancia en Peso por pieza: 0.090 g (noventa milésimos de gramo) en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tolerancia en Peso por conjunto de mil piezas: 1.75 g (un gramo, setenta y cinco centésimos) en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) Aleación de alpaca plateada."
+            },
+            {
+              "type": "paragraph",
+              "text": "Peso: 4.75 g (cuatro gramos, setenta y cinco centésimos)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Contenido: 65% (sesenta y cinco por ciento) de cobre, 10% (diez por ciento) de níquel y 25% (veinticinco por ciento) de zinc."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tolerancia en Contenido: 2% (dos por ciento) por elemento en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tolerancia en Peso por Pieza: 0.190 g (ciento noventa milésimos de gramo) en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) Aleación de acero recubierto de níquel."
+            },
+            {
+              "type": "paragraph",
+              "text": "Contenido: Esta aleación estará compuesta por dos partes: un núcleo cuyo peso corresponderá entre 92% y 96% (noventa y dos por ciento y noventa y seis por ciento) y un recubrimiento cuyo peso corresponderá entre 8% y 4% (ocho por ciento y cuatro por ciento) del peso total de la pieza. La composición de cada una de estas partes será la siguiente: i. Núcleo de acero."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará integrada como sigue: 0.08% (ocho centésimos de punto porcentual) de carbono, máximo; 0.40% (cuarenta centésimos de punto porcentual) de manganeso, máximo; 0.04% (cuatro centésimos de punto porcentual) de fósforo, máximo; 0.05% (cinco centésimos de punto porcentual) de azufre, máximo; y lo restante de hierro. ii. Recubrimiento de níquel."
+            },
+            {
+              "type": "paragraph",
+              "text": "Estará integrado como sigue: 99.9% (noventa y nueve, nueve décimos por ciento) de níquel, mínimo. iii. En esta composición el peso será de 4.39 g (cuatro gramos, treinta y nueve centésimos), y la tolerancia en peso por pieza será de 0.17 g (diecisiete centésimos de gramo), en más o en menos. 2. Anillo perimétrico de la moneda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Podrá, conforme a lo previsto en el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, ser cualquiera de las aleaciones siguientes:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) Aleación de bronce-aluminio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará integrada como sigue: 92% (noventa y dos por ciento) de cobre; 6% (seis por ciento) de aluminio; y 2% (dos por ciento) de níquel; con una tolerancia, en más o en menos, de 1.5% (uno, cinco décimos por ciento), por elemento."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 5.579 g (cinco gramos, quinientos setenta y nueve milésimos), y la tolerancia en peso por pieza será de 0.223 g (doscientos veintitrés milésimos de gramo), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) Aleación de acero recubierto de bronce."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará compuesta por dos partes: un núcleo cuyo peso corresponderá entre 92% y 96% (noventa y dos por ciento y noventa y seis por ciento) y un recubrimiento cuyo peso corresponderá entre 8% y 4% (ocho por ciento y cuatro por ciento) del peso total de la pieza. La composición de cada una de estas partes será la siguiente: i. Núcleo de acero."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará integrada como sigue: 0.08% (ocho centésimos de punto porcentual) de carbono, máximo; 0.40% (cuarenta centésimos de punto porcentual) de manganeso, máximo; 0.04% (cuatro centésimos de punto porcentual) de fósforo, máximo; 0.05% (cinco centésimos de punto porcentual) de azufre, máximo; y lo restante de hierro. ii. Recubrimiento de bronce."
+            },
+            {
+              "type": "paragraph",
+              "text": "Estará integrado como sigue:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Entre 86% y 90% (ochenta y seis por ciento y noventa por ciento) de cobre."
+            },
+            {
+              "type": "paragraph",
+              "text": "Entre 14% y 10% (catorce por ciento y diez por ciento) de estaño."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 5.509 g (cinco gramos, quinientos nueve milésimos), y la tolerancia en peso por pieza será de 0.220 g (doscientos veinte milésimos de gramo), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) Aleación de bronce-aluminio-hierro."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará integrada como sigue: 5% (cinco por ciento) de níquel, máximo; 5% (cinco por ciento) de aluminio, máximo; 1% (uno por ciento) de hierro, máximo; 0.6% (seis décimos de punto porcentual) de manganeso, máximo; y lo restante de cobre."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 5.572 g (cinco gramos, quinientos setenta y dos milésimos), y la tolerancia en peso por pieza será de 0.223 g (doscientos veintitrés milésimos de gramo), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "D) Aleación de alpaca dorada."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta aleación estará integrada como sigue: 70% (setenta por ciento) de cobre; 5.5% (cinco, cinco décimos por ciento) de níquel; y 24.5% (veinticuatro, cinco décimos por ciento) de zinc; con una tolerancia, en más o en menos, de 1.5% (uno, cinco décimos por ciento), por elemento."
+            },
+            {
+              "type": "paragraph",
+              "text": "En esta composición el peso será de 6.060 g (seis gramos, sesenta milésimos), y la tolerancia en peso por pieza será de 0.242 g (doscientos cuarenta y dos milésimos de gramo), en más o en menos. 3. Peso total: Será la suma de los pesos de la parte central y del anillo perimétrico de la misma, que corresponderá:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Para el inciso A) del punto 1 anterior y para cada inciso del punto 2 anterior, como a continuación se indica:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) 11.183 g (once gramos, ciento ochenta y tres milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.313 g (trescientos trece milésimos de gramo) y 6.086 g (seis gramos, ochenta y seis milésimos), ambas en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) 11.113 g (once gramos, ciento trece milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.310 g (trescientos diez milésimos de gramo) y 6.028 g (seis gramos, veintiocho milésimos), ambas en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) 11.176 g (once gramos, ciento setenta y seis milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.313 g (trescientos trece milésimos de gramo) y 6.086 g (seis gramos, ochenta y seis milésimos), ambas en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "D) 11.664 g (once gramos, seiscientos sesenta y cuatro milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.332 g (trescientos treinta y dos milésimos de gramo) y 6.456 g (seis gramos, cuatrocientos cincuenta y seis milésimos), ambas en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para el inciso B) del punto 1 anterior y para cada inciso del punto 2 anterior, como a continuación se indica:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) 10.329 g (diez gramos, trescientos veintinueve milésimos), y la tolerancia en peso por pieza 0.413 g (cuatrocientos trece milésimos de gramo), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) 10.259 g (diez gramos, doscientos cincuenta y nueve milésimos), y la tolerancia en peso por pieza 0.410 g (cuatrocientos diez milésimos de gramo), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) 10.322 g (diez gramos, trescientos veintidós milésimos), y la tolerancia en peso por pieza 0.413 g (cuatrocientos trece milésimos de gramo), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "D) 10.810 g (diez gramos, ochocientos diez milésimos), y la tolerancia en peso por pieza 0.432 g (cuatrocientos treinta y dos milésimos de gramo), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para el inciso C) del punto 1 anterior y para cada inciso del punto 2 anterior, como a continuación se indica:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A) 9.969 g (nueve gramos, novecientos sesenta y nueve milésimos), y la tolerancia en peso por pieza 0.393 g (trescientos noventa y tres milésimos de gramo), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "B) 9.899 g (nueve gramos, ochocientos noventa y nueve milésimos), y la tolerancia en peso por pieza 0.390 g (trescientos noventa milésimos de gramo), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "C) 9.962 g (nueve gramos, novecientos sesenta y dos milésimos), y la tolerancia en peso por pieza 0.393 g (trescientos noventa y tres milésimos de gramo), en más o en menos."
+            },
+            {
+              "type": "paragraph",
+              "text": "D) 10.450 g (diez gramos, cuatrocientos cincuenta milésimos), y la tolerancia en peso por pieza 0.412 g (cuatrocientos doce milésimos de gramo), en más o en menos."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "CUÑOS: Anverso: El Escudo Nacional con la leyenda \"ESTADOS UNIDOS MEXICANOS\", formando el semicírculo superior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reverso: En la parte central está el círculo de la Piedra del Sol que representa a Tonatiuh con la máscara de fuego. En el anillo perimétrico, en la parte superior, al centro el símbolo \"$10\", a la izquierda el año de acuñación y a la derecha el símbolo de la Casa de Moneda de México \"Mo\", en la parte inferior la leyenda \"DIEZ PESOS\". El marco liso con gráfila escalonada."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "CANTO: Estriado."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas a “Composición” y “Cuños” DOF 26-06-1992. Características de la “Moneda de diez pesos” reformadas DOF 19-01-2026"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el 1º de enero de 1993, con excepción del segundo"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ", el cual entrará en vigor el día siguiente al de la publicación del Decreto en el Diario Oficial de la Federación."
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se deroga el Decreto por el que se reforma el inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de las monedas de cien, doscientos, quinientos, mil, dos mil, cinco mil y diez mil pesos, publicado en el Diario Oficial de la Federación el 23 de julio de 1990."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las piezas de uno, cinco, diez, veinte, cincuenta, cien, quinientos y mil pesos anteriores a las previstas en el Decreto referido en el artículo anterior, así como las conmemorativas a que se refiere el inciso c) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos, que no hayan sido desmonetizadas, continuarán con el poder liberatorio que les señala el artículo 5º de la citada Ley, hasta que sean retiradas de la circulación por el Banco de México."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Banco de México, deberá publicar en el Diario Oficial de la Federación un aviso en el que se indique que las piezas referidas en el párrafo anterior ya han sido retiradas de la circulación, sin perjuicio de lo cual, en los términos de su Ley Orgánica, efectuará el canje de dichas monedas durante un plazo de dos años contado a partir de la fecha de publicación del aviso respectivo."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fe de erratas al artículo DOF 26-06-1992"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se desmonetizan las piezas actuales con denominaciones en centavos de peso. Sin perjuicio de lo anterior, el Banco de México, en los términos de su Ley Orgánica, las continuará recibiendo para su canje por piezas en circulación, hasta el 1º de enero de 1995."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "QUINTO",
+          "descriptor": null,
+          "ordinal": "QUINTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En tanto el Banco de México no retire de la circulación las monedas a que se refiere el"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "tercero",
+          "descriptor": null,
+          "ordinal": "tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "transitorio, las monedas de uno, dos, cinco y diez pesos a que se refiere el artículo tercero, deberán contener en el reverso, en lugar del símbolo \"$\" el símbolo \"N$\", y la moneda de diez pesos deberá contener además, en lugar de la expresión \"pesos\" la expresión “nuevos pesos”."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., 18 de junio de 1992.- Dip. Gustavo Carvajal Moreno, Presidente.- Sen. Manuel Aguilera Gómez, Presidente.- Dip. Jaime Rodríguez Calderón, Secretario.- Sen. Alger León Moreno, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a los veintiún días del mes de junio de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "FE de erratas del Decreto que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, publicado el lunes 22 de junio de 1992 Publicada en el Diario Oficial de la Federación el 26 de junio de 1992 DECRETO que reforma el inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de la moneda de veinte pesos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 8 de diciembre de 1992 ARTICULO PRIMERO.- Se reforma el primer párrafo del inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes: ………."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "ARTÍCULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las características de la moneda de veinte pesos, a que se refiere el inciso"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, serán las siguientes:"
+            },
+            {
+              "type": "paragraph",
+              "text": "MONEDA DE VEINTE PESOS"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Valor nominal: $20.00 (Veinte pesos 00/100 M.N.)."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Forma: Dodecagonal."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Diámetro: 30.0 mm (treinta milímetros)."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Canto: Estriado discontinuo."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Composición: La moneda será bimetálica y estará constituida por dos aleaciones, una para su parte central y otra para su anillo perimétrico, que serán como sigue: 1. Parte central de la moneda: Aleación de alpaca plateada, que estará integrada como sigue: 1.1. Contenido: 65% (sesenta y cinco por ciento) de cobre; 10% (diez por ciento) de níquel, y 25% (veinticinco por ciento) de zinc. 1.2. Tolerancia en contenido: 1.5% (uno, cinco décimos por ciento) por elemento, en más o en menos. 1.3. Peso: 5.51 g (cinco gramos, cincuenta y un centigramos). 1.4. Tolerancia en peso por pieza: 0.22 g (veintidós centigramos), en más o en menos. 2. Anillo perimétrico de la moneda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Aleación de bronce-aluminio, que estará integrada como sigue: 2.1. Contenido: 92% (noventa y dos por ciento) de cobre; 6% (seis por ciento) de aluminio, y 2% (dos por ciento) de níquel. 2.2. Tolerancia en contenido: 1.5% (uno, cinco décimos por ciento) por elemento, en más o en menos. 2.3. Peso: 7.16 g (siete gramos, dieciséis centigramos). 2.4. Tolerancia en peso por pieza: 0.29 g (veintinueve centigramos), en más o en menos. 3. Peso total: Será la suma de los pesos de la parte central de la moneda y del anillo perimétrico de esta, referidos en los puntos 1 y 2, conforme a lo siguiente:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Centro de aleación de alpaca plateada y anillo de aleación de bronce-aluminio: 12.67 g (doce gramos, sesenta y siete centigramos) y la tolerancia en peso por pieza será de 0.51 g (cincuenta y un centigramos), en más o en menos."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Cuños:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Anverso: Al centro el Escudo Nacional en relieve escultórico, con la leyenda “ESTADOS UNIDOS MEXICANOS”, formando el semicírculo superior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reverso: El diseño del motivo será el Templo de Kukulkán en Chichén Itzá e incluirá el símbolo “$20”, el valor nominal con texto “VEINTE PESOS”, el año de acuñación, la ceca de la Casa de Moneda de México “Mo” y los elementos de seguridad."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Elementos de Seguridad: En el reverso de la moneda dentro del centro de la misma, el microtexto “CHICHÉN ITZÁ, TEMPLO DE KUKULKÁN – PATRIMONIO CULTURAL” y una imagen latente con el numeral 20."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 19-01-2026",
+              "action": "reformado",
+              "dof_date": "19-01-2026"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el 1° de enero de 1993."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La moneda de veinte pesos a que se refiere el artículo segundo de este Decreto, deberá contener en el reverso el símbolo \"N$\", en lugar del símbolo \"$\", hasta que el Banco de México, en términos de lo dispuesto por el artículo tercero transitorio del Decreto que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, publicado en el Diario Oficial de la Federación el 22 de junio de 1992; retire de la circulación las monedas señaladas en el propio artículo."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 1o. de diciembre de 1992.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Guillermo Pacheco Pulido, Presidente.- Sen. Ramón Serrano Ahumada, Secretario.- Dip. Layda Elena Sansores San Román, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los siete días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforma el inciso b) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de la moneda de cincuenta pesos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 9 de septiembre de 1993 ARTICULO PRIMERO.- Se reforma el inciso b) del Artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La moneda de cincuenta pesos a que se refiere este Decreto, deberá contener en el reverso el símbolo \"N$\", en lugar del símbolo \"$\" hasta que el Banco de México en términos de lo dispuesto por el Artículo Tercero Transitorio del Decreto por el que se crea una nueva unidad del Sistema Monetario de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 22 de junio de 1992, retire de la circulación las monedas metálicas representativas de la unidad monetaria que ha sido sustituida."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 2 de septiembre de 1993.- Sen. Humberto Lugo Gil, Presidente.- Dip. J. Benigno Aladro Fernández, Presidente.- Sen. Ramón Serrano Ahumada, Secretario.- Dip. Rubén Pabello Rojas, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los siete días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "LEY del Banco de México."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicada en el Diario Oficial de la Federación el 23 de diciembre de 1993"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día siguiente de la publicación de la Ley en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "La designación de los primeros integrantes de la Junta de Gobierno será hecha en los términos previstos en la presente Ley, con anterioridad al 31 de marzo de 1994."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El periodo del primer Gobernador del Banco vencerá el 31 de diciembre de 1997. Los periodos de los primeros Subgobernadores vencerán los días 31 de diciembre de 1994, 1996, 1998 y 2000, respectivamente, debiendo el Ejecutivo Federal señalar cuál de los periodos citados corresponderá a cada Subgobernador."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las remuneraciones del Gobernador y de los Subgobernadores a que se refiere el artículo inmediato anterior, correspondientes al primer ejercicio financiero del Banco, serán determinadas de conformidad con lo dispuesto en el artículo 49 de la presente Ley, con anterioridad a que se efectúe la designación de los primeros integrantes de la Junta de Gobierno."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las instrucciones del Tesorero de la Federación al Banco, en términos de la fracción I del artículo 12, no tendrán que efectuarse con la antelación señalada en la propia fracción I de dicho artículo, durante un plazo de tres años contado a partir de la entrada en vigor de la presente Ley. En el transcurso de ese mismo plazo, el Tesorero de la Federación podrá seguir librando los cheques y demás documentos a que se refiere la fracción III del referido artículo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "QUINTO",
+          "descriptor": null,
+          "ordinal": "QUINTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Banco de México, organismo descentralizado del Gobierno Federal, se transforma en la nueva persona de derecho público a que se refiere esta Ley y conserva la titularidad de todos los bienes, derechos y obligaciones integrantes del patrimonio del primero."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "SEXTO",
+          "descriptor": null,
+          "ordinal": "SEXTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Reglamento Interior del Banco de México deberá expedirse en un plazo no mayor de seis meses, contado a partir del día en que quede legalmente instalada la Junta de Gobierno. Hasta en tanto se expida dicho Reglamento continuará en vigor el publicado en el Diario Oficial de la Federación el 4 de julio de 1985, y el recurso previsto en el artículo 64 se presentará ante la Gerencia Jurídica del Banco de México."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cuando en el Reglamento actualmente vigente o en cualquier otro instrumento jurídico se haga referencia al Director General del Banco, se entenderá hecha al Gobernador del Banco en el ámbito de las atribuciones que le confiere la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "SEPTIMO.- Los poderes, mandatos, designaciones de delegados fiduciarios y en general las representaciones otorgadas y las facultades concedidas por el Banco de México con anterioridad a la entrada en vigor de la presente Ley, subsistirán en sus términos en tanto no sean modificados o revocados expresamente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "OCTAVO",
+          "descriptor": null,
+          "ordinal": "OCTAVO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las monedas metálicas actualmente en circulación pasarán a formar parte del pasivo en el balance de la Institución, aplicando el régimen previsto en el artículo 56."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los fondos del Gobierno Federal depositados en el Banco de México derivados de la diferencia entre el valor facial de las monedas entregadas por la Casa de Moneda al propio Banco hasta el día inmediato anterior al que entre en vigor la presente Ley y los costos en que se haya incurrido en su producción, quedarán a favor de este último."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "NOVENO",
+          "descriptor": null,
+          "ordinal": "NOVENO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Banco de México podrá poner en circulación en cualquier tiempo los billetes con fecha de emisión anterior a la entrada en vigor de la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECIMO.- El Banco podrá seguir desempeñando el cargo de fiduciario en los fideicomisos que actualmente maneja, que no estén previstos en el artículo 7o. fracción XI, pudiendo recibir de dichos fideicomisos depósitos bancarios de dinero."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tratándose de fideicomisos públicos de fomento económico, el Banco sólo podrá seguir desempeñando el mencionado cargo durante un plazo máximo de dos años. El Gobierno Federal a través de la Secretaría de Hacienda y Crédito Público en su carácter de fideicomitente único de la Administración Pública Centralizada, convendrá con la institución de crédito que al efecto determine, los actos conducentes a la sustitución de fiduciario en los citados fideicomisos. Los créditos que el Banco de México haya otorgado con anterioridad a la fecha de entrada en vigor de la presente Ley a los fideicomisos mencionados en el párrafo inmediato anterior, podrán mantenerse hasta su vencimiento e incluso renovarse una o más veces por un plazo conjunto no mayor de veinte años."
+            },
+            {
+              "type": "paragraph",
+              "text": "En caso de fideicomisos distintos de los señalados en el segundo párrafo de este artículo, el Banco quedará facultado para renunciar a la encomienda fiduciaria cuando así lo estime conveniente. En estos casos el fiduciario sustituto será designado por las personas que a continuación se señalan, en el orden en que están mencionadas: las facultadas para ello de conformidad con el acto jurídico que rija al fideicomiso; el o los fideicomitentes; el o los fideicomisarios, individualizados, o, a falta de las anteriores, el propio Banco de México. En tanto el Banco continúe siendo fiduciario en estos fideicomisos podrá concederles financiamiento con carácter extraordinario para evitar eventuales incumplimientos de sus obligaciones."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECIMO PRIMERO.- En tanto el Banco de México expide las disposiciones a que se refiere esta Ley, seguirán aplicándose las emitidas con anterioridad a su vigencia, en las materias correspondientes. Las medidas administrativas dictadas con fundamento en disposiciones que por esta Ley se derogan, continuarán en vigor hasta que no sean revocadas o modificadas por las autoridades competentes."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECIMO SEGUNDO.- A los intermediarios financieros que hayan realizado operaciones con anterioridad a la entrada en vigor de la presente Ley, en contravención a las disposiciones que por ésta se derogan, les serán aplicables las disposiciones vigentes al momento en que se hayan realizado tales operaciones."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECIMO TERCERO.- El último ejercicio financiero del Banco de México, organismo descentralizado del Gobierno Federal, comenzará el 1o. de enero de 1994 y terminará el 31 de marzo de 1994. Durante dicho ejercicio la Institución no quedará sujeta a lo dispuesto por el artículo 7o. de la Ley Orgánica del Banco de México."
+            },
+            {
+              "type": "paragraph",
+              "text": "El primer ejercicio financiero del Banco de México que regula esta Ley se iniciará el 1o. de abril de 1994 y terminará el 31 de diciembre de 1994."
+            },
+            {
+              "type": "paragraph",
+              "text": "El remanente de operación del Banco de México correspondiente al ejercicio a que se refiere el párrafo primero de este artículo, deberá entregarse al Gobierno Federal a más tardar en el mes de abril de 1995."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECIMO CUARTO.- El Banco de México enviará al Ejecutivo Federal y al Congreso de la Unión o, en su caso, a su Comisión Permanente, los documentos a que se refiere la fracción I del artículo 51 que correspondan al primer ejercicio de la Institución, dentro del mes inmediato siguiente a aquél en que entre en vigor la presente Ley, así como un informe sobre la evolución del financiamiento interno del Banco de México y del comportamiento de la cuenta de la Tesorería de la Federación que el propio Banco le lleva al Gobierno Federal, durante los meses de enero a marzo de 1994."
+            },
+            {
+              "type": "paragraph",
+              "text": "Respecto del primer ejercicio de la Institución, el Banco no estará obligado a entregar el informe a que se refiere la fracción II del artículo 51."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECIMO QUINTO.- A partir de la entrada en vigor de la presente Ley y hasta en tanto el valor real total del capital más las reservas de la Institución sea superior al veinte por ciento del total de los billetes y monedas en circulación más las obligaciones de la Institución a favor de entidades financieras y del Gobierno Federal, excepto los depósitos a que se refiere la fracción I del artículo 9o., dicho valor total no será incrementado conforme al crecimiento del producto interno bruto en los términos del artículo 53."
+            },
+            {
+              "type": "paragraph",
+              "text": "Durante el lapso referido, el Gobierno Federal y el Banco podrán acordar reducciones al citado valor real total, siempre que ellas no impliquen disminuir dicho valor a una cantidad que represente un porcentaje inferior al mencionado ni tampoco tengan por consecuencia expansión monetaria."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECIMO SEXTO.- Los depósitos a que se refiere el artículo 132 de la Ley General de Títulos y Operaciones de Crédito deberán constituirse en Nacional Financiera, S.N.C. Aquéllos recibidos por el Banco de México con anterioridad al inicio de vigencia de esta Ley serán conservados y entregados por éste de conformidad con las disposiciones aplicables."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECIMO SEPTIMO.- Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos jurídicos hagan mención a la Ley Orgánica del Banco de México, o a este último, la referencia se entenderá hecha a la presente Ley y a la Institución que ésta regula, respectivamente."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984."
+            },
+            {
+              "type": "paragraph",
+              "text": "Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "décimo segundo",
+          "descriptor": null,
+          "ordinal": "décimo segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artículos 1o., 2o., 8o., y 21, fracción IV, del reglamento de dicha Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan los artículos 4o. y 5o. de la Ley Monetaria de los Estados Unidos Mexicanos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 11 de mayo de 2004"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el 1 de enero de 2006."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los signos monetarios fabricados con anterioridad a la fecha de entrada en vigor de este Decreto, podrán ser puestos en circulación por el Banco de México con posterioridad a dicha fecha, conservando su poder liberatorio hasta que sean desmonetizados."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 5 de abril de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Sara I. Castellanos Cortés, Secretario.- Dip. Amalín Yabur Elías, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de mayo de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforma el diverso que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, publicado el 22 de junio de 1992."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 20 de enero de 2009"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "ARTÍCULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se REFORMA el ARTÍCULO TERCERO del “Decreto que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos”, publicado en el Diario Oficial de la Federación el 22 de junio de 1992, para quedar en los términos siguientes: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las monedas a que se refiere el presente Decreto podrán comenzar a acuñarse a los tres meses siguientes de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las monedas de diez, veinte y cincuenta centavos previstas en el Decreto referido en el Artículo Único, cuyas características se modifican, continuarán con el poder liberatorio que les señala el artículo 5o. de la Ley Monetaria de los Estados Unidos Mexicanos, hasta que sean retiradas de la circulación por el Banco de México."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que se indique que las piezas referidas en el artículo anterior ya han sido retiradas de la circulación, fijando el plazo necesario para realizar su canje."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 11 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cesar Horacio Duarte Jaquez, Presidente.- Sen. Renan C. Zoreda Novelo, Secretario.- Dip. Rosa Elia Romero Guzman, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de enero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se modifica el Artículo Tercero del \"Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos\", publicado el 22 de junio de 1992, en el Diario Oficial de la Federación, únicamente por lo que hace a la moneda de diez pesos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 19 de enero de 2026"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo Tercero del “Decreto por el que reforman y adicionan diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos”, publicado el 22 de junio de 1992, en el Diario Oficial de la Federación, únicamente por lo que hace a la moneda de diez pesos, para quedar como sigue: ……."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 10 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforma el Artículo Segundo del \"Decreto que reforma el inciso"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de la moneda de veinte pesos\", publicado en el Diario Oficial de la Federación el 8 de diciembre de 1992."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 19 de enero de 2026"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el Artículo Segundo del “Decreto que reforma el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de la moneda de veinte pesos”, publicado en el Diario Oficial de la Federación el 8 de diciembre de 1992, para quedar como sigue: ……."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La moneda a que se refiere el presente Decreto podrá empezar a acuñarse a los 30 días naturales siguientes a la publicación de este Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las monedas de veinte pesos emitidas de conformidad con el artículo 2°, inciso b), de la Ley Monetaria de los Estados Unidos Mexicanos, cuyas características se modifican con el presente Decreto, así como las que se emitan después de la entrada en vigor del mismo, continuarán con el poder liberatorio que señala el artículo 5° de la Ley en comento, hasta que sean retiradas de la circulación por el Banco de México."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que indique que las piezas referidas en el artículo anterior ya han sido retiradas de circulación, fijando el plazo necesario para realizar su canje."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Corresponderá a la Casa de Moneda de México realizar los ajustes técnicos que se requieran, los que deberán ser acordes con las características esenciales de la moneda descrita en el presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Corresponderá al Banco de México la titularidad de todos los derechos patrimoniales de autor y cualquier otro derecho de propiedad industrial o intelectual derivado del diseño y la acuñación de la moneda a que se refiere el presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 10 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

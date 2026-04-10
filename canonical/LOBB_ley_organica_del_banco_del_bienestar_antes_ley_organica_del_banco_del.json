@@ -1,0 +1,2829 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LOBB_ley_organica_del_banco_del_bienestar_antes_ley_organica_del_banco_del",
+  "abbreviation": "LOBB",
+  "name": "LEY Orgánica del Banco del Bienestar (Antes \"Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros\")",
+  "catalog_number": "259",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/164_190719.pdf",
+    "pdf_filename_origen": "164_190719.pdf",
+    "dof_publication": "DOF01/06/2001",
+    "last_reform": "DOF 19/07/2019",
+    "captured_at": "2026-04-09T10:32:27.682809+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "(Antes “Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros”) Nueva Ley publicada en el Diario Oficial de la Federación el 1 de junio de 2001 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "reform_note",
+      "text": "Denominación de la Ley reformada DOF 19-07-2019",
+      "action": "reformado",
+      "dof_date": "19-07-2019"
+    }
+  ],
+  "structure": [
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "CAPÍTULO I",
+      "descriptor": null,
+      "ordinal": "I",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Denominación, definiciones, objeto y domicilio"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-1",
+          "heading": "Artículo 1",
+          "descriptor": null,
+          "ordinal": "1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La presente Ley rige al Banco del Bienestar, con el carácter de Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, con personalidad jurídica y patrimonio propios."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 19-07-2019",
+              "action": "reformado",
+              "dof_date": "19-07-2019"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-2",
+          "heading": "Artículo 2",
+          "descriptor": null,
+          "ordinal": "2",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para efectos de la presente Ley se entenderá por:"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 23-02-2005",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Ley: A la Ley Orgánica del Banco del Bienestar;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-07-2019",
+              "action": "reformado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Secretaría: A la Secretaría de Hacienda y Crédito Público;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Institución: Al Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-07-2019",
+              "action": "reformado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Sector: Al conformado por las personas físicas y morales que, de acuerdo con los criterios definidos por el Consejo Directivo, tengan acceso limitado a los servicios financieros por su condición socioeconómica o ubicación geográfica, y a las personas morales a que se refieren la Ley de Ahorro y Crédito Popular y la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005, 10-01-2014",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-3",
+          "heading": "Artículo 3",
+          "descriptor": null,
+          "ordinal": "3",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, realizará funciones de banca social, para lo cual tendrá por objeto promover y facilitar el ahorro, el acceso al financiamiento en condiciones equitativas, la inclusión financiera, el uso y fomento de la innovación tecnológica a fin de procurar mejores condiciones a los integrantes del Sector, la perspectiva de género y la inversión entre los integrantes del Sector, ofrecer instrumentos y servicios financieros de primer y segundo piso entre los mismos, canalizar apoyos financieros y técnicos necesarios para fomentar el uso de productos y servicios financieros que atiendan las necesidades del Sector y que promuevan la adopción de modelos de negocio y tecnologías financieras innovadoras que impacten en el sano desarrollo del Sector y, en general, que la actividad de la Institución contribuya al desarrollo económico a nivel nacional y regional, proporcionar asistencia técnica y capacitación a los integrantes del Sector, así como dispersar los recursos destinados a subsidios y programas sujetos a reglas de operación de las dependencias y entidades."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 10-01-2014, 19-07-2019",
+              "action": "reformado",
+              "dof_date": "10-01-2014"
+            },
+            {
+              "type": "paragraph",
+              "text": "El Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, podrá operar bajo cualquier nombre comercial."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 10-01-2014. Reformado DOF 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "paragraph",
+              "text": "La operación y funcionamiento de la Institución se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios para alcanzar en colaboración con el Sector, los objetivos de carácter general señalados en el artículo 4o. de la Ley de Instituciones de Crédito."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-4",
+          "heading": "Artículo 4",
+          "descriptor": null,
+          "ordinal": "4",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El domicilio de la Institución será la Ciudad de México. Podrá establecer, clausurar o reubicar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales en el país o en el extranjero, informando a la Secretaría. Tratándose del establecimiento de sucursales, agencias y oficinas en el extranjero, deberá contar con autorización de la misma."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 23-02-2005, 19-07-2019",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-5",
+          "heading": "Artículo 5",
+          "descriptor": null,
+          "ordinal": "5",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La duración de la Institución será indefinida."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-6",
+          "heading": "Artículo 6",
+          "descriptor": null,
+          "ordinal": "6",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las operaciones, servicios e inversiones de la Institución, se regirán por lo dispuesto en la presente Ley, la Ley de Instituciones de Crédito, la Ley del Banco de México y por las demás disposiciones legales aplicables."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 23-02-2005",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "paragraph",
+              "text": "La Secretaría interpretará a efectos administrativos la presente Ley."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "CAPÍTULO II",
+      "descriptor": null,
+      "ordinal": "II",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Objetivos y operaciones"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-7",
+          "heading": "Artículo 7",
+          "descriptor": null,
+          "ordinal": "7",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Institución, como banca social, con el fin de fomentar el desarrollo del Sector y promover su eficiencia y competitividad, en el ejercicio de su objeto estará facultada para:"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 10-01-2014",
+              "action": "reformado",
+              "dof_date": "10-01-2014"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Promover, gestionar y financiar proyectos que, en cumplimiento con su objeto, atiendan las necesidades del Sector en las distintas zonas del país y que propicien el mejor aprovechamiento de los recursos de cada región;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005, 10-01-2014",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Promover, encauzar y coordinar la inversión de capitales en el Sector;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Promover el desarrollo tecnológico y la adopción de modelos novedosos en términos de la Ley para Regular las Instituciones de Tecnología Financiera, la capacitación, la asistencia técnica, el incremento de la productividad y del bienestar de los integrantes del Sector, pudiendo ejercer las facultades que resulten imprescindibles o necesarias para ello;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005, 10-01-2014, 19-07-2019",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Ser agente financiero del Gobierno Federal en lo relativo a la negociación, contratación y manejo de créditos del exterior, cuyo objetivo sea fomentar el desarrollo del Sector, que se otorguen por instituciones extranjeras privadas, gubernamentales o intergubernamentales, así como por cualquier otro organismo de cooperación financiera internacional."
+            },
+            {
+              "type": "paragraph",
+              "text": "No se incluyen en esta disposición los créditos para fines monetarios;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Gestionar y, en su caso, obtener concesiones, permisos y autorizaciones para la prestación de servicios vinculados con la consecución de su objeto, procurando en todo momento beneficiar al Sector;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 10-01-2014",
+              "action": "reformado",
+              "dof_date": "10-01-2014"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Realizar los estudios económicos, sociales y financieros necesarios para el desarrollo del Sector;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Propiciar acciones conjuntas de financiamiento, modelos novedosos en términos de la Ley para Regular las Instituciones de Tecnología Financiera y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito, con los sectores indígena, social y privado y con los integrantes del Sector;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 01-08-2005, 10-01-2014, 19-07-2019",
+              "action": "reformado",
+              "dof_date": "01-08-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Ser administradora y fiduciaria de fideicomisos, mandatos y comisiones que se constituyan para el adecuado desempeño de su objeto;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Promover, facilitar, gestionar y financiar toda clase de proyectos, operaciones y actividades que atiendan las necesidades de servicios financieros, tecnológicos, de capacitación, de asesoría, de administración de riesgos financieros, de innovación, entre otros, de los integrantes del Sector;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005, 10-01-2014",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Participar en las actividades inherentes a la promoción y conformación del Sector;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005. Reformada DOF 10-01-2014, 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "10-01-2014"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Diseñar y ejecutar programas que promuevan el ahorro, la inversión y la adopción de medios de pago electrónicos dentro de las comunidades indígenas, con apoyo del Sector;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 01-08-2005. Reformada DOF 10-01-2014, 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "10-01-2014"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Distribuir y reportar los recursos de programas sociales de dependencias y entidades de acuerdo con la normatividad aplicable, así como las reglas de operación respectivas;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Diseñar y ejecutar programas que promuevan el ahorro y la inversión de los integrantes del Sector;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Diseñar y ofertar productos de crédito, inversión y ahorro para el Sector, así como prestar los servicios financieros y desarrollar los modelos novedosos previstos en la Ley para Regular las Instituciones de Tecnología Financiera;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Suscribir convenios de coordinación en apego a la normatividad aplicable, para incluir servicios financieros de los programas y productos diseñados por la Institución, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Difundir a través de sus programas de publicidad y propaganda, los productos financieros diseñados por la Institución."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "paragraph",
+              "text": "La Institución deberá contar con la infraestructura necesaria para la adecuada prestación de servicios y realización de operaciones, en las distintas regiones del país y en su caso, en el extranjero."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-8",
+          "heading": "Artículo 8",
+          "descriptor": null,
+          "ordinal": "8",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para el cumplimiento del objeto y la realización de los objetivos a que se refieren los artículos 3 y 7 anteriores, la Institución podrá:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Realizar las operaciones y prestar los servicios a que se refiere el artículo 46 de la Ley de Instituciones de Crédito;"
+            },
+            {
+              "type": "paragraph",
+              "text": "Las operaciones señaladas en el citado artículo 46, fracciones I y II, las realizará en los términos del artículo 47 de dicho ordenamiento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Establecer planes de ahorro y crédito, así como redes digitales, que permitan la inclusión de servicios financieros y el fomento a la captación de recursos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-07-2019",
+              "action": "reformado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Emitir o garantizar valores, así como garantizar obligaciones de terceros, ya sea a través de operaciones particulares o de programas masivos de garantías, sin que sean aplicables las limitantes previstas en el artículo 46 fracción VIII de la Ley de Instituciones de Crédito;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Contratar créditos para la realización de sus funciones de fomento, conforme a las disposiciones legales aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Adquirir tecnología, promover su desarrollo y transferirla conforme a lo dispuesto por las leyes aplicables. Asimismo, prestar servicios financieros, tecnológicos, de capacitación, de asesoría, de administración de riesgos financieros, entre otros, al Sector, así como a aquellos terceros interesados en adquirir dichos servicios, contribuyendo al desarrollo de la Institución y del sector de ahorro y crédito popular, mediante la reducción de costos y/o la generación de ingresos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Emitir certificados de participación con base en fideicomisos constituidos al efecto;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Otorgar financiamiento a fondos y fideicomisos públicos de fomento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Realizar sorteos conforme a las reglas generales de operación que autorice la Secretaría;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Participar en el capital social de administradoras de fondos para el retiro y en el de sociedades de inversión especializadas de fondos para el retiro, así como prestarles servicios a las mismas, a efecto de eficientar su operación y reducir sus costos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Invertir en el capital social de sociedades o personas morales, que le presten servicios a la Institución, al Sector, así como a terceros que se encuentren interesados en adquirir los mismos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Actuar como cámara de compensación y liquidador de las operaciones que realicen las Entidades de Ahorro y Crédito Popular y como representante de dichas Entidades en cualquier otra cámara de compensación, o entidad que lleve a cabo las funciones de compensación y/o liquidación referidas, sujetándose en la realización de ambas operaciones a las disposiciones que, en su caso, emita el Banco de México;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "paragraph",
+              "text": "XI Bis. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 10-01-2014",
+              "action": "adicionado",
+              "dof_date": "10-01-2014"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Participar en el capital social de sociedades de inversión, así como de sociedades operadoras de éstas, y en el de sociedades distribuidoras de acciones, además de prestar el servicio de distribución de acciones a sociedades de inversión propias o de terceros;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005. Reformada DOF 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Fomentar el crédito de consumo, considerando condiciones financieras óptimas que permitan tener alcance y apoyo para el Sector, con el fin de cumplir con la inclusión financiera y bajo las consideraciones que en su caso estime el Consejo Directivo;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción recorrida DOF 23-02-2005. Reformada DOF 19-07-2019",
+              "action": "recorrido",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Actuar como fiduciaria en fideicomisos emisores de certificados bursátiles en los términos de"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Recibir mandatos para administrar recursos de terceros, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Realizar las demás operaciones y servicios de naturaleza análoga o conexa que autorice y regule la Secretaría, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "19-07-2019"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-8",
+          "heading": "Artículo 8",
+          "descriptor": null,
+          "ordinal": "8",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bis.- La Institución podrá ser depositaria de los títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas, o judiciales de la Federación y por o ante las autoridades administrativas de la Ciudad de México, así como de las sumas en efectivo, títulos o valores, que secuestren las autoridades judiciales o administrativas de la Federación y aquellas que secuestren las autoridades administrativas de la Ciudad de México."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-07-2019",
+              "action": "reformado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "paragraph",
+              "text": "Las autoridades mencionadas estarán obligadas a entregar a la institución dichos bienes en su indicado carácter de depositaria."
+            },
+            {
+              "type": "paragraph",
+              "text": "También podrán realizar en la institución, los depósitos para el otorgamiento de la suspensión del acto reclamado en el juicio de amparo y, en general, los depósitos de garantía que deban constituirse conforme a las disposiciones de las leyes federales y, en su caso, la Ciudad de México o por órdenes o contratos de autoridades de la Federación y, en su caso, la Ciudad de México."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-07-2019",
+              "action": "reformado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 24-06-2002",
+              "action": "adicionado",
+              "dof_date": "24-06-2002"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-9",
+          "heading": "Artículo 9",
+          "descriptor": null,
+          "ordinal": "9",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría, como excepción a lo dispuesto por los artículos 48 de la Ley de Instituciones de Crédito y 26 de la Ley del Banco de México, determinará mediante disposiciones de carácter general las características de las operaciones activas, pasivas que no impliquen captación de recursos del público y de servicios, excepto lo relativo a fideicomisos, mandatos y comisiones, que realice la Institución para cumplir el objetivo y ejercer las facultades que se le han encomendado en su carácter de banca de desarrollo en esta Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Corresponde al Banco de México, en los términos de su Ley regular mediante disposiciones de carácter general, las características de las operaciones pasivas que impliquen captación de recursos del público, los fideicomisos, mandatos y comisiones, las operaciones en el mercado de dinero, así como las operaciones financieras conocidas como derivadas que celebre la Institución."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Gobierno Federal responderá en todo tiempo:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "De las operaciones que celebre la Institución con personas físicas o morales nacionales, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "De las operaciones concertadas por la Institución con instituciones del extranjero privadas, gubernamentales o intergubernamentales."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- En adición a lo dispuesto en el penúltimo párrafo del artículo 383 de la Ley General de Títulos y Operaciones de Crédito, y como excepción a lo dispuesto en el inciso a) de la fracción XIX del artículo 106 de la Ley de Instituciones de Crédito, en los contratos de fideicomiso que celebre la Institución, inclusive en aquellos que constituya para cumplir obligaciones laborales a su cargo, ésta podrá actuar en el mismo negocio como fiduciaria y como fideicomisaria y realizar operaciones con la propia Institución en el cumplimiento de fideicomisos."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "CAPÍTULO III",
+      "descriptor": null,
+      "ordinal": "III",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Capital Social"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El capital social de la Institución estará representado por certificados de aportación patrimonial en un 66% de la serie \"A\" y en un 34% de la serie \"B\". El valor nominal de estos títulos se determinará en su Reglamento Orgánico."
+            },
+            {
+              "type": "paragraph",
+              "text": "La serie \"A\" sólo será suscrita por el Gobierno Federal, se emitirá en un título que no llevará cupones, el cual será intransmisible y en ningún momento podrá cambiar su naturaleza o los derechos que le confiere al propio Gobierno Federal."
+            },
+            {
+              "type": "paragraph",
+              "text": "La serie \"B\" podrá ser suscrita por el Gobierno Federal y por personas físicas o morales mexicanas de conformidad con lo dispuesto por el artículo 33 de la Ley de Instituciones de Crédito."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-13",
+          "heading": "Artículo 13",
+          "descriptor": null,
+          "ordinal": "13",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El capital neto a que se refiere el artículo 50 de la Ley de Instituciones de Crédito, será el que fije la Secretaría oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-14",
+          "heading": "Artículo 14",
+          "descriptor": null,
+          "ordinal": "14",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría podrá autorizar la adquisición de certificados de aportación patrimonial de la serie \"B\" conforme a lo establecido en el artículo 33 de la Ley de Instituciones de Crédito, por parte de personas morales mexicanas que tengan una participación extranjera y la inversión extranjera tenga por objeto proveer de tecnología, capacitación o capital de riesgo contribuyendo al cumplimiento del objeto y la realización de los objetivos a que se refieren los artículos 3 y 7 de esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-15",
+          "heading": "Artículo 15",
+          "descriptor": null,
+          "ordinal": "15",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría establecerá la forma, proporciones y demás condiciones aplicables a la suscripción, tenencia y circulación de los certificados de la serie \"B\"."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv",
+      "heading": "CAPÍTULO IV",
+      "descriptor": null,
+      "ordinal": "IV",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Administración"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-16",
+          "heading": "Artículo 16",
+          "descriptor": null,
+          "ordinal": "16",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La administración de la Institución, estará encomendada a un Consejo Directivo y a un Director General, en sus respectivas esferas de competencia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-17",
+          "heading": "Artículo 17",
+          "descriptor": null,
+          "ordinal": "17",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo Directivo estará integrado por nueve consejeros propietarios conforme a lo siguiente:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Cinco consejeros propietarios que representarán a la serie \"A\" de los certificados de aportación patrimonial que serán:"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-07-2019",
+              "action": "reformado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo y el Subsecretario de Hacienda y Crédito Público."
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Un representante designado por el Gobernador del Banco de México dentro de los 3 niveles jerárquicos superiores del instituto central, los titulares de las Secretarías de Economía y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 10-01-2014",
+              "action": "reformado",
+              "dof_date": "10-01-2014"
+            },
+            {
+              "type": "paragraph",
+              "text": "Por cada consejero propietario de esta serie, se deberá nombrar preferentemente a un suplente del nivel jerárquico inferior inmediato siguiente al de los propietarios."
+            },
+            {
+              "type": "paragraph",
+              "text": "En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá carácter de presidente del Consejo Directivo, en ausencia de este último, tendrá el carácter de presidente el suplente del Secretario de Hacienda y Crédito Público y a falta de todos los anteriores, quien designen los consejeros presentes de entre los consejeros de la serie “A”."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 23-02-2005, 10-01-2014",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Dos consejeros propietarios de la serie \"B\" designados en asamblea por las personas físicas o morales mexicanas tenedoras de los certificados de aportación patrimonial de esta serie y por el Ejecutivo Federal, a través de la Secretaría, para el caso de que el Gobierno Federal suscriba certificados de esta serie. Los consejeros de la serie \"B\" no tendrán suplentes, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Dos consejeros independientes designados de común acuerdo por los consejeros propietarios de las series “A” y “B”. Los nombramientos de consejeros independientes deberán recaer en personas de nacionalidad mexicana que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 24-06-2002",
+              "action": "reformado",
+              "dof_date": "24-06-2002"
+            },
+            {
+              "type": "paragraph",
+              "text": "Los consejeros independientes no tendrán suplentes y deberán asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio, y en caso contrario, podrán ser designados otros con las mismas características en su lugar, siempre que las ausencias no se justifiquen en opinión del Consejo Directivo."
+            },
+            {
+              "type": "paragraph",
+              "text": "El cargo de consejero es personal y no podrá desempeñarse por medio de representantes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-18",
+          "heading": "Artículo 18",
+          "descriptor": null,
+          "ordinal": "18",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo Directivo se reunirá por lo menos trimestralmente, sin perjuicio de que lo haga en forma extraordinaria en cualquier tiempo, siempre que sea convocado por su presidente, o por cuando menos tres de los consejeros propietarios."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 10-01-2014",
+              "action": "reformado",
+              "dof_date": "10-01-2014"
+            },
+            {
+              "type": "paragraph",
+              "text": "Las sesiones del Consejo Directivo se celebrarán con la asistencia de por lo menos seis consejeros, siempre y cuando se cuente con la presencia de un consejero independiente y por lo menos tres consejeros de la serie \"A\", incluido el presidente del Consejo Directivo."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las resoluciones del Consejo Directivo se tomarán por mayoría de votos de los consejeros presentes, teniendo el presidente voto de calidad en caso de empate."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Consejo Directivo podrá invitar a sus sesiones, cuando así lo considere conveniente, a representantes de otras instituciones públicas y organizaciones del sector social o privado y en general a cualquier persona, que de conformidad con la opinión del Consejo Directivo desarrolle actividades relevantes para el cumplimiento de los objetivos de la Institución, quienes concurrirán con voz pero sin voto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los consejeros tendrán la obligación de comunicar al presidente del consejo sobre cualquier situación de la que se pueda derivar un conflicto de interés y abstenerse de participar en la deliberación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Institución, mientras tal información no se haya hecho del conocimiento público, así como de las deliberaciones que se adopten en el Consejo Directivo."
+            },
+            {
+              "type": "paragraph",
+              "text": "En el orden del día de las sesiones del Consejo Directivo, se deberán listar los asuntos a tratar, no pudiendo incluirse en dicho orden el rubro de asuntos generales."
+            },
+            {
+              "type": "paragraph",
+              "text": "La documentación e información relacionada con los temas a tratar en las correspondientes sesiones del Consejo Directivo, deberá hacerse llegar a los consejeros por lo menos con 5 días hábiles de anticipación a la celebración de tales sesiones."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-19",
+          "heading": "Artículo 19",
+          "descriptor": null,
+          "ordinal": "19",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- En ningún caso podrán ser consejeros:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Las personas que se encuentren en los supuestos señalados en el penúltimo párrafo del artículo 41 de la Ley de Instituciones de Crédito;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 24-06-2002",
+              "action": "reformado",
+              "dof_date": "24-06-2002"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Las personas que ocupen un puesto de elección popular o de dirigencia partidista, mientras se encuentren en el ejercicio del mismo, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Las personas que tengan parentesco por consanguinidad o afinidad hasta el segundo grado o civil, con alguno de los consejeros."
+            },
+            {
+              "type": "paragraph",
+              "text": "Si alguno de los consejeros propietarios designados llegare a encontrarse comprendido durante el ejercicio de su cargo, en cualquiera de los supuestos anteriores, será sustituido por su suplente, durante el tiempo que dure el impedimento y no se haga designación del consejero propietario."
+            },
+            {
+              "type": "paragraph",
+              "text": "Adicionalmente, no podrán ser consejeros independientes:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Las personas que tengan nexo patrimonial o vínculo laboral con la Institución, conforme a lo establecido en el Reglamento Orgánico;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Las personas que tengan un nexo patrimonial o vínculo laboral con una persona física o moral que sea acreedor, deudor, cliente o proveedor importante de la Institución, conforme a lo establecido en el Reglamento Orgánico;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Las personas que tengan conflicto de intereses con la Institución por ser clientes, proveedores, deudores, acreedores importantes o de cualquier otra naturaleza, conforme a lo establecido en el Reglamento Orgánico, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Las personas que tengan un vínculo laboral o la representación de asociaciones, gremios, federaciones, confederaciones de trabajadores, patrones, o de los Organismos de Integración y Entidades del Sector, o sean miembros de sus órganos directivos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-20",
+          "heading": "Artículo 20",
+          "descriptor": null,
+          "ordinal": "20",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Son causas de remoción de los consejeros de la serie “B” y de los consejeros independientes:"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 24-06-2002",
+              "action": "reformado",
+              "dof_date": "24-06-2002"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La incapacidad mental, así como la incapacidad física que impida el correcto ejercicio de sus funciones durante más de seis meses;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "No cumplir los acuerdos del Consejo Directivo o actuar deliberadamente en exceso o defecto de sus atribuciones;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Utilizar, en beneficio propio o de terceros, la información confidencial de que disponga en razón de su cargo, así como divulgar la mencionada información sin la autorización del Consejo Directivo, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Someter a sabiendas, a la consideración del Consejo Directivo información falsa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Además de las causas de remoción señaladas en este precepto, a los consejeros de la serie “A” y al Director General, se les removerá de su cargo cuando se determine su responsabilidad mediante resolución definitiva dictada por autoridad competente, por ubicarse en alguno de los supuestos contenidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 24-06-2002",
+              "action": "adicionado",
+              "dof_date": "24-06-2002"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-21",
+          "heading": "Artículo 21",
+          "descriptor": null,
+          "ordinal": "21",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo Directivo dirigirá a la Institución en los términos de lo previsto por el artículo 42 y demás relativos de la Ley de Instituciones de Crédito."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Consejo Directivo podrá acordar la realización de las operaciones inherentes al objeto de la Institución. Los acuerdos que en su caso dicte respecto a las operaciones previstas en las fracciones VI y IX del artículo 46 de la Ley de Instituciones de Crédito, deberán considerar la propuesta del Director General."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-22",
+          "heading": "Artículo 22",
+          "descriptor": null,
+          "ordinal": "22",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- También serán facultades del Consejo Directivo, en los términos de la Ley de Instituciones de Crédito, las siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Aprobar en su caso, el informe anual de actividades que le presente el Director General;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Aprobar las reglas generales de operación de los planes de ahorro y demás instrumentos de captación que ofrezca la Institución, y las modificaciones a las mismas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Autorizar la adquisición y uso de tecnología a que se refiere la fracción III del artículo 7 de la presente Ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Aprobar los demás programas específicos y reglamentos internos de la Institución que le presente el Director General;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Nombrar y remover, a propuesta del director general, a los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél y a los demás que señale el reglamento orgánico, así como concederles licencias;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción derogada DOF 24-06-2002. Adicionada DOF 23-02-2005. Reformada DOF 10-01-2014",
+              "action": "derogado",
+              "dof_date": "10-01-2014"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Nombrar y remover al secretario y al prosecretario del Consejo;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Institución, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 24-06-2002, 23-02-2005",
+              "action": "reformado",
+              "dof_date": "24-06-2002"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Aprobar, a propuesta del comité de recursos humanos y desarrollo institucional, de conformidad con lo previsto en el artículo 42, fracción XVIII de la Ley de Instituciones de Crédito, la estructura orgánica, tabuladores de sueldos y prestaciones, política salarial y para el otorgamiento de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el sistema financiero mexicano; políticas de ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; y las demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Institución;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005, 10-01-2014",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Acordar la creación de comités de crédito, el de recursos humanos y desarrollo institucional, de administración integral de riesgos, así como aquellos que considere necesarios para el cumplimiento de su objeto;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Determinar las facultades de los distintos órganos y de los servidores públicos de la Institución, para el otorgamiento de créditos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Aprobar, en su caso, previo dictamen de los comisarios, el balance general anual de la Institución;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Aprobar, en su caso, la constitución de reservas;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Aprobar, en su caso, la aplicación de utilidades, así como la forma y términos en que deberá realizarse;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Aprobar los estados financieros que le presente el Director General, así como autorizar, conforme a las disposiciones aplicables, la publicación de los mismos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Aprobar los presupuestos generales de gasto e inversión, de conformidad con lo dispuesto en el artículo 42, fracción VIII bis de la Ley de Instituciones de Crédito;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Aprobar las propuestas de los límites de endeudamiento neto externo e interno, financiamiento neto, así como los límites de intermediación financiera;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "Aprobar las estimaciones de ingresos anuales, su programa financiero, y sus programas operativos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVIII",
+              "text": "Aprobar los programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la Institución requiera, así como las políticas y bases generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la Institución con terceros, en estas materias, de conformidad con las normas aplicables;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIX",
+              "text": "Proponer a la Secretaría de Hacienda y Crédito Público las modificaciones al Reglamento Orgánico y aprobar la cesión de activos y pasivos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XX",
+              "text": "Aprobar la emisión de certificados de aportación patrimonial, provisionales o definitivos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXI",
+              "text": "Proponer a la Secretaría de Hacienda y Crédito Público, el aumento o reducción del capital social;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXII",
+              "text": "Acordar los aumentos de capital pagado de la Institución, así como fijar las primas, que en su caso deban pagar los suscriptores de certificados de aportación patrimonial;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIII",
+              "text": "Acordar la emisión de obligaciones subordinadas;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIV",
+              "text": "Aprobar las inversiones en el capital de las sociedades a que se refieren los artículos 88 y 89 de la Ley de Instituciones de Crédito, en términos del artículo 8, fracciones IX, X y XII de esta Ley;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXV",
+              "text": "Aprobar los programas anuales de publicidad y propaganda de la Institución, sin que se requiera autorización de la Secretaría de Gobernación;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVI",
+              "text": "Opinar sobre las Condiciones Generales de Trabajo de la Institución, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVII",
+              "text": "Conocer y en su caso, aprobar los informes que le presente el comité de administración integral de riesgos, así como los límites prudenciales de riesgos que al efecto le proponga éste."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "paragraph",
+              "text": "En los supuestos establecidos en las fracciones XII, XVI, XXIII y XXIV se requerirá de la autorización expresa de la Secretaría."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-23",
+          "heading": "Artículo 23",
+          "descriptor": null,
+          "ordinal": "23",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La institución tendrá un comité de recursos humanos y desarrollo institucional, que estará integrado de la siguiente forma:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Tres representantes de la Secretaría de Hacienda y Crédito Público: el Subsecretario de Egresos, el Subsecretario de Hacienda y Crédito Público y el Titular de la Unidad de Banca de Desarrollo;"
+            },
+            {
+              "type": "paragraph",
+              "text": "Una persona designada por el Consejo Directivo, que por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos;"
+            },
+            {
+              "type": "paragraph",
+              "text": "Un miembro del Consejo Directivo que tenga el carácter de independiente;"
+            },
+            {
+              "type": "paragraph",
+              "text": "El Director General de la Institución, y Un representante de la Comisión Nacional Bancaria y de Valores con voz, pero sin voto."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Director General de la Institución se abstendrá de participar en las sesiones del Comité, que tengan por objeto emitir opiniones o recomendaciones con respecto a su sueldo, prestaciones económicas y de seguridad social."
+            },
+            {
+              "type": "paragraph",
+              "text": "Este Comité opinará y propondrá, los tabuladores de sueldos y prestaciones, política salarial y para el otorgamiento de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño; políticas de ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; y las demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la institución."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Secretaría de Hacienda y Crédito Público establecerá criterios en materia de estructura ocupacional, movimientos salariales, percepciones extraordinarias y prestaciones, los cuales deberán ser observados por el Comité. Asimismo, la Sociedad proporcionará a la Secretaría señalada la información que solicite."
+            },
+            {
+              "type": "paragraph",
+              "text": "Este Comité sesionará a petición del Director General de la Institución, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión. Sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público, quien lo presidirá, contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero sin voto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de director general."
+            },
+            {
+              "type": "paragraph",
+              "text": "En caso de ausencia del Subsecretario de Hacienda y Crédito Público, sin perjuicio del derecho de voto de su suplente, presidirá el Comité y ejercerá el voto de calidad el Titular de la Unidad de Banca de Desarrollo."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 24-06-2002, 23-02-2005, 10-01-2014",
+              "action": "reformado",
+              "dof_date": "24-06-2002"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-24",
+          "heading": "Artículo 24",
+          "descriptor": null,
+          "ordinal": "24",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Director General será designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público, debiendo recaer ese nombramiento en persona que reúna los requisitos que establece el artículo 24 de la Ley de Instituciones de Crédito."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-25",
+          "heading": "Artículo 25",
+          "descriptor": null,
+          "ordinal": "25",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Director General tendrá a su cargo la administración y representación legal del Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, sin perjuicio de las atribuciones que correspondan al Consejo Directivo; al efecto tendrá las siguientes facultades y funciones:"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-07-2019",
+              "action": "reformado",
+              "dof_date": "19-07-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Institución. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun de aquellas que requieran autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa y no limitativa, podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales inclusive en el juicio de amparo, comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos y revocarlos, y otorgar facultades de sustitución a los apoderados debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;"
+            },
+            {
+              "type": "paragraph",
+              "text": "I Bis. Informar a la Secretaría, previo a la autorización de las instancias correspondientes, las operaciones que pudiesen estar vinculadas con el objeto de las otras instituciones de banca de desarrollo;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 10-01-2014",
+              "action": "adicionado",
+              "dof_date": "10-01-2014"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Ejecutar las resoluciones del Consejo Directivo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Llevar la firma de la Institución;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Actuar como Delegado Fiduciario General;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Decidir la designación y contratación de los servidores públicos de la Institución, distintos de los señalados en la fracción I del artículo 42 de la Ley de Instituciones de Crédito, así como la designación y remoción de los delegados fiduciarios; administrar al personal en su conjunto, y establecer y organizar las oficinas de la institución;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 10-01-2014",
+              "action": "reformado",
+              "dof_date": "10-01-2014"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Autorizar la publicación de los balances mensuales de la Institución, conforme a las bases acordadas por el Consejo Directivo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Participar en las sesiones del Consejo Directivo con voz, pero sin voto;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Administrar los bienes y negocios celebrando los convenios y ejecutando los actos que requiera la marcha ordinaria de la Institución;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Proponer al Consejo Directivo, la designación de los servidores públicos de la Institución que ocupen cargos con las dos jerarquías inmediatas inferiores a las de su rango y presentarle las solicitudes de licencia, así como las renuncias de los mismos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-02-2005, 10-01-2014",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Proponer al Consejo Directivo la creación de comités regionales consultivos y de crédito, así como los de su seno y proveer lo necesario para su adecuada integración y funcionamiento;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Acordar la creación de comités internos de crédito, técnicos y administrativos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Presentar al Consejo Directivo para su aprobación el balance general anual de la Institución, junto con el informe y dictamen del auditor externo y de los comisarios;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Presentar al Consejo Directivo los estados financieros de la Institución;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Proponer al Consejo Directivo el establecimiento, reubicación y clausura de sucursales, agencias y oficinas en el país y en el extranjero;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Someter al Consejo Directivo los programas operativos y financieros, presupuestos generales de gastos e inversiones y las estimaciones de ingresos anuales de la Institución, así como sus modificaciones;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Presentar al Consejo Directivo las propuestas para modificar el Reglamento Orgánico;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "Proponer al Consejo Directivo la aprobación de cesión de partes del activo o pasivo de la Institución;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVIII",
+              "text": "Presentar al Consejo Directivo las propuestas de programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la Institución requiera, así como las bases, procedimientos, reglas, requisitos, políticas, lineamientos y las normas conforme a las cuales la Institución deba contratar las adquisiciones, enajenaciones de bienes, arrendamientos, realización de obra inmobiliaria y prestaciones de servicios de cualquier naturaleza de conformidad con las normas aplicables;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIX",
+              "text": "Rendir al Consejo Directivo un informe anual de actividades;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XX",
+              "text": "Proponer al Consejo Directivo la emisión de obligaciones subordinadas;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXI",
+              "text": "Presentar al Consejo Directivo para su aprobación, la propuesta de inversión en títulos representativos del capital social de las sociedades a que se refiere el artículo 8, fracciones IX, X y XII de la presente Ley;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXII",
+              "text": "Presentar al Consejo Directivo las propuestas de aplicación de utilidades y la forma y términos en que sugiera se deban realizar;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIII",
+              "text": "Proponer al Consejo Directivo la constitución de reservas y fondos necesarios, así como la forma y términos en que considere se deban realizar;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIV",
+              "text": "Proponer al Consejo Directivo los procedimientos para la destrucción de los Bonos del Ahorro Nacional que se encuentren amortizados, y que en su momento autorizó la Secretaría de Hacienda y Crédito Público;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXV",
+              "text": "Determinar los criterios para dispensar, respecto de los títulos a que se refiere la fracción anterior, el llevar a cabo el procedimiento de cancelación y reposición de títulos de crédito que establece la ley respectiva;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVI",
+              "text": "Someter al Consejo Directivo, los programas anuales de publicidad y propaganda de la Institución;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVII",
+              "text": "Proponer al Consejo Directivo, las normas y bases para la cancelación de adeudos a cargo de terceros y a favor de la Institución, para su posterior informe a la Comisión Nacional Bancaria y de Valores y a la Secretaría;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVIII",
+              "text": "Someter al Consejo Directivo, la estructura orgánica básica y los reglamentos internos de la Institución, así como las modificaciones que procedan a los mismos, y los demás programas específicos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIX",
+              "text": "Previa opinión del Consejo Directivo y conforme a las disposiciones legales aplicables, negociar las Condiciones Generales de Trabajo que rijan las relaciones laborales entre la Institución y sus trabajadores;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXX",
+              "text": "Representar a la Institución ante las agrupaciones, asociaciones y organismos nacionales e internacionales de fomento al Sector, o de cualquier otra índole relacionados con el objeto y objetivos de la Institución;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXI",
+              "text": "Las que le confiera el Reglamento Orgánico, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXII",
+              "text": "Las demás que le delegue el Consejo Directivo o que sea necesario desarrollar para el cumplimiento de lo dispuesto en las fracciones anteriores; o aquellas que le confieran otras leyes, reglamentos, decretos, acuerdos y disposiciones administrativas aplicables."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 23-02-2005",
+              "action": "adicionado",
+              "dof_date": "23-02-2005"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-25",
+          "heading": "Artículo 25",
+          "descriptor": null,
+          "ordinal": "25",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bis.- El Director General, así como los funcionarios de los dos niveles jerárquicos inferiores a éste, podrán expedir certificaciones de los documentos existentes en los archivos de las direcciones a su cargo."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 19-07-2019",
+              "action": "adicionado",
+              "dof_date": "19-07-2019"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-26",
+          "heading": "Artículo 26",
+          "descriptor": null,
+          "ordinal": "26",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los Consejeros, el Director General y los Delegados Fiduciarios de la Institución, sólo estarán obligados a absolver posiciones o rendir testimonio en juicio en representación de la misma, cuando las posiciones y las preguntas se formulen por medio de oficio, el que contestarán por escrito dentro del término que señalen las autoridades respectivas."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-v",
+      "heading": "CAPÍTULO V",
+      "descriptor": null,
+      "ordinal": "V",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Vigilancia"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-27",
+          "heading": "Artículo 27",
+          "descriptor": null,
+          "ordinal": "27",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La vigilancia de la Sociedad se realizará por los órganos y en los términos señalados en la Ley de Instituciones de Crédito y las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 23-02-2005, 10-01-2014",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vi",
+      "heading": "CAPÍTULO VI",
+      "descriptor": "Disposiciones generales",
+      "ordinal": "VI",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-28",
+          "heading": "Artículo 28",
+          "descriptor": null,
+          "ordinal": "28",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Conforme a las reglas generales de operación que autorice la Secretaría, los planes de ahorro; así como los demás instrumentos de captación que determine el Consejo Directivo, participarán en sorteos con derecho a premio durante todo el tiempo de su vigencia y hasta que sean pagados al depositante."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los sorteos serán públicos y se harán ante Notario Público o Corredor Público o interventor de la Secretaría de Gobernación, con la intervención de la Comisión Nacional Bancaria y de Valores, de acuerdo a las bases que al efecto establezca la Institución."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 23-02-2005",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-29",
+          "heading": "Artículo 29",
+          "descriptor": null,
+          "ordinal": "29",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los premios son una ganancia adicional, los cuales podrán pagarse en efectivo o en especie y, en consecuencia, por ningún motivo se considerarán como un pago anticipado del valor de vencimiento de los planes de ahorro o de los demás instrumentos de captación que determine el Consejo Directivo."
+            },
+            {
+              "type": "paragraph",
+              "text": "El plazo para reclamar el pago del premio se fijará en las bases de cada sorteo, transcurrido el cual sin que el premio sea reclamado, el derecho a recibir el premio prescribirá. Dicho plazo se computará a partir de la fecha en que se haga la publicación de los resultados del sorteo respectivo, en un periódico de circulación nacional, o de su colocación en lugares abiertos al público en las sucursales de la propia Institución."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 23-02-2005",
+              "action": "reformado",
+              "dof_date": "23-02-2005"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-30",
+          "heading": "Artículo 30",
+          "descriptor": null,
+          "ordinal": "30",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los depósitos que se entreguen a la Institución, se documentarán en los recibos autorizados que emitan los sistemas de cómputo de la misma, siendo el único comprobante válido de la entrega de dinero por el depositante, así como para el rescate de aquéllos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-31",
+          "heading": "Artículo 31",
+          "descriptor": null,
+          "ordinal": "31",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Cuando se cumplan los requisitos especificados en el contrato respectivo, para la emisión del estado de cuenta autorizado de las cantidades depositadas y retiradas, los asientos que figuren en la contabilidad de la Institución, harán fe, salvo prueba en contrario, en el juicio respectivo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-32",
+          "heading": "Artículo 32",
+          "descriptor": null,
+          "ordinal": "32",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La institución formulará anualmente sus programas financieros, presupuestos generales de gastos e inversiones, así como sus programas operativos, de acuerdo a los lineamientos, medidas y mecanismos que al efecto establezca la Secretaría."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 24-06-2002",
+              "action": "reformado",
+              "dof_date": "24-06-2002"
+            },
+            {
+              "type": "paragraph",
+              "text": "A la Secretaría compete coordinar, evaluar y vigilar la actuación de la institución, así como autorizar las modalidades en la asignación de recursos, en los términos del artículo 31 de la Ley de Instituciones de Crédito."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 24-06-2002",
+              "action": "reformado",
+              "dof_date": "24-06-2002"
+            },
+            {
+              "type": "paragraph",
+              "text": "La Institución, en el marco de la autonomía de gestión requerida para su eficaz funcionamiento, de conformidad con las disposiciones legales aplicables, procurará el mejor aprovechamiento y la canalización más adecuada de sus recursos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-33",
+          "heading": "Artículo 33",
+          "descriptor": null,
+          "ordinal": "33",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las operaciones realizadas por la Institución en la prestación del servicio de banca y crédito en las que se constituyan garantías reales, podrán hacerse constar en documento privado que, sin más formalidad, deberá ser inscrito por los encargados de los registros públicos correspondientes, en los términos del artículo 66 de la Ley de Instituciones de Crédito."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-34",
+          "heading": "Artículo 34",
+          "descriptor": null,
+          "ordinal": "34",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Previa autorización de la Secretaría, la Institución deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento del objeto que esta Ley le encomienda. Las cantidades que se hayan llevado a dichas reservas y fondos no se considerarán remanentes de operación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fijado el monto del remanente y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Institución, el saldo se aplicará en los términos previstos por el Reglamento Orgánico."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-35",
+          "heading": "Artículo 35",
+          "descriptor": null,
+          "ordinal": "35",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Se deroga"
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo derogado DOF 10-01-2014",
+              "action": "derogado",
+              "dof_date": "10-01-2014"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-36",
+          "heading": "Artículo 36",
+          "descriptor": null,
+          "ordinal": "36",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Institución otorgará sus financiamientos únicamente a los Organismos de Integración regulados por la Ley de Ahorro y Crédito Popular que asuman parcial o totalmente el riesgo de recuperación de estos apoyos, en cumplimiento de su objeto conforme a lo señalado en el artículo 7 de esta Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "No obstante lo anterior, la Institución podrá realizar las siguientes operaciones de financiamiento:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La inversión accionaria y las inversiones en el mercado de dinero;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Los financiamientos otorgados por la Institución por un monto total igual al porcentaje que determine el Consejo Directivo con autorización de la Secretaría;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Las operaciones que correspondan a prestaciones de carácter laboral otorgadas de manera general;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Las operaciones realizadas con el gobierno federal, las entidades paraestatales, las entidades federativas y los municipios;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Los financiamientos a proyectos de infraestructura, capacitación, tecnología, o cualquier otro servicio requerido por las Entidades de Ahorro y Crédito Popular o los Organismos de Integración regulados por la Ley de Ahorro y Crédito Popular;"
+            },
+            {
+              "type": "paragraph",
+              "text": "Los financiamientos a que se refiere esta fracción, se podrán otorgar a los intermediarios financieros antes referidos, siempre y cuando se trate de proyectos relacionados a su objeto en forma mayoritaria."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 24-06-2002",
+              "action": "adicionado",
+              "dof_date": "24-06-2002"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Los financiamientos conjuntos a que se refiere la fracción VII del artículo 7 de esta Ley, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Los financiamientos a las Entidades de Ahorro y Crédito Popular destinados a proveerlas de liquidez."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tratándose de los financiamientos que tengan por objeto proveer de liquidez a las Entidades de Ahorro y Crédito deberán quedar garantizados por el fondo de protección a que se refiere la Ley de Ahorro y Crédito Popular y cuya administración estará a cargo de la Institución. El Consejo Directivo determinará en cada caso, las características de las garantías que las Entidades tendrán que otorgar."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-07-2019",
+              "action": "reformado",
+              "dof_date": "19-07-2019"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-37",
+          "heading": "Artículo 37",
+          "descriptor": null,
+          "ordinal": "37",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Institución enviará al Ejecutivo Federal por conducto de la Secretaría y ésta a su vez al Congreso de la Unión junto con los Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública y en los recesos de éste, a la Comisión Permanente, lo siguiente:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "En el informe de enero a marzo de cada año, una exposición sobre los programas de créditos y garantías a seguir por la Institución durante el ejercicio respectivo, indicando las políticas y criterios conforme a los cuales realizará sus operaciones a fin de coadyuvar al cumplimiento del Plan Nacional de Desarrollo, así como un informe sobre el presupuesto de gasto corriente y de inversión de la Institución, correspondiente a dicho ejercicio;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "En el informe de abril a junio de cada año, un informe sobre el cumplimiento del programa anual de la Institución durante el segundo semestre del ejercicio inmediato anterior y en general, sobre el ejercicio del gasto corriente y de inversión, así como de las actividades de la Institución en el conjunto de dicho ejercicio, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "En el informe de julio a septiembre de cada año, un informe sobre el cumplimiento del programa anual de la Institución durante el primer semestre del ejercicio de que se trate."
+            },
+            {
+              "type": "paragraph",
+              "text": "Asimismo, la Institución deberá publicar trimestralmente en dos periódicos de amplia circulación en el país, el estado que guarda el patrimonio, así como los indicadores más representativos de la situación financiera y de la administración de la Institución."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-37",
+          "heading": "Artículo 37",
+          "descriptor": null,
+          "ordinal": "37",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bis.- La Sociedad prestará los servicios de asistencia y defensa legal a los integrantes de su Consejo Directivo, comités establecidos por el mismo o previstos por disposición normativa y a los servidores públicos que laboren o hubieren laborado en la propia institución, con respecto a los actos que dichas personas realicen en el ejercicio de las funciones que tengan encomendadas por ley y de conformidad con los lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público."
+            },
+            {
+              "type": "paragraph",
+              "text": "La mencionada asistencia y defensa legal se proporcionará aun cuando las personas indicadas dejen de desempeñar sus funciones o prestar sus servicios a la Sociedad, siempre que se trate de actos realizados en el desempeño de sus funciones o actividades al servicio de la Sociedad."
+            },
+            {
+              "type": "paragraph",
+              "text": "La asistencia y defensa legal se proporcionará con cargo a los recursos con los que cuente la Sociedad para estos fines. En caso de que la autoridad competente dicte al sujeto de la asistencia legal resolución definitiva que cause ejecutoria en su contra, dicha persona deberá rembolsar a la Sociedad los gastos y cualquier otra erogación que ésta hubiere efectuado con motivo de la asistencia y defensa legal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Lo dispuesto en este artículo se aplicará sin perjuicio de la obligación que tienen los sujetos de asistencia y defensa legal, de rendir los informes que les sean requeridos en términos de las disposiciones legales aplicables como parte del desempeño de sus funciones."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-01-2014",
+              "action": "adicionado",
+              "dof_date": "10-01-2014"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vii",
+      "heading": "CAPÍTULO VII",
+      "descriptor": "Del Régimen Laboral",
+      "ordinal": "VII",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-38",
+          "heading": "Artículo 38",
+          "descriptor": null,
+          "ordinal": "38",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las relaciones laborales entre la Institución y sus trabajadores se regirán por el artículo 123 apartado \"B\" fracción XIII bis de la Constitución Política de los Estados Unidos Mexicanos; por la Ley Reglamentaria de dicho precepto; y por las condiciones generales de trabajo que al efecto se determinen."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "Artículo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, contará con ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley, para ajustar su operación y administración a lo dispuesto en esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley abroga la Ley Orgánica del Patronato del Ahorro Nacional, publicada en el Diario Oficial de la Federación el 26 de diciembre de 1986 y deroga las demás disposiciones legales que se opongan a lo establecido en la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-tercer",
+          "heading": "Artículo Tercero",
+          "descriptor": null,
+          "ordinal": "Artículo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal, en un plazo de 180 días contados a partir de la vigencia de esta Ley, expedirá el decreto mediante el cual se transforme el Patronato del Ahorro Nacional, Organismo Descentralizado del Gobierno Federal, en el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, de acuerdo con las bases siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La Secretaría de Hacienda y Crédito Público señalará la forma y términos en que deberá llevarse a cabo la transformación, cuidando en todo tiempo la adecuada protección de los intereses del público;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La transformación surtirá efectos en la fecha que se indique en el decreto respectivo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Los acreedores del Patronato del Ahorro Nacional no podrán oponerse a la transformación."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "El decreto a que se refiere este artículo, se inscribirá en el Registro Público de Comercio;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Mientras se lleva a cabo la citada transformación, los aspectos operativos y administrativos seguirán rigiéndose por la Ley Orgánica del Patronato del Ahorro Nacional y demás disposiciones vigentes con anterioridad a la entrada en vigor de esta Ley, debiendo el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, proveer lo necesario a efecto de que el Patronato del Ahorro Nacional continúe prestando de manera adecuada y eficiente sus servicios."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Una vez transformado y, hasta en tanto se aprueba el Reglamento Orgánico, se seguirá aplicando su estatuto orgánico;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "La conformación de su capital social;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "El Director General, así como los consejeros y comisarios continuarán en el desempeño de sus funciones mientras no se realicen nuevas designaciones y los designados tomen posesión de sus cargos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Los derechos de los trabajadores en todo momento serán respetados;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Se entienden referidas al Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, las inscripciones y anotaciones marginales de cualquier naturaleza efectuadas en los registros públicos de la propiedad y del comercio, así como en cualquier otro registro del país, relativas al Patronato del Ahorro Nacional, respecto de inmuebles, muebles, marcas, todo tipo de contratos, convenios, comisiones de carácter mercantil y cualesquiera otras."
+            },
+            {
+              "type": "paragraph",
+              "text": "Asimismo, corresponden al Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, las acciones, excepciones, defensas y recursos de cualquier naturaleza deducidos en los juicios o procedimientos administrativos en los que el Patronato del Ahorro Nacional, sea parte con anterioridad a la fecha en que surta efectos su transformación. Los poderes, mandatos y representaciones otorgados y las facultades concedidas por el organismo que se transforma, subsistirán en sus términos en tanto no sean modificados o revocados expresamente."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las autorizaciones, poderes, mandatos y demás actos jurídicos y medidas administrativas, otorgados, dictados o celebrados con fundamento en la Ley que se abroga, continuarán en vigor hasta en tanto no sean revocados o modificados por los órganos o autoridades competentes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Llevada a cabo la transformación, cuando las leyes, reglamentos y disposiciones administrativas hagan referencia a la Ley Orgánica del Patronato del Ahorro Nacional, o al Patronato del Ahorro Nacional, se entenderá que se hace para esta Ley o para el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en lo que no se oponga a la misma o a su naturaleza, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Previo al inicio de operaciones, el Banco del Ahorro Nacional y Servicios Financieros, someterá a la aprobación de la Comisión Nacional Bancaria y de Valores, sus sistemas operativos, de procesamiento de información y de control interno, así como sus manuales de organización y operación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-cuart",
+          "heading": "Artículo Cuarto",
+          "descriptor": null,
+          "ordinal": "Artículo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Reglamento Orgánico de la Institución deberá expedirse en un plazo no mayor de 180 días, contados a partir de la fecha de entrada en vigor de la presente Ley y deberá inscribirse en el Registro Público de Comercio de conformidad con lo establecido en el artículo 30 de la Ley de Instituciones de Crédito, así como sus modificaciones. Hasta en tanto, continuará en vigor el Estatuto Orgánico publicado en el Diario Oficial de la Federación el 18 de octubre de 2000."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-quint",
+          "heading": "Artículo Quinto",
+          "descriptor": null,
+          "ordinal": "Artículo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos de conciliación laboral que se hayan iniciado con anterioridad a la entrada en vigor de esta Ley, se continuarán tramitando hasta su total terminación conforme a lo establecido en las Condiciones Generales de Trabajo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-sext",
+          "heading": "Artículo Sexto",
+          "descriptor": null,
+          "ordinal": "Artículo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las operaciones que actualmente realiza el Patronato del Ahorro Nacional se seguirán rigiendo por las disposiciones y autorizaciones aplicables hasta en tanto se expida y apruebe su Reglamento Orgánico y sus Reglas de Operación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-septim",
+          "heading": "Artículo Séptimo",
+          "descriptor": null,
+          "ordinal": "Artículo Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para los efectos de lo dispuesto por los artículos 17 y 18 de esta Ley, en tanto no se suscriban los certificados de aportación patrimonial de la serie \"B\", el Consejo Directivo estará integrado por cinco consejeros propietarios que representarán a los certificados de aportación patrimonial de la serie \"A\" y por dos consejeros independientes. Los consejeros independientes serán designados en la primer sesión de los cinco consejeros propietarios que representen a los certificados de aportación patrimonial de la serie \"A\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las sesiones del Consejo Directivo se celebrarán con la asistencia de por lo menos cinco consejeros, siempre y cuando se cuente con la presencia de por lo menos tres consejeros de la serie \"A\", incluido el presidente del Consejo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-octav",
+          "heading": "Artículo Octavo",
+          "descriptor": null,
+          "ordinal": "Artículo Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para los efectos del artículo 27 de esta Ley, en tanto no se suscriban los certificados de aportación patrimonial de la serie \"B\", la vigilancia de la Institución estará encomendada exclusivamente al comisario designado por la Secretaría de Contraloría y Desarrollo Administrativo."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 30 de abril de 2001.- Dip. Ricardo García Cervantes, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Manuel Medellín Milán, Secretario.- Sen. Yolanda González Hernández, Secretaria.- Rúbricas\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 24 de junio de 2002 ARTICULO SEXTO.- Se reforman los artículos 17 fracción III; 19 fracción I; 20 párrafo primero, 22 fracción VII; 23 y 32 primero y segundo párrafo; se adicionan los artículos 8 bis; 20 con un último párrafo; 23 con un cuarto, quinto, sexto, octavo y onceavo párrafos y 36, fracción V con un segundo párrafo; y se deroga la fracción V del artículo 22 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros. .........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTICULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO SEGUNDO.- La Secretaría de Hacienda y Crédito Público dará a conocer las reglas para determinar las cuotas a que se refiere el artículo 55 bis de la Ley de Instituciones de Crédito, así como el régimen de inversión de los fideicomisos, que deberán constituir las instituciones de banca de desarrollo dentro de los siguientes noventa días naturales contados a partir de la entrada en vigor del presente Decreto."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO TERCERO.- Las instituciones de banca de desarrollo, se sujetarán a las Condiciones Generales de Trabajo vigentes, hasta en tanto no se emitan las nuevas y éstas entren en vigor."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO CUARTO.- Se derogan todas las disposiciones que se opongan a las leyes que se reforman, adicionan y derogan en el presente Decreto."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO QUINTO.- Los procedimientos que hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, conforme a las leyes que se reforman, adicionan y derogan continuarán rigiéndose por las disposiciones vigentes en la fecha de publicación de este Decreto."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO SEXTO.- El comité de planeación de recursos humanos y desarrollo institucional, deberá integrarse y entrar en funciones en un plazo no mayor de noventa días naturales contados a partir de la fecha en que entre en vigor el presente Decreto."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO SEPTIMO.- El comité de administración integral de riesgos deberá integrarse y entrará en funciones dentro de los 60 días hábiles siguientes a la fecha en que entre en vigor el presente Decreto."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO OCTAVO.- Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas o judiciales de la Federación o por o ante las autoridades administrativas del Distrito Federal, así como las sumas en efectivo, títulos o valores que secuestren las autoridades judiciales o administrativas de la Federación y aquellas que secuestren las autoridades administrativas del Distrito Federal, se constituyan en Nacional Financiera, Sociedad Nacional de Crédito, deberá entenderse que los mismos podrán constituirse en las sociedades nacionales de crédito, instituciones de banca de desarrollo que estén autorizadas por ley para tal efecto."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO NOVENO.- Los Consejos Consultivos Estatales y Nacional a que se refieren los artículos 33 y 34 de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos deberán integrarse y entrar en funciones dentro de los 180 días naturales siguientes a la fecha en que entre en vigor el presente Decreto."
+        },
+        {
+          "type": "paragraph",
+          "text": "México, D.F., a 30 de abril de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Sara Isabel Castellanos Cortés, Secretaria.- Rúbricas\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+        },
+        {
+          "type": "paragraph",
+          "text": "FE de erratas al Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal, publicado el 24 de junio de 2002."
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicada en el Diario Oficial de la Federación el 8 de julio de 2002 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular, así como de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros."
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicado en el Diario Oficial de la Federación el 23 de febrero de 2005"
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "ARTÍCULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se Reforman los artículos 2 fracción IV, 4, 6 párrafo primero; 7 fracciones I, III, VIII y IX; 8 fracciones V y VIII; 17 párrafo tercero del inciso b) de la fracción I; 22; 23 párrafo cuarto; 25; 27 párrafo primero; 28 párrafo segundo y 29 párrafos primero y segundo; se Adicionan los artículos 7 fracción X; 8 fracciones IX, X, XI y XII, recorriéndose la actual fracción IX para quedar como XIII, todos de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, para quedar como sigue: .........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "ARTÍCULO PRIMERO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "ARTÍCULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-tercer",
+          "heading": "ARTÍCULO TERCERO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las Federaciones a que se refiere la Ley de Ahorro y Crédito Popular podrán afiliar y prestar servicios de asesoría técnica, legal, financiera y de capacitación a sociedades o asociaciones que, sin haber obtenido autorización para constituirse y organizarse como Entidades, puedan captar recursos de sus socios o clientes para su colocación entre éstos en los términos de esa Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las sociedades o asociaciones que se afilien a una Federación en términos de lo dispuesto por este artículo, no podrán participar en las sesiones de los órganos sociales de la Federación cuando se traten asuntos que estén relacionados, directa o indirectamente, con la organización, integración, funcionamiento y desempeño del Comité de Supervisión correspondiente, o con cualquier otro aspecto relacionado con la supervisión auxiliar que ejerza la Federación. No podrán formar parte del Comité de Supervisión de la Federación, personas que tengan vínculos laborales o económicos con las sociedades o asociaciones que la propia Federación tenga afiliadas en términos de este artículo."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las restricciones previstas en el párrafo anterior, deberán hacerse constar expresamente en los estatutos sociales o bases constitutivas de las Federaciones, así como en su reglamento interior."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 14 de diciembre de 2004.- Sen. Diego Fernández de Cevallos Ramos, Presidente.Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Antonio Morales de la Peña, Secretario.- Rúbricas\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de febrero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversos artículos de las Leyes Orgánicas de la Banca de Desarrollo."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 1º de agosto de 2005"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-quint",
+          "heading": "Artículo Quinto",
+          "descriptor": null,
+          "ordinal": "Artículo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se Reforma la fracción VII y se Adiciona una fracción XI, del artículo 7 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, para quedar como sigue: ........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 26 de abril de 2005.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I."
+            },
+            {
+              "type": "paragraph",
+              "text": "Castellanos Cortés, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de mayo de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 10 de enero de 2014"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-decimo-septim",
+          "heading": "ARTÍCULO DÉCIMO SÉPTIMO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO DÉCIMO SÉPTIMO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se REFORMAN los artículos 2, fracción IV; 3, primer párrafo; 7, primer párrafo, fracciones I, III, V, VII, IX, X y XI; 17, fracción I, inciso b) párrafos primero y tercero; 18, primer párrafo; 22, fracciones V y VIII; 23; 25, fracciones V y IX, y 27; se ADICIONAN los artículos 3, con un párrafo segundo, pasando el actual segundo párrafo a ser el párrafo tercero; 8, con una fracción XI Bis; 25, con una fracción I Bis, y 37 Bis; y se DEROGA el artículo 35 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, para quedar como sigue: ……… Disposiciones Transitorias"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-vigesimo-primer",
+          "heading": "ARTÍCULO VIGÉSIMO PRIMERO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO VIGÉSIMO PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En relación con las modificaciones a que se refieren los Artículos Undécimo, Duodécimo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ", Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "El Congreso de la Unión, al emitir las leyes reglamentarias a que se refiere el párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "segundo",
+          "descriptor": null,
+          "ordinal": "segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "A partir de la entrada en vigor de este Decreto, los trabajadores de confianza de las instituciones de banca de desarrollo quedarán excluidos de la aplicación de las condiciones generales de trabajo de la respectiva institución. Sin perjuicio de lo anterior, los derechos adquiridos de los trabajadores de confianza que se encuentren laborando en una institución de banca de desarrollo a la fecha de entrada en vigor de este Decreto, deberán ser respetados, previéndose lo conducente en los manuales de remuneraciones y jubilaciones a que se refiere el artículo 43 Bis de la Ley de Instituciones de Crédito, reformado en los términos del presente Decreto."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "En un plazo de sesenta días naturales siguientes a la entrada en vigor de este Decreto, las sociedades nacionales de crédito deberán extinguir el fideicomiso constituido en términos del artículo 55 Bis de la Ley de Instituciones de Crédito."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Las funciones de banca social previstas en la reforma al artículo 3 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, se deberán implementar por la institución a partir del 1o de enero de 2014, por lo que en el PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2014 deberá preverse la asignación de recursos para fortalecer el patrimonio del Banco del Ahorro Nacional y Servicios Financieros a fin de que pueda cumplir su objeto como Banca Social."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "En un plazo de noventa días naturales, la Secretaría de Hacienda y Crédito Público realizará una evaluación de los subsidios, apoyos, programas, fondos, fideicomisos otorgados y administrados por las entidades de la Administración Pública Federal, con la finalidad diagnosticar la factibilidad de que sean canalizados a través de un nuevo sistema único de financiamiento y fomento agropecuario y rural."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones jurídicas emitidas con anterioridad al presente Decreto, así como todos los contratos, convenios y demás actos jurídicos celebrados por la institución, hagan referencia a la Financiera Rural, se entenderá que hacen referencia a la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero. ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 19 de julio de 2019"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman la denominación de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, para quedar como \"Ley Orgánica del Banco del Bienestar\", así como los artículos 1; 2, fracciones I y III; 3, párrafos primero y segundo; 4; 7, fracciones III, VII, X y XI; 8, fracciones II, XII y XIII; 8 Bis, primer y tercer párrafos; 17, fracción I; 25, primer párrafo; 36, último párrafo, y se adicionan las fracciones XII, XIII, XIV, XV y XVI al artículo 7; las fracciones XIV, XV y XVI al artículo 8, y un artículo 25 Bis, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, modificará el Reglamento Orgánico del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en un plazo no mayor a sesenta días hábiles, a fin de armonizar la presente reforma."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría de Hacienda y Crédito Público proveerá los recursos necesarios para la modernización del Banco del Bienestar con motivo de la entrada en vigor del presente Decreto, sujeto a la Ley de Ingresos de la Federación, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como a la disponibilidad, ampliaciones y adecuaciones presupuestarias previstas en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones jurídicas emitidas con anterioridad al presente Decreto, así como todos los contratos, convenios y demás actos jurídicos celebrados por la Institución, hagan referencia al Banco del Ahorro Nacional y Servicios Financieros, se entenderá la remisión al Banco del Bienestar."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 28 de junio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Mónica Bautista Rodríguez, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de julio de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

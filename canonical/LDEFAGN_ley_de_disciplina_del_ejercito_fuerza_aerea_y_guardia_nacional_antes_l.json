@@ -1,0 +1,1979 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l",
+  "abbreviation": "LDEFAGN",
+  "name": "LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional (Antes \"Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos\")",
+  "catalog_number": "043",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf",
+    "pdf_filename_origen": "LDEFAGN.pdf",
+    "dof_publication": "DOF15/03/1926",
+    "last_reform": "DOF 16/07/2025",
+    "captured_at": "2026-04-09T09:44:49.048333+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "(Antes “Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos”) Nueva Ley publicada en el Diario Oficial de la Federación el 15 de marzo de 1926 TEXTO VIGENTE Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación."
+    },
+    {
+      "type": "paragraph",
+      "text": "El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme la siguiente Ley: “PLUTARCO ELIAS CALLES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que en uso de la autorización concedida al Ejecutivo de la Unión por Decreto de 7 de enero de 1926 he tenido a bien expedir la siguiente"
+    },
+    {
+      "type": "reform_note",
+      "text": "Denominación de la Ley reformada DOF 11-12-1995, 16-07-2025",
+      "action": "reformado",
+      "dof_date": "11-12-1995"
+    }
+  ],
+  "structure": [
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "CAPÍTULO I",
+      "descriptor": "Disposiciones Generales",
+      "ordinal": "I",
+      "content": [
+        {
+          "type": "reform_note",
+          "text": "Denominación del Capítulo reformada DOF 10-12-2004",
+          "action": "reformado",
+          "dof_date": "10-12-2004"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-1",
+          "heading": "Artículo 1o",
+          "descriptor": null,
+          "ordinal": "1o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La presente Ley tiene por objeto preservar la disciplina militar como principio de orden y obediencia que regula la conducta de los individuos que integran el Ejército, Fuerza Aérea y Guardia Nacional. Sus disposiciones son de observancia obligatoria para todos los militares que integran el Ejército, Fuerza Aérea y Guardia Nacional."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para el caso de la Guardia Nacional, además de lo dispuesto en esta Ley, le aplicará lo dispuesto en la Ley de la Guardia Nacional y su reglamento."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995; 10-12-2004, 16-07-2025",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-1",
+          "heading": "Artículo 1o",
+          "descriptor": null,
+          "ordinal": "1o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bis.- El servicio de las armas exige que el militar lleve el cumplimiento del deber hasta el sacrificio y que anteponga al interés personal, el respeto a la Constitución Política de los Estados Unidos Mexicanos, la soberanía de la Nación, la lealtad a las instituciones y el honor del Ejército, Fuerza Aérea y Guardia Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004. Reformado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-2",
+          "heading": "Artículo 2o",
+          "descriptor": null,
+          "ordinal": "2o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar debe observar buen comportamiento, para que el pueblo deposite su confianza en el Ejército, Fuerza Aérea y Guardia Nacional y los considere como la salvaguarda de sus derechos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995, 16-07-2025",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-3",
+          "heading": "Artículo 3o",
+          "descriptor": null,
+          "ordinal": "3o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La disciplina en el Ejército, Fuerza Aérea y Guardia Nacional, es la norma a la que los militares deben ajustar su conducta; tiene como bases la obediencia, y un alto concepto del honor, de la justicia y de la moral, y por objeto, el fiel y exacto cumplimiento de los deberes que prescriben las leyes y reglamentos militares."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995, 16-07-2025",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-3",
+          "heading": "Artículo 3o",
+          "descriptor": null,
+          "ordinal": "3o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bis.- La disciplina es la base fundamental del Ejército, Fuerza Aérea y Guardia Nacional, los cuales existen primordialmente para defender los intereses de la Patria y preservar su vida institucional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004. Reformado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-4",
+          "heading": "Artículo 4o",
+          "descriptor": null,
+          "ordinal": "4o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La disciplina exige respeto y consideraciones mutuas entre el superior y el subalterno, la infracción de esta norma de conducta se castigará de conformidad con las leyes y reglamentos militares."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "CAPÍTULO II",
+      "descriptor": null,
+      "ordinal": "II",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principios Generales de Disciplina Militar"
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación del Capítulo reformada DOF 10-12-2004 (reubicación)",
+          "action": "reformado",
+          "dof_date": "10-12-2004"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-5",
+          "heading": "Artículo 5o",
+          "descriptor": null,
+          "ordinal": "5o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar debe proceder de un modo legal, justo y enérgico en el cumplimiento de sus obligaciones, a fin de obtener la estimación y obediencia de sus subalternos. Es deber del superior educar y dirigir a los individuos que la Nación pone bajo su mando."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-6",
+          "heading": "Artículo 6o",
+          "descriptor": null,
+          "ordinal": "6o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- En caso de extrema necesidad en actos del servicio, el superior podrá servirse de sus armas o de la fuerza a su mando para obtener obediencia a sus órdenes o mantener la disciplina."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-12-2004",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-7",
+          "heading": "Artículo 7o",
+          "descriptor": null,
+          "ordinal": "7o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El superior será responsable del orden en las tropas que tuviere a su mando, así como del cumplimiento de las obligaciones del servicio, sin que pueda disculparse en ningún caso con la omisión y descuido de sus subalternos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-8",
+          "heading": "Artículo 8o",
+          "descriptor": null,
+          "ordinal": "8o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Todo militar que mande tropas, inspirará en ellas la satisfacción de cumplir con las leyes, reglamentos y órdenes emanadas de la superioridad; no propalará ni permitirá que se propalen murmuraciones, quejas o descontentos que impidan el cumplimiento de las obligaciones o que depriman el ánimo de sus subalternos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-9",
+          "heading": "Artículo 9o",
+          "descriptor": null,
+          "ordinal": "9o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar que manifieste al superior el mal estado en que se encuentran sus tropas, deberán hacerlo con discreción, exponiendo sin exagerar, las circunstancias en que se hallan, a fin de que se provea lo necesario."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para que el militar obtenga la confianza y estimación de sus superiores y en su caso las recompensas, deberá demostrar aptitud, buena conducta, amor a la carrera, celo en el cumplimiento de su deber y respeto para su persona y para la de los demás."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar se abstendrá de murmurar con motivo de las disposiciones superiores o de las obligaciones que le impone el servicio."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-12-2004",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar no deberá elevar quejas infundadas, hacer públicas falsas imputaciones o cometer indiscreciones respecto de los actos del servicio."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995; 10-12-2004",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-13",
+          "heading": "Artículo 13",
+          "descriptor": null,
+          "ordinal": "13",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar aceptará dignamente y con satisfacción las obligaciones que le imponga su servicio, sin oponer dificultades, pero cuando menoscabe su jerarquía militar, tendrá derecho de representar ante la superioridad."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-12-2004",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-14",
+          "heading": "Artículo 14",
+          "descriptor": null,
+          "ordinal": "14",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Queda estrictamente prohibido al militar dar órdenes cuya ejecución constituya un delito; el militar que las expida y el subalterno que las cumpla, serán responsables conforme al Código de Justicia Militar."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-15",
+          "heading": "Artículo 15",
+          "descriptor": null,
+          "ordinal": "15",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Debe entenderse por actos del servicio, los prescritos por las leyes, reglamentos y disposiciones de observancia general que dicte la Superioridad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-16",
+          "heading": "Artículo 16",
+          "descriptor": null,
+          "ordinal": "16",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- En actos del servicio, el militar no podrá hacerse representar por apoderado. Tampoco deberá elevar peticiones en grupo, ni solicitud tendiente a contrariar o retardar órdenes del servicio."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-12-2004",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-17",
+          "heading": "Artículo 17",
+          "descriptor": null,
+          "ordinal": "17",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Queda estrictamente prohibido al militar en servicio activo, inmiscuirse en asuntos políticos, directa o indirectamente, salvo aquel que disfrute de licencia que así se lo permita en términos de lo dispuesto por las leyes; así como pertenecer al estado eclesiástico o desempeñarse como ministro de cualquier culto religioso, sin que por ello pierda los derechos que le otorga la Constitución Política de los Estados Unidos Mexicanos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-18",
+          "heading": "Artículo 18",
+          "descriptor": null,
+          "ordinal": "18",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar está obligado a saludar a sus superiores y a los de su misma jerarquía, conforme se prescriben los reglamentos, así como a corresponder el saludo de sus subalternos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-19",
+          "heading": "Artículo 19",
+          "descriptor": null,
+          "ordinal": "19",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- En un acto oficial, donde estuviere un militar y se presentare otro de mayor jerarquía, le cederá el asiento o lugar preeminente. Esta formalidad no tendrá lugar, en los Tribunales Militares."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-20",
+          "heading": "Artículo 20",
+          "descriptor": null,
+          "ordinal": "20",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El comandante de las tropas que arribe a una ciudad o lugar en que no hubiere autoridad militar superior, hará una visita de cortesía a las autoridades civiles."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-21",
+          "heading": "Artículo 21",
+          "descriptor": null,
+          "ordinal": "21",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar debe comportarse con el más alto grado de cortesía y educación, guardando la compostura que corresponde a su dignidad y la marcialidad que debe ostentar como miembro del Ejército, Fuerza Aérea y Guardia Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-12-2004, 16-07-2025",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-22",
+          "heading": "Artículo 22",
+          "descriptor": null,
+          "ordinal": "22",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar prestará, siempre que le sea posible, su ayuda moral y material a sus subalternos y compañeros que la necesiten, pues no debe olvidar nunca que la solidaridad y ayuda mutua facilitan la vida en común y el cumplimiento de los deberes militares, constituyendo el espíritu de cuerpo, sentimiento de las colectividades que todos los militares tienen el deber de fomentar."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995; 10-12-2004",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-23",
+          "heading": "Artículo 23",
+          "descriptor": null,
+          "ordinal": "23",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar que porte uniforme se abstendrá de entrar a centros de vicio y de prostitución, salvo que estén realizando actos del servicio."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-12-2004",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-24",
+          "heading": "Artículo 24",
+          "descriptor": null,
+          "ordinal": "24",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los militares rehusarán todo compromiso que implique deshonor o falta de disciplina, y no darán su palabra de honor si no pueden cumplir lo que ofrecen."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-24",
+          "heading": "Artículo 24",
+          "descriptor": null,
+          "ordinal": "24",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bis.- El militar, atendiendo a su honor y principios, debe obrar con equidad y justicia, ser ejemplo de puntualidad y preocuparse por cumplir con lo ordenado, anteponiendo su iniciativa e inteligencia."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004",
+              "action": "adicionado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "CAPÍTULO III",
+      "descriptor": null,
+      "ordinal": "III",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Correctivos Disciplinarios"
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación del Capítulo reformada DOF 10-12-2004 (reubicación)",
+          "action": "reformado",
+          "dof_date": "10-12-2004"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-24",
+          "heading": "Artículo 24",
+          "descriptor": null,
+          "ordinal": "24",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ter.- El correctivo disciplinario es la medida coercitiva que se impone a todo militar del Ejército, Fuerza Aérea y Guardia Nacional, por haber infringido las leyes, reglamentos militares, siempre y cuando no constituyan un delito."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004. Reformado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-24",
+          "heading": "Artículo 24",
+          "descriptor": null,
+          "ordinal": "24",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quáter.- Los correctivos disciplinarios se clasifican en:"
+            },
+            {
+              "type": "paragraph",
+              "text": "I.- Amonestación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Arresto;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Cambio de unidad, dependencia, instalación o comisión en observación de su conducta, determinado por el Consejo de Honor, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Suspensión hasta por treinta días naturales, dictaminada por el Consejo de Honor o por el Consejo Superior de Disciplina."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004",
+              "action": "adicionado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-24",
+          "heading": "Artículo 24",
+          "descriptor": null,
+          "ordinal": "24",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quinquies.- La amonestación es el acto por el cual el superior advierte al subalterno, de palabra o por escrito, la omisión o defecto en el cumplimiento de sus deberes; invitándolo a corregirse."
+            },
+            {
+              "type": "paragraph",
+              "text": "En ambos casos, quien amoneste lo hará de manera que ningún individuo de menor categoría a la del aludido se aperciba de ella, procurando observar en estos casos la discreción que les exige la disciplina."
+            },
+            {
+              "type": "paragraph",
+              "text": "Queda prohibida la reprensión que, por ser afrentosa y degradante, es contraria a la dignidad militar."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004",
+              "action": "adicionado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-25",
+          "heading": "Artículo 25",
+          "descriptor": null,
+          "ordinal": "25",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El arresto es el correctivo disciplinario que se impone a un militar y que debe cumplir en el interior de las unidades, dependencias o instalaciones militares, puede ser impuesto con o sin perjuicio del servicio."
+            },
+            {
+              "type": "paragraph",
+              "text": "En el primer caso, sólo podrán desempeñarse aquellos servicios que no requieran salir del alojamiento, por estar el militar a disposición de su Comandante o Jefe de la Unidad, dependencia o instalación."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-12-2004, 16-07-2025",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-26",
+          "heading": "Artículo 26",
+          "descriptor": null,
+          "ordinal": "26",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Si el que impone el correctivo no tiene bajo su mando directo la tropa a que pertenece el que comete la falta, ordenará el arresto y dará cuenta a la autoridad militar correspondiente, siendo ésta quien fijará la duración del castigo, teniendo en consideración la jerarquía de quien lo impuso, la falta cometida y los antecedentes del subalterno."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-27",
+          "heading": "Artículo 27",
+          "descriptor": null,
+          "ordinal": "27",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995. Derogado DOF 10-12-2004",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-28",
+          "heading": "Artículo 28",
+          "descriptor": null,
+          "ordinal": "28",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Toda orden de arresto deberá darse por escrito. En caso de que un militar se vea precisado a imponerlo por orden verbal, surtirá efectos de inmediato, pero dicha orden deberá ser ratificada por escrito dentro de las 24 horas siguientes, anotando el motivo y fundamento de la misma, así como la hora; en caso de que no se ratifique, la orden quedará sin efecto."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-12-2004",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-29",
+          "heading": "Artículo 29",
+          "descriptor": null,
+          "ordinal": "29",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El que impida el cumplimiento de un arresto, el que permita que se quebrante, así como el que no lo cumpla, serán sancionados de acuerdo a lo dispuesto en el Código de Justicia Militar."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-30",
+          "heading": "Artículo 30",
+          "descriptor": null,
+          "ordinal": "30",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo derogado DOF 10-12-2004",
+              "action": "derogado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-31",
+          "heading": "Artículo 31",
+          "descriptor": null,
+          "ordinal": "31",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar que ejerce Superioridad jerárquica o de cargo, podrá imponer correctivos disciplinarios."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 10-12-2004",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            },
+            {
+              "type": "paragraph",
+              "text": "Superioridad jerárquica, es la que corresponde a la dignidad militar que representa el grado, con arreglo a la escala del Ejército, Fuerza Aérea y Guardia Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 11-12-1995, 16-07-2025",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            },
+            {
+              "type": "paragraph",
+              "text": "Superioridad de cargo, es la inherente a la comisión que desempeña un militar, por razón de sus funciones y de la autoridad de que está investido."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-32",
+          "heading": "Artículo 32",
+          "descriptor": null,
+          "ordinal": "32",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Tienen facultad para imponer arrestos a sus subalternos en jerarquía o cargo, los Generales, Jefes, Oficiales y clases."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-12-2004",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-33",
+          "heading": "Artículo 33",
+          "descriptor": null,
+          "ordinal": "33",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los arrestos se impondrán a:"
+            },
+            {
+              "type": "paragraph",
+              "text": "I.- Los Generales y Jefes, hasta por 24 y 48 horas, respectivamente;"
+            },
+            {
+              "type": "paragraph",
+              "text": "II.- Los Oficiales, hasta por ocho días, y III.- La Tropa, hasta por quince días."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los Generales, Jefes, Oficiales y Tropa que no tengan destino fijo y se encuentren en disponibilidad, cumplirán los arrestos que se les impongan en cualquiera de los recintos militares señalados en el artículo 25 de esta Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los militares en situación de retiro cumplirán el arresto en la instalación militar más cercana a su domicilio."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Secretario de la Defensa Nacional tendrá facultad para amonestar, así como para imponer y graduar arrestos a los Generales, Jefes, Oficiales y Tropa, hasta por quince días."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 10-12-2004",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-33",
+          "heading": "Artículo 33",
+          "descriptor": null,
+          "ordinal": "33",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bis.- Tienen facultad para graduar arrestos:"
+            },
+            {
+              "type": "paragraph",
+              "text": "I.- El Secretario, Subsecretario y Oficial Mayor de la Secretaría de la Defensa Nacional, y II.- En las tropas a su mando:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Los Comandantes del Ejército, de la Fuerza Aérea y de la Guardia Nacional, los Comandantes de Mandos Territoriales, de Unidades y Organismos Circunstanciales; así como, los Coordinadores Territoriales, Estatales y de Unidad de nivel Batallón y Grupos Especializados, Jefes y Oficiales Comandantes de Unidades destacamentadas;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Los Directores Generales de las Armas y Servicios, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Los Directores y Jefes de Dependencias e Instalaciones."
+            },
+            {
+              "type": "paragraph",
+              "text": "En ausencia de los anteriores, la facultad recaerá en quien los suceda en el mando o cargo."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004",
+              "action": "adicionado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-33",
+          "heading": "Artículo 33",
+          "descriptor": null,
+          "ordinal": "33",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ter.- Todo militar facultado para graduar arrestos tendrá en cuenta, al hacerlo, que sea proporcional a la falta cometida, a la jerarquía, al cargo, a los antecedentes del infractor, a las circunstancias, al grado que ostente y al cargo de quien lo impuso."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cuando a juicio del que deba graduar el correctivo, la gravedad de la falta merezca la imposición de un arresto superior al máximo que le sea permitido aplicar, dará cuenta a la autoridad facultada para que sea ella quien lo gradúe. El militar facultado para graduar arrestos, podrá dejarlos sin efecto o sustituirlos por amonestación."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004",
+              "action": "adicionado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-33",
+          "heading": "Artículo 33",
+          "descriptor": null,
+          "ordinal": "33",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quáter.- El que haya recibido orden de arresto, deberá comunicar al superior de quien dependa así como al que se la impuso, el inicio y término de su cumplimiento. Los Generales, Jefes y Oficiales lo harán por escrito y la Tropa de forma verbal."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004",
+              "action": "adicionado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-33",
+          "heading": "Artículo 33",
+          "descriptor": null,
+          "ordinal": "33",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quinquies.- El militar que esté cumpliendo un arresto y se haga acreedor a otro, empezará a cumplir este último desde el momento en que se le comunique."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004",
+              "action": "adicionado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-33",
+          "heading": "Artículo 33",
+          "descriptor": null,
+          "ordinal": "33",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sexies.- La suspensión es el correctivo disciplinario que se impone a la persona militar por observar mala conducta, determinada por el Consejo de Honor o por el Consejo Superior de Disciplina, consistente en la separación del empleo hasta por treinta días, sin goce de haberes y demás emolumentos, así como la interrupción del tiempo de servicios."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv",
+      "heading": "CAPÍTULO IV",
+      "descriptor": null,
+      "ordinal": "IV",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Consejo de Honor"
+        },
+        {
+          "type": "reform_note",
+          "text": "Capítulo adicionado DOF 10-12-2004",
+          "action": "adicionado",
+          "dof_date": "10-12-2004"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-34",
+          "heading": "Artículo 34",
+          "descriptor": null,
+          "ordinal": "34",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo de Honor se establecerá en las unidades y dependencias del Ejército, Fuerza Aérea y Guardia Nacional; se constituirá con un presidente y cuatro vocales en las unidades y con un presidente y dos vocales en las dependencias, conforme al Reglamento respectivo."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995; 10-12-2004, 16-07-2025",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-35",
+          "heading": "Artículo 35",
+          "descriptor": null,
+          "ordinal": "35",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Corresponde conocer al Consejo de Honor:"
+            },
+            {
+              "type": "paragraph",
+              "text": "I.- De todo lo relativo a la reputación de la Unidad, Dependencia o Instalación;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-12-1995",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            },
+            {
+              "type": "paragraph",
+              "text": "II.- De la embriaguez, uso de narcóticos y juegos prohibidos por la ley;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-12-1995; 10-12-2004",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            },
+            {
+              "type": "paragraph",
+              "text": "III.- De la disolución escandalosa."
+            },
+            {
+              "type": "paragraph",
+              "text": "IV.- De la falta de honradez en el manejo de caudales que no constituya un delito;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 10-12-2004",
+              "action": "reformado",
+              "dof_date": "10-12-2004"
+            },
+            {
+              "type": "paragraph",
+              "text": "V.- De la negligencia en el servicio, que no constituya un delito."
+            },
+            {
+              "type": "paragraph",
+              "text": "VI.- De todo lo que concierne a la dignidad militar."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-36",
+          "heading": "Artículo 36",
+          "descriptor": null,
+          "ordinal": "36",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo de Honor tiene facultades para:"
+            },
+            {
+              "type": "paragraph",
+              "text": "I.- Acordar las notas que hayan de ponerse en las Hojas de Servicios de los Oficiales, y en el Memorial de Servicios de los individuos de tropa."
+            },
+            {
+              "type": "paragraph",
+              "text": "II.- Dictaminar sobre los castigos correccionales que deban imponerse desde Capitán 1o. hasta el Soldado, por faltas, cuyo conocimiento sea de la competencia de este Consejo."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Acordar se solicite la baja del Ejército, Fuerza Aérea y Guardia Nacional por determinación de mala conducta, para el personal de Tropa y discentes del Sistema Educativo Militar;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-12-1995, 10-12-2004, 03-05-2024, 16-07-2025",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            },
+            {
+              "type": "paragraph",
+              "text": "IV.- Turnar al Ministerio Público, las constancias respectivas en los casos en que determine que es competencia de los tribunales correspondientes."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 11-12-1995",
+              "action": "adicionado",
+              "dof_date": "11-12-1995"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Acordar se solicite la suspensión hasta por treinta días del empleo por determinación de mala conducta al personal de Oficiales y Tropa del Ejército, Fuerza Aérea y Guardia Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "paragraph",
+              "text": "En el caso de las fracciones III y V se otorgará al militar un plazo de quince días naturales para que manifieste lo que a su interés convenga."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 10-12-2004. Reformado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv-bis",
+      "heading": "CAPÍTULO IV BIS",
+      "descriptor": null,
+      "ordinal": "IV BIS",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Consejo Superior de Disciplina"
+        },
+        {
+          "type": "reform_note",
+          "text": "Capítulo adicionado DOF 16-07-2025",
+          "action": "adicionado",
+          "dof_date": "16-07-2025"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iv-bis.articulo-36",
+          "heading": "Artículo 36",
+          "descriptor": null,
+          "ordinal": "36",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bis.- El Consejo Superior de Disciplina es un órgano colegiado que conocerá de la conducta de los Generales y Jefes del Ejército, Fuerza Aérea y Guardia Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv-bis.articulo-36",
+          "heading": "Artículo 36",
+          "descriptor": null,
+          "ordinal": "36",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ter.- El Consejo Superior de Disciplina está integrado por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Presidente: La persona titular de la Subsecretaría de la Defensa Nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Primera vocalía: La persona titular de la Oficialía Mayor de la Secretaría de la Defensa Nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Segunda vocalía: La persona titular de la Inspección y Contraloría del Ejército, Fuerza Aérea y Guardia Nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Tercera vocalía: La persona titular de la Jefatura del Estado Mayor Conjunto de la Defensa Nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Cuarta vocalía: La persona titular de la Comandancia del Ejército Mexicano;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Quinta vocalía: La persona titular de la Comandancia de la Fuerza Aérea Mexicana;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Sexta vocalía: La persona titular de la Comandancia de la Guardia Nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Secretaría del Consejo: La persona titular de la Subjefatura Administrativa y Logística del Estado Mayor Conjunto de la Defensa Nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Secretaría Adjunta del Consejo: La persona titular de la Jefatura de la Sección Primera (Recursos Humanos) del Estado Mayor Conjunto de la Defensa Nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Primera asesoría: La persona titular de la Unidad de Asuntos Jurídicos de la Secretaría de la Defensa Nacional, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Segunda asesoría: La persona titular de la Asesoría Jurídica del Estado Mayor Conjunto de la Defensa Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv-bis.articulo-36",
+          "heading": "Artículo 36",
+          "descriptor": null,
+          "ordinal": "36",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quáter.- El Consejo Superior de Disciplina, está facultado para acordar se solicite la suspensión hasta por 30 días del empleo por determinación de mala conducta al personal de Generales y Jefes del Ejército, Fuerza Aérea y Guardia Nacional."
+            },
+            {
+              "type": "paragraph",
+              "text": "Se otorgará al militar un plazo de quince días naturales para que manifieste lo que a su interés convenga."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv-bis.articulo-37",
+          "heading": "Artículo 37",
+          "descriptor": null,
+          "ordinal": "37",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los castigos correccionales a que se refiere la fracción II del artículo 36 son:"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "paragraph",
+              "text": "I.- Para las clases y soldados, el cambio de unidad, dependencia e instalación o el arresto hasta por quince días en prisión militar, y II.- Para los Oficiales, el cambio de unidad, dependencia, instalación, comisión o el arresto hasta por quince días en prisión militar."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995; 10-12-2004",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv-bis.articulo-38",
+          "heading": "Artículo 38",
+          "descriptor": null,
+          "ordinal": "38",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo derogado DOF 16-01-1934",
+              "action": "derogado",
+              "dof_date": "16-01-1934"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv-bis.articulo-39",
+          "heading": "Artículo 39",
+          "descriptor": null,
+          "ordinal": "39",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Se prohíbe a los individuos que componen el Consejo de Honor, externar los asuntos que se traten en el seno del Consejo y murmurar de las providencias acordadas por el mencionado Consejo. El que faltare a esta prescripción será excluido del honroso cargo que desempeña, previa aprobación de la Secretaría de la Defensa Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv-bis.articulo-40",
+          "heading": "Artículo 40",
+          "descriptor": null,
+          "ordinal": "40",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo de Honor, emplazará al militar de cuya conducta va a conocer para hacerle saber la causa por que se le juzga y oír sus descargos, a fin de que se le imparta estricta justicia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv-bis.articulo-41",
+          "heading": "Artículo 41",
+          "descriptor": null,
+          "ordinal": "41",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los miembros de un Consejo de Honor, serán responsables, conforme al Código de Justicia Militar, de las arbitrariedades o abusos que cometieren en el ejercicio de sus funciones."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-12-1995",
+              "action": "reformado",
+              "dof_date": "11-12-1995"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-v",
+      "heading": "CAPÍTULO V",
+      "descriptor": null,
+      "ordinal": "V",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Prevenciones Generales"
+        },
+        {
+          "type": "reform_note",
+          "text": "Capítulo adicionado DOF 10-12-2004",
+          "action": "adicionado",
+          "dof_date": "10-12-2004"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-42",
+          "heading": "Artículo 42",
+          "descriptor": null,
+          "ordinal": "42",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El militar que tenga alguna queja en relación con las disposiciones superiores o las obligaciones que le impone el servicio, podrá acudir ante el superior inmediato para la solución de sus demandas y, en caso de no ser debidamente atendido, podrá llegar por rigurosa escala, hasta el Presidente de la República, si es necesario."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004",
+              "action": "adicionado",
+              "dof_date": "10-12-2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-43",
+          "heading": "Artículo 43",
+          "descriptor": null,
+          "ordinal": "43",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Todo militar que infrinja la presente Ley, así como algún precepto reglamentario, se hará acreedor a un correctivo disciplinario, de acuerdo con su jerarquía en el Ejército, Fuerza Aérea y Guardia Nacional y, si la magnitud de su falta constituye un delito, quedará sujeto a lo dispuesto por el Código de Justicia Militar."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 10-12-2004. Reformado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Artículo Unico.- Desde la promulgación de la presente, quedan derogadas todas las leyes y disposiciones que a ella se opongan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dada en el Palacio del Poder Ejecutivo Federal, en México, a los once días del mes de marzo de mil novecientos veintiséis.- P. Elías Calles.-Rúbrica.- El Subsecretario Encargado del Despacho de Guerra y Marina, M. Piña.- Rúbrica.- Al C. Ing. Adalberto Tejeda, Secretario del Estado y del Despacho de Gobernación.- Presente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo que comunico a usted para su publicación y demás efectos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sufragio Efectivo. No Reelección."
+        },
+        {
+          "type": "paragraph",
+          "text": "México, 13 de marzo de 1926.- El Secretario de Estado y del Despacho de Gobernación, A. Tejeda.Rúbrica."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO que modifica varias leyes del ramo de Guerra, fijando regias para el reingreso al Ejército o Armada Nacionales."
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicado en el Diario Oficial de la Federación el 16 de enero de 1934"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTICULO 1°.- Se derogan los artículos 4° de la Ordenanza General del Ejército de fecha 11 de diciembre de 1911, 38 de la Ley de Disciplina del Ejército y Armada Nacionales de 11 de marzo de 1926 y 6° de la Ley Orgánica del Ejército y Armada Nacionales de la citada fecha de 11 de marzo de 1926, en cuanto se opongan a esta Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO 2°.- Los militares que tengan más de seis años de estar separados del Ejército por virtud de licencia ilimitada, gozarán de un plazo de seis meses para manifestar su deseo de reingresar al mismo, a fin de no quedar comprendidos en las disposiciones del artículo 5°; pero no podrán usar de esta prerrogativa los militares que se encuentren en los casos a que se refiere el artículo 8°."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO 3°.- La presente ley comenzará a regir desde la fecha de su promulgación.- J. Jesús Delgado, S. V. P.- A. S. Rodríguez, S. P. S.- Gilberto Fabila, D. P.- Andrés H. Peralta, D. S.Rúbricas.” En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo Federal, en México, D. F., a los veintisiete días del mes de diciembre de mil novecientos treinta y tres.- A. L. Rodríguez.- Rúbrica.- El Secretario de Estado y del Despacho de Guerra y Marina, Pablo Quiroga.- Rúbrica.- Al C. Secretario de Gobernación.- Presente.” Lo que comunico a usted para su publicación y demás fines."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sufragio Efectivo, No Reelección."
+        },
+        {
+          "type": "paragraph",
+          "text": "México, D. F., a 13 de enero de 1934.- El Secretario de Gobernación, Eduardo Vasconcelos.Rúbrica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Al C . . . . . ."
+        },
+        {
+          "type": "paragraph",
+          "text": "DECRETO que reforma y adiciona diversas disposiciones de la Ley de Disciplina del Ejército y Armada Nacionales."
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicado en el Diario Oficial de la Federación el 11 de diciembre de 1995 ARTICULO UNICO.- SE REFORMAN la denominación de Ley de Disciplina del Ejército y Armada Nacionales por la de Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; y los artículos 1o., 2o., 3o., 4o., 5o., 7o., 8o., 12, 14, 17, 22, 27, 29, 31 párrafo segundo, 34, 35 fracciones I y II, 36 fracción III, 37 inciso a), 39, 41; y se ADICIONA la fracción IV del artículo 36 de la propia Ley, para quedar como sigue: .........."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 16 de noviembre de 1995.- Dip. Fernando Salgado Delgado, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ernesto Navarro González, Presidente.- Dip. Aurelio Marín Huazo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 10 de diciembre de 2004"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ": Se reforman la denominación de los Capítulos I, II y III; así como los artículos 1; 6; 11; 12; 13; 16; 21; 22; 23; 25; 28; 31, primer párrafo; 32; 33; 34; 35, fracciones II y IV; 36, fracción III y 37; se adicionan los Capítulos IV y V; así como los artículos 1 Bis; 3 Bis; 24 Bis; 24 Ter; 24 Quáter; 24 Quinquies; 33 Bis; 33 Ter; 33 Quáter; 33 Quinquies; 36, último párrafo; 42 y 43; y se derogan los artículos 27 y 30 de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: .........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "Artículo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 9 de noviembre de 2004.- Sen. Diego Fernández de Cevallos Ramos, Presidente.Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Rafael Melgoza Radillo, Secretario.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Graciela Larios Rivas, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de diciembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas disposiciones de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, en materia de disciplina de discentes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 3 de mayo de 2024"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 36, párrafo primero, fracción III, de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las adecuaciones normativas al Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, en materia de baja definitiva de las fuerzas armadas de discentes, a fin de proveer la exacta observancia de la reforma."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan aquellas disposiciones que se opongan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 2 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Vania Roxana Ávila García, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal;"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 16 de julio de 2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-septim",
+          "heading": "Artículo Séptimo",
+          "descriptor": null,
+          "ordinal": "Artículo Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 1o.; 1o Bis; 2o.; 3o.; 3o Bis; 21; 24 Ter; 25; 31, párrafos"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "segundo",
+          "descriptor": null,
+          "ordinal": "segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "y tercero; 33 Bis, párrafo primero, fracción II, inciso a); 34; 36, del párrafo primero, la fracción III y párrafo segundo; 37, párrafo primero; 43, así como la denominación de la ley, y se adicionan a los artículos 1, un párrafo segundo; al 24 Quáter, la fracción IV; el 33 Sexies y al 36, la fracción V, así como el CAPÍTULO IV BIS denominado “Consejo Superior de Disciplina”, el 36 Bis; 36 Ter y 36 Quáter, de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 30 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

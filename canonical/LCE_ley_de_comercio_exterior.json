@@ -1,0 +1,4073 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LCE_ley_de_comercio_exterior",
+  "abbreviation": "LCE",
+  "name": "LEY de Comercio Exterior",
+  "catalog_number": "035",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/28.pdf",
+    "pdf_filename_origen": "28.pdf",
+    "dof_publication": "DOF27/07/1993",
+    "last_reform": "DOF 21/12/2006",
+    "captured_at": "2026-04-09T09:42:46.918801+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "Nueva Ley publicada en el Diario Oficial de la Federación el 27 de julio de 1993 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:"
+    },
+    {
+      "type": "paragraph",
+      "text": "TITULO I DISPOSICIONES GENERALES CAPITULO UNICO"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-1",
+      "heading": "Artículo 1o",
+      "descriptor": null,
+      "ordinal": "1o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La presente Ley tiene por objeto regular y promover el comercio exterior, incrementar la competitividad de la economía nacional, propiciar el uso eficiente de los recursos productivos del país, integrar adecuadamente la economía mexicana con la internacional, defender la planta productiva de prácticas desleales del comercio internacional y contribuir a la elevación del bienestar de la población."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-2",
+      "heading": "Artículo 2o",
+      "descriptor": null,
+      "ordinal": "2o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las disposiciones de esta Ley son de orden público y de aplicación en toda la República, sin perjuicio de lo dispuesto por los tratados o convenios internacionales de los que México sea parte. La aplicación e interpretación de estas disposiciones corresponden, para efectos administrativos, al Ejecutivo Federal por conducto de la Secretaría de Economía."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-3",
+      "heading": "Artículo 3o",
+      "descriptor": null,
+      "ordinal": "3o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para efectos de esta Ley, se entenderá por:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Secretaría, la Secretaría de Economía;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Comisión, la Comisión de Comercio Exterior;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Cuotas compensatorias, aquellas que se aplican a las mercancías importadas en condiciones de discriminación de precios o de subvención en su país de origen, conforme a lo establecido en la presente Ley;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Reglas, las de carácter general que emita la Secretaría, sobre regulaciones y restricciones no arancelarias y programas e instrumentos de comercio exterior, y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción adicionada DOF 24-01-2006",
+          "action": "adicionado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Reglamento, el Reglamento de esta Ley."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción adicionada DOF 24-01-2006",
+          "action": "adicionado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando esta Ley se refiera a plazos en días se entenderán días hábiles y cuando se refiera a meses o años se entenderán meses o años calendario."
+        },
+        {
+          "type": "paragraph",
+          "text": "TITULO SEGUNDO Facultades del Ejecutivo Federal, de la Secretaría de Economía y de las Comisiones Auxiliares"
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación del Título reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO I Facultades del Ejecutivo Federal"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-4",
+      "heading": "Artículo 4o",
+      "descriptor": null,
+      "ordinal": "4o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Ejecutivo Federal tendrá las siguientes facultades:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Crear, aumentar, disminuir o suprimir aranceles, mediante decretos publicados en el Diario Oficial de la Federación, de conformidad con lo establecido en el artículo 131 de la Constitución Política de los Estados Unidos Mexicanos;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Regular, restringir o prohibir la exportación, importación, circulación o tránsito de mercancías, cuando lo estime urgente, mediante decretos publicados en el Diario Oficial de la Federación, de conformidad con el artículo 131 de la Constitución Política de los Estados Unidos Mexicanos;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Establecer medidas para regular o restringir la exportación o importación de mercancías a través de acuerdos expedidos por la Secretaría o, en su caso, conjuntamente con la autoridad competente, y publicados en el Diario Oficial de la Federación;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Establecer medidas para regular o restringir la circulación o tránsito de mercancías extranjeras por el territorio nacional procedentes del y destinadas al exterior a través de acuerdos expedidos por la autoridad competente y publicados en el Diario Oficial de la Federación;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Conducir negociaciones comerciales internacionales a través de la Secretaría, sin perjuicio de las facultades que correspondan a otras dependencias del Ejecutivo Federal;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Coordinar, a través de la Secretaría, la participación de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de los estados en las actividades de promoción del comercio exterior, así como concertar acciones en la materia con el sector privado, y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VII",
+          "text": "Coordinar, a través de la Secretaría, que las dependencias y entidades de la Administración Pública Federal que administren o controlen una restricción o regulación no arancelaria se encuentren interconectadas electrónicamente con la Secretaría y con la Secretaría de Hacienda y Crédito Público."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción adicionada DOF 24-01-2006",
+          "action": "adicionado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO II Facultades de la Secretaría de Economía"
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación del Capítulo reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-5",
+      "heading": "Artículo 5o",
+      "descriptor": null,
+      "ordinal": "5o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Son facultades de la Secretaría:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Estudiar, proyectar y proponer al Ejecutivo Federal modificaciones arancelarias;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Tramitar y resolver las investigaciones en materia de medidas de salvaguarda, así como imponer las medidas que resulten de dichas investigaciones;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Estudiar, proyectar, establecer y modificar medidas de regulación y restricción no arancelarias a la exportación, importación, circulación y tránsito de mercancías;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Establecer las reglas de origen;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Otorgar permisos previos y asignar cupos de exportación e importación;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Establecer los requisitos de marcado de país de origen;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VII",
+          "text": "Tramitar y resolver las investigaciones en materia de prácticas desleales de comercio internacional, así como determinar las cuotas compensatorias que resulten de dichas investigaciones;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VIII",
+          "text": "Asesorar a los exportadores mexicanos involucrados en investigaciones en el extranjero en materia de prácticas desleales de comercio internacional y medidas de salvaguarda o en cualquier otro procedimiento del que pueda resultar una restricción a la importación en otros países;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IX",
+          "text": "Coordinar las negociaciones comerciales internacionales con las dependencias competentes y, cuando así lo solicite la Secretaría, con los sectores productivos;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "X",
+          "text": "Expedir las disposiciones de carácter administrativo en cumplimiento de los tratados o convenios internacionales en materia comercial de los que México sea parte;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XI",
+          "text": "Establecer los programas y mecanismos de promoción y fomento de las exportaciones, así como las disposiciones que los rijan, escuchando a los sectores productivos e instituciones promotoras del sector público y privado;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XII",
+          "text": "Emitir reglas que establezcan disposiciones de carácter general en el ámbito de su competencia, así como los criterios necesarios para el cumplimiento de las leyes, acuerdos o tratados comerciales y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción adicionada DOF 24-01-2006",
+          "action": "adicionado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XIII",
+          "text": "Las demás que le encomienden expresamente las leyes y los reglamentos."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006 (se recorre)",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO III Comisiones auxiliares"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-6",
+      "heading": "Artículo 6o",
+      "descriptor": null,
+      "ordinal": "6o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Comisión de Comercio Exterior será órgano de consulta obligatoria de las dependencias y entidades de la Administración Pública Federal en relación con las materias a que se refieren las fracciones I a V del artículo 4o. de esta Ley. Esta Comisión estará encargada de emitir opinión en los asuntos de comercio exterior de conformidad a lo establecido en la presente Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "Asimismo, las dependencias y entidades de la Administración Pública Federal deberán hacer públicos, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de la Ley Federal de Procedimiento Administrativo, los anteproyectos de disposiciones derivadas de la presente Ley. Las organizaciones empresariales reconocidas por la Ley de Cámaras y sus Confederaciones en su carácter de organismos de interés público, así como las asociaciones, instituciones y agrupamientos que los coordinen frente al Gobierno Federal, que representen a nivel nacional los intereses del gremio industrial, comercial, agropecuario, de servicios y aduanal del país, así como cualquier otro interesado, podrán emitir una opinión sobre los anteproyectos mencionados."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 24-01-2006",
+          "action": "adicionado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "paragraph",
+          "text": "La Comisión revisará, de oficio o a petición de los organismos mencionados en el párrafo anterior, las medidas de regulación y restricción al comercio exterior que se encuentren vigentes, a fin de recomendar las modificaciones a que haya lugar. Además podrá celebrar audiencias públicas con los interesados."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-7",
+      "heading": "Artículo 7o",
+      "descriptor": null,
+      "ordinal": "7o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Comisión Mixta para la Promoción de las Exportaciones auxiliará al Ejecutivo Federal en relación a la facultad a que se refiere la fracción VI del artículo 4 de esta Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esta Comisión estará encargada de analizar, evaluar, proponer y concertar acciones entre los sectores público y privado en materia de exportaciones de bienes y servicios, para facilitar, promover, diversificar y consolidar el intercambio comercial, así como el fortalecimiento de la planta productiva nacional."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-8",
+      "heading": "Artículo 8o",
+      "descriptor": null,
+      "ordinal": "8o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La presidencia y el secretariado técnico de ambas comisiones estarán a cargo de la Secretaría. El Ejecutivo Federal determinará las dependencias, entidades y organismos que integrarán cada comisión y reglamentará su funcionamiento."
+        },
+        {
+          "type": "paragraph",
+          "text": "TITULO III ORIGEN DE LAS MERCANCIAS CAPITULO UNICO"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-9",
+      "heading": "Artículo 9o",
+      "descriptor": null,
+      "ordinal": "9o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El origen de las mercancías se podrá determinar para efectos de preferencias arancelarias, marcado de país de origen, aplicación de cuotas compensatorias, cupos y otras medidas que al efecto se establezcan. El origen de la mercancía podrá ser nacional, si se considera un solo país, o regional, si se considera a más de un país."
+        },
+        {
+          "type": "paragraph",
+          "text": "El origen de las mercancías se determinará conforme a las reglas que establezca la Secretaría o, en su caso, para los efectos que así se determinen, conforme a las reglas establecidas en los tratados o convenios internacionales de los que México sea parte."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-10",
+      "heading": "Artículo 10",
+      "descriptor": null,
+      "ordinal": "10",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las reglas de origen deberán someterse previamente a la opinión de la Comisión y publicarse en el Diario Oficial de la Federación. Estas reglas se establecerán bajo cualquiera de los siguientes criterios:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Cambio de clasificación arancelaria. En este caso se especificarán las subpartidas o partidas de la nomenclatura arancelaria del sistema armonizado a que se refiera la regla;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Contenido nacional o regional. En este caso se indicará el método de cálculo y el porcentaje correspondiente, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "De producción, fabricación o elaboración. En este caso se especificará con precisión la operación o proceso productivo que confiera origen a la mercancía."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría podrá utilizar criterios adicionales cuando no se pueda cumplir con los anteriores, mismos que deberán especificarse en la regla de origen respectiva."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-11",
+      "heading": "Artículo 11",
+      "descriptor": null,
+      "ordinal": "11",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En la importación de mercancías sujetas al cumplimiento de reglas de origen, el importador deberá comprobar su origen en el tiempo y forma establecidos en los ordenamientos aplicables. Corresponderá a la Secretaría de Hacienda y Crédito Público vigilar y verificar el cumplimiento de las reglas de origen."
+        },
+        {
+          "type": "paragraph",
+          "text": "TITULO IV ARANCELES Y MEDIDAS DE REGULACION Y RESTRICCION NO ARANCELARIAS DEL COMERCIO EXTERIOR CAPITULO I Aranceles"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-12",
+      "heading": "Artículo 12",
+      "descriptor": null,
+      "ordinal": "12",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para efectos de esta Ley, los aranceles son las cuotas de las tarifas de los impuestos generales de exportación e importación, los cuales podrán ser:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Ad-valorem, cuando se expresen en términos porcentuales del valor en aduana de la mercancía."
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Específicos, cuando se expresen en términos monetarios por unidad de medida, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Mixtos, cuando se trate de la combinación de los dos anteriores."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-13",
+      "heading": "Artículo 13",
+      "descriptor": null,
+      "ordinal": "13",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Los aranceles a que se refiere el artículo anterior podrán adoptar las siguientes modalidades:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Arancel-cupo, cuando se establezca un nivel arancelario para cierta cantidad o valor de mercancías exportadas o importadas, y una tasa diferente a las exportaciones o importaciones de esas mercancías que excedan dicho monto;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Arancel estacional, cuando se establezcan niveles arancelarios distintos para diferentes períodos del año, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Las demás que señale el Ejecutivo Federal."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-14",
+      "heading": "Artículo 14",
+      "descriptor": null,
+      "ordinal": "14",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Podrán establecerse aranceles diferentes a los generales previstos en las tarifas de los impuestos generales de exportación e importación cuando así lo establezcan tratados o convenios comerciales internacionales de los que México sea parte."
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO II Medidas de regulación y restricción no arancelarias Sección primera Disposiciones generales"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-15",
+      "heading": "Artículo 15",
+      "descriptor": null,
+      "ordinal": "15",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las medidas de regulación y restricción no arancelarias a la exportación de mercancías, a que se refiere la fracción III del artículo 4o. de esta Ley, se podrán establecer en los siguientes casos:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Para asegurar el abasto de productos destinados al consumo básico de la población y el abastecimiento de materias primas a los productores nacionales o para regular o controlar recursos naturales no renovables del país, de conformidad a las necesidades del mercado interno y las condiciones del mercado internacional;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Conforme a lo dispuesto en tratados o convenios internacionales de los que México sea parte."
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Cuando se trate de productos cuya comercialización esté sujeta, por disposición constitucional, a restricciones específicas;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Cuando se trate de preservar la fauna y la flora en riesgo o peligro de extinción o de asegurar la conservación o aprovechamiento de especies;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Cuando se requiera conservar los bienes de valor histórico, artístico o arqueológico, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Cuando se trate de situaciones no previstas por las normas oficiales mexicanas en lo referente a seguridad nacional, salud pública, sanidad fitopecuaria o ecología, de acuerdo a la legislación en la materia."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-16",
+      "heading": "Artículo 16",
+      "descriptor": null,
+      "ordinal": "16",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las medidas de regulación y restricción no arancelarias a la importación, circulación o tránsito de mercancías, a que se refieren las fracciones III y IV del artículo 4o., se podrán establecer en los siguientes casos:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Cuando se requieran de modo temporal para corregir desequilibrios en la balanza de pagos, de acuerdo a los tratados o convenios internacionales de los que México sea parte;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Para regular la entrada de productos usados, de desecho o que carezcan de mercado sustancial en su país de origen o procedencia;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Conforme a lo dispuesto en tratados o convenios internacionales de los que México sea parte;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Como respuesta a las restricciones a exportaciones mexicanas aplicadas unilateralmente por otros países;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Cuando sea necesario impedir la concurrencia al mercado interno de mercancías en condiciones que impliquen prácticas desleales de comercio internacional, conforme a lo dispuesto en esta Ley, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Cuando se trate de situaciones no previstas por las normas oficiales mexicanas en lo referente a seguridad nacional, salud pública, sanidad fitopecuaria o ecología, de acuerdo a la legislación en la materia."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-17",
+      "heading": "Artículo 17",
+      "descriptor": null,
+      "ordinal": "17",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El establecimiento de las medidas de regulación y restricción no arancelarias a la exportación, importación, circulación o tránsito de mercancías, a que se refieren las fracciones III y IV del artículo 4o., deberán previamente someterse a la opinión de la Comisión y publicarse en el Diario Oficial de la Federación. Las dependencias del Ejecutivo Federal competentes para expedir o hacer cumplir estas medidas deberán publicar en el Diario Oficial de la Federación los procedimientos para su expedición o cumplimiento, e informar a la Comisión acerca de la administración de dichas medidas y procedimientos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las medidas de regulación y restricción no arancelarias a la exportación e importación de mercancías, a que se refiere la fracción III del artículo 4o., deberán expedirse por acuerdo de la Secretaría o, en su caso, conjuntamente con la autoridad competente. Estas medidas consistirán en permisos previos, cupos máximos, marcado de país de origen, certificaciones, cuotas compensatorias y los demás instrumentos que se consideren adecuados para los fines de esta Ley. Las cuotas compensatorias sólo se aplicarán en el caso previsto en la fracción V del artículo anterior."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-17-a",
+      "heading": "Artículo 17 A",
+      "descriptor": null,
+      "ordinal": "17 A",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "- Las restricciones y regulaciones no arancelarias, deberán cumplirse conforme a lo establecido en los ordenamientos aplicables."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dicho cumplimiento deberá demostrarse mediante documentos que contengan medidas de seguridad o a través de medios electrónicos, o ambos, que determine la Secretaría, conjuntamente con las Dependencias y Entidades de la Administración Pública Federal que corresponda, con excepción de los que hayan sido pactados con países con los que México haya suscrito algún acuerdo o tratado de libre comercio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los documentos a que se refiere este artículo deberán acompañar al pedimento que se presente ante la aduana por conducto del agente o apoderado aduanal, en los términos de la legislación aduanera."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 24-01-2006",
+          "action": "adicionado",
+          "dof_date": "24-01-2006"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-18",
+      "heading": "Artículo 18",
+      "descriptor": null,
+      "ordinal": "18",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En los casos previstos en las fracciones I y II del artículo 15 y I a V del artículo 16, la evaluación que realice la Comisión deberá basarse en un análisis económico, elaborado por la dependencia correspondiente, de los costos y beneficios que se deriven de la aplicación de la medida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Este análisis podrá tomar en cuenta, entre otros, el impacto sobre los siguientes factores: precios, empleo, competitividad de las cadenas productivas, ingresos del gobierno, ganancias del sector productivo, costo de la medida para los consumidores, variedad y calidad de la oferta disponible y nivel de competencia de los mercados."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-19",
+      "heading": "Artículo 19",
+      "descriptor": null,
+      "ordinal": "19",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- No obstante lo dispuesto en el artículo 17, las dependencias del Ejecutivo Federal competentes podrán establecer medidas de regulación o restricción no arancelarias a la exportación, importación, circulación o tránsito de mercancías en los casos previstos en las fracciones III a VI del artículo 15 y VI del artículo 16 sin someterlas a la opinión de la Comisión, siempre que:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Se trate de una situación de emergencia susceptible de producir un daño difícilmente reparable de seguirse el procedimiento señalado en el artículo 17;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Se notifique a la Comisión;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Se publique en el Diario Oficial de la Federación, en los casos que proceda, mediante acuerdo del titular de la dependencia respectiva, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Se limite la vigencia de la medida a un período máximo de 20 días a partir del primer acto de aplicación de la medida, dentro del cual dicha medida y, en su caso, la expedición de la norma oficial mexicana de emergencia, en los términos de la legislación en la materia, deberán someterse al procedimiento establecido en el artículo 17."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-20",
+      "heading": "Artículo 20",
+      "descriptor": null,
+      "ordinal": "20",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En todo caso, las mercancías sujetas a restricciones o regulaciones no arancelarias se identificarán en términos de sus fracciones arancelarias y nomenclatura que les corresponda conforme a la tarifa respectiva."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-20-a",
+      "heading": "Artículo 20 A",
+      "descriptor": null,
+      "ordinal": "20 A",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "- La Secretaría aceptará los certificados de firma electrónica emitidos por los prestadores de servicios de certificación que estén acreditados en los términos del Código de Comercio, así como los que ella misma emita, para efecto de los trámites y notificaciones relacionadas con las regulaciones no arancelarias y los programas previstos en la presente Ley."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 24-01-2006",
+          "action": "adicionado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sección segunda Permisos previos, cupos y marcado de país de origen"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-21",
+      "heading": "Artículo 21",
+      "descriptor": null,
+      "ordinal": "21",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Corresponde a la Secretaría sujetar la exportación e importación de mercancías a permisos previos y expedirlos conforme a lo siguiente:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "La sujeción a permisos previos deberá someterse a la opinión de la Comisión;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "El formato de las solicitudes, así como los requerimientos de información y los procedimientos de trámite se deberán publicar en el Diario Oficial de la Federación;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "La expedición se resolverá en un plazo máximo de 15 días;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "En los permisos se indicarán las modalidades, condiciones y vigencia a que se sujeten, así como el valor y la cantidad o volumen de la mercancía a exportar o importar y los demás datos o requisitos que sean necesarios, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Los demás procedimientos establecidos en el Reglamento."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-22",
+      "heading": "Artículo 22",
+      "descriptor": null,
+      "ordinal": "22",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- No se utilizarán permisos previos para restringir:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "La importación de mercancías en el caso previsto en la fracción V del artículo 16 de esta Ley, o"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "La exportación, importación, circulación o tránsito de mercancías con el fin de cumplir con las disposiciones en materia de normas oficiales mexicanas."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-23",
+      "heading": "Artículo 23",
+      "descriptor": null,
+      "ordinal": "23",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Se entiende por cupo de exportación o importación el monto de una mercancía que podrá ser exportado o importado, ya sea máximo o dentro de un arancel-cupo. La administración de los cupos se podrá hacer por medio de permisos previos."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría especificará y publicará en el Diario Oficial de la Federación la cantidad, volumen o valor total del cupo, los requisitos para la presentación de solicitudes, la vigencia del permiso correspondiente y el procedimiento para su asignación entre los exportadores o importadores interesados. La determinación, las modificaciones y los procedimientos de asignación de los cupos deberán someterse previamente a la opinión de la Comisión."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para la determinación del volumen o valor de los cupos, la Secretaría tomará en cuenta las condiciones de abasto y la oferta nacional del producto sujeto a cupos, escuchando la opinión de los integrantes de la cadena productiva."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-24",
+      "heading": "Artículo 24",
+      "descriptor": null,
+      "ordinal": "24",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Los cupos se asignarán por medio de licitación pública, para lo cual se expedirá convocatoria con el fin de que cualquier persona física o moral presente proposiciones para adquirir parte o la totalidad del cupo asignado a determinada mercancía de exportación o importación."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sin embargo, la Secretaría podrá optar, de manera fundada y razonada, por otros procedimientos de asignación que promuevan la competitividad de las cadenas productivas y garanticen un acceso adecuado a nuevos solicitantes. Asimismo, los procedimientos de asignación de cupos se podrán determinar en tratados o convenios internacionales de los que México sea parte."
+        },
+        {
+          "type": "paragraph",
+          "text": "En todo caso, la asignación de los cupos entre importadores o exportadores se hará conforme a procedimientos administrativos que no constituyan, por sí mismos, un obstáculo al comercio."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-25",
+      "heading": "Artículo 25",
+      "descriptor": null,
+      "ordinal": "25",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría, previa consulta a la Comisión, podrá exigir que una mercancía importada al territorio nacional ostente un marcado de país de origen en donde se indique el nombre de dicho país."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sección tercera Otras medidas de regulación al comercio exterior y normas oficiales mexicanas"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-26",
+      "heading": "Artículo 26",
+      "descriptor": null,
+      "ordinal": "26",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En todo caso, la importación, circulación o tránsito de mercancías estarán sujetos a las normas oficiales mexicanas de conformidad con la ley de la materia. No podrán establecerse disposiciones de normalización a la importación, circulación o tránsito de mercancías diferentes a las normas oficiales mexicanas. Las mercancías sujetas a normas oficiales mexicanas se identificarán en términos de sus fracciones arancelarias y de la nomenclatura que les corresponda conforme a la tarifa respectiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría determinará las normas oficiales mexicanas que las autoridades aduaneras deban hacer cumplir en el punto de entrada de la mercancía al país. Esta determinación se someterá previamente a la opinión de la Comisión y se publicará en el Diario Oficial de la Federación."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-27",
+      "heading": "Artículo 27",
+      "descriptor": null,
+      "ordinal": "27",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Cualquier otra medida administrativa de las dependencias y entidades de la Administración Pública Federal, que tenga como propósito regular o restringir el comercio exterior del país y la circulación o tránsito de mercancías extranjeras, deberá someterse a la opinión de la Comisión previamente a su expedición, a fin de procurar su mejor coordinación con las medidas arancelarias y no arancelarias previstas en esta Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "TITULO V PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL CAPITULO I Disposiciones generales"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-28",
+      "heading": "Artículo 28",
+      "descriptor": null,
+      "ordinal": "28",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Se consideran prácticas desleales de comercio internacional la importación de mercancías en condiciones de discriminación de precios o de subvenciones en el país exportador, ya sea el de origen o el de procedencia, que causen daño a una rama de producción nacional de mercancías idénticas o similares en los términos del artículo 39 de esta Ley. Las personas físicas o morales que importen mercancías en condiciones de prácticas desleales de comercio internacional estarán obligadas al pago de una cuota compensatoria conforme a lo dispuesto en esta Ley."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-29",
+      "heading": "Artículo 29",
+      "descriptor": null,
+      "ordinal": "29",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La determinación de la existencia de discriminación de precios o de subvenciones, del daño, de la relación causal entre ambos, así como el establecimiento de cuotas compensatorias se realizará a través de una investigación conforme al procedimiento administrativo previsto en esta Ley y sus disposiciones reglamentarias."
+        },
+        {
+          "type": "paragraph",
+          "text": "La prueba de daño se otorgará siempre y cuando en el país de origen o procedencia de las mercancías de que se trate exista reciprocidad. En caso contrario, la Secretaría podrá imponer cuotas compensatorias sin necesidad de determinar la existencia de daño."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO II Discriminación de precios"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-30",
+      "heading": "Artículo 30",
+      "descriptor": null,
+      "ordinal": "30",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La importación en condiciones de discriminación de precios consiste en la introducción de mercancías al territorio nacional a un precio inferior a su valor normal."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-31",
+      "heading": "Artículo 31",
+      "descriptor": null,
+      "ordinal": "31",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El valor normal de las mercancías exportadas a México es el precio comparable de una mercancía idéntica o similar que se destine al mercado interno del país de origen en el curso de operaciones comerciales normales."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sin embargo, cuando no se realicen ventas de una mercancía idéntica o similar en el país de origen, o cuando tales ventas no permitan una comparación válida, se considerará como valor normal:"
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "El precio comparable de una mercancía idéntica o similar exportada del país de origen a un tercer país en el curso de operaciones comerciales normales. Este precio deberá ser el más alto, siempre que sea un precio representativo, o"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "El valor reconstruido en el país de origen que se obtendrá de la suma del costo de producción, gastos generales y una utilidad razonable, los cuales deberán corresponder a operaciones comerciales normales en el país de origen."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-32",
+      "heading": "Artículo 32",
+      "descriptor": null,
+      "ordinal": "32",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Se entiende por operaciones comerciales normales las operaciones comerciales que reflejen condiciones de mercado en el país de origen y que se hayan realizado habitualmente, o dentro de un período representativo, entre compradores y vendedores independientes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para el cálculo del valor normal, podrán excluirse las ventas en el país de origen o de exportación a un tercer país si la Secretaría determina que dichas ventas reflejan pérdidas sostenidas. Se considerará como tales a las transacciones cuyos precios no permitan cubrir los costos de producción y los gastos generales incurridos en el curso de operaciones comerciales normales en un período razonable, el cual puede ser más amplio que el período de investigación."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando las operaciones en el país de origen o de exportación a un tercer país que generen utilidades sean insuficientes para calificarlas como representativas, el valor normal deberá establecerse conforme al valor reconstruido."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-33",
+      "heading": "Artículo 33",
+      "descriptor": null,
+      "ordinal": "33",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En el caso de importaciones originarias de un país con economía centralmente planificada, se tomará como valor normal de la mercancía de que se trate el precio de la mercancía idéntica o similar en un tercer país con economía de mercado, que pueda ser considerado como sustituto del país con economía centralmente planificada para propósitos de la investigación. La determinación del valor normal se hará de conformidad con las disposiciones establecidas en los artículos anteriores."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una economía centralmente planificada, salvo prueba en contrario, es aquella que no refleja principios de mercado. La Secretaría podrá determinar, para cada sector o industria bajo investigación, si ésta opera bajo principios de mercado. Las determinaciones anteriores las hará la Secretaría conforme a lo previsto en el Reglamento."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-34",
+      "heading": "Artículo 34",
+      "descriptor": null,
+      "ordinal": "34",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Cuando una mercancía sea exportada a México desde un país intermediario, y no directamente del país de origen, el valor normal será el precio comparable de mercancías idénticas o similares en el país de procedencia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sin embargo, cuando la mercancía de que se trate sólo transite, no se produzca o no exista un precio comparable en el país de exportación, el valor normal se determinará tomando como base el precio en el mercado del país de origen."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-35",
+      "heading": "Artículo 35",
+      "descriptor": null,
+      "ordinal": "35",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Cuando no se pueda obtener un precio de exportación o cuando, a juicio de la Secretaría, el precio de exportación no sea fiable por existir una vinculación o un arreglo compensatorio entre el exportador y el importador o un tercero, dicho precio podrá calcularse sobre la base del precio al que los productos importados se revendan por primera vez a un comprador independiente en el territorio nacional, o si los productos no se revendiesen a un comprador independiente o no lo fueran en el mismo estado en que se importaron, sobre una base razonable que la autoridad determine."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-36",
+      "heading": "Artículo 36",
+      "descriptor": null,
+      "ordinal": "36",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para que el precio de exportación y el valor normal sean comparables, la Secretaría realizará los ajustes que procedan, entre otros, los términos y condiciones de venta, las diferencias en cantidades, las diferencias físicas o las diferencias en cargas impositivas. Cuando una parte interesada solicite se tome en consideración un determinado ajuste, le incumbirá a esa parte aportar la prueba correspondiente."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO III Subvenciones"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-37",
+      "heading": "Artículo 37",
+      "descriptor": null,
+      "ordinal": "37",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para los efectos de esta Ley, se entiende por subvención:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "La contribución financiera que otorgue un gobierno extranjero, sus organismos públicos o mixtos, sus entidades, o cualquier organismo regional, público o mixto constituido por varios países, directa o indirectamente, a una empresa o rama de producción o a un grupo de empresas o ramas de producción y que con ello se otorgue un beneficio;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Alguna forma de sostenimiento de los ingresos o de los precios y que con ello se otorgue un beneficio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se consideran subvenciones, a título de ejemplo, las referidas en el anexo I del Acuerdo sobre Subvenciones y Medidas Compensatorias."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-38",
+      "heading": "Artículo 38",
+      "descriptor": null,
+      "ordinal": "38",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Al calcularse el monto de la subvención recibida por la mercancía extranjera exportada a México, se deducirá el total de los impuestos de exportación, derechos u otros gravámenes a que se haya sometido la exportación de la mercancía en el país de origen, destinados a neutralizar la subvención."
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO IV DAÑO A UNA RAMA DE PRODUCCION NACIONAL"
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación del Capítulo reformada DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-39",
+      "heading": "Artículo 39",
+      "descriptor": null,
+      "ordinal": "39",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para los efectos de esta Ley se entenderá por daño, salvo el concepto de daño grave para medidas de salvaguarda:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Un daño material causado a una rama de producción nacional;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Una amenaza de daño a una rama de producción nacional; o"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Un retraso en la creación de una rama de producción nacional."
+        },
+        {
+          "type": "paragraph",
+          "text": "En la investigación administrativa se deberá probar que las importaciones en condiciones de discriminación de precios o de subvenciones, causan daño a la rama de producción nacional, en los términos de esta Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría considerará otros factores de que tenga conocimiento, distintos a las importaciones en condiciones de discriminación de precios o de subvenciones, los cuales pudieran afectar a la rama de producción nacional. El efecto causado por dichos factores no se atribuirá a las importaciones en condiciones de discriminación de precios o de subvenciones."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-40",
+      "heading": "Artículo 40",
+      "descriptor": null,
+      "ordinal": "40",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para la determinación de la existencia de daño, se entenderá por rama de producción nacional el total de los productores nacionales de las mercancías idénticas o similares, o aquéllos cuya producción conjunta constituya una proporción importante de la producción nacional total."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sin embargo, cuando unos productores estén vinculados a los exportadores o a los importadores o sean ellos mismos importadores de la mercancía objeto de discriminación de precios o de subvenciones, la expresión rama de producción nacional podrá interpretarse en el sentido de referirse al resto de los productores."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando la totalidad de los productores estén vinculados a los exportadores o a los importadores o sean ellos mismos importadores de la mercancía objeto de discriminación de precios o de subvenciones, se podrá considerar como rama de producción nacional al conjunto de los fabricantes de la mercancía producida en la etapa inmediata anterior de la misma línea continua de producción."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-41",
+      "heading": "Artículo 41",
+      "descriptor": null,
+      "ordinal": "41",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La determinación de la existencia de daño material a la rama de producción nacional, la hará la Secretaría tomando en cuenta:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "El volumen de importación de las mercancías objeto de discriminación de precios o de subvenciones. Al respecto considerará si ha habido un aumento significativo de las mismas, en términos absolutos o en relación con la producción o el consumo interno del país;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "El efecto que sobre los precios de mercancías idénticas o similares en el mercado interno causa o pueda causar la importación de las mercancías objeto de discriminación de precios o de subvenciones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para ello, la Secretaría deberá considerar si la mercancía importada se vende en el mercado interno a un precio significativamente inferior al de las mercancías idénticas o similares, o bien, si el efecto de tales importaciones es hacer bajar, de otro modo, los precios en medida significativa o impedir en la misma medida la subida que en otro caso se hubiera producido;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "El efecto causado o que puedan causar tales importaciones sobre la rama de la producción nacional de que se trate, considerando los factores e índices económicos pertinentes que influyan en el estado de esa rama de producción nacional, tales como la disminución real o potencial de las ventas, los beneficios, el volumen de producción, la participación en el mercado, la productividad, el rendimiento de las inversiones o la utilización de la capacidad instalada; los factores que repercuten en los precios internos; en su caso, la magnitud del margen de discriminación de precios; los efectos negativos reales o potenciales en el flujo de caja, las existencias, el empleo, los salarios, el crecimiento, la capacidad de reunir capital o la inversión. Esta enumeración no es exhaustiva y ninguno de estos factores aisladamente bastarán necesariamente para obtener una orientación decisiva; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Los demás elementos que considere conveniente la Secretaría, o en su caso proporcione la producción nacional."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-42",
+      "heading": "Artículo 42",
+      "descriptor": null,
+      "ordinal": "42",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La determinación de la existencia de una amenaza de daño a la rama de producción nacional, la hará la Secretaría tomando en cuenta, entre otros, los siguientes factores:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Una tasa significativa de incremento de la importación de mercancías objeto de discriminación de precios o de subvenciones en el mercado nacional que indique la probabilidad de que se producirá un aumento sustancial de las mismas;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Una suficiente capacidad libremente disponible del exportador o un aumento inminente y sustancial de la misma que indique la probabilidad de un aumento sustancial de las exportaciones objeto de discriminación de precios o de subvenciones al mercado mexicano, teniendo en cuenta la existencia de otros mercados de exportación que puedan absorber el posible aumento de dichas exportaciones;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Si las importaciones se realizan a precios que tendrán el efecto de hacer bajar o contener el alza de los precios internos de manera significativa, y que probablemente harán aumentar la demanda de nuevas importaciones;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "La existencia de la mercancía objeto de investigación;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "En su caso, la naturaleza de la subvención de que se trate y los efectos que es probable tenga en el comercio, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Los demás elementos que considere conveniente la Secretaría, o en su caso, proporcione la producción nacional."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ninguno de estos factores por sí solo bastará necesariamente para la determinación de una amenaza de daño, pero todos ellos juntos han de llevar a la conclusión de la inminencia de nuevas exportaciones objeto de discriminación de precios o de subvenciones y de que, de no aplicarse cuotas compensatorias, se produciría un daño en los términos de esta Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "La determinación de la existencia de amenaza de daño se basará en hechos y no simplemente en alegatos, conjeturas o posibilidades remotas."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-43",
+      "heading": "Artículo 43",
+      "descriptor": null,
+      "ordinal": "43",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para la determinación de daño, la Secretaría podrá acumular el volumen y los efectos de las importaciones de la mercancía idéntica o similar provenientes de dos o más países sujetos a investigación."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-44",
+      "heading": "Artículo 44",
+      "descriptor": null,
+      "ordinal": "44",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para determinar la existencia de daño a una rama de producción nacional, el territorio nacional podrá dividirse en dos o más mercados competidores y los productores de cada mercado podrán ser considerados como una rama de producción distinta si:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Los productores de ese mercado venden la totalidad o casi la totalidad de su producción de la mercancía de que se trate en ese mercado, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "En ese mercado la demanda no está cubierta en grado sustancial por productores de la mercancía de que se trate situados en otro lugar del territorio."
+        },
+        {
+          "type": "paragraph",
+          "text": "En dichas circunstancias, la Secretaría podrá considerar que existe daño, incluso cuando no resulte perjudicada una porción importante de la rama de producción nacional total, siempre que haya una concentración de importaciones objeto de discriminación de precios o de subvenciones en ese mercado aislado y que, además, tales importaciones causen daño a los productores de la totalidad o casi la totalidad de la rama de producción en ese mercado."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "TITULO VI MEDIDAS DE SALVAGUARDA CAPITULO UNICO"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-45",
+      "heading": "Artículo 45",
+      "descriptor": null,
+      "ordinal": "45",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las medidas de salvaguarda son aquellas que, en los términos de la fracción II del artículo 4o., regulan o restringen temporalmente las importaciones de mercancías idénticas, similares o directamente competidoras a las de producción nacional en la medida necesaria para prevenir o remediar el daño grave a la rama de producción nacional de que se trate y facilitar el ajuste de los productores nacionales."
+        },
+        {
+          "type": "paragraph",
+          "text": "Estas medidas sólo se impondrán cuando se haya constatado que las importaciones han aumentado en tal cantidad, en términos absolutos o en relación con la producción nacional, y se realizan en condiciones tales que causan o amenazan causar un daño grave a la rama de producción nacional de que se trate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las medidas de salvaguarda podrán consistir, entre otras, en aranceles específicos o ad-valorem, permisos previos o cupos, o alguna combinación de los anteriores."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para la determinación de la existencia de daño grave o amenaza de daño grave se entenderá por rama de producción nacional el conjunto de productores nacionales de las mercancías idénticas o similares o directamente competidoras o aquéllos cuya producción conjunta constituya una proporción importante de la producción nacional total de dichas mercancías."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-46",
+      "heading": "Artículo 46",
+      "descriptor": null,
+      "ordinal": "46",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Daño grave es el menoscabo general significativo de una rama de producción nacional."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amenaza de daño grave es la clara inminencia de un daño grave a una rama de producción nacional."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-47",
+      "heading": "Artículo 47",
+      "descriptor": null,
+      "ordinal": "47",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La determinación de daño grave o amenaza de daño grave, de su relación causal con el aumento de las importaciones y el establecimiento de medidas de salvaguarda se realizará a través de una investigación conforme al procedimiento administrativo previsto en esta Ley y sus disposiciones reglamentarias."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando haya factores distintos del aumento de las importaciones que al mismo tiempo causen daño grave a la rama de producción nacional, este daño no se atribuirá al aumento de las importaciones."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-48",
+      "heading": "Artículo 48",
+      "descriptor": null,
+      "ordinal": "48",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para determinar si el aumento de las importaciones ha causado o amenaza causar daño grave a una rama de producción nacional, la Secretaría recabará en lo posible toda la información relevante y evaluará todos los factores pertinentes de carácter objetivo y cuantificable que tengan relación con la situación de la rama de producción nacional de mercancías idénticas, similares o directamente competidoras. Esta información deberá incluir:"
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "El ritmo y la cuantía del aumento de las importaciones del bien en cuestión en términos absolutos o relativos;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "La parte del mercado interno absorbida por las importaciones en aumento;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Los cambios en los niveles de ventas, producción, productividad, utilización de la capacidad instalada, ganancias o pérdidas, empleo y precios, y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Derogado."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción derogada DOF 13-03-2003",
+          "action": "derogado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Otros elementos que la Secretaría considere necesarios."
+        },
+        {
+          "type": "paragraph",
+          "text": "La determinación de amenaza de daño grave se basará en hechos y no simplemente en alegatos, conjeturas o posibilidades remotas."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "TITULO VII PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA"
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación del Título reformada DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO I DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS"
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación del Capítulo reformada DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-49",
+      "heading": "Artículo 49",
+      "descriptor": null,
+      "ordinal": "49",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Los procedimientos de investigación en materia de prácticas desleales de comercio internacional y de medidas de salvaguarda se iniciarán de oficio en circunstancias especiales cuando la Secretaría tenga pruebas suficientes de la discriminación de precios o de subvenciones, del daño y de la relación causal; o a solicitud de parte, conforme a lo establecido en el artículo siguiente."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "En los procedimientos de investigación a que se refiere este título se integrará un expediente administrativo, conforme al cual se expedirán las resoluciones administrativas que correspondan."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-50",
+      "heading": "Artículo 50",
+      "descriptor": null,
+      "ordinal": "50",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La solicitud podrá ser presentada por organizaciones legalmente constituidas, personas físicas o morales productoras:"
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "De mercancías idénticas o similares a aquéllas que se estén importando o pretendan importarse en condiciones de prácticas desleales de comercio internacional, o"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "En el caso de medidas de salvaguarda, de mercancías idénticas, similares o directamente competidoras a aquellas que se estén importando en tal cantidad y en condiciones tales que causen daño grave o amenaza de daño grave a la rama de producción nacional."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "Los solicitantes deberán ser representativos de cuando menos el 25% de la producción total de la mercancía idéntica o similar, o directamente competidora, producida por la rama de producción nacional."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "En la solicitud correspondiente se deberá manifestar por escrito ante la autoridad competente y bajo protesta de decir verdad los argumentos que fundamenten la necesidad de aplicar cuotas compensatorias o medidas de salvaguarda. En dicha solicitud se deberá cumplir con los requisitos establecidos en el reglamento. Los solicitantes tendrán la obligación de acompañar a su escrito los formularios que para tal efecto establezca la Secretaría."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-51",
+      "heading": "Artículo 51",
+      "descriptor": null,
+      "ordinal": "51",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Se considera parte interesada a los productores solicitantes, importadores y exportadores de la mercancía objeto de investigación, así como a las personas morales extranjeras que tengan un interés directo en la investigación de que se trate y aquéllas que tengan tal carácter en los tratados o convenios comerciales internacionales."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los representantes legales de las partes interesadas que comparezcan en los procedimientos de investigación sobre prácticas desleales de comercio internacional y medidas de salvaguarda, requerirán título profesional y cédula en los términos de la legislación mexicana, con excepción de aquellos que pertenezcan al consejo de administración de las mismas o su equivalente, y designar un domicilio convencional para recibir notificaciones en México."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-52",
+      "heading": "Artículo 52",
+      "descriptor": null,
+      "ordinal": "52",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- A partir de la presentación de la solicitud la Secretaría deberá:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Dentro de un plazo de 25 días, aceptar la solicitud y declarar el inicio de la investigación a través de la resolución respectiva; o"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Dentro de un plazo de 17 días, requerir a la solicitante mayores elementos de prueba o datos, los que deberán proporcionarse dentro de un plazo de 20 días contados a partir de la recepción de la prevención. De aportarse satisfactoriamente lo requerido, la Secretaría procederá conforme a lo dispuesto en la fracción anterior. Si no se proporcionan en tiempo y forma los elementos y datos requeridos, se tendrá por abandonada la solicitud y se notificará personalmente al solicitante, o"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Dentro de un plazo de 20 días, desechar la solicitud cuando no se cumpla con los requisitos establecidos en la legislación aplicable, a través de la resolución respectiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría publicará la resolución correspondiente en el Diario Oficial de la Federación, salvo para el caso de desechamiento, y la notificará a las partes interesadas de que tenga conocimiento."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-53",
+      "heading": "Artículo 53",
+      "descriptor": null,
+      "ordinal": "53",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- A partir del día siguiente a aquel en que se publique la resolución de inicio de investigación en el Diario Oficial de la Federación, la Secretaría deberá notificar a las partes interesadas de que tenga conocimiento para que comparezcan a manifestar lo que a su derecho convenga."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "Con la notificación se enviará copia de la solicitud presentada y de los anexos que no contengan información confidencial o, en su caso, de los documentos respectivos tratándose de investigaciones de oficio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se dará a las partes interesadas a quienes se envíen los formularios utilizados en una investigación, un plazo de 23 días para que presenten los argumentos, información y pruebas conforme a lo previsto en la legislación aplicable. Los plazos dados a las partes interesadas se contarán a partir de la fecha de recibo del formulario, el cual a tal efecto se considerará recibido 5 días después de la fecha en que haya sido enviado al destinatario o transmitido al representante diplomático competente del gobierno del país del exportador, o en el caso de un territorio aduanero distinto, a un representante oficial del territorio exportador."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 13-03-2003. Reformado DOF 21-12-2006",
+          "action": "adicionado",
+          "dof_date": "21-12-2006"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-54",
+      "heading": "Artículo 54",
+      "descriptor": null,
+      "ordinal": "54",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría podrá requerir a las partes interesadas los elementos probatorios, información y datos que estime pertinentes, para lo cual se valdrá de formularios que establezca la misma."
+        },
+        {
+          "type": "paragraph",
+          "text": "De no satisfacerse el requerimiento a que se refiere el párrafo anterior, la Secretaría resolverá conforme a la información disponible."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-55",
+      "heading": "Artículo 55",
+      "descriptor": null,
+      "ordinal": "55",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría podrá requerir a los productores, distribuidores o comerciantes de la mercancía de que se trate, así como a los agentes aduanales, mandatarios, apoderados o consignatarios de los importadores, o cualquier otra persona que estime conveniente, la información y datos que tengan a su disposición."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-56",
+      "heading": "Artículo 56",
+      "descriptor": null,
+      "ordinal": "56",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las partes interesadas en una investigación deberán enviar a las otras partes interesadas copias de cada uno de los informes, documentos y medios de prueba que presenten a la autoridad en el curso del procedimiento, salvo la información confidencial a que se refiere el artículo 81."
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO II Procedimiento en materia de prácticas desleales de comercio internacional Sección primera Resolución preliminar"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-57",
+      "heading": "Artículo 57",
+      "descriptor": null,
+      "ordinal": "57",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Dentro de un plazo de 90 días, contados a partir del día siguiente de la publicación de la resolución de inicio de la investigación en el Diario Oficial de la Federación, la Secretaría dictará la resolución preliminar, mediante la cual podrá:"
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Determinar cuota compensatoria provisional, previo el cumplimiento de las formalidades del procedimiento y siempre que hayan transcurrido por lo menos 45 días después de la publicación de la resolución de inicio de la investigación en el Diario Oficial de la Federación;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "No imponer cuota compensatoria provisional y continuar con la investigación administrativa, o"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Dar por concluida la investigación administrativa cuando no existan pruebas suficientes de la discriminación de precios o subvención, del daño alegado o de la relación causal entre ambos."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "La resolución preliminar deberá publicarse en el Diario Oficial de la Federación y posteriormente notificarse a las partes interesadas de que se tenga conocimiento."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sección segunda Resolución final"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-58",
+      "heading": "Artículo 58",
+      "descriptor": null,
+      "ordinal": "58",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Terminada la investigación sobre prácticas desleales de comercio internacional, la Secretaría deberá someter a la opinión de la Comisión el proyecto de resolución final."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-59",
+      "heading": "Artículo 59",
+      "descriptor": null,
+      "ordinal": "59",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Dentro de un plazo de 210 días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación de la resolución de inicio de la investigación, la Secretaría dictará la resolución final. A través de esta resolución, la Secretaría deberá:"
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Imponer cuota compensatoria definitiva;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Revocar la cuota compensatoria provisional, o"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Declarar concluida la investigación sin imponer cuota compensatoria."
+        },
+        {
+          "type": "paragraph",
+          "text": "La resolución final deberá publicarse en el Diario Oficial de la Federación y posteriormente notificarse a las partes interesadas de que se tenga conocimiento."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-60",
+      "heading": "Artículo 60",
+      "descriptor": null,
+      "ordinal": "60",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Derogado"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 22-12-1993. Derogado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sección tercera Audiencia conciliatoria"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-61",
+      "heading": "Artículo 61",
+      "descriptor": null,
+      "ordinal": "61",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En el curso de la investigación administrativa las partes interesadas podrán solicitar a la Secretaría la celebración de una audiencia conciliatoria. En esta audiencia se podrán proponer fórmulas de solución y conclusión de la investigación, las cuales, de resultar procedentes, serán sancionadas por la propia Secretaría e incorporadas en la resolución respectiva que tendrá el carácter de resolución final."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esta resolución deberá notificarse a las partes interesadas y publicarse en el Diario Oficial de la Federación."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sección cuarta Cuotas compensatorias"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-62",
+      "heading": "Artículo 62",
+      "descriptor": null,
+      "ordinal": "62",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Corresponde a la Secretaría determinar las cuotas compensatorias, las cuales serán equivalentes, en el caso de discriminación de precios, a la diferencia entre el valor normal y el precio de exportación; y en el caso de subvenciones, al monto del beneficio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las cuotas compensatorias podrán ser menores al margen de discriminación de precios o al monto de la subvención siempre y cuando sean suficientes para desalentar la importación de mercancías en condiciones de prácticas desleales de comercio internacional."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-63",
+      "heading": "Artículo 63",
+      "descriptor": null,
+      "ordinal": "63",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las cuotas compensatorias serán consideradas como aprovechamientos en los términos del artículo 3o. del Código Fiscal de la Federación."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-64",
+      "heading": "Artículo 64",
+      "descriptor": null,
+      "ordinal": "64",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría calculará márgenes individuales de discriminación de precios o de subvenciones para aquellas productoras extranjeras que aporten la información suficiente para ello; dichos márgenes individuales servirán de base para la determinación de cuotas compensatorias específicas."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría determinará una cuota compensatoria con base en el margen de discriminación de precios o de subvenciones obtenido con base en la mejor información disponible a partir de los hechos de que se tenga conocimiento, en los siguientes casos:"
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 21-12-2006",
+          "action": "reformado",
+          "dof_date": "21-12-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Cuando los productores no comparezcan en la investigación; o"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Cuando los productores no presenten la información requerida en tiempo y forma, entorpezcan significativamente la investigación, o presenten información o pruebas incompletas, incorrectas o que no provengan de sus registros contables, lo cual no permita la determinación de un margen individual de discriminación de precios o de subvenciones; o"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Cuando los productores no hayan realizado exportaciones del producto objeto de investigación durante el período investigado."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se entenderá por los hechos de que se tenga conocimiento, los acreditados mediante las pruebas y datos aportados en tiempo y forma por las partes interesadas, sus coadyuvantes, así como por la información obtenida por la autoridad investigadora."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-65",
+      "heading": "Artículo 65",
+      "descriptor": null,
+      "ordinal": "65",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría de Hacienda y Crédito Público procederá al cobro de las cuotas compensatorias provisionales y definitivas. Dicha dependencia podrá aceptar las garantías constituidas conforme al Código Fiscal de la Federación, tratándose de cuotas compensatorias provisionales."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si en la resolución final se confirma la cuota compensatoria provisional, se requerirá el pago de dicha cuota o, en su defecto, se harán efectivas las garantías que se hubieren otorgado. Si en dicha resolución se modificó o revocó la cuota, se procederá a cancelar o modificar dichas garantías o, en su caso, a devolver, con los intereses correspondientes, las cantidades que se hubieren enterado por dicho concepto o la diferencia respectiva."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-65-a",
+      "heading": "Artículo 65 A",
+      "descriptor": null,
+      "ordinal": "65 A",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "- En el caso de la discriminación de precios que cause daño a la rama de producción nacional, corresponde a la Secretaría determinar la aplicación de una cuota compensatoria definitiva sobre las mercancías sujetas a investigación que se hayan importado durante los tres meses anteriores a la fecha de aplicación de las medidas provisionales cuando en relación con el producto objeto de discriminación de precios investigado, la autoridad determine:"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "a",
+          "text": "Que hay antecedentes de discriminación de precios causante de daño o que el importador sabía o debía haber sabido que el exportador incurría en discriminación de precios y que ésta causaría daño, y"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "b",
+          "text": "Que el daño se deba a importaciones masivas de un producto objeto de discriminación de precios, efectuadas en un periodo relativamente corto y la Secretaría considere que por su temporalidad, su volumen y otras circunstancias (tales como una rápida acumulación de existencias del producto importado), es probable que socaven gravemente el efecto reparador de la cuota compensatoria definitiva que deba aplicarse, a condición de que se haya dado a los importadores interesados la oportunidad de hacer observaciones."
+        },
+        {
+          "type": "paragraph",
+          "text": "En el caso de las subvenciones que causen daño a la rama de producción nacional, cuando respecto del producto subvencionado de que se trate la autoridad investigadora concluya que existe un daño difícilmente reparable, es decir, cuando existan circunstancias críticas, causado por importaciones masivas, efectuadas en un período relativamente corto, de un producto que goza de subvenciones pagadas o concedidas de forma incompatible con las disposiciones aplicables y cuando, para impedir que vuelva a producirse el daño, se estime necesario percibir retroactivamente cuotas compensatorias sobre esas importaciones, corresponde a la Secretaría determinar la aplicación de la cuota compensatoria definitiva a las mercancías que se hayan importado tres meses como máximo antes de la fecha de aplicación de las medidas provisionales."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 21-12-2006",
+          "action": "adicionado",
+          "dof_date": "21-12-2006"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-66",
+      "heading": "Artículo 66",
+      "descriptor": null,
+      "ordinal": "66",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Los importadores de una mercancía idéntica o similar a aquélla por la que deba pagarse una cuota compensatoria provisional o definitiva no estarán obligados a pagarla si prueban que el país de origen o procedencia es distinto al de las mercancías sujetas a cuota compensatoria."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-67",
+      "heading": "Artículo 67",
+      "descriptor": null,
+      "ordinal": "67",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las cuotas compensatorias definitivas estarán vigentes durante el tiempo y en la medida necesarios para contrarrestar el daño a la rama de producción nacional."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-68",
+      "heading": "Artículo 68",
+      "descriptor": null,
+      "ordinal": "68",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las cuotas compensatorias definitivas podrán revisarse anualmente a petición de parte o en cualquier tiempo de oficio por la Secretaría, independientemente de que dichas cuotas se encuentren sujetas a un mecanismo alternativo de solución de controversias o a un procedimiento administrativo o judicial."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 22-12-1993, 13-03-2003, 21-12-2006",
+          "action": "reformado",
+          "dof_date": "22-12-1993"
+        },
+        {
+          "type": "paragraph",
+          "text": "En todo caso, las resoluciones que declaren el inicio y la conclusión de la revisión deberán notificarse a las partes interesadas de que se tenga conocimiento y publicarse en el Diario Oficial de la Federación. En el procedimiento de revisión las partes interesadas tendrán participación y podrán asumir los compromisos a que se refiere el artículo 72 de esta Ley."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "Las resoluciones correspondientes que confirmen, modifiquen o revoquen cuotas compensatorias definitivas tendrán también el carácter de resoluciones finales y se someterán previamente a la opinión de la Comisión."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reforma DOF 21-12-2006: Derogó del artículo el entonces último párrafo (antes adicionado por DOF 13-03-2003)"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-69",
+      "heading": "Artículo 69",
+      "descriptor": null,
+      "ordinal": "69",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Cuando las cuotas compensatorias definitivas se hayan impuesto para contrarrestar la amenaza de daño causada por importaciones en condiciones de discriminación de precios o subvención, la revisión deberá incluir, en su caso, una evaluación de la inversión que sin la cuota compensatoria no hubiera sido factiblemente realizada. La cuota compensatoria podrá ser revocada por la Secretaría en caso de que la inversión proyectada no se haya efectuado."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-70",
+      "heading": "Artículo 70",
+      "descriptor": null,
+      "ordinal": "70",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las cuotas compensatorias definitivas se eliminarán en un plazo de cinco años, contados a partir de su entrada en vigor, a menos que antes de concluir dicho plazo la Secretaría haya iniciado:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Un procedimiento de revisión anual a solicitud de parte interesada o de oficio, en el que se analice tanto la discriminación de precios o monto de las subvenciones, como el daño."
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Un examen de vigencia de cuota compensatoria de oficio, para determinar si la supresión de la cuota compensatoria daría lugar a la continuación o repetición de la práctica desleal."
+        },
+        {
+          "type": "paragraph",
+          "text": "En caso de que no se haya iniciado alguno de estos procedimientos, la Secretaría deberá publicar en el Diario Oficial de la Federación un aviso sobre la eliminación de dicha cuota, el cual deberá notificar a las partes interesadas de que tenga conocimiento."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-70-a",
+      "heading": "Artículo 70 A",
+      "descriptor": null,
+      "ordinal": "70 A",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "- La Secretaría publicará en el Diario Oficial de la Federación un aviso sobre la próxima expiración de la vigencia de cuotas compensatorias, al menos 45 días anteriores a su vencimiento, el cual se deberá notificar a los productores nacionales de que se tenga conocimiento."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-70-b",
+      "heading": "Artículo 70 B",
+      "descriptor": null,
+      "ordinal": "70 B",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "- Para que la Secretaría inicie de oficio un examen de vigencia de cuotas compensatorias, uno o varios productores deberán expresar por escrito a la Secretaría su interés de que se inicie dicho examen, y presentar una propuesta de período de examen de 6 meses a un año comprendido en el tiempo de vigencia de la cuota compensatoria, al menos 25 días antes del término de la vigencia de la misma."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-71",
+      "heading": "Artículo 71",
+      "descriptor": null,
+      "ordinal": "71",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- No están sujetas al pago de cuota compensatoria o medida de salvaguarda, las siguientes mercancías:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Los equipajes de pasajeros en viajes internacionales;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Los menajes de casa pertenecientes a inmigrantes y a nacionales repatriados o deportados, que los mismos hayan usado durante su residencia en el extranjero;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Las que importen los residentes de la franja fronteriza para su consumo personal;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Las que sean donadas para ser destinadas a fines culturales, de enseñanza, de investigación, de salud pública o de servicio social, que importen organismos públicos, así como personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta, siempre que formen parte de su patrimonio, previa autorización de la Secretaría, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Las demás que autorice la Secretaría."
+        },
+        {
+          "type": "paragraph",
+          "text": "En los supuestos de las fracciones I a III se atenderá a lo previsto en la legislación aduanera."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sección quinta Compromisos de exportadores y gobiernos"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-72",
+      "heading": "Artículo 72",
+      "descriptor": null,
+      "ordinal": "72",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Cuando en el curso de una investigación el exportador de la mercancía en condiciones de prácticas desleales de comercio internacional, se comprometa voluntariamente a modificar sus precios o cesar sus exportaciones, o si el gobierno del país exportador elimina o limita la subvención de que se trate, la Secretaría podrá suspender o dar por terminada la investigación sin aplicar cuotas compensatorias. Para ello, la Secretaría deberá evaluar si con dichos compromisos u otros análogos que se asuman se elimina el efecto dañino de la práctica desleal."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría no procederá conforme a lo anterior a menos que haya determinado preliminarmente la existencia de la práctica desleal."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-73",
+      "heading": "Artículo 73",
+      "descriptor": null,
+      "ordinal": "73",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En caso de que la Secretaría acepte el compromiso del exportador o del gobierno interesado, dictará la resolución que proceda, declarando suspendida o terminada la investigación administrativa, la que se notificará a las partes interesadas y se publicará en el Diario Oficial de la Federación. Esta resolución deberá someterse a la opinión de la Comisión previamente a su publicación."
+        },
+        {
+          "type": "paragraph",
+          "text": "El compromiso asumido se incorporará en la resolución correspondiente junto con la opinión de la Comisión, conforme a lo dispuesto en el artículo 6o. de esta Ley."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-74",
+      "heading": "Artículo 74",
+      "descriptor": null,
+      "ordinal": "74",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El cumplimiento de estos compromisos podrá revisarse periódicamente de oficio o a petición de parte. Si como consecuencia de la revisión la Secretaría constata su incumplimiento, se restablecerá la investigación y, en su caso, se impondrá la cuota compensatoria que corresponda sobre la base de los hechos de que se tenga conocimiento mediante publicación en el Diario Oficial de la Federación de la resolución respectiva."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO III Procedimiento en materia de medidas de salvaguarda Fe de erratas a la denominación del Capítulo DOF 25-08-1993 Sección primera Determinación de medidas de salvaguarda"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-75",
+      "heading": "Artículo 75",
+      "descriptor": null,
+      "ordinal": "75",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La determinación de las medidas de salvaguarda deberá hacerse en un plazo no mayor de 210 días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación de la resolución de inicio, y se sujetará a lo dispuesto en los tratados y convenios internacionales de los que México sea parte."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003, 24-01-2006",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-76",
+      "heading": "Artículo 76",
+      "descriptor": null,
+      "ordinal": "76",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Terminada la investigación para la aplicación de medidas de salvaguarda, la Secretaría enviará el proyecto de resolución final a la Comisión para que emita su opinión, previamente a la publicación de dicha resolución."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "La resolución por la que se determinen medidas de salvaguarda se publicará en el Diario Oficial de la Federación, la cual deberá contener todas las cuestiones pertinentes de hecho y de derecho, y demás datos a que se refiere el Reglamento."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-77",
+      "heading": "Artículo 77",
+      "descriptor": null,
+      "ordinal": "77",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La vigencia de las medidas de salvaguarda podrá ser hasta de cuatro años y prorrogable hasta por seis años más, siempre que se justifique la necesidad de la misma, tomando en consideración el cumplimiento del programa de ajuste de la producción nacional."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sección segunda Circunstancias críticas"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-78",
+      "heading": "Artículo 78",
+      "descriptor": null,
+      "ordinal": "78",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Ejecutivo Federal podrá establecer medidas provisionales de salvaguarda en un plazo de 20 días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación del inicio de la investigación, siempre y cuando:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Se presenten circunstancias críticas en las que cualquier demora entrañaría un daño difícilmente reparable, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Cuente con pruebas de que el aumento de las importaciones ha causado o amenazado causar un daño serio."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-79",
+      "heading": "Artículo 79",
+      "descriptor": null,
+      "ordinal": "79",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La duración de las medidas provisionales no excederá de seis meses. En este lapso se cumplirán las disposiciones establecidas en los tratados o convenios internacionales de los que México sea parte. La resolución final que confirme, modifique o revoque las medidas provisionales deberá publicarse dentro de los seis meses posteriores al día siguiente de la publicación en el Diario Oficial de la Federación de la resolución que determine medidas provisionales."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si llegaran a confirmarse o revocarse las medidas provisionales en la resolución final se procederá a hacer efectivo su cumplimiento o, en su caso, a devolver las cantidades, con los intereses correspondientes, que se hubieren enterado por dicho concepto o la diferencia respectiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO IV Otras disposiciones comunes a los procedimientos"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-80",
+      "heading": "Artículo 80",
+      "descriptor": null,
+      "ordinal": "80",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría otorgará a las partes interesadas acceso oportuno para examinar toda la información que obre en el expediente administrativo para la presentación de sus argumentos. La información confidencial sólo estará disponible a los representantes legales acreditados de las partes interesadas, y a las personas físicas o morales que conforme a los tratados o convenios internacionales de los que México sea parte puedan tener acceso a la misma. En cualquier caso se deberá contar con autorización de la Secretaría. La información comercial reservada y la información gubernamental confidencial no estarán a disposición de ninguna de las partes interesadas."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 22-12-1993, 13-03-2003",
+          "action": "reformado",
+          "dof_date": "22-12-1993"
+        },
+        {
+          "type": "paragraph",
+          "text": "Las personas autorizadas para accesar a la información confidencial no podrán utilizarla para beneficio personal y tendrán la obligación de tomar todas las medidas necesarias para evitar cualquier forma de divulgación de la misma. La contravención a este precepto será sancionada por las disposiciones de esta Ley, independientemente de las sanciones de orden civil y penal que procedieran."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "Durante los procedimientos de investigación a que se refiere este título, a petición de las partes interesadas o de sus representantes, la Secretaría dará acceso oportuno a toda la información no confidencial contenida en el expediente administrativo de cualquier otra investigación, una vez transcurridos 60 días de la publicación de la resolución final correspondiente."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-81",
+      "heading": "Artículo 81",
+      "descriptor": null,
+      "ordinal": "81",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En la notificación a que se refiere el artículo 53, la Secretaría comunicará a las partes interesadas la realización de una audiencia pública en la cual podrán comparecer y presentar argumentos en defensa de sus intereses así como, en el caso de medidas de salvaguarda, presentar las pruebas pertinentes. En dicha audiencia las partes interesadas podrán interrogar a las otras partes interesadas."
+        },
+        {
+          "type": "paragraph",
+          "text": "En el caso de investigaciones contra prácticas desleales de comercio internacional, las audiencias se llevarán a cabo después de la publicación de la resolución preliminar y antes de la publicación de la resolución final."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-82",
+      "heading": "Artículo 82",
+      "descriptor": null,
+      "ordinal": "82",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las partes interesadas podrán ofrecer toda clase de pruebas excepto la de confesión de las autoridades, o aquéllas que se consideren contrarias al orden público, a la moral o a las buenas costumbres."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría podrá acordar, en todo tiempo, la práctica, repetición o ampliación de cualquier diligencia probatoria siempre que se estime necesaria y sea conducente para el conocimiento de la verdad sobre los hechos controvertidos. Además, la Secretaría podrá efectuar las diligencias que estime pertinentes para proveer la mejor información."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría abrirá un período de alegatos con posterioridad al período de ofrecimiento de pruebas a efecto de que las partes interesadas expongan sus conclusiones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los acuerdos de la Secretaría por los que se admita alguna prueba no serán recurribles en el curso del procedimiento."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-83",
+      "heading": "Artículo 83",
+      "descriptor": null,
+      "ordinal": "83",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría podrá verificar la información y pruebas presentadas en el curso de la investigación y que obren en el expediente administrativo, previa autorización de las partes interesadas a quienes se determine verificar. Para ello, podrá notificar por escrito la realización de visitas en el domicilio fiscal, establecimiento o lugar donde se encuentre la información correspondiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría podrá llevar a cabo los procedimientos que juzgue pertinentes a fin de constatar que dicha información y pruebas sean correctas, completas y provengan de sus registros contables, así como cotejar los documentos que obren en el expediente administrativo o efectuar las compulsas que fueren necesarias."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tratándose de personas físicas o morales no obligadas a llevar registros contables conforme a la legislación de la materia, las mismas deberán acreditar fehacientemente lo anterior, a juicio de la Secretaría."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si como resultado de la visita la Secretaría encuentra que la información presentada en el curso de la investigación por la persona física o moral verificada, no es correcta o completa o no corresponde a sus registros contables, la Secretaría procederá conforme al artículo 64 de esta Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las visitas de verificación a personas domiciliadas en el extranjero se realizarán previa notificación al gobierno del país de que se trate, a condición de que dicho gobierno no se oponga a la visita de verificación."
+        },
+        {
+          "type": "paragraph",
+          "text": "De no aceptarse la visita de verificación, la Secretaría actuará con base en los hechos de que tenga conocimiento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las visitas de verificación que realice la Secretaría deberán efectuarse en días y horas hábiles por personal designado por la propia dependencia. Sin embargo, también podrán efectuarse en días y horas inhábiles cuando así fuese necesario, en cuyo caso el oficio por el que se haya ordenado la visita expresará la autorización correspondiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "De las visitas deberá levantarse acta circunstanciada en presencia de dos testigos propuestos por el visitado o, en su ausencia o negativa, por la autoridad que practique la diligencia. Estas visitas se sujetarán a las disposiciones del reglamento de esta Ley."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-84",
+      "heading": "Artículo 84",
+      "descriptor": null,
+      "ordinal": "84",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las notificaciones a que se refiere esta Ley se harán a la parte interesada o a su representante en su domicilio de manera personal, a través de correo certificado con acuse de recibo o por cualquier otro medio directo, como el de mensajería especializada o a través de medios electrónicos o de cualquier otra tecnología. Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueren hechas. El reglamento establecerá la forma y términos en que se realizarán las notificaciones."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-85",
+      "heading": "Artículo 85",
+      "descriptor": null,
+      "ordinal": "85",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- A falta de disposición expresa en esta Ley en lo concerniente a los procedimientos administrativos en materia de prácticas desleales de comercio internacional y medidas de salvaguarda, se aplicará supletoriamente el Código Fiscal de la Federación, en lo que sea acorde con la naturaleza de estos procedimientos. Esta disposición no se aplicará en lo relativo a notificaciones y visitas de verificación."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-86",
+      "heading": "Artículo 86",
+      "descriptor": null,
+      "ordinal": "86",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Si en el curso de los procedimientos a que se refiere este título, la Secretaría considera que existen elementos que le permitan suponer que alguna de las partes realizó prácticas monopólicas sancionadas en los términos de la ley de la materia, dará vista a la autoridad competente."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-87",
+      "heading": "Artículo 87",
+      "descriptor": null,
+      "ordinal": "87",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las cuotas compensatorias y las medidas de salvaguarda podrán determinarse en cantidad específica o ad-valorem. Si fueren específicas serán calculadas por unidad de medida, debiéndose liquidar en su equivalente en moneda nacional. Si fueren ad-valorem se calcularán en términos porcentuales sobre el valor en aduana de la mercancía."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-88",
+      "heading": "Artículo 88",
+      "descriptor": null,
+      "ordinal": "88",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Al imponer una medida compensatoria o al proponer la aplicación de una medida de salvaguarda la Secretaría proporcionará una defensa oportuna a la producción nacional."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-89",
+      "heading": "Artículo 89",
+      "descriptor": null,
+      "ordinal": "89",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las cuotas compensatorias provisionales y definitivas, así como las medidas de salvaguarda, se aplicarán a partir del día siguiente de su publicación en el Diario Oficial de la Federación."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los importadores o sus consignatarios estarán obligados a calcular en el pedimento de importación correspondiente los montos de las cuotas compensatorias provisionales y definitivas, o de salvaguarda, y a pagarlas, junto con los impuestos al comercio exterior, sin perjuicio de que las cuotas compensatorias provisionales sean garantizadas conforme al artículo 65 y las cuotas compensatorias definitivas conforme a la fracción III del artículo 98."
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO V PROCEDIMIENTOS ESPECIALES"
+        },
+        {
+          "type": "reform_note",
+          "text": "Capítulo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-89-a",
+      "heading": "Artículo 89 A",
+      "descriptor": null,
+      "ordinal": "89 A",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "- Determinada una cuota compensatoria definitiva, las partes interesadas podrán solicitar a la Secretaría que resuelva si una mercancía está sujeta a dicha cuota compensatoria; de ser procedente la solicitud dará inicio a un procedimiento de cobertura de producto dentro de los 20 días siguientes a la presentación de la misma; y emitirá la resolución final dentro de los 60 días contados a partir de su inicio. Estas resoluciones deberán publicarse en el Diario Oficial de la Federación."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-89-b",
+      "heading": "Artículo 89 B",
+      "descriptor": null,
+      "ordinal": "89 B",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "- Se considera elusión de cuotas compensatorias o de medidas de salvaguarda, lo siguiente:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "La introducción a territorio nacional de insumos, piezas o componentes con objeto de producir o realizar operaciones de montaje de la mercancía sujeta a cuota compensatoria o medida de salvaguarda;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "La introducción a territorio nacional de mercancías sujetas a cuota compensatoria o medidas de salvaguarda con insumos, piezas o componentes integrados o ensamblados en un tercer país;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "La introducción a territorio nacional de mercancías del mismo país de origen que la mercancía sujeta a cuota compensatoria o medida de salvaguarda, con diferencias relativamente menores con respecto a éstas;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "La introducción a territorio nacional de mercancías sujetas a cuota compensatoria o medida de salvaguarda, importadas con una cuota compensatoria o medida de salvaguarda menor a la que le corresponde; o"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Cualquier otra conducta que tenga como resultado el incumplimiento del pago de la cuota compensatoria o de la medida de salvaguarda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las mercancías que se importen en estas condiciones pagarán la cuota compensatoria o se sujetarán a la medida de salvaguarda correspondiente. La elusión de cuotas compensatorias o medidas de salvaguarda, preliminares o definitivas, se determinará mediante un procedimiento iniciado de oficio o a solicitud de parte interesada."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-89-c",
+      "heading": "Artículo 89 C",
+      "descriptor": null,
+      "ordinal": "89 C",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "- Las partes interesadas podrán solicitar a la Secretaría, en cualquier tiempo, que aclare o precise determinado aspecto de las resoluciones por las que se impongan cuotas compensatorias definitivas."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-89-d",
+      "heading": "Artículo 89 D",
+      "descriptor": null,
+      "ordinal": "89 D",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "- Los productores cuyas mercancías estén sujetas a una cuota compensatoria definitiva y que no hayan realizado exportaciones de esas mercancías durante el período investigado en el procedimiento que dio lugar a la cuota compensatoria de que se trate, podrán solicitar a la Secretaría el inicio de un procedimiento para nuevos exportadores a efecto de que ésta se pronuncie sobre los márgenes individuales de discriminación de precios, siempre que:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Hayan efectuado operaciones de exportación al territorio nacional de la mercancía objeto de cuotas compensatorias con posterioridad al período investigado en el procedimiento que dio lugar a la cuota compensatoria de que se trate, y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 21-12-2006",
+          "action": "reformado",
+          "dof_date": "21-12-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Demuestren que no tienen vinculación alguna con los productores o exportadores del país exportador a quienes se les haya determinado cuota compensatoria específica."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-89-e",
+      "heading": "Artículo 89 E",
+      "descriptor": null,
+      "ordinal": "89 E",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "- A solicitud de parte interesada, la Secretaría le aplicará las resoluciones firmes dictadas como consecuencia de un recurso de revocación, de un juicio de nulidad o de una resolución de la Secretaría por la que se dé cumplimiento a un laudo emitido por un mecanismo alternativo de solución de controversias, siempre que esa parte interesada se encuentre en el mismo supuesto jurídico que aquella que obtuvo la resolución favorable."
+        },
+        {
+          "type": "paragraph",
+          "text": "La parte interesada deberá formular su solicitud dentro de los 30 días siguientes contados a partir de que la resolución respectiva quede firme."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-89-f",
+      "heading": "Artículo 89 F",
+      "descriptor": null,
+      "ordinal": "89 F",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "- La Secretaría publicará en el Diario Oficial de la Federación el inicio del examen de vigencia de cuota compensatoria y notificará a las partes de que tenga conocimiento, para que en un plazo de 28 días contados a partir del día siguiente de su publicación en dicho órgano informativo, manifiesten lo que a su derecho convenga."
+        },
+        {
+          "type": "paragraph",
+          "text": "Transcurrido este plazo, las partes contarán con 8 días para presentar contraargumentaciones o réplicas a lo manifestado."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las empresas productoras nacionales, exportadoras e importadoras que tengan interés jurídico en el resultado del examen, deberán presentar la información necesaria que permita a la autoridad determinar si de eliminarse la cuota compensatoria se repetiría o continuaría la discriminación de precios o la subvención, y el daño."
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Dentro de los 100 días posteriores al inicio de la investigación, la Secretaría notificará a las partes interesadas de que tenga conocimiento la apertura de un segundo período probatorio de 28 días, a efecto de que presenten los argumentos y pruebas que a su derecho convenga."
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Antes de emitir una resolución final, la Secretaría podrá realizar las visitas de verificación que considere conveniente; celebrará una audiencia pública y otorgará a las partes un plazo para presentar alegatos."
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Terminado el procedimiento de examen, la Secretaría someterá a la opinión de la Comisión de Comercio Exterior el proyecto de resolución final."
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "La Secretaría dictará la resolución final dentro de un plazo máximo de 220 días contados a partir del día siguiente al de la publicación de la resolución de inicio del examen en el Diario Oficial de la Federación, mediante la cual podrá: a. Determinar la continuación de la vigencia de la cuota compensatoria por cinco años adicionales contados a partir de la fecha de vencimiento. En esta determinación la Secretaría podrá modificar el monto de la cuota compensatoria. b. Eliminar la cuota compensatoria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Durante el tiempo que dure el examen de vigencia continuará el pago de cuotas compensatorias."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "TITULO VIII PROMOCION DE EXPORTACIONES CAPITULO I Disposiciones generales"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-90",
+      "heading": "Artículo 90",
+      "descriptor": null,
+      "ordinal": "90",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La promoción de las exportaciones tendrá como objetivo la consolidación y la mejoría cuantitativa y cualitativa de las exportaciones de productos manufacturados, agroindustriales, servicios y tecnología mexicanos en los mercados internacionales. Para ello se concertarán programas anuales con los organismos representativos de sectores productivos a fin de realizar una eficaz asignación de recursos."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "paragraph",
+          "text": "Las actividades de promoción de exportaciones buscarán:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Aprovechar los logros alcanzados en negociaciones comerciales internacionales;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Facilitar proyectos de exportación, con prioridad en el apoyo a la micro, pequeña y mediana empresa;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Contribuir a resolver los problemas que enfrentan las empresas para concurrir a los mercados internacionales y establecer un programa permanente de desregulación y simplificación administrativa en materia de exportaciones, incluyendo aquellos derivados de los mecanismos de solución de controversias previstos en los tratados internacionales de los que México sea parte;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Proporcionar de manera expedita los servicios de apoyo del comercio exterior y los beneficios que los programas oficiales de fomento a las exportaciones establezcan, y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Las demás acciones que señalen expresamente otras leyes o reglamentos."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría podrá diseñar, mediante acuerdos publicados en el Diario Oficial de la Federación, mecanismos de coordinación de las actividades de promoción. La coordinación de la promoción tendrá por objeto establecer lineamientos generales para el eficaz desempeño, seguimiento y evaluación de las actividades de promoción de exportaciones."
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO II Instrumentos de promoción"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-91",
+      "heading": "Artículo 91",
+      "descriptor": null,
+      "ordinal": "91",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Ejecutivo Federal, por conducto de la Secretaría, establecerá las medidas y los mecanismos necesarios para la aplicación de los programas e instrumentos de comercio exterior, por lo que en coordinación con las dependencias competentes, deberá establecer mediante decretos, programas de promoción vinculados a la infraestructura, capacitación, coordinación, organización, financiamiento, administración fiscal y aduanera y modernización de mecanismos de comercio exterior, siempre y cuando se trate de prácticas internacionalmente aceptadas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Asimismo, la Secretaría deberá establecer mediante acuerdos, aquellas medidas necesarias para la aplicación de los programas e instrumentos citados en el párrafo anterior."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 13-03-2003, 24-01-2006",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-92",
+      "heading": "Artículo 92",
+      "descriptor": null,
+      "ordinal": "92",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Premio Nacional de Exportación tendrá por objeto reconocer anualmente el esfuerzo de los exportadores nacionales y de las instituciones que apoyen la actividad exportadora. El procedimiento para la selección de los ganadores del premio, las diferentes categorías del mismo, la forma de usarlo y las demás disposiciones relacionadas con el mismo se establecerán en el reglamento."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "paragraph",
+          "text": "TITULO IX INFRACCIONES, SANCIONES Y RECURSOS CAPITULO I Infracciones y sanciones administrativas"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-93",
+      "heading": "Artículo 93",
+      "descriptor": null,
+      "ordinal": "93",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Corresponde a la Secretaría sancionar las siguientes infracciones:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Falsificar datos o documentos, así como omitirlos o alterarlos con intención fraudulenta o por negligencia grave en materia de comprobación de origen, permisos previos, cupos y marcado de origen, con multa equivalente a dos tantos del valor de la mercancía exportada o importada y, a falta de este dato, por el importe de dos tantos del valor de la mercancía consignado en el documento correspondiente;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Destinar la mercancía importada a un fin distinto a aquél para el cual se expidió el permiso de importación, en los casos en los cuales se haya establecido este requisito, con multa de dos tantos del valor de la mercancía importada;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Proporcionar datos o documentos falsos u omitir los reales o alterarlos para obtener la aplicación del régimen de cuotas compensatorias o medidas de salvaguarda, con multa hasta por el valor de la mercancía importada en el período de investigación de que se trate;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Omitir la presentación a la Secretaría de los documentos o informes en los casos a los que se refiere el artículo 55 dentro del plazo señalado en el requerimiento respectivo, con multa de 180 veces el salario mínimo;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Derogada;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 13-03-2003. Derogada DOF 21-12-2006",
+          "action": "reformado",
+          "dof_date": "21-12-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Divulgar información confidencial o utilizar ésta para beneficio personal, en los términos del artículo 80 de esta Ley o, en relación a los mecanismos de solución de controversias establecidos en los tratados o convenios internacionales de los que México sea parte, con multa proporcional al perjuicio que se ocasione o al beneficio que se obtenga por la divulgación o uso de dicha información."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para los efectos de este artículo, se entenderá por salario mínimo el general diario vigente en el Distrito Federal al momento de cometerse la infracción."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para la aplicación de la multa a que se refiere la fracción VI de este artículo, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, así como los antecedentes, circunstancias personales y situación económica del infractor."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 21-12-2006",
+          "action": "reformado",
+          "dof_date": "21-12-2006"
+        },
+        {
+          "type": "paragraph",
+          "text": "Las multas a que se refiere este artículo se impondrán independientemente de las sanciones penales y civiles que corresponda, en los términos de legislación aplicable. Para la imposición de las multas se deberá oír previamente al presunto infractor."
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO II Recurso de revocación"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-94",
+      "heading": "Artículo 94",
+      "descriptor": null,
+      "ordinal": "94",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El recurso administrativo de revocación podrá ser interpuesto contra las resoluciones:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "En materia de marcado de país de origen o que nieguen permisos previos o la participación en cupos de exportación o importación;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "En materia de certificación de origen;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Que declaren abandonada o desechada la solicitud de inicio de los procedimientos de investigación a que se refieren las fracciones II y III del artículo 52;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Que declaren concluida la investigación sin imponer cuota compensatoria a que se refieren la fracción III del artículo 57 y la fracción III del artículo 59;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Que determinen cuotas compensatorias definitivas o los actos que las apliquen;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Por las que se responda a las solicitudes de los interesados a que se refiere el Artículo 89 A;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 24-01-2006",
+          "action": "reformado",
+          "dof_date": "24-01-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VII",
+          "text": "Que declaren concluida la investigación a que se refiere el artículo 61;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VIII",
+          "text": "Que desechen o concluyan la solicitud de revisión a que se refiere el artículo 68, así como las que confirmen, modifiquen o revoquen cuotas compensatorias definitivas a que se refiere el mismo artículo;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IX",
+          "text": "Que declaren concluida o terminada la investigación a que se refiere el artículo 73;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 13-03-2003",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "X",
+          "text": "Que declaren concluida la investigación a que se refiere el artículo 89 B;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción adicionada DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XI",
+          "text": "Que concluyan la investigación a que se refiere la fracción IV del artículo 89 F, y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción adicionada DOF 13-03-2003",
+          "action": "adicionado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "XII",
+          "text": "Que impongan las sanciones a que se refiere esta Ley."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 13-03-2003 (se recorre)",
+          "action": "reformado",
+          "dof_date": "13-03-2003"
+        },
+        {
+          "type": "paragraph",
+          "text": "Los recursos de revocación contra las resoluciones en materia de certificación de origen y los actos que apliquen cuotas compensatorias definitivas, se impondrán ante la Secretaría de Hacienda y Crédito Público. En los demás casos, el recurso se interpondrá ante la Secretaría."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-95",
+      "heading": "Artículo 95",
+      "descriptor": null,
+      "ordinal": "95",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El recurso a que se refiere este capítulo tiene por objeto revocar, modificar o confirmar la resolución impugnada y los fallos que se dicten contendrán la fijación del acto reclamado, los fundamentos legales en que se apoyen y los puntos de resolución."
+        },
+        {
+          "type": "paragraph",
+          "text": "El recurso de revocación se tramitará y resolverá conforme a lo dispuesto por el Código Fiscal de la Federación, siendo necesario su agotamiento para la procedencia del juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 31-12-2000, 13-03-2003",
+          "action": "reformado",
+          "dof_date": "31-12-2000"
+        },
+        {
+          "type": "paragraph",
+          "text": "Las resoluciones que se dicten al resolver el recurso de revocación o aquellas que lo tengan por no interpuesto, podrán ser impugnadas ante el Tribunal Federal de Justicia Fiscal y Administrativa, mediante juicio que se substanciará conforme a lo dispuesto en el Código Fiscal de la Federación y la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 31-12-2000, 13-03-2003",
+          "action": "reformado",
+          "dof_date": "31-12-2000"
+        },
+        {
+          "type": "paragraph",
+          "text": "Las resoluciones no recurridas dentro del ámbito establecido en el Código Fiscal de la Federación se tendrán por consentidas, y no podrán ser impugnadas ante el Tribunal Federal de Justicia Fiscal y Administrativa."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 31-12-2000, 13-03-2003",
+          "action": "reformado",
+          "dof_date": "31-12-2000"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-96",
+      "heading": "Artículo 96",
+      "descriptor": null,
+      "ordinal": "96",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En relación con el recurso de revocación que se interponga contra las resoluciones y actos a que se refiere la fracción V del artículo 94, se estará a lo dispuesto en el artículo 95 en lo que no se oponga a las siguientes reglas:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Se interpondrá ante la autoridad que haya dictado la resolución, o bien, contra la que lo ejecute, salvo que en el mismo recurso se impugnen ambos, caso en el que deberá interponerse ante la autoridad que determinó las cuotas compensatorias;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Si se impugnan ambos, la resolución del recurso contra la determinación de cuotas compensatorias definitivas será de pronunciamiento previo al correspondiente a los actos de aplicación. La autoridad competente para resolver los primeros enviará copia de la resolución a la autoridad facultada para resolver los segundos. En caso de que se modifique o revoque la determinación de las cuotas compensatorias definitivas, quedará sin materia el recurso interpuesto contra los actos de aplicación de dichas cuotas, sin perjuicio de que el interesado interponga recurso contra el nuevo acto de aplicación;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Si se interponen recursos sucesivos contra la resolución que determinó la cuota compensatoria y contra los actos de aplicación, se suspenderá la tramitación de estos últimos. El recurrente estará obligado a dar aviso de la situación a las autoridades competentes para conocer y resolver dichos recursos. La suspensión podrá decretarse aun de oficio cuando la autoridad tenga conocimiento por cualquier causa de esta situación, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Cuando se interponga el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa, impugnando la resolución dictada al resolver el recurso de revocación interpuesto contra la determinación de la cuota compensatoria definitiva, impugne posteriormente también la resolución que se dicte al resolver el recurso contra los actos de aplicación, deberá ampliar la demanda inicial dentro del término correspondiente para formular esta última impugnación."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 31-12-2000, 13-03-2003",
+          "action": "reformado",
+          "dof_date": "31-12-2000"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-97",
+      "heading": "Artículo 97",
+      "descriptor": null,
+      "ordinal": "97",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En relación a las resoluciones y actos a que se refieren las fracciones IV, V, VI y VIII del Artículo 94, cualquier parte interesada podrá optar por acudir a los mecanismos alternativos de solución de controversias en materia de prácticas desleales contenidos en tratados comerciales internacionales de los que México sea parte. De optarse por tales mecanismos:"
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 22-12-1993",
+          "action": "reformado",
+          "dof_date": "22-12-1993"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "No procederá el recurso de revocación previsto en el artículo 94 ni el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa contra dichas resoluciones, ni contra la resolución de la Secretaría dictada como consecuencia de la decisión que emane de dichos mecanismos alternativos, y se entenderá que la parte interesada que ejerza la opción acepta la resolución que resulte del mecanismo alternativo de solución de controversias;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 22-12-1993, 31-12-2000, 13-03-2003",
+          "action": "reformado",
+          "dof_date": "22-12-1993"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Sólo se considerará como final la resolución de la Secretaría dictada como consecuencia de la decisión que emane de los mecanismos alternativos. Las partes interesadas que acudan a un mecanismo alternativo de solución de controversias o, en su caso, las partes interesadas sujetas al pago de cuota compensatoria que podría modificarse en virtud de tal mecanismo, podrán garantizar las cuotas compensatorias definitivas en los términos de la fracción III del artículo 98 de esta Ley. Asimismo, en caso de que la cuota compensatoria determinada en las revisiones administrativas sea menor que la vigente al momento en que se inicie el mecanismo alternativo de solución de controversias, deberán garantizar o pagar la diferencia entre dichas cuotas en tanto dicho mecanismo no se resuelva de forma definitiva, y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 21-12-2006",
+          "action": "reformado",
+          "dof_date": "21-12-2006"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Se observará lo establecido en el artículo 51 de la Ley Federal de Procedimiento Contencioso Administrativo."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 21-12-2006",
+          "action": "reformado",
+          "dof_date": "21-12-2006"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-98",
+      "heading": "Artículo 98",
+      "descriptor": null,
+      "ordinal": "98",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Además de lo dispuesto en los Artículos 96 y 97, los recursos relacionados con las resoluciones a que se alude en las fracciones IV, V, VI y VIII del Artículo 94, se sujetarán a las siguientes reglas:"
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 22-12-1993",
+          "action": "reformado",
+          "dof_date": "22-12-1993"
+        },
+        {
+          "type": "paragraph",
+          "text": "I.- Cuando dichas resoluciones sean recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados internacionales, el plazo para interponer el recurso de revocación no empezará a correr sino hasta que haya transcurrido el previsto en el tratado internacional de que se trate para interponer el mecanismo alternativo de solución de controversias;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 22-12-1993",
+          "action": "reformado",
+          "dof_date": "22-12-1993"
+        },
+        {
+          "type": "paragraph",
+          "text": "II.- Cuando dichas resoluciones sean recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados internacionales, el recurrente que opte por el recurso de revocación deberá cumplir, además, con las formalidades previstas en el tratado internacional de que se trate; y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 22-12-1993",
+          "action": "reformado",
+          "dof_date": "22-12-1993"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Las partes interesadas que acudan al recurso de revocación, al juicio de nulidad ante el Tribunal Federal de Justicia Fiscal y Administrativa o a los mecanismos alternativos de solución de controversias a que se refiere esta Ley, podrán garantizar el pago de las cuotas compensatorias definitivas, en los términos del Código Fiscal de la Federación, siempre que la forma de garantía correspondiente sea aceptada por la Secretaría de Hacienda y Crédito Público."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 31-12-2000, 13-03-2003",
+          "action": "reformado",
+          "dof_date": "31-12-2000"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley Reglamentaria del Artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en Materia de Comercio Exterior, publicada en el Diario Oficial de la Federación el 13 de enero de 1986, la Ley que Establece el Régimen de Exportación del Oro, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980 y las demás disposiciones u ordenamientos que se le opongan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor el Reglamento contra Prácticas Desleales de Comercio Internacional, el Reglamento Sobre Permisos de Importación y Exportación de Mercancías Sujetas a Restricciones, el Decreto que establece la Organización y Funciones de la Comisión de Aranceles y Controles al Comercio Exterior, el Decreto por el que se establece el Premio Nacional de Exportación y las demás disposiciones expedidas con anterioridad en todo lo que no se le opongan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos administrativos a que se refiere este ordenamiento que se encuentren en trámite al momento de su entrada en vigor, se resolverán en los términos de la Ley Reglamentaria del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en materia de Comercio Exterior."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 13 de julio de 1993.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Romeo Flores Leal, Presidente.- Sen. Ramón Serrano Ahumada, Secretario.- Dip. Luis Moreno Bustamante, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA FE de erratas a la Ley de Comercio Exterior, publicada el 27 de julio de 1993."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicada en el Diario Oficial de la Federación el 25 de agosto de 1993 Página 60, primera columna, renglón 20, dice:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Procedimiento en materia de salvaguarda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Debe decir:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Procedimiento en materia de medidas de salvaguarda."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO que reforma, adiciona y deroga disposiciones de diversas leyes relacionadas con el Tratado de Libre Comercio de América del Norte."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 22 de diciembre de 1993 ARTICULO PRIMERO.- Se reforman los artículos 60, 68 primer párrafo, 80 primer párrafo, 97 primer párrafo y fracción I y 98 primer párrafo y fracciones I y II de la Ley de Comercio Exterior, para quedar como sigue: .........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el 1o. de enero de 1994."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La reforma al inciso (b) de la fracción I del Artículo 52 del Código Fiscal de la Federación, entrará en vigor el 1o. de enero de 1996."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que se realicen a partir de la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La ampliación del plazo de protección de los derechos de propiedad intelectual a que se refiere la fracción I del Artículo 23 de la Ley Federal de Derechos de Autor que se reforma, será aplicable a aquellos derechos que no hayan ingresado al régimen de dominio público a la fecha en que el presente Decreto entre en vigor."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Eduardo Robledo Rincón, Presidente.- Dip. Juan Adrián Ramírez García, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas disposiciones fiscales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000 Disposiciones Transitorias de la Ley Orgánica del Tribunal Fiscal de la Federación"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-decimo-primer",
+          "heading": "Artículo Décimo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Décimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En relación con las modificaciones a que se refiere el Artículo Décimo de este Decreto, se estará a lo siguiente:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La reforma al artículo 28 de la Ley Orgánica del Tribunal Fiscal de la Federación, entrará en vigor el 1o. de febrero de 2001."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Para los efectos del artículo 31 de la Ley Orgánica del Tribunal Fiscal de la Federación, las demandas presentadas antes del 1o. de enero de 2001, serán competencia de la Sala Regional que corresponda, de conformidad con el citado artículo 31, vigente hasta el 31 de diciembre de 2000."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Se reforma la denominación del Tribunal Fiscal de la Federación por la de Tribunal Federal de Justicia Fiscal y Administrativa. En consecuencia, se reforma la Ley Orgánica del Tribunal Fiscal de la Federación tanto en su título como en sus disposiciones, así como en todas aquellas contenidas en el Código Fiscal de la Federación y en las demás leyes fiscales y administrativas federales, en las que se cite al Tribunal Fiscal de la Federación, para sustituir ese nombre por el de Tribunal Federal de Justicia Fiscal y Administrativa."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el 1o. de enero de 2001."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 28 de diciembre de 2000.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ricardo Francisco García Cervantes, Presidente.- Sen. Yolanda González Hernández, Secretario.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Manuel Medellín Milán, Secretario.- Rúbricas\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de dos mil.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Comercio Exterior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 13 de marzo de 2003 ARTICULO UNICO: Se REFORMAN los artículos; 28; 29; 31, párrafo segundo y fracción I; 32, en su párrafo segundo; 35; 36; 37; la denominación del Capítulo IV del Título V; 39; 40; 41; 42; 43; 44; 45; 46; 47, párrafo primero; 48, párrafo primero, así como las fracciones I a III; nombre del Capítulo I del Título VII; 49, primer párrafo; 50, el párrafo primero y su fracción II, así como el párrafo segundo; 52; 53, párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "primero",
+          "descriptor": null,
+          "ordinal": "primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "; 57, el párrafo primero, la fracción III y el segundo párrafo; 59 párrafos primero y segundo; 64; 66; 67; 68, párrafo primero; 70; 71; 74; 75; 76, párrafo primero; 77; 80, párrafos primero y segundo; 83; 86; 88; 90, primer párrafo y del segundo párrafo la fracción III; 91; 93, fracciones III y V; 94, fracción IX; 95, párrafos segundo, tercero y cuarto; 96 fracción IV; 97, fracción I; 98, fracción III; se ADICIONAN un tercer párrafo al artículo 23; un párrafo segundo al artículo 33; las fracciones I a III al párrafo primero y un tercer párrafo al artículo 39; un penúltimo párrafo al artículo 42; las fracciones I y II al párrafo primero y un párrafo segundo al artículo 44; un párrafo cuarto al artículo 45; un párrafo segundo al artículo 47; un último párrafo al artículo 48; un párrafo segundo al artículo 51; un párrafo tercero al artículo 53; un párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "segundo",
+          "descriptor": null,
+          "ordinal": "segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ", con las fracciones I a III, así como un último párrafo al artículo 64; un segundo párrafo, recorriéndose el actual párrafo segundo para pasar a ser el tercer párrafo, así como un último párrafo, al artículo 68; las fracciones I y II al primer párrafo y un último párrafo al artículo 70; el artículo 70 A; el artículo 70 B; las fracciones I a V al primer párrafo, así como un último párrafo al artículo 71; un párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "segundo",
+          "descriptor": null,
+          "ordinal": "segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "al artículo 72; los párrafos segundo, tercero, cuarto y quinto al artículo 83, pasando los actuales párrafos segundo, tercero y cuarto a ser los respectivos párrafos sexto, séptimo y octavo de dicho artículo; un Capítulo V denominado “Procedimientos Especiales” al Título VII, que comprende del artículo 89A al 89F; y las fracciones X y XI al artículo 94, pasando la actual fracción X a ser la fracción XII; y se DEROGAN la fracción IV del artículo 48; y el artículo 60; todos ellos de la LEY DE COMERCIO EXTERIOR, para quedar como sigue: .........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación, y será aplicable a la totalidad de las importaciones, independientemente de su origen y procedencia, incluidas las de Estados Unidos de América y Canadá."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las disposiciones del Reglamento de la Ley de Comercio Exterior publicado en el Diario Oficial de la Federación el 30 de diciembre de 1993, continuarán aplicándose en todo lo que no se oponga al presente Decreto, hasta en tanto se expidan las reformas correspondientes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley de Comercio Exterior publicada en el Diario Oficial de la Federación el 27 de julio de 1993."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal en la esfera de sus atribuciones, establecerá un sistema de alerta oportuna para informar al Congreso de la Unión periódicamente sobre la importación de mercancías vulnerables."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 15 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Enrique Jackson Ramírez, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Sara I."
+            },
+            {
+              "type": "paragraph",
+              "text": "Castellanos Cortés, Secretario.- Rúbricas\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de marzo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Comercio Exterior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 24 de enero de 2006"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se Reforman los Artículos 1, 2; 3; el nombre del Título Segundo y de su Capítulo II; las fracciones II, VIII, IX y XI del Artículo 5; Artículos 6; 7; 75; 84; 90; 91; 92 y la fracción VI del Artículo 94; y se Adicionan una fracción VII al Artículo 4; una fracción XII al Artículo 5, para que la actual pase a ser XIII; un segundo párrafo al Artículo 6; un Artículo 17 A; un Artículo 20 A, a la Ley de Comercio Exterior, para quedar como sigue: .........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "Artículo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para efectos de lo dispuesto por la fracción VII, del artículo 4o. de esta Ley, las Dependencias y Entidades de la Administración Pública Federal que administren o controlen una restricción o regulación no arancelaría, deberán desarrollar en un plazo no mayor a 12 meses, contados a partir de la entrada en vigor del presente Decreto, un plan de trabajo en el que establecerán responsables, metas, plazos comprometidos y además acciones necesarias para interconectarse electrónicamente con la Secretaría de Economía y con la Secretaría de Hacienda y Crédito Público."
+            },
+            {
+              "type": "paragraph",
+              "text": "Asimismo se establecerá la interconexión electrónica con las entidades prevalidadoras autorizadas en términos de lo dispuesto por el artículo 16-A de la Ley Aduanera, a fin de que el agente o apoderado aduanal estén en posibilidades de verificar el cumplimiento con las restricciones o regulaciones no arancelarias que correspondan."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 14 de diciembre de 2005.- Sen. Enrique Jackson Ramírez, Presidente.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Heliodoro Díaz Escárraga, Presidente.- Sen. Sara Isabel Castellanos Cortés, Secretaria.- Dip. Ma."
+            },
+            {
+              "type": "paragraph",
+              "text": "Sara Rocha Medina, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de enero de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Comercio Exterior."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2006"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 53, último párrafo; 64, segundo párrafo en su encabezado; 68, primer párrafo; 89 D, fracción I; 93, penúltimo párrafo; y 97, fracciones II y III; se adiciona el artículo 65 A; y se derogan los artículos 68, último párrafo y 93, fracción V, de la Ley de Comercio Exterior, para quedar como sigue: .........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación, y será aplicable a la totalidad de las importaciones, independientemente de su origen y procedencia, incluidas las de Estados Unidos de América y Canadá."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las disposiciones del Reglamento de la Ley de Comercio Exterior publicado en el Diario Oficial de la Federación el 30 de diciembre de 1993, continuarán aplicándose en todo lo que no se oponga al presente Decreto, hasta que se expidan las reformas correspondientes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley de Comercio Exterior publicada en el Diario Oficial de la Federación el 27 de julio de 1993, y de las reformas a dicha ley publicadas en dicho órgano informativo el 13 de marzo de 2003 y 24 de enero de 2006."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 12 de diciembre de 2006.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Jorge Zermeño Infante, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Ma."
+            },
+            {
+              "type": "paragraph",
+              "text": "Mercedez Maciel Ortiz, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

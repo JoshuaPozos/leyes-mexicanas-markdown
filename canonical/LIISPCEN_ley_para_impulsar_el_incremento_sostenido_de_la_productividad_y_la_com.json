@@ -1,0 +1,1289 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LIISPCEN_ley_para_impulsar_el_incremento_sostenido_de_la_productividad_y_la_com",
+  "abbreviation": "LIISPCEN",
+  "name": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+  "catalog_number": "276",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf",
+    "pdf_filename_origen": "LIISPCEN.pdf",
+    "dof_publication": "DOF06/05/2015",
+    "last_reform": "DOF 17/04/2024",
+    "captured_at": "2026-04-09T10:22:58.721538+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "ECONOMÍA NACIONAL LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA ECONOMÍA NACIONAL Nueva Ley publicada en el Diario Oficial de la Federación el 6 de mayo de 2015 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA ECONOMÍA NACIONAL, Y SE ADICIONA UN ARTÍCULO 21 BIS A LA LEY DE PLANEACIÓN."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-primer",
+      "heading": "ARTÍCULO PRIMERO",
+      "descriptor": null,
+      "ordinal": "ARTÍCULO PRIMERO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional."
+        },
+        {
+          "type": "paragraph",
+          "text": "LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA ECONOMÍA NACIONAL"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "CAPÍTULO I",
+      "descriptor": "DISPOSICIONES GENERALES",
+      "ordinal": "I",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-1",
+          "heading": "Artículo 1",
+          "descriptor": null,
+          "ordinal": "1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La presente Ley es de orden público y tiene por objeto reglamentar lo dispuesto en los artículos 25 y 26, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos, para la promoción permanente de la competitividad, el incremento continuo de la productividad, y la implementación de una política nacional de fomento económico que impulse el desarrollo industrial que incluya vertientes sectoriales y regionales."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-2",
+          "heading": "Artículo 2",
+          "descriptor": null,
+          "ordinal": "2",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Ejecutivo Federal implementará los elementos a que se refiere el artículo anterior a través de la formulación e instrumentación de una política nacional de fomento económico, en concertación con los sectores privado y social, así como en coordinación con las entidades federativas, con la participación que corresponda a sus municipios y demarcaciones territoriales de la Ciudad de México y, en su caso, con los órganos autónomos, en el ámbito de sus respectivas competencias."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 17-05-2017",
+              "action": "reformado",
+              "dof_date": "17-05-2017"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-3",
+          "heading": "Artículo 3",
+          "descriptor": null,
+          "ordinal": "3",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Son objetivos específicos de la presente Ley:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Implementar una política nacional de fomento económico dirigida a impulsar el incremento sostenido de la productividad y la competitividad; potenciar la inversión; promover los cambios en la estructura productiva del país hacia sectores económicos de elevada productividad y ECONOMÍA NACIONAL competitividad; fortalecer las cadenas productivas, así como a elevar el contenido tecnológico y de valor agregado en la economía nacional, el desarrollo económico y el empleo formal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Impulsar la concurrencia y concertación de acciones entre los sectores público, social y privado, a través del Comité Nacional de Productividad y demás mecanismos institucionales, que sirvan al incremento sostenido de la productividad y la competitividad como directrices capaces de potenciar un desarrollo económico alto, sostenido y sustentable con una visión de corto, mediano y largo plazos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Articular y coordinar con una óptica transversal, sectorial y regional, el diseño y ejecución de políticas, programas y proyectos orientados a impulsar el incremento sostenido de la productividad y la competitividad de la economía nacional, por parte de los sectores público, social y privado;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Impulsar el aumento de la productividad total de los factores en la economía nacional, así como la de sectores y regiones específicos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Impulsar la creación de empleos formales y de un mayor flujo de capital y financiamiento a proyectos y actividades con potencial de elevado crecimiento productivo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Impulsar la inversión pública, privada y social en infraestructura, capital humano, capacitación laboral, formación de competencias de emprendedores y trabajadores y el establecimiento de mecanismos que fomenten la productividad laboral; el impulso al emprendimiento y al escalamiento productivo y tecnológico de empresas; la investigación y el desarrollo, así como la innovación aplicada;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Impulsar la integración de cadenas productivas de mayor valor agregado, en particular de las MIPYMES con las grandes empresas, tanto nacionales como extranjeras, instaladas en territorio nacional, mediante el establecimiento formal y operativo de núcleos productivos, así como conglomerados empresariales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Promover, apoyar e incentivar que las grandes empresas exportadoras trasladen su proveeduría a empresas instaladas en territorio nacional, impulsando que los proveedores sean MIPYMES organizadas en cadenas productivas, para así lograr una mayor integración y un mayor valor agregado nacionales en bienes y servicios de exportación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Promover que las grandes empresas productivas estatales y las entidades de la Administración Pública Federal incrementen su proveeduría con empresas nacionales, especialmente MIPYMES, sin perjuicio de lo dispuesto en los tratados internacionales de los que el Estado mexicano sea parte;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Fortalecer el mercado interno;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Impulsar la generación de un ambiente de negocios propicio para la creación, operación y crecimiento de un sector privado productivo y competitivo en el ámbito empresarial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Fomentar el incremento sostenido de la productividad y la competitividad como ejes rectores en el diseño y ejecución de las políticas, programas y proyectos a cargo de la Administración Pública Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Evaluar y dar seguimiento a la evolución del crecimiento de la productividad y la competitividad a nivel sectorial, regional y nacional, y ECONOMÍA NACIONAL"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Establecer los mecanismos institucionales y de coordinación, para acordar compromisos e indicadores de desempeño, por parte de las dependencias y entidades, órganos autónomos, entidades federativas, con la participación que corresponda a sus municipios y demarcaciones territoriales de la Ciudad de México, y los representantes de los emprendedores, los trabajadores y las instituciones educativas y de investigación en las que se realice investigación aplicada a la planta productiva, con el fin de materializar y cumplir con los objetivos, estrategias, metas y acciones que se adopten en el marco del Comité Nacional de Productividad."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-05-2017",
+              "action": "reformado",
+              "dof_date": "17-05-2017"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-4",
+          "heading": "Artículo 4",
+          "descriptor": null,
+          "ordinal": "4",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para los efectos de esta Ley, se entenderá por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Comisiones Estatales de Productividad: Las establecidas de conformidad con el artículo 153-Q de la Ley Federal del Trabajo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Comité: El Comité Nacional de Productividad, previsto en el artículo 153-K de la Ley Federal del Trabajo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Competitividad: El conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo, las cuales se sustentarán primordialmente en el incremento sostenido de la productividad total de los factores;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Dependencias: Las Secretarías de Estado, incluyendo a sus respectivos órganos administrativos desconcentrados, la Consejería Jurídica del Ejecutivo Federal, y los órganos reguladores coordinados en materia energética;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Emprendedores: Las mujeres y los hombres con inquietudes empresariales, en proceso de crear, desarrollar o consolidar una micro, pequeña o mediana empresa a partir de una idea emprendedora o innovadora, promoviendo nuevas capacidades tecnológicas y organizacionales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Entidades: Los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos que de conformidad con la Ley Orgánica de la Administración Pública Federal sean considerados entidades paraestatales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Grandes empresas: Las empresas con el potencial de detonar la producción y el empleo, tanto de manera directa como a través de la integración de cadenas de valor en territorio nacional, la subcontratación de servicios y la compra de insumos de otras empresas, en particular de las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "MIPYMES: Las micro, pequeñas y medianas empresas a que se refiere el artículo 3, fracción III de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, así como demás disposiciones aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Núcleo productivo: Grupo de empresas asentadas en una misma zona geográfica y relacionadas a partir de la interconexión de los procesos productivos, de su organización, la tecnología y la innovación aplicada;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Órganos autónomos: Los órganos del Estado mexicano a los que la Constitución Política de los Estados Unidos Mexicanos dote de autonomía;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Políticas de carácter regional: Las que tienen por objeto atender la problemática particular de una región en materia de productividad y competitividad, así como fomentar un elevado ECONOMÍA NACIONAL crecimiento y desarrollo económico sostenible que tienda a reducir las desigualdades entre las distintas regiones del país;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Políticas de carácter sectorial: Las que están dirigidas a promover el desarrollo económico elevado de sectores específicos de la economía nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Políticas de carácter transversal: Las que están orientadas a generar un mayor desarrollo económico en dos o más sectores o regiones de la economía nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Productividad o productividad total de los factores: La relación existente entre la cantidad de bienes y servicios producidos y la cantidad de insumos utilizados, incluyendo trabajo, capital y recursos naturales, de tal manera que a mayor productividad se obtiene una mayor cantidad de producción para un mismo nivel de insumos, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Secretaría: la Secretaría de Hacienda y Crédito Público."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "CAPÍTULO II",
+      "descriptor": "DE LA POLÍTICA NACIONAL DE FOMENTO ECONÓMICO",
+      "ordinal": "II",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-5",
+          "heading": "Artículo 5",
+          "descriptor": null,
+          "ordinal": "5",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Corresponde al Estado la rectoría del desarrollo nacional, y la elaboración y conducción de la política nacional de fomento económico de conformidad con lo dispuesto por el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos y acorde con los objetivos de la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "La política nacional de fomento económico contará con un Programa Especial para la Productividad y la Competitividad, el cual se elaborará en términos de lo previsto en la presente Ley, la Ley de Planeación, el Plan Nacional de Desarrollo y demás disposiciones aplicables."
+            },
+            {
+              "type": "paragraph",
+              "text": "La elaboración del Programa Especial para la Productividad y la Competitividad estará a cargo de la Secretaría, con la participación de la Secretaría de Economía y con la opinión del Comité Nacional de Productividad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-6",
+          "heading": "Artículo 6",
+          "descriptor": null,
+          "ordinal": "6",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La política nacional de fomento económico prevista en el Programa Especial para la Productividad y la Competitividad será de observancia obligatoria para las dependencias y entidades en el ámbito de sus respectivas competencias."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-7",
+          "heading": "Artículo 7",
+          "descriptor": null,
+          "ordinal": "7",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para efecto de la elaboración, implementación y evaluación de sus programas y anteproyectos de presupuesto anual, así como de sus reglas de operación, las dependencias y entidades deberán tomar en consideración, además de los programas derivados del Plan Nacional de Desarrollo, en lo que corresponda, la política nacional de fomento económico prevista en el Programa Especial para la Productividad y la Competitividad, en términos de las disposiciones aplicables."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-8",
+          "heading": "Artículo 8",
+          "descriptor": null,
+          "ordinal": "8",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La política nacional de fomento económico y el Programa Especial para la Productividad y la Competitividad deberán considerar, por lo menos, los aspectos siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Políticas de carácter transversal, que promuevan, entre otros, los objetivos siguientes:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Impulsar la innovación en la planta productiva de la economía nacional, la capacitación de emprendedores y trabajadores y el establecimiento de mecanismos de impulso a la productividad total de los factores, de acuerdo con los estándares internacionales en materia de productividad y competitividad económicas;"
+            },
+            {
+              "type": "paragraph",
+              "text": "ECONOMÍA NACIONAL"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Impulsar las actividades productivas de los emprendedores y de las MIPYMES para elevar su contribución al crecimiento económico nacional;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Canalizar financiamiento a programas y proyectos de inversión que aumenten la productividad y la competitividad, con la participación de las instituciones de banca de desarrollo;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Fortalecer la infraestructura de comunicaciones y transportes, y la conectividad logística en todo el territorio nacional, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Reducir las cargas administrativas y regulatorias que inhiban el desarrollo de actividades productivas, así como el ambiente de negocios;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Políticas de carácter sectorial, que fomenten, entre otros, los objetivos siguientes:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Fomentar la reasignación eficiente de los factores de producción de la economía nacional hacia sectores y actividades de productividad elevada, dinámicos e intensivos en conocimiento y tecnología, así como susceptibles de alcanzar altos niveles de competitividad en los mercados nacionales e internacionales;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Favorecer la constitución de cadenas de valor formadas por grandes empresas y MIPYMES, a efecto de incrementar las capacidades tecnológicas y organizacionales de éstas para ser proveedoras de aquéllas;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Impulsar el crecimiento sostenido y sustentable de la economía nacional a tasas anuales capaces de absorber el empleo demandado e incrementar los ingresos de la población de manera significativa, con el propósito de democratizar la productividad a corto, mediano y largo plazos;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Promover la transformación productiva de sectores de alto empleo y baja productividad;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Fortalecer la innovación aplicada en materia de capacidad tecnológica y organizacional a nivel sectorial, a través de las articulaciones entre empresas, así como entre éstas y las instituciones educativas y de investigación del país, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "Impulsar las capacidades del sector manufacturero y otros sectores productivos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Políticas de carácter regional que impulsen, entre otros, los siguientes objetivos:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Conformar núcleos productivos, considerando las ventajas competitivas que existan en cada región o que puedan crearse;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Consolidar sinergias y cadenas de valor entre las MIPYMES, organizadas en núcleos productivos o entre ellas y las grandes empresas, para incrementar sostenidamente su productividad y competitividad económica;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Desarrollar aquellas regiones que se encuentren en un estado de rezago significativo, mediante la generación de núcleos productivos, con el objetivo de potenciar su productividad, competitividad, desarrollo económico y empleo, para así reducir la desigualdad regional en dichos aspectos;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Identificar regiones económicas estratégicas, en función tanto de sus vocaciones naturales, así como de sus posibles ventajas competitivas dinámicas y sus vocaciones ECONOMÍA NACIONAL potenciales, para lo que habrán de seleccionarse los sectores a desarrollar, polos regionales de desarrollo, grandes empresas, existentes y potenciales, y sus requerimientos, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Promover la innovación aplicada en materia de capacidad tecnológica y organizacional a nivel regional, a través de la articulación de empresas, emprendedores, trabajadores e instituciones educativas y de investigación del país;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "La implementación de las políticas a que hacen referencia las fracciones I, II y III de este artículo, en términos de horizontes de corto, mediano y largo plazos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Instrumentos específicos de ejecución, tales como inversión en infraestructura física, creación de competencias humanas, investigación y desarrollo, innovación e infraestructura digital; compras y obras públicas; desarrollo de proveedores; capital de riesgo y capital semilla con el impulso de las instituciones de banca de desarrollo; capacitación, formación, asesoría y asistencia técnica; mejora regulatoria, y los demás que se establezcan en esta Ley y en las políticas que se deriven de la política nacional de fomento económico, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Indicadores de desempeño, con sus respectivas metas a lograr en el periodo del programa, que permitan evaluar los resultados obtenidos por la implementación de las políticas citadas en las fracciones anteriores."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "CAPÍTULO III",
+      "descriptor": "DEL COMITÉ NACIONAL DE PRODUCTIVIDAD",
+      "ordinal": "III",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-9",
+          "heading": "Artículo 9",
+          "descriptor": null,
+          "ordinal": "9",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Comité Nacional de Productividad funcionará como órgano consultivo y auxiliar del Ejecutivo Federal y de la planta productiva, para la concertación de acuerdos, formulación y seguimiento de la política nacional de fomento económico y del Programa Especial para la Productividad y la Competitividad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los sectores privado y social, incluyendo a los trabajadores y las instituciones educativas y de investigación en las que se realice investigación aplicada a la planta productiva, concurrirán a la formulación e implementación de la política nacional de fomento económico, así como del Programa Especial para la Productividad y la Competitividad, a través del Comité Nacional de Productividad y en términos de lo dispuesto por esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Además de las atribuciones que le confiere la Ley Federal del Trabajo, el Comité Nacional de Productividad tendrá las siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Analizar y concertar visiones, objetivos, estrategias, decisiones y acciones de sus integrantes respecto al incremento sostenido de la productividad y la competitividad; así como del desarrollo económico sostenible y sustentable del país y la generación del empleo a corto, mediano y largo plazos, con el propósito de democratizar la productividad y reducir las desigualdades sociales, sectoriales y regionales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Proponer y concertar objetivos, estrategias, metas, compromisos, acciones e indicadores de desempeño tendientes a incrementar la productividad y la competitividad del país, en especial, de los sectores y regiones económicas seleccionadas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Analizar, cuando se estime conveniente o a solicitud de la persona Titular del Ejecutivo Federal, las políticas, los programas, las reglas de operación, proyectos y cambios regulatorios, para estimular eficazmente el incremento sostenido de la productividad y la competitividad, así como ECONOMÍA NACIONAL el desarrollo industrial sustentable de la economía nacional, de un sector económico específico, o bien, de una región determinada del país, y emitir las recomendaciones que estime pertinentes;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Opinar sobre el Programa Especial para la Productividad y la Competitividad, previamente a su aprobación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Identificar sectores económicos y regiones específicas del territorio nacional que, en su consideración, deban recibir prioridad en la formulación e implementación de políticas, programas, proyectos y cambios regulatorios para potenciar su desarrollo en materia del incremento sostenido de la productividad y competitividad, utilizando el enfoque de derechos humanos, de género, de interseccionalidad e interculturalidad;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Proponer mecanismos para la coordinación de acciones y esfuerzos de los sectores público, privado y social en materia de información, inversiones, producción y demás factores que promuevan el cambio estructural de la economía nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Proponer esquemas de coordinación y suscribir convenios con las dependencias y entidades; entidades federativas, con la participación que corresponda a sus municipios y demarcaciones territoriales de la Ciudad de México; órganos autónomos, y las Comisiones Estatales de Productividad, respecto al diseño, ejecución y evaluación de políticas, programas, reglas de operación, proyectos y cambios regulatorios, necesarios para potenciar la productividad y competitividad de la economía nacional o de un sector o región específicos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-05-2017",
+              "action": "reformado",
+              "dof_date": "17-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Proponer a las dependencias y entidades mecanismos de colaboración para lograr una articulación eficaz entre ellas y del Ejecutivo Federal con los sectores público, social y privado, para efecto del estudio, discusión, propuestas y directrices en la formulación de políticas, programas, reglas de operación, proyectos y regulación dirigidos a impulsar el incremento de la productividad y competitividad de la economía nacional o de un sector o región específicos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Impulsar la colaboración y la asociación tecnológica entre empresas, centros universitarios y de innovación tecnológica, particularmente en los sectores y regiones económicos seleccionados;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Orientar las políticas dirigidas al incremento de la productividad y la competitividad; a la creación y desarrollo de núcleos productivos de MIPYMES, así como su encadenamiento productivo con grandes empresas; al impulso de la proveeduría nacional y de las compras nacionales; al aumento del valor agregado nacional en las exportaciones; al tránsito hacia una economía basada en el conocimiento, y a la creación y fortalecimiento de sistemas sectoriales y regionales de innovación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Proponer mecanismos para el seguimiento y evaluación de las recomendaciones, acuerdos y las matrices de compromisos con indicadores de desempeño en términos del artículo 17 de esta Ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Establecer subcomités encargados del análisis, discusión y elaboración de recomendaciones y otras acciones requeridas para atender temas específicos del ámbito de su competencia considerados como prioritarios; así como subcomités encargados del diseño, elaboración e implementación de las políticas sectoriales y regionales;"
+            },
+            {
+              "type": "paragraph",
+              "text": "ECONOMÍA NACIONAL"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Establecer los convenios y las matrices de compromisos con acciones e indicadores de desempeño a que se refiere el artículo 17 de esta Ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Promover una relación estrecha y constante entre las instituciones de educación media superior y superior y la planta productiva de su región o de ciertos sectores específicos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Aprobar sus lineamientos de operación, así como sus programas de trabajo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Promover la certificación de competencias de las personas trabajadoras;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "paragraph",
+              "text": "XVI Bis. Impulsar la participación laboral de las mujeres y personas jóvenes, en términos del Programa Especial para la Productividad y la Competitividad, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 17-04-2024",
+              "action": "adicionado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "Las demás que le confieran las disposiciones jurídicas aplicables."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Comité Nacional de Productividad estará integrado, cuando menos, por las personas siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La persona Titular del Ejecutivo Federal, en calidad de presidente o presidenta honoraria;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La persona titular de la Secretaría de Hacienda y Crédito Público, quien lo presidirá;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "La persona titular de la Secretaría de Economía;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "La persona titular de la Secretaría de Educación Pública;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "La persona titular de la Secretaría del Trabajo y Previsión Social;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "paragraph",
+              "text": "V Bis. La persona titular del Instituto Mexicano de la Juventud;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 17-04-2024",
+              "action": "adicionado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "paragraph",
+              "text": "V Ter. La persona titular del Instituto Nacional de las Mujeres;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 17-04-2024",
+              "action": "adicionado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "La persona titular de la Dirección General del Consejo Nacional de Humanidades, Ciencias y Tecnologías;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Representantes de organizaciones empresariales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Representantes de organizaciones sindicales de trabajadores, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Representantes de instituciones académicas y de capacitación para el trabajo."
+            },
+            {
+              "type": "paragraph",
+              "text": "La persona Titular del Ejecutivo Federal fijará las bases para determinar la forma de designación de las personas integrantes del Comité a que se refieren las fracciones VII a IX, sujetándose a los principios de representatividad, paridad de género e inclusión en su integración."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "paragraph",
+              "text": "ECONOMÍA NACIONAL Las personas integrantes titulares podrán designar a sus respectivos suplentes. En el caso de las fracciones I a VI, el suplente deberá contar con nivel jerárquico inmediato inferior al de la persona titular."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            },
+            {
+              "type": "paragraph",
+              "text": "La participación de las personas integrantes en el Comité será honorífica."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 17-04-2024",
+              "action": "reformado",
+              "dof_date": "17-04-2024"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-13",
+          "heading": "Artículo 13",
+          "descriptor": null,
+          "ordinal": "13",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Comité sesionará, de forma ordinaria, por lo menos cuatro veces al año, y de forma extraordinaria, cuantas veces sea necesario a solicitud de su Presidente."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Comité sesionará válidamente con la asistencia de la mayoría de sus integrantes y en su funcionamiento se privilegiará el consenso, a falta del mismo los acuerdos se tomarán por mayoría de votos de los miembros presentes, teniendo su Presidente voto de calidad en caso de empate."
+            },
+            {
+              "type": "paragraph",
+              "text": "En lo no previsto en la presente Ley, la organización y funcionamiento del Comité se regularán conforme lo establezca el Titular del Ejecutivo Federal."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv",
+      "heading": "CAPÍTULO IV",
+      "descriptor": "DE LA CONCERTACIÓN, COORDINACIÓN Y RECOMENDACIONES DEL COMITÉ",
+      "ordinal": "IV",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "NACIONAL DE PRODUCTIVIDAD"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-14",
+          "heading": "Artículo 14",
+          "descriptor": null,
+          "ordinal": "14",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Comité, a través de la concertación y coordinación entre sus integrantes, emitirá recomendaciones en términos de esta Ley, las cuales deberán contribuir a alcanzar los objetivos de la política nacional de fomento económico previstos en la misma."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las recomendaciones podrán dirigirse a:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Las dependencias y entidades, de conformidad con sus atribuciones y funciones previstas en la Ley Orgánica de la Administración Pública Federal y las leyes que correspondan, y en los términos de esta Ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Los órganos autónomos, según lo dispuesto en los convenios de coordinación que se suscriban para tal efecto, de conformidad con el artículo 11, fracción VII, de esta Ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Los gobiernos de las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, así como las Comisiones Estatales de Productividad, según lo dispuesto en los convenios de coordinación que se suscriban para tal efecto, de conformidad con el artículo 11, fracción VII, de esta Ley, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-05-2017",
+              "action": "reformado",
+              "dof_date": "17-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Los integrantes de los sectores social y privado."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-15",
+          "heading": "Artículo 15",
+          "descriptor": null,
+          "ordinal": "15",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las recomendaciones dirigidas a las dependencias y entidades únicamente serán vinculantes en los casos siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Cuando se trate de programas y acciones en materia de la política nacional de fomento económico a que se refiere el artículo 8, fracciones I, II y III;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "El Comité haya considerado los aspectos previstos en el artículo 16, fracciones I, II y IV de esta Ley, con la opinión de la dependencia o entidad de que se trate, y ECONOMÍA NACIONAL"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "La recomendación se haya emitido con el voto favorable de cuando menos dos de los integrantes a que se refiere el artículo 12, fracciones II a VI de esta Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las recomendaciones a que se refiere este artículo no podrán tener en ningún caso como objeto las materias relacionadas con ingresos y egresos del Estado, ni comercio exterior."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-16",
+          "heading": "Artículo 16",
+          "descriptor": null,
+          "ordinal": "16",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- En el caso de las recomendaciones distintas a las del artículo anterior que se dirijan a las dependencias y entidades, éstas deberán responder al Comité acerca de su pertinencia en un plazo no mayor a sesenta días naturales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para efecto de lo anterior, la respuesta de las dependencias y entidades competentes deberá abordar, al menos, los aspectos siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La existencia de políticas, programas o acciones que atienden la problemática descrita;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La factibilidad técnica, administrativa, presupuestal y jurídica, para implementar las recomendaciones emitidas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "La aceptación o negativa respecto de la recomendación emitida por el Comité, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "En su caso, la forma y plazos de implementación de la recomendación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-17",
+          "heading": "Artículo 17",
+          "descriptor": null,
+          "ordinal": "17",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Cuando los sujetos señalados en el artículo 14, párrafo segundo, de la presente Ley, acepten las recomendaciones emitidas por el Comité, suscribirán con éste, por conducto de su Presidente a que se refiere el artículo 12, fracción II, de este ordenamiento, los convenios de seguimiento, mismos que incluirán matrices de compromisos que señalen las acciones a realizar e indicadores de desempeño."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las recomendaciones a que se refiere el artículo 15 de esta Ley incluirán las matrices de compromisos y los indicadores de desempeño a que se refiere el párrafo anterior."
+            },
+            {
+              "type": "paragraph",
+              "text": "El incumplimiento de las acciones previstas en las matrices de compromisos se sancionará, según corresponda, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos o con el retiro a los sectores privado o social de los instrumentos específicos de ejecución a que se refiere la fracción V del artículo 8 de esta Ley."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-v",
+      "heading": "CAPÍTULO V",
+      "descriptor": "DEL SEGUIMIENTO Y EVALUACIÓN",
+      "ordinal": "V",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-18",
+          "heading": "Artículo 18",
+          "descriptor": null,
+          "ordinal": "18",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Ejecutivo Federal, a través de la Secretaría, dará seguimiento y evaluará el avance anual de los indicadores en materia de: productividad total de los factores; productividad laboral; informalidad; incremento del valor agregado nacional en las exportaciones; así como aquellos que determine el Comité."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Secretaría de Economía, identificará y comunicará al Comité los principales factores que inhiben la competitividad, a fin de orientar las propuestas de política correspondientes, para lo cual considerará el análisis de indicadores nacionales e internacionales."
+            },
+            {
+              "type": "paragraph",
+              "text": "A fin de analizar el impacto de las acciones de gobierno en el desempeño del país en los indicadores nacionales e internacionales de competitividad, la Secretaría de Economía contribuirá al seguimiento de las estrategias, líneas de acción e indicadores de los programas derivados del Plan Nacional de Desarrollo vinculados a la competitividad."
+            },
+            {
+              "type": "paragraph",
+              "text": "ECONOMÍA NACIONAL Las Secretarías del Trabajo y Previsión Social y de Economía tendrán a su cargo, en términos de lo establecido en los artículos 153-A a 153-X de la Ley Federal del Trabajo, el seguimiento de los programas de capacitación de trabajadores y emprendedores, la formación de competencias y el establecimiento de mecanismos que fomenten la productividad."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Secretaría de Educación Pública tendrá a su cargo el seguimiento de los programas relacionados con el fortalecimiento de la innovación aplicada, a través de las articulaciones entre empresas y las instituciones educativas y de investigación del país; así como, en coordinación con el Consejo Nacional de Ciencia y Tecnología, de los programas relacionados con la innovación y tecnología."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-19",
+          "heading": "Artículo 19",
+          "descriptor": null,
+          "ordinal": "19",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El informe de ejecución del Plan Nacional de Desarrollo al que hace referencia la Ley de Planeación, deberá contemplar el avance de la política nacional de fomento económico prevista en el Programa Especial para la Productividad y la Competitividad."
+            },
+            {
+              "type": "paragraph",
+              "text": "Asimismo, la Secretaría deberá enviar al Congreso de la Unión informes semestrales sobre los avances y resultados de las acciones de la política nacional de fomento económico y del Programa Especial para la Productividad y la Competitividad, a más tardar a los treinta días naturales terminado el semestre correspondiente. Para efecto de lo anterior, las dependencias y entidades deberán remitir la información necesaria a la Secretaría, en los términos y plazos que ésta establezca."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-20",
+          "heading": "Artículo 20",
+          "descriptor": null,
+          "ordinal": "20",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- De conformidad con las disposiciones presupuestarias que regulan el registro de programas y proyectos de inversión en la cartera a que se refiere el artículo 34, fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las dependencias y entidades deberán identificar, cuando así proceda, la vinculación de los programas y proyectos de inversión bajo su responsabilidad con el Programa Especial para la Productividad y la Competitividad, a efecto de impulsar aquellos que incrementen la productividad y la competitividad, particularmente en las regiones con mayores rezagos económicos."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Secretaría identificará anualmente aquellos programas presupuestarios vinculados a los objetivos de la política nacional de fomento económico prevista en el Programa Especial para la Productividad y la Competitividad. Las dependencias y entidades deberán tomar en consideración dichos objetivos para el diseño de indicadores de desempeño de los programas presupuestarios identificados y, en su caso, de sus reglas de operación."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Secretaría, en coordinación con las dependencias y entidades, analizará la complementariedad o duplicidad que pudiese existir entre los programas presupuestarios identificados conforme al párrafo anterior, con el fin de llevar a cabo las acciones que, en su caso, sean necesarias para alcanzar los objetivos de la política nacional de fomento económico y el Programa Especial para la Productividad y la Competitividad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-21",
+          "heading": "Artículo 21",
+          "descriptor": null,
+          "ordinal": "21",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La interpretación de esta Ley para efectos administrativos corresponde a la Secretaría, sin perjuicio de las atribuciones que correspondan a otras dependencias."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-articulo-segund",
+          "heading": "ARTÍCULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Durante la presente Administración del Ejecutivo Federal, la política nacional de fomento económico se implementará a través del Programa para Democratizar la Productividad 2013 – 2018, ECONOMÍA NACIONAL aprobado por Decreto publicado en el Diario Oficial de la Federación el 30 de agosto de 2013, sin perjuicio de que, en su caso, éste pueda modificarse en términos de la Ley de Planeación, previa opinión del Comité Nacional de Productividad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Comité Nacional de Productividad seguirá funcionando conforme a lo dispuesto en el Decreto por el que se establece el Comité Nacional de Productividad, publicado en el Diario Oficial de la Federación el 17 de mayo de 2013, en tanto no se reforme el mismo, salvo en lo que dicho instrumento se oponga a la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las designaciones de los integrantes del Comité Nacional de Productividad que se hayan realizado de conformidad con el Decreto antes señalado, se mantendrán en sus términos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Dentro de un plazo de sesenta días naturales contado a partir de la entrada en vigor del presente Decreto, el Comité Nacional de Productividad deberá, en su caso, hacer las adecuaciones correspondientes a sus lineamientos de operación, a efecto de dar cumplimiento a las disposiciones establecidas en la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría enviará al Congreso de la Unión el primero de los informes semestrales a los que hace referencia el artículo 19, párrafo segundo, de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, a más tardar 60 días naturales después de haber concluido el primer semestre posterior a la entrada en vigor del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Secretaría contará con un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, para cumplir con lo establecido en el artículo 18, párrafo primero de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a las dependencias y entidades de la Administración Pública Federal en el Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones jurídicas que se opongan a lo establecido en este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 19 de marzo de 2015.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lucero Saldaña Pérez, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de mayo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ECONOMÍA NACIONAL ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman los artículos 2, 3, 11 y 14 de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 17 de mayo de 2017"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 2; 3, fracción XIV; 11, fracción VII, y 14, fracción III de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 23 de marzo de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "María Elena Barrera Tapia, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los dieciséis días del mes de mayo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ECONOMÍA NACIONAL DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 17 de abril de 2024"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 11, fracciones III, V y XVI, y 12, fracciones I, II, III, IV, V y VI, y párrafos segundo, tercero y cuarto; y se adicionan las fracciones XVI Bis al artículo 11, y las fracciones V Bis y V Ter al artículo 12, de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, para quedar como sigue: ……."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 13 de marzo de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

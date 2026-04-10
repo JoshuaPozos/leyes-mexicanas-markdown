@@ -1,0 +1,3479 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LESS_ley_de_la_economia_social_y_solidaria_antes_ley_de_la_economia_social",
+  "abbreviation": "LESS",
+  "name": "LEY de la Economía Social y Solidaria (Antes \"Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía\")",
+  "catalog_number": "070",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf",
+    "pdf_filename_origen": "LESS.pdf",
+    "dof_publication": "DOF23/05/2012",
+    "last_reform": "DOF 16/04/2025",
+    "captured_at": "2026-04-09T09:48:17.581490+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "(Antes “Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía”) Nueva Ley publicada en el Diario Oficial de la Federación el 23 de mayo de 2012 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA"
+    },
+    {
+      "type": "reform_note",
+      "text": "Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023",
+      "action": "reformado",
+      "dof_date": "30-12-2015"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "Artículo Único",
+      "descriptor": null,
+      "ordinal": "Artículo Único",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley de la Economía Social y Solidaria."
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023",
+          "action": "reformado",
+          "dof_date": "30-12-2015"
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023",
+          "action": "reformado",
+          "dof_date": "30-12-2015"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-i",
+      "heading": "TÍTULO I",
+      "descriptor": "DISPOSICIONES GENERALES",
+      "ordinal": "I",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-1",
+          "heading": "Artículo 1o",
+          "descriptor": null,
+          "ordinal": "1o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La presente Ley es reglamentaria del párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos en lo concerniente al Sector Social de la Economía."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 30-12-2015",
+              "action": "reformado",
+              "dof_date": "30-12-2015"
+            },
+            {
+              "type": "paragraph",
+              "text": "La presente Ley es de orden público, interés social y de observancia general en todo el territorio nacional y se aplicará sin perjuicio de otras disposiciones que dicten los Poderes Ejecutivo y Legislativo Federal y de las Entidades Federativas, así como municipales, en el ámbito de sus respectivas competencias."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-2",
+          "heading": "Artículo 2o",
+          "descriptor": null,
+          "ordinal": "2o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La presente Ley tiene por objeto:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Establecer mecanismos para fomentar el desarrollo, fortalecimiento y visibilidad de la Actividad Económica del Sector Social de la Economía, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Definir las reglas para la promoción, fomento y fortalecimiento del Sector Social de la Economía, como un sistema eficaz que contribuya al desarrollo social y económico del país, a la generación de fuentes de trabajo digno, al fortalecimiento de la democracia, a la equitativa distribución del ingreso y a la mayor generación de patrimonio social."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-3",
+          "heading": "Artículo 3o",
+          "descriptor": null,
+          "ordinal": "3o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Sector Social de la Economía es el sector de la economía a que se refiere el párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, el cual funciona como un sistema socioeconómico creado por organismos de propiedad social, basados en relaciones de solidaridad, cooperación y reciprocidad, privilegiando al trabajo y al ser humano, conformados y administrados en forma asociativa, para satisfacer las necesidades de sus integrantes y comunidades donde se desarrollan, en concordancia con los términos que establece la presente Ley."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-06-2013, 30-12-2015",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-4",
+          "heading": "Artículo 4o",
+          "descriptor": null,
+          "ordinal": "4o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Sector Social de la Economía estará integrado por las siguientes formas de organización social:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Ejidos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Comunidades;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Organizaciones de trabajadores;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Sociedades Cooperativas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores; y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "En general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios socialmente necesarios."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-5",
+          "heading": "Artículo 5o",
+          "descriptor": null,
+          "ordinal": "5o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para los efectos de esta Ley, se entiende por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Sector, el que se refiere en el artículo 3o. de la presente Ley;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Organismos del Sector, a las organizaciones, empresas y sociedades del Sector Social de la Economía;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Secretaría, a la Secretaría de Bienestar;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 30-12-2015, 29-12-2023",
+              "action": "reformado",
+              "dof_date": "30-12-2015"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Instituto, al Instituto Nacional de la Economía Social;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "(Se deroga);"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción derogada DOF 11-06-2013",
+              "action": "derogado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "(Se deroga);"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción derogada DOF 11-06-2013",
+              "action": "derogado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Asociados, en singular o plural, a las personas que participan, en su caso, en el capital social de los Organismos del Sector;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "(Se deroga);"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción derogada DOF 11-06-2013",
+              "action": "derogado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Programa, al Programa de Fomento a la Economía Social;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "(Se deroga);"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción derogada DOF 11-06-2013",
+              "action": "derogado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Actividad Económica, cualquier proceso mediante el cual se obtienen productos, bienes o servicios socialmente necesarios, en cualquiera de sus fases de producción, distribución o consumo, y en cualquier de los sectores primario, secundario o terciario;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "(Se deroga);"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción derogada DOF 11-06-2013",
+              "action": "derogado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "(Se deroga);"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción derogada DOF 11-06-2013",
+              "action": "derogado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "(Se deroga);"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción derogada DOF 11-06-2013",
+              "action": "derogado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Organismos de integración y representación, en singular o plural, a organismos de representación que constituyan los Organismos del Sector;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 11-06-2013",
+              "action": "adicionado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Consejo, al Consejo Consultivo de Fomento a la Economía Social, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 11-06-2013",
+              "action": "adicionado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "Acuerdo, al Acuerdo de Organización y Funcionamiento del Instituto, que emita el titular de la Secretaría."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 11-06-2013. Reformada DOF 30-12-2015",
+              "action": "adicionado",
+              "dof_date": "30-12-2015"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-6",
+          "heading": "Artículo 6o",
+          "descriptor": null,
+          "ordinal": "6o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Estado apoyará e impulsará a los Organismos del Sector bajo criterios de equidad social y productividad, sujetándolas a las modalidades que dicte el interés público, y conforme al uso, en beneficio general, de los recursos productivos que tendrán la obligación de proteger y conservar, preservando el medio ambiente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-7",
+          "heading": "Artículo 7o",
+          "descriptor": null,
+          "ordinal": "7o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los Organismos del Sector podrán acogerse y disfrutar de los apoyos y estímulos que establece esta Ley, aceptando sus fines, valores, principios y prácticas señalados en los artículos 8, 9, 10 y 11 de la misma."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-8",
+          "heading": "Artículo 8o",
+          "descriptor": null,
+          "ordinal": "8o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Son fines del Sector Social de la Economía:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Promover los valores de los Derechos Humanos, de la inclusión social y en general, el desarrollo integral del ser humano;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 12-04-2019",
+              "action": "reformado",
+              "dof_date": "12-04-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Contribuir al desarrollo socioeconómico del país, participando en la producción, distribución y consumo de bienes y servicios socialmente necesarios;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Fomentar la educación y formación impulsando prácticas que consoliden una cultura solidaria, creativa y emprendedora;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Contribuir al ejercicio y perfeccionamiento de la democracia participativa;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Participar en el diseño de planes, programas y proyectos de desarrollo económico y social, en términos de la legislación aplicable;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Facilitar a los Asociados de los Organismos del Sector la participación y acceso a la formación, el trabajo, la propiedad, la información, la gestión y distribución equitativa de beneficios sin discriminación alguna;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Participar en la generación de fuentes de trabajo y de mejores formas de vida para todas las personas;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 11-06-2013",
+              "action": "adicionado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Impulsar el pleno potencial creativo e innovador de los trabajadores, ciudadanos y la sociedad;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 11-06-2013. Reformada DOF 29-12-2023",
+              "action": "adicionado",
+              "dof_date": "29-12-2023"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Promover la productividad como mecanismo de equidad social, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 11-06-2013. Reformada DOF 29-12-2023",
+              "action": "adicionado",
+              "dof_date": "29-12-2023"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Generar condiciones para la integración social y productiva de las mujeres libre de cualquier forma de discriminación."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 29-12-2023",
+              "action": "adicionado",
+              "dof_date": "29-12-2023"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-9",
+          "heading": "Artículo 9o",
+          "descriptor": null,
+          "ordinal": "9o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los Organismos del Sector tomarán en cuenta en su organización interna, los siguientes principios:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Autonomía e independencia del ámbito político y religioso;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Régimen democrático participativo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Forma autogestionaria de trabajo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Interés por la comunidad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los Organismos del Sector orientarán su actuación en los siguientes valores:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Ayuda mutua;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Democracia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Equidad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Honestidad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Igualdad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Justicia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Pluralidad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Responsabilidad compartida;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Solidaridad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Subsidiariedad;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Transparencia;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Confianza;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 11-06-2013. Reformada DOF 12-04-2019",
+              "action": "adicionado",
+              "dof_date": "12-04-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Autogestión, e"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 11-06-2013. Reformada DOF 12-04-2019",
+              "action": "adicionado",
+              "dof_date": "12-04-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Inclusión Social."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 12-04-2019",
+              "action": "adicionado",
+              "dof_date": "12-04-2019"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los Organismos del Sector realizarán sus actividades conforme a las leyes que regulen su naturaleza jurídica específica, sus estatutos sociales y de acuerdo con las siguientes prácticas:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Preeminencia del ser humano y su trabajo sobre el capital;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Afiliación y retiro voluntario;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Administración democrática, participativa, autogestionaria y emprendedora;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Trabajo en beneficio mutuo y de la comunidad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Propiedad social o paritaria de los medios de producción;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Participación económica de los Asociados en justicia y equidad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Reconocimiento del derecho a afiliarse como Asociado a las personas que presten servicios personales en los Organismos del Sector, sobre la base de su capacitación en los principios y valores del Sector, y el cumplimiento de los requisitos que establezcan sus bases constitutivas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Destino de excedentes a la prestación de servicios de carácter social, al crecimiento de sus reservas y fondos, y a reintegrar a sus Asociados parte de los mismos en proporción al uso de los servicios o a la participación en el trabajo del Organismo del Sector;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Educación, formación y capacitación técnico administrativa permanente y continua para los Asociados;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Promoción de la cultura solidaria, basada en los derechos humanos y de la protección del medio ambiente entre sus Asociados y la comunidad;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 29-12-2023",
+              "action": "reformado",
+              "dof_date": "29-12-2023"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Información periódica de sus estados financieros y de resultados a todos y cada uno de sus Asociados, a través de los informes a sus órganos de dirección, administración y vigilancia, así como libre acceso a la información respectiva para los mismos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Integración y colaboración con otros Organismos del Sector;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Compromiso solidario con las comunidades donde desarrollan su actividad, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Creatividad e innovación en todos los ámbitos y prácticas de los organismos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 11-06-2013",
+              "action": "adicionado",
+              "dof_date": "11-06-2013"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". En lo no previsto por la presente Ley se aplicará supletoriamente:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La legislación específica de las distintas figuras en que se constituyan los Organismos del Sector;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "En su caso la Legislación Civil Federal, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Los usos y prácticas imperantes entre los Organismos del Sector."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal, a través de la Secretaría, interpretará para efectos administrativos los preceptos de la presente Ley."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 30-12-2015",
+              "action": "reformado",
+              "dof_date": "30-12-2015"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-ii",
+      "heading": "TÍTULO II",
+      "descriptor": "DE LA ESTRUCTURA DEL SECTOR SOCIAL DE LA ECONOMÍA",
+      "ordinal": "II",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-ii.capitulo-i",
+          "heading": "CAPÍTULO I",
+          "descriptor": "DEL INSTITUTO",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-i.articulo-13",
+              "heading": "Artículo 13",
+              "descriptor": null,
+              "ordinal": "13",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Se crea el Instituto Nacional de la Economía Social como un órgano administrativo desconcentrado de la Secretaría, el cual contará con autonomía técnica, operativa y de gestión."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Instituto tiene como objeto instrumentar, como parte de la Política Nacional de Desarrollo Social, las políticas públicas de fomento y desarrollo del sector social de la economía, con el fin de fortalecer y consolidar al Sector como uno de los pilares de desarrollo económico y social del país, a través de la participación, capacitación, investigación, difusión y apoyo a proyectos productivos del Sector."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La organización y funcionamiento del Instituto, además de lo previsto en esta Ley, será determinada en términos del Acuerdo."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013, 30-12-2015",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-i.articulo-14",
+              "heading": "Artículo 14",
+              "descriptor": null,
+              "ordinal": "14",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Instituto tendrá como funciones las siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Instrumentar, como parte de la Política Nacional de Desarrollo Social, la política de fomento y desarrollo del sector social de la economía;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 30-12-2015",
+                  "action": "reformado",
+                  "dof_date": "30-12-2015"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Propiciar condiciones favorables para el crecimiento y consolidación del Sector, mediante el establecimiento del Programa de Fomento a la Economía Social;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Vigilar el cumplimiento de las disposiciones de la presente Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Formular y ejecutar programas y proyectos de apoyo público a la promoción, fomento y desarrollo del Sector;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Participar en la elaboración, consecución y verificación del Plan Nacional de Desarrollo, en términos de lo dispuesto por la Ley de Planeación y demás disposiciones aplicables a las actividades económicas que desarrollen los Organismos del Sector;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Ser órgano consultivo del Estado en la formulación de políticas relativas al Sector, en términos de lo dispuesto por la Ley de Planeación y demás disposiciones aplicables a las actividades económicas que desarrollen los Organismos del Sector;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "(Se deroga)"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción derogada DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Llevar a cabo estudios, investigaciones y la sistematización de información que permitan el conocimiento de la realidad de los Organismos del Sector y de su entorno, para el mejor cumplimiento de su objeto;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Promover la consolidación empresarial y el desarrollo organizacional de las diversas formas asociativas que integran el Sector, para lo cual establecerá un Sistema Nacional de Capacitación y Asistencia Técnica Especializada, mediante el diseño de su propia metodología, la firma de convenios de coordinación y colaboración con las dependencias de la Administración Pública Federal, así como con dependencias de las Entidades Federativas, Municipios y universidades e instituciones de educación superior;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Promover en el ámbito nacional e internacional los bienes y servicios producidos por los Organismos del Sector, siempre que la legislación específica en la materia de cada Organismo del Sector se los permita;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Promover la creación de Organismos de Representación del Sector de conformidad por lo dispuesto en las leyes específicas para cada una de las formas asociativas que los integran;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Promover y apoyar la creación de Organismos del Sector que se constituyan y operen conforme a las Leyes que regulan sus materias específicas, para la prestación de servicios financieros al mismo Sector;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Difundir los valores, principios y fines del Sector, así como sus principales logros empresariales y asociativos, y las demás que se establezcan en el Acuerdo;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-06-2013, 30-12-2015",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Elaborar y mantener actualizado el catálogo de los diferentes tipos de Organismos del Sector, teniendo en cuenta los principios, valores y fines establecidos en la presente Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "(Se deroga)"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción derogada DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "Establecer un Observatorio del Sector Social de la Economía, que sirva como herramienta para la sistematización de las experiencias nacionales del Sector;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVII",
+                  "text": "Definir las distintas regiones geoeconómicas necesarias para el cumplimento de las disposiciones contenidas en la presente Ley;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 16-04-2025",
+                  "action": "reformado",
+                  "dof_date": "16-04-2025"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVIII",
+                  "text": "Publicar anualmente un compendio de información básica vía digital y/o impresa sobre los Organismos del Sector, que incluya a todos aquellos organismos beneficiados;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción adicionada DOF 11-06-2013",
+                  "action": "adicionado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIX",
+                  "text": "Impulsar el diseño de políticas públicas en el ámbito educativo que fomenten el desarrollo de la economía social y solidaria en las instituciones educativas del país;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción adicionada DOF 11-06-2013",
+                  "action": "adicionado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XX",
+                  "text": "Favorecer cadenas productivas de valor, locales, regionales, nacionales y globales, que sirvan para el escalamiento progresivo de los Organismos del Sector;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción adicionada DOF 11-06-2013",
+                  "action": "adicionado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXI",
+                  "text": "El Instituto en materia de fomento, determinará las reglas, lineamientos y, en general, todo lo necesario a fin de garantizar el adecuado ejercicio de los recursos públicos, en la prestación de apoyos y estímulos a los organismos del sector;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción adicionada DOF 11-06-2013. Reformada DOF 16-04-2025",
+                  "action": "adicionado",
+                  "dof_date": "16-04-2025"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "XXI Bis. Definir e implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, respecto del cumplimiento de la presente Ley, particularmente en lo que corresponde a los fines, valores, principios y prácticas del cooperativismo y de la Economía Social y Solidaria. Para coadyuvar en la implementación de dicho modelo de certificación, el Instituto podrá suscribir convenios de coordinación con las entidades federativas, los municipios y las alcaldías de la Ciudad de México, y"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción adicionada DOF 16-04-2025",
+                  "action": "adicionado",
+                  "dof_date": "16-04-2025"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXII",
+                  "text": "Las demás que señale el Acuerdo."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada y recorrida DOF 11-06-2013. Reformada DOF 30-12-2015",
+                  "action": "reformado",
+                  "dof_date": "30-12-2015"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-i.articulo-15",
+              "heading": "Artículo 15",
+              "descriptor": null,
+              "ordinal": "15",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Instituto contará con los siguientes recursos para el cumplimiento de su objeto:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Los recursos que se le asignen a través de la Secretaría en el Presupuesto de Egresos de la Federación y atendiendo a las prioridades que se señalen en el Plan Nacional de Desarrollo, y"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Los subsidios, donaciones y legados que reciba a través de la Secretaría de personas físicas o morales, públicas o privadas, nacionales o extranjeras, los cuales de ninguna manera podrán implicar condiciones contrarias a su objeto conforme lo establece la Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-i.articulo-16",
+              "heading": "Artículo 16",
+              "descriptor": null,
+              "ordinal": "16",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para la consecución de su objeto y para el ejercicio de sus atribuciones el Instituto se integrará de los órganos siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Un Consejo Consultivo;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Un Director General, designado y removido libremente por el Titular del Ejecutivo Federal a propuesta del titular de la Secretaría, y"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 30-12-2015",
+                  "action": "reformado",
+                  "dof_date": "30-12-2015"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Las instancias, unidades administrativas y servidores públicos necesarios para la consecución de su objeto."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-i.articulo-17",
+              "heading": "Artículo 17",
+              "descriptor": null,
+              "ordinal": "17",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". (Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo derogado DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-i.articulo-18",
+              "heading": "Artículo 18",
+              "descriptor": null,
+              "ordinal": "18",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Director General, tendrá las siguientes facultades:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Ejercer la representación legal del Instituto;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Elaborar el programa anual de actividades del Instituto;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Elaborar, proponer y someter a consideración del titular de la Secretaría, para su aprobación, los programas y acciones de fomento y desarrollo a la actividad económica del Sector;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 30-12-2015",
+                  "action": "reformado",
+                  "dof_date": "30-12-2015"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Presentar un informe anual de actividades a la Secretaría, y turnarlo a las Comisiones competentes del Congreso de la Unión, para su conocimiento, y"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Las demás que señale el Acuerdo del Instituto."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-i.articulo-19",
+              "heading": "Artículo 19",
+              "descriptor": null,
+              "ordinal": "19",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Instituto contará con delegaciones en términos del Acuerdo."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 30-12-2015",
+                  "action": "reformado",
+                  "dof_date": "30-12-2015"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los titulares de las delegaciones tendrán las atribuciones que determine el Acuerdo referido en el párrafo anterior."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-i.articulo-20",
+              "heading": "Artículo 20",
+              "descriptor": null,
+              "ordinal": "20",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado “B” del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-ii.capitulo-ii",
+          "heading": "CAPÍTULO II",
+          "descriptor": "DEL CONSEJO CONSULTIVO DE FOMENTO DE LA ECONOMÍA SOCIAL",
+          "ordinal": "II",
+          "content": [
+            {
+              "type": "reform_note",
+              "text": "Denominación del Capítulo reformada DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-ii.articulo-21",
+              "heading": "Artículo 21",
+              "descriptor": null,
+              "ordinal": "21",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo es el órgano del Instituto de participación ciudadana y conformación plural, que tendrá por objeto analizar y proponer acciones que incidan en el cumplimiento del Programa de Fomento a la Economía Social."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-ii.articulo-22",
+              "heading": "Artículo 22",
+              "descriptor": null,
+              "ordinal": "22",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo se regirá en términos del Acuerdo, así como por sus Normas Internas de Funcionamiento."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013, 30-12-2015",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-ii.articulo-23",
+              "heading": "Artículo 23",
+              "descriptor": null,
+              "ordinal": "23",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo sesionará por lo menos cada seis meses y tomará sus acuerdos, recomendaciones y resoluciones por voto de mayoría. Podrá sesionar de manera extraordinaria cuando la situación así lo amerite según lo establezca su Reglamento Interno."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Consejo sesionará válidamente con la asistencia de la mayoría de sus miembros."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-ii.articulo-24",
+              "heading": "Artículo 24",
+              "descriptor": null,
+              "ordinal": "24",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo tendrá las funciones siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Emitir opiniones y formular propuestas sobre la aplicación y orientación del Programa de Fomento a la Economía Social;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Impulsar la participación ciudadana y de los organismos del sector en el seguimiento, operación y evaluación del Programa de Fomento de la Economía Social;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Proponer y propiciar la colaboración de organismos públicos y privados, nacionales y extranjeros, en el fomento y desarrollo para el Sector de la Economía Social;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Proponer la realización de estudios e investigaciones en la materia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el fomento y desarrollo para el Sector de la Economía Social;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Informar a la opinión pública sobre los aspectos de interés general relativos al Programa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Integrar las comisiones y grupos de trabajo que sean necesarios para el ejercicio de sus funciones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Formular opinión fundada al Director del Instituto de la evaluación a que se refiere el artículo 52 de esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Elaborar el balance social de los Organismos del Sector, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Expedir su Reglamento Interno."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-ii.articulo-25",
+              "heading": "Artículo 25",
+              "descriptor": null,
+              "ordinal": "25",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo estará integrado por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Una Presidencia que será la persona titular del Instituto;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-05-2022",
+                  "action": "reformado",
+                  "dof_date": "11-05-2022"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Una Secretaría Ejecutiva que designará ésta, y"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-05-2022",
+                  "action": "reformado",
+                  "dof_date": "11-05-2022"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Las consejeras y los consejeros invitados por el Instituto, que deberán ser personas reconocidas por sus aportaciones al Sector Social de la Economía, pudiendo ser representantes de organismos del sector, del ámbito académico, científico, profesional, empresarial, del poder legislativo y/o de organismos internacionales vinculados con el tema. Dichas designaciones se realizarán garantizando el principio de paridad de género."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-05-2022",
+                  "action": "reformado",
+                  "dof_date": "11-05-2022"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La persona titular de la Presidencia del Consejo será suplida en sus ausencias por la Secretaría Ejecutiva."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 11-05-2022",
+                  "action": "reformado",
+                  "dof_date": "11-05-2022"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La participación de las Consejeras y los Consejeros será con carácter honorario."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 11-05-2022",
+                  "action": "reformado",
+                  "dof_date": "11-05-2022"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Su temporalidad será definida en el Reglamento Interno del Consejo."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-ii.articulo-26",
+              "heading": "Artículo 26",
+              "descriptor": null,
+              "ordinal": "26",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo podrá recibir la colaboración de otras dependencias y entidades de la Administración Pública Federal, de los gobiernos estatales y municipales, de organizaciones civiles y de particulares."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-ii.articulo-27",
+              "heading": "Artículo 27",
+              "descriptor": null,
+              "ordinal": "27",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Instituto prestará al Consejo la colaboración necesaria para el ejercicio de sus funciones."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-ii.articulo-28",
+              "heading": "Artículo 28",
+              "descriptor": null,
+              "ordinal": "28",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". (Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo derogado DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-ii.articulo-29",
+              "heading": "Artículo 29",
+              "descriptor": null,
+              "ordinal": "29",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". (Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo derogado DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-ii.articulo-30",
+              "heading": "Artículo 30",
+              "descriptor": null,
+              "ordinal": "30",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". (Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo derogado DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-ii.capitulo-iii",
+          "heading": "CAPÍTULO III",
+          "descriptor": "DE LOS ORGANISMOS DE INTEGRACIÓN Y REPRESENTACIÓN",
+          "ordinal": "III",
+          "content": [
+            {
+              "type": "reform_note",
+              "text": "Denominación del Capítulo reformada DOF 11-06-2013",
+              "action": "reformado",
+              "dof_date": "11-06-2013"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-iii.articulo-31",
+              "heading": "Artículo 31",
+              "descriptor": null,
+              "ordinal": "31",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Organismos del Sector podrán asociarse entre sí para el mejor cumplimiento de sus fines."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los Organismos del Sector para su mejor funcionamiento podrán integrarse en figuras que faciliten su desarrollo y crecimiento económico, en concordancia con lo que dispongan las normas que les resulten aplicables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aquellos de índole económica no necesariamente serán especializados en determinado ramo o actividad económica."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los requisitos y procedimientos para constituir Organismos de Integración y Representación de cualquier grado serán los establecidos por las leyes específicas que corresponda a cada una de las formas asociativas de los Organismos del Sector y en las leyes de materia civil aplicables."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-iii.articulo-32",
+              "heading": "Artículo 32",
+              "descriptor": null,
+              "ordinal": "32",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Organismos de Representación podrán agruparse de manera amplia con el propósito de orientar procesos de desarrollo del movimiento y unificar acciones de defensa y representación nacional o internacional."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-iii.articulo-33",
+              "heading": "Artículo 33",
+              "descriptor": null,
+              "ordinal": "33",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Organismos de Representación deberán precisar claramente en sus estatutos su jurisdicción, así como los sectores económicos o las formas asociativas o solidarias que representan."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-iii.articulo-34",
+              "heading": "Artículo 34",
+              "descriptor": null,
+              "ordinal": "34",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Organismos de Representación ejercerán de pleno derecho la representación y defensa de los derechos e intereses de sus Asociados y de la rama de la actividad económica en que actúan, así como de los beneficios y preferencias que concede ésta y demás leyes específicas a los Organismos del Sector."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Podrán prestar u obtener en común servicios profesionales y técnicos de asesoría, apoyo financiero, asistencia técnica, educación, capacitación e investigación científica y tecnológica."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-iii.articulo-35",
+              "heading": "Artículo 35",
+              "descriptor": null,
+              "ordinal": "35",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". (Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo derogado DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-ii.capitulo-iv",
+          "heading": "CAPÍTULO IV",
+          "descriptor": "DEL REGISTRO",
+          "ordinal": "IV",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "(Se deroga)"
+            },
+            {
+              "type": "reform_note",
+              "text": "Capítulo derogado DOF 11-06-2013",
+              "action": "derogado",
+              "dof_date": "11-06-2013"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-iv.articulo-36",
+              "heading": "Artículo 36",
+              "descriptor": null,
+              "ordinal": "36",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". (Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo derogado DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-iv.articulo-37",
+              "heading": "Artículo 37",
+              "descriptor": null,
+              "ordinal": "37",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". (Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo derogado DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-iv.articulo-38",
+              "heading": "Artículo 38",
+              "descriptor": null,
+              "ordinal": "38",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". (Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo derogado DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-iv.articulo-39",
+              "heading": "Artículo 39",
+              "descriptor": null,
+              "ordinal": "39",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". (Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo derogado DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-ii.capitulo-iv.articulo-40",
+              "heading": "Artículo 40",
+              "descriptor": null,
+              "ordinal": "40",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". (Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo derogado DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-iii",
+      "heading": "TÍTULO III",
+      "descriptor": "DE LOS ORGANISMOS DEL SECTOR",
+      "ordinal": "III",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-iii.capitulo-i",
+          "heading": "CAPÍTULO I",
+          "descriptor": "DEL FUNCIONAMIENTO DE LOS ORGANISMOS DEL SECTOR",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-i.articulo-41",
+              "heading": "Artículo 41",
+              "descriptor": null,
+              "ordinal": "41",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Se reconocerá el carácter de Organismo del Sector a todas aquellas organizaciones que, en su caso, hayan cumplido con los ordenamientos de la ley respectiva según su naturaleza para su constitución y registro, y estén considerados en alguna de las categorías del catálogo de los diferentes tipos de Organismos del Sector, elaborado por el Instituto."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "(Se deroga)"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción derogada DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "(Se deroga)"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción derogada DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "(Se deroga)"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción derogada DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-i.articulo-42",
+              "heading": "Artículo 42",
+              "descriptor": null,
+              "ordinal": "42",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Organismos del Sector; siempre que la legislación específica en la materia de la actividad económica que desarrollen, su objeto social y su naturaleza legal se los permita, podrán desarrollar las siguientes actividades económicas:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Producción, prestación y comercialización de bienes y servicios;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Explotación de bienes propiedad de la nación, así como prestación de servicios públicos, siempre y cuando obtengan los permisos o concesiones respectivos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "De educación, salud, gremiales, deportivas, recreacionales, culturales y sociales en beneficio de los socios y la comunidad;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "De servicios financieros de seguros, crédito, ahorro y préstamo, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Todas las actividades económicas relacionadas con la producción, distribución y consumo de bienes y servicios socialmente necesarios."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En el caso de las actividades de ahorro y préstamo a que se refiriere la fracción IV de este artículo, deberá observarse y dar estricto cumplimento a lo establecido en el artículo 103 de la Ley de Instituciones de Crédito. En cuanto a los servicios de seguro deberá obtenerse las autorizaciones o registros previstos en la ley de la materia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los Organismos del Sector les estará prohibido realizar actividades de proselitismo partidista y político-electoral."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-i.articulo-43",
+              "heading": "Artículo 43",
+              "descriptor": null,
+              "ordinal": "43",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Organismos del Sector, en su caso, adoptarán la estructura interna que señale la legislación específica de cada una de las formas asociativas y sus propios estatutos, y que más se adecue a sus necesidades, debiendo contar al menos con los siguientes:"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Un Órgano de Dirección, Asamblea General, u otra figura similar;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Un Órgano o Consejo de Administración, Comisario, Gerente, Director General, o figura similar, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Un Órgano o Consejo de Vigilancia y Control Interno;"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los miembros de los Órganos encargados de la administración, la vigilancia y el control interno serán designados y podrán ser removidos por decisión de la mayoría del Órgano de Dirección o Asamblea General, de conformidad con sus propios estatutos"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-iii.capitulo-ii",
+          "heading": "CAPÍTULO II",
+          "descriptor": "DE LOS DERECHOS Y OBLIGACIONES DE LOS ORGANISMOS DEL SECTOR",
+          "ordinal": "II",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-ii.articulo-44",
+              "heading": "Artículo 44",
+              "descriptor": null,
+              "ordinal": "44",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Sin perjuicio de los derechos y prerrogativas que establecen las leyes relativas a las distintas formas asociativas, se reconocen a los Organismos del Sector los siguientes derechos:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Ser sujetos de fomento y apoyo a sus actividades económicas por parte del Estado, previa certificación emitida por el Instituto;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 16-04-2025",
+                  "action": "reformado",
+                  "dof_date": "16-04-2025"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Gozar de autonomía en cuanto a su régimen interno;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Constituir sus órganos representativos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Realizar observaciones y propuestas al Instituto en relación con las políticas, programas y acciones de fomento y apoyo de sus actividades;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Solicitar y recibir información sobre el estado que guarden las gestiones que hubieren realizado ante las dependencias del gobierno;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Recibir asesoría, asistencia técnica y capacitación por parte de las autoridades competentes de acuerdo a la presente Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Celebrar contratos, actos, operaciones y acuerdos entre sí o con empresas del sector privado y con el sector público, siempre que fueren necesarios o convenientes a sus fines y objeto social, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "(Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción derogada DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-ii.articulo-45",
+              "heading": "Artículo 45",
+              "descriptor": null,
+              "ordinal": "45",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Organismos del Sector deberán ajustarse a lo siguiente:"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Cumplir y hacer cumplir los fines, valores, principios y prácticas previstos en la presente Ley, lo cual acreditarán conforme al modelo de certificación correspondiente;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 16-04-2025",
+                  "action": "reformado",
+                  "dof_date": "16-04-2025"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Establecer fondos de reserva, previsión social y educación de acuerdo a las leyes específicas, con porcentajes de los excedentes o beneficios percibidos en sus actividades económicas; sin que ello les implique mayores cargas de las que se consideren en los ordenamientos legales que, en su caso, las rijan en función de su naturaleza jurídica;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Utilizar los beneficios que consagra la presente Ley para los fines con que fueron autorizados;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Conservar la documentación que demuestre el otorgamiento y uso de apoyos y estímulos públicos otorgados para los fines de sus actividades económicas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Informar al Instituto anualmente o en los casos que les sea requerido, sobre el ejercicio de los apoyos y estímulos públicos otorgados con fines de fomento;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Proporcionar la información que les sea requerida por el Instituto y demás autoridades competentes sobre sus fines, estatutos, programas, actividades, beneficiarios, patrimonio, operación administrativa y financiera, estados financieros y uso de los apoyos y estímulos públicos que reciban;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Cumplir en tiempo y forma con las normas de las recuperaciones financieras establecidas por el Instituto;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Acatar las disposiciones, recomendaciones y sanciones administrativas que emita o disponga el Instituto y demás autoridades competentes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Los Organismos del Sector deberán fomentar y difundir los principios, valores y prácticas de la economía social, formular y promover la implementación, en coordinación con las autoridades competentes, de estrategias, planes y programas que impulsen el desarrollo del Sector, así como ejercer cualquier actividad lícita en beneficio de sus Asociados y la comunidad;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Los Organismos del Sector realizarán programas de planeación estratégica para su desarrollo progresivo, elaborarán informes sobre servicios y beneficios económicos, educativos y sociales prestados en su ejercicio a sus Asociados y a la comunidad;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Promover la profesionalización y capacitación de sus Asociados;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Actuar con criterios de imparcialidad y no discriminación en la determinación de beneficiarios;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Cumplir con las obligaciones derivadas de los convenios suscritos con el Instituto;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Informar a sus Asociados a través de su Asamblea General u Órgano de Dirección sobre los servicios y beneficios económicos, educativos y sociales prestados en el respectivo ejercicio, así como de sus estados financieros;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "(Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción derogada DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "En caso de disolución, transmitir los bienes que haya adquirido con apoyos y estímulos públicos, a otro u otros Organismos del Sector que realicen actividades objeto de fomento. El Organismo del Sector que se disuelva tendrá la facultad de elegir a quién transmitirá dichos bienes;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVII",
+                  "text": "Contribuir al desarrollo socioeconómico nacional, y"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 16-04-2025",
+                  "action": "reformado",
+                  "dof_date": "16-04-2025"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVIII",
+                  "text": "Las demás que señale la presente Ley y leyes aplicables."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-iii.capitulo-iii",
+          "heading": "CAPÍTULO III",
+          "descriptor": "DEL FOMENTO Y FINANCIAMIENTO DE LOS ORGANISMOS DEL SECTOR",
+          "ordinal": "III",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-iii.articulo-46",
+              "heading": "Artículo 46",
+              "descriptor": null,
+              "ordinal": "46",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría creará el Programa de Fomento a la Economía Social así como los programas regionales y especiales, cuyo objeto será atender iniciativas productivas del Sector mediante el apoyo a proyectos productivos, la constitución, desarrollo, consolidación y expansión de Organismos del Sector y la participación en esquemas de financiamiento social."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los Programas operarán con recursos públicos asignados en el Presupuesto de Egresos de la Federación, así como con los recursos derivados de los convenios que se establezcan con las Entidades Federativas y Municipios."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La operación de los programas se sujetará a las Reglas de Operación o Lineamientos que al efecto emita la Secretaría."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-iii.articulo-47",
+              "heading": "Artículo 47",
+              "descriptor": null,
+              "ordinal": "47",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Organismos del Sector no podrán recibir los apoyos y estímulos públicos previstos en esta Ley cuando incurran en alguno de los siguientes supuestos:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Exista entre sus administradores o representantes y los servidores públicos encargados de otorgar o autorizar los apoyos y estímulos públicos; relaciones de interés o parentesco por consanguinidad o afinidad hasta en cuarto grado, o sean cónyuges, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Contraten con recursos públicos a personas con nexos de parentesco con los directivos de la organización, ya sea por consanguineidad o afinidad hasta en cuarto grado."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-iii.articulo-48",
+              "heading": "Artículo 48",
+              "descriptor": null,
+              "ordinal": "48",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Organismos del Sector que con fines de fomento reciban apoyos y estímulos públicos, deberán sujetarse a las disposiciones jurídicas y administrativas aplicables en la materia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Además, deberán llevar a cabo sus operaciones conforme a las disposiciones fiscales vigentes en el territorio nacional."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-iii.articulo-49",
+              "heading": "Artículo 49",
+              "descriptor": null,
+              "ordinal": "49",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Tratándose de empresas de participación estatal mayoritaria, se estará a lo dispuesto por Bienes del Sector Público y a las demás disposiciones legales que le resulten aplicables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cuando dichas empresas se encuentren en proceso de desincorporación, las autoridades competentes deberán tomar en cuenta a los trabajadores, a través de las organizaciones o empresas del sector ya existentes o las que sean constituidas para tal efecto, para ser considerados en la transferencia de los bienes de estas."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-iii.articulo-50",
+              "heading": "Artículo 50",
+              "descriptor": null,
+              "ordinal": "50",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En los casos en los cuales las empresas de carácter privado presenten conflictos obreropatronales calificados como irreconciliables, las autoridades competentes deberán tomar en cuenta a los trabajadores, a través de las organizaciones o empresas del sector ya existentes o las que sean constituidas para tal efecto, para ser considerados en la transferencia de los bienes de la empresa en cuestión, a fin de que dichas empresas continúen operando con eficiencia y rentabilidad."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Lo anterior, de conformidad y con absoluto respeto a lo que dispongan las leyes laborales y mercantiles en la materia."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-iii.articulo-51",
+              "heading": "Artículo 51",
+              "descriptor": null,
+              "ordinal": "51",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". A fin de dar cumplimento a las disposiciones previstas por los artículos 49 y 50, el Instituto, conforme a sus facultades, brindará asesoría, capacitación y financiamiento de acuerdo sus posibilidades presupuestarias."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-iii.capitulo-iv",
+          "heading": "CAPÍTULO IV",
+          "descriptor": "DE LA EVALUACIÓN DE LA POLÍTICA DE ECONOMÍA SOCIAL Y DEL DESEMPEÑO DE",
+          "ordinal": "IV",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "SUS ORGANISMOS DEL SECTOR"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-iv.articulo-52",
+              "heading": "Artículo 52",
+              "descriptor": null,
+              "ordinal": "52",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La evaluación periódica del cumplimiento de las políticas públicas de fomento y apoyo a los Organismos del Sector estará a cargo del Consejo Nacional de Evaluación de la Política de Desarrollo Social, conforme la Ley General de Desarrollo Social."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-iv.articulo-53",
+              "heading": "Artículo 53",
+              "descriptor": null,
+              "ordinal": "53",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para la evaluación se deberán incluir los indicadores de resultados, de gestión y servicios para medir su cobertura e impacto."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-iv.articulo-54",
+              "heading": "Artículo 54",
+              "descriptor": null,
+              "ordinal": "54",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El proceso de evaluación de la Política de Economía Social, se realizará cada tres años."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-iv.articulo-55",
+              "heading": "Artículo 55",
+              "descriptor": null,
+              "ordinal": "55",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los resultados de las evaluaciones serán entregados a la Secretaría, al Instituto y al Consejo, así como a las comisiones de Fomento Cooperativo y Economía Social y de Desarrollo Social de la Cámara de Diputados y a las comisiones de Fomento Económico y de Desarrollo Social de la Cámara de Senadores. Asimismo, los resultados de las evaluaciones serán puestos a disposición del público en general a través de las páginas web de dichas instancias públicas."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013, 30-12-2015",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-iv.articulo-56",
+              "heading": "Artículo 56",
+              "descriptor": null,
+              "ordinal": "56",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". De acuerdo con los resultados de las evaluaciones, el Instituto podrá emitir las sugerencias y recomendaciones que considere pertinentes al Ejecutivo Federal y hacerlas del conocimiento público."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-iii.capitulo-v",
+          "heading": "CAPÍTULO V",
+          "descriptor": "SANCIONES",
+          "ordinal": "V",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-v.articulo-57",
+              "heading": "Artículo 57",
+              "descriptor": null,
+              "ordinal": "57",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". (Se deroga)."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo derogado DOF 11-06-2013",
+                  "action": "derogado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-iii.capitulo-v.articulo-58",
+              "heading": "Artículo 58",
+              "descriptor": null,
+              "ordinal": "58",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Instituto podrá imponer sanciones administrativas, en los términos previstos por el simulando ser Organismos del Sector gocen o pretendan gozar de los beneficios y prerrogativas por esta Ley."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 11-06-2013",
+                  "action": "reformado",
+                  "dof_date": "11-06-2013"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La convocatoria y asuntos relativos a la celebración de las asambleas regionales de los Organismos del Sector, será efectuada por la Secretaría, a través del Instituto, en un plazo no mayor de dieciocho meses después de la publicación de la presente Ley en el Diario Oficial de la Federación. Una vez realizadas las asambleas regionales, la Secretaría, a través del Instituto, deberá convocar a la instalación del Congreso Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 24-01-2013",
+              "action": "reformado",
+              "dof_date": "24-01-2013"
+            },
+            {
+              "type": "paragraph",
+              "text": "El Congreso Nacional Constituyente deberá elegir tan pronto como se instituya, a sus Representantes permanentes ante el Consejo Consultivo del Instituto, así como elaborar su plan de trabajo y su reglamento interno en un plazo no mayor a seis meses después de haber quedado legalmente constituido."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Congreso Nacional Constituyente tendrá treinta y seis meses a partir del momento de su constitución para convocar a la constitución y la elección democrática del Consejo Nacional."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Instituto deberá quedar constituido, instalado y reglamentado en un plazo no mayor a ciento ochenta días naturales posteriores a la entrada en vigor de la presente Ley, asumiendo las funciones e integrándose con los recursos financieros, materiales y humanos que actualmente están asignados a la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad."
+            },
+            {
+              "type": "paragraph",
+              "text": "El personal que, en virtud de esta Ley pase de la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad al Instituto, de ninguna forma resultará afectado en las prerrogativas y derechos laborales que hayan adquirido conforme a la Constitución Política de los Estados Unidos Mexicanos y la Ley en la materia aplicable."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los asuntos que a la entrada en vigor de la presente Ley se encuentren pendientes de trámite por parte de la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad seguirán a cargo del Instituto hasta su total conclusión."
+            },
+            {
+              "type": "paragraph",
+              "text": "En tanto se reforma el Reglamento Interior de la Secretaría de Economía y se expida el Reglamento Interior del Instituto, se continuará aplicando el Acuerdo que regula la organización y el funcionamiento interno de la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad, publicado en el Diario Oficial de la Federación el 20 de octubre de 2009, en lo que no se oponga a esta Ley; y en lo no previsto, se estará a lo que resuelva la Secretaría."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 24-01-2013",
+              "action": "reformado",
+              "dof_date": "24-01-2013"
+            },
+            {
+              "type": "paragraph",
+              "text": "Las facultades, funciones y atribuciones que desempeña actualmente la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad, deberán ser concedidas íntegramente al Instituto y reconocidas por el Reglamento Interior de la Secretaría de Economía, así como en todas las disposiciones legales que al efecto se emitan o modifiquen."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las normas que regulen al Registro deberán ser expedidas por la Secretaría en un plazo no mayor a ciento ochenta días naturales, posteriores a la fecha de su instalación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las normas que regulen al Programa deberán ser expedidas por la Secretaría durante el año 2013 y entrarán en vigor a partir del ejercicio fiscal 2014, por lo que durante el ejercicio fiscal 2013 las solicitudes de apoyo que se presenten, se tramitarán hasta su conclusión conforme a las Reglas de Operación del Fondo Nacional de Apoyos para Empresas en Solidaridad (FONAES) para el ejercicio fiscal 2012, publicadas en el Diario Oficial de la Federación el 24 de diciembre de 2011, en lo que no se oponga a esta Ley; y en lo no previsto, la Secretaría expedirá los criterios aplicables transitoriamente para el ejercicio fiscal 2013."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para efectos de lo dispuesto en el artículo 37 de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, durante el ejercicio fiscal 2013, no será exigible la obligación de estar inscrito en el Registro de los Organismos del Sector única y exclusivamente en lo que se refiere a la solicitud y entrega de apoyos del Programa."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 24-01-2013",
+              "action": "reformado",
+              "dof_date": "24-01-2013"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "QUINTO",
+          "descriptor": null,
+          "ordinal": "QUINTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En tanto no se expidan las disposiciones correspondientes, continuarán aplicándose, en lo que no se opongan a esta Ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "SEXTO",
+          "descriptor": null,
+          "ordinal": "SEXTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los apoyos cuyo trámite se haya iniciado conforme a las disposiciones jurídicas y administrativas vigentes antes de la entrada en vigor de esta Ley, se seguirán rigiendo por las mismas hasta su conclusión."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 30 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Martín García Avilés, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma los artículos Segundo, Tercero y Cuarto Transitorios de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 24 de enero de 2013"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "ARTÍCULO PRIMERO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el primer párrafo del Segundo Transitorio, así como el cuarto párrafo del Tercero Transitorio, de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "séptimo",
+          "descriptor": null,
+          "ordinal": "séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "ARTÍCULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el primer párrafo del Cuarto Transitorio para precisar la aplicación de las normas que regulan al Registro y al Programa, y se adiciona un segundo párrafo al mismo, de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 21 de diciembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Francisco Arroyo Vieyra, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de enero de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman, adicionan y derogan diversos artículos de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 11 de junio de 2013"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se REFORMAN los artículos 2o. fracciones I y II; 3o., 5o., fracciones I y VII; 7o., 8o., fracción VI; 10, fracciones X y XI; 11, fracciones XII y XIII; 14, fracciones VIII, IX, X, XI y XIII; 15, fracción I, 16 fracción I; 18, fracciones IV y V; 19, 21, 22, 23, 24, 25, 26, 27 y el Capítulo II, del Título II, que se denomina “Del Congreso y Consejo Nacional”, 31, 32, 33, 34, primer párrafo, y el Capítulo III del Título II, que se denomina “De los Organismos de Integración y Representación”, el primer párrafo del artículo 41, 43, primer párrafo; 45, primer párrafo y las fracciones II y XVI; 46, 55 y 58; se ADICIONAN las fracciones XV, XVI y XVII al artículo 5o., fracciones VII, VIII y IX al artículo 8o., las fracciones XII y XIII al artículo 10, la fracción XIV al artículo 11, un párrafo tercero al artículo 13, las fracciones XVIII, XIX, XX y XXI, recorriendo el contenido de las fracciones XVIII a la XXII al artículo 14 y se adiciona un párrafo al artículo 31; y se DEROGAN las fracciones V, VI, VIII, X, XII, XIII y XIV del artículo 5o., las fracciones VII y XV del artículo 14, el artículo 17, los artículos 28, 29 y 30, el artículo 35, el Capítulo IV del Título II, denominado “Del Registro”, con los artículos 36, 37, 38, 39 y 40, las fracciones I, II y III del artículo 41, la fracción VIII del artículo 44, la fracción XV del artículo 45 y el artículo 57, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación; y quedarán derogadas todas las disposiciones normativas que lo contravengan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La integración del Consejo Consultivo se tendrá que realizar en un plazo no mayor de doce meses posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría deberá expedir el Acuerdo a que se refiere esta Ley en un plazo no mayor a ciento ochenta días naturales, posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En tanto la Secretaría no emita el Acuerdo a que se refiere esta Ley, el Instituto se regirá, en todo aquello que no la contravenga, de acuerdo con las disposiciones aplicables al momento de entrar en vigor este decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 30 de abril de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Magdalena del Socorro Nuñez Monreal, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman la denominación y diversas disposiciones de la Ley de la Economía Social y Solidaria, reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, y se adicionan las fracciones XIV y XV al artículo 32 y se deroga la fracción X del artículo 34 de la Ley Orgánica de la Administración Pública Federal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2015"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "Artículo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman la denominación de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo Referente al Sector Social de la Economía, así como los artículos 1o., primer párrafo; 3o.; 5o., fracciones III y XVII; 12, último párrafo; 13; 14, fracciones I, XIII y XXII; 16, fracción II; 18, fracción III; 19, primer párrafo; 22 y 55 de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo Referente al Sector Social de la Economía, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el primero de enero del año dos mil dieciséis, sin perjuicio de lo señalado en las siguientes disposiciones transitorias."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal, a más tardar a los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Acuerdo de organización y funcionamiento del Instituto Nacional de la Economía Social publicado el 22 de julio de 2013 en el Diario Oficial de la Federación, continuará aplicándose en lo que no se oponga a este Decreto, hasta que la Secretaría de Desarrollo Social emita el nuevo Acuerdo. En tanto ello sucede, dicha Secretaría resolverá respecto de aquello que no se encuentre previsto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los oficiales mayores de la secretarías de Desarrollo Social y de Economía, con la participación que corresponda al Instituto Nacional de la Economía Social y el apoyo de la Secretaría de Hacienda y Crédito Público, realizarán todas las acciones administrativas para dar cumplimiento a lo establecido en el presente Decreto, mismas que deberán estar concluidas a más tardar en el plazo a que se refiere el transitorio Segundo de este Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los derechos laborales de los trabajadores del Instituto Nacional de la Economía Social no se verán afectados con motivo de la entrada en vigor de este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "En caso de que la Secretaría de Desarrollo Social determine, con base en las prioridades de gasto público del ejercicio fiscal de que se trate, así como en las necesidades y funciones del Instituto Nacional de la Economía Social, que se deben realizar modificaciones a la estructura orgánica de éste, los derechos laborales de los trabajadores deberán ser respetados conforme a la Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En el plazo referido en el transitorio segundo de este Decreto, la Secretaría de Desarrollo Social emitirá las reglas de operación, que contendrán al menos lo siguiente:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Para la consolidación empresarial y el desarrollo de organismos del sector social de la economía que cumplan con los requisitos establecidos en las propias reglas de operación recibirán los apoyos del Instituto."
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Los beneficiarios de los programas que actualmente opera la Secretaría correspondientes y que se incorporen a los programas operados por el Instituto, serán sujetos de las reglas de operación del programa de fomento a la economía social y deberán cumplir con los criterios vigentes de elegibilidad y requisitos para ser beneficiarios de los programas operados por el Instituto."
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Los mecanismos de evaluación y transparencia sobre los resultados de los programas a cargo del Instituto y el padrón de beneficiarios a través de las disposiciones aplicables."
+            },
+            {
+              "type": "paragraph",
+              "text": "Con la finalidad de verificar el cumplimiento de las políticas públicas de fomento y apoyo, el Consejo Nacional de Evaluación de la Política de Desarrollo Social realizará la evaluación de los programas a cargo de la Secretaría de Desarrollo Social, y los remitirá a la Cámara de Diputados, en los términos que establece la Ley de la Economía Social y Solidaria Reglamentaria del párrafo octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas disposiciones de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 12 de abril de 2019"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma la fracción I del artículo 8o., y se adiciona una fracción XIV al artículo 10 de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 26 de febrero de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Lizeth Sánchez García, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-decimo-quint",
+          "heading": "Artículo Décimo Quinto",
+          "descriptor": null,
+          "ordinal": "Artículo Décimo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 25, fracciones I, II y III, así como los párrafos segundo y tercero de Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman la denominación y diversas disposiciones de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2023"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma la denominación y los artículos 5o., fracción III; y 11, fracción X; y se adiciona una fracción X al artículo 8o. de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor tres días después de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Todas las referencias que hagan mención a la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos en lo referente al sector social de la economía contenidas en las leyes y normatividad vigente, se entenderán realizadas a la Ley de la Economía Social y Solidaria."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 14 de noviembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana; de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 16 de abril de 2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-tercer",
+          "heading": "Artículo Tercero",
+          "descriptor": null,
+          "ordinal": "Artículo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 14, fracciones XVII y XXI; 44, fracción I, y 45, fracciones I y XVII, y se adiciona una fracción XXI Bis, recorriéndose la subsecuente en su orden, al artículo 14, de la Ley de la Economía Social y Solidaria, para quedar como sigue: ……."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, publicada en el Diario Oficial de la Federación el 4 de enero de 2000 y sus modificaciones posteriores."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las disposiciones relativas a la Plataforma Digital de Contrataciones Públicas entrarán en vigor en la fecha de inicio de operación de cada uno de los módulos que la integran conforme a los avisos que dé a conocer la Secretaría Anticorrupción y Buen Gobierno en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los módulos de la Plataforma Digital de Contrataciones Públicas necesarios para realizar los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios previstos en el artículo 81 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán estar en completa operación dentro de los dieciocho meses siguientes a la entrada en vigor del presente ordenamiento. La Plataforma Digital de Contrataciones Públicas deberá iniciar operaciones en su totalidad en un plazo no mayor a treinta meses, contados a partir de la fecha de entrada en vigor de la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "En tanto entran en vigor las disposiciones a que se refiere el párrafo anterior seguirán aplicando en lo conducente las relativas al Sistema Electrónico de Información Pública Gubernamental denominado CompraNet."
+            },
+            {
+              "type": "paragraph",
+              "text": "En tanto entra en operación la Plataforma Digital de Contrataciones Públicas, la difusión y el comunicado de los acuerdos marco, la solicitud de cotización de la adjudicación directa con negociación, así como el anuncio del diálogo competitivo, se publicarán en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público en un plazo no mayor de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, a fin de adecuarlo al contenido del mismo. Hasta en tanto eso suceda, se continuará aplicando el Reglamento vigente en lo que no se opongan al presente instrumento."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor de la presente Ley, continuarán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las infracciones que hayan sido cometidas con anterioridad a la entrada en vigor de la presente Ley, serán sancionadas de conformidad con la legislación vigente al momento de su comisión."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la fecha de entrada en vigor del presente Decreto, todas las referencias en los demás ordenamientos jurídicos que se hagan a los contratos marco, deberán entenderse hechas a los acuerdos marco."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "Noveno",
+          "descriptor": null,
+          "ordinal": "Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los lineamientos y disposiciones a que hace referencia la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a doce meses, contados a partir de la entrada en vigor del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las políticas, bases y lineamientos a que hace referencia el artículo 4 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a ocho meses contados a partir de la entrada en vigor del presente Decreto. En tanto no se emitan dichas políticas, bases y lineamientos, las dependencias y entidades continuarán utilizando las disposiciones vigentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decim",
+          "heading": "Décimo",
+          "descriptor": null,
+          "ordinal": "Décimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La instalación del Comité de Contrataciones Estratégicas deberá llevarse a cabo a más tardar en los treinta días hábiles posteriores a la publicación de la presente Ley, asimismo la lista de bienes y servicios a contratar de manera consolidada para el ejercicio fiscal 2025, deberá ser aprobada por dicho órgano colegiado en un plazo no mayor a sesenta días hábiles a partir de su instalación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-primer",
+          "heading": "Décimo Primero",
+          "descriptor": null,
+          "ordinal": "Décimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Instituto Nacional de la Economía Social deberá implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, a más tardar, a los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "Décimo Segundo",
+          "descriptor": null,
+          "ordinal": "Décimo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las Sociedades Cooperativas que se hayan constituido legalmente previo a la entrada en vigor del presente Decreto, podrán registrarse en el Padrón Nacional de Sociedades Cooperativas, conforme a las disposiciones que establezca el Instituto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-tercer",
+          "heading": "Décimo Tercero",
+          "descriptor": null,
+          "ordinal": "Décimo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Cuatro meses a partir de la entrada en vigor del presente Decreto, para emitir el Acuerdo a que se refiere su primer párrafo."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Cuatro meses contados a partir de la entrada en vigor del Acuerdo que establece el inciso anterior, para que la Secretaría de Bienestar y la Secretaría de Economía, suscriban el instrumento a que se refiere su segundo párrafo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-cuart",
+          "heading": "Décimo Cuarto",
+          "descriptor": null,
+          "ordinal": "Décimo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El sistema electrónico para que las Cooperativas formalicen sus Actas Constitutivas a que se refiere el artículo 13 de la Ley General de Sociedades Cooperativas, deberá ponerse en funcionamiento en un plazo máximo de seis meses contados a partir de la suscripción del instrumento referido en el transitorio anterior."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-quint",
+          "heading": "Décimo Quinto",
+          "descriptor": null,
+          "ordinal": "Décimo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para efectos de lo previsto en el artículo 18, fracciones I y II, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se mantienen con plenos efectos las disposiciones siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "El Decreto por el que se establecen diversas medidas en materia de adquisiciones, uso de papel y de la certificación de manejo sustentable de bosques por la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2007;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La Circular que contiene los Lineamientos generales relativos a los aspectos de sustentabilidad ambiental para las adquisiciones, arrendamientos y servicios del sector público, publicada en el Diario Oficial de la Federación el 31 de octubre de 2007;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "El Oficio UNAOPSPF/309/AD/0725/2007, de fecha 31 de octubre de 2007, emitido por la entonces Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal de la Secretaría de la Función Pública, disponible en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Los Lineamientos para las adquisiciones de papel para uso de oficina por parte de las dependencias y entidades de la Administración Pública Federal, publicados en el Diario Oficial de la Federación el 2 de octubre de 2009."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-sext",
+          "heading": "Décimo Sexto",
+          "descriptor": null,
+          "ordinal": "Décimo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las dependencias y entidades tendrán un plazo de tres meses contado a partir de la entrada en vigor del presente Decreto, para revisar que la información de sus procedimientos de contratación y los datos relevantes de los contratos publicados en CompraNet que se publicaron a partir del año 2020, sea congruente con la que obra en sus expedientes de contratación con la finalidad de que la información que se migre a la Plataforma sea consistente. En caso de requerirse actualizaciones deberán solicitarse a la Dirección General de Innovación en Contrataciones Públicas de la Secretaría Anticorrupción y Buen Gobierno, fundando y motivando dicho requerimiento."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 10 de abril de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de abril de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

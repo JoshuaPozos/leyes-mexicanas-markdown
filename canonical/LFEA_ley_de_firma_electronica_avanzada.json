@@ -1,0 +1,1724 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LFEA_ley_de_firma_electronica_avanzada",
+  "abbreviation": "LFEA",
+  "name": "LEY de Firma Electrónica Avanzada",
+  "catalog_number": "051",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf",
+    "pdf_filename_origen": "LFEA.pdf",
+    "dof_publication": "DOF11/01/2012",
+    "last_reform": "DOF 14/11/2025",
+    "captured_at": "2026-04-09T09:53:07.521641+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "Nueva Ley publicada en el Diario Oficial de la Federación el 11 de enero de 2012 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "Artículo Único",
+      "descriptor": null,
+      "ordinal": "Artículo Único",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley de Firma Electrónica Avanzada, para quedar como sigue:"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-primer",
+      "heading": "TÍTULO PRIMERO",
+      "descriptor": "DISPOSICIONES GENERALES",
+      "ordinal": "PRIMERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-1",
+              "heading": "Artículo 1",
+              "descriptor": null,
+              "ordinal": "1",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La presente Ley es de orden e interés público y tiene por objeto regular:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "El uso de la firma electrónica avanzada en los actos previstos en esta Ley y la expedición de certificados digitales a personas físicas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Los servicios relacionados con la firma electrónica avanzada, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "La homologación de la firma electrónica avanzada con las firmas electrónicas avanzadas reguladas por otros ordenamientos legales, en los términos establecidos en esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-2",
+              "heading": "Artículo 2",
+              "descriptor": null,
+              "ordinal": "2",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para los efectos de la presente Ley se entenderá por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Actos: las comunicaciones, trámites, servicios, actos jurídicos y administrativos, así como procedimientos administrativos en los cuales los particulares y los servidores públicos de las dependencias y entidades de la Administración Pública Federal, y de las unidades administrativas de la Presidencia de la República, utilicen la firma electrónica avanzada;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 20-05-2021",
+                  "action": "reformado",
+                  "dof_date": "20-05-2021"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Actuaciones Electrónicas: las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y, en su caso, las resoluciones administrativas definitivas que se emitan en los actos a que se refiere esta Ley que sean comunicadas por medios electrónicos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Acuse de Recibo Electrónico: el mensaje de datos que se emite o genera a través de medios de comunicación electrónica para acreditar de manera fehaciente la fecha y hora de recepción de documentos electrónicos relacionados con los actos establecidos por esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Autoridad Certificadora: las dependencias y entidades de la Administración Pública Federal y los prestadores de servicios de certificación que conforme a las disposiciones jurídicas, tengan reconocida esta calidad y cuenten con la infraestructura tecnológica para la emisión, administración y registro de certificados digitales, así como para proporcionar servicios relacionados con los mismos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Certificado Digital: el mensaje de datos o registro que confirme el vínculo entre un firmante y la clave privada;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Clave Privada: los datos que el firmante genera de manera secreta y utiliza para crear su firma electrónica avanzada, a fin de lograr el vínculo entre dicha firma electrónica avanzada y el firmante;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Clave Pública: los datos contenidos en un certificado digital que permiten la verificación de la autenticidad de la firma electrónica avanzada del firmante;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Datos y elementos de identificación: aquéllos que se encuentran considerados como tales en la Ley General de Población y en las disposiciones que deriven de la misma;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Dependencias: las secretarías de Estado, incluyendo a sus órganos administrativos desconcentrados y la Consejería Jurídica del Ejecutivo Federal, así como las unidades administrativas de la Presidencia de la República, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 20-05-2021",
+                  "action": "reformado",
+                  "dof_date": "20-05-2021"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Documento Electrónico: aquél que es generado, consultado, modificado o procesado por medios electrónicos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Dirección de Correo Electrónico: la dirección en Internet señalada por los servidores públicos y particulares para enviar y recibir mensajes de datos y documentos electrónicos relacionados con los actos a que se refiere la presente Ley, a través de los medios de comunicación electrónica;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Entidades: los organismos públicos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos que en términos de la Ley Orgánica de la Administración Pública Federal y de la Ley Federal de las Entidades Paraestatales, sean considerados entidades de la Administración Pública Federal Paraestatal;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Firma Electrónica Avanzada: el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Firmante: toda persona que utiliza su firma electrónica avanzada para suscribir documentos electrónicos y, en su caso, mensajes de datos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "Medios de Comunicación Electrónica: los dispositivos tecnológicos que permiten efectuar la transmisión y recepción de mensajes de datos y documentos electrónicos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "Medios Electrónicos: los dispositivos tecnológicos para el procesamiento, impresión, despliegue, conservación y, en su caso, modificación de información;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVII",
+                  "text": "Mensaje de Datos: la información generada, enviada, recibida, archivada o comunicada a través de medios de comunicación electrónica, que puede contener documentos electrónicos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVIII",
+                  "text": "Página Web: el sitio en Internet que contiene información, aplicaciones y, en su caso, vínculos a otras páginas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIX",
+                  "text": "Prestador de Servicios de Certificación: las instituciones públicas conforme a las leyes que les son aplicables, así como los notarios y corredores públicos y las personas morales de carácter privado que de acuerdo a lo establecido en el Código de Comercio sean reconocidas con tal carácter para prestar servicios relacionados con la firma electrónica avanzada y, en su caso, expedir certificados digitales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XX",
+                  "text": "Secretaría: la Secretaría de la Función Pública;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXI",
+                  "text": "Servicios relacionados con la Firma Electrónica Avanzada: los servicios de firmado de documentos electrónicos, de verificación de la vigencia de certificados digitales, de verificación y validación de la unicidad de la clave pública, así como de consulta de certificados digitales revocados, entre otros, que en términos de las disposiciones jurídicas aplicables pueden ser proporcionados por la autoridad certificadora;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXII",
+                  "text": "Sistema de Trámites Electrónicos: el sitio desarrollado por la dependencia o entidad y contenido en su página Web, para el envío y recepción de documentos, notificaciones y comunicaciones, así como para la consulta de información relacionada con los actos a que se refiere esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXIII",
+                  "text": "Sujetos Obligados: los servidores públicos y particulares que utilicen la firma electrónica avanzada, en términos de lo previsto en las fracciones II y III del artículo 3 de esta Ley, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXIV",
+                  "text": "Tablero Electrónico: el medio electrónico a través del cual se ponen a disposición de los particulares que utilicen la firma electrónica avanzada en términos de esta Ley, las actuaciones electrónicas que emitan las dependencias y entidades, y que genera un acuse de recibo electrónico. Este medio electrónico estará ubicado en el sistema de trámites electrónicos de las propias dependencias y entidades."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-3",
+              "heading": "Artículo 3",
+              "descriptor": null,
+              "ordinal": "3",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Están sujetos a las disposiciones de la presente Ley:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Las dependencias y entidades;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Los servidores públicos de las dependencias y entidades que en la realización de los actos a que se refiere esta Ley utilicen la firma electrónica avanzada, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Los particulares, en los casos en que utilicen la firma electrónica avanzada en términos de esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-4",
+              "heading": "Artículo 4",
+              "descriptor": null,
+              "ordinal": "4",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las disposiciones de esta Ley no serán aplicables a los actos en que no sea factible el uso de la firma electrónica avanzada por disposición de ley o aquéllos en que exista previo dictamen de la Secretaría. Tampoco serán aplicables a las materias fiscal, aduanera y financiera."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En los actos de comercio e inscripciones en el Registro Público de Comercio, el uso de la firma electrónica avanzada se regirá de conformidad con lo previsto en el Código de Comercio y demás ordenamientos aplicables en la materia, sin perjuicio de la aplicación de lo dispuesto en esta Ley en lo que resulte procedente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-5",
+              "heading": "Artículo 5",
+              "descriptor": null,
+              "ordinal": "5",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría, en el ámbito de su competencia, estará facultada para interpretar las disposiciones de esta Ley para efectos administrativos."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria dictarán, de manera conjunta, las disposiciones generales para el adecuado cumplimiento de esta Ley, mismas que deberán publicarse en el Diario Oficial de la Federación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-unic.articulo-6",
+              "heading": "Artículo 6",
+              "descriptor": null,
+              "ordinal": "6",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". A falta de disposición expresa en esta Ley o en las demás disposiciones que de ella deriven, se aplicarán supletoriamente la Ley Federal de Procedimiento Administrativo, el Código Civil Federal y el Código Nacional de Procedimientos Civiles y Familiares."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 14-11-2025",
+                  "action": "reformado",
+                  "dof_date": "14-11-2025"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-segund",
+      "heading": "TÍTULO SEGUNDO",
+      "descriptor": "DE LA FIRMA ELECTRÓNICA AVANZADA",
+      "ordinal": "SEGUNDO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-i",
+          "heading": "CAPÍTULO I",
+          "descriptor": "Del uso y validez de la firma electrónica avanzada",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-7",
+              "heading": "Artículo 7",
+              "descriptor": null,
+              "ordinal": "7",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La firma electrónica avanzada podrá ser utilizada en documentos electrónicos y, en su caso, en mensajes de datos."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los documentos electrónicos y los mensajes de datos que cuenten con firma electrónica avanzada producirán los mismos efectos que los presentados con firma autógrafa y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-8",
+              "heading": "Artículo 8",
+              "descriptor": null,
+              "ordinal": "8",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para efectos del artículo 7 de esta Ley, la firma electrónica avanzada deberá cumplir con los principios rectores siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Equivalencia Funcional: Consiste en que la firma electrónica avanzada en un documento electrónico o en su caso, en un mensaje de datos, satisface el requisito de firma del mismo modo que la firma autógrafa en los documentos impresos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Autenticidad: Consiste en que la firma electrónica avanzada en un documento electrónico o, en su caso, en un mensaje de datos, permite dar certeza de que el mismo ha sido emitido por el firmante de manera tal que su contenido le es atribuible al igual que las consecuencias jurídicas que de él deriven;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Integridad: Consiste en que la firma electrónica avanzada en un documento electrónico o, en su caso, en un mensaje de datos, permite dar certeza de que éste ha permanecido completo e inalterado desde su firma, con independencia de los cambios que hubiere podido sufrir el medio que lo contiene como resultado del proceso de comunicación, archivo o presentación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Neutralidad Tecnológica: Consiste en que la tecnología utilizada para la emisión de certificados digitales y para la prestación de los servicios relacionados con la firma electrónica avanzada será aplicada de modo tal que no excluya, restrinja o favorezca alguna tecnología en particular;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "No Repudio: Consiste en que la firma electrónica avanzada contenida en documentos electrónicos garantiza la autoría e integridad del documento y que dicha firma corresponde exclusivamente al firmante, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Confidencialidad: Consiste en que la firma electrónica avanzada en un documento electrónico o, en su caso, en un mensaje de datos, garantiza que sólo pueda ser cifrado por el firmante y el receptor."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-9",
+              "heading": "Artículo 9",
+              "descriptor": null,
+              "ordinal": "9",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para que los sujetos obligados puedan utilizar la firma electrónica avanzada en los actos a que se refiere esta Ley deberán contar con:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Un certificado digital vigente, emitido u homologado en términos de la presente Ley, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Una clave privada, generada bajo su exclusivo control."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-ii",
+          "heading": "CAPÍTULO II",
+          "descriptor": "De los documentos electrónicos y de los mensajes de datos",
+          "ordinal": "II",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-10",
+              "heading": "Artículo 10",
+              "descriptor": null,
+              "ordinal": "10",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las dependencias y entidades en las comunicaciones y, en su caso, actos jurídicos que realicen entre las mismas, harán uso de mensajes de datos y aceptarán la presentación de documentos electrónicos, los cuales deberán contar, cuando así se requiera, con la firma electrónica avanzada del servidor público facultado para ello."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-11",
+              "heading": "Artículo 11",
+              "descriptor": null,
+              "ordinal": "11",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las dependencias y entidades en la realización de los actos a que se refiere esta Ley, deberán aceptar el uso de mensajes de datos y la presentación de documentos electrónicos cuando las mismas ofrezcan esta posibilidad, siempre que los particulares por sí o, en su caso, a través de las personas autorizadas por los mismos en términos del artículo 19 de la Ley Federal de Procedimiento Administrativo, manifiesten expresamente su conformidad para que dichos actos se efectúen, desde su inicio hasta su conclusión, a través de medios de comunicación electrónica."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La manifestación a que se refiere el párrafo anterior deberá señalar adicionalmente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Que aceptan consultar el tablero electrónico, al menos, los días quince y último de cada mes o bien, el día hábil siguiente si alguno de éstos fuere inhábil; y en caso de no hacerlo, se tendrá por hecha la notificación en el día hábil que corresponda;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Que aceptan darse por notificados de las actuaciones electrónicas que emita la dependencia o entidad que corresponda, en el mismo día en que consulten el tablero electrónico, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Que en el supuesto de que por causas imputables a la dependencia o entidad se encuentren imposibilitados para consultar el tablero electrónico o abrir los documentos electrónicos que contengan la información depositada en el mismo, en los días señalados en la fracción I de este artículo, lo harán del conocimiento de la propia dependencia o entidad a más tardar dentro de los tres días hábiles siguientes a aquél en que ocurra dicho impedimento, por medios de comunicación electrónica o cualquier otro previsto en el Reglamento de esta Ley, para que sean notificados por alguna otra forma de las establecidas en la Ley Federal de Procedimiento Administrativo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-12",
+              "heading": "Artículo 12",
+              "descriptor": null,
+              "ordinal": "12",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los sujetos obligados deberán contar con una dirección de correo electrónico para recibir, cuando corresponda, mensajes de datos y documentos electrónicos en la realización de los actos previstos en esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-13",
+              "heading": "Artículo 13",
+              "descriptor": null,
+              "ordinal": "13",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Cada dependencia y entidad creará y administrará un sistema de trámites electrónicos que establezca el control de accesos, los respaldos y la recuperación de información, con mecanismos confiables de seguridad, disponibilidad, integridad, autenticidad, confidencialidad y custodia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Secretaría emitirá los lineamientos conducentes a efecto de dar cumplimiento a lo dispuesto en este artículo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-14",
+              "heading": "Artículo 14",
+              "descriptor": null,
+              "ordinal": "14",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La información contenida en los mensajes de datos y en los documentos electrónicos será pública, salvo que la misma esté clasificada como reservada o confidencial en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los mensajes de datos y los documentos electrónicos que contengan datos personales estarán sujetos a las disposiciones aplicables al manejo, seguridad y protección de los mismos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-15",
+              "heading": "Artículo 15",
+              "descriptor": null,
+              "ordinal": "15",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las dependencias y entidades, así como los sujetos obligados deberán conservar en medios electrónicos, los mensajes de datos y los documentos electrónicos con firma electrónica avanzada derivados de los actos a que se refiere esta Ley, durante los plazos de conservación previstos en los ordenamientos aplicables, según la naturaleza de la información."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mediante disposiciones generales se establecerá lo relativo a la conservación de los mensajes de datos y de los documentos electrónicos con firma electrónica avanzada, para lo cual se tomarán en cuenta, entre otros requisitos, los previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-16",
+              "heading": "Artículo 16",
+              "descriptor": null,
+              "ordinal": "16",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Cuando se requiera que un documento impreso y con firma autógrafa, sea presentado o conservado en su forma original, tal requisito quedará satisfecho si la copia se genera en un documento electrónico, y se cumple con lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Que la migración a una forma digital haya sido realizada o supervisada por un servidor público que cuente con facultades de certificación de documentos en términos de las disposiciones aplicables o, en su caso, por el particular interesado, quien deberá manifestar, bajo protesta de decir verdad, que el documento electrónico es copia íntegra e inalterada del documento impreso;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Cuando exista duda sobre la autenticidad del documento electrónico remitido, la dependencia o entidad podrá solicitar que el documento impreso le sea presentado directamente o bien, que este último se le envíe por correo certificado con acuse de recibo."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En el supuesto de que se opte por el envío del documento impreso a través de correo certificado, será necesario que adicionalmente se envíe dentro de los tres días hábiles siguientes, mediante un mensaje de datos, la guía que compruebe que el referido documento fue depositado en una oficina de correos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Que la información contenida en el documento electrónico se mantenga íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y sea accesible para su ulterior consulta;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Que el documento electrónico permita conservar el formato del documento impreso y reproducirlo con exactitud, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Que se observe lo previsto en las disposiciones generales en materia de conservación de mensajes de datos y de los documentos electrónicos con firma electrónica avanzada."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Lo establecido en este artículo se aplicará sin perjuicio de que las dependencias y entidades observen, conforme a la naturaleza de la información contenida en el documento impreso de que se trate, los plazos de conservación previstos en los ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-tercer",
+      "heading": "TÍTULO TERCERO",
+      "descriptor": "DEL CERTIFICADO DIGITAL",
+      "ordinal": "TERCERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-i",
+          "heading": "CAPÍTULO I",
+          "descriptor": "De la estructura y procedimientos del certificado digital",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-17",
+              "heading": "Artículo 17",
+              "descriptor": null,
+              "ordinal": "17",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El certificado digital deberá contener lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Número de serie;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Autoridad certificadora que lo emitió;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Algoritmo de firma;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Vigencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Nombre del titular del certificado digital;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Dirección de correo electrónico del titular del certificado digital;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Clave Única del Registro de Población (CURP) del titular del certificado digital;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Clave pública, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Los demás requisitos que, en su caso, se establezcan en las disposiciones generales que se emitan en términos de esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-18",
+              "heading": "Artículo 18",
+              "descriptor": null,
+              "ordinal": "18",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para obtener un certificado digital el interesado accederá a la página Web de la autoridad certificadora y llenará el formato de solicitud con los datos siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Nombre completo del solicitante;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Domicilio del solicitante;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Dirección de correo electrónico para recibir mensajes de datos y documentos electrónicos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Clave Única del Registro de Población (CURP) del solicitante, salvo que se trate de extranjeros, quienes deberán asentar los datos del documento que acredite su legal estadía en territorio nacional, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Nombre de la autoridad certificadora a quien va dirigida la solicitud."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Posteriormente, el interesado deberá acudir ante la Autoridad Certificadora correspondiente y entregar su solicitud con firma autógrafa, acompañada de:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "El documento que compruebe el domicilio a que se refiere la fracción II;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "El documento de identificación oficial expedido por autoridad competente, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "El documento probatorio de nacionalidad mexicana, y tratándose de extranjeros, el documento que acredite su legal estadía en territorio nacional."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria establecerán de manera conjunta, en términos de las disposiciones aplicables, los procedimientos para el registro de datos y verificación de elementos de identificación, emisión, renovación y revocación de certificados digitales, los cuales darán a conocer a través de sus respectivas páginas Web."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-19",
+              "heading": "Artículo 19",
+              "descriptor": null,
+              "ordinal": "19",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El certificado digital quedará sin efectos o será revocado por la autoridad certificadora que lo emitió, cuando se actualice alguno de los supuestos siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Por expiración de su vigencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Cuando se compruebe que los documentos que presentó el titular del certificado digital para acreditar su identidad son falsos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Cuando así lo solicite el titular del certificado digital a la autoridad certificadora que lo emitió;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Por fallecimiento del titular del certificado digital;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Cuando se extravíe o inutilice por daños el medio electrónico que contenga los certificados digitales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Cuando se ponga en riesgo la confidencialidad, integridad o seguridad de los datos de creación de la firma electrónica avanzada, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Por resolución de autoridad judicial o administrativa que así lo determine."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En los casos a que se refiere la fracción IV de este artículo, la revocación procederá a solicitud de un tercero legalmente autorizado, quien deberá acompañar el acta de defunción del titular del certificado digital."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-20",
+              "heading": "Artículo 20",
+              "descriptor": null,
+              "ordinal": "20",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La vigencia del certificado digital será de cuatro años como máximo, la cual iniciará a partir del momento de su emisión y expirará el día y en la hora señalada en el mismo."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-ii",
+          "heading": "CAPÍTULO II",
+          "descriptor": null,
+          "ordinal": "II",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Derechos y obligaciones del titular del certificado digital"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-21",
+              "heading": "Artículo 21",
+              "descriptor": null,
+              "ordinal": "21",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El titular de un certificado digital tendrá los derechos siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "A ser informado por la autoridad certificadora que lo emita sobre:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Las características y condiciones precisas para la utilización del certificado digital, así como los límites de su uso;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Las características generales de los procedimientos para la generación y emisión del certificado digital y la creación de la clave privada, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "La revocación del certificado digital;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "A que los datos e información que proporcione a la autoridad certificadora sean tratados de manera confidencial, en términos de las disposiciones jurídicas aplicables, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "A solicitar la modificación de datos y elementos del certificado digital, mediante la revocación de éste, cuando así convenga a sus intereses."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-22",
+              "heading": "Artículo 22",
+              "descriptor": null,
+              "ordinal": "22",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El titular de un certificado digital estará obligado a lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Hacer declaraciones veraces y completas en relación con los datos y documentos que proporcione para su identificación personal;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Custodiar adecuadamente sus datos de creación de firma y la clave privada vinculada con ellos, a fin de mantenerlos en secreto;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Solicitar a la autoridad certificadora la revocación de su certificado digital en caso de que la integridad o confidencialidad de sus datos de creación de firma o su frase de seguridad hayan sido comprometidos y presuma que su clave privada pudiera ser utilizada indebidamente, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Dar aviso a la autoridad certificadora respectiva de cualquier modificación de los datos que haya proporcionado para su identificación personal, a fin de que ésta incorpore las modificaciones en los registros correspondientes y emita un nuevo certificado digital."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-iii",
+          "heading": "CAPÍTULO III",
+          "descriptor": "De las autoridades certificadoras",
+          "ordinal": "III",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-23",
+              "heading": "Artículo 23",
+              "descriptor": null,
+              "ordinal": "23",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria son consideradas autoridades certificadoras para emitir certificados digitales en términos de esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-24",
+              "heading": "Artículo 24",
+              "descriptor": null,
+              "ordinal": "24",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las dependencias y entidades, distintas a las mencionadas en el artículo anterior, así como los prestadores de servicios de certificación que estén interesados en tener el carácter de autoridad certificadora en términos de la presente Ley, deberán:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Contar con el dictamen favorable de la Secretaría, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Cumplir con los demás requisitos que se establezcan en las disposiciones generales que se emitan en los términos de esta Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Adicionalmente, los notarios y corredores públicos y las personas morales de carácter privado deberán presentar el documento emitido por la Secretaría de Economía que los acredite como prestadores de servicios de certificación, en virtud de haber cumplido con los requisitos establecidos en el Código de Comercio y su Reglamento."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-25",
+              "heading": "Artículo 25",
+              "descriptor": null,
+              "ordinal": "25",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las autoridades certificadoras tendrán las atribuciones y obligaciones siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Emitir, administrar y registrar certificados digitales, así como prestar servicios relacionados con la firma electrónica avanzada;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Llevar un registro de los certificados digitales que emitan y de los que revoquen, así como proveer los servicios de consulta a los interesados;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Adoptar las medidas necesarias para evitar la falsificación, alteración o uso indebido de certificados digitales, así como de los servicios relacionados con la firma electrónica avanzada;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Revocar los certificados de firma electrónica avanzada, cuando se actualice alguno de los supuestos previstos en el artículo 19 de esta Ley conforme a los procedimientos a que se refiere el artículo 18 de la misma;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Garantizar la autenticidad, integridad, conservación, confidencialidad y confiabilidad de la firma electrónica avanzada, así como de los servicios relacionados con la misma;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Preservar la confidencialidad, integridad y seguridad de los datos personales de los titulares de los certificados digitales en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, su Reglamento y demás disposiciones aplicables, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Las demás que les confieran las disposiciones jurídicas aplicables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Lo anterior, sin perjuicio de las atribuciones que, en su carácter de autoridad certificadora, corresponden al Servicio de Administración Tributaria en términos de la legislación fiscal y aduanera."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-26",
+              "heading": "Artículo 26",
+              "descriptor": null,
+              "ordinal": "26",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las autoridades certificadoras que sean reconocidas como tales en términos del artículo 24 de esta Ley, podrán dejar de tener ese carácter cuando incumplan las obligaciones previstas en la presente Ley o se ubiquen en alguno de los supuestos previstos en el Reglamento de esta Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cuando la autoridad certificadora sea un prestador de servicios de certificación, el procedimiento para revocar el instrumento que le reconozca tal carácter, tendrá lugar conforme a la Ley Federal de Procedimiento Administrativo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-27",
+              "heading": "Artículo 27",
+              "descriptor": null,
+              "ordinal": "27",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria podrán coordinarse para acordar y definir los estándares, características y requerimientos tecnológicos a que se deberán sujetar las autoridades certificadoras referidas en el artículo 24 de esta Ley para garantizar la autenticidad, integridad, conservación, confidencialidad y confiabilidad de la firma electrónica avanzada."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-iv",
+          "heading": "CAPÍTULO IV",
+          "descriptor": null,
+          "ordinal": "IV",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Del reconocimiento de certificados digitales y de la celebración de bases de colaboración y convenios de colaboración o coordinación"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iv.articulo-28",
+              "heading": "Artículo 28",
+              "descriptor": null,
+              "ordinal": "28",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria y demás autoridades certificadoras a que se refiere el artículo 24 podrán celebrar bases o convenios de colaboración, según corresponda para la prestación de servicios relacionados con la firma electrónica avanzada."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iv.articulo-29",
+              "heading": "Artículo 29",
+              "descriptor": null,
+              "ordinal": "29",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Ejecutivo Federal, por conducto de la Secretaría, de la Secretaría de Economía o el Servicio de Administración Tributaria, a solicitud de cualquier autoridad certificadora, podrá suscribir previa opinión de las otras dos, convenios de coordinación para el reconocimiento de certificados digitales homologados en términos de lo previsto en esta Ley, con:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Los poderes Legislativo y Judicial, federales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Los órganos constitucionales autónomos, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Los gobiernos de las entidades federativas, los municipios y los órganos político-administrativos del Distrito Federal."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los convenios de coordinación que se suscriban deberán darse a conocer a las demás autoridades certificadoras, a través de la página Web de la Secretaría."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iv.articulo-30",
+              "heading": "Artículo 30",
+              "descriptor": null,
+              "ordinal": "30",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los certificados digitales expedidos fuera de la República Mexicana tendrán la misma validez y producirán los mismos efectos jurídicos reconocidos en la presente Ley, siempre y cuando tales certificados sean reconocidos por las autoridades certificadoras a que se refiere el artículo 23 de la propia Ley y se garanticen, en la misma forma que lo hacen con sus propios certificados, el cumplimiento de los requisitos, el procedimiento, así como la validez y vigencia del certificado."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-cuart",
+      "heading": "TÍTULO CUARTO",
+      "descriptor": "DE LAS RESPONSABILIDADES Y SANCIONES",
+      "ordinal": "CUARTO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-31",
+              "heading": "Artículo 31",
+              "descriptor": null,
+              "ordinal": "31",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, dará lugar al procedimiento y a las sanciones que correspondan en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cuando las infracciones a la presente Ley impliquen la posible comisión de una conducta sancionada en los términos de la legislación civil, penal o de cualquier otra naturaleza, las dependencias y entidades lo harán del conocimiento de las autoridades competentes."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor a los ciento veinte días hábiles siguientes al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas aquellas disposiciones legales y administrativas que se opongan a lo previsto en esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal expedirá el Reglamento de la presente Ley dentro de los ciento ochenta días hábiles siguientes a la fecha de la entrada en vigor de la Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los certificados digitales expedidos con anterioridad a la entrada en vigor de esta Ley por los prestadores de servicios de certificación que, conforme a las disposiciones jurídicas aplicables, tengan reconocida la calidad de autoridad certificadora, así como por la Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria, conservarán su vigencia y alcances, de conformidad con las disposiciones jurídicas bajo las cuales fueron expedidos."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria reconocerán, para efectos de lo establecido en la presente Ley, los certificados digitales a que se refiere el párrafo anterior, siempre que los mismos cumplan al menos con los requisitos señalados en las fracciones I a V, VII y VIII del artículo 17 de esta Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las bases o convenios de colaboración que la Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria hayan celebrado con anterioridad a la entrada en vigor de esta Ley, con las Dependencias y Entidades, así como con los órganos constitucionales autónomos para efectos del reconocimiento de certificados digitales, podrán mantener la vigencia prevista en los mismos hasta que la totalidad de los certificados digitales existentes sean homologados en términos de esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las disposiciones generales a que se refiere el segundo párrafo del artículo 5 de la presente Ley se emitirán en un plazo máximo de noventa días hábiles, contados a partir de la entrada en vigor de este ordenamiento."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para efectos de lo previsto en el primer párrafo del artículo 4 de esta Ley, las dependencias y entidades deberán remitir a la Secretaría, a más tardar en la fecha de entrada en vigor de esta Ley, su programa de instrumentación para el uso de la firma electrónica avanzada, en el que se contemplen los distintos actos en los que sea o no factible el uso de la firma electrónica avanzada, con objeto de que la Secretaría emita, cuando corresponda, el dictamen que determine la gradualidad requerida para que la dependencia o entidad respectiva esté en posibilidad de instrumentar el uso de la firma electrónica avanzada en los actos que le competen. La Secretaría podrá proporcionar el apoyo que soliciten las dependencias y entidades para la instrumentación del referido programa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tratándose de los procedimientos de acceso a la información de las Dependencias y Entidades el Instituto Federal de Acceso a la Información Pública y Protección de Datos determinará si en los mismos resulta factible incorporar el uso de la firma electrónica avanzada en los términos de la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 24 de noviembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Arturo Herviz Reyes, Secretario.- Dip. Herón Escobar García, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-trigesim",
+          "heading": "Artículo Trigésimo",
+          "descriptor": null,
+          "ordinal": "Artículo Trigésimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quinto.- Se reforman las fracciones I y IX del artículo 2 de la Ley de Firma Electrónica Avanzada, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley Orgánica de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán."
+            },
+            {
+              "type": "paragraph",
+              "text": "A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "Noveno",
+          "descriptor": null,
+          "ordinal": "Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decim",
+          "heading": "Décimo",
+          "descriptor": null,
+          "ordinal": "Décimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-primer",
+          "heading": "Décimo Primero",
+          "descriptor": null,
+          "ordinal": "Décimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "Décimo Segundo",
+          "descriptor": null,
+          "ordinal": "Décimo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "tercero",
+          "descriptor": null,
+          "ordinal": "tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "del artículo 88 del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-tercer",
+          "heading": "Décimo Tercero",
+          "descriptor": null,
+          "ordinal": "Décimo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-cuart",
+          "heading": "Décimo Cuarto",
+          "descriptor": null,
+          "ordinal": "Décimo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-quint",
+          "heading": "Décimo Quinto",
+          "descriptor": null,
+          "ordinal": "Décimo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-sext",
+          "heading": "Décimo Sexto",
+          "descriptor": null,
+          "ordinal": "Décimo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quedan derogadas todas las disposiciones que se opongan a este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-decimo-segund",
+          "heading": "Artículo Décimo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Décimo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 6 de la Ley de Firma Electrónica Avanzada, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023."
+            },
+            {
+              "type": "paragraph",
+              "text": "En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión."
+            },
+            {
+              "type": "paragraph",
+              "text": "En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares."
+            },
+            {
+              "type": "paragraph",
+              "text": "No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-sext",
+          "heading": "artículo Sexto",
+          "descriptor": null,
+          "ordinal": "artículo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

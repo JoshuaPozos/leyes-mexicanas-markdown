@@ -56,8 +56,8 @@
     },
     "preamble": {
       "type": "array",
-      "description": "Text blocks before the first structural division (introductory notes, publication history, etc.).",
-      "items": { "$ref": "#/$defs/text_block" }
+      "description": "Content before the first structural division (introductory notes, publication history, fracciones, etc.).",
+      "items": { "$ref": "#/$defs/content_element" }
     },
     "structure": {
       "type": "array",

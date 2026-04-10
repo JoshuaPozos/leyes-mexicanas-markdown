@@ -1,0 +1,3087 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LASoc_ley_de_asistencia_social",
+  "abbreviation": "LASoc",
+  "name": "LEY de Asistencia Social",
+  "catalog_number": "024",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf",
+    "pdf_filename_origen": "LASoc.pdf",
+    "dof_publication": "DOF02/09/2004",
+    "last_reform": "DOF 01/04/2024",
+    "captured_at": "2026-04-09T09:40:11.272475+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "Nueva Ley publicada en el Diario Oficial de la Federación el 2 de septiembre de 2004 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "ARTÍCULO ÚNICO",
+      "descriptor": null,
+      "ordinal": "ARTÍCULO ÚNICO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley de Asistencia Social."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "Capítulo I",
+      "descriptor": "Disposiciones Generales",
+      "ordinal": "I",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-1",
+          "heading": "Artículo 1",
+          "descriptor": null,
+          "ordinal": "1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La presente Ley se fundamenta en las disposiciones que en materia de Asistencia Social contiene la Ley General de Salud, para el cumplimiento de la misma, garantizando la concurrencia y colaboración de la Federación, las Entidades Federativas, el Distrito Federal y los sectores social y privado."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-2",
+          "heading": "Artículo 2",
+          "descriptor": null,
+          "ordinal": "2",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las disposiciones de esta Ley son de orden público e interés general, de observancia en toda la República y tienen por objeto sentar las bases para la promoción de un Sistema Nacional de Asistencia Social que fomente y coordine la prestación de servicios de asistencia social pública y privada e impulse la participación de la sociedad en la materia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-3",
+          "heading": "Artículo 3",
+          "descriptor": null,
+          "ordinal": "3",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva."
+            },
+            {
+              "type": "paragraph",
+              "text": "La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "Capítulo II",
+      "descriptor": null,
+      "ordinal": "II",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Sujetos de la Asistencia Social"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-4",
+          "heading": "Artículo 4",
+          "descriptor": null,
+          "ordinal": "4",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Tienen derecho a la asistencia social los individuos y familias que por sus condiciones físicas, mentales, jurídicas, económicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 24-04-2018",
+              "action": "reformado",
+              "dof_date": "24-04-2018"
+            },
+            {
+              "type": "paragraph",
+              "text": "Con base en lo anterior, son sujetos de la asistencia social, preferentemente:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Todas las niñas, niños y adolescentes, en especial aquellos que se encuentren en situación de riesgo o afectados por:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Desnutrición;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Deficiencias en su desarrollo físico o mental, o cuando éste sea afectado por condiciones familiares adversas;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Maltrato o abuso;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Abandono, ausencia o irresponsabilidad de progenitores en el cumplimiento y garantía de sus derechos;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Ser víctimas de cualquier tipo de explotación;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "Vivir en la calle;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "g",
+              "text": "Ser víctimas del tráfico de personas, la pornografía y el comercio sexual;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "h",
+              "text": "Trabajar en condiciones que afecten su desarrollo e integridad física y mental;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "i",
+              "text": "Infractores y víctimas del delito;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "j",
+              "text": "Ser hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "k",
+              "text": "Ser migrantes y repatriados;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 19-12-2014",
+              "action": "reformado",
+              "dof_date": "19-12-2014"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "l",
+              "text": "Ser víctimas de conflictos armados y de persecución étnica o religiosa, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 19-12-2014",
+              "action": "reformado",
+              "dof_date": "19-12-2014"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "m",
+              "text": "Ser huérfanos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso adicionado DOF 19-12-2014",
+              "action": "adicionado",
+              "dof_date": "19-12-2014"
+            },
+            {
+              "type": "paragraph",
+              "text": "Para los efectos de esta Ley son niñas, niños y adolescentes las personas comprendidas en el artículo 5 de la Ley General de los Derechos de Niñas, Niños y Adolescentes."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 06-01-2023",
+              "action": "reformado",
+              "dof_date": "06-01-2023"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Las mujeres:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "En estado de gestación o lactancia, las madres adolescentes y madres solas que tengan a su cuidado hijos menores de dieciocho años de edad;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 19-12-2014",
+              "action": "reformado",
+              "dof_date": "19-12-2014"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "En situación de maltrato o abandono, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "En situación de explotación, incluyendo la sexual."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Indígenas migrantes, desplazados o en situación vulnerable;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Migrantes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Personas adultas mayores:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "En desamparo, marginación o sujetos a maltrato;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Con discapacidad, o"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Que ejerzan la patria potestad;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-12-2014",
+              "action": "reformado",
+              "dof_date": "19-12-2014"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Personas con algún tipo de discapacidad o necesidades especiales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Dependientes de personas privadas de su libertad, de desaparecidos, de enfermos terminales, de alcohólicos o de fármaco dependientes;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 23-04-2013",
+              "action": "reformado",
+              "dof_date": "23-04-2013"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Víctimas de la comisión de delitos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Indigentes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Alcohólicos y fármaco dependientes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Coadyuvar en asistencia a las personas afectadas por desastres naturales, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Los demás sujetos considerados en otras disposiciones jurídicas aplicables."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-5",
+          "heading": "Artículo 5",
+          "descriptor": null,
+          "ordinal": "5",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La rectoría de la asistencia social pública y privada corresponde al Estado, el cual, en forma prioritaria, proporcionará servicios asistenciales encaminados al desarrollo integral de la familia, entendida como la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, y también a apoyar, en su formación y subsistencia, a individuos con carencias familiares esenciales no superables en forma autónoma."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-6",
+          "heading": "Artículo 6",
+          "descriptor": null,
+          "ordinal": "6",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La prestación de los servicios de asistencia social que establece la Ley General de Salud, que sean de jurisdicción federal, se realizará por las dependencias del Ejecutivo Federal competentes, cada una según la esfera de sus atribuciones, así como por las entidades de la administración pública federal y por las instituciones públicas y privadas, que tengan entre sus objetivos la prestación de esos servicios, de conformidad con lo que disponen las leyes respectivas."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-7",
+          "heading": "Artículo 7",
+          "descriptor": null,
+          "ordinal": "7",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los servicios de salud en materia de asistencia social que presten la Federación, los Estados, los Municipios y los sectores social y privado, forman parte del Sistema Nacional de Salud, a través del Sistema Nacional de Asistencia Social Pública y Privada."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los que se presten en los Estados por los gobiernos locales y por los sectores social y privado, formarán parte de los sistemas estatales de salud en lo relativo a su régimen local. De acuerdo a lo dispuesto en la Ley General de Salud corresponde a los gobiernos de las entidades federativas en materia de salubridad general, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, con base en las Normas Oficiales Mexicanas que al efecto expida la Secretaría de Salud o el Sistema Nacional para el Desarrollo Integral de la Familia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-8",
+          "heading": "Artículo 8",
+          "descriptor": null,
+          "ordinal": "8",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- En los términos del artículo anterior, los servicios de salud en materia de asistencia social que se presten como servicios públicos a la población, por las instituciones de seguridad social y los de carácter social y privado, se seguirán rigiendo por los ordenamientos específicos que les son aplicables y supletoriamente por la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-9",
+          "heading": "Artículo 9",
+          "descriptor": null,
+          "ordinal": "9",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría de Salud, en su carácter de autoridad sanitaria, y el Sistema Nacional para el Desarrollo Integral de la Familia, en su carácter de coordinador del Sistema Nacional de Asistencia Social Pública y Privada, tendrán respecto de la asistencia social, y como materia de salubridad general, las siguientes atribuciones:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Vigilar el estricto cumplimiento de esta Ley, así como las disposiciones que se dicten con base en ella, sin perjuicio de las facultades que en la materia competan a otras dependencias y entidades de la Administración Pública Federal y a los Gobiernos y entidades de los estados;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Formular las Normas Oficiales Mexicanas que rijan la prestación de los servicios de salud en materia de asistencia social, a fin de garantizar la calidad de los servicios, y los derechos de los sujetos de esta Ley; así como la difusión y actualización de las mismas entre los integrantes del Sistema Nacional de Salud, y del Sistema Nacional de Asistencia Social Pública y Privada;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Certificar que los servicios que presten en la materia las instituciones de los sectores público y privado, cumplan con lo estipulado en las Normas Oficiales Mexicanas señaladas en el artículo anterior;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Supervisar la debida aplicación de las Normas Oficiales Mexicanas que rijan la prestación de los servicios de salud en esta materia, así como evaluar los resultados de los servicios asistenciales que se presten conforme a las mismas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Apoyar la coordinación entre las instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos en la materia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios asistenciales en materia de salubridad general;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Formar personal profesional en materias relacionadas con la prestación de servicios de asistencia social;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Coordinar un Sistema Nacional de Información en materia de asistencia social en colaboración con el INEGI;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Coordinar, con las entidades federativas, la prestación y promoción de los servicios de salud en materia de asistencia social;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Concertar acciones con los sectores social y privado, mediante convenios y contratos en que se regulen la prestación y promoción de los servicios de salud en materia de asistencia social, con la participación que corresponda a otras dependencias o entidades;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Coordinar, evaluar y dar seguimiento a los servicios de salud que en materia de asistencia social presten las instituciones a que se refiere el Artículo 34 Fracción II de la Ley General de Salud;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Coordinar, integrar y sistematizar un Directorio Nacional de Instituciones públicas y privadas de asistencia social;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Supervisar y coadyuvar en el desarrollo de los procesos de adopción de menores, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Las demás que le otorga la Ley General de Salud."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los sujetos de atención de la asistencia social tendrán derecho a:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Recibir servicios de calidad, con oportunidad y con calidez, por parte de personal profesional y calificado."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 08-06-2012",
+              "action": "reformado",
+              "dof_date": "08-06-2012"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La confidencialidad respecto a sus condiciones personales y de los servicios que reciban, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Recibir los servicios sin discriminación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los sujetos y las familias, en la medida de sus posibilidades, participarán en los distintos procesos de la asistencia social, como la capacitación, rehabilitación e integración. Los familiares de los sujetos de la asistencia social, serán corresponsables de esa participación y aprovechamiento."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "Capítulo III",
+      "descriptor": null,
+      "ordinal": "III",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Servicios de la Asistencia Social"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Se entienden como servicios básicos de salud en materia de asistencia social los siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Los señalados en el Artículo 168 de la Ley General de Salud:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "La atención a personas que, por sus carencias socio-económicas o por condiciones de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 01-06-2011",
+              "action": "reformado",
+              "dof_date": "01-06-2011"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "La atención en establecimientos especializados a menores y adultos mayores en estado de abandono o desamparo y personas con discapacidad sin recursos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 01-06-2011",
+              "action": "reformado",
+              "dof_date": "01-06-2011"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la senectud;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, adultos mayores y personas con discapacidad sin recursos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 01-06-2011",
+              "action": "reformado",
+              "dof_date": "01-06-2011"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "g",
+              "text": "La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "h",
+              "text": "El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas, e"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "i",
+              "text": "La prestación de servicios funerarios."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La promoción del desarrollo, el mejoramiento y la integración familiar;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "La protección de los derechos de niñas, niños y adolescentes, la representación jurídica y la promoción de su sano desarrollo físico, mental y social;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de la niñez a la satisfacción de sus necesidades y a la salud física y mental;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "La colaboración o auxilio a las autoridades laborales competentes en la vigilancia y aplicación de la legislación laboral aplicable a la niñez;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "La atención a niños, niñas y adolescentes en riesgo de fármaco dependencia, fármaco dependientes o susceptibles de incurrir en hábitos y conductas antisociales y delictivas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "La cooperación con instituciones de procuración e impartición de justicia en la protección de los sujetos susceptibles de recibir servicios de asistencia social;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "La orientación nutricional y la alimentación complementaria a población de escasos recursos y a población de zonas marginadas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Coadyuvar con las autoridades educativas en la prestación de servicios de educación especial, con base en lo estipulado en el Artículo 41 de la Ley General de Educación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "El apoyo a mujeres en períodos de gestación o lactancia, con especial atención a las adolescentes en situación de vulnerabilidad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "La prevención al desamparo o abandono y la protección a los sujetos que lo padecen;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "La prevención de la discapacidad, la habilitación y la rehabilitación e integración a la vida productiva o activa de personas con algún tipo de discapacidad;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 01-06-2011",
+              "action": "reformado",
+              "dof_date": "01-06-2011"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "La promoción de acciones y de la participación social para el mejoramiento comunitario, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Los análogos y conexos a los anteriores que tienda a modificar y mejorar las circunstancias de carácter social que impidan al individuo y familias, su desarrollo integral."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-13",
+          "heading": "Artículo 13",
+          "descriptor": null,
+          "ordinal": "13",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los servicios enumerados en el artículo anterior podrán ser prestados por cualquier institución pública o privada, las instituciones privadas no podrán participar en los servicios que por disposición legal correspondan de manera exclusiva a instituciones públicas federales, estatales o municipales."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv",
+      "heading": "Capítulo IV",
+      "descriptor": null,
+      "ordinal": "IV",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Concurrencia de la Asistencia Social"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-14",
+          "heading": "Artículo 14",
+          "descriptor": null,
+          "ordinal": "14",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Son facultades de la Federación en materia de asistencia social:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La formulación y conducción de la política nacional y el diseño de los instrumentos programáticos necesarios;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "El seguimiento de Acuerdos, Tratados e Instrumentos Internacionales en materia de asistencia social y atención a grupos vulnerables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "La coordinación del Sistema Nacional de Asistencia Social Pública y Privada;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "La coordinación del Servicio Nacional de Información de Instituciones de Asistencia Social Públicas y Privadas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "El otorgamiento de estímulos y prerrogativas de ámbito federal para fomentar el desarrollo de servicios asistenciales, en el marco de las prioridades nacionales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "El establecimiento y operación de mecanismos de recaudación y canalización de recursos públicos federales, así como la determinación de los sujetos, área geográfica y servicios de carácter prioritario, en que se aplicarán dichos recursos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "La instrumentación de mecanismos de coordinación para la operación, control y evaluación de los programas de asistencia social que las entidades federativas, el Distrito Federal y los municipios realicen apoyados total o parcialmente con recursos federales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "La vigilancia, en el ámbito de su competencia, del cumplimiento de esta Ley y de los demás ordenamientos que de ella deriven, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Las demás que ésta y otras leyes reserven a la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-15",
+          "heading": "Artículo 15",
+          "descriptor": null,
+          "ordinal": "15",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Cuando, por razón de la materia, se requiera de la intervención de otras dependencias o entidades, el Organismo denominado Sistema Nacional para el Desarrollo Integral de la Familia, en lo sucesivo \"El Organismo\", ejercerá sus atribuciones en coordinación con ellas."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-16",
+          "heading": "Artículo 16",
+          "descriptor": null,
+          "ordinal": "16",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las dependencias y las entidades de la Administración Pública Federal que ejerzan funciones relacionadas con la asistencia social, se sujetarán en el ejercicio de éstas a las disposiciones contenidas en la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-17",
+          "heading": "Artículo 17",
+          "descriptor": null,
+          "ordinal": "17",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las atribuciones que en materia de asistencia social correspondan a las Entidades Federativas, al Distrito Federal y a los Municipios, se regirán de acuerdo con lo estipulado por el Artículo 7 de esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-18",
+          "heading": "Artículo 18",
+          "descriptor": null,
+          "ordinal": "18",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las Entidades Federativas, el Distrito Federal y los Municipios asumirán el ejercicio de las funciones que, en materia de asistencia social, les transfiera la Federación a través de los convenios respectivos y conforme a lo dispuesto en este ordenamiento."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-19",
+          "heading": "Artículo 19",
+          "descriptor": null,
+          "ordinal": "19",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría de Salud a través del Organismo, y en su caso, con la intervención de otras dependencias y entidades, podrá celebrar acuerdos de coordinación en materia de asistencia social con los gobiernos de las Entidades Federativas y del Distrito Federal."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-20",
+          "heading": "Artículo 20",
+          "descriptor": null,
+          "ordinal": "20",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las Entidades Federativas y los Municipios podrán suscribir entre sí acuerdos de coordinación y colaboración en materia de asistencia social, para ejercer sus atribuciones a través de las instancias que al efecto convengan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-21",
+          "heading": "Artículo 21",
+          "descriptor": null,
+          "ordinal": "21",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los gobiernos Federal, de las Entidades Federativas, del Distrito Federal, y de los Municipios, en sus respectivas competencias, podrán promover la participación correspondiente de la sociedad en la planeación, ejecución y evaluación de la política nacional de asistencia social. Para tal efecto, podrán concertar acciones y establecer acuerdos y convenios de colaboración con los sectores social y privado y con instituciones académicas, grupos y demás personas físicas y morales interesadas en la prestación de servicios de asistencia social."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-v",
+      "heading": "Capítulo V",
+      "descriptor": null,
+      "ordinal": "V",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Sistema Nacional de Asistencia Social Pública y Privada"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-22",
+          "heading": "Artículo 22",
+          "descriptor": null,
+          "ordinal": "22",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Son integrantes del Sistema Nacional de Asistencia Social Pública y Privada:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "La Secretaría de Salud;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "La Secretaría de Desarrollo Social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "La Secretaría de Educación Pública;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "El Sistema Nacional para el Desarrollo Integral de la Familia;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Los Sistemas Estatales y del Distrito Federal para el Desarrollo Integral de la Familia;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "Los Sistemas Municipales para el Desarrollo Integral de la Familia;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "g",
+              "text": "Las instituciones privadas de asistencia social legalmente constituidas;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "h",
+              "text": "Las Juntas de Asistencia Privada;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "i",
+              "text": "El Instituto Nacional de las Personas Adultas Mayores;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "j",
+              "text": "El Instituto Nacional Indigenista;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "k",
+              "text": "El Instituto Mexicano de la Juventud;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "l",
+              "text": "El Instituto Nacional de las Mujeres;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "m",
+              "text": "Los Centros de Integración Juvenil;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "n",
+              "text": "El Consejo Nacional contra las Adicciones;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "o",
+              "text": "El Consejo Nacional de Fomento Educativo;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "p",
+              "text": "El Consejo Nacional para la Educación y la Vida;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "q",
+              "text": "La Lotería Nacional para la Asistencia Pública;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "r",
+              "text": "Pronósticos para la Asistencia Pública;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "s",
+              "text": "La Beneficencia Pública, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "t",
+              "text": "Las demás entidades y dependencias federales, estatales y municipales, así como los órganos desconcentrados que realicen actividades vinculadas a la asistencia social."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-23",
+          "heading": "Artículo 23",
+          "descriptor": null,
+          "ordinal": "23",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Sistema Nacional de Asistencia Social Pública y Privada, en lo sucesivo \"El Sistema\", tiene como objeto promover y apoyar, con la participación de los sectores público, privado y las comunidades, las acciones en favor de las personas y familias a que se refiere esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-24",
+          "heading": "Artículo 24",
+          "descriptor": null,
+          "ordinal": "24",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Federación, a través del Organismo, fijará las bases sobre las cuales se sustentará la coordinación y concertación de acciones del Sistema."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-25",
+          "heading": "Artículo 25",
+          "descriptor": null,
+          "ordinal": "25",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Sistema contará, para su funcionamiento y coordinación, con un Consejo Nacional, que emitirá opiniones, recomendaciones y líneas de acción para la prestación de servicios de asistencia social."
+            },
+            {
+              "type": "paragraph",
+              "text": "Este Consejo Nacional se integrará por:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Una Secretaría Ejecutiva, que será asumida por El Organismo, el cual deberá, en el marco de sus atribuciones, elaborar el Reglamento para la operación del Consejo Nacional;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Un representante por cada uno de los Sistemas Estatales para el Desarrollo Integral de la Familia;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Un representante por cada una de las Juntas de Asistencia Privada de los Estados de la República y del Distrito Federal;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Un representante por cada una de las dependencias federales integrantes del Sistema, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Cinco representantes de los Sistemas Municipales para el Desarrollo Integral de la Familia, que serán electos de acuerdo con el Reglamento del Sistema Nacional de Asistencia Social."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-26",
+          "heading": "Artículo 26",
+          "descriptor": null,
+          "ordinal": "26",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los integrantes del Sistema contribuirán al logro de los siguientes objetivos:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Coordinar la prestación de servicios de asistencia social pública y privada;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Establecer las prioridades y estrategias nacionales para la prestación de servicios de asistencia social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Promover la ampliación de la cobertura y garantizar la calidad de los servicios de asistencia social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Promover un esquema regionalizado de servicios de asistencia social, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Promover la cooperación y la coordinación interinstitucional para asegurar la atención integral a las personas y familias que sean sujetos de derechos de asistencia social."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vi",
+      "heading": "Capítulo VI",
+      "descriptor": null,
+      "ordinal": "VI",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Sistema Nacional para el Desarrollo Integral de la Familia"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-27",
+          "heading": "Artículo 27",
+          "descriptor": null,
+          "ordinal": "27",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Sistema Nacional para el Desarrollo Integral de la Familia es el Organismo Público Descentralizado, con patrimonio y personalidad jurídica propios, a que se refiere el Artículo 172 de la Ley General de Salud."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-28",
+          "heading": "Artículo 28",
+          "descriptor": null,
+          "ordinal": "28",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Organismo será el coordinador del Sistema, y tendrá las siguientes funciones:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Vigilar el estricto cumplimiento de la presente Ley;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Elaborar un Programa Nacional de Asistencia Social conforme a las disposiciones de la Ley de Planeación, los lineamientos del Plan Nacional de Desarrollo, y demás instrumentos de planeación de la Administración Pública Federal;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Con fundamento en lo establecido en la Ley General de los Derechos de Niñas, Niños y Adolescentes, el organismo coadyuvará a atender y garantizar el interés superior de la niñez;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 06-01-2023",
+              "action": "reformado",
+              "dof_date": "06-01-2023"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Prestar servicios de representación y asistencia jurídica y de orientación social a niñas y niños, jóvenes, adultos mayores, personas con alguna discapacidad, madres adolescentes y solteras, indigentes, indígenas migrantes o desplazados y todas aquellas personas que por distintas circunstancias no puedan ejercer plenamente sus derechos;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Poner a disposición del Ministerio Público, los elementos a su alcance para la protección de los derechos familiares;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "Proponer para su aprobación a la Secretaría de Salud, la formulación de las Normas Oficiales Mexicanas en la materia y apoyarla en la vigilancia de la aplicación de las mismas;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "g",
+              "text": "Proponer a la Secretaría de Salud, en su carácter de administradora del Patrimonio de la Beneficencia Pública, programas de asistencia social que contribuyan al uso eficiente de los bienes que lo componen;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "h",
+              "text": "Proponer a la Lotería Nacional para la Asistencia Pública y a los Pronósticos Deportivos para la Asistencia Pública programas de asistencia social que contribuyan al fortalecimiento de los servicios de asistencia social que presten los sectores públicos, social y privado;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "i",
+              "text": "Promover la elaboración de Normas Oficiales Mexicanas en materia de asistencia social, a través de un Comité Técnico de Normalización Nacional de Asistencia Social, que se regulará con base en lo establecido en la Ley Federal de Metrología y Normalización;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "j",
+              "text": "Supervisar y evaluar la actividad y los servicios de asistencia social que presten las instituciones de asistencia social pública y privada, conforme a lo que establece la Ley General de Salud y el presente ordenamiento;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "k",
+              "text": "Elaborar y actualizar el Directorio Nacional de las Instituciones Públicas y Privadas de Asistencia Social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "l",
+              "text": "Organizar el Servicio Nacional de Información sobre la Asistencia Social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "m",
+              "text": "Organizar, promover y operar el Centro de Información y Documentación sobre Asistencia Social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "n",
+              "text": "Difundir a través del Sistema la información sobre el acceso al financiamiento nacional e internacional para actividades de asistencia social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "o",
+              "text": "Realizar y apoyar estudios e investigaciones en materia de asistencia social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "p",
+              "text": "Promover la formación, capacitación y profesionalización del personal encargado de la prestación de los servicios de asistencia social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "q",
+              "text": "Operar establecimientos de asistencia social y llevar a cabo acciones en materia de prevención;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "r",
+              "text": "Diseñar modelos de atención para la prestación de los servicios asistenciales;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "s",
+              "text": "Operar en el marco de sus atribuciones programas de rehabilitación y educación especial;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "t",
+              "text": "Prestar apoyo, colaboración técnica y administrativa en materia de asistencia social, a las distintas entidades federativas, al Distrito Federal y a los Municipios;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "u",
+              "text": "Promover la integración de fondos mixtos para la asistencia social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "v",
+              "text": "Asignar, de acuerdo a su disponibilidad, recursos económicos temporales y otorgar apoyos técnicos a instituciones privadas y sociales, con base a los criterios que sean fijados por la Junta de Gobierno;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "w",
+              "text": "Coadyuvar con la Secretaría de Relaciones Exteriores en la representación del Gobierno Federal para la ejecución y difusión de programas en materia de asistencia social ante organismos internacionales y multilaterales;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "x",
+              "text": "Coordinar los esfuerzos públicos y privados, para la integración social de los sujetos de la asistencia, y la elaboración y seguimiento de los programas respectivos;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "y",
+              "text": "Promover la creación y el desarrollo de instituciones públicas y privadas de asistencia social, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "z",
+              "text": "Establecer prioridades en materia de asistencia social."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-29",
+          "heading": "Artículo 29",
+          "descriptor": null,
+          "ordinal": "29",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- En el diseño de las políticas públicas, operación de programas, prestación de servicios, y la realización de acciones, El Organismo actuará en coordinación con dependencias y entidades federales, estatales o municipales, de acuerdo con la competencia y atribuciones legales que éstas tengan."
+            },
+            {
+              "type": "paragraph",
+              "text": "Promoverá, coordinadamente con los gobiernos de las entidades federativas y municipios, en sus respectivos ámbitos de competencia, el establecimiento de centros y servicios de rehabilitación física, psicológica, social y ocupacional, para las personas con algún tipo de discapacidad o necesidad especial, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Organismo, promoverá una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste, y los que proporcionen los establecimientos del sector salud."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-30",
+          "heading": "Artículo 30",
+          "descriptor": null,
+          "ordinal": "30",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El patrimonio del Organismo, se integrará con:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Los derechos y bienes muebles e inmuebles que actualmente son de su dominio;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades de la administración pública le otorguen;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la ley, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "En general, los demás bienes, derechos e ingresos que obtenga por cualquier título."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-31",
+          "heading": "Artículo 31",
+          "descriptor": null,
+          "ordinal": "31",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para el estudio, planeación y despacho de los asuntos que le competen, El Organismo contará con los siguientes órganos superiores:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Junta de Gobierno, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Dirección General."
+            },
+            {
+              "type": "paragraph",
+              "text": "La vigilancia de la operación del Organismo quedará a cargo de un Comisario."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-32",
+          "heading": "Artículo 32",
+          "descriptor": null,
+          "ordinal": "32",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Junta de Gobierno estará integrada por el Secretario de Salud, quien la presidirá; por los representantes que designen los titulares de las Secretarías de Gobernación, de Hacienda y Crédito Público, de Bienestar, de Educación Pública, del Trabajo y Previsión Social, de los Directores Generales del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Lotería Nacional para la Asistencia Pública, de Pronósticos para la Asistencia Pública, de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 20-05-2021",
+              "action": "reformado",
+              "dof_date": "20-05-2021"
+            },
+            {
+              "type": "paragraph",
+              "text": "Los miembros de la Junta de Gobierno serán suplidos por los representantes que al efecto designen cada uno de los miembros propietarios de la misma."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Junta de Gobierno designará un Secretario Técnico."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-33",
+          "heading": "Artículo 33",
+          "descriptor": null,
+          "ordinal": "33",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Junta de Gobierno tendrá las siguientes facultades:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Representar al Organismo con las facultades que establezcan las leyes para actos de dominio y de administración y para pleitos y cobranzas;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Aprobar el Estatuto Orgánico, la organización general del Organismo y los Manuales de Procedimientos y de Servicios al Público;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Ratificar la designación y remoción a propuesta del Director General del Organismo, a los servidores públicos de nivel inmediato inferior;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que le correspondan al Organismo;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "g",
+              "text": "Estudiar y aprobar los proyectos de inversión;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "h",
+              "text": "Conocer y aprobar los acuerdos de Coordinación que hayan de celebrarse con dependencias y entidades públicas federales, estatales y del Distrito Federal;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "i",
+              "text": "Determinar la integración de Comités Técnicos y grupos de trabajo temporales;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "j",
+              "text": "Aprobar los programas que en materia de asistencia social pública formule El Organismo, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "k",
+              "text": "Las demás que sean necesarias para el ejercicio de las facultades anteriores."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-34",
+          "heading": "Artículo 34",
+          "descriptor": null,
+          "ordinal": "34",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Junta de Gobierno podrá integrar Comités Técnicos para el estudio y propuesta de mecanismos de coordinación interinstitucional en la atención de las tareas asistenciales que realice El Organismo, o bien las instituciones integrantes del Sistema. Los Comités estarán formados por los representantes que al efecto designen las dependencias y entidades competentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-35",
+          "heading": "Artículo 35",
+          "descriptor": null,
+          "ordinal": "35",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran de conformidad con el Estatuto respectivo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-36",
+          "heading": "Artículo 36",
+          "descriptor": null,
+          "ordinal": "36",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Director General será ciudadano mexicano, mayor de treinta años de edad y con experiencia en materia administrativa y de asistencia social."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Presidente de la República designará y removerá libremente al Director General."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-37",
+          "heading": "Artículo 37",
+          "descriptor": null,
+          "ordinal": "37",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Director General tendrá las siguientes facultades:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Administrar y representar legalmente al Organismo;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Presentar a la Junta de Gobierno los informes y estados financieros trimestrales, acompañados de los comentarios que al efecto formulen el Comisario y el Auditor Externo;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Formular los programas de corto, mediano y largo plazo, los presupuestos y las políticas institucionales, establecer los procedimientos generales e informes de actividades y estados financieros anuales del Organismo, presentándolos para su aprobación a la Junta de Gobierno;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Proponer a la Junta de Gobierno la designación y remoción de los servidores públicos de nivel inmediato inferior del Organismo;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "Autorizar y expedir los nombramientos de personal y manejar las relaciones laborales de acuerdo con las disposiciones legales;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "g",
+              "text": "Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a las instrucciones de la Junta de Gobierno;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "h",
+              "text": "Celebrar convenios, acuerdos, contratos y ejecutar los actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "i",
+              "text": "Actuar en representación del Organismo, con facultades generales para actos de administración, de dominio, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "j",
+              "text": "Las demás que sean necesarias para el ejercicio de las facultades establecidas en éste u otros ordenamientos jurídicos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-38",
+          "heading": "Artículo 38",
+          "descriptor": null,
+          "ordinal": "38",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Comisario será designado por la Secretaría de la Función Pública; deberá ser ciudadano mexicano y con experiencia profesional en la materia no menor de cinco años."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-39",
+          "heading": "Artículo 39",
+          "descriptor": null,
+          "ordinal": "39",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Comisario tendrá las siguientes facultades:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Vigilar que la administración de los recursos y el funcionamiento del Organismo se haga de acuerdo con lo que dispongan esta Ley y los programas y presupuestos aprobados;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Recomendar a la Junta de Gobierno y al Director General las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Organismo;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Asistir a las sesiones de la Junta de Gobierno, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-40",
+          "heading": "Artículo 40",
+          "descriptor": null,
+          "ordinal": "40",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Organismo, contará además con un Consejo Ciudadano Consultivo que emitirá opiniones y recomendaciones sobre sus políticas y programas nacionales, apoyará sus actividades y contribuirá a la obtención de recursos que permitan el incremento de su patrimonio. La persona titular de la Secretaría de Salud y la de la Dirección General del Organismo representarán a la Junta de Gobierno ante el Consejo Ciudadano Consultivo, cuyos integrantes no percibirán retribución, emolumento o compensación alguna, y se seleccionarán de entre los sectores público y privado, observando el principio de paridad de género y de acuerdo con el Reglamento que la Junta de Gobierno emita."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 11-05-2022",
+              "action": "reformado",
+              "dof_date": "11-05-2022"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-41",
+          "heading": "Artículo 41",
+          "descriptor": null,
+          "ordinal": "41",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría de Salud y El Organismo, promoverán que las dependencias y entidades destinen los recursos necesarios a los programas de asistencia social."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-42",
+          "heading": "Artículo 42",
+          "descriptor": null,
+          "ordinal": "42",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las relaciones de trabajo entre El Organismo y sus trabajadores se regirán por la Ley Federal del Trabajo, reglamentaria del Apartado \"B\" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-43",
+          "heading": "Artículo 43",
+          "descriptor": null,
+          "ordinal": "43",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los trabajadores del Organismo estarán incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vii",
+      "heading": "Capítulo VII",
+      "descriptor": "De la Coordinación, Concertación y Participación Ciudadana",
+      "ordinal": "VII",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-44",
+          "heading": "Artículo 44",
+          "descriptor": null,
+          "ordinal": "44",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, en los términos del Sistema Nacional de Planeación, de la Ley General de Salud, y de este Ordenamiento, El Organismo, celebrará acuerdos y concertará acciones con los sectores público, social y privado; y en su caso, con las autoridades de los diferentes pueblos y comunidades indígenas y afromexicanas de las entidades federativas."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 01-04-2024",
+              "action": "reformado",
+              "dof_date": "01-04-2024"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-45",
+          "heading": "Artículo 45",
+          "descriptor": null,
+          "ordinal": "45",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social en las entidades federativas y los municipios, El Organismo, promoverá la celebración de convenios entre los distintos niveles de gobierno, a fin de:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Establecer programas conjuntos;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Promover la conjunción de los niveles de gobierno en la aportación de recursos financieros;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Distribuir y coordinar acciones entre las partes, de manera proporcional y equitativa;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Procurar la integración y fortalecimiento de los regímenes de asistencia privada, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Consolidar los apoyos a los patrimonios de la beneficencia pública de las entidades federativas."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-46",
+          "heading": "Artículo 46",
+          "descriptor": null,
+          "ordinal": "46",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Organismo promoverá ante los gobiernos locales, el establecimiento de los mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de servicios básicos en materia de asistencia social."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-47",
+          "heading": "Artículo 47",
+          "descriptor": null,
+          "ordinal": "47",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Organismo promoverá ante las autoridades estatales y municipales la creación de organismos locales, para la realización de acciones en materia de prestación de servicios asistenciales para el desarrollo integral de la familia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-48",
+          "heading": "Artículo 48",
+          "descriptor": null,
+          "ordinal": "48",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Estado, con el objeto de ampliar la cobertura de los servicios de salud de asistencia social, fincados en la solidaridad ciudadana, promoverá en toda la República, la creación de asociaciones de asistencia privada, fundaciones y otras similares, las que con sus propios recursos o con donaciones de cualquier naturaleza que aporte la sociedad en general y con sujeción a los ordenamientos que las rijan, presten dichos servicios."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Secretaría de Salud y El Organismo emitirán las Normas Oficiales Mexicanas que dichas instituciones deberán observar en la prestación de los servicios de salud en materia de asistencia social."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Organismo les prestará la asesoría técnica necesaria y los apoyos conducentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-49",
+          "heading": "Artículo 49",
+          "descriptor": null,
+          "ordinal": "49",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Organismo promoverá ante las autoridades correspondientes el otorgamiento de estímulos fiscales, para inducir las acciones de los sectores social y privado en la prestación de servicios de salud en materia de asistencia social."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-50",
+          "heading": "Artículo 50",
+          "descriptor": null,
+          "ordinal": "50",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las autoridades públicas no podrán disponer de los bienes y recursos que pertenezcan a las instituciones privadas de asistencia social."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-51",
+          "heading": "Artículo 51",
+          "descriptor": null,
+          "ordinal": "51",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las instituciones privadas de asistencia social serán consideradas de interés público y tendrán los siguientes derechos:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Formar parte del Directorio Nacional de Instituciones de Asistencia Social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Recibir de parte del Organismo, la certificación de calidad de los servicios de asistencia social que ofrecen a la población;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Acceder a los recursos públicos destinados a la asistencia social, en los términos y las modalidades que fijen las autoridades correspondientes y conforme al programa nacional de asistencia social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Participar en el diseño, ejecución y evaluación de las políticas públicas en materia de asistencia social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Recibir el apoyo y la asesoría técnica y administrativa que las autoridades otorguen;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "Tener acceso al sistema nacional de información;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "g",
+              "text": "Recibir donativos de personas físicas y morales, nacionales o extranjeras, de acuerdo con las leyes y ordenamientos respectivos;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "h",
+              "text": "Acceder a los beneficios dirigidos a las organizaciones sociales, que se deriven de los Convenios y Tratados Internacionales, y que estén relacionados con las actividades y finalidades previstas por esta Ley, e"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "i",
+              "text": "Ser respetadas en el ejercicio de sus actividades, estructura y organización interna."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-52",
+          "heading": "Artículo 52",
+          "descriptor": null,
+          "ordinal": "52",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las instituciones privadas de asistencia social tendrán las siguientes obligaciones:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Constituirse de acuerdo con lo estipulado en las leyes aplicables;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Inscribirse en el Directorio Nacional de Instituciones de Asistencia Social;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Cumplir con lo establecido en las Normas Oficiales Mexicanas que se emitan para la regulación de los servicios de asistencia social y colaborar con las tareas de supervisión que realice El Organismo, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Garantizar en todo momento el respeto a la dignidad y los derechos humanos de las personas, familias o comunidades que reciban sus servicios de asistencia social."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-53",
+          "heading": "Artículo 53",
+          "descriptor": null,
+          "ordinal": "53",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Estado promoverá la organización y participación de la comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social basadas en el apoyo y solidaridad social o en los usos y costumbres indígenas, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-54",
+          "heading": "Artículo 54",
+          "descriptor": null,
+          "ordinal": "54",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Organismo, promoverá la organización y participación de la comunidad para que, con base en el apoyo y solidaridad social o los usos y costumbres indígenas, coadyuve en la prestación de servicios asistenciales para el desarrollo integral de la familia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vii.articulo-55",
+          "heading": "Artículo 55",
+          "descriptor": null,
+          "ordinal": "55",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La participación de la comunidad a que se refiere el artículo anterior, tiene por objeto fortalecer su estructura propiciando la solidaridad ante las necesidades reales de la población."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-viii",
+      "heading": "Capítulo VIII",
+      "descriptor": null,
+      "ordinal": "VIII",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Directorio Nacional de las Instituciones de Asistencia Social"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-56",
+          "heading": "Artículo 56",
+          "descriptor": null,
+          "ordinal": "56",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Se crea el Directorio Nacional de Instituciones de Asistencia Social con objeto de dar publicidad a los servicios y apoyos asistenciales que presten las instituciones públicas y privadas, así como su localización en el territorio nacional. Este Directorio estará a cargo del Organismo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-57",
+          "heading": "Artículo 57",
+          "descriptor": null,
+          "ordinal": "57",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Directorio Nacional se conformará con las inscripciones de las instituciones de asistencia social que se tramiten:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "A través de los Sistemas para el Desarrollo Integral de la Familia Estatales o del Distrito Federal;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "A través de las Juntas de Asistencia Privada u organismos similares, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Las que directamente presenten las propias instituciones ante este Directorio."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-58",
+          "heading": "Artículo 58",
+          "descriptor": null,
+          "ordinal": "58",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El registro de las instituciones y la supervisión de las funciones asistenciales, será requisito para recibir recursos de las instituciones de asistencia social pública."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-59",
+          "heading": "Artículo 59",
+          "descriptor": null,
+          "ordinal": "59",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- En la inscripción de las instituciones se anotarán los datos que las identifiquen y que señalen con precisión la duración y el tipo de servicios asistenciales, sus recursos y ámbito geográfico de acción, así como la indicación de su representante legal. Las modificaciones a los datos anteriores también deberán ser inscritas."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-60",
+          "heading": "Artículo 60",
+          "descriptor": null,
+          "ordinal": "60",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las instituciones recibirán una constancia de su registro en el Directorio y el número correspondiente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-61",
+          "heading": "Artículo 61",
+          "descriptor": null,
+          "ordinal": "61",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Cualquier persona podrá solicitar información al Directorio Nacional de Instituciones de Asistencia Social."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-62",
+          "heading": "Artículo 62",
+          "descriptor": null,
+          "ordinal": "62",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Servicio Nacional de Información publicará anualmente un compendio de información básica sobre las instituciones asistenciales registradas, su capacidad y cobertura de atención y los servicios que ofrecen."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ix",
+      "heading": "Capítulo IX",
+      "descriptor": null,
+      "ordinal": "IX",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Supervisión de las Instituciones de Asistencia Social"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-63",
+          "heading": "Artículo 63",
+          "descriptor": null,
+          "ordinal": "63",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las Instituciones de Asistencia Social deberán ajustar su funcionamiento a lo dispuesto por las Normas Oficiales Mexicanas, que al efecto se expidan por la Secretaría de Salud, y el Consejo Nacional de Normalización y Certificación, para normar los servicios de salud y asistenciales."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-64",
+          "heading": "Artículo 64",
+          "descriptor": null,
+          "ordinal": "64",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Se entiende por normalización de la asistencia social al proceso por el cual se regulan actividades desempeñadas por las instituciones públicas y privadas que prestan servicios asistenciales, mediante el establecimiento de terminología, directrices, atributos, especificaciones, características, aplicables a personas, procesos y servicios a través de Normas Oficiales Mexicanas."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-65",
+          "heading": "Artículo 65",
+          "descriptor": null,
+          "ordinal": "65",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La supervisión y vigilancia para el cumplimiento de las Normas Oficiales Mexicanas, corresponde a la Secretaría de Salud a través del Organismo y a las autoridades locales."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-66",
+          "heading": "Artículo 66",
+          "descriptor": null,
+          "ordinal": "66",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Serán coadyuvantes del Organismo en la supervisión, los Sistemas Estatales y del Distrito Federal para el Desarrollo Integral de la Familia y las Juntas de Asistencia Privada u órganos similares."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-67",
+          "heading": "Artículo 67",
+          "descriptor": null,
+          "ordinal": "67",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El incumplimiento de las disposiciones de esta Ley y demás disposiciones derivadas de ella serán sancionadas administrativamente por la Secretaría de Salud conforme a sus atribuciones, de conformidad con la Ley Federal de Procedimiento Administrativo y por las autoridades locales según lo previsto en las leyes estatales correspondientes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-68",
+          "heading": "Artículo 68",
+          "descriptor": null,
+          "ordinal": "68",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las personas afectadas por las resoluciones dictadas con fundamento en esta Ley y demás disposiciones que de ella deriven, podrán recurrirlas administrativamente de conformidad con lo que establece la Ley Federal de Procedimiento Administrativo y las leyes estatales correspondientes."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley sobre el Sistema Nacional de Asistencia Social publicada en el Diario Oficial de la Federación de 9 de enero de 1986, así como las demás disposiciones que se opongan a lo dispuesto por esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para los efectos de la regulación del Directorio Nacional de Asistencia Social y del Servicio Nacional de Información, las disposiciones reglamentarias correspondientes se emitirán en un plazo de seis meses a partir de la fecha de entrada en vigor de la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 29 de abril de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Sara I. Castellanos Cortés, Secretario.- Dip. Amalín Yabur Elías, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, al primer día del mes de septiembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma el artículo 12, fracciones I y XII de la Ley de Asistencia Social."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 1 de junio de 2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "ARTÍCULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el Artículo 12, fracciones I, incisos a), b) y e), y XII de la Ley de Asistencia Social, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 26 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforma la fracción I del artículo 10 de la Ley de Asistencia Social."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 8 de junio de 2012"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "ARTÍCULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma la fracción I del Artículo 10 de la Ley de Asistencia Social, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 26 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforma la fracción VII del artículo 4 de la Ley de Asistencia Social."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 23 de abril de 2013"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma la fracción VII del artículo 4 de la Ley de Asistencia Social, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 19 de marzo de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Merilyn Gómez Pozos, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciocho de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforma el inciso a) de la fracción II, así como la fracción V, y se adiciona un inciso m) a la fracción I y los incisos a), b) y c) a la fracción V, del artículo 4 de la Ley de Asistencia Social."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2014"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman el inciso a) de la fracción II, así como la fracción V, y se adiciona un inciso m) a la fracción I y los incisos a), b) y c) a la fracción V, del artículo 4 de la Ley de Asistencia Social, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 19 de noviembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforma el primer párrafo del artículo 4 de la Ley de Asistencia Social."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 24 de abril de 2018"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el primer párrafo del artículo 4 de la Ley de Asistencia Social, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas aquellas disposiciones que se opongan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 22 de febrero de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diecisiete de abril de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-trigesim",
+          "heading": "Artículo Trigésimo",
+          "descriptor": null,
+          "ordinal": "Artículo Trigésimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sexto.- Se reforma el párrafo primero del artículo 32 de la Ley de Asistencia Social, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley Orgánica de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán."
+            },
+            {
+              "type": "paragraph",
+              "text": "A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "Noveno",
+          "descriptor": null,
+          "ordinal": "Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decim",
+          "heading": "Décimo",
+          "descriptor": null,
+          "ordinal": "Décimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-primer",
+          "heading": "Décimo Primero",
+          "descriptor": null,
+          "ordinal": "Décimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "Décimo Segundo",
+          "descriptor": null,
+          "ordinal": "Décimo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "tercero",
+          "descriptor": null,
+          "ordinal": "tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "del artículo 88 del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-tercer",
+          "heading": "Décimo Tercero",
+          "descriptor": null,
+          "ordinal": "Décimo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-cuart",
+          "heading": "Décimo Cuarto",
+          "descriptor": null,
+          "ordinal": "Décimo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-quint",
+          "heading": "Décimo Quinto",
+          "descriptor": null,
+          "ordinal": "Décimo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-sext",
+          "heading": "Décimo Sexto",
+          "descriptor": null,
+          "ordinal": "Décimo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quedan derogadas todas las disposiciones que se opongan a este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-vigesim",
+          "heading": "Artículo Vigésimo",
+          "descriptor": null,
+          "ordinal": "Artículo Vigésimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 40 de la Ley de Asistencia Social, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman los artículos 4 y 28 de la Ley de Asistencia Social."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 6 de enero de 2023"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 4, fracción I, segundo párrafo y 28, inciso C, de la Ley de Asistencia Social, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 16 de noviembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Alejandro Armenta Mier, Presidente.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de enero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 1 de abril de 2024"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-vigesimo-noven",
+          "heading": "Artículo Vigésimo Noveno",
+          "descriptor": null,
+          "ordinal": "Artículo Vigésimo Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 44 de la Ley de Asistencia Social, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

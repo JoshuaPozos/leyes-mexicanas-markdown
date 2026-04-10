@@ -1,0 +1,1045 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LFRPE_ley_federal_de_responsabilidad_patrimonial_del_estado",
+  "abbreviation": "LFRPE",
+  "name": "LEY Federal de Responsabilidad Patrimonial del Estado",
+  "catalog_number": "161",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf",
+    "pdf_filename_origen": "LFRPE.pdf",
+    "dof_publication": "DOF31/12/2004",
+    "last_reform": "DOF 29/12/2023",
+    "captured_at": "2026-04-09T09:57:28.394733+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "Nueva Ley publicada en el Diario Oficial de la Federación el 31 de diciembre de 2004 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA  ."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-primer",
+      "heading": "ARTÍCULO PRIMERO",
+      "descriptor": null,
+      "ordinal": "ARTÍCULO PRIMERO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley Federal de Responsabilidad Patrimonial del Estado, para quedar como sigue: ."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "CAPÍTULO I",
+      "descriptor": "Disposiciones Generales",
+      "ordinal": "I",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 1.- La presente Ley es reglamentaria del sexto párrafo del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones son de orden público e interés general; tiene por objeto fijar las bases y procedimientos para reconocer el derecho a la indemnización a quienes, sin obligación jurídica de soportarlo, sufran daños en cualquiera de sus bienes y derechos como consecuencia de la actividad administrativa irregular del Estado. La responsabilidad extracontractual a cargo del Estado es objetiva y directa, y la indemnización deberá ajustarse a los términos y condiciones señalados en esta Ley y en las demás disposiciones legales a que la misma hace referencia."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 29-12-2023",
+          "action": "reformado",
+          "dof_date": "29-12-2023"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para los efectos de esta Ley, se entenderá por actividad administrativa irregular, aquella que cause daño a los bienes y derechos de los particulares que no tengan la obligación jurídica de soportar, en virtud de no existir fundamento legal o causa jurídica de justificación para legitimar el daño de que se trate."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 2.- Son sujetos de esta Ley, los entes públicos federales. Para los efectos de la misma, se entenderá por entes públicos federales, salvo mención expresa en contrario, a los Poderes Judicial, Legislativo y Ejecutivo de la Federación, organismos constitucionales autónomos, dependencias, entidades de la Administración Pública Federal, los Tribunales Federales Administrativos y cualquier otro ente público de carácter federal."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 20-05-2021",
+          "action": "reformado",
+          "dof_date": "20-05-2021"
+        },
+        {
+          "type": "paragraph",
+          "text": "Los preceptos contenidos en el Capítulo II y demás disposiciones de esta Ley serán aplicables, en lo conducente, para cumplimentar los fallos de la Corte Interamericana de Derechos Humanos, así como las recomendaciones de la Comisión Nacional de los Derechos Humanos y de la Comisión Interamericana de Derechos Humanos, aceptadas por los entes públicos federales y por el Estado Mexicano en su caso, en cuanto se refieran al pago de indemnizaciones."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 30-04-2009",
+          "action": "reformado",
+          "dof_date": "30-04-2009"
+        },
+        {
+          "type": "paragraph",
+          "text": "La aceptación y cumplimiento de las recomendaciones a que se refiere el párrafo anterior, en su caso, deberá llevarse a cabo por el ente público federal que haya sido declarado responsable; lo mismo deberá observarse para el cumplimiento de los fallos jurisdiccionales de reparación. Será la Secretaría de Relaciones Exteriores el conducto para informar de los cumplimientos respectivos, tanto a la Comisión como a la Corte Interamericana de Derechos Humanos, según corresponda."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Comisión Nacional de los Derechos Humanos y sus servidores públicos, no son sujetos de responsabilidad patrimonial por las opiniones y recomendaciones que formulen, así como por los actos que realicen en ejercicio de las funciones de su competencia."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo adicionado DOF 30-04-2009",
+          "action": "adicionado",
+          "dof_date": "30-04-2009"
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 3.- Se exceptúan de la obligación de indemnizar, de acuerdo con esta Ley, además de los casos fortuitos y de fuerza mayor, los daños y perjuicios que no sean consecuencia de la actividad administrativa irregular del Estado, así como aquellos que se deriven de hechos o circunstancias que no se hubieran podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de su acaecimiento y en aquellos casos en los que el solicitante de la indemnización sea el único causante del daño."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 4.- Los daños y perjuicios materiales que constituyan la lesión patrimonial reclamada, incluidos los personales y morales, habrán de ser reales, evaluables en dinero, directamente relacionados con una o varias personas, y desiguales a los que pudieran afectar al común de la población."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 5.- Los entes públicos federales cubrirán las indemnizaciones derivadas de responsabilidad patrimonial que se determinen conforme a esta Ley, con cargo a sus respectivos presupuestos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los pagos de las indemnizaciones derivadas de responsabilidad patrimonial se realizarán conforme a la disponibilidad presupuestaria del ejercicio fiscal correspondiente, sin afectar el cumplimiento de los objetivos de los programas que se aprueben en el Presupuesto de Egresos de la Federación."
+        },
+        {
+          "type": "paragraph",
+          "text": "En la fijación de los montos de las partidas presupuestales deberán preverse las indemnizaciones que no hayan podido ser pagadas en el ejercicio inmediato anterior, según lo dispuesto en los artículos 8 y 11 de la presente Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 6.- Los entes públicos federales, tomando en cuenta la disponibilidad de recursos para el ejercicio fiscal correspondiente, incluirán en sus respectivos anteproyectos de presupuesto los recursos para cubrir las erogaciones derivadas de responsabilidad patrimonial conforme al orden establecido en el registro de indemnizaciones a que se refiere el artículo 16 de la presente Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "La suma total de los recursos comprendidos en los respectivos presupuestos aprobados de los entes públicos federales, no podrá exceder del equivalente al 0.3 al millar del gasto programable del Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 7.- El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, deberá autorizar el traspaso de los montos presupuestales aprobados a las diferentes dependencias o entidades de la Administración Pública Federal para responsabilidad patrimonial, cuando por la naturaleza de la actividad administrativa de las mismas, sea pertinente y se justifique ante las autoridades competentes."
+        },
+        {
+          "type": "paragraph",
+          "text": "En el caso de las entidades no sujetas o sujetas parcialmente a control presupuestal, los traspasos correspondientes deberán ser aprobados por los órganos de gobierno respectivos."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 8.- Las indemnizaciones fijadas por autoridades administrativas que excedan del monto máximo presupuestado en un ejercicio fiscal determinado serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 16 de la presente Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 9.- La presente Ley se aplicará supletoriamente a las diversas leyes administrativas que contengan un régimen especial de responsabilidad patrimonial del Estado. A falta de disposición expresa en esta Ley, se aplicarán las disposiciones contenidas en la Ley Federal de Procedimiento Administrativo, ARTÍCULO 10.- Los entes públicos tendrán la obligación de denunciar ante el Ministerio Público a toda persona que directa o indirectamente participe, coadyuve, asista o simule la producción de daños con el propósito de acreditar indebidamente la Responsabilidad Patrimonial del Estado o de obtener alguna de las indemnizaciones a que se refiere esta Ley."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "CAPÍTULO II",
+      "descriptor": "De las Indemnizaciones",
+      "ordinal": "II",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 11.- La indemnización por Responsabilidad Patrimonial del Estado derivada de la actividad administrativa irregular, deberá pagarse al reclamante de acuerdo a las modalidades que establece esta Ley y las bases siguientes:"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "a",
+          "text": "Deberá pagarse en moneda nacional;"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "b",
+          "text": "Podrá convenirse su pago en especie;"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "c",
+          "text": "La cuantificación de la indemnización se calculará de acuerdo a la fecha en que la lesión efectivamente se produjo o la fecha en que haya cesado cuando sea de carácter continuo;"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "d",
+          "text": "En todo caso deberá actualizarse la cantidad a indemnizar al tiempo en que haya de efectuarse el cumplimiento de la resolución por la que se resuelve y ordena el pago de la indemnización;"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "e",
+          "text": "En caso de retraso en el cumplimiento del pago de la indemnización procederá la actualización de conformidad con lo dispuesto en el Código Fiscal de la Federación, y"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "f",
+          "text": "Los entes públicos federales podrán cubrir el monto de la indemnización mediante parcialidades en ejercicios fiscales subsecuentes, realizando una proyección de los pagos de acuerdo a lo siguiente: 1. Los diversos compromisos programados de ejercicios fiscales anteriores y los que previsiblemente se presentarán en el ejercicio de que se trate; 2. El monto de los recursos presupuestados o asignados en los cinco ejercicios fiscales previos al inicio del pago en parcialidades, para cubrir la Responsabilidad Patrimonial del Estado por la actividad administrativa irregular impuestas por autoridad competente, y 3. Los recursos que previsiblemente serán aprobados y asignados en el rubro correspondiente a este tipo de obligaciones en los ejercicios fiscales subsecuentes con base en los antecedentes referidos en el numeral anterior y el comportamiento del ingreso-gasto."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 12.- Las indemnizaciones corresponderán a la reparación integral del daño y, en su caso, por el daño personal y moral."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 13.- El monto de la indemnización por daños y perjuicios materiales se calculará de acuerdo con los criterios establecidos por la Ley de Expropiación, el Código Fiscal de la Federación, la Ley General de Bienes Nacionales y demás disposiciones aplicables, debiéndose tomar en consideración los valores comerciales o de mercado."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 14.- Los montos de las indemnizaciones se calcularán de la siguiente forma:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "En el caso de daños personales:"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "a",
+          "text": "Corresponderá una indemnización con base en los dictámenes médicos correspondientes, conforme a lo dispuesto para riesgos de trabajo en la Ley Federal del Trabajo, y"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "b",
+          "text": "Además de la indemnización prevista en el inciso anterior, el reclamante o causahabiente tendrá derecho a que se le cubran los gastos médicos que en su caso se eroguen, de conformidad con la propia Ley Federal del Trabajo disponga para riesgos de trabajo."
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "En el caso de daño moral, la autoridad administrativa o jurisdiccional, en su caso, calculará el debiendo tomar en consideración los dictámenes periciales ofrecidos por el reclamante."
+        },
+        {
+          "type": "paragraph",
+          "text": "La indemnización por daño moral que el Estado esté obligado a cubrir no excederá del equivalente a 20,000 veces el salario mínimo general diario vigente en el Distrito Federal, por cada reclamante afectado, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "En el caso de muerte, el cálculo de la indemnización se hará de acuerdo a lo dispuesto en el ARTÍCULO 15.- Las indemnizaciones deberán cubrirse en su totalidad de conformidad con los términos y condiciones dispuestos por esta Ley y a las que ella remita. En los casos de haberse celebrado contrato de seguro contra la responsabilidad, ante la eventual producción de daños y perjuicios que sean consecuencia de la actividad administrativa irregular del Estado, la suma asegurada se destinará a cubrir el monto equivalente a la reparación integral. De ser ésta insuficiente, el Estado continuará obligado a resarcir la diferencia respectiva. El pago de cantidades líquidas por concepto de deducible corresponde al Estado y no podrá disminuirse de la indemnización."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 16.- Las sentencias firmes deberán registrarse por el ente público federal responsable, quienes deberán llevar un registro de indemnizaciones debidas por responsabilidad patrimonial, que será de consulta pública."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las indemnizaciones por lesiones patrimoniales serán pagadas tomando en cuenta el orden cronológico en que se emitan las resoluciones de las autoridades administrativas."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "CAPÍTULO III",
+      "descriptor": "Del Procedimiento",
+      "ordinal": "III",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 17.- Los procedimientos de responsabilidad patrimonial de los entes públicos federales se iniciarán por reclamación de la parte interesada."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 18.- La parte interesada deberá presentar su reclamación ante la dependencia o entidad presuntamente responsable u organismo constitucional autónomo, conforme a lo establecido en la Ley Federal de Procedimiento Administrativo."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 12-06-2009",
+          "action": "reformado",
+          "dof_date": "12-06-2009"
+        },
+        {
+          "type": "paragraph",
+          "text": "Los particulares en su demanda, deberán señalar, en su caso, el o los servidores públicos involucrados en la actividad administrativa que se considere irregular."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si iniciado el procedimiento de responsabilidad patrimonial del Estado, se encontrare pendiente alguno de los procedimientos por los que el particular haya impugnado el acto de autoridad que se reputa como dañoso, el procedimiento de responsabilidad patrimonial del Estado se suspenderá hasta en tanto en los otros procedimientos, la autoridad competente no haya dictado una resolución que cause estado."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 19.- El procedimiento de responsabilidad patrimonial deberá ajustarse, además de lo dispuesto por esta Ley, a lo dispuesto por la Ley Federal de Procedimiento Contencioso Administrativo, en la vía jurisdiccional."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 12-06-2009",
+          "action": "reformado",
+          "dof_date": "12-06-2009"
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 20.- La nulidad o anulabilidad de actos administrativos por la vía administrativa, o por la vía jurisdiccional contencioso-administrativa, no presupone por sí misma derecho a la indemnización."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 21.- El daño que se cause al patrimonio de los particulares por la actividad administrativa irregular, deberá acreditarse tomando en consideración los siguientes criterios:"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "a",
+          "text": "En los casos en que la causa o causas productoras del daño sean identificables, la relación causa-efecto entre la lesión patrimonial y la acción administrativa irregular imputable al Estado deberá probarse fehacientemente, y"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "b",
+          "text": "En su defecto, la causalidad única o concurrencia de hechos y condiciones causales, así como la participación de otros agentes en la generación de la lesión reclamada, deberá probarse a través de la identificación precisa de los hechos que produjeron el resultado final, examinando rigurosamente las condiciones o circunstancias originales o sobrevenidas que hayan podido atenuar o agravar la lesión patrimonial reclamada."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 22.- La responsabilidad del Estado deberá probarla el reclamante que considere lesionado su patrimonio, por no tener la obligación jurídica de soportarlo. Por su parte, al Estado corresponderá probar, en su caso, la participación de terceros o del propio reclamante en la producción de los daños y perjuicios irrogados al mismo; que los daños no son consecuencia de la actividad administrativa irregular del Estado; que los daños derivan de hechos o circunstancias imprevisibles o inevitables según los conocimientos de la ciencia o de la técnica existentes en el momento de su acaecimiento, o bien, la existencia de la fuerza mayor que lo exonera de responsabilidad patrimonial."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 23.- Las resoluciones que dicte el ente público federal con motivo de las reclamaciones que prevé la presente Ley, deberán contener como elementos mínimos los siguientes: El relativo a la existencia de la relación de causalidad entre la actividad administrativa y la lesión producida y la valoración del daño o perjuicio causado, así como el monto en dinero o en especie de la indemnización, explicitando los criterios utilizados para su cuantificación. Igualmente en los casos de concurrencia previstos en el Capítulo IV de esta Ley, en dicha resolución se deberán razonar los criterios de imputación y la graduación correspondiente para su aplicación a cada caso en particular."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 12-06-2009",
+          "action": "reformado",
+          "dof_date": "12-06-2009"
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 24.- Las resoluciones de la autoridad administrativa que nieguen la indemnización, o que, por su monto, no satisfagan al interesado podrán impugnarse mediante recurso de revisión en vía administrativa o bien, directamente por vía jurisdiccional ante el Tribunal Federal de Justicia Fiscal y Administrativa."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 12-06-2009",
+          "action": "reformado",
+          "dof_date": "12-06-2009"
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 25.- El derecho a reclamar indemnización prescribe en un año, mismo que se computará a partir del día siguiente a aquel en que se hubiera producido la lesión patrimonial, o a partir del momento en que hubiesen cesado sus efectos lesivos, si fuesen de carácter continuo. Cuando existan daños de carácter físico o psíquico a las personas, el plazo de prescripción será de dos años."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los plazos de prescripción previstos en este artículo, se interrumpirán al iniciarse el procedimiento de reclamación, a través de los cuales se impugne la legalidad de los actos administrativos que probablemente produjeron los daños o perjuicios."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 12-06-2009",
+          "action": "reformado",
+          "dof_date": "12-06-2009"
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 26.- Los reclamantes afectados podrán celebrar convenio con los entes públicos federales, a fin de dar por concluida la controversia, mediante la fijación y el pago de la indemnización que las partes acuerden. Para la validez de dicho convenio se requerirá, según sea el caso, la aprobación por parte de la contraloría interna o del órgano de vigilancia correspondiente."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv",
+      "heading": "CAPÍTULO IV",
+      "descriptor": "De la Concurrencia",
+      "ordinal": "IV",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 27.- En caso de concurrencia acreditada en términos del artículo 21 de esta Ley, el pago de la indemnización deberá distribuirse proporcionalmente entre todos los causantes de la lesión patrimonial reclamada, de acuerdo con su respectiva participación. Para los efectos de la misma distribución, las autoridades administrativas tomarán en cuenta, entre otros, los siguientes criterios de imputación, mismos que deberán graduarse y aplicarse de acuerdo con cada caso concreto:"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "a",
+          "text": "Deberá atribuirse a cada ente público federal los hechos o actos dañosos que provengan de su propia organización y operación, incluyendo las de sus órganos administrativos desconcentrados;"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "b",
+          "text": "Los entes públicos federales responderán únicamente de los hechos o actos dañosos que hayan ocasionado los servidores públicos que les estén adscritos;"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "c",
+          "text": "Los entes públicos federales que tengan atribuciones o responsabilidad respecto de la prestación del servicio público y cuya actividad haya producido los hechos o actos dañosos responderán de los mismos, sea por prestación directa o con colaboración interorgánica;"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "d",
+          "text": "Los entes públicos federales que hubieran proyectado obras que hayan sido ejecutadas por otras responderá de los hechos o actos dañosos causados, cuando las segundas no hayan tenido el derecho de modificar el proyecto por cuya causa se generó la lesión patrimonial reclamada. Por su parte, los entes públicos federales ejecutores responderán de los hechos o actos dañosos producidos, cuando éstos no hubieran tenido como origen deficiencias en el proyecto elaborado, y"
+        },
+        {
+          "type": "inciso",
+          "ordinal": "e",
+          "text": "Cuando en los hechos o actos dañosos concurra la intervención de la autoridad federal y la local, la primera deberá responder del pago de la indemnización en forma proporcional a su respectiva participación, quedando la parte correspondiente de la entidad federativa en los términos que su propia legislación disponga."
+        },
+        {
+          "type": "paragraph",
+          "text": "El Gobierno Federal, a través de la Secretaría de la Función Pública, en el ámbito de sus respectivas atribuciones, podrá celebrar convenios de coordinación con las entidades federativas respecto de la materia que regula la presente Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 28.- En el supuesto de que el reclamante se encuentre entre los causantes de la lesión cuya reparación solicita, la proporción cuantitativa de su participación en el daño y perjuicio causado se deducirá del monto de la indemnización total."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 29.- En el supuesto de que entre los causantes de la lesión patrimonial reclamada no se pueda identificar su exacta participación en la producción de la misma, se establecerá entre ellos una responsabilidad solidaria frente al reclamante, debiéndose distribuir el pago de la indemnización en partes iguales entre todos los cocausantes."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 30.- En el supuesto de que las reclamaciones deriven de hechos o actos dañosos producidos como consecuencia de una concesión de servicio público por parte de la Administración Pública Federal, y las lesiones patrimoniales hayan tenido como causa una determinación del concesionante que sea de ineludible cumplimiento para el concesionario, el Estado responderá directamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los concesionarios tendrán la obligación de contratar seguros u otorgar garantías a favor del concesionante, para el caso de que la lesión reclamada haya sido ocasionada por la actividad del concesionario y no se derive de una determinación del concesionante."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-v",
+      "heading": "CAPÍTULO V",
+      "descriptor": "Del Derecho del Estado de Repetir contra los Servidores Públicos",
+      "ordinal": "V",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 31.- El Estado podrá repetir de los servidores públicos el pago de la indemnización cubierta a los particulares cuando, previa substanciación del procedimiento administrativo disciplinario previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, se determine su responsabilidad, y que la falta administrativa haya tenido el carácter de infracción grave. El monto que se exija al servidor público por este concepto formará parte de la sanción económica que se le aplique."
+        },
+        {
+          "type": "paragraph",
+          "text": "La gravedad de la infracción se calificará de acuerdo con los criterios que establece la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos. Además, se tomarán en cuenta los siguientes criterios: Los estándares promedio de la actividad administrativa, la perturbación de la misma, la existencia o no de intencionalidad, la responsabilidad profesional y su relación con la producción del resultado dañoso."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 32.- El Estado podrá, también, instruir igual procedimiento a los servidores públicos por él nombrados, designados o contratados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal, cuando le hayan ocasionado daños y perjuicios en sus bienes y derechos derivado de faltas o infracciones administrativas graves. Lo anterior, sin perjuicio de lo dispuesto por otras leyes aplicables en la materia."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 33.- Los servidores públicos podrán impugnar las resoluciones administrativas por las que se les imponga la obligación de resarcir los daños y perjuicios que el Estado haya pagado con motivo de los reclamos indemnizatorios respectivos, a través del recurso de revocación, o ante el Tribunal Federal de Justicia Fiscal y Administrativa, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 34.- La presentación de reclamaciones por responsabilidad patrimonial del Estado interrumpirá los plazos de prescripción que la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos determina para iniciar el procedimiento administrativo disciplinario a los servidores públicos, los cuales se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTÍCULO 35.- Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos se adicionarán, según corresponda, al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial de los entes públicos federales."
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-articulo-segund",
+          "heading": "ARTÍCULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "........."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-articulo-tercer",
+          "heading": "ARTÍCULO TERCERO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor el 1o. de enero del año 2005."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los asuntos que se encuentren en trámite en los entes públicos federales, relacionados con la indemnización a los particulares derivada de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo con las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 14 de diciembre de 2004.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Sara I. Castellanos Cortés, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma y adiciona el artículo 2 de la Ley Federal de Responsabilidad Patrimonial del Estado."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 30 de abril de 2009"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "ARTÍCULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el segundo párrafo del artículo 2 de la Ley Federal de Responsabilidad Patrimonial del Estado y se adiciona un cuarto párrafo al mismo artículo, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 31 de marzo de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. Santiago Gustavo Pedro Cortés, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fernando Francisco Gómez Mont Urueta.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas disposiciones de la Ley Federal de Responsabilidad Patrimonial del Estado y de la Ley Federal de Procedimiento Contencioso Administrativo."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 12 de junio de 2009"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "ARTÍCULO PRIMERO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 18, primer párrafo; 19; 23; 24 y 25, segundo párrafo de la Ley Federal de Responsabilidad Patrimonial del Estado, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los casos de reclamación presentados ante el Tribunal Federal de Justicia Fiscal y Administrativa que se encuentren en trámite en los términos de la ley que se modifica, deberán resolverse de manera definitiva por el mismo."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 14 de abril de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Claudia S. Corichi Garcia, Secretaria.- Dip. Santiago Gustavo Pedro Cortes, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-vigesimo-quint",
+          "heading": "Artículo Vigésimo Quinto",
+          "descriptor": null,
+          "ordinal": "Artículo Vigésimo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el párrafo primero del artículo 2 de la Ley Federal de Responsabilidad Patrimonial del Estado, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley Orgánica de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán."
+            },
+            {
+              "type": "paragraph",
+              "text": "A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "Noveno",
+          "descriptor": null,
+          "ordinal": "Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decim",
+          "heading": "Décimo",
+          "descriptor": null,
+          "ordinal": "Décimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-primer",
+          "heading": "Décimo Primero",
+          "descriptor": null,
+          "ordinal": "Décimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "Décimo Segundo",
+          "descriptor": null,
+          "ordinal": "Décimo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "tercero",
+          "descriptor": null,
+          "ordinal": "tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "del artículo 88 del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-tercer",
+          "heading": "Décimo Tercero",
+          "descriptor": null,
+          "ordinal": "Décimo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-cuart",
+          "heading": "Décimo Cuarto",
+          "descriptor": null,
+          "ordinal": "Décimo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-quint",
+          "heading": "Décimo Quinto",
+          "descriptor": null,
+          "ordinal": "Décimo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-sext",
+          "heading": "Décimo Sexto",
+          "descriptor": null,
+          "ordinal": "Décimo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quedan derogadas todas las disposiciones que se opongan a este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforma el primer párrafo del artículo 1 de la Ley Federal de Responsabilidad Patrimonial del Estado."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2023"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el primer párrafo del artículo 1 de la Ley Federal de Responsabilidad Patrimonial del Estado, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 14 de noviembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

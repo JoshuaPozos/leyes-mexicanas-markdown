@@ -1,0 +1,4936 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LGP_ley_general_de_poblacion",
+  "abbreviation": "LGP",
+  "name": "LEY General de Población",
+  "catalog_number": "209",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf",
+    "pdf_filename_origen": "LGP.pdf",
+    "dof_publication": "DOF07/01/1974",
+    "last_reform": "DOF 16/07/2025",
+    "captured_at": "2026-04-09T10:09:54.168448+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "Nueva Ley publicada en el Diario Oficial de la Federación el 7 de enero de 1974 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "LUIS ECHEVERRIA ALVAREZ, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO:"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Congreso de los Estados Unidos Mexicanos, decreta:"
+    },
+    {
+      "type": "paragraph",
+      "text": "LEY GENERAL DE POBLACION CAPITULO I Objeto y atribuciones"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-1",
+      "heading": "Artículo 1o",
+      "descriptor": null,
+      "ordinal": "1o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las disposiciones de esta Ley son de orden público y de observancia general en la República. Su objeto es regular los fenómenos que afectan a la población en cuanto a su volumen, estructura, dinámica y distribución en el territorio nacional, con el fin de lograr que participe justa y equitativamente de los beneficios del desarrollo económico y social."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-2",
+      "heading": "Artículo 2o",
+      "descriptor": null,
+      "ordinal": "2o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Ejecutivo Federal, por conducto de la Secretaría de Gobernación, dictará, promoverá y coordinará en su caso, las medidas adecuadas para resolver los problemas demográficos nacionales."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-3",
+      "heading": "Artículo 3o",
+      "descriptor": null,
+      "ordinal": "3o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para los fines de esta Ley, la Secretaría de Gobernación dictará y ejecutará o en su caso promoverá ante las dependencias competentes o entidades correspondientes, las medidas necesarias para:"
+        },
+        {
+          "type": "paragraph",
+          "text": "I.- Adecuar los programas de desarrollo económico y social a las necesidades que planteen el volumen, estructura, dinámica y distribución de la población;"
+        },
+        {
+          "type": "paragraph",
+          "text": "II.- Realizar programas de planeación familiar a través de los servicios educativos y de salud pública de que disponga el sector público y vigilar que dichos programas y los que realicen organismos privados, se lleven a cabo con absoluto respeto a los derechos fundamentales del hombre y preserven la dignidad de las familias, con el objeto de regular racionalmente y estabilizar el crecimiento de la población, así como lograr el mejor aprovechamiento de los recursos humanos y naturales del país;"
+        },
+        {
+          "type": "paragraph",
+          "text": "III.- Disminuir la mortalidad;"
+        },
+        {
+          "type": "paragraph",
+          "text": "IV.- Influir en la dinámica de la población a través de los sistemas educativos, de salud pública, de capacitación profesional y técnica, y de protección a la infancia, y obtener la participación de la colectividad en la solución de los problemas que la afectan;"
+        },
+        {
+          "type": "paragraph",
+          "text": "V.- Promover la plena integración de la mujer al proceso económico, educativo, social y cultural;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción adicionada DOF 31-12-1974",
+          "action": "adicionado",
+          "dof_date": "31-12-1974"
+        },
+        {
+          "type": "paragraph",
+          "text": "VI.- Promover la plena integración de los grupos marginados al desarrollo nacional;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción recorrida DOF 31-12-1974",
+          "action": "recorrido",
+          "dof_date": "31-12-1974"
+        },
+        {
+          "type": "paragraph",
+          "text": "VII.- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción recorrida DOF 31-12-1974. Derogada DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        },
+        {
+          "type": "paragraph",
+          "text": "VIII.- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción recorrida DOF 31-12-1974. Derogada DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        },
+        {
+          "type": "paragraph",
+          "text": "IX.- Procurar la planificación de los centros de población urbanos, para asegurar una eficaz prestación de los servicios públicos que se requieran;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción recorrida DOF 31-12-1974",
+          "action": "recorrido",
+          "dof_date": "31-12-1974"
+        },
+        {
+          "type": "paragraph",
+          "text": "X.- Estimular el establecimiento de fuertes núcleos de población nacional en los lugares fronterizos que se encuentren escasamente poblados;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción recorrida DOF 31-12-1974",
+          "action": "recorrido",
+          "dof_date": "31-12-1974"
+        },
+        {
+          "type": "paragraph",
+          "text": "XI.- Procurar la movilización de la población entre distintas regiones de la República con objeto de adecuar su distribución geográfica a las posibilidades de desarrollo regional, con base en programas especiales de asentamiento de dicha población;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción recorrida DOF 31-12-1974",
+          "action": "recorrido",
+          "dof_date": "31-12-1974"
+        },
+        {
+          "type": "paragraph",
+          "text": "XII.- Promover la creación de poblados, con la finalidad de agrupar a los núcleos que viven geográficamente aislados;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción recorrida DOF 31-12-1974",
+          "action": "recorrido",
+          "dof_date": "31-12-1974"
+        },
+        {
+          "type": "paragraph",
+          "text": "XIII.- Coordinar las actividades de las dependencias del sector público federal, estatal y municipal, así como las de los organismos privados para el auxilio de la población en las áreas en que se prevea u ocurra algún desastre; y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada y recorrida DOF 31-12-1974",
+          "action": "reformado",
+          "dof_date": "31-12-1974"
+        },
+        {
+          "type": "paragraph",
+          "text": "XIV.- Las demás finalidades que esta Ley u otras disposiciones legales determinen."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción recorrida DOF 31-12-1974",
+          "action": "recorrido",
+          "dof_date": "31-12-1974"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-4",
+      "heading": "Artículo 4o",
+      "descriptor": null,
+      "ordinal": "4o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para los efectos del artículo anterior, corresponde a las dependencias del Poder Ejecutivo y a las demás entidades del Sector Público, según las atribuciones que les confieran las leyes, la aplicación y ejecución de los procedimientos necesarios para la realización de cada uno de los fines de la política demográfica nacional; pero la definición de normas, las iniciativas de conjunto y la coordinación de programas de dichas dependencias en materia demográfica, competen exclusivamente a la Secretaría de Gobernación."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-5",
+      "heading": "Artículo 5o",
+      "descriptor": null,
+      "ordinal": "5o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Se crea el Consejo Nacional de Población que tendrá a su cargo la planeación demográfica del país, con objeto de incluir a la población en los programas de desarrollo económico y social que se formulen dentro del sector gubernamental y vincular los objetivos de éstos con las necesidades que plantean los fenómenos demográficos."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-6",
+      "heading": "Artículo 6o",
+      "descriptor": null,
+      "ordinal": "6o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Consejo Nacional de Población se integra por un representante de la Secretaría de Gobernación, que será el titular del ramo y que fungirá como Presidente del mismo, y un representante de cada una de las Secretarías de Relaciones Exteriores, Hacienda y Crédito Público, Desarrollo Social, Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Economía, Medio Ambiente y Recursos Naturales, Educación Pública, Salud, Trabajo y Previsión Social, Reforma Agraria y de los Institutos Mexicano del Seguro Social, de Seguridad y Servicios Sociales de los Trabajadores del Estado, Nacional de las Mujeres y Nacional de Estadística y Geografía; así como de la Comisión Nacional de Desarrollo de los Pueblos Indígenas y del Sistema Nacional para el Desarrollo Integral de la Familia, que serán sus respectivos titulares o los Subsecretarios, Secretarios Generales o Subdirector General, según sea el caso, que ellos designen. Por cada representante propietario se designará un suplente que deberá tener el mismo nivel administrativo que aquél, o el inmediato inferior, y cuyas funciones muestren correspondencia e interacción con las políticas públicas en materia de población y desarrollo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando se trate de asuntos vinculados a los de la competencia de otras dependencias u organismos del sector público, el Presidente del Consejo podrá solicitar de sus titulares que acudan a la sesión o sesiones correspondientes o nombren un representante para desahogar aquéllos."
+        },
+        {
+          "type": "paragraph",
+          "text": "De la misma manera, cuando el Consejo lo considere procedente, podrá invitar a los titulares de las comisiones legislativas correspondientes del Congreso de la Unión, quienes participarán con voz pero sin voto."
+        },
+        {
+          "type": "paragraph",
+          "text": "El Consejo podrá contar con el auxilio de consultorías técnicas e integrar las unidades interdisciplinarias de asesoramiento que estime pertinentes, con especialistas en problemas de desarrollo y demográfica."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 03-01-1975, 17-07-1990, 17-04-2009",
+          "action": "reformado",
+          "dof_date": "03-01-1975"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO II Migración"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-7",
+      "heading": "Artículo 7o",
+      "descriptor": null,
+      "ordinal": "7o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-8",
+      "heading": "Artículo 8o",
+      "descriptor": null,
+      "ordinal": "8o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-9",
+      "heading": "Artículo 9o",
+      "descriptor": null,
+      "ordinal": "9o",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-10",
+      "heading": "Artículo 10",
+      "descriptor": null,
+      "ordinal": "10",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Es facultad exclusiva de la Secretaría de Gobernación fijar los lugares destinados al tránsito de personas y regular el mismo, por puertos marítimos, aéreos y fronteras, previa opinión de las Secretarías de Hacienda y Crédito Público, Comunicaciones y Transportes, Salud, Relaciones Exteriores, Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y en su caso la de Marina; asimismo consultará a las demás dependencias y organismos que juzgue conveniente."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011. Adicionado DOF 09-04-2012",
+          "action": "derogado",
+          "dof_date": "09-04-2012"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nota: El artículo 10 de esta Ley fue derogado por Decreto DOF 25-05-2011. Sin embargo, el Decreto posterior del DOF 09-04-2012 estableció que “se reforma el artículo 10, primer párrafo”, con lo cual el artículo 10 se adicionó nuevamente a la Ley, para quedar con un párrafo tal como aquí aparece."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-11",
+      "heading": "Artículo 11",
+      "descriptor": null,
+      "ordinal": "11",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-12",
+      "heading": "Artículo 12",
+      "descriptor": null,
+      "ordinal": "12",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-13",
+      "heading": "Artículo 13",
+      "descriptor": null,
+      "ordinal": "13",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-14",
+      "heading": "Artículo 14",
+      "descriptor": null,
+      "ordinal": "14",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-15",
+      "heading": "Artículo 15",
+      "descriptor": null,
+      "ordinal": "15",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-16",
+      "heading": "Artículo 16",
+      "descriptor": null,
+      "ordinal": "16",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 04-01-1999. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-17",
+      "heading": "Artículo 17",
+      "descriptor": null,
+      "ordinal": "17",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 04-01-1999. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-18",
+      "heading": "Artículo 18",
+      "descriptor": null,
+      "ordinal": "18",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-19",
+      "heading": "Artículo 19",
+      "descriptor": null,
+      "ordinal": "19",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-20",
+      "heading": "Artículo 20",
+      "descriptor": null,
+      "ordinal": "20",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-21",
+      "heading": "Artículo 21",
+      "descriptor": null,
+      "ordinal": "21",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-22",
+      "heading": "Artículo 22",
+      "descriptor": null,
+      "ordinal": "22",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-23",
+      "heading": "Artículo 23",
+      "descriptor": null,
+      "ordinal": "23",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-24",
+      "heading": "Artículo 24",
+      "descriptor": null,
+      "ordinal": "24",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-25",
+      "heading": "Artículo 25",
+      "descriptor": null,
+      "ordinal": "25",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-26",
+      "heading": "Artículo 26",
+      "descriptor": null,
+      "ordinal": "26",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-27",
+      "heading": "Artículo 27",
+      "descriptor": null,
+      "ordinal": "27",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-28",
+      "heading": "Artículo 28",
+      "descriptor": null,
+      "ordinal": "28",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-29",
+      "heading": "Artículo 29",
+      "descriptor": null,
+      "ordinal": "29",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-30",
+      "heading": "Artículo 30",
+      "descriptor": null,
+      "ordinal": "30",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-31",
+      "heading": "Artículo 31",
+      "descriptor": null,
+      "ordinal": "31",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO III Inmigración"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-32",
+      "heading": "Artículo 32",
+      "descriptor": null,
+      "ordinal": "32",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-33",
+      "heading": "Artículo 33",
+      "descriptor": null,
+      "ordinal": "33",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-34",
+      "heading": "Artículo 34",
+      "descriptor": null,
+      "ordinal": "34",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-35",
+      "heading": "Artículo 35",
+      "descriptor": null,
+      "ordinal": "35",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990. Derogado DOF 27-01-2011",
+          "action": "reformado",
+          "dof_date": "27-01-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-36",
+      "heading": "Artículo 36",
+      "descriptor": null,
+      "ordinal": "36",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-37",
+      "heading": "Artículo 37",
+      "descriptor": null,
+      "ordinal": "37",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-38",
+      "heading": "Artículo 38",
+      "descriptor": null,
+      "ordinal": "38",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-39",
+      "heading": "Artículo 39",
+      "descriptor": null,
+      "ordinal": "39",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-40",
+      "heading": "Artículo 40",
+      "descriptor": null,
+      "ordinal": "40",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-41",
+      "heading": "Artículo 41",
+      "descriptor": null,
+      "ordinal": "41",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-42",
+      "heading": "Artículo 42",
+      "descriptor": null,
+      "ordinal": "42",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990, 08-11-1996, 02-07-2010, 27-01-2011. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-43",
+      "heading": "Artículo 43",
+      "descriptor": null,
+      "ordinal": "43",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-44",
+      "heading": "Artículo 44",
+      "descriptor": null,
+      "ordinal": "44",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-45",
+      "heading": "Artículo 45",
+      "descriptor": null,
+      "ordinal": "45",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-46",
+      "heading": "Artículo 46",
+      "descriptor": null,
+      "ordinal": "46",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-47",
+      "heading": "Artículo 47",
+      "descriptor": null,
+      "ordinal": "47",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-48",
+      "heading": "Artículo 48",
+      "descriptor": null,
+      "ordinal": "48",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990, 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-49",
+      "heading": "Artículo 49",
+      "descriptor": null,
+      "ordinal": "49",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-50",
+      "heading": "Artículo 50",
+      "descriptor": null,
+      "ordinal": "50",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-51",
+      "heading": "Artículo 51",
+      "descriptor": null,
+      "ordinal": "51",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-52",
+      "heading": "Artículo 52",
+      "descriptor": null,
+      "ordinal": "52",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 27-01-2011. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-53",
+      "heading": "Artículo 53",
+      "descriptor": null,
+      "ordinal": "53",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-54",
+      "heading": "Artículo 54",
+      "descriptor": null,
+      "ordinal": "54",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-55",
+      "heading": "Artículo 55",
+      "descriptor": null,
+      "ordinal": "55",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-56",
+      "heading": "Artículo 56",
+      "descriptor": null,
+      "ordinal": "56",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-57",
+      "heading": "Artículo 57",
+      "descriptor": null,
+      "ordinal": "57",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-58",
+      "heading": "Artículo 58",
+      "descriptor": null,
+      "ordinal": "58",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-59",
+      "heading": "Artículo 59",
+      "descriptor": null,
+      "ordinal": "59",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 31-12-1979, 31-12-1981. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-60",
+      "heading": "Artículo 60",
+      "descriptor": null,
+      "ordinal": "60",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-61",
+      "heading": "Artículo 61",
+      "descriptor": null,
+      "ordinal": "61",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-62",
+      "heading": "Artículo 62",
+      "descriptor": null,
+      "ordinal": "62",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-63",
+      "heading": "Artículo 63",
+      "descriptor": null,
+      "ordinal": "63",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990, 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-64",
+      "heading": "Artículo 64",
+      "descriptor": null,
+      "ordinal": "64",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-65",
+      "heading": "Artículo 65",
+      "descriptor": null,
+      "ordinal": "65",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-66",
+      "heading": "Artículo 66",
+      "descriptor": null,
+      "ordinal": "66",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-67",
+      "heading": "Artículo 67",
+      "descriptor": null,
+      "ordinal": "67",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990, 22-11-2010. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-68",
+      "heading": "Artículo 68",
+      "descriptor": null,
+      "ordinal": "68",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-69",
+      "heading": "Artículo 69",
+      "descriptor": null,
+      "ordinal": "69",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-70",
+      "heading": "Artículo 70",
+      "descriptor": null,
+      "ordinal": "70",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 31-12-1979. Derogado DOF 31-12-1981. Adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-71",
+      "heading": "Artículo 71",
+      "descriptor": null,
+      "ordinal": "71",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-72",
+      "heading": "Artículo 72",
+      "descriptor": null,
+      "ordinal": "72",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-73",
+      "heading": "Artículo 73",
+      "descriptor": null,
+      "ordinal": "73",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-74",
+      "heading": "Artículo 74",
+      "descriptor": null,
+      "ordinal": "74",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-75",
+      "heading": "Artículo 75",
+      "descriptor": null,
+      "ordinal": "75",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO IV Emigración"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-76",
+      "heading": "Artículo 76",
+      "descriptor": null,
+      "ordinal": "76",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Por lo que se refiere a emigración, a la Secretaría de Gobernación corresponde:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Investigar las causas que den o puedan dar origen a la emigración de nacionales y dictar medidas para regularla;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Dictar medidas en colaboración con la Secretaría de Relaciones Exteriores, tendientes a la protección de los emigrantes mexicanos, y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Promover en coordinación con las dependencias competentes, la celebración de acuerdos con los gobiernos de otros países, para que la emigración se realice por canales legales, seguros y ordenados, a través de programas de trabajadores temporales u otras formas de migración."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción adicionada DOF 25-05-2011",
+          "action": "adicionado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-77",
+      "heading": "Artículo 77",
+      "descriptor": null,
+      "ordinal": "77",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Se considera emigrante al mexicano o extranjero que se desplace desde México con la intención de cambiar de residencia o país."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-78",
+      "heading": "Artículo 78",
+      "descriptor": null,
+      "ordinal": "78",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-79",
+      "heading": "Artículo 79",
+      "descriptor": null,
+      "ordinal": "79",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-80",
+      "heading": "Artículo 80",
+      "descriptor": null,
+      "ordinal": "80",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-80",
+      "heading": "Artículo 80",
+      "descriptor": null,
+      "ordinal": "80",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "bis. El Gobierno Federal, en coordinación con los Gobiernos de las Entidades Federativas y Municipales deberá:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Promover el desarrollo y fomentar el arraigo de los mexicanos al territorio nacional;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Crear programas para atender los impactos de la emigración en las comunidades de origen, especialmente en lo relacionado con la problemática de la desintegración familiar y con la atención de personas en situación de vulnerabilidad."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 25-05-2011",
+          "action": "adicionado",
+          "dof_date": "25-05-2011"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO V Repatriación"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-81",
+      "heading": "Artículo 81",
+      "descriptor": null,
+      "ordinal": "81",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Se consideran como repatriados a los emigrantes nacionales que regresan al país."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-82",
+      "heading": "Artículo 82",
+      "descriptor": null,
+      "ordinal": "82",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo derogado DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-83",
+      "heading": "Artículo 83",
+      "descriptor": null,
+      "ordinal": "83",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría estará facultada para coordinar de manera institucional las acciones de atención y reintegración de mexicanos repatriados, poniendo especial énfasis en que sean orientados acerca de las opciones de empleo y vivienda que haya en el lugar del territorio nacional en el que manifiesten su intención de residir."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 03-01-1975, 25-05-2011",
+          "action": "reformado",
+          "dof_date": "03-01-1975"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-84",
+      "heading": "Artículo 84",
+      "descriptor": null,
+      "ordinal": "84",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría en coordinación con la Secretaría de Relaciones Exteriores podrá suscribir acuerdos interinstitucionales con otros países y organismos internacionales, en materia de repatriación segura, digna y ordenada de mexicanos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Asimismo, la Secretaría vigilará que en los lugares destinados para la recepción de mexicanos repatriados, se respeten los siguientes derechos y se cumpla con los acuerdos internacionales en la materia:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Acceder a comunicación telefónica;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Recibir agua y alimentos, un espacio digno, enseres básicos para su aseo personal y atención legal, psicológica y médica;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Ser informado respecto de los diversos programas y apoyos que puede recibir;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "No ser discriminado por las autoridades a causa de su origen étnico, sexo, género, edad, discapacidad, condición social o económica, estado de salud, embarazo, lengua, religión o cualquier otra circunstancia que tenga por objeto impedir el reconocimiento de los derechos y la igualdad real de oportunidades de las personas;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Ser apoyado en el traslado a su lugar de residencia en México;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Que se cuente con áreas de estancia separadas para mujeres y hombres, garantizando el derecho a la preservación de la unidad familiar, excepto en los casos en los que la separación sea considerada en razón del interés superior de la niña, niño o adolescente;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VII",
+          "text": "Que se cuente con espacios separados para niñas, niños y adolescentes repatriados no acompañados para su alojamiento en tanto son canalizados a instituciones en donde se les brinde una atención adecuada;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VIII",
+          "text": "Que en las instalaciones se evite el hacinamiento, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IX",
+          "text": "Recibir un trato digno y humano."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 19-05-2014",
+          "action": "reformado",
+          "dof_date": "19-05-2014"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para efectos de la recepción de los mexicanos repatriados, la Secretaría promoverá acciones de coordinación interinstitucional para brindarles una adecuada recepción."
+        },
+        {
+          "type": "reform_note",
+          "text": "Párrafo reformado DOF 19-05-2014",
+          "action": "reformado",
+          "dof_date": "19-05-2014"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO VI Registro Nacional de Población"
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación del Capítulo reformada DOF 22-07-1992",
+          "action": "reformado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-85",
+      "heading": "Artículo 85",
+      "descriptor": null,
+      "ordinal": "85",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría de Gobernación tiene a su cargo el registro y la acreditación de la identidad de todas las personas residentes en el país y de los nacionales que residan en el extranjero."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 22-07-1992",
+          "action": "reformado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-86",
+      "heading": "Artículo 86",
+      "descriptor": null,
+      "ordinal": "86",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Registro Nacional de Población tiene como finalidad registrar a cada una de las personas que integran la población del país, con los datos que permitan certificar y acreditar fehacientemente su identidad."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 22-07-1992",
+          "action": "reformado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-87",
+      "heading": "Artículo 87",
+      "descriptor": null,
+      "ordinal": "87",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En el Registro Nacional de Población se inscribirá:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "A los mexicanos, mediante el Registro Nacional de Ciudadanos y el Registro de Menores de Edad; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "A los extranjeros, a través del Catálogo de los Extranjeros residentes en la República Mexicana."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 22-07-1992",
+          "action": "reformado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-88",
+      "heading": "Artículo 88",
+      "descriptor": null,
+      "ordinal": "88",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Registro Nacional de Ciudadanos se integra con la información certificada de los mexicanos mayores de 18 años, que soliciten su inscripción en los términos establecidos por esta ley y su reglamento."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 22-07-1992",
+          "action": "reformado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-89",
+      "heading": "Artículo 89",
+      "descriptor": null,
+      "ordinal": "89",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Registro de Menores de Edad, se conforma con los datos de los mexicanos menores de 18 años, que se recaben a través de los registros civiles."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 22-07-1992",
+          "action": "reformado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-90",
+      "heading": "Artículo 90",
+      "descriptor": null,
+      "ordinal": "90",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Catálogo de los Extranjeros residentes en la República Mexicana se integra con la información de carácter migratorio existente en la propia Secretaría de Gobernación."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 22-07-1992",
+          "action": "reformado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-91",
+      "heading": "Artículo 91",
+      "descriptor": null,
+      "ordinal": "91",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Al incorporar a una persona en el Registro Nacional de Población, se le asignará una clave que se denominará Clave Unica de Registro de Población. Esta servirá para registrarla e identificarla en forma individual."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Clave Única de Registro de Población es la fuente única de identidad de las personas, de nacionalidad mexicana, o extranjera que se encuentre en condición de estancia regular en el país, integrada de una secuencia alfanumérica de 18 caracteres que permite identificarlas, la cual contará con, al menos, los siguientes datos:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Nombres y apellidos, según corresponda;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Fecha de nacimiento, empezando por año, mes y día;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Sexo o género;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Lugar de nacimiento, y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Nacionalidad."
+        },
+        {
+          "type": "paragraph",
+          "text": "Párrafo con fracciones adicionado DOF 16-07-2025"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 22-07-1992",
+          "action": "reformado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-91",
+      "heading": "Artículo 91",
+      "descriptor": null,
+      "ordinal": "91",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Bis.- La Clave Única de Registro de Población que, además de los datos previstos en el artículo 91 de esta Ley, contenga huellas dactilares y fotografía, será el documento nacional de identificación obligatorio, de aceptación universal y obligatoria en todo el territorio nacional, y estará disponible en formato físico y digital."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría de Gobernación llevará a cabo acciones para integrar los datos biométricos de las personas a la Clave Única de Registro de Población, mediante:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "La transferencia de los datos biométricos que obren en poder de las autoridades de los tres órdenes de gobierno al Registro Nacional de Población, previa autorización de su titular, o"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "La asistencia de los titulares a los centros que al efecto habilite la Secretaría de Gobernación para tal efecto."
+        },
+        {
+          "type": "paragraph",
+          "text": "La integración de los datos biométricos se realizará, previo consentimiento de las personas titulares."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Secretaría de Gobernación, a través del Registro Nacional de Población, establecerá mecanismos de coordinación y colaboración con las distintas autoridades de los tres órdenes de gobierno para los fines del presente artículo."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 16-07-2025",
+          "action": "adicionado",
+          "dof_date": "16-07-2025"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-91",
+      "heading": "Artículo 91",
+      "descriptor": null,
+      "ordinal": "91",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Ter.- La Clave Única de Registro de Población que cuente con los datos biométricos se vinculará con el Registro del Sistema Nacional de Salud, que prevé la Ley General de Salud. Asimismo, podrá integrarse a otros registros y sistemas nacionales, en términos de las leyes y normativa aplicable."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 16-07-2025",
+          "action": "adicionado",
+          "dof_date": "16-07-2025"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-91",
+      "heading": "Artículo 91",
+      "descriptor": null,
+      "ordinal": "91",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Quater.- El Registro Nacional de Población contará con una Plataforma Única de Identidad, para la consulta, validación y gestión de las Claves Únicas de Registro de Población que permita la integración de los datos a que se refiere el artículo 91 Bis de la presente Ley, a fin de brindar el Servicio Nacional de Identificación Personal."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 16-07-2025",
+          "action": "adicionado",
+          "dof_date": "16-07-2025"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-91",
+      "heading": "Artículo 91",
+      "descriptor": null,
+      "ordinal": "91",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Quinquies.- La versión digital de la Clave Única de Registro de Población como identificación estará a cargo de la Agencia de Transformación Digital y Telecomunicaciones."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 16-07-2025",
+          "action": "adicionado",
+          "dof_date": "16-07-2025"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-91",
+      "heading": "Artículo 91",
+      "descriptor": null,
+      "ordinal": "91",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Sexies.- En los términos que fije el Reglamento de esta Ley, así como en otras disposiciones jurídicas aplicables, la Clave Única de Registro de Población deberá ser empleada en los procesos de validación y autenticación de la Identidad de las personas en medios digitales."
+        },
+        {
+          "type": "paragraph",
+          "text": "Todo ente público o particular estará obligado a solicitar la Clave Única de Registro de Población para la prestación de sus trámites y servicios."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 16-07-2025",
+          "action": "adicionado",
+          "dof_date": "16-07-2025"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-92",
+      "heading": "Artículo 92",
+      "descriptor": null,
+      "ordinal": "92",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría de Gobernación establecerá las normas, métodos y procedimientos técnicos del Registro Nacional de Población. Asimismo, coordinará los métodos de identificación y registro de las dependencias de la administración pública federal."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 31-12-1981, 22-07-1992",
+          "action": "reformado",
+          "dof_date": "31-12-1981"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-93",
+      "heading": "Artículo 93",
+      "descriptor": null,
+      "ordinal": "93",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las autoridades locales contribuirán a la integración del Registro Nacional de Población."
+        },
+        {
+          "type": "paragraph",
+          "text": "Al efecto, la Secretaría de Gobernación celebrará con ellas, convenios con los siguientes propósitos:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Adoptar la normatividad a que se refiere el artículo anterior;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Recabar la información relativa a los nacimientos, discapacidad y defunciones de las personas a fin de integrar y mantener permanentemente actualizado el Registro Nacional de Población, y"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 12-07-2018",
+          "action": "reformado",
+          "dof_date": "12-07-2018"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Incluir en el acta correspondiente la Clave Unica de Registro de Población al registrar el nacimiento de las personas."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-94",
+      "heading": "Artículo 94",
+      "descriptor": null,
+      "ordinal": "94",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las autoridades de la Federación, de los estados y de los municipios, serán auxiliares de la Secretaría de Gobernación en las funciones que a ésta correspondan en materia de registro de población."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-95",
+      "heading": "Artículo 95",
+      "descriptor": null,
+      "ordinal": "95",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las autoridades judiciales deberán informar a la Secretaría de Gobernación sobre las resoluciones que afecten los derechos ciudadanos, o que impliquen modificar los datos del registro de la persona."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-96",
+      "heading": "Artículo 96",
+      "descriptor": null,
+      "ordinal": "96",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría de Relaciones Exteriores informará a la de Gobernación, sobre la expedición y cancelación de cartas de naturalización, certificados de nacionalidad y renuncias a la nacionalidad que reciba. De igual manera, proporcionará la información necesaria para que los mexicanos residentes en el extranjero, queden incorporados al Registro Nacional de Población, en los términos establecidos por el reglamento."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO VII Registro Nacional de Ciudadanos y Cédula de Identidad Ciudadana"
+        },
+        {
+          "type": "reform_note",
+          "text": "Capítulo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-97",
+      "heading": "Artículo 97",
+      "descriptor": null,
+      "ordinal": "97",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El Registro Nacional de Ciudadanos y la expedición de la Cédula de Identidad Ciudadana son servicios de interés público que presta el Estado, a través de la Secretaría de Gobernación."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-98",
+      "heading": "Artículo 98",
+      "descriptor": null,
+      "ordinal": "98",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Los ciudadanos mexicanos tienen la obligación de inscribirse en el Registro Nacional de Ciudadanos y obtener su Cédula de Identidad Ciudadana."
+        },
+        {
+          "type": "paragraph",
+          "text": "El Registro Nacional de Ciudadanos contará con el apoyo de un Comité Técnico Consultivo, en los términos que establezca el Reglamento."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-99",
+      "heading": "Artículo 99",
+      "descriptor": null,
+      "ordinal": "99",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Para cumplir con la obligación establecida en el artículo anterior los ciudadanos deben satisfacer los siguientes requisitos:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Presentar la solicitud de inscripción correspondiente; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Entregar copia certificada del acta de nacimiento o, en su caso, del certificado de nacionalidad o de la carta de naturalización."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-100",
+      "heading": "Artículo 100",
+      "descriptor": null,
+      "ordinal": "100",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- En los casos en que por causas fundadas el ciudadano no pudiera entregar la copia certificada del acta de nacimiento, podrá ser sustituida por los documentos que garanticen fehacientemente la veracidad de los datos personales del interesado, conforme lo disponga el reglamento de esta ley."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-101",
+      "heading": "Artículo 101",
+      "descriptor": null,
+      "ordinal": "101",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría de Gobernación podrá verificar los datos relativos a la identidad de las personas, mediante la confrontación de los datos aportados por los ciudadanos con los que consten en los archivos correspondientes de dependencias y entidades de la administración pública federal que, para el ejercicio de sus funciones, tengan establecidos procedimientos de identificación personal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las dependencias y entidades que se encuentren en el supuesto anterior estarán obligadas a proporcionar la información que para este efecto solicite la Secretaría de Gobernación."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-102",
+      "heading": "Artículo 102",
+      "descriptor": null,
+      "ordinal": "102",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Cuando la Secretaría de Gobernación encuentre alguna irregularidad en los documentos presentados por el interesado, suspenderá el registro correspondiente e informará por escrito las causas por las cuales no procede su trámite."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los ciudadanos que estén en el supuesto anterior, podrán solicitar ante la Secretaría de Gobernación la aclaración respectiva, en los términos establecidos en el reglamento correspondiente"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-103",
+      "heading": "Artículo 103",
+      "descriptor": null,
+      "ordinal": "103",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Una vez cumplidos los requisitos establecidos, la Secretaría de Gobernación deberá expedir y poner a disposición del ciudadano la respectiva Cédula de Identidad Ciudadana."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-104",
+      "heading": "Artículo 104",
+      "descriptor": null,
+      "ordinal": "104",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Cédula de Identidad Ciudadana es el documento oficial de identificación, que hace prueba plena sobre los datos de identidad que contiene en relación con su titular."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-105",
+      "heading": "Artículo 105",
+      "descriptor": null,
+      "ordinal": "105",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Cédula de Identidad Ciudadana tendrá valor como medio de identificación personal ante todas las autoridades mexicanas ya sea en el país o en el extranjero, y las personas físicas y morales con domicilio en el país."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-106",
+      "heading": "Artículo 106",
+      "descriptor": null,
+      "ordinal": "106",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Ninguna persona podrá ser sancionada por la no portación de la Cédula de Identificación Ciudadana."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-107",
+      "heading": "Artículo 107",
+      "descriptor": null,
+      "ordinal": "107",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Cédula de Identidad Ciudadana contendrá cuando menos los siguientes datos y elementos de identificación:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Apellido paterno, apellido materno y nombre (s);"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Clave Unica de Registro de Población;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Fotografía del titular;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "Lugar de nacimiento;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "Fecha de nacimiento; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Firma y huella dactilar."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-108",
+      "heading": "Artículo 108",
+      "descriptor": null,
+      "ordinal": "108",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Corresponde al titular de la Cédula de Identidad Ciudadana su custodia y conservación."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-109",
+      "heading": "Artículo 109",
+      "descriptor": null,
+      "ordinal": "109",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Cédula de Identidad Ciudadana deberá renovarse;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "A más tardar, noventa días antes de que concluya su vigencia; la cual no podrá exceder de 15 años;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "Cuando esté deteriorada por su uso; y"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "Cuando los rasgos físicos de una persona cambien de tal suerte que no se correspondan con los de la fotografía que porta la cédula."
+        },
+        {
+          "type": "paragraph",
+          "text": "En todos los casos, el portador deberá devolver la Cédula de Identidad Ciudadana anterior al momento de recoger la nueva."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-110",
+      "heading": "Artículo 110",
+      "descriptor": null,
+      "ordinal": "110",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Cuando a un ciudadano se le extravíe o destruya su Cédula de Identidad Ciudadana deberá dar aviso a la Secretaría de Gobernación, dentro de los 30 días siguientes a que esto suceda, y tramitar su reposición."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-111",
+      "heading": "Artículo 111",
+      "descriptor": null,
+      "ordinal": "111",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría de Gobernación podrá expedir un documento de identificación a los mexicanos menores de 18 años, en los términos establecidos por el reglamento de esta ley."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992",
+          "action": "adicionado",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-112",
+      "heading": "Artículo 112",
+      "descriptor": null,
+      "ordinal": "112",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- La Secretaría de Gobernación proporcionará al Instituto Nacional Electoral, la información del Registro Nacional de Ciudadanos que sea necesaria para la integración de los instrumentos electorales, en los términos previstos por la ley. Igualmente podrá proporcionarla a las demás dependencias y entidades públicas que la requieran para el ejercicio de sus atribuciones."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 22-07-1992. Reformado DOF 01-12-2015",
+          "action": "adicionado",
+          "dof_date": "01-12-2015"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAPITULO VIII Sanciones"
+        },
+        {
+          "type": "reform_note",
+          "text": "Capítulo recorrido (antes Capítulo VII) DOF 22-07-1992",
+          "action": "recorrido",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-113",
+      "heading": "Artículo 113",
+      "descriptor": null,
+      "ordinal": "113",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Los empleados de la Secretaría de Gobernación serán sancionados con suspensión de empleo hasta por treinta días o destitución en caso grave, cuando:"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "I",
+          "text": "Sin estar autorizados, den a conocer asuntos de carácter confidencial;"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "II",
+          "text": "(Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción derogada DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "III",
+          "text": "(Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción derogada DOF 25-05-2011",
+          "action": "derogado",
+          "dof_date": "25-05-2011"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "IV",
+          "text": "No expidan la Cédula de Identidad a la persona que se presente con los documentos requeridos o retengan indebidamente dicha Cédula una vez expedida;"
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 22-11-2010",
+          "action": "reformado",
+          "dof_date": "22-11-2010"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "V",
+          "text": "(Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción reformada DOF 22-11-2010. Derogada DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        },
+        {
+          "type": "fraccion",
+          "ordinal": "VI",
+          "text": "Cometan actos u omisiones que violen los derechos humanos de las personas que se encuentran sujetas a esta ley."
+        },
+        {
+          "type": "reform_note",
+          "text": "Fracción adicionada DOF 22-11-2010",
+          "action": "adicionado",
+          "dof_date": "22-11-2010"
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 93) DOF 22-07-1992",
+          "action": "recorrido",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-114",
+      "heading": "Artículo 114",
+      "descriptor": null,
+      "ordinal": "114",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- Las autoridades federales, estatales o municipales que incurran en violaciones a la presente Ley o a las disposiciones que la reglamenten, que no constituyan delitos, serán sancionados con multa hasta de cinco mil pesos y destitución en caso de reincidencia."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 94) DOF 22-07-1992",
+          "action": "recorrido",
+          "dof_date": "22-07-1992"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-114",
+      "heading": "Artículo 114",
+      "descriptor": null,
+      "ordinal": "114",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Bis. Las autoridades de los tres órdenes de gobierno y particulares que incumplan con las obligaciones previstas en el artículo 91 Bis de esta Ley, previo apercibimiento por el reiterado incumplimiento, serán sancionadas con multas de 10,000 a 20,000 veces el valor diario de la Unidad de Medida y Actualización."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 16-07-2025",
+          "action": "adicionado",
+          "dof_date": "16-07-2025"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-115",
+      "heading": "Artículo 115",
+      "descriptor": null,
+      "ordinal": "115",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- El que auxilie, encubra o aconseje a cualquier individuo violar las disposiciones de esta Ley y su Reglamento en materia que no constituya delito, será castigado con multa hasta de cien días de salario mínimo general vigente en el Distrito Federal en el momento de consumar la conducta, o bien arresto hasta por treinta y seis horas si no pagare la multa."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 95) DOF 22-07-1992. Reformado DOF 08-11-1996",
+          "action": "recorrido",
+          "dof_date": "08-11-1996"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-116",
+      "heading": "Artículo 116",
+      "descriptor": null,
+      "ordinal": "116",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 96) DOF 22-07-1992. Reformado DOF 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-117",
+      "heading": "Artículo 117",
+      "descriptor": null,
+      "ordinal": "117",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 97) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-118",
+      "heading": "Artículo 118",
+      "descriptor": null,
+      "ordinal": "118",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 98) DOF 22-07-1992. Reformado DOF 21-07-2008, 27-01-2011. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-119",
+      "heading": "Artículo 119",
+      "descriptor": null,
+      "ordinal": "119",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 99) DOF 22-07-1992. Derogado DOF 21-07-2008",
+          "action": "recorrido",
+          "dof_date": "21-07-2008"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-120",
+      "heading": "Artículo 120",
+      "descriptor": null,
+      "ordinal": "120",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 100) DOF 22-07-1992. Derogado DOF 21-07-2008",
+          "action": "recorrido",
+          "dof_date": "21-07-2008"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-121",
+      "heading": "Artículo 121",
+      "descriptor": null,
+      "ordinal": "121",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 101) DOF 22-07-1992. Derogado DOF 21-07-2008",
+          "action": "recorrido",
+          "dof_date": "21-07-2008"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-122",
+      "heading": "Artículo 122",
+      "descriptor": null,
+      "ordinal": "122",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 102) DOF 22-07-1992. Derogado DOF 21-07-2008",
+          "action": "recorrido",
+          "dof_date": "21-07-2008"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-123",
+      "heading": "Artículo 123",
+      "descriptor": null,
+      "ordinal": "123",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 103) DOF 22-07-1992. Derogado DOF 21-07-2008",
+          "action": "recorrido",
+          "dof_date": "21-07-2008"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-124",
+      "heading": "Artículo 124",
+      "descriptor": null,
+      "ordinal": "124",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 104) DOF 22-07-1992. Derogado DOF 21-07-2008",
+          "action": "recorrido",
+          "dof_date": "21-07-2008"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-125",
+      "heading": "Artículo 125",
+      "descriptor": null,
+      "ordinal": "125",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado y recorrido (antes artículo 105) DOF 22-07-1992. Reformado DOF 21-07-2008. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-126",
+      "heading": "Artículo 126",
+      "descriptor": null,
+      "ordinal": "126",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990. Recorrido (antes artículo 106) DOF 22-07-1992. Reformado DOF 08-11-1996.",
+          "action": "reformado",
+          "dof_date": "08-11-1996"
+        },
+        {
+          "type": "paragraph",
+          "text": "Derogado DOF 25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-127",
+      "heading": "Artículo 127",
+      "descriptor": null,
+      "ordinal": "127",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 107) DOF 22-07-1992. Reformado DOF 21-07-2008. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-128",
+      "heading": "Artículo 128",
+      "descriptor": null,
+      "ordinal": "128",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 108) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-129",
+      "heading": "Artículo 129",
+      "descriptor": null,
+      "ordinal": "129",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 109) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-130",
+      "heading": "Artículo 130",
+      "descriptor": null,
+      "ordinal": "130",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 110) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-131",
+      "heading": "Artículo 131",
+      "descriptor": null,
+      "ordinal": "131",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 111) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-132",
+      "heading": "Artículo 132",
+      "descriptor": null,
+      "ordinal": "132",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 112) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-133",
+      "heading": "Artículo 133",
+      "descriptor": null,
+      "ordinal": "133",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 113) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-134",
+      "heading": "Artículo 134",
+      "descriptor": null,
+      "ordinal": "134",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 114) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-135",
+      "heading": "Artículo 135",
+      "descriptor": null,
+      "ordinal": "135",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 115) DOF 22-07-1992. Reformado DOF 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-136",
+      "heading": "Artículo 136",
+      "descriptor": null,
+      "ordinal": "136",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 116) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-137",
+      "heading": "Artículo 137",
+      "descriptor": null,
+      "ordinal": "137",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 117) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-138",
+      "heading": "Artículo 138",
+      "descriptor": null,
+      "ordinal": "138",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990. Recorrido (antes artículo 118) DOF 22-07-1992. Reformado DOF 08-11-1996, 02-07-2010.",
+          "action": "reformado",
+          "dof_date": "08-11-1996"
+        },
+        {
+          "type": "paragraph",
+          "text": "Derogado DOF 25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-139",
+      "heading": "Artículo 139",
+      "descriptor": null,
+      "ordinal": "139",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 119) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-139",
+      "heading": "Artículo 139",
+      "descriptor": null,
+      "ordinal": "139",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Bis.- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "adicionado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-140",
+      "heading": "Artículo 140",
+      "descriptor": null,
+      "ordinal": "140",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 120) DOF 22-07-1992. Reformado DOF 08-11-1996. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-141",
+      "heading": "Artículo 141",
+      "descriptor": null,
+      "ordinal": "141",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo reformado DOF 17-07-1990. Recorrido (antes artículo 121) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "reformado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-142",
+      "heading": "Artículo 142",
+      "descriptor": null,
+      "ordinal": "142",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 122) DOF 22-07-1992. Derogado DOF 08-11-1996",
+          "action": "recorrido",
+          "dof_date": "08-11-1996"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-143",
+      "heading": "Artículo 143",
+      "descriptor": null,
+      "ordinal": "143",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo recorrido (antes artículo 123) DOF 22-07-1992. Reformado DOF 02-07-2010. Derogado DOF 25-05-2011",
+          "action": "recorrido",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "articulo",
+      "id": "articulo-144",
+      "heading": "Artículo 144",
+      "descriptor": null,
+      "ordinal": "144",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": ".- (Se deroga)."
+        },
+        {
+          "type": "reform_note",
+          "text": "Artículo adicionado DOF 26-12-1990. Recorrido (antes artículo 124) DOF 22-07-1992. Derogado DOF 25-05-2011",
+          "action": "adicionado",
+          "dof_date": "25-05-2011"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ix",
+      "heading": "CAPÍTULO IX",
+      "descriptor": "DEL PROCEDIMIENTO MIGRATORIO",
+      "ordinal": "IX",
+      "content": [
+        {
+          "type": "reform_note",
+          "text": "Capítulo adicionado DOF 08-11-1996",
+          "action": "adicionado",
+          "dof_date": "08-11-1996"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-145",
+          "heading": "Artículo 145",
+          "descriptor": null,
+          "ordinal": "145",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-146",
+          "heading": "Artículo 146",
+          "descriptor": null,
+          "ordinal": "146",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-147",
+          "heading": "Artículo 147",
+          "descriptor": null,
+          "ordinal": "147",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-148",
+          "heading": "Artículo 148",
+          "descriptor": null,
+          "ordinal": "148",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-149",
+          "heading": "Artículo 149",
+          "descriptor": null,
+          "ordinal": "149",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-150",
+          "heading": "Artículo 150",
+          "descriptor": null,
+          "ordinal": "150",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-x",
+      "heading": "CAPÍTULO X",
+      "descriptor": "DEL PROCEDIMIENTO DE VERIFICACIÓN Y VIGILANCIA",
+      "ordinal": "X",
+      "content": [
+        {
+          "type": "reform_note",
+          "text": "Capítulo adicionado DOF 08-11-1996",
+          "action": "adicionado",
+          "dof_date": "08-11-1996"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-151",
+          "heading": "Artículo 151",
+          "descriptor": null,
+          "ordinal": "151",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Reformado DOF 04-01-1999. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-152",
+          "heading": "Artículo 152",
+          "descriptor": null,
+          "ordinal": "152",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-153",
+          "heading": "Artículo 153",
+          "descriptor": null,
+          "ordinal": "153",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-154",
+          "heading": "Artículo 154",
+          "descriptor": null,
+          "ordinal": "154",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-155",
+          "heading": "Artículo 155",
+          "descriptor": null,
+          "ordinal": "155",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-156",
+          "heading": "Artículo 156",
+          "descriptor": null,
+          "ordinal": "156",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-157",
+          "heading": "Artículo 157",
+          "descriptor": null,
+          "ordinal": "157",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- (Se deroga)."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011",
+              "action": "adicionado",
+              "dof_date": "25-05-2011"
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTICULOS TRANSITORIOS"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-articulo-primer",
+          "heading": "Artículo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley General de Población de veintitrés de diciembre de mil novecientos cuarenta y siete y sus reformas de veinticuatro de diciembre de mil novecientos cuarenta y nueve, derogándose todas las demás disposiciones que se opongan a la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Esta Ley entrará en vigor a los treinta días naturales después de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-articulo-tercer",
+          "heading": "Artículo Tercero",
+          "descriptor": null,
+          "ordinal": "Artículo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Entre tanto se expide el Reglamento de la presente Ley, continuarán vigentes los sesenta y dos, publicado en el Diario Oficial de tres de mayo de mil novecientos sesenta y dos y fe de erratas de ocho del mismo mes, en lo que no se opongan a esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-articulo-cuart",
+          "heading": "Artículo Cuarto",
+          "descriptor": null,
+          "ordinal": "Artículo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría de Gobernación señalará la fecha en que habrá de iniciarse el registro de la población mexicana."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 11 de diciembre de 1973.- Rafael Hernández Ochoa, D. P.- Vicente Juárez Carro, S. P.- José Luis Escobar Herrera, D. S.- Félix Vallejo Martínez, S.S.- Rúbricas."
+            },
+            {
+              "type": "paragraph",
+              "text": "En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los once días del mes de diciembre de mil novecientos setenta y tres.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O."
+            },
+            {
+              "type": "paragraph",
+              "text": "Rabasa.- Rúbrica.- El Secretario de la Defensa Nacional, Hermenegildo Cuenca Díaz.- Rúbrica.- El Secretario de Marina, Luis M. Bravo Carrera.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José López Portillo.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.Rúbrica.- El Secretario de Industria y Comercio, Carlos Torres Manzo.- Rúbrica.- El Secretario de Agricultura y Ganadería, Manuel Bernardo Aguirre.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez Docurro. - Rúbrica.- El Secretario de Obras Públicas, Luis Enrique Bracamontes.- Rúbrica.- El Secretario de Recursos Hidráulicos, Leandro Rovirosa Wade.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Salubridad y Asistencia, Jorge Jiménez Cantú.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Porfirio Muñoz Ledo.- Rúbrica.- El Secretario de la Presidencia, Hugo Cervantes del Río.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Augusto Gómez Villanueva.- Rúbrica.- El Jefe del Departamento de Turismo, Julio Hirschfeld Almada.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA A partir de 1996 DECRETO por el que se reforma, adiciona y deroga diversas disposiciones de la Ley General de Población."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 8 de noviembre de 1996"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-articulo-unic",
+          "heading": "ARTÍCULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman y adicionan los artículos 25, 37, 39, 42, 48, 49, 63, 68, 70, 115, 116, 126, 135, 138, 139 bis y 140; se adicionan el Capítulo IX, denominado “Del Procedimiento Migratorio”, con los artículos 145, 146, 147, 148, 149 y 150; y el Capítulo X, denominado “Del Procedimiento de Verificación y Vigilancia”, con los artículos 151, 152, 153, 154, 155, 156 y 157; y se deroga el artículo 142 de la Ley General de Población, para quedar como sigue: .........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 29 de octubre de 1996.- Dip. Carlos Humberto Aceves del Olmo, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Melchor de los Santos Ordóñez, Presidente.- Dip. Primo Quiroz Durán, Secretario.- Sen. Eduardo Andrade Sánchez, Secretario.- Rúbricas\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de noviembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se expide la Ley de la Policía Federal Preventiva y se reforman diversas disposiciones de otros ordenamientos legales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 4 de enero de 1999"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-tercer",
+          "heading": "ARTÍCULO TERCERO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "SE REFORMAN LOS ARTÍCULOS 16, 17 Y 151 PÁRRAFO PRIMERO DE LA  , PARA QUEDAR COMO SIGUE: .........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La organización de la Policía Federal Preventiva durará un máximo de sesenta días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las policías administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, reformados por este Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de recursos humanos, materiales y financieros de las policías administrativas cuya competencia corresponderá a la Policía Federal Preventiva, sin detrimento de la eficacia de los servicios."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para ese solo efecto y en los términos de los acuerdos correspondientes, que deberán publicarse en el Diario Oficial de la Federación, las policías administrativas existentes hasta la fecha de entrada en vigor de esta Ley, una, varias o todas, según sea el caso, seguirán cumpliendo con sus atribuciones en los términos de los ordenamientos legales y reglamentarios respectivos, hasta por un plazo no mayor de veinticuatro meses contados a partir de la entrada en vigor del presente Decreto, en el entendido de que la coordinación entre ellas deberá quedar a cargo del Comisionado de la Policía Federal Preventiva, a partir de su nombramiento."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los miembros de las policías administrativas antes citadas exclusivamente podrán formar parte de la Policía Federal Preventiva si cumplen con los requisitos que establece la Ley para su ingreso o permanencia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los derechos de los miembros de las policías administrativas de Migración, Fiscal Federal y Federal de Caminos, serán respetados conforme a las disposiciones legales aplicables."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "QUINTO",
+          "descriptor": null,
+          "ordinal": "QUINTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las menciones a la Policía de Migración y a la Policía Federal de Caminos que aparezcan en otros ordenamientos, se entenderán referidas a la Policía Federal Preventiva."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las menciones a la Policía Fiscal Federal que aparezcan en cualquier ordenamiento legal, se entenderán referidas a la Unidad de Apoyo para la Inspección Fiscal y Aduanera."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "SEXTO",
+          "descriptor": null,
+          "ordinal": "SEXTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal publicará en el Diario Oficial de la Federación el Reglamento Interior de la Policía Federal Preventiva, dentro del año siguiente a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "SÉPTIMO",
+          "descriptor": null,
+          "ordinal": "SÉPTIMO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones legales que se opongan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 13 de diciembre de 1998.- Sen. José Ramírez Gamero, Presidente.- Dip. Luis Patiño Pozas, Presidente.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Dip. Martín Contreras Rivera, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y derogan diversas disposiciones de la Ley General de Población."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 21 de julio de 2008"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 118, 125 y 127; y se derogan los artículos 119, 120, 121, 122, 123 y 124, de la Ley General de Población, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 29 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de julio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforma y adiciona el artículo 6o. de la Ley General de Población."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 17 de abril de 2009"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los párrafos primero y segundo y se adiciona un párrafo tercero; se recorre el actual párrafo tercero, para pasar a ser párrafo cuarto, del artículo 6o. de la Ley General de Población, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 5 de marzo de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. Jacinto Gomez Pasillas, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Población."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 2 de julio de 2010"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 42, fracción III; 138, párrafos primero y cuarto y 143 de la Ley General de Población, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 13 de abril de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Jaime Arturo Vazquez Aguilar, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fernando Francisco Gómez Mont Urueta.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se adicionan un segundo y un tercer párrafo al artículo 67 y una fracción VI al artículo 113 de la Ley General de Población."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2010"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se adicionan un segundo y un tercer párrafo al artículo 67 y una fracción VI al artículo 113 de la Ley General de Población, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal, a través de la Secretaría de Gobernación, deberá llevar a cabo las modificaciones pertinentes al artículo 149 del Reglamento de la presente Ley, para adecuarlo a las disposiciones aquí aprobadas, en un término que no excederá de 90 días posteriores a la entrada en vigor de este Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Cámara de Diputados asignará en el Decreto de Presupuesto de Egresos de la Federación de cada año, los recursos presupuestarios necesarios para cumplir cabalmente con la obligación impuesta por el artículo 67 de esta Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 9 de septiembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Manlio Fabio Beltrones Rivera, Presidente.- Dip. Balfre Vargas Cortez, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de noviembre de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se expide la Ley sobre Refugiados y Protección Complementaria y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Población."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 27 de enero de 2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el inciso f) del artículo 118; se adiciona un segundo párrafo al artículo 52, y se derogan el artículo 35 y la fracción VI del artículo 42 de la Ley General de Población, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 9 de diciembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Arturo Herviz Reyes, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se expide la Ley de Migración y se reforman, derogan y adicionan Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "ARTÍCULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 77, el artículo 81, los artículos 83 y 84; se derogan las fracciones VII y VIII del artículo 3o., los artículos 7 al 75, los artículos 78 al 80, el artículo 82, las fracciones II, III y V del artículo 113, los artículos 116 al 118, los artículos 125 al 141 y los artículos 143 al 157, y se adiciona una fracción III al artículo 76 y el artículo 80 bis de la Ley General de Población, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO."
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO QUINCUAGÉSIMO NOVENO. Se reforma el artículo 10, primer párrafo de la Ley General de Población, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforma el artículo 84 de la Ley General de Población."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 19 de mayo de 2014"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los párrafos segundo y tercero del artículo 84 de la Ley General de Población, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que deban realizarse a fin de dar cumplimiento con las disposiciones en materia de recepción de repatriados, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 8 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforma el artículo 112 de la Ley General de Población."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2015"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 112 de la Ley General de Población, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 4 de noviembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Roberto Gil Zuarth, Presidente.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de noviembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Inclusión de las Personas con Discapacidad, de la Ley General de Salud y de la Ley General de Población."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 12 de julio de 2018"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-tercer",
+          "heading": "Artículo Tercero",
+          "descriptor": null,
+          "ordinal": "Artículo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma la fracción II del artículo 93 de la Ley General de Población, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Sector Salud deberá, en un plazo no mayor a un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, publicar e implementar la Norma Oficial Mexicana en materia de Certificación de la Discapacidad. Esta NOM deberá elaborarse de acuerdo con los tratados internacionales de los que México forma parte y adoptar la Clasificación Internacional del Funcionamiento, la Discapacidad y la Salud."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Sector Salud deberá adecuar, en un plazo no mayor a un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, las NOM sobre información en salud y atención a la discapacidad a fin de incluir la certificación de la discapacidad, la reglamentación para su elaboración y las adecuaciones reglamentarias que resulten necesarias en el certificado de nacimiento."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría de Gobernación y las autoridades competentes deberán, en un plazo no mayor a 180 días a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, instalar el Registro Nacional de Personas con Discapacidad y llevar a cabo los ajustes técnicos que permitan la impresión del comprobante de la Clave Única de Registro de Población con o sin la información del Certificado de Discapacidad, según los fines que al interesado convengan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas para el ejercicio fiscal respectivo y subsecuentes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 25 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de julio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 16 de julio de 2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se adicionan los artículos 91, párrafo segundo; 91 Bis; 91 Ter; 91 Quater; 91 Quinquies; 91 Sexies; y 114 Bis, de la Ley General de Población, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría de Gobernación, con el apoyo técnico de la Agencia de Transformación Digital y Telecomunicaciones, desarrollará la Plataforma Única de Identidad en un plazo no mayor a 90 días naturales siguientes a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para los efectos del último párrafo del artículo 91 Bis del ordenamiento que se adiciona, las autoridades de los tres órdenes de gobierno habilitarán en un plazo no mayor a 90 días naturales siguientes a la entrada en vigor del presente Decreto los mecanismos necesarios que permitan la consulta, transferencia y validación de la información correspondiente para su integración a la Clave Única de Registro de Población mediante la Plataforma Única de Identidad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A la entrada en operación del Registro del Sistema Nacional de Salud que prevé la Ley General de Salud, la Secretaría de Gobernación, a través del Registro Nacional de Población, y en coordinación con las autoridades competentes en materia de salud, adoptará las medidas necesarias para su integración con la Clave Única de Registro de Población."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para los efectos del artículo 91 Sexies de este ordenamiento, en un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, todos los entes públicos y privados adoptarán las medidas necesarias para incluir la Clave Única de Registro de Población como requisito en los trámites y servicios que tengan a su cargo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría de Gobernación, en un plazo no mayor a 120 días naturales siguientes a la entrada en vigor del presente Decreto, establecerá el Programa de Integración al Registro Nacional de Población de los datos biométricos de niñas, niños y adolescentes, determinando la coordinación y colaboración con aquellas autoridades de cualquier orden de gobierno que correspondan, las cuales contribuirán de manera efectiva y obligatoria a la integración de la Clave Única de Registro de Población."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Cámara de Diputados deberá realizar las previsiones presupuestales necesarias para que los entes públicos puedan cumplir con lo previsto en este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 30 de junio de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

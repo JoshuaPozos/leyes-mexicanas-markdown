@@ -1,0 +1,1004 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LOCFCRL_ley_organica_del_centro_federal_de_conciliacion_y_registro_laboral",
+  "abbreviation": "LOCFCRL",
+  "name": "LEY Orgánica del Centro Federal de Conciliación y Registro Laboral",
+  "catalog_number": "263",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf",
+    "pdf_filename_origen": "LOCFCRL_060120.pdf",
+    "dof_publication": "DOF06/01/2020",
+    "last_reform": "Sin reforma",
+    "captured_at": "2026-04-09T10:32:44.609934+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 6 de enero de 2020 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA LEY ORGÁNICA DEL CENTRO FEDERAL DE CONCILIACIÓN Y REGISTRO LABORAL."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "Artículo Único",
+      "descriptor": null,
+      "ordinal": "Artículo Único",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley Orgánica del Centro Federal de Conciliación y Registro Laboral."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-primer",
+      "heading": "Título Primero",
+      "descriptor": "Disposiciones Generales",
+      "ordinal": "Primero",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-1",
+          "heading": "Artículo 1",
+          "descriptor": null,
+          "ordinal": "1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro Federal de Conciliación y Registro Laboral es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, y con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión."
+            },
+            {
+              "type": "paragraph",
+              "text": "La autonomía presupuestaria a la que se refiere el párrafo anterior, se sujetará a lo establecido en los artículos 5, fracción II y 29 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+            },
+            {
+              "type": "paragraph",
+              "text": "Al Centro le será aplicable la Ley Federal de las Entidades Paraestatales en lo no previsto en la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-2",
+          "heading": "Artículo 2",
+          "descriptor": null,
+          "ordinal": "2",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las disposiciones contenidas en la presente Ley son de orden público, interés general y observancia obligatoria en toda la República Mexicana, y tienen como objeto establecer la organización y funcionamiento del organismo descentralizado federal a que se refiere el artículo 123, Apartado A, fracción XX, de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-3",
+          "heading": "Artículo 3",
+          "descriptor": null,
+          "ordinal": "3",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para los efectos de esta Ley se entenderá por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Centro: El Centro Federal de Conciliación y Registro Laboral;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Constitución: La Constitución Política de los Estados Unidos Mexicanos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Director (a) del Centro: Persona encargada de la Dirección General del Centro;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Junta de Gobierno: La Junta de Gobierno del Centro Federal de Conciliación y Registro Laboral;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Ley: La Ley Orgánica del Centro Federal de Conciliación y Registro Laboral;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Secretaría de Hacienda: La Secretaría de Hacienda y Crédito Público;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Secretaría del Trabajo: La Secretaría del Trabajo y Previsión Social, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Servicio profesional: Las y los trabajadores del Centro organizados a partir de la política de recursos humanos que incluye: reclutamiento, selección, remoción, capacitación e incentivos para el adecuado desarrollo de las funciones del Centro, de conformidad con lo señalado en la Ley Federal del Trabajo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-4",
+          "heading": "Artículo 4",
+          "descriptor": null,
+          "ordinal": "4",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro tendrá su domicilio legal en la Ciudad de México y contará con oficinas estatales conforme a los estatutos que establezca la Junta de Gobierno para el cumplimiento de su objeto y conforme a su disponibilidad presupuestaria."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-5",
+          "heading": "Artículo 5",
+          "descriptor": null,
+          "ordinal": "5",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro tiene por objeto sustanciar el procedimiento de conciliación que deberán agotar los trabajadores y patrones, en asuntos individuales y colectivos del orden federal, conforme lo establecido por los párrafos segundo y tercero de la fracción XX del artículo 123, Apartado A, de la Constitución y artículos 684-A a 684-E de la Ley Federal del Trabajo."
+            },
+            {
+              "type": "paragraph",
+              "text": "Además, será competente para registrar, a nivel nacional, todos los contratos colectivos de trabajo, contratos-ley, reglamentos interiores de trabajo, y las organizaciones sindicales, así como todos los procesos administrativos relacionados."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-6",
+          "heading": "Artículo 6",
+          "descriptor": null,
+          "ordinal": "6",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro se regirá por los principios de certeza, independencia, legalidad, imparcialidad, igualdad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-7",
+          "heading": "Artículo 7",
+          "descriptor": null,
+          "ordinal": "7",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro contará con los servidores públicos que requiera para el cumplimiento de sus funciones y atribuciones contenidas en su Estatuto Orgánico."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Centro contará con un servicio profesional que incorpore la perspectiva de género, el enfoque de derechos humanos, así como los mecanismos necesarios de gestión, promoción y compensación orientados a la jerarquización del empleo y la carrera pública, basado en el mérito, el logro de resultados y en los valores de: vocación de servicio, efectividad, transparencia, eficiencia, cuidado de los recursos, orientación a la ciudadanía, calidad del servicio, probidad, rendición de cuentas, flexibilidad, mérito e idoneidad."
+            },
+            {
+              "type": "paragraph",
+              "text": "Asimismo, el Centro establecerá mecanismos de ingreso, adscripción, ascenso, evaluación, remoción y concursos, de conformidad con lo establecido en los artículos 684-K a 684-U de la Ley Federal del Trabajo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-8",
+          "heading": "Artículo 8",
+          "descriptor": null,
+          "ordinal": "8",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las relaciones de trabajo entre el Centro y su personal se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-segund",
+      "heading": "Título Segundo",
+      "descriptor": "De las Atribuciones del Centro",
+      "ordinal": "Segundo",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-segund.articulo-9",
+          "heading": "Artículo 9",
+          "descriptor": null,
+          "ordinal": "9",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Corresponden al Centro las siguientes atribuciones:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Realizar en el ámbito federal la función conciliatoria individual prevista en el párrafo cuarto de la fracción XX del Apartado A del artículo 123 Constitucional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Realizar en el ámbito federal la función conciliatoria colectiva, misma que se brindará a petición de las partes o de la autoridad judicial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Llevar el registro de todos los contratos colectivos de trabajo, contratos-ley, reglamentos interiores de trabajo y de las organizaciones sindicales, así como todos los actos y procedimientos a que se refiere el párrafo cuarto de la fracción XX del Apartado A del artículo 123 Constitucional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Establecer el servicio profesional de conformidad con los parámetros estipulados en la Ley Federal del Trabajo y esta Ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Establecer planes de capacitación de conformidad con lo previsto en la Ley Federal del Trabajo y esta Ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Auxiliar a los sindicatos o trabajadores en los procedimientos de elección de sus directivas sindicales, así como verificar el cumplimiento de los principios democráticos y los requisitos legales aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Convocar y organizar los recuentos para consultas a solicitud fundada de los trabajadores, o en caso de duda razonable sobre la veracidad de la documentación presentada en la verificación de la elección de directivas sindicales conforme al artículo 371 Bis de la Ley Federal del Trabajo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Expedir las constancias de no conciliación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Expedir las constancias de representatividad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Verificar el apoyo mayoritario de los trabajadores en los contratos colectivos de trabajo que los rigen y sus convenios de revisión, vigilando el ejercicio del voto personal, libre, directo y secreto;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Tomar en consideración las propuestas y opiniones del Comité Nacional de Concertación y Productividad referidas en el artículo 153-K, fracciones XII, XIII y XIV, de la Ley Federal del Trabajo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Verificar que el contenido de los contratos colectivos de trabajo se haya hecho del conocimiento de los trabajadores, conforme a lo dispuesto por el artículo 400 Bis de la Ley Federal del Trabajo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Proporcionar la documentación e información relativa al registro del contrato colectivo o de la administración del contrato-ley, tabuladores, padrones de trabajadores afiliados a los sindicatos contendientes y toda aquella información que posea a los tribunales que así lo requieran;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Hacer pública conforme al artículo 365 Bis de la Ley Federal del Trabajo, la información de los sindicatos, y brindar a las personas que lo soliciten copia de los documentos que obren en los expedientes registrados, previo pago de los derechos correspondientes, en términos del artículo 8o. de la Constitución y de la Ley General de Transparencia y Acceso a la Información Pública, priorizando la utilización de medios tecnológicos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Establecer un modelo de gestión conciliatoria y administrativa para su adecuado funcionamiento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Establecer el Código de Conducta para las personas servidoras públicas al Centro;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "Implementar medidas que garanticen un ambiente laboral libre de todo tipo de discriminación, violencia y acoso, así como la sustentabilidad ambiental del propio órgano;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVIII",
+              "text": "Imponer las multas que correspondan por el incumplimiento de las disposiciones previstas en la Ley Federal del Trabajo, conforme a la normatividad aplicable, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIX",
+              "text": "Las demás que establezcan la Ley Federal del Trabajo, la presente Ley y la normatividad aplicable."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-tercer",
+      "heading": "Título Tercero",
+      "descriptor": "De la Administración, Organización y Funcionamiento del Centro",
+      "ordinal": "Tercero",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-tercer.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro contará con los siguientes órganos de gobierno y administración:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La Junta de Gobierno, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La Dirección General."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": "De la Junta de Gobierno",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-11",
+              "heading": "Artículo 11",
+              "descriptor": null,
+              "ordinal": "11",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Junta de Gobierno estará conformada por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "El o la titular de la Secretaría del Trabajo y Previsión Social, como miembro propietario o su suplente, quien fungirá como presidente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "El o la titular de la Secretaría de Hacienda y Crédito Público, como miembro propietario o su suplente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "El o la titular del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, como miembro propietario o su suplente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "El o la presidenta del Instituto Nacional de Estadística y Geografía, como miembro propietario o su suplente, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "El o la presidenta del Instituto Nacional Electoral, como miembro propietario o su suplente."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los suplentes de la Junta de Gobierno serán designados por los miembros propietarios y deberán tener una jerarquía inmediata inferior a dichos propietarios en la dependencia u organismo público de que se trate."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-12",
+              "heading": "Artículo 12",
+              "descriptor": null,
+              "ordinal": "12",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Junta de Gobierno tendrá las siguientes atribuciones indelegables:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Establecer en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse el Centro, relativas a la prestación de los servicios públicos que le corresponden en los términos de la presente Ley, sobre productividad, finanzas, investigación, desarrollo tecnológico y administración general;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Aprobar los programas y presupuestos del Centro, así como sus modificaciones, en los términos de la legislación aplicable. En lo correspondiente a los presupuestos y a los programas financieros, con excepción de los incluidos en el Presupuesto de Egresos de la Federación, bastará con la aprobación de la propia Junta de Gobierno;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos del Centro que no correspondan a las operaciones propias del objeto del mismo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Aprobar anualmente previo informe de los comisarios, y dictamen de los auditores externos, los estados financieros del Centro y autorizar la publicación de los mismos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Aprobar la estructura básica de la organización del Centro, su estatuto orgánico y las modificaciones procedentes, bajo los siguientes criterios:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "En la estructura básica del Centro, deberá contemplar la instalación, funcionamiento y, en su caso, reubicación de las representaciones territoriales u oficinas estatales en todas las entidades federativas, excepto en la Ciudad de México, en razón de que tiene establecido su domicilio legal en dicha ciudad, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Deberá contar con el personal suficiente y adecuado;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Nombrar y remover, a propuesta del Director General, a los servidores públicos del Centro y aprobar la fijación de sus sueldos y prestaciones, conforme a las disposiciones legales, presupuestales y administrativas correspondientes, tomando en consideración las disposiciones que se aprueben para el servicio profesional que implemente el Centro para el desempeño de sus funciones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Nombrar y remover, a propuesta de su Presidente, al Secretario Técnico de la citada Junta de Gobierno;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Aprobar el manual de organización, el manual de procedimientos, el Código de Conducta y demás disposiciones administrativas que regulen la operación y el funcionamiento del Centro;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Aprobar las bases para la organización, funcionamiento y desarrollo del sistema del servicio profesional, así como los lineamientos y criterios para la selección de conciliadores del Centro; y supervisar su implementación, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Las demás facultades expresamente establecidas en la Ley Federal del Trabajo, la Ley Federal de las Entidades Paraestatales y demás ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-13",
+              "heading": "Artículo 13",
+              "descriptor": null,
+              "ordinal": "13",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Junta de Gobierno contará con una Secretaría Técnica, la cual deberá operar y ejecutar los acuerdos y determinaciones que adopte el órgano colegiado. Asimismo, tendrá las siguientes funciones:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Proponer el contenido del orden del día de las sesiones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Coordinar las acciones necesarias para coadyuvar en la organización y desahogo de las sesiones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Revisar los proyectos de las actas de las sesiones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Asistir a las sesiones de la Junta de Gobierno con voz, pero sin voto;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Comunicar al Director General del Centro y al prosecretario para su seguimiento y ejecución, los acuerdos y resoluciones de la Junta de Gobierno e informar sobre el particular a la Presidencia de la misma;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Firmar las actas de las sesiones, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Las demás que le encomiende la Junta de Gobierno."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Secretaría Técnica estará a cargo de una persona servidora pública nombrada y, en su caso, removida por la Junta de Gobierno, a propuesta del o la titular de la Secretaría del Trabajo y Previsión Social. Para el ejercicio de sus funciones, la Secretaría Técnica contará con el apoyo de un prosecretario, el cual será nombrado y removido por el Director General del Centro. En caso de ausencia temporal del Secretario Técnico, éste será suplido por el prosecretario."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los cargos de Secretario Técnico y de prosecretario de la Junta de Gobierno serán honoríficos y no tendrán derecho a retribución alguna adicional al desempeño de sus funciones como servidores públicos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-14",
+              "heading": "Artículo 14",
+              "descriptor": null,
+              "ordinal": "14",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Junta de Gobierno podrá acordar la realización de todas las operaciones inherentes al objeto del Centro con sujeción a las disposiciones legales correspondientes, y salvo aquellas facultades referidas en los artículos 58 de la Ley Federal de las Entidades Paraestatales y 12 de esta Ley, podrá delegar discrecionalmente sus facultades en el Director General."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-tercer.capitulo-i.seccion-unica",
+              "heading": "Sección Única",
+              "descriptor": "De las Sesiones de la Junta de Gobierno",
+              "ordinal": "Única",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-i.seccion-unica.articulo-15",
+                  "heading": "Artículo 15",
+                  "descriptor": null,
+                  "ordinal": "15",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". A las sesiones de la Junta de Gobierno podrán asistir el Director General y los comisarios con derecho a voz, pero sin derecho a voto."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-i.seccion-unica.articulo-16",
+                  "heading": "Artículo 16",
+                  "descriptor": null,
+                  "ordinal": "16",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las sesiones podrán ser:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Ordinarias: por lo menos cuatro veces al año, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Extraordinarias: las ocasiones que sean necesarias para el cumplimiento de los fines de la Junta de Gobierno."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-i.seccion-unica.articulo-17",
+                  "heading": "Artículo 17",
+                  "descriptor": null,
+                  "ordinal": "17",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las sesiones se celebrarán en el lugar que acuerde la Junta de Gobierno a propuesta del Presidente. Salvo por causas justificadas, en la convocatoria correspondiente, se señalará lugar distinto, al acordado, para la celebración de la sesión."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Cuando se encuentren reunidos la totalidad de los miembros de la Junta de Gobierno, podrán decidir erigirse en sesión formal, sin necesidad de previa convocatoria."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-i.seccion-unica.articulo-18",
+                  "heading": "Artículo 18",
+                  "descriptor": null,
+                  "ordinal": "18",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Los miembros de la Junta de Gobierno, por mayoría o unanimidad, podrán dispensar de todo trámite y requisito cualquier asunto previsto en las presentes disposiciones."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-tercer.capitulo-i.seccion-unica.articulo-19",
+                  "heading": "Artículo 19",
+                  "descriptor": null,
+                  "ordinal": "19",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mayoría de sus miembros y siempre que se encuentre presente el que represente a la Secretaría del Trabajo y Previsión Social. Las decisiones de la Junta de Gobierno se tomarán por mayoría de votos de quienes concurran a sus sesiones, en caso de empate el Presidente tendrá voto de calidad."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Para el cumplimiento de todas y cada una de las obligaciones a cargo del Centro, la Junta de Gobierno se reunirá con la periodicidad que señale el Estatuto Orgánico sin que pueda ser menor de cuatro veces al año."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": "De la Dirección General",
+          "ordinal": "II",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-20",
+              "heading": "Artículo 20",
+              "descriptor": null,
+              "ordinal": "20",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El o la Director (a) General del Centro será designado conforme a lo dispuesto en el artículo 123, Apartado A, fracción XX, párrafo sexto de la Constitución, el cuál desempeñará su cargo por seis años y podrá ser reelecto por un periodo más, por una sola ocasión. No podrá tener otro empleo, cargo o comisión, con excepción de aquellos en que actúe en representación del Centro, en actividades docentes, científicas, culturales o de beneficencia y de los no remunerados."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En caso de falta absoluta, la sustitución se hará sólo para concluir el periodo respectivo, en este supuesto."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-21",
+              "heading": "Artículo 21",
+              "descriptor": null,
+              "ordinal": "21",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para ser Director (a) General del Centro, adicionalmente a los requisitos establecidos en la Constitución, se deberá cumplir lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Ser mexicano o mexicana por nacimiento, y estar en pleno goce de sus derechos civiles y políticos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Tener por lo menos treinta años de edad cumplidos al día de la designación, además de contar con una experiencia de 5 años en cargos directivos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Contar con título profesional de Licenciado en Derecho, y haber desempeñado cargos de alto nivel decisorio en forma destacada en actividades profesionales, de servicio público, administrativo o sustancialmente relacionadas en materia laboral;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Cumplir lo previsto en el artículo 123, Apartado A, fracción XX, párrafo octavo, de la Constitución, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "No encontrarse en alguno de los impedimentos que para ser miembro de la Junta de Gobierno señalan las fracciones II, III, IV y V del artículo 19 de la Ley Federal de las Entidades Paraestatales."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-22",
+              "heading": "Artículo 22",
+              "descriptor": null,
+              "ordinal": "22",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Director o Directora General del Centro tendrá las siguientes facultades:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Celebrar actos y otorgar toda clase de documentos inherentes al objeto del Centro;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Tener la representación legal del Centro, así como ejercer facultades de administración, pleitos y cobranzas, con apego a la Ley y al Estatuto Orgánico."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Previo acuerdo de la Junta de Gobierno podrá realizar actos de dominio;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. El otorgamiento y validez de estos poderes, deberá seguir el procedimiento que se establece en los artículos 23 y 25 de la Ley Federal de las Entidades Paraestatales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Sustituir y revocar poderes generales o especiales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Previa autorización de la Junta de Gobierno, instalar y, en su caso, reubicar las representaciones territoriales u oficinas estatales, que sean necesarias para el cabal y oportuno cumplimiento de las atribuciones del Centro;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Las demás que se requieran para el adecuado funcionamiento del Centro, y que sean acordes con la ley y el estatuto orgánico;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Definir las políticas de instrumentación de los sistemas de control que fueren necesarios, así como corregir, en caso de ser necesario, las deficiencias que detectaren y presentarán a la Junta de Gobierno sobre el cumplimiento del sistema de control, su funcionamiento y programas de mejoramiento, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Todas las que se deriven de la Ley Federal del Trabajo, de esta Ley, del estatuto orgánico del Centro y demás disposiciones legales aplicables."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-cuart",
+      "heading": "Título Cuarto",
+      "descriptor": "De la Vigilancia, Control y Evaluación del Centro",
+      "ordinal": "Cuarto",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-cuart.articulo-23",
+          "heading": "Artículo 23",
+          "descriptor": null,
+          "ordinal": "23",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro contará con un órgano de vigilancia, control y evaluación que estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los mismos asistirán con voz, pero sin voto a las reuniones ordinarias y extraordinarias de la Junta de Gobierno. Asimismo, podrán asistir a las sesiones de los comités y subcomités técnicos especializados del Centro."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-cuart.articulo-24",
+          "heading": "Artículo 24",
+          "descriptor": null,
+          "ordinal": "24",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El órgano interno de control tendrá por objeto promover el mejoramiento de gestión del Centro. Desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública, de la cual dependerá el titular de dicho órgano y de su área de auditoría, quejas y responsabilidades, de acuerdo con las bases siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Recibirán quejas, investigarán y, en su caso, por conducto de la persona titular del órgano interno de control o del área de responsabilidades, determinarán la responsabilidad administrativa del personal adscrito al servicio público del Centro, e impondrán las sanciones aplicables en los términos previstos en la ley de la materia. Asimismo, dictarán las resoluciones en los recursos de revocación que interponga el personal del servicio público del Centro respecto de la imposición de sanciones administrativas. El órgano interno de control realizará la defensa jurídica de las resoluciones que emitan ante los diversos tribunales federales, representando al titular de la Secretaría de la Función Pública;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Realizará sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Emitirá el Código de Ética para la actuación de las personas servidoras públicas adscritas al Centro, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Examinará y evaluará los sistemas, mecanismos y procedimientos de control; efectuará revisiones y auditorías; vigilará que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; y presentará a la persona titular de la Dirección General, a la Junta de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-quint",
+      "heading": "Título Quinto",
+      "descriptor": "Del Patrimonio del Centro",
+      "ordinal": "Quinto",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-quint.articulo-25",
+          "heading": "Artículo 25",
+          "descriptor": null,
+          "ordinal": "25",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El patrimonio del Centro se integra por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Los bienes muebles e inmuebles que se destinen a su servicio y que le asigne el Gobierno Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Los recursos financieros que se le asignen en el Presupuesto de Egresos de la Federación para su funcionamiento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Las aportaciones que perciba conforme a los convenios o contratos que celebre;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Los bienes y derechos que adquiera por cualquier título;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Los rendimientos que obtenga de la inversión de sus recursos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Las donaciones o legados que se otorguen a su favor, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Todos los demás bienes o derechos que perciba en el ejercicio de sus atribuciones."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El servicio profesional entrará en vigor un año después de la creación del Centro Federal de Conciliación y Registro Laboral, y su implementación será gradual conforme a los lineamientos y manuales que presente el Director o Directora del Centro y que sean aprobados por la Junta de Gobierno; durante el procedimiento de contratación, se actualizará y capacitará a todo el personal con la finalidad de dar cumplimiento a los principios y valores en que se sostiene el servicio profesional que requiere el Centro."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El procedimiento previsto en el artículo Décimo Primero Transitorio del Decreto publicado el 1o. de mayo de 2019, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, será realizado por el Centro Federal de Conciliación y Registro Laboral hasta que inicie sus funciones registrales y emita el Protocolo correspondiente. Los expedientes de los procedimientos de legitimación de contratos colectivos de trabajo realizados ante la Secretaría del Trabajo y Previsión Social, se transferirán al Centro Federal de Conciliación y Registro Laboral, el cual podrá determinar la terminación de aquellos contratos colectivos que no cumplan los requisitos previstos en la Ley Federal del Trabajo."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para la verificación de los procedimientos de legitimación de contratos colectivos de trabajo, el Centro Federal de Conciliación y Registro Laboral suscribirá los acuerdos de colaboración necesarios con la Secretaría del Trabajo y Previsión Social y las Secretarías del Trabajo u homólogas de las entidades federativas."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 14 de noviembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Mónica Bautista Rodríguez, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

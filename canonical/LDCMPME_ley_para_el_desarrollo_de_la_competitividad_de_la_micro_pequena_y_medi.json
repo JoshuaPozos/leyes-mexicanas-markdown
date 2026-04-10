@@ -1,0 +1,1978 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LDCMPME_ley_para_el_desarrollo_de_la_competitividad_de_la_micro_pequena_y_medi",
+  "abbreviation": "LDCMPME",
+  "name": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+  "catalog_number": "273",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf",
+    "pdf_filename_origen": "LDCMPME.pdf",
+    "dof_publication": "DOF30/12/2002",
+    "last_reform": "DOF 20/10/2023",
+    "captured_at": "2026-04-09T09:44:45.302256+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA Nueva Ley publicada en el Diario Oficial de la Federación el 30 de diciembre de 2002 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA"
+    }
+  ],
+  "structure": [
+    {
+      "type": "capitulo",
+      "id": "capitulo-primer",
+      "heading": "Capítulo Primero",
+      "descriptor": "Del Ámbito de Aplicación y Objeto de la Ley",
+      "ordinal": "Primero",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-primer.articulo-1",
+          "heading": "Artículo 1",
+          "descriptor": null,
+          "ordinal": "1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La presente Ley tiene por objeto promover el desarrollo económico nacional a través del fomento a la creación de micro, pequeñas y medianas empresas y el apoyo para su viabilidad, productividad, competitividad y sustentabilidad. Asimismo incrementar su participación en los mercados, en un marco de crecientes encadenamientos productivos que generen mayor valor agregado nacional."
+            },
+            {
+              "type": "paragraph",
+              "text": "Lo anterior, con la finalidad de fomentar el empleo y el bienestar social y económico de todos los participantes en la micro, pequeña y mediana empresa."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Ley es de observancia general en toda la República y sus disposiciones son de orden público."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-primer.articulo-2",
+          "heading": "Artículo 2",
+          "descriptor": null,
+          "ordinal": "2",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La autoridad encargada de la aplicación de esta Ley es la Secretaría de Economía quien, en el ámbito de su competencia, celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa, entre las Autoridades Federales, Estatales, Municipales y las demarcaciones territoriales de la Ciudad de México, para propiciar la planeación del desarrollo integral de cada Entidad Federativa, de los Municipios y las demarcaciones territoriales de la Ciudad de México, en congruencia con la planeación nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "paragraph",
+              "text": "La Secretaría de Economía en el ámbito de su competencia, podrá convenir con particulares para concertar las acciones necesarias para la coordinación en materia de apoyos a la micro, pequeña y mediana empresa."
+            },
+            {
+              "type": "paragraph",
+              "text": "El presupuesto de egresos de la Federación que se destina para apoyar a la micro, pequeña y mediana empresa no podrá ser inferior, en términos reales, al presupuesto autorizado en el ejercicio fiscal anterior."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 05-08-2011",
+              "action": "adicionado",
+              "dof_date": "05-08-2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-primer.articulo-3",
+          "heading": "Artículo 3",
+          "descriptor": null,
+          "ordinal": "3",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para los efectos de esta Ley, se entiende por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Ley: La Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Secretaría: La Secretaría de Economía;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida por la Secretaría, de común acuerdo con la Secretaría de Hacienda y Crédito Público y publicada en el Diario Oficial de la Federación, partiendo de la siguiente:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Estratificación por Número de Trabajadores Sector/Tamaño Industria Comercio Servicios Micro 0-10 0-10 0-10 Pequeña 11-50 11-30 11-50 Mediana 51-250 31-100 51-100 Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuicultores, mineros, artesanos y de bienes culturales, así como prestadores de servicios turísticos y culturales;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 06-06-2006",
+              "action": "reformado",
+              "dof_date": "06-06-2006"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Competitividad: La calidad del ambiente económico e institucional para el desarrollo sostenible y sustentable de las actividades privadas y el aumento de la productividad; y a nivel empresa, la capacidad para mantener y fortalecer su rentabilidad y participación de las MIPYMES en los mercados, con base en ventajas asociadas a sus productos o servicios, así como a las condiciones en que los ofrecen;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Sector Público: Dependencia y entidades de la Administración Pública Federal, Estatal, Municipal y las demarcaciones territoriales de la Ciudad de México;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Sectores: Los sectores privado, social y del conocimiento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Organizaciones Empresariales: Las Cámaras Empresariales y sus Confederaciones en su carácter de organismos de interés público; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante la Federación, las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Cadenas Productivas: Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Agrupamientos Empresariales: MIPYMES interconectadas, proveedores especializados y de servicios, así como instituciones asociadas dentro de una región del territorio nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Consultoría: Servicio empresarial que consiste en la transferencia de conocimientos, metodologías y aplicaciones, con la finalidad de mejorar los procesos de la empresa que recibe la atención;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Capacitación: Servicio empresarial que consiste en la impartición de cursos, talleres y metodologías, con la finalidad de mejorar las capacidades y habilidades de los recursos humanos de las empresas que reciben la atención;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Programas: Esquemas para la ejecución de acciones y participación de la Federación, las Entidades Federativas, los Municipios y las demarcaciones territoriales de la ciudad de México;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Actividades de Fomento: Acciones económicas, jurídicas, sociales, comerciales, de Capacitación o tecnológicas, que contribuyen al desarrollo y competitividad de las MIPYMES, que establezca el Reglamento de esta Ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Sistema: El Sistema Nacional para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Consejo: El Consejo Nacional para la Competitividad de la Micro, Pequeña y Mediana Empresa;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Consejo Estatal: El Consejo que en cada Entidad Federativa se establezca para la Competitividad de la Micro, Pequeña y Mediana Empresa, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 01-12-2016, 19-05-2017",
+              "action": "reformado",
+              "dof_date": "01-12-2016"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "Reglamento: El Reglamento de esta Ley, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 01-12-2016",
+              "action": "reformado",
+              "dof_date": "01-12-2016"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVIII",
+              "text": "Derogada."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 01-12-2016. Derogada DOF 13-08-2019",
+              "action": "adicionado",
+              "dof_date": "13-08-2019"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-primer.articulo-4",
+          "heading": "Artículo 4",
+          "descriptor": null,
+          "ordinal": "4",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Son objetivos de esta Ley:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Establecer:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Las bases para la planeación y ejecución de las actividades encaminadas al desarrollo de las MIPYMES en el marco de esta Ley; b). Las bases para la participación de la Federación, de las Entidades Federativas, de los Municipios y las demarcaciones territoriales de la Ciudad de México y de los Sectores para el desarrollo de las MIPYMES;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Los instrumentos para la evaluación y actualización de las políticas, Programas, instrumentos y Actividades de Fomento para la productividad y competitividad de las MIPYMES, que proporcionen la información necesaria para la toma de decisiones en materia de apoyo empresarial, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Las bases para que la Secretaría elabore las políticas con visión de largo plazo, para elevar la productividad y competitividad nacional e internacional de las MIPYMES."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Promover:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Un entorno favorable para que las MIPYMES sean competitivas en los mercados nacionales e internacionales;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "La creación de una cultura empresarial y de procedimientos, prácticas y normas que contribuyan al avance de la calidad en los procesos de producción, distribución, mercadeo y servicio al cliente de las MIPYMES;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "El acceso al financiamiento para las MIPYMES, la capitalización de las empresas, incremento de la producción, constitución de nuevas empresas y consolidación de las existentes;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Apoyos para el desarrollo de las MIPYMES en todo el territorio nacional, basados en la participación de los Sectores;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "La compra de productos y servicios nacionales competitivos de las MIPYMES por parte del Sector Público, los consumidores mexicanos e inversionistas y compradores extranjeros, en el marco de la normativa aplicable;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "Las condiciones para la creación y consolidación de las Cadenas Productivas;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "g",
+              "text": "Esquemas para la modernización, innovación y desarrollo tecnológico en las MIPYMES;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "h",
+              "text": "La creación y desarrollo de las MIPYMES sea en el marco de la normativa ecológica y que éstas contribuyan al desarrollo sustentable y equilibrado de largo plazo, e"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "i",
+              "text": "La cooperación y asociación de las MIPYMES, a través de sus Organizaciones Empresariales en el ámbito nacional, estatal, regional y municipal, así como de sectores productivos y Cadenas Productivas."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-segund",
+      "heading": "Capítulo Segundo",
+      "descriptor": "Del Desarrollo para la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "ordinal": "Segundo",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-segund.articulo-5",
+          "heading": "Artículo 5",
+          "descriptor": null,
+          "ordinal": "5",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría elaborará los programas sectoriales correspondientes en el marco de la normativa aplicable, tomando en cuenta los objetivos y criterios establecidos en la presente Ley, así como los acuerdos que tome el Consejo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-segund.articulo-6",
+          "heading": "Artículo 6",
+          "descriptor": null,
+          "ordinal": "6",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría en el ámbito de su competencia, promoverá la participación de los Sectores para facilitar a las MIPYMES el acceso a Programas previstos en la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-segund.articulo-7",
+          "heading": "Artículo 7",
+          "descriptor": null,
+          "ordinal": "7",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría diseñará, fomentará y promoverá la creación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso al financiamiento a las MIPYMES, en igualdad de oportunidades para mujeres y hombres."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 21-01-2015",
+              "action": "reformado",
+              "dof_date": "21-01-2015"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-segund.articulo-8",
+          "heading": "Artículo 8",
+          "descriptor": null,
+          "ordinal": "8",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los esquemas a que se refiere el artículo anterior, podrán ser acordados con los Organismos Empresariales, los Gobiernos de las Entidades Federativas, de los Municipios y las demarcaciones territoriales de la Ciudad de México, así como con entidades financieras."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-segund.articulo-9",
+          "heading": "Artículo 9",
+          "descriptor": null,
+          "ordinal": "9",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los programas sectoriales referidos en el Artículo 5 de esta Ley, deberán contener, entre otros:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La definición de los sectores prioritarios para el desarrollo económico;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Las líneas estratégicas para el desarrollo empresarial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Los mecanismos y esquemas mediante los cuales se ejecutarán las líneas estratégicas;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 21-01-2015",
+              "action": "reformado",
+              "dof_date": "21-01-2015"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Los criterios, mecanismos y procedimientos para dar seguimiento, a la evolución y desempeño de los beneficios previstos en esta Ley, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 21-01-2015",
+              "action": "reformado",
+              "dof_date": "21-01-2015"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Perspectiva de género."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 21-01-2015",
+              "action": "adicionado",
+              "dof_date": "21-01-2015"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-segund.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La planeación y ejecución de las políticas y acciones de fomento para la competitividad de las MIPYMES debe atender los siguientes criterios:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Propiciar la participación y toma de decisiones de las Entidades Federativas, de los Municipios y las demarcaciones territoriales de la Ciudad de México, en un marco de federalismo económico;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Procurar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos de la Federación, de las Entidades Federativas, de los Municipios y las demarcaciones territoriales de la Ciudad de México, así como de los Sectores."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Enfocar los esfuerzos de acuerdo con las necesidades, el potencial y las vocaciones regionales, estatales y municipales, atendiendo la perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 21-01-2015",
+              "action": "reformado",
+              "dof_date": "21-01-2015"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Contener objetivos a corto, mediano y largo plazo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Contener propuestas de mejora y simplificación normativa en materia de desarrollo y apoyo a las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Enfocar estrategias y proyectos de modernización, innovación y desarrollo tecnológico para las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Propiciar nuevos instrumentos de apoyo a las MIPYMES considerando las tendencias internacionales de los países con los que México tenga mayor interacción;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 20-10-2023",
+              "action": "reformado",
+              "dof_date": "20-10-2023"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Promover que las dependencias y entidades de la Administración Pública Federal y sus delegaciones en las Entidades Federativas realicen la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública para destinarlas a las MIPYMES de manera gradual, hasta alcanzar un mínimo del 35%, conforme a la normativa aplicable, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-05-2017, 20-10-2023",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Fomentar la inserción de las actividades productivas y servicios de los pueblos y comunidades indígenas y afromexicanas a nivel regional, estatal y municipal."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 20-10-2023",
+              "action": "adicionado",
+              "dof_date": "20-10-2023"
+            },
+            {
+              "type": "paragraph",
+              "text": "Con el objeto de lograr la coordinación efectiva de los Programas de fomento a las MIPYMES y lograr una mayor efectividad en la aplicación de los recursos, en las Entidades Federativas donde exista el Consejo Estatal, todos los convenios serán firmados por el gobierno estatal o de la Ciudad de México, en donde no existan, la Secretaría podrá firmar los convenios de manera directa con los Municipios, las demarcaciones territoriales de la Ciudad de México y los Sectores."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-segund.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para la ejecución de las políticas y acciones contenidas en el artículo anterior, deberán considerarse los siguientes Programas:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Capacitación y formación empresarial, así como de asesoría y Consultoría para las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Fomento para la constitución de incubadoras de empresas y formación de emprendedores;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Formación, integración y apoyo a las Cadenas Productivas, Agrupamientos Empresariales y vocaciones productivas locales y regionales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Promover una cultura tecnológica en las MIPYMES; modernización, innovación y desarrollo tecnológico;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Desarrollo de proveedores y distribuidores con las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Consolidación de oferta exportable;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Información general en materia económica acordes a las necesidades de las MIPYMES, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Fomento para el desarrollo sustentable en el marco de la normativa ecológica aplicable."
+            },
+            {
+              "type": "paragraph",
+              "text": "Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES, en igualdad de oportunidades para las mujeres y los hombres. Poniendo especial énfasis en garantizar el acceso a dicho financiamiento para la mujeres."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 21-01-2015",
+              "action": "reformado",
+              "dof_date": "21-01-2015"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-segund.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría tendrá en materia de coordinación y desarrollo de la competitividad de las MIPYMES, las siguientes responsabilidades:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La Secretaría promoverá ante las instancias competentes que los programas y apoyos previstos en esta Ley a favor de las MIPYMES, sean canalizados a las mismas, para lo cual tomará las medidas necesarias conforme al Reglamento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Impulsar un entorno favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Promover con las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, la celebración de convenios para coordinar las acciones e instrumentos de apoyo a las MIPYMES de conformidad con los objetivos de la presente Ley;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Evaluar de manera conjunta con las Entidades Federativas, con los Municipios y las demarcaciones territoriales de la Ciudad de México, los resultados de los convenios a que se refiere la fracción anterior para formular nuevas acciones. Lo anterior, sin perjuicio de las facultades de las autoridades competentes en la materia;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Evaluar anualmente el desempeño de la Competitividad nacional en relación al entorno internacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Proponer la actualización de los Programas de manera continua para establecer objetivos en el corto, mediano y largo plazo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Realizar la función de coordinación a que se refiere la presente Ley, para el desarrollo de la competitividad de las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Desarrollar a través de los instrumentos con que cuenta y los que genere, un sistema general de información y consulta para la planeación sobre los sectores productivos y Cadenas Productivas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Proponer a través de las instancias competentes, la homologación de la normativa y trámites, por lo que se refiere a la materia de la presente Ley, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Diseñar un esquema de seguimiento e identificación de resultados de los Programas de apoyo establecidos por el Gobierno Federal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para tal efecto, las dependencias y entidades de la Administración Pública Federal proporcionarán la información que corresponda en términos de la normativa aplicable."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-segund.articulo-13",
+          "heading": "Artículo 13",
+          "descriptor": null,
+          "ordinal": "13",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría promoverá la participación de las Entidades Federativas, de los Municipios y las demarcaciones territoriales de la Ciudad de México, a través de los convenios que celebre para la consecución de los objetivos de la presente Ley, de acuerdo a lo siguiente:"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Un entorno favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES considerando las necesidades, el potencial y vocación de cada región;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La celebración de acuerdos con las dependencias y entidades de la Administración Pública Federal, las Entidades Federativas, los Municipios o grupos de Municipios y las demarcaciones territoriales de la Ciudad de México o grupos de las demarcaciones territoriales de la Ciudad de México, para una promoción coordinada de las acciones de fomento para la competitividad de las MIPYMES, que desarrollen las propuestas regionales y la concurrencia de Programas y proyectos;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Participar en el desarrollo de un sistema general de información y consulta para la planeación sobre los sectores productivos y Cadenas Productivas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "El diseño de esquemas que fomenten el desarrollo de proveedores y distribuidores locales del sector público y de los Sectores;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 18-01-2012",
+              "action": "reformado",
+              "dof_date": "18-01-2012"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "La generación de políticas y Programas de apoyo a las MIPYMES en sus respectivos ámbitos de competencia, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 18-01-2012",
+              "action": "reformado",
+              "dof_date": "18-01-2012"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Impulsar la creación, desarrollo y crecimiento de MIPYMES localizadas en regiones turísticas, a fin de incrementar su productividad y competitividad."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 18-01-2012",
+              "action": "adicionado",
+              "dof_date": "18-01-2012"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-segund.articulo-14",
+          "heading": "Artículo 14",
+          "descriptor": null,
+          "ordinal": "14",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría promoverá la participación del Sector Público y de los Sectores para la consecución de los objetivos de esta Ley, a través de los convenios que celebre, de acuerdo a lo siguiente:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La formación de una cultura empresarial con perspectiva de género enfocada al desarrollo de la competitividad en las MIPYMES a través de la detección de necesidades en Capacitación, Asesoría y Consultoría;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 21-01-2015",
+              "action": "reformado",
+              "dof_date": "21-01-2015"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "El fomento a la constitución de incubadoras de empresas, y a la iniciativa y creatividad de los emprendedores;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "La formación de especialistas en Consultoría y Capacitación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "La certificación de especialistas que otorguen servicios de Consultoría y Capacitación a las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "La formación y capacitación de recursos humanos para el crecimiento con calidad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "La investigación enfocada a las necesidades específicas de las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "La integración y fortalecimiento de las Cadenas Productivas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Los esquemas de asociación para el fortalecimiento de las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "La modernización, innovación, desarrollo y fortalecimiento tecnológico de las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "El desarrollo de proveedores y distribuidores;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "La atracción de inversiones;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "El acceso a la información con el propósito de fortalecer las oportunidades de negocios de las MIPYMES, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "La ejecución y evaluación de una estrategia para generar las condiciones que permitan una oferta exportable."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-tercer",
+      "heading": "Capítulo Tercero",
+      "descriptor": null,
+      "ordinal": "Tercero",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Del Sistema Nacional para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-tercer.articulo-15",
+          "heading": "Artículo 15",
+          "descriptor": null,
+          "ordinal": "15",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para el cumplimiento de los objetivos de la presente Ley se establece el Sistema."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-tercer.articulo-16",
+          "heading": "Artículo 16",
+          "descriptor": null,
+          "ordinal": "16",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Sistema comprende el conjunto de acciones que realice el Sector Público y los Sectores que participen en los objetivos de esta Ley, para el desarrollo de las MIPYMES, considerando las opiniones del Consejo y coordinados por la Secretaría en el ámbito de su competencia."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-cuart",
+      "heading": "Capítulo Cuarto",
+      "descriptor": null,
+      "ordinal": "Cuarto",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Del Consejo Nacional para la Competitividad de la Micro, Pequeña y Mediana Empresa"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-cuart.articulo-17",
+          "heading": "Artículo 17",
+          "descriptor": null,
+          "ordinal": "17",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo es la instancia que promueve, analiza y da seguimiento a los esquemas, Programas, instrumentos y acciones que deben desarrollarse en apoyo a las MIPYMES."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-cuart.articulo-18",
+          "heading": "Artículo 18",
+          "descriptor": null,
+          "ordinal": "18",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo estará conformado por los integrantes siguientes:"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 13-08-2019",
+              "action": "reformado",
+              "dof_date": "13-08-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "El Secretario de Economía, quien lo presidirá;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "El Secretario de Hacienda y Crédito Público;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "El Secretario de Educación Pública;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "El Secretario del Trabajo y Previsión Social;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "El Secretario de Agricultura y Desarrollo Rural;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 13-08-2019",
+              "action": "reformado",
+              "dof_date": "13-08-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "El Secretario de Medio Ambiente y Recursos Naturales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "El Secretario de Energía;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "El Secretario de Comunicaciones y Transportes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "El Secretario de Turismo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Derogada."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 01-12-2016. Derogada DOF 13-08-2019",
+              "action": "reformado",
+              "dof_date": "13-08-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "El Director General de Nacional Financiera, S.N.C.;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "El Director General del Banco Nacional de Comercio Exterior, S.N.C.;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "El Director General del Consejo Nacional de Ciencia y Tecnología;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Seis representantes de los Secretarios de Desarrollo Económico o su equivalente en la Ciudad de México y en las Entidades Federativas;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 13-08-2019",
+              "action": "reformado",
+              "dof_date": "13-08-2019"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "El Presidente de la Confederación Nacional de Cámaras Industriales de los Estados Unidos Mexicanos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "El Presidente de la Confederación de Cámaras Nacionales de Comercio, Servicios y Turismo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "El Presidente de la Confederación Patronal de la República Mexicana;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVIII",
+              "text": "El Presidente de la Cámara Nacional de la Industria de la Transformación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIX",
+              "text": "El Presidente de la Cámara de la Industria de la Transformación de Nuevo León;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XX",
+              "text": "El Presidente del Consejo de Cámaras Industriales de Jalisco;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXI",
+              "text": "Tres miembros de los Sectores que incidan en el cumplimiento de los objetivos de esta Ley, quienes serán designados por la Secretaría, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXII",
+              "text": "Dos representantes del Congreso del Trabajo y un representante de la Unión Nacional de Trabajadores."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Consejo podrá invitar a participar en las sesiones, con voz pero sin voto, a otras dependencias, entidades, miembros de los Consejos Estatales y especialistas en los temas a discusión."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por cada uno de los miembros propietarios se deberá nombrar un suplente, en el caso de las dependencias y entidades de la Administración Pública Federal, deberá tener al menos el nivel de director general o su equivalente."
+            },
+            {
+              "type": "paragraph",
+              "text": "En las ausencias del presidente del Consejo, asumirá sus funciones el Subsecretario que designe la persona titular de la Secretaría."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 01-12-2016, 13-08-2019",
+              "action": "reformado",
+              "dof_date": "01-12-2016"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-cuart.articulo-19",
+          "heading": "Artículo 19",
+          "descriptor": null,
+          "ordinal": "19",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo contará con un secretario técnico, que será designado por la persona titular de la Secretaría quien deberá tener nivel mínimo de titular de Unidad. El secretario técnico será quien dará seguimiento a los acuerdos que emanen de dicha instancia; informará semestralmente al Congreso de la Unión sobre la evolución de los Programas y los resultados alcanzados, y se coordinará con los Consejos Estatales en lo conducente."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 01-12-2016, 13-08-2019",
+              "action": "reformado",
+              "dof_date": "01-12-2016"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-cuart.articulo-20",
+          "heading": "Artículo 20",
+          "descriptor": null,
+          "ordinal": "20",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo se reunirá trimestralmente de manera ordinaria, de acuerdo con el calendario que se apruebe en la primera sesión ordinaria del ejercicio, pudiendo celebrar las reuniones extraordinarias que se requieran."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Consejo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre que se cuente con la asistencia del presidente o su suplente, y que la mayoría de los asistentes sean representantes de la Administración Pública Federal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las resoluciones se tomarán por mayoría de votos de los miembros presentes, teniendo el presidente el voto de calidad en caso de empate."
+            },
+            {
+              "type": "paragraph",
+              "text": "El presidente, a través del secretario técnico, convocará a las sesiones ordinarias con un mínimo de cinco días hábiles de anticipación. En el caso de las extraordinarias, se convocará con tres días hábiles de anticipación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-cuart.articulo-21",
+          "heading": "Artículo 21",
+          "descriptor": null,
+          "ordinal": "21",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El domicilio del Consejo será en la Ciudad de México y sesionará en las instalaciones de la Secretaría, siempre que éste no acuerde una sede alterna."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-cuart.articulo-22",
+          "heading": "Artículo 22",
+          "descriptor": null,
+          "ordinal": "22",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo tendrá por objeto:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Estudiar y proponer medidas de apoyo para el desarrollo de la competitividad de las MIPYMES a través del análisis de las propuestas surgidas del sector público y de los Sectores;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Desarrollar mecanismos para que las MIPYMES reciban Consultoría y Capacitación en las áreas de comercialización y mercadeo, tecnología y procesos de producción, diseño de producto y financiamiento, así como en materia de normalización y certificación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Fomentar la constitución de incubadoras de empresas, y la iniciativa y creatividad de los emprendedores;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Procurar la formación de especialistas en Consultoría y Capacitación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Promover la certificación de especialistas que otorguen servicios de Consultoría y Capacitación a las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Facilitar la integración entre las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Impulsar la vinculación de las MIPYMES con la gran empresa;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Estimular la integración y eficiencia de las cadenas productivas, con la participación de los Sectores, con una visión de corto, mediano y largo plazo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Formular mecanismos y estrategias de promoción a la exportación directa e indirecta de las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Impulsar esquemas que faciliten el acceso al financiamiento de las MIPYMES, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Instituir los premios nacionales que reconozcan la competitividad de las MIPYMES en los términos que él mismo determine."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-quint",
+      "heading": "Capítulo Quinto",
+      "descriptor": "De los Consejos Estatales para la Competitividad de la Micro, Pequeña y Mediana",
+      "ordinal": "Quinto",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Empresa"
+        }
+      ],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-quint.articulo-23",
+          "heading": "Artículo 23",
+          "descriptor": null,
+          "ordinal": "23",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- En cada Entidad Federativa se podrá conformar un Consejo Estatal para la Competitividad de la Micro, Pequeña y Mediana Empresa, que estudiará y propondrá en el ámbito regional, estatal, municipal y de las demarcaciones territoriales de la Ciudad de México, medidas de apoyo para el desarrollo de la competitividad de las MIPYMES a través del análisis de las propuestas surgidas del sector público y de los Sectores."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "paragraph",
+              "text": "El Consejo Estatal estará sujeto a los lineamientos que emita el Consejo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-quint.articulo-24",
+          "heading": "Artículo 24",
+          "descriptor": null,
+          "ordinal": "24",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo Estatal será presidido por el secretario de desarrollo económico o su equivalente en cada Entidad Federativa, quien informará periódicamente al Consejo los resultados obtenidos en el desarrollo de sus actividades."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "paragraph",
+              "text": "Para que sesione válidamente, el Consejo Estatal deberá contar con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que se cuente con la asistencia del secretario técnico del Consejo Estatal, o su suplente. Dicho Consejo se reunirá trimestralmente de manera ordinaria, de acuerdo con el calendario que se apruebe en la primera sesión ordinaria del ejercicio, pudiendo celebrar las reuniones extraordinarias que se requieran."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Consejo Estatal contará con un secretario técnico, que será designado por la persona titular de la Secretaría en la Entidad Federativa de que se trate, quien tendrá la función de dar seguimiento a los acuerdos que de él emanen, así como apoyar al secretario técnico del Consejo para coordinar acciones con el Consejo Estatal."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-05-2017, 13-08-2019",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            },
+            {
+              "type": "paragraph",
+              "text": "Por cada uno de los miembros propietarios se deberá nombrar un suplente, en el caso del Gobierno de las Entidades Federativas, deberá tener al menos un nivel jerárquico inferior inmediato al del propietario."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-quint.articulo-25",
+          "heading": "Artículo 25",
+          "descriptor": null,
+          "ordinal": "25",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo Estatal deberá integrarse por un número no mayor al establecido para el Consejo, debiendo estar representados cada uno de los Sectores, representantes de la Secretaría y de las dependencias y entidades de la Administración Pública Federal que tengan Programas para las MIPYMES."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 13-08-2019",
+              "action": "reformado",
+              "dof_date": "13-08-2019"
+            },
+            {
+              "type": "paragraph",
+              "text": "El Consejo Estatal podrá invitar a participar en las sesiones, con voz pero sin voto, a las distintas dependencias, entidades, Municipios y a las demarcaciones territoriales de la Ciudad de México, así como también a especialistas en los temas a discusión."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-quint.articulo-26",
+          "heading": "Artículo 26",
+          "descriptor": null,
+          "ordinal": "26",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Consejo Estatal tendrá por objeto:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Evaluar y proponer medidas de apoyo para promover la competitividad de las Cadenas Productivas y de las MIPYMES;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Promover mecanismos para el cumplimiento de los objetivos de esta Ley, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Discutir y analizar las propuestas que realicen los Municipios, las demarcaciones territoriales de la Ciudad de México y los Sectores para el desarrollo y cumplimiento de los objetivos de esta Ley."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 19-05-2017",
+              "action": "reformado",
+              "dof_date": "19-05-2017"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "Artículo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la entrada en vigor de la presente Ley, se derogan todas aquellas disposiciones que se opongan a lo establecido en la misma."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-tercer",
+          "heading": "Artículo Tercero",
+          "descriptor": null,
+          "ordinal": "Artículo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Dentro de los noventa días posteriores a la entrada en vigor de la presente Ley, deberá instalarse el Consejo a que se refiere el Capítulo Cuarto de la misma."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-cuart",
+          "heading": "Artículo Cuarto",
+          "descriptor": null,
+          "ordinal": "Artículo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Reglamento de esta Ley, deberá expedirse en un plazo no mayor a ciento ochenta días, contados a partir de la entrada en vigor de la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-quint",
+          "heading": "Artículo Quinto",
+          "descriptor": null,
+          "ordinal": "Artículo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para efectos de lo dispuesto en la fracción IX del artículo 10 de esta Ley, la gradualidad en las asignaciones que con respecto de la totalidad de las adquisiciones y arrendamientos de bienes y servicios, así como de obra pública que realicen las dependencias y entidades de la Administración Pública Federal a las MIPYMES, deberán sujetarse a los siguientes plazos y porcentajes como mínimo:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Se establece un plazo de dos años contados a partir de la entrada en vigor de la presente Ley, a efecto de que se destine el 10%, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Concluido el plazo a que se refiere la fracción I del presente artículo, la Secretaría revisará la gradualidad de referencia para los siguientes cuatro años, a fin de que fenecido este término se alcance el porcentaje del 35%."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-sext",
+          "heading": "Artículo Sexto",
+          "descriptor": null,
+          "ordinal": "Artículo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En las Entidades Federativas o en el caso del Distrito Federal, que exista algún consejo con características similares a un Consejo Estatal, podrán asumir el carácter de éstos llevando a cabo el objeto y las funciones establecidas en esta Ley, realizando las adecuaciones legales correspondientes."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 13 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Enrique Jackson Ramírez, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Rafael Melgoza Radillo, Secretario.- Rúbricas\"."
+            },
+            {
+              "type": "paragraph",
+              "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 6 de junio de 2006 Artículo Unico.- Se reforma el último párrafo de la fracción III, del artículo 3 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue: .........."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Artículo Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+        },
+        {
+          "type": "paragraph",
+          "text": "México, D.F., a 19 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica."
+        },
+        {
+          "type": "paragraph",
+          "text": "DECRETO por el que se adiciona un párrafo tercero al artículo 2 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicado en el Diario Oficial de la Federación el 5 de agosto de 2011"
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se adiciona un párrafo tercero al artículo 2 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 9 de noviembre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. María de Jesus Aguirre Maldonado, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de julio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se adiciona la fracción VI al artículo 13 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 18 de enero de 2012"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "ARTÍCULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se adiciona la fracción VI al artículo 13 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 13 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan diversos artículos de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 21 de enero de 2015"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 7; 10, fracción III; 11, último párrafo y 14, fracción I; y se adiciona el artículo 9, con una fracción V; de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 4 de diciembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de enero de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y adicionan los artículos 3, 18 y 19 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2016"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 18, fracción X y párrafo cuarto; 19; y se adiciona una fracción XVIII al artículo 3 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Dentro del término de 180 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo Federal y las Secretarías del ramo competentes, deberán realizar las adecuaciones normativas al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En tanto no sea modificado el Reglamento a que se refiere el transitorio segundo, respecto a las facultades y obligaciones de la Subsecretaría para la Pequeña y Mediana Empresa, continuarán aplicándose las normas vigentes al Instituto Nacional del Emprendedor."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 18 de octubre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintinueve de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas disposiciones de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 19 de mayo de 2017"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 2, párrafo primero; 3, fracciones V, VII, XII y XVI; 4, fracción I, inciso b); 8; 10, fracciones I, II, IX y último párrafo; 12, fracciones III y IV; 13, párrafo primero y fracción II; 21; 23; 24, párrafos primero, tercero y cuarto; 25, párrafo segundo; y 26, fracción III, de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Ejecutivo Federal y las Secretarías del ramo competentes, deberán realizar las adecuaciones normativas al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 6 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pablo Escudero Morales, Presidente.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Lorena Cuéllar Cisneros, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diecisiete de mayo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman y derogan diversas disposiciones de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 13 de agosto de 2019"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 18, primer párrafo, fracciones V y XIV, y párrafo cuarto; 19; 24, tercer párrafo y 25, primer párrafo y se deroga la fracción XVIII del artículo 3, y la fracción X del artículo 18 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Dentro del término de 180 días posterior a la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las reformas que se requieran al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa."
+            },
+            {
+              "type": "paragraph",
+              "text": "En tanto no se realicen las modificaciones a las que se refiere el párrafo anterior, respecto a las facultades y obligaciones del Instituto Nacional del Emprendedor, continuarán aplicándose las mismas en lo que no contravengan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 20 de junio de 2019.- Dip. Porfirio Muñoz Ledo, Presidente, Sen. Martí Batres Guadarrama, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se adiciona una fracción X al artículo 10 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 20 de octubre de 2023"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se adiciona una fracción X al artículo 10 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 12 de septiembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ana Lilia Rivera Rivera, Presidenta.- Dip. Olga Luz Espinosa Morales, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de octubre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

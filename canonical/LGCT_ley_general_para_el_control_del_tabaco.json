@@ -1,0 +1,2489 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LGCT_ley_general_para_el_control_del_tabaco",
+  "abbreviation": "LGCT",
+  "name": "LEY General para el Control del Tabaco",
+  "catalog_number": "230",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf",
+    "pdf_filename_origen": "LGCT.pdf",
+    "dof_publication": "DOF30/05/2008",
+    "last_reform": "DOF 17/02/2022",
+    "captured_at": "2026-04-09T10:02:36.797255+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "Nueva Ley publicada en el Diario Oficial de la Federación el 30 de mayo de 2008 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA  ; Y DEROGA Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-primer",
+      "heading": "ARTÍCULO PRIMERO",
+      "descriptor": null,
+      "ordinal": "ARTÍCULO PRIMERO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley General para el Control del Tabaco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ley General para el Control del Tabaco"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-primer",
+      "heading": "Título Primero",
+      "descriptor": "Disposiciones Generales",
+      "ordinal": "Primero",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": "Disposiciones Generales",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-i.articulo-1",
+              "heading": "Artículo 1",
+              "descriptor": null,
+              "ordinal": "1",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La presente Ley es de utilidad pública y sus disposiciones son de orden público e interés social y de observancia general en todo el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción. A falta de disposición expresa se aplicará supletoriamente la Ley General de Salud."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-i.articulo-2",
+              "heading": "Artículo 2",
+              "descriptor": null,
+              "ordinal": "2",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La presente Ley se aplicará a las siguientes materias:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Control sanitario de los productos del tabaco, así como su importación, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "La protección contra la exposición al humo de tabaco."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-i.articulo-3",
+              "heading": "Artículo 3",
+              "descriptor": null,
+              "ordinal": "3",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La concurrencia entre la federación y las entidades federativas en materia de la presente Ley se hará conforme a las disposiciones correspondientes de la Ley General de Salud."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-i.articulo-4",
+              "heading": "Artículo 4",
+              "descriptor": null,
+              "ordinal": "4",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La orientación, educación, prevención, producción, distribución, comercialización, importación, consumo, publicidad, promoción, patrocinio, muestreo, verificación y en su caso la aplicación de medidas de seguridad y sanciones relativas a los productos del tabaco serán reguladas bajo los términos establecidos en esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-i.articulo-5",
+              "heading": "Artículo 5",
+              "descriptor": null,
+              "ordinal": "5",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La presente Ley tiene las siguientes finalidades:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Proteger la salud de la población de los efectos nocivos del tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Proteger los derechos de los no fumadores a vivir y convivir en espacios 100 por ciento libres de humo de tabaco y emisiones;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 17-02-2022",
+                  "action": "reformado",
+                  "dof_date": "17-02-2022"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Establecer las bases para la protección contra el humo de tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Establecer las bases para la producción, etiquetado, empaquetado, promoción, publicidad, patrocinio, distribución, venta, consumo y uso de los productos del tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Instituir medidas para reducir el consumo de tabaco, particularmente en los menores;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Fomentar la promoción, la educación para la salud, así como la difusión del conocimiento de los riesgos atribuibles al consumo y a la exposición al humo de tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Establecer los lineamientos generales para el diseño y evaluación de legislación y políticas públicas basadas en evidencia contra el tabaquismo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Establecer los lineamientos generales para la entrega y difusión de la información sobre los productos del tabaco y sus emisiones, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Las demás que sean necesarias para el cumplimiento de sus objetivos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-i.articulo-6",
+              "heading": "Artículo 6",
+              "descriptor": null,
+              "ordinal": "6",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para efectos de esta Ley, se entiende por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Cigarrillo: Cigarro pequeño de picadura envuelta en un papel de fumar;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Cigarro o Puro: Rollo de hojas de tabaco, que enciende por un extremo y se chupa o fuma por el opuesto;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Contenido: A la lista compuesta de ingredientes, así como los componentes diferentes del tabaco, como papel boquilla, tinta para impresión de marca, papel cigarro, filtro, envoltura de filtro y adhesivo de papel cigarro;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Control sanitario de los productos del Tabaco: Conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones, que ejerce la Secretaría de Salud y otras autoridades competentes, con base en lo que establecen esta Ley, sus reglamentos, las normas oficiales mexicanas y demás disposiciones aplicables. Comprende diversas estrategias de reducción de la oferta, la demanda y los daños con objeto de mejorar la salud de la población reduciendo el consumo de productos del tabaco y la exposición al humo de tabaco de segunda mano;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Denuncia Ciudadana: Notificación hecha a la autoridad competente por cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Distribución: La acción de vender, ofrecer o exponer para la venta, dar, donar, regalar, intercambiar, transmitir, consignar, entregar, proveer o transferir la posesión de productos del tabaco para fines comerciales, u ofrecer hacerlo, ya sea a título oneroso o gratuito;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Elemento de la marca: El uso de razones sociales, nombres comerciales, marcas, emblemas, rúbricas o cualquier tipo de señalización visual o auditiva, que identifique a los productos del tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Emisión: Es la sustancia producida y liberada cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de productos del tabaco para uso oral sin humo, se entiende como todas las sustancias liberadas durante el proceso de mascado o chupado y en el caso de productos del tabaco para uso nasal, son todas las sustancias liberadas durante el proceso de inhalación o aspiración;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Empaquetado y etiquetado externos: Expresión que se aplica a todo envasado y etiquetado utilizados en la venta al por menor del producto de tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Espacio 100 por ciento libre de humo de tabaco y emisiones: Aquella área física con acceso al público, todo lugar de trabajo, de transporte público o espacio de concurrencia colectiva, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco o de nicotina;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 17-02-2022",
+                  "action": "reformado",
+                  "dof_date": "17-02-2022"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "X Bis. Espacio de concurrencia colectiva: Todo espacio destinado al acceso público para el desarrollo de actividades deportivas, artísticas, culturales y de entretenimiento, tanto del ámbito público como privado, independientemente si está cubierto por un techo y confinado por paredes o que la estructura sea permanente o temporal;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción adicionada DOF 17-02-2022",
+                  "action": "adicionado",
+                  "dof_date": "17-02-2022"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "X Ter. Lugar de trabajo: Son todos los lugares utilizados por las personas durante su trabajo. Incluye no sólo aquellos donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo así como los vehículos que se utilizan mientras se realiza el trabajo;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción adicionada DOF 17-02-2022",
+                  "action": "adicionado",
+                  "dof_date": "17-02-2022"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "X Quáter. Transporte público: Aquel vehículo individual o colectivo que circule por tierra, aire o agua utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, que regularmente se obtiene una remuneración, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción adicionada DOF 17-02-2022",
+                  "action": "adicionado",
+                  "dof_date": "17-02-2022"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Humo de Tabaco: Se refiere a las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afectan al no fumador;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Industria tabacalera: Es la conformada por los fabricantes, distribuidores, comercializadores e importadores;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Legislación y política basada en evidencias científicas: La utilización concienzuda, explícita y crítica de la mejor información y conocimiento disponible para fundamentar acciones en política pública y legislativa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Ley: Ley General para el Control del Tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "Leyenda de advertencia: Aquella frase o mensaje escrito, impreso y visible en el empaquetado, en el etiquetado, el paquete, la publicidad, la promoción de productos del tabaco y otros anuncios que establezca la Secretaría de acuerdo a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "Paquete: Es el envase o la envoltura en que se vende o muestra un producto de tabaco en las tiendas al por menor, incluida la caja o cartón que contiene cajetillas más pequeñas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVII",
+                  "text": "Patrocinio del tabaco: Toda forma de contribución a cualquier acto, actividad o individuo con el fin, o el efecto de promover los productos del tabaco o el consumo de los mismos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVIII",
+                  "text": "Pictograma: Advertencia sanitaria basada en fotografías, dibujos, signos, gráficos, figuras o símbolos impresos, representando un objeto o una idea, sin que la pronunciación de tal objeto o idea, sea tenida en cuenta;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIX",
+                  "text": "Producto del Tabaco: Es cualquier sustancia o bien manufacturado preparado total o en parte utilizando como materia prima hojas de tabaco y destinado a ser fumado, chupado, mascado o utilizado como rapé;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XX",
+                  "text": "Producir: Acción y efecto de elaborar productos del tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXI",
+                  "text": "Promoción de la salud: Las acciones tendientes a desarrollar actitudes y conductas que favorezcan estilos de vida saludables en la familia, el trabajo y la comunidad;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXII",
+                  "text": "Promoción y publicidad de los productos del tabaco: Toda forma de comunicación, recomendación o acción comercial con el fin, o el efecto de promover productos del tabaco, marca o fabricante, para venderlo o alentar su consumo, mediante cualquier medio, incluidos el anuncio directo, los descuentos, los incentivos, los reembolsos, la distribución gratuita, la promoción de elementos de la marca mediante eventos y productos relacionados, a través de cualquier medio de comunicación o difusión;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXIII",
+                  "text": "Secretaría: La Secretaría de Salud;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXIV",
+                  "text": "Suministrar: Acto de comercio que consiste en proveer al mercado de los bienes que los comerciantes necesitan, regido por las leyes mercantiles aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXV",
+                  "text": "Tabaco: La planta \"Nicotina Tabacum\" y sus sucedáneos, en su forma natural o modificada, en las diferentes presentaciones, que se utilicen para ser fumado, chupado, mascado o utilizado como rapé;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXVI",
+                  "text": "Verificador: Persona facultada por la autoridad competente para realizar funciones de vigilancia y actos tendientes a lograr el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": null,
+          "ordinal": "II",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Atribuciones de la Autoridad"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-ii.articulo-7",
+              "heading": "Artículo 7",
+              "descriptor": null,
+              "ordinal": "7",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La aplicación de esta Ley estará a cargo de la Secretaría en coordinación con la Secretaría de Educación Pública, la Secretaría de Hacienda y Crédito Público, la Secretaría de Economía y otras autoridades competentes."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 20-05-2021",
+                  "action": "reformado",
+                  "dof_date": "20-05-2021"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-ii.articulo-8",
+              "heading": "Artículo 8",
+              "descriptor": null,
+              "ordinal": "8",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría aplicará esta Ley, sus reglamentos y demás disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-ii.articulo-9",
+              "heading": "Artículo 9",
+              "descriptor": null,
+              "ordinal": "9",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría coordinará las acciones que se desarrollen contra el tabaquismo, promoverá y organizará los servicios de detección temprana, orientación y atención a fumadores que deseen abandonar el consumo, investigará sus causas y consecuencias, fomentará la salud considerando la promoción de actitudes y conductas que favorezcan estilos de vida saludables en la familia, el trabajo y la comunidad; y desarrollará acciones permanentes para disuadir y evitar el consumo de productos del tabaco principalmente por parte de niños, adolescentes y grupos vulnerables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-ii.articulo-10",
+              "heading": "Artículo 10",
+              "descriptor": null,
+              "ordinal": "10",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para efectos de lo anterior, la Secretaría establecerá los lineamientos para la ejecución y evaluación del Programa contra el Tabaquismo, que comprenderá, entre otras, las siguientes acciones:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La promoción de la salud;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "El diagnóstico, prevención, tratamiento y rehabilitación del tabaquismo y de los padecimientos originados por él;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios libres de humo de tabaco que establezca esta Ley, sus reglamentos y demás disposiciones aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "La elaboración periódica de un programa de seguimiento y evaluación de metas y logros del Programa contra el Tabaquismo que incluya al menos las conductas relacionadas al tabaco y su impacto en la salud;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "El diseño de programas, servicios de cesación y opciones terapéuticas que ayuden a dejar de fumar combinadas con consejería y otras intervenciones, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "El diseño de campañas de publicidad que promuevan la cesación y disminuyan las probabilidades de iniciarse en el consumo de los productos del tabaco."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-ii.articulo-11",
+              "heading": "Artículo 11",
+              "descriptor": null,
+              "ordinal": "11",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para poner en práctica las acciones del Programa contra el Tabaquismo, se tendrán en cuenta los siguientes aspectos:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La generación de la evidencia científica sobre las causas y consecuencias del tabaquismo y sobre la evaluación del programa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "La vigilancia e intercambio de información, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "La cooperación científica, técnica, jurídica y prestación de asesoramiento especializado."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-ii.articulo-12",
+              "heading": "Artículo 12",
+              "descriptor": null,
+              "ordinal": "12",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Son facultades de la Secretaría, de conformidad con lo dispuesto en esta Ley, sus reglamentos y demás disposiciones aplicables:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Coordinar todas las acciones relativas al control de los productos del tabaco y los productos accesorios al tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Establecer métodos de análisis para evaluar que la fabricación de productos del tabaco y sus accesorios se realice de conformidad con las disposiciones aplicables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Determinar a través de disposiciones de carácter general sobre la información que los fabricantes deben proporcionar a las autoridades correspondientes y al público acerca de los productos del tabaco y sus emisiones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Determinar a través de disposiciones de carácter general lo relativo a las características, especificaciones y procedimientos relacionados con el envasado y etiquetado de los productos del tabaco, incluyendo lo relativo a paquetes individuales, cajetillas y al mayoreo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Emitir las autorizaciones correspondientes para la producción, fabricación e importación de los productos del tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Emitir las disposiciones para la colocación y contenido de los letreros que se ubicarán en lugares donde haya venta de productos del tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Formular las disposiciones relativas a los espacios 100 por ciento libres de humo de tabaco y emisiones;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 17-02-2022",
+                  "action": "reformado",
+                  "dof_date": "17-02-2022"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Promover espacios 100 por ciento libres de humo de tabaco y emisiones y programas de educación para un medio ambiente libre de humo de tabaco;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 17-02-2022",
+                  "action": "reformado",
+                  "dof_date": "17-02-2022"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Determinar a través de disposiciones de carácter general los requisitos o lineamientos para la importación de productos del tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Promover la participación de la sociedad civil en la ejecución del Programa contra el Tabaquismo, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Proponer al Ejecutivo Federal las políticas públicas para el control del tabaco y sus productos con base en evidencias científicas y en determinación del riesgo sanitario."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-ii.articulo-13",
+              "heading": "Artículo 13",
+              "descriptor": null,
+              "ordinal": "13",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las compañías productoras, importadoras o comercializadoras de productos del tabaco, tendrán la obligación de entregar a la Secretaría la información relativa al contenido de los productos del tabaco, los ingredientes usados y las emisiones y sus efectos en la salud conforme a las disposiciones aplicables y hacerlas públicas a la población en general."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-segund",
+      "heading": "Título Segundo",
+      "descriptor": null,
+      "ordinal": "Segundo",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Comercio, Distribución, Venta y Suministro de los Productos del Tabaco"
+        }
+      ],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-unic",
+          "heading": "Capítulo Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-14",
+              "heading": "Artículo 14",
+              "descriptor": null,
+              "ordinal": "14",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Todo establecimiento que produzca, fabrique o importe productos del tabaco requerirá licencia sanitaria de acuerdo con los requisitos que establezca esta Ley y demás disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-15",
+              "heading": "Artículo 15",
+              "descriptor": null,
+              "ordinal": "15",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Quien comercie, venda, distribuya o suministre productos del tabaco tendrá las siguientes obligaciones:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Mantener un anuncio situado al interior del establecimiento con las leyendas sobre la prohibición de comercio, venta, distribución o suministro a menores;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Exigir a la persona que se presente a adquirir productos del tabaco que acredite su mayoría de edad con identificación oficial con fotografía, sin la cual no podrá realizarse lo anterior;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Exhibir en los establecimientos las leyendas de advertencia, imágenes y pictogramas autorizados por la Secretaría, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Las demás referentes al comercio, suministro, distribución y venta de productos del tabaco establecidos en esta Ley, en la Ley General de Salud, y en todas las disposiciones aplicables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El presente artículo se sujetará a lo establecido en los reglamentos correspondientes y demás disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-16",
+              "heading": "Artículo 16",
+              "descriptor": null,
+              "ordinal": "16",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Se prohíbe:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Comerciar, vender, distribuir o suministrar cigarrillos por unidad o en empaques, que contengan menos de catorce o más de veinticinco unidades, o tabaco picado en bolsas de menos de diez gramos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Colocar los cigarrillos en sitios que le permitan al consumidor tomarlos directamente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Comerciar, vender, distribuir o exhibir cualquier producto del tabaco a través de distribuidores automáticos o máquinas expendedoras;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Comerciar, vender o distribuir al consumidor final cualquier producto del tabaco por teléfono, correo, internet o cualquier otro medio de comunicación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Distribuir gratuitamente productos del tabaco al público en general y/o con fines de promoción, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Comerciar, vender, distribuir, exhibir, promocionar o producir cualquier objeto que no sea un producto del tabaco, que contenga alguno de los elementos de la marca o cualquier tipo de diseño o señal auditiva que lo identifique con productos del tabaco."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-17",
+              "heading": "Artículo 17",
+              "descriptor": null,
+              "ordinal": "17",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Se prohíben las siguientes actividades:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "El comercio, distribución, donación, regalo, venta y suministro de productos del tabaco a menores de edad;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "El comercio, distribución, donación, regalo, venta y suministro de productos del tabaco en instituciones educativas públicas y privadas de educación básica y media superior, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Emplear a menores de edad en actividades de comercio, producción, distribución, suministro y venta de estos productos."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-tercer",
+      "heading": "Título Tercero",
+      "descriptor": "Sobre los Productos del Tabaco",
+      "ordinal": "Tercero",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": null,
+          "ordinal": "I",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Empaquetado y Etiquetado"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-18",
+              "heading": "Artículo 18",
+              "descriptor": null,
+              "ordinal": "18",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En los paquetes de productos del tabaco y en todo empaquetado y etiquetado externo de los mismos, de conformidad con lo establecido en esta Ley, sus reglamentos y demás disposiciones aplicables, deberán figurar leyendas y pictogramas o imágenes de advertencia que muestren los efectos nocivos del consumo de los productos del tabaco, además se sujetarán a las siguientes disposiciones:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Serán formuladas y aprobadas por la Secretaría;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Se imprimirán en forma rotatoria directamente en los empaques;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Serán de alto impacto preventivo, claras, visibles, legibles y no deberán ser obstruidas por ningún medio;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Deberán ocupar al menos el 30% de la cara anterior, 100% de la cara posterior y el 100% de una de las caras laterales del paquete y la cajetilla;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Al 30% de la cara anterior de la cajetilla se le deberán incorporar pictogramas o imágenes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "El 100% de la cara posterior y el 100% de la cara lateral serán destinados al mensaje sanitario, que del mismo modo será rotativo, deberá incorporar un número telefónico de información sobre prevención, cesación y tratamiento de las enfermedades o efectos derivados del consumo de productos del tabaco, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Las leyendas deberán ser escritas e impresas, sin que se invoque o haga referencia a alguna disposición legal directamente en el empaquetado o etiquetado."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Secretaría publicará en el Diario Oficial de la Federación las disposiciones para la formulación, aprobación, aplicación, utilización e incorporación de las leyendas, imágenes, pictogramas y mensajes sanitarios que se incorporarán en los paquetes de productos del tabaco y en todo empaquetado y etiquetado externo de los mismos, de acuerdo a lo establecido en esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-19",
+              "heading": "Artículo 19",
+              "descriptor": null,
+              "ordinal": "19",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Además de lo establecido en el artículo anterior, todos los paquetes de productos del tabaco y todo empaquetado y etiquetado externo de los mismos, deberán contener información sobre sus contenidos, emisiones y riesgos de conformidad con las disposiciones aplicables. Las autoridades competentes deberán coordinarse para tales efectos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-20",
+              "heading": "Artículo 20",
+              "descriptor": null,
+              "ordinal": "20",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En los paquetes de productos del tabaco, y en todo empaquetado y etiquetado externo de los mismos, no se promocionarán mensajes relacionados con estos productos de manera falsa, equívoca o engañosa que pudiera inducir a error con respecto a sus características, efectos para la salud, riesgos o emisiones."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "No se emplearán términos, elementos descriptivos, marcas de fábrica o de comercios, signos figurativos o de otra clase que tengan el efecto de crear la falsa impresión de que un determinado producto del tabaco es menos nocivo que otro."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "De manera enunciativa más no limitativa quedan prohibidas expresiones tales como \"bajo contenido de alquitrán\", \"ligeros\", \"ultra ligeros\" o \"suaves\"."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-21",
+              "heading": "Artículo 21",
+              "descriptor": null,
+              "ordinal": "21",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En todos los paquetes de productos del tabaco y en todo empaquetado y etiquetado externo de los mismos, para su comercialización dentro del territorio nacional, deberá figurar la declaración: \"Para venta exclusiva en México\"."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-22",
+              "heading": "Artículo 22",
+              "descriptor": null,
+              "ordinal": "22",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las leyendas de advertencia y la información textual establecidas en este capítulo, deberán figurar en español en todos los paquetes y productos del tabaco y en todo empaquetado y etiquetado externos de los mismos."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Este requisito será aplicable para la comercialización dentro del territorio nacional."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": null,
+          "ordinal": "II",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Publicidad, Promoción y Patrocinio"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-23",
+              "heading": "Artículo 23",
+              "descriptor": null,
+              "ordinal": "23",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Queda prohibido realizar toda forma de publicidad, promoción y patrocinio de los productos elaborados con tabaco, en forma directa o indirecta, a través de cualquier medio de difusión o comunicación que pretenda posicionar los elementos de la marca de éstos, que fomente la compra, el consumo o preferencia por parte de la población."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 17-02-2022",
+                  "action": "reformado",
+                  "dof_date": "17-02-2022"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-24",
+              "heading": "Artículo 24",
+              "descriptor": null,
+              "ordinal": "24",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Se prohíbe emplear incentivos que fomenten la compra de productos del tabaco y no podrá distribuirse, venderse u obsequiarse, directa o indirectamente, ningún artículo promocional que muestre el nombre o logotipo de productos del tabaco."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-25",
+              "heading": "Artículo 25",
+              "descriptor": null,
+              "ordinal": "25",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las publicaciones de comunicaciones internas para la distribución entre los empleados de la industria tabacalera no serán consideradas publicidad o promoción para efectos de esta Ley."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-iii",
+          "heading": "Capítulo III",
+          "descriptor": null,
+          "ordinal": "III",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Consumo y Protección contra la Exposición al Humo de Tabaco"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-26",
+              "heading": "Artículo 26",
+              "descriptor": null,
+              "ordinal": "26",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Queda prohibido a cualquier persona consumir o tener encendido cualquier producto del tabaco y nicotina en los espacios 100 por ciento libres de humo de tabaco y emisiones, en los espacios cerrados, los lugares de trabajo, el transporte público, espacios de concurrencia colectiva, las escuelas públicas y privadas en todos los niveles educativos y en cualquier otro lugar con acceso al público que en forma expresa lo establezca la Secretaría."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 17-02-2022",
+                  "action": "reformado",
+                  "dof_date": "17-02-2022"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En dichos lugares se fijará en el interior y en el exterior los letreros, logotipos y emblemas que establezca la Secretaría."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-27",
+              "heading": "Artículo 27",
+              "descriptor": null,
+              "ordinal": "27",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En lugares con acceso al público en forma libre o restringida, lugares de trabajo con o sin atención al público, públicos o privados, podrán existir zonas exclusivamente para fumar, las cuales deberán ubicarse solamente en espacios al aire libre de conformidad con las disposiciones que establezca la Secretaría."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 06-01-2010, 17-02-2022",
+                  "action": "reformado",
+                  "dof_date": "06-01-2010"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-28",
+              "heading": "Artículo 28",
+              "descriptor": null,
+              "ordinal": "28",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El propietario, administrador o responsable de un espacio 100 por ciento libre de humo de tabaco y emisiones, estará obligado a hacer respetar los ambientes libres de humo de tabaco establecidos en los artículos anteriores."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 17-02-2022",
+                  "action": "reformado",
+                  "dof_date": "17-02-2022"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-29",
+              "heading": "Artículo 29",
+              "descriptor": null,
+              "ordinal": "29",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En todos los espacios 100 por ciento libres de humo de tabaco y emisiones, y en las zonas exclusivamente para fumar, se colocarán en un lugar visible letreros que indiquen claramente su naturaleza, debiéndose incluir un número telefónico para la denuncia por incumplimiento a esta Ley, sus reglamentos y demás disposiciones aplicables."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 17-02-2022",
+                  "action": "reformado",
+                  "dof_date": "17-02-2022"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-cuart",
+      "heading": "Título Cuarto",
+      "descriptor": null,
+      "ordinal": "Cuarto",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Medidas para Combatir la Producción Ilegal y el Comercio Ilícito de Productos del Tabaco"
+        }
+      ],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-unic",
+          "heading": "Capítulo Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-30",
+              "heading": "Artículo 30",
+              "descriptor": null,
+              "ordinal": "30",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría vigilará que los productos del tabaco y productos accesorios al tabaco materia de importación cumplan con esta Ley, sus reglamentos y demás disposiciones aplicables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En los casos en que los productos de importación no reúnan los requisitos o características que establezca la legislación correspondiente, la Secretaría aplicará las medidas de seguridad que correspondan de acuerdo con la Ley General de Salud."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-31",
+              "heading": "Artículo 31",
+              "descriptor": null,
+              "ordinal": "31",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Se requiere permiso sanitario previo de importación de la Secretaría para la importación de productos del tabaco."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-32",
+              "heading": "Artículo 32",
+              "descriptor": null,
+              "ordinal": "32",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La importación de productos del tabaco y de productos accesorios al tabaco, se sujetará a las siguientes bases:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Los importadores y distribuidores deberán tener domicilio en México;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Podrán importarse los productos del tabaco y los productos accesorios al tabaco, siempre que el importador exhiba la documentación establecida en las disposiciones reglamentarias de esta Ley, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "La Secretaría podrá muestrear y analizar los productos del tabaco y los productos accesorios al tabaco importados, a fin de verificar el cumplimiento de las disposiciones aplicables. Cuando se encuentre que el producto muestreado no cumple con las disposiciones citadas, la Secretaría procederá conforme a lo establecido en esta Ley, sus reglamentos y demás disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-33",
+              "heading": "Artículo 33",
+              "descriptor": null,
+              "ordinal": "33",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría, a través de los verificadores y en coordinación con las autoridades correspondientes, está facultada para intervenir en puertos marítimos y aéreos, en las fronteras y, en general, en cualquier punto del territorio nacional, en relación con el tráfico de productos del tabaco y de los productos accesorios al tabaco, para los efectos de identificación, control y disposición sanitarios."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-34",
+              "heading": "Artículo 34",
+              "descriptor": null,
+              "ordinal": "34",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría participará en las acciones que se realicen a fin de prevenir el comercio, distribución, venta y fabricación ilícita de productos del tabaco y de productos accesorios al tabaco."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-quint",
+      "heading": "Título Quinto",
+      "descriptor": "De la Participación Ciudadana",
+      "ordinal": "Quinto",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-quint.capitulo-unic",
+          "heading": "Capítulo Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-quint.capitulo-unic.articulo-35",
+              "heading": "Artículo 35",
+              "descriptor": null,
+              "ordinal": "35",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría promoverá la participación de la sociedad civil en la prevención del tabaquismo y el control de los productos del tabaco en las siguientes acciones:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Promoción de los espacios 100 por ciento libres de humo de tabaco y emisiones;"
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Fracción reformada DOF 17-02-2022",
+                  "action": "reformado",
+                  "dof_date": "17-02-2022"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Promoción de la salud comunitaria;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Educación para la salud;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Investigación para la salud y generación de la evidencia científica en materia del control del tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Difusión de las disposiciones legales en materia del control de los productos del tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Coordinación con los consejos nacional y estatales contra las adicciones, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Las acciones de auxilio de aplicación de esta Ley como la denuncia ciudadana."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-sext",
+      "heading": "Título Sexto",
+      "descriptor": null,
+      "ordinal": "Sexto",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Cumplimiento de esta Ley"
+        }
+      ],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-sext.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": "Disposiciones Generales",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-i.articulo-36",
+              "heading": "Artículo 36",
+              "descriptor": null,
+              "ordinal": "36",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Corresponde a la Secretaría con base en lo dispuesto en la Ley General de Salud y demás disposiciones aplicables:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Expedir las autorizaciones requeridas por esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Revocar dichas autorizaciones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Vigilar el cumplimiento de esta Ley, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Ejecutar los actos del procedimiento para aplicar medidas de seguridad y sanciones."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para dar cumplimiento a lo anterior, la Secretaría emitirá las disposiciones correspondientes."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-sext.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": "De la Vigilancia Sanitaria",
+          "ordinal": "II",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-ii.articulo-37",
+              "heading": "Artículo 37",
+              "descriptor": null,
+              "ordinal": "37",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los verificadores serán nombrados y capacitados por la Secretaría, de acuerdo a lo establecido en la Ley General de Salud y demás disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-ii.articulo-38",
+              "heading": "Artículo 38",
+              "descriptor": null,
+              "ordinal": "38",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los verificadores realizarán actos de orientación, educación, verificación de las disposiciones de esta Ley, de la Ley General de Salud y otras disposiciones en materia de control sanitario de los productos del tabaco."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-ii.articulo-39",
+              "heading": "Artículo 39",
+              "descriptor": null,
+              "ordinal": "39",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los verificadores podrán realizar visitas ordinarias y extraordinarias, sea por denuncia ciudadana u otro motivo, de acuerdo a las disposiciones de la Ley General de Salud, de esta Ley y demás disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-ii.articulo-40",
+              "heading": "Artículo 40",
+              "descriptor": null,
+              "ordinal": "40",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La labor de los verificadores en ejercicio de sus funciones, así como la de las autoridades federales, estatales o municipales, no podrá ser obstaculizada bajo ninguna circunstancia."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-ii.articulo-41",
+              "heading": "Artículo 41",
+              "descriptor": null,
+              "ordinal": "41",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las acciones de vigilancia sanitaria que lleven a cabo las autoridades competentes para efecto de verificar el cumplimiento de lo dispuesto en esta Ley, sus reglamentos y demás disposiciones aplicables, se realizarán de conformidad con los procedimientos establecidos en la Ley General de Salud."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-sext.capitulo-iii",
+          "heading": "Capítulo III",
+          "descriptor": "De la Denuncia Ciudadana",
+          "ordinal": "III",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-iii.articulo-42",
+              "heading": "Artículo 42",
+              "descriptor": null,
+              "ordinal": "42",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Cualquier persona podrá presentar ante la autoridad correspondiente una denuncia en caso de que observe el incumplimiento de cualquiera de las obligaciones establecidas en esta Ley, sus reglamentos y demás disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-iii.articulo-43",
+              "heading": "Artículo 43",
+              "descriptor": null,
+              "ordinal": "43",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La autoridad competente salvaguardará la identidad e integridad del ciudadano denunciante."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-sext.capitulo-iii.articulo-44",
+              "heading": "Artículo 44",
+              "descriptor": null,
+              "ordinal": "44",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría pondrá en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100 por ciento libres de humo de tabaco y emisiones así como el incumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 17-02-2022",
+                  "action": "reformado",
+                  "dof_date": "17-02-2022"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-septim",
+      "heading": "Título Séptimo",
+      "descriptor": "De las Sanciones",
+      "ordinal": "Séptimo",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-septim.capitulo-unic",
+          "heading": "Capítulo Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-unic.articulo-45",
+              "heading": "Artículo 45",
+              "descriptor": null,
+              "ordinal": "45",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El incumplimiento a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, serán sancionados administrativamente por las autoridades sanitarias, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-unic.articulo-46",
+              "heading": "Artículo 46",
+              "descriptor": null,
+              "ordinal": "46",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las sanciones administrativas podrán ser:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Amonestación con apercibimiento;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Multa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Clausura temporal o definitiva, que podrá ser parcial o total, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Arresto hasta por treinta y seis horas."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-unic.articulo-47",
+              "heading": "Artículo 47",
+              "descriptor": null,
+              "ordinal": "47",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Al imponer una sanción, la autoridad sanitaria fundará y motivará la resolución, tomando en cuenta:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Los daños que se hayan producido o puedan producirse en la salud de las personas;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "La gravedad de la infracción;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Las condiciones socio-económicas del infractor;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "La calidad de reincidente del infractor, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "El beneficio obtenido por el infractor como resultado de la infracción."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-unic.articulo-48",
+              "heading": "Artículo 48",
+              "descriptor": null,
+              "ordinal": "48",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Se sancionará con multa:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "De hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, el incumplimiento de lo dispuesto en el artículo 26 de esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "De mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, el incumplimiento de las disposiciones contenidas en los artículos 14, 15, 16, 27 y 28 de esta Ley, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "De cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, el incumplimiento de las disposiciones contenidas en los artículos 13, 17, 18, 19, 20, 21, 22, 23, 24, 31 y 32, de esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-unic.articulo-49",
+              "heading": "Artículo 49",
+              "descriptor": null,
+              "ordinal": "49",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de este capítulo se entiende por reincidencia, que el infractor incumpla la misma disposición de esta Ley o sus reglamentos dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-unic.articulo-50",
+              "heading": "Artículo 50",
+              "descriptor": null,
+              "ordinal": "50",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El monto recaudado producto de las multas será destinado al Programa contra el Tabaquismo y a otros programas de salud prioritarios."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-unic.articulo-51",
+              "heading": "Artículo 51",
+              "descriptor": null,
+              "ordinal": "51",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Procederá la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento de acuerdo con lo señalado en el artículo 425 y 426 de la Ley General de Salud, ordenamiento de aplicación supletoria a esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-unic.articulo-52",
+              "heading": "Artículo 52",
+              "descriptor": null,
+              "ordinal": "52",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Se sancionará con arresto hasta por 36 horas de acuerdo con lo estipulado en el artículo 427 de la Ley General de Salud, ordenamiento de aplicación supletoria a esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-unic.articulo-53",
+              "heading": "Artículo 53",
+              "descriptor": null,
+              "ordinal": "53",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Cuando con motivo de la aplicación de esta Ley, se desprenda la posible comisión de uno o varios delitos, la autoridad correspondiente formulará la denuncia o querella ante el Ministerio Público sin perjuicio de la sanción administrativa que proceda."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-unic.articulo-54",
+              "heading": "Artículo 54",
+              "descriptor": null,
+              "ordinal": "54",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los verificadores estarán sujetos a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-septim.capitulo-unic.articulo-55",
+              "heading": "Artículo 55",
+              "descriptor": null,
+              "ordinal": "55",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En todo lo relativo a los procedimientos para la aplicación de medidas de seguridad y sanciones, los recursos de inconformidad y prescripción, se aplicará lo establecido en las disposiciones de la Ley General de Salud."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-octav",
+      "heading": "Título Octavo",
+      "descriptor": "De los Delitos",
+      "ordinal": "Octavo",
+      "content": [
+        {
+          "type": "reform_note",
+          "text": "Título adicionado DOF 15-06-2018",
+          "action": "adicionado",
+          "dof_date": "15-06-2018"
+        }
+      ],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-octav.capitulo-unic",
+          "heading": "Capítulo Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "reform_note",
+              "text": "Capítulo adicionado DOF 15-06-2018",
+              "action": "adicionado",
+              "dof_date": "15-06-2018"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-octav.capitulo-unic.articulo-56",
+              "heading": "Artículo 56",
+              "descriptor": null,
+              "ordinal": "56",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". A quien por sí o a través de otra persona a sabiendas de ello, adultere, falsifique, contamine, altere o permita la adulteración, falsificación, contaminación o alteración de cualquier producto del tabaco en los términos que se define en la presente Ley y en la Ley General de Salud, se le aplicará una pena de uno a nueve años de prisión y multa equivalente de cien a mil veces el valor diario de la Unidad de Medida y Actualización."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La misma pena se aplicará a quien por sí o a través de otra persona mezcle productos de tabaco adulterados, falsificados, contaminados o alterados con otros que no lo sean, a través de la cadena de suministro."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 15-06-2018",
+                  "action": "adicionado",
+                  "dof_date": "15-06-2018"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-octav.capitulo-unic.articulo-57",
+              "heading": "Artículo 57",
+              "descriptor": null,
+              "ordinal": "57",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". A quien, por sí o a través de otra persona, introduzca al país, exporte, almacene, transporte, expenda, venda o de cualquier forma distribuya productos de tabaco de los que hace mención esta Ley, adulterados, falsificados, contaminados, alterados o mezclados en términos del último párrafo del artículo anterior, se le aplicará una pena de uno a nueve años de prisión y multa equivalente de cien a mil veces el valor diario de la Unidad de Medida y Actualización."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 15-06-2018",
+                  "action": "adicionado",
+                  "dof_date": "15-06-2018"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Reglamento sobre Consumo de Tabaco, permanecerá vigente hasta en tanto se emitan las disposiciones reglamentarias de esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En términos de lo dispuesto por los artículos 26 y 27 de esta Ley los propietarios, administradores o responsables de los establecimientos que pretendan contar con zonas exclusivamente para fumar, contarán con 180 días después de la publicación en el Diario Oficial de la Federación de esta Ley para efecto de llevar a cabo las modificaciones o adecuaciones necesarias en dichas zonas."
+            },
+            {
+              "type": "paragraph",
+              "text": "En caso de que los propietarios, administradores o responsables de los establecimientos referidos en el párrafo anterior no cuenten con las posibilidades económicas o de infraestructura necesarias para llevar a cabo las modificaciones o adecuaciones señaladas, podrán recurrir a la Secretaría dentro del periodo especificado en el párrafo anterior a efectos de celebrar los convenios o instrumentos administrativos necesarios que les permitan dar cumplimiento a la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las acciones que, en cumplimiento a lo dispuesto en este instrumento y en razón de su competencia, corresponda ejecutar a las dependencias y entidades de la Administración Pública Federal, deberán sujetarse a los ingresos aprobados en la Ley de Ingresos del ejercicio fiscal correspondiente, así como a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "ARTÍCULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "………."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-tercer",
+          "heading": "ARTÍCULO TERCERO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "………."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor a los 90 días después de su publicación el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se emitirán los reglamentos a los que se refiere esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que refiere esta Ley, iniciados con anterioridad a la entrada en vigor al presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El gobierno del Distrito Federal, los gobiernos de las entidades federativas y de los municipios, deberán adecuar sus Leyes, reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las competencias que a cada uno corresponda, para que sean congruentes con la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "QUINTO",
+          "descriptor": null,
+          "ordinal": "QUINTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría publicará en el Diario Oficial de la Federación las disposiciones para la formulación, aprobación, aplicación, utilización e incorporación de las leyendas, imágenes, pictogramas, fotografías y mensajes sanitarios que se incorporarán en los paquetes de productos del tabaco y en todo empaquetado y etiquetado externo de los mismos, de acuerdo a lo establecido en esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "SEXTO",
+          "descriptor": null,
+          "ordinal": "SEXTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Todos los empaques de tabaco fabricados en o importados hacia México deberán exhibir las nuevas advertencias de salud en un plazo de 9 meses contados a partir de la fecha en que la Secretaría publique los diseños para las advertencias sanitarias en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 26 de febrero de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de mayo de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma el artículo 27 de la Ley General para el Control del Tabaco."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 6 de enero de 2010"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 27 de la Ley General para el Control del Tabaco, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 8 de diciembre de 2009.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vazquez Aguilar, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de diciembre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se adiciona un Título Octavo, denominado “De los Delitos”, Capítulo Único, que comprende los artículos 56 y 57 a la Ley General para el Control del Tabaco."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 15 de junio de 2018"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se adiciona un Título Octavo, denominado “De los Delitos”, Capítulo Único, que comprende los artículos 56 y 57 a la Ley General para el Control del Tabaco, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 24 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Itzel Sarahí Ríos de la Mora, Secretaria.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-noven",
+          "heading": "Artículo Noveno",
+          "descriptor": null,
+          "ordinal": "Artículo Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 7 de la Ley General para el Control del Tabaco, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley Orgánica de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán."
+            },
+            {
+              "type": "paragraph",
+              "text": "A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "Noveno",
+          "descriptor": null,
+          "ordinal": "Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decim",
+          "heading": "Décimo",
+          "descriptor": null,
+          "ordinal": "Décimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-primer",
+          "heading": "Décimo Primero",
+          "descriptor": null,
+          "ordinal": "Décimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "Décimo Segundo",
+          "descriptor": null,
+          "ordinal": "Décimo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "tercero",
+          "descriptor": null,
+          "ordinal": "tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "del artículo 88 del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-tercer",
+          "heading": "Décimo Tercero",
+          "descriptor": null,
+          "ordinal": "Décimo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-cuart",
+          "heading": "Décimo Cuarto",
+          "descriptor": null,
+          "ordinal": "Décimo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-quint",
+          "heading": "Décimo Quinto",
+          "descriptor": null,
+          "ordinal": "Décimo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-sext",
+          "heading": "Décimo Sexto",
+          "descriptor": null,
+          "ordinal": "Décimo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quedan derogadas todas las disposiciones que se opongan a este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para el Control del Tabaco."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 17 de febrero de 2022"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman la fracción II del artículo 5; la fracción X del artículo 6; las fracciones VII y VIII del artículo 12; 23; el primer párrafo del artículo 26; 27; 28; 29; la fracción I del artículo 35; y 44; se adicionan las fracciones X Bis, X Ter y X Quáter al artículo 6; y se derogan el segundo y tercer párrafos del artículo 23; y las fracciones I y II del artículo 27 de la Ley General para el Control del Tabaco, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En términos de lo dispuesto por los artículos 26 y 27 del presente Decreto, los propietarios, administradores o responsables de los establecimientos o lugares con acceso al público, áreas de trabajo, públicas y privadas, deberán ubicar las zonas exclusivas para fumar en espacios no interiores al aire libre en un plazo no mayor a 60 días posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los gobiernos de las Entidades Federativas y de los municipios, deberán adecuar sus leyes, reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las competencias que a cada uno corresponda, para que sean congruentes con lo dispuesto en el presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 14 de diciembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de febrero de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

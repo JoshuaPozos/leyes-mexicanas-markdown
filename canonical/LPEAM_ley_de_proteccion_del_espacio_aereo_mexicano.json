@@ -1,0 +1,1051 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LPEAM_ley_de_proteccion_del_espacio_aereo_mexicano",
+  "abbreviation": "LPEAM",
+  "name": "LEY de Protección del Espacio Aéreo Mexicano",
+  "catalog_number": "093",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf",
+    "pdf_filename_origen": "LPEAM.pdf",
+    "dof_publication": "DOF01/03/2023",
+    "last_reform": "Sin reforma",
+    "captured_at": "2026-04-09T10:35:17.010732+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 1 de marzo de 2023 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "Artículo Único",
+      "descriptor": null,
+      "ordinal": "Artículo Único",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley de Protección del Espacio Aéreo Mexicano, para quedar como sigue:"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "Capítulo I",
+      "descriptor": "Disposiciones generales",
+      "ordinal": "I",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-1",
+          "heading": "Artículo 1",
+          "descriptor": null,
+          "ordinal": "1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La presente Ley es reglamentaria de los artículos 27, 48 y 73, fracción XXIX-M, de la Constitución Política de los Estados Unidos Mexicanos, en materia de seguridad y protección del Espacio Aéreo Mexicano. Sus disposiciones son de observancia general en el territorio nacional, y tienen por objeto establecer y regular las medidas, acciones y procedimientos para preservar la seguridad y la soberanía e independencia nacionales del Espacio Aéreo Mexicano."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-2",
+          "heading": "Artículo 2",
+          "descriptor": null,
+          "ordinal": "2",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Ejecutivo Federal garantiza la soberanía de la Nación sobre el Espacio Aéreo Mexicano por medio de la vigilancia y protección coordinada que sobre éste realizan las distintas dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-3",
+          "heading": "Artículo 3",
+          "descriptor": null,
+          "ordinal": "3",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Secretaría de la Defensa Nacional coordinará la participación de las autoridades correspondientes para que, desde su ámbito de competencia, coadyuven a la vigilancia y protección del Espacio Aéreo Mexicano, en el ámbito que compete a la Seguridad Nacional."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-4",
+          "heading": "Artículo 4",
+          "descriptor": null,
+          "ordinal": "4",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La seguridad relativa a salvaguardar la soberanía en el espacio aéreo sobre territorio nacional se rige por lo previsto en esta Ley, por los tratados internacionales en materia de aeronáutica civil y de protección a los derechos humanos de los que el Estado mexicano sea parte y, a falta de disposición expresa, por la Ley de Aviación Civil, la Ley de Aeropuertos, la Ley Federal de Procedimiento"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-5",
+          "heading": "Artículo 5",
+          "descriptor": null,
+          "ordinal": "5",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para los efectos de la presente Ley, se entenderá por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Aeronave en situación de emergencia: Aeronave que informa o activa un código transponder para reportar fallas de comunicación, emergencias generales o interferencias ilícitas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Aeronave interceptora: Aeronave de Estado que lleva a cabo la interceptación de otra aeronave;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Alertamiento aéreo: Comunicación que realiza el Centro para interceptar un vuelo no autorizado, un vuelo clandestino o una aeronave en situación de emergencia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Aseguramiento: Acción que realiza la Guardia Nacional, las Fuerzas Armadas u otra autoridad, con apoyo del Centro, con el fin de impedir la movilización de una aeronave posada en tierra antes del despegue o inmediatamente después de su aterrizaje como parte de un vuelo clandestino, y solicitar la intervención de la autoridad competente;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Autoridad de control de interceptación: Centro Nacional de Vigilancia y Protección del Espacio Aéreo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Centro: Centro Nacional de Vigilancia y Protección del Espacio Aéreo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Consejo: Consejo Nacional de Vigilancia y Protección del Espacio Aéreo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Detección: Descubrimiento, localización, por cualquier medio, de la presencia de una aeronave en un área determinada, sin vulnerar con ello los derechos fundamentales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Espacio Aéreo Mexicano: El situado sobre territorio nacional, con la extensión y modalidades que establece el derecho internacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Identificación: Proceso mediante el cual se determina la identidad de una aeronave, a través de medios visuales o electrónicos, por correlación de planes de vuelo, por procedimientos establecidos o comunicación en tiempo real entre el Centro, la Agencia Federal de Aviación Civil y los Servicios a la Navegación en el Espacio Aéreo Mexicano;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Interceptación aérea: Procedimiento para llevar una aeronave del Estado al encuentro con otra, con el propósito de identificarla, brindarle ayuda, vigilar su comportamiento, girar instrucciones a la tripulación para retornar a su ruta planeada o para aterrizar en un aeródromo designado, según corresponda, de acuerdo con los procedimientos publicados por la autoridad competente;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Protección del Espacio Aéreo Mexicano: Conjunto de acciones operativas y de carácter legal que se realicen para evitar actos contra la seguridad del territorio nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Secretaría: Secretaría de la Defensa Nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Seguimiento: Contacto continuo visual, electro-óptico o por medio de radar de una aeronave, durante toda su ruta, cuando no se tiene identificada una traza de interés, o una aeronave en vuelo no autorizado, o en vuelo clandestino;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Seguridad del Espacio Aéreo: Las acciones destinadas a la protección del Espacio Aéreo Mexicano frente a amenazas tradicionales y especializadas, como las relacionadas con la delincuencia organizada transnacional, el problema mundial de las drogas, la corrupción, el lavado de activos, el tráfico de armas y las conexiones, entre otras;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Sistema: Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "Zona de Identificación de Defensa Aérea: Área delimitada por la Secretaría dentro del Espacio Aéreo Mexicano para llevar a cabo procedimientos especiales de identificación y notificación de aeronaves, sin menoscabo de los relacionados con la prestación de servicios de tránsito aéreo, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVIII",
+              "text": "Zona de Vigilancia y Protección del Espacio Aéreo: Área delimitada dentro del Espacio Aéreo Mexicano por el Consejo a propuesta de la Secretaría, para la seguridad de eventos oficiales internacionales que se realicen en el territorio nacional, en los que participen jefes de Estado y de gobierno o en los que por su naturaleza sea necesario establecer espacios aéreos con fines de vigilancia aérea y protección del Espacio Aéreo Mexicano."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-6",
+          "heading": "Artículo 6",
+          "descriptor": null,
+          "ordinal": "6",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Secretaría previo acuerdo del Consejo, emitirá las disposiciones técnicas y administrativas necesarias para el cumplimiento de esta Ley, que se publicarán en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "La interpretación de esta Ley para efectos administrativos corresponderá a la Secretaría."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "Capítulo II",
+      "descriptor": "De las Maniobras de Vuelo de las Aeronaves",
+      "ordinal": "II",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-7",
+          "heading": "Artículo 7",
+          "descriptor": null,
+          "ordinal": "7",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro actuará conforme a sus atribuciones al observar alguna de las maniobras de vuelo que se señalan en el presente Capítulo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-8",
+          "heading": "Artículo 8",
+          "descriptor": null,
+          "ordinal": "8",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para efectos de la presente Ley, se considera traza de interés a la lectura del eco radar o avistamiento de una aeronave que realiza alguna de las siguientes conductas:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "No activar su código transponder o apagarlo durante el vuelo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Cambiar de ruta sin motivo aparente;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "No establecer comunicación con los servicios de control de tránsito aéreo previstos por la autoridad aeronáutica o con el Centro;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "No responder a las instrucciones de los servicios de tránsito aéreo de conformidad a los procedimientos publicados por la autoridad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "No contar con información de plan de vuelo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Registrar cambios erráticos de velocidad, altura, rumbo o realizar maniobras inusuales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Sobrevolar una zona restringida, prohibida, peligrosa, de vigilancia y protección del Espacio Aéreo Mexicano y de identificación de defensa aérea;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Existan discrepancias entre el vuelo y lo autorizado en el plan de vuelo, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Cuando una aeronave se encuentre en situación de emergencia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-9",
+          "heading": "Artículo 9",
+          "descriptor": null,
+          "ordinal": "9",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro considerará como vuelo no autorizado, aquel que se encuentre en alguno de los siguientes supuestos:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Cuando la traza de interés no fuera identificada, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Cuando las aeronaves no cuenten con un plan de vuelo autorizado por la autoridad aeronáutica, ni aprobado por los Servicios a la Navegación en el Espacio Aéreo Mexicano."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Se considera vuelo clandestino, cuando la tripulación de una aeronave realiza alguna de las siguientes conductas:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "No cuente con un plan de vuelo autorizado antes del despegue o aprobado durante el vuelo, para evitar ser detectado, eluda o desobedezca a la autoridad, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Cuando incurra durante el protocolo de Interceptación aérea o el Seguimiento, en lo siguiente:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Desacato de las instrucciones de la Aeronave interceptora, del Centro o de los Servicios a la Navegación en el Espacio Aéreo Mexicano;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "No exhiba de manera visible o no sea posible visualizar por medios electro-ópticos los distintivos de nacionalidad y matrícula de la aeronave; porte unos que no le correspondan, o que éstos sean sobrepuestos o alterados;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Aterrice en un lugar distinto al establecido en el plan de vuelo, sin dar aviso oportuno a la autoridad competente de las razones que tuvo para ello, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Se localice la aeronave en cualquier superficie terrestre o marítima, diferente a un aeródromo o helipuerto."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "Capítulo III",
+      "descriptor": "Del Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano",
+      "ordinal": "III",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Sistema tiene por objeto la coordinación entre las dependencias y entidades de la Administración Pública Federal que lo integran, para inhibir y contrarrestar las operaciones aéreas ilícitas que atenten contra la seguridad nacional."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano se integra por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La Secretaría de la Defensa Nacional, quien coordinará el Sistema:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "La Comandancia de la Fuerza Aérea Mexicana, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "La Comandancia del Centro Nacional para la Vigilancia y Protección del Espacio Aéreo."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La Secretaría de Marina:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "La Dirección del Centro de Mando y Control de la Armada de México."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "La Secretaría de Infraestructura, Comunicaciones y Transportes:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "La Agencia Federal de Aviación Civil, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Los Servicios a la Navegación en el Espacio Aéreo Mexicano."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "La Secretaría de Seguridad y Protección Ciudadana:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "La Guardia Nacional, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "El Centro Nacional de Inteligencia."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "La Secretaría de Gobernación:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "El Instituto Nacional de Migración."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv",
+      "heading": "Capítulo IV",
+      "descriptor": "Del Consejo Nacional de Vigilancia y Protección del Espacio Aéreo",
+      "ordinal": "IV",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-13",
+          "heading": "Artículo 13",
+          "descriptor": null,
+          "ordinal": "13",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Consejo es la instancia superior responsable de emitir las políticas de coordinación e intercambio de información entre las dependencias y entidades de la Administración Pública Federal para garantizar la protección del Espacio Aéreo Mexicano, bajo los principios de legalidad y de certeza jurídica."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-14",
+          "heading": "Artículo 14",
+          "descriptor": null,
+          "ordinal": "14",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Consejo estará integrado por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La persona titular de la Presidencia de la República, quien lo presidirá;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "La persona titular de la Secretaría de Relaciones Exteriores;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "La persona titular de la Secretaría de la Defensa Nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "La persona titular de la Secretaría de Marina;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "La persona titular de la Secretaría de Seguridad y Protección Ciudadana;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "La persona titular de la Secretaría de Infraestructura, Comunicaciones y Transportes, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "La persona titular de la Comandancia del Centro Nacional de Vigilancia y Protección del Espacio Aéreo, quien fungirá como titular de la Secretaría Técnica del Consejo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-15",
+          "heading": "Artículo 15",
+          "descriptor": null,
+          "ordinal": "15",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las personas integrantes del Consejo contarán con voz y voto y no recibirán remuneración alguna por su participación en el mismo."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las personas integrantes del Consejo podrán designar por escrito a su respectivo suplente, los que no podrán tener un nivel jerárquico inferior al de titular de Dirección General, quienes contarán con voz y voto."
+            },
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Presidencia del Consejo será suplida en sus ausencias por la persona titular de la Secretaría de la Defensa Nacional y quien supla a éste no tendrá derecho a voto."
+            },
+            {
+              "type": "paragraph",
+              "text": "En caso de empate durante la votación la persona titular de la Presidencia del Consejo o su suplente tendrá voto de calidad."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las personas integrantes del Consejo podrán hacerse acompañar del personal técnico que requieran para el tratamiento de los asuntos materia de las sesiones, previa comunicación a la Secretaría Técnica, veinticuatro horas antes de la celebración de la sesión."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Consejo tendrá como personas invitadas permanentes: a la persona titular de la Comandancia de la Fuerza Aérea Mexicana; a la persona titular de la Comandancia de la Guardia Nacional; a la persona titular de la Dirección General de la Agencia Federal de Aviación Civil, y a la persona titular de la Dirección General de Servicios a la Navegación en el Espacio Aéreo Mexicano."
+            },
+            {
+              "type": "paragraph",
+              "text": "También se podrá invitar a la persona titular del Instituto Nacional de Migración; a la persona titular de la Agencia Nacional de Aduanas de México; a la persona titular de la Dirección General del Centro Nacional de Inteligencia; a representantes de universidades públicas y privadas, y a las autoridades que por el ámbito de competencia se estime conveniente."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las personas invitadas tendrán derecho a voz, pero sin voto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-16",
+          "heading": "Artículo 16",
+          "descriptor": null,
+          "ordinal": "16",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Consejo tendrá las atribuciones siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Establecer las bases generales de coordinación entre las dependencias y entidades de la Administración Pública Federal que lo integran para proteger el espacio aéreo y territorio nacional;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Establecer los Procedimientos de actuación para la Detección, Identificación, Interceptación aérea y Seguimiento de aeronaves que se deriven de un Alertamiento aéreo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Acordar con los miembros del Consejo la emisión de medidas o disposiciones técnico administrativas que, en el ámbito de sus respectivas competencias, permitan la coordinación entre las dependencias y entidades de la Administración Pública Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Establecer las políticas de intercambio de información en materia de protección del Espacio Aéreo Mexicano entre las dependencias y entidades de la Administración Pública Federal y las entidades federativas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Emitir el manual de integración y funcionamiento del Consejo, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Ejercer las demás facultades que establezcan otras disposiciones en materia de protección del Espacio Aéreo Mexicano."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-17",
+          "heading": "Artículo 17",
+          "descriptor": null,
+          "ordinal": "17",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Consejo sesionará de manera ordinaria, semestralmente, y de manera extraordinaria, en cualquier momento, a solicitud de cualquiera de sus integrantes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las sesiones deberán ser convocadas por la Secretaría Técnica del Consejo, cuando menos con cuarenta y ocho horas de anticipación."
+            },
+            {
+              "type": "paragraph",
+              "text": "La validez de las sesiones requiere de más del cincuenta por ciento de asistencia de las personas integrantes del Consejo con voz y voto."
+            },
+            {
+              "type": "paragraph",
+              "text": "La validez de los acuerdos que se tomen en las sesiones requerirá de más del cincuenta por ciento de los votos de las personas asistentes del Consejo con voz y voto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las actas y acuerdos que se generen en las sesiones se aprobarán por mayoría de votos de las personas integrantes del Consejo presentes en la sesión. En caso de empate, la persona titular de la Presidencia del Consejo tendrá voto de calidad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-18",
+          "heading": "Artículo 18",
+          "descriptor": null,
+          "ordinal": "18",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La persona titular de la Presidencia del Consejo tendrá las atribuciones siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Dirigir el desarrollo de las sesiones del Consejo, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Propiciar la cooperación y coordinación necesarias entre las personas integrantes del Consejo para la prosecución de los fines del mismo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-19",
+          "heading": "Artículo 19",
+          "descriptor": null,
+          "ordinal": "19",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Secretaría Técnica del Consejo tendrá las facultades siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Elaborar la orden del día de las sesiones, incluyendo las invitaciones que correspondan de acuerdo con los asuntos a desahogarse;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Someter a consideración del Consejo, el programa anual de trabajo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Dar seguimiento e informar al Consejo respecto del cumplimiento de los acuerdos aprobados por éste;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Integrar y preservar la documentación e información que se genere con motivo de las actuaciones del Consejo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Dar seguimiento al programa anual de trabajo emitido por el Consejo e informar a éste de sus avances;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Coadyuvar en la operación y funcionamiento del Consejo, así como atender las solicitudes y requerimientos que éste le ordene, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Ejercer las demás facultades que el Consejo le confiera."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-v",
+      "heading": "Capítulo V",
+      "descriptor": "Del Centro Nacional de Vigilancia y Protección del Espacio Aéreo",
+      "ordinal": "V",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-20",
+          "heading": "Artículo 20",
+          "descriptor": null,
+          "ordinal": "20",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para llevar a cabo las acciones de Alertamiento, Interceptación aérea, Identificación, Seguimiento de trazas de interés y asistencia de aeronaves en emergencia en el Espacio Aéreo Mexicano, se conforma el Centro, dependiente de la Secretaría, que tendrá las facultades siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Operar los medios de Detección, Identificación e Interceptación aérea y salvamento puestos a su disposición, de conformidad con la normatividad aplicable;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Monitorear el Espacio Aéreo Mexicano en coordinación con los Servicios a la Navegación en el Espacio Aéreo Mexicano;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Controlar las operaciones aéreas dentro de las zonas aéreas restringidas, y las zonas de vigilancia y protección del Espacio Aéreo Mexicano, en coordinación con los Servicios a la Navegación en el Espacio Aéreo Mexicano;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Determinar las zonas de identificación de defensa aérea y las zonas de vigilancia y protección del Espacio Aéreo Mexicano, mismas que se publicarán en el Diario Oficial de la Federación y en la Publicación de Información Aeronáutica;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Emitir la declaratoria de Alertamiento aéreo, a efecto de que se lleven a cabo las acciones de protección del Espacio Aéreo Mexicano, de conformidad con los protocolos que emita el Consejo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Coordinar y ejecutar la Interceptación aérea de aeronaves en el Espacio Aéreo Mexicano;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Recibir las notificaciones de Identificación de las aeronaves en una Zona de Identificación de Defensa Aérea;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Emitir opinión en la expedición de medidas y normas respecto al tráfico aéreo que afecte la protección del Espacio Aéreo Mexicano en términos de esta Ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Notificar a las autoridades competentes los hechos en los que se vean involucradas las tripulaciones, propietarios, prestadores de servicios, aeronaves y aeródromos, como resultado del ejercicio de las atribuciones a que se refiere esta Ley, a efecto de que se inicien las acciones legales que procedan, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Notificar a los integrantes del Sistema que resulten competentes que una traza de interés o aeronave está siendo objeto de una Interceptación aérea, a efecto de que tomen las acciones que correspondan."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vi",
+      "heading": "Capítulo VI",
+      "descriptor": "Del Procedimiento de Interceptación",
+      "ordinal": "VI",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-21",
+          "heading": "Artículo 21",
+          "descriptor": null,
+          "ordinal": "21",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro activará su procedimiento de Interceptación aérea cuando:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Por sus propios medios aéreos y sistemas de Detección, detecte u observe una traza de interés, un vuelo no autorizado o un vuelo clandestino, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Al ser informado por los Servicios a la Navegación en el Espacio Aéreo Mexicano de la Detección de una traza de interés, un vuelo no autorizado."
+            },
+            {
+              "type": "paragraph",
+              "text": "En ambos casos se establecerá la coordinación de comunicación de información en tiempo real para identificar y dar Seguimiento a la aeronave o las causas de una traza de interés, un vuelo no autorizado o un vuelo clandestino."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-22",
+          "heading": "Artículo 22",
+          "descriptor": null,
+          "ordinal": "22",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro comunicará el Alertamiento aéreo a las autoridades competentes bajo las siguientes circunstancias:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Cuando no le es posible determinar la identidad de una traza de interés;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Cuando los Servicios a la Navegación en el Espacio Aéreo Mexicano comunique al Centro la existencia de un vuelo no autorizado, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Cuando una autoridad extranjera comparta información relacionada con un vuelo no autorizado o clandestino con dirección al espacio aéreo nacional."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-23",
+          "heading": "Artículo 23",
+          "descriptor": null,
+          "ordinal": "23",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El procedimiento de Interceptación aérea en el espacio aéreo nacional tendrá como premisa el uso flexible del Espacio Aéreo Mexicano, conforme a lo establecido por la Organización de Aviación Civil Internacional, por lo que, cuando el Centro declare un Alertamiento aéreo lo notificará de manera simultánea a la autoridad aeronáutica y a los Servicios a la Navegación en el Espacio Aéreo Mexicano. Para este fin, los Servicios a la Navegación en el Espacio Aéreo Mexicano segregarán el espacio aéreo en favor de las aeronaves en cumplimiento de estas acciones, las cuales tendrán prioridad para el cumplimiento de su misión."
+            },
+            {
+              "type": "paragraph",
+              "text": "En los casos de Alertamiento aéreo en los cuales los Servicios a la Navegación en el Espacio Aéreo Mexicano no disponga de información del vuelo no autorizado, el Centro compartirá la información disponible como medida de Seguridad del Espacio Aéreo y protección a la aviación civil."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-24",
+          "heading": "Artículo 24",
+          "descriptor": null,
+          "ordinal": "24",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Una vez interceptada la aeronave, la tripulación de la Aeronave interceptora aplicará el protocolo de Interceptación aérea de conformidad a las normas que expida la autoridad aeronáutica."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-25",
+          "heading": "Artículo 25",
+          "descriptor": null,
+          "ordinal": "25",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El procedimiento de Interceptación aérea finaliza cuando el vuelo no autorizado o clandestino abandone el Espacio Aéreo Mexicano o aterrice dentro del territorio nacional. En tal caso, el Centro establecerá la coordinación con las autoridades competentes para el ejercicio de sus respectivas atribuciones."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-26",
+          "heading": "Artículo 26",
+          "descriptor": null,
+          "ordinal": "26",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Centro requerirá a la autoridad aeronáutica y a las demás autoridades que tengan injerencia en las actividades de vigilancia y protección del Espacio Aéreo Mexicano lo siguiente:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Los documentos que amparen que una aeronave cuenta con los certificados y licencia vigentes de conformidad con la Ley de Aviación Civil, a fin de verificar físicamente que corresponde a las capacidades de vuelo de la tripulación y a las marcas de nacionalidad, matrícula, placas de número de serie que ostenta la aeronave y características acorde al uso autorizado;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Los permisos correspondientes de los talleres aeronáuticos de aeronaves y los centros de producción, en el caso de fábricas de aeronaves no tripuladas, para las actividades que realizan;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Los documentos que amparen que los aeródromos cumplen con las condiciones de Seguridad del Espacio Aéreo y operaciones previstas en las disposiciones aplicables, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "La información respecto a pasajeros, tripulaciones y aeronaves a quienes presten servicio en territorio nacional."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cuando se adviertan irregularidades o inconsistencias de la información a que hacen referencia las fracciones anteriores, el Centro solicitará a la autoridad competente para que, previo procedimiento, determine lo conducente conforme a la legislación aplicable."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones que se opongan a la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal del que se trate."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Consejo Nacional de Vigilancia y Protección del Espacio Aéreo emitirá los procedimientos de actuación y de coordinación para la aplicación de esta Ley dentro de los 180 días posteriores a su entrada en vigor."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 22 de febrero de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de febrero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

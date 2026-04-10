@@ -1,0 +1,1710 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LEMEFAGN_ley_de_educacion_militar_del_ejercito_fuerza_aerea_y_guardia_nacional",
+  "abbreviation": "LEMEFAGN",
+  "name": "LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional (Antes \"Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos\")",
+  "catalog_number": "046",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf",
+    "pdf_filename_origen": "LEMEFAGN.pdf",
+    "dof_publication": "DOF23/12/2005",
+    "last_reform": "DOF 16/07/2025",
+    "captured_at": "2026-04-09T09:47:44.681053+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "(Antes “Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos”) Nueva Ley publicada en el Diario Oficial de la Federación el 23 de diciembre de 2005 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "Artículo Único",
+      "descriptor": null,
+      "ordinal": "Artículo Único",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional."
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación de la Ley reformada DOF 16-07-2025",
+          "action": "reformado",
+          "dof_date": "16-07-2025"
+        },
+        {
+          "type": "reform_note",
+          "text": "Denominación de la Ley reformada DOF 16-07-2025",
+          "action": "reformado",
+          "dof_date": "16-07-2025"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "CAPÍTULO I",
+      "descriptor": "DE LAS DISPOSICIONES GENERALES",
+      "ordinal": "I",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-1",
+          "heading": "Artículo 1",
+          "descriptor": null,
+          "ordinal": "1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La presente Ley tiene por objeto regular la Educación que imparte la Secretaría de la Defensa Nacional, orientada al conocimiento y aplicación de la ciencia y el arte militar, así como otras afines a las necesidades del Ejército y Fuerza Aérea Mexicanos, aplicable en igualdad de oportunidades y de trato entre mujeres y hombres."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 22-05-2018",
+              "action": "reformado",
+              "dof_date": "22-05-2018"
+            },
+            {
+              "type": "paragraph",
+              "text": "La educación de la Guardia Nacional estará orientada al conocimiento y aplicación en materia de seguridad pública, con enfoque de derechos humanos e interseccionalidad y con perspectivas de género e intercultural; en igualdad de oportunidades y de trato entre mujeres y hombres."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "paragraph",
+              "text": "La aplicación de esta Ley corresponde a la Secretaría de la Defensa Nacional, por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo reformado DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-2",
+          "heading": "Artículo 2",
+          "descriptor": null,
+          "ordinal": "2",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para los efectos de esta Ley, se entenderá por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Ley, la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Secretaría, la Secretaría de la Defensa Nacional, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Dirección y Rectoría, la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-3",
+          "heading": "Artículo 3",
+          "descriptor": null,
+          "ordinal": "3",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría establecerá las directivas relacionadas con la filosofía, políticas educativas, objetivos y líneas de acción para el Sistema Educativo Militar."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-4",
+          "heading": "Artículo 4",
+          "descriptor": null,
+          "ordinal": "4",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Educación Militar tiene como finalidad formar militares para la práctica y el ejercicio del mando y la realización de actividades de docencia, difusión de la cultura e investigación para el Ejército, Fuerza Aérea y Guardia Nacional, inculcándoles el amor a la patria, la lealtad institucional, la honestidad, la conciencia de servicio y superación y la responsabilidad de difundir a las nuevas generaciones los valores y conocimientos recibidos, así como el respeto de los derechos humanos y el criterio intercultural en la educación."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 17-01-2022, 16-07-2025",
+              "action": "reformado",
+              "dof_date": "17-01-2022"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-5",
+          "heading": "Artículo 5",
+          "descriptor": null,
+          "ordinal": "5",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los objetivos de la Educación Militar son los siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Desarrollar armónica e integralmente al personal del Ejército, Fuerza Aérea y Guardia Nacional;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y de reflexión crítica;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Vincular permanentemente la educación y adiestramiento de los militares;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Promover la conciencia institucional, los valores y la doctrina militar y policial, según corresponda;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Fomentar el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto de los mismos, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Fortalecer el conocimiento enfocado a la preservación de la salud y la protección al medio ambiente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-6",
+          "heading": "Artículo 6",
+          "descriptor": null,
+          "ordinal": "6",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Universidad del Ejército y Fuerza Aérea tiene las finalidades siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Impartir al personal militar los conocimientos científicos, técnicos, humanísticos, interculturales y de derechos humanos, a nivel de educación medio superior y superior para el cumplimiento de las misiones de las armas y servicios propios del Ejército y Fuerza Aérea Mexicanos;"
+            },
+            {
+              "type": "paragraph",
+              "text": "Además de lo anterior, la formación policial al personal de Guardia Nacional;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-01-2022",
+              "action": "reformado",
+              "dof_date": "17-01-2022"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Realizar investigaciones científicas en lo general, relacionadas con el avance de la ciencia, el arte militar, así como en materia de seguridad pública;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Formar docentes para las diversas asignaturas que imparten las Instituciones de Educación Militar, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Difundir y enriquecer la cultura del personal del Ejército, Fuerza Aérea y Guardia Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-7",
+          "heading": "Artículo 7",
+          "descriptor": null,
+          "ordinal": "7",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Universidad del Ejército y Fuerza Aérea depende de la Secretaría, a través de la Dirección General de Educación Militar, misma que ejercerá la función de Rectoría."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-8",
+          "heading": "Artículo 8",
+          "descriptor": null,
+          "ordinal": "8",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Secretaría satisface sus necesidades de recursos humanos profesionales, a través de la educación militar, a fin de estar en capacidad de cumplir con las misiones generales del Ejército y Fuerza Aérea; así como, los fines y atribuciones de la Guardia Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-9",
+          "heading": "Artículo 9",
+          "descriptor": null,
+          "ordinal": "9",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Dirección y Rectoría dispondrá de los recursos presupuestales que le sean asignados por conducto de la Secretaría."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "CAPÍTULO II",
+      "descriptor": "DEL SISTEMA EDUCATIVO MILITAR",
+      "ordinal": "II",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El Sistema Educativo Militar es el conjunto de instituciones educativas que imparten conocimientos castrenses y policiales de distintos propósitos, tipos y niveles y modalidades, condicionados a una filosofía, doctrina e infraestructura militares propias del Ejército, Fuerza Aérea y Guardia Nacional, bajo la conducción de la Dirección y Rectoría."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los objetivos del Sistema Educativo Militar son los siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Mejorar los niveles de eficiencia terminal, la calidad educativa y el aprovechamiento académico, optimizando los recursos humanos, materiales, técnicos y financieros disponibles;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Fortalecer mediante un proceso continuo y permanente el desarrollo profesional del personal del Ejército, Fuerza Aérea y Guardia Nacional en un marco de calidad educativa;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Proporcionar al personal del Ejército, Fuerza Aérea y Guardia Nacional, los servicios educativos que corresponden a su jerarquía y especialidad;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Impartir los conocimientos y desarrollar las habilidades necesarias para fortalecer las capacidades de planeo y ejecución de operaciones militares y policiales combinadas y conjuntas;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Desarrollar y fortalecer el conocimiento mediante la práctica de los valores y las virtudes, como parte fundamental de la formación militar y policial;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Impulsar, organizar y normar las actividades de investigación sobre el arte y ciencia de la guerra, así como aspectos técnicos y científicos de los servicios del Ejército y Fuerza Aérea Mexicanos;"
+            },
+            {
+              "type": "paragraph",
+              "text": "Además de lo anterior, las actividades de investigación y aspectos técnicos y científicos relacionados con la Guardia Nacional;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Párrafo adicionado DOF 16-07-2025",
+              "action": "adicionado",
+              "dof_date": "16-07-2025"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Elevar el nivel de cultura y académico de los recursos humanos del Ejército, Fuerza Aérea y Guardia Nacional, con base en el respeto de los derechos humanos y el criterio intercultural, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 17-01-2022, 16-07-2025",
+              "action": "reformado",
+              "dof_date": "17-01-2022"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Proporcionar en forma oportuna y secuencial la formación orientada a la función específica que habrá de cumplir el personal militar."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La función del Sistema Educativo Militar es adquirir, transmitir y acrecentar la cultura castrense que contribuya al desarrollo integral del militar profesional para el cumplimiento de los deberes que le impone el servicio de las armas y, en su caso, los fines de la Guardia Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-13",
+          "heading": "Artículo 13",
+          "descriptor": null,
+          "ordinal": "13",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para los efectos de Ley, el Sistema Educativo Militar está constituido por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Los discentes, docentes y personal de apoyo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Las Autoridades Educativas Militares;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "El Plan General de Educación Militar, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Las Instituciones de Educación Militar."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los integrantes del Sistema Educativo Militar serán regulados por los reglamentos que en su caso se expidan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-14",
+          "heading": "Artículo 14",
+          "descriptor": null,
+          "ordinal": "14",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las Instituciones de Educación Militar se clasifican en:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Colegios;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Escuelas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Centros de Estudios;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 22-11-2021",
+              "action": "reformado",
+              "dof_date": "22-11-2021"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Unidades-Escuela, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 22-11-2021",
+              "action": "reformado",
+              "dof_date": "22-11-2021"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Institutos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 22-11-2021",
+              "action": "adicionado",
+              "dof_date": "22-11-2021"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-15",
+          "heading": "Artículo 15",
+          "descriptor": null,
+          "ordinal": "15",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los reglamentos de las Instituciones de Educación Militar, especificarán además la misión, valores, objetivos, organización, funciones, tipos y niveles y, en su caso las modalidades educativas de los cursos que impartan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-16",
+          "heading": "Artículo 16",
+          "descriptor": null,
+          "ordinal": "16",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los cursos del Sistema Educativo Militar por su propósito se clasifican en:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "De Formación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "De Capacitación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "De Aplicación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "De Perfeccionamiento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "De Actualización, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "De Especialización."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "CAPÍTULO III",
+      "descriptor": "DEL PROCESO EDUCATIVO",
+      "ordinal": "III",
+      "content": [],
+      "children": [
+        {
+          "type": "seccion",
+          "id": "capitulo-iii.seccion-primera",
+          "heading": "SECCIÓN PRIMERA",
+          "descriptor": "DE LOS TIPOS Y MODALIDADES DE LA EDUCACIÓN MILITAR",
+          "ordinal": "PRIMERA",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-primera.articulo-17",
+              "heading": "Artículo 17",
+              "descriptor": null,
+              "ordinal": "17",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El proceso educativo será realizado en los términos de esta Ley, por los Institutos, Colegios, Escuelas Militares, Centros de Estudios, Unidades-Escuela y Dependencias de la Secretaría que tengan asignada la responsabilidad de impartir cursos considerados en el Plan General de Educación Militar."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 22-11-2021",
+                  "action": "reformado",
+                  "dof_date": "22-11-2021"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-primera.articulo-18",
+              "heading": "Artículo 18",
+              "descriptor": null,
+              "ordinal": "18",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Sistema Educativo Militar impartirá educación del tipo superior, medio superior y de capacitación para el trabajo, en los términos que establecen esta Ley y las disposiciones legales respectivas."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-primera.articulo-19",
+              "heading": "Artículo 19",
+              "descriptor": null,
+              "ordinal": "19",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los tipos y niveles, así como las modalidades educativas serán indicados en los Planes de Estudio de los respectivos cursos, de conformidad con el Plan General de Educación Militar."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-primera.articulo-19",
+              "heading": "Artículo 19",
+              "descriptor": null,
+              "ordinal": "19",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "Bis.- El Programa Anual de Capacitación de la Guardia Nacional, se ajustará en lo conducente a los lineamientos del Programa Rector de Profesionalización emitido por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El programa de capacitación y profesionalización de la Guardia Nacional, determinará los cursos que deban realizarse para conformar la ruta profesional del personal de dicha fuerza de seguridad pública."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El personal de la Guardia Nacional deberá completar su capacitación y profesionalización policial correspondiente de manera obligatoria, de conformidad con las leyes, reglamentos, manuales y demás disposiciones relativas."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo adicionado DOF 16-07-2025",
+                  "action": "adicionado",
+                  "dof_date": "16-07-2025"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "seccion",
+          "id": "capitulo-iii.seccion-segunda",
+          "heading": "SECCIÓN SEGUNDA",
+          "descriptor": "DE LA PLANEACIÓN INSTITUCIONAL",
+          "ordinal": "SEGUNDA",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-segunda.articulo-20",
+              "heading": "Artículo 20",
+              "descriptor": null,
+              "ordinal": "20",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Planeación Institucional será realizada por las Autoridades Educativas Militares de conformidad con los procedimientos que especifique el reglamento respectivo de esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-segunda.articulo-21",
+              "heading": "Artículo 21",
+              "descriptor": null,
+              "ordinal": "21",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El proceso educativo que impartan las Instituciones de Educación Militar será de conformidad a las normas técnico-didácticas que expida la Dirección y Rectoría."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-segunda.articulo-22",
+              "heading": "Artículo 22",
+              "descriptor": null,
+              "ordinal": "22",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los planes de estudio tendrán una vigencia mínima igual al tiempo que duren los estudios a que se refieran más un cincuenta por ciento del mismo, sin detrimento de que los programas derivados de éste, sean realizadas las adecuaciones necesarias para asegurar su actualización."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "seccion",
+          "id": "capitulo-iii.seccion-tercera",
+          "heading": "SECCIÓN TERCERA",
+          "descriptor": "DE LA ORGANIZACIÓN E INTEGRACIÓN EDUCACIONAL",
+          "ordinal": "TERCERA",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-tercera.articulo-23",
+              "heading": "Artículo 23",
+              "descriptor": null,
+              "ordinal": "23",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Dirección y Rectoría expedirá las normas técnico-didácticas aplicables en el proceso educativo, de conformidad al tipo y nivel y modalidades educativas, capacitando al personal responsable de las Instituciones del Sistema Educativo Militar en su aplicación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-tercera.articulo-24",
+              "heading": "Artículo 24",
+              "descriptor": null,
+              "ordinal": "24",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Secretaría proveerá los recursos necesarios para garantizar que las Instituciones del Sistema Educativo Militar cumplan la función Educativa."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "seccion",
+          "id": "capitulo-iii.seccion-cuarta",
+          "heading": "SECCIÓN CUARTA",
+          "descriptor": "DE LA EVALUACIÓN INSTITUCIONAL",
+          "ordinal": "CUARTA",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-cuarta.articulo-25",
+              "heading": "Artículo 25",
+              "descriptor": null,
+              "ordinal": "25",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Dirección y Rectoría expedirá las normas técnico-didácticas para regular los procedimientos de evaluación institucional."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-cuarta.articulo-26",
+              "heading": "Artículo 26",
+              "descriptor": null,
+              "ordinal": "26",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Dirección y Rectoría establecerá los mecanismos adecuados para evaluar permanentemente los resultados del proceso educativo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iii.seccion-cuarta.articulo-27",
+              "heading": "Artículo 27",
+              "descriptor": null,
+              "ordinal": "27",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La evaluación del proceso educativo estará dirigida a diagnosticar el cumplimiento de los objetivos de la Educación Militar y la calidad de los servicios educativos que proporcione por sí o por medio de otras instituciones."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv",
+      "heading": "CAPÍTULO IV",
+      "descriptor": "DE LA ADMISIÓN",
+      "ordinal": "IV",
+      "content": [],
+      "children": [
+        {
+          "type": "seccion",
+          "id": "capitulo-iv.seccion-primera",
+          "heading": "SECCIÓN PRIMERA",
+          "descriptor": "DE LOS ASPIRANTES NACIONALES",
+          "ordinal": "PRIMERA",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-primera.articulo-28",
+              "heading": "Artículo 28",
+              "descriptor": null,
+              "ordinal": "28",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El proceso de admisión a las Instituciones de Educación Militar se señalará en el reglamento respectivo de esta Ley, en el que se deberá promover la igualdad de oportunidades entre mujeres y hombres."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 22-05-2018",
+                  "action": "reformado",
+                  "dof_date": "22-05-2018"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-primera.articulo-29",
+              "heading": "Artículo 29",
+              "descriptor": null,
+              "ordinal": "29",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Todo mexicano tiene derecho a ingresar a las Instituciones que integran el Sistema Educativo Militar, de conformidad con las disposiciones legales y reglamentarias aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-primera.articulo-30",
+              "heading": "Artículo 30",
+              "descriptor": null,
+              "ordinal": "30",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El ingreso a las Instituciones de Educación Militar será mediante concurso de selección, cuyos procedimientos de planeación y ejecución estarán a cargo de la Dirección y Rectoría."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-primera.articulo-31",
+              "heading": "Artículo 31",
+              "descriptor": null,
+              "ordinal": "31",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Secretaría determinará los cursos que, de acuerdo a la naturaleza de los mismos, no requieran para el ingreso un proceso de selección."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "seccion",
+          "id": "capitulo-iv.seccion-segunda",
+          "heading": "SECCIÓN SEGUNDA",
+          "descriptor": "DE LOS EXTRANJEROS",
+          "ordinal": "SEGUNDA",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-segunda.articulo-32",
+              "heading": "Artículo 32",
+              "descriptor": null,
+              "ordinal": "32",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Secretaría ofrecerá los cursos a los Ministerios de Defensa de otros países para que el personal extranjero realice estudios en las Instituciones de Educación Militar."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-segunda.articulo-33",
+              "heading": "Artículo 33",
+              "descriptor": null,
+              "ordinal": "33",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El personal extranjero que ingrese al Sistema Educativo Militar deberá sujetarse a los requisitos que emita la Secretaría en la convocatoria respectiva."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-segunda.articulo-34",
+              "heading": "Artículo 34",
+              "descriptor": null,
+              "ordinal": "34",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los becarios extranjeros estarán sujetos a las disposiciones académicas, disciplinarias y administrativas que para el efecto señalen los reglamentos de las Instituciones de Educación Militar en donde realicen sus estudios."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-segunda.articulo-35",
+              "heading": "Artículo 35",
+              "descriptor": null,
+              "ordinal": "35",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los militares extranjeros becados en el Sistema Educativo Militar conservarán la jerarquía asignada por las fuerzas armadas de su país."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-segunda.articulo-36",
+              "heading": "Artículo 36",
+              "descriptor": null,
+              "ordinal": "36",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Las Autoridades Educativas Militares expedirán al personal becario extranjero los documentos que acrediten satisfactoriamente la conclusión de sus estudios de conformidad al curso realizado."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-segunda.articulo-37",
+              "heading": "Artículo 37",
+              "descriptor": null,
+              "ordinal": "37",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El personal becario extranjero deberá reincorporarse a su país de origen y por ningún motivo podrá pertenecer o permanecer en el Ejército, Fuerza Aérea o Guardia Nacional, una vez finalizados sus estudios o causado baja de la Institución de Educación Militar correspondiente."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 16-07-2025",
+                  "action": "reformado",
+                  "dof_date": "16-07-2025"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-segunda.articulo-38",
+              "heading": "Artículo 38",
+              "descriptor": null,
+              "ordinal": "38",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Secretaría determinará sobre el alta, baja, permisos o solicitudes del personal becario extranjero."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "seccion",
+          "id": "capitulo-iv.seccion-tercera",
+          "heading": "SECCIÓN TERCERA",
+          "descriptor": "DE LOS MILITARES MEXICANOS EN EL EXTRANJERO",
+          "ordinal": "TERCERA",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-tercera.articulo-39",
+              "heading": "Artículo 39",
+              "descriptor": null,
+              "ordinal": "39",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La Secretaría podrá convocar al personal militar para realizar cursos en el extranjero en calidad de becarios, efectuando el proceso de selección respectivo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-tercera.articulo-40",
+              "heading": "Artículo 40",
+              "descriptor": null,
+              "ordinal": "40",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los militares que obtengan la calidad de becarios observarán las disposiciones legales del país donde se encuentren realizando sus estudios."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-iv.seccion-tercera.articulo-41",
+              "heading": "Artículo 41",
+              "descriptor": null,
+              "ordinal": "41",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El personal militar con calidad de becario en el extranjero será controlado por la Agregaduría Militar de México en el país anfitrión y, para el caso de que no se cuente con este tipo de representación, la Secretaría se encargará directamente de su control."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-v",
+      "heading": "CAPÍTULO V",
+      "descriptor": "DE LA ACREDITACIÓN, CERTIFICACIÓN Y REVALIDACIÓN DE ESTUDIOS",
+      "ordinal": "V",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-42",
+          "heading": "Artículo 42",
+          "descriptor": null,
+          "ordinal": "42",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Dirección y Rectoría dictaminará sobre la compatibilidad de los estudios realizados fuera del Sistema Educativo Militar, de conformidad al procedimiento que especifique el reglamento respectivo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-43",
+          "heading": "Artículo 43",
+          "descriptor": null,
+          "ordinal": "43",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Dirección y Rectoría gestionará el reconocimiento de validez oficial de estudios que sean impartidos en el Sistema Educativo Militar, así como el registro y expedición de la cédula correspondiente, cuando ésta sea necesaria para el ejercicio profesional en términos de la legislación aplicable."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-44",
+          "heading": "Artículo 44",
+          "descriptor": null,
+          "ordinal": "44",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los estudios realizados en el Sistema Educativo Militar podrán, en su caso, declararse equivalentes por niveles académicos de conformidad con las disposiciones legales y reglamentarias aplicables al caso."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-45",
+          "heading": "Artículo 45",
+          "descriptor": null,
+          "ordinal": "45",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Dirección y Rectoría establecerá un sistema de créditos, el cual permitirá la revalidación de estudios de nivel superior entre las diferentes Instituciones del Sistema Educativo Militar, de conformidad al reglamento en la materia de esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-46",
+          "heading": "Artículo 46",
+          "descriptor": null,
+          "ordinal": "46",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Las Autoridades Educativas Militares expedirán certificados, constancias, diplomas, títulos y grados académicos a quienes hayan concluido satisfactoriamente sus estudios, de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-47",
+          "heading": "Artículo 47",
+          "descriptor": null,
+          "ordinal": "47",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- La Dirección y Rectoría establecerá los procedimientos por medio de los cuales expedirá certificados y dictámenes técnicos a quienes acrediten conocimientos adquiridos de manera autodidacta o por experiencia laboral, en relación con los empleos y especialidades del Ejército, Fuerza Aérea y Guardia Nacional."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 16-07-2025",
+              "action": "reformado",
+              "dof_date": "16-07-2025"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vi",
+      "heading": "CAPÍTULO VI",
+      "descriptor": "DE LAS INFRACCIONES Y SANCIONES",
+      "ordinal": "VI",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-48",
+          "heading": "Artículo 48",
+          "descriptor": null,
+          "ordinal": "48",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Para los efectos de esta Ley, se consideran como infracciones del personal directivo, académico, administrativo y docente del Sistema Educativo Militar, las siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Incumplir las obligaciones que les impongan los reglamentos de esta Ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Suspender las actividades académicas sin motivo justificado;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Difundir antes de su aplicación los exámenes o cualquier otro instrumento de evaluación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Expedir certificados, constancias, diplomas, grados o títulos de estudios sin la autorización de la Dirección y Rectoría;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Permitir o realizar actividades de publicidad o comercialización dentro de las Instituciones de Educación Militar de bienes o servicios notoriamente ajenos al proceso educativo, e"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Incumplir cualquiera de los preceptos de esta Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-49",
+          "heading": "Artículo 49",
+          "descriptor": null,
+          "ordinal": "49",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- El personal directivo, académico, administrativo y docente del Sistema Educativo Militar que incurra en las infracciones previstas en el Artículo anterior, será sancionado de conformidad con las leyes y reglamentos militares y disposiciones que dicte la Secretaría y, en su caso, quedará sujeto al Fuero de Guerra."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-50",
+          "heading": "Artículo 50",
+          "descriptor": null,
+          "ordinal": "50",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- No serán aplicables las disposiciones del Artículo 48 de esta Ley, a los profesores civiles que presten sus servicios en el Sistema Educativo Militar, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas establecidas en su nombramiento."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-51",
+          "heading": "Artículo 51",
+          "descriptor": null,
+          "ordinal": "51",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ".- Los discentes de las Instituciones de Educación Militar estarán sujetos a los reglamentos y disposiciones que la Secretaría emita para el caso y, quedarán sujetos al Fuero de Guerra."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los nacionales civiles o extranjeros que realicen estudios en el Sistema Educativo Militar, no estarán sujetos al Fuero de Guerra."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abrogan todas las disposiciones que se opongan a la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 10 de noviembre de 2005.- Sen. Enrique Jackson Ramírez, Presidente.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Heliodoro Díaz Escárraga, Presidente.- Sen. Yolanda E. González Hernández, Secretaria.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "Patricia Garduño Morales, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de diciembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman los artículos 1 y 28 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 22 de mayo de 2018"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 1, párrafo primero y 28 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 5 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Sofía del Sagrario De León Maza, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de mayo de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas disposiciones de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 17, y se adiciona una fracción V al artículo 14 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 14 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Olga Sánchez Cordero Dávila, Presidenta.- Dip. Jessica María Guadalupe Ortega de la Cruz, Secretaria.- Sen. María Celeste Sánchez Sugía, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas disposiciones de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 17 de enero de 2022"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-unic",
+          "heading": "Artículo Único",
+          "descriptor": null,
+          "ordinal": "Artículo Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 4; 6, fracción I, y 11, fracción VII de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 9 de diciembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Jessica María Guadalupe Ortega de la Cruz, Secretaria.- Sen. María Celeste Sánchez Sugía, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal;"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 16 de julio de 2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-cuart",
+          "heading": "Artículo Cuarto",
+          "descriptor": null,
+          "ordinal": "Artículo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 1, actual párrafo segundo; 2, fracciones I y III; 4; 5, fracciones I y IV; 6, fracciones II, III y IV; 8; 10; 11, fracciones II, III, IV, V y VII; 12; 37 y 47, así como la denominación de la ley, y se adicionan a los artículos 1, un párrafo segundo, recorriéndose en su orden el subsecuente; 6, fracción I, un párrafo segundo; 11, fracción VI, un párrafo segundo y el artículo 19 Bis de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 30 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

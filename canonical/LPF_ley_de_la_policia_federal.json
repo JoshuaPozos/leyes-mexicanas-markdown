@@ -1,0 +1,3192 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LPF_ley_de_la_policia_federal",
+  "abbreviation": "LPF",
+  "name": "LEY de la Policía Federal",
+  "catalog_number": "075",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf",
+    "pdf_filename_origen": "LPF.pdf",
+    "dof_publication": "DOF01/06/2009",
+    "last_reform": "DOF 14/11/2025",
+    "captured_at": "2026-04-09T10:35:35.122011+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "Nueva Ley publicada en el Diario Oficial de la Federación el 1 de junio de 2009 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "Artículo Único",
+      "descriptor": null,
+      "ordinal": "Artículo Único",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley de la Policía Federal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ley de la Policía Federal."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-i",
+      "heading": "Capítulo I",
+      "descriptor": "Disposiciones Generales.",
+      "ordinal": "I",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-1",
+          "heading": "Artículo 1",
+          "descriptor": null,
+          "ordinal": "1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La presente Ley es reglamentaria del artículo 21 constitucional, en materia federal en lo relativo a la organización y funcionamiento de la Policía Federal, en el ámbito de competencia que establece esta Ley y las disposiciones aplicables. Es de orden público y de aplicación en todo el territorio nacional."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-2",
+          "heading": "Artículo 2",
+          "descriptor": null,
+          "ordinal": "2",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Policía Federal es un órgano administrativo desconcentrado de la Secretaría de Seguridad Pública, y sus objetivos serán los siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Salvaguardar la vida, la integridad, la seguridad y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Aplicar y operar la política de seguridad pública en materia de prevención y combate de delitos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Prevenir la comisión de los delitos, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Investigar la comisión de delitos bajo la conducción y mando del Ministerio Público de la Federación, en términos de las disposiciones aplicables."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-3",
+          "heading": "Artículo 3",
+          "descriptor": null,
+          "ordinal": "3",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Serán principios rectores en el ejercicio de las funciones y acciones que en materia de prevención y combate de los delitos le competen a la Policía Federal, los de legalidad, objetividad, eficiencia, profesionalismo, honradez y el respeto a las garantías individuales y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-4",
+          "heading": "Artículo 4",
+          "descriptor": null,
+          "ordinal": "4",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para efectos de la presente Ley se entenderá por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Carrera Policial, al Servicio Profesional de Carrera Policial de la Policía Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Centro de Control de Confianza, al Centro de Evaluación y Control de Confianza de la Secretaría;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Consejo Federal, al Consejo Federal de Desarrollo Policial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Integrantes, a los miembros de la Policía Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Ley, a la presente Ley de la Policía Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Ministerio Público, al Ministerio Público de la Federación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Reglamento, al Reglamento de esta ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Secretaría, a la Secretaría de Seguridad Pública del Gobierno Federal, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Secretario, al titular de la Secretaría de Seguridad Pública Federal."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-i.articulo-5",
+          "heading": "Artículo 5",
+          "descriptor": null,
+          "ordinal": "5",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La investigación para la prevención de los delitos, en términos de los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos, es el conjunto sistematizado de acciones y procedimientos encaminados a la planeación, obtención, procesamiento y aprovechamiento de la información, con el propósito exclusivo de evitar la comisión de delitos, con base en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a las garantías individuales y los derechos humanos reconocidos en la Constitución."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ii",
+      "heading": "Capítulo II",
+      "descriptor": "De la Organización y Funcionamiento de la Policía Federal.",
+      "ordinal": "II",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-6",
+          "heading": "Artículo 6",
+          "descriptor": null,
+          "ordinal": "6",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Comisionado General tendrá el más alto rango en la institución de la Policía Federal sobre la cual ejercerá las atribuciones de mando, dirección y disciplina, y será nombrado y removido libremente por el Presidente de los Estados Unidos Mexicanos, a propuesta del Secretario."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-7",
+          "heading": "Artículo 7",
+          "descriptor": null,
+          "ordinal": "7",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para ser Comisionado General de la Policía Federal deberán cumplirse los requisitos siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Ser ciudadano mexicano por nacimiento que no tenga otra nacionalidad, en pleno ejercicio de sus derechos políticos y civiles;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Tener cuando menos treinta y cinco años cumplidos el día de la designación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Contar con título de estudios superiores debidamente registrado;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Tener reconocida capacidad y probidad, no haber sido sentenciado por delito doloso o inhabilitado como servidor público, ni estar sujeto a proceso penal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-8",
+          "heading": "Artículo 8",
+          "descriptor": null,
+          "ordinal": "8",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La Policía Federal tendrá las atribuciones y obligaciones siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Prevenir la comisión de delitos y las faltas administrativas que determinen las leyes federales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Intervenir en materia de seguridad pública, en coadyuvancia con las autoridades competentes, en la observancia y cumplimiento de las leyes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Salvaguardar la integridad de las personas, garantizar, mantener y restablecer el orden y la paz públicos, así como prevenir la comisión de delitos, en:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Las zonas fronterizas y en la tierra firme de los litorales, la parte perteneciente al país de los pasos y puentes limítrofes, las aduanas, recintos fiscales, secciones aduaneras, garitas, puntos de revisión aduaneros, los centros de supervisión y control migratorio, las carreteras federales, las vías férreas, los aeropuertos, los puertos marítimos autorizados para el tráfico internacional, el espacio aéreo y los medios de transporte que operen en las vías generales de comunicación, así como sus servicios auxiliares."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Policía Federal actuará en los recintos fiscales, aduanas, secciones aduaneras, garitas o puntos de revisión aduaneros, en auxilio y coordinación con las autoridades responsables en materia fiscal o de migración, en los términos de la presente Ley y las demás disposiciones legales aplicables;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Los parques nacionales, las instalaciones hidráulicas y vasos de las presas, los embalses de los lagos y los cauces de los ríos;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Los espacios urbanos considerados como zonas federales, así como en los inmuebles, instalaciones y servicios de entidades y dependencias de la federación;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Todos aquellos lugares, zonas o espacios del territorio nacional sujetos a la jurisdicción federal, conforme a lo establecido por las leyes respectivas, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "En todo el territorio nacional en el ámbito de su competencia."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Realizar investigación para la prevención de los delitos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Efectuar tareas de verificación en el ámbito de su competencia, para la prevención de infracciones administrativas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Recabar información en lugares públicos, para evitar el fenómeno delictivo, mediante la utilización de medios e instrumentos y cualquier herramienta que resulten necesarias para la generación de inteligencia preventiva. En el ejercicio de esta atribución se deberá respetar el derecho a la vida privada de los ciudadanos. Los datos obtenidos con afectación a la vida privada carecen de todo valor probatorio;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Llevar a cabo operaciones encubiertas y de usuarios simulados para la prevención de delitos. El Reglamento definirá con precisión los lineamientos mínimos para el ejercicio de esta atribución;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Realizar análisis técnico táctico o estratégico de la información obtenida para la generación de inteligencia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Realizar bajo la conducción y mando del Ministerio Público las investigaciones de los delitos cometidos, así como las actuaciones que le instruya éste o la autoridad jurisdiccional conforme a las normas aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Poner a disposición sin demora de las autoridades competentes, a personas y bienes en los casos en que por motivo de sus funciones practique alguna detención o lleve a cabo algún aseguramiento de bienes, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Verificar la información que reciba sobre hechos que puedan ser constitutivos de delito para, en su caso, remitirla al Ministerio Público;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, en términos de lo aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Participar en la investigación ministerial, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos, así como practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Público;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Efectuar las detenciones conforme lo dispuesto en el artículo 16 de la Constitución Política de los"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Inscribir de inmediato la detención que realice en el Registro Administrativo de Detenciones del Centro Nacional de Información, así como remitir sin demora y por cualquier medio la información al Ministerio Público;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, dando aviso de inmediato al Ministerio Público. Las unidades facultadas para el procesamiento del lugar de los hechos, deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme al procedimiento previamente establecido por éste y en términos de las disposiciones aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVIII",
+              "text": "Solicitar al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIX",
+              "text": "Garantizar que se asiente constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación ministerial deberán elaborar informes sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes que éste le requiera;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XX",
+              "text": "Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXI",
+              "text": "Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Garantizar que reciban atención médica y psicológica cuando sea necesaria;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Adoptar las medidas que se consideren necesarias tendentes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos sin demora al Ministerio Público encargado del asunto para que éste acuerde lo conducente, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXII",
+              "text": "Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIII",
+              "text": "Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación en caso de flagrancia o por mandato del Ministerio Público, en términos de las disposiciones aplicables. De las entrevistas que se practiquen se dejará constancia y se utilizarán meramente como un registro de la investigación, que para tener valor probatorio, deberán ser ratificadas ante la autoridad ministerial o judicial que corresponda;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIV",
+              "text": "Reunir la información que pueda ser útil al Ministerio Público que conozca del asunto, para acreditar el cuerpo del delito y la probable responsabilidad del imputado, conforme a las instrucciones de aquél;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXV",
+              "text": "Incorporar a las bases de datos criminalísticas y de personal de la Secretaría y del Sistema Nacional de Información de Seguridad Pública, la información que pueda ser útil en la investigación de los delitos, y utilizar su contenido para el desempeño de sus atribuciones, sin afectar el derecho de las personas sobre sus datos personales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVI",
+              "text": "Colaborar, cuando así lo soliciten otras autoridades federales, para el ejercicio de sus funciones de vigilancia, verificación e inspección que tengan conferidas por disposición de otras leyes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVII",
+              "text": "Coordinarse en los términos que señala el Sistema Nacional de Seguridad Pública, con las autoridades de los tres órdenes de gobierno, para el intercambio de información contenida en documentos bases de datos o sistemas de información que sea útil al desempeño de sus funciones sin Procedimientos Penales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVIII",
+              "text": "Solicitar por escrito, previa autorización del juez de control en los términos del artículo 16 Constitucional, a los concesionarios, permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones, de sistemas de comunicación vía satélite, la información con que cuenten, así como georreferenciación de los equipos de comunicación móvil en tiempo real, para el cumplimiento de sus fines de prevención de los delitos. La autoridad judicial competente, deberá acordar la solicitud en un plazo no mayor de doce horas a partir de su presentación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIX",
+              "text": "Solicitar por escrito ante el juez de control, en términos del capítulo XI de la presente Ley, la autorización para la intervención de comunicaciones privadas para la investigación de los delitos. La autoridad judicial competente deberá acordar la solicitud en un plazo no mayor de doce horas a partir de su presentación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXX",
+              "text": "Colaborar, cuando sean formalmente requeridas, de conformidad con los ordenamientos constitucionales y legales aplicables, con las autoridades locales y municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro, cuando se vean amenazadas por situaciones que impliquen violencia o riesgo inminente; prevenir la comisión de delitos, así como garantizar, mantener y restablecer la paz y el orden públicos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXI",
+              "text": "Participar en operativos conjuntos con otras autoridades federales, locales o municipales, que se lleven a cabo conforme a lo dispuesto en la legislación relativa al Sistema Nacional de Seguridad Pública;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXII",
+              "text": "Obtener, analizar y procesar información así como realizar las acciones que, conforme a las disposiciones aplicables, resulten necesarias para la prevención de delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes federales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXIII",
+              "text": "Vigilar e inspeccionar, para fines de seguridad pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en ellas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXIV",
+              "text": "Vigilar, supervisar, asegurar y custodiar, a solicitud de la autoridad competente, las instalaciones de los centros federales de detención, reclusión, readaptación y reinserción social, con apego a los derechos humanos reconocidos en la Constitución federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXV",
+              "text": "Levantar las infracciones e imponer las sanciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito en los caminos y puentes federales, así como a la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXVI",
+              "text": "Ejercer, para fines de seguridad pública, la vigilancia e inspección sobre la entrada y salida de mercancías y personas en los aeropuertos, puertos marítimos autorizados para el tráfico internacional, en las aduanas, recintos fiscales, secciones aduaneras, garitas y puntos de revisión aduaneros; así como para los mismos fines sobre el manejo, transporte o tenencia de dichas mercancías en cualquier parte del territorio nacional."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Policía Federal actuará en los recintos fiscales, aduanas, secciones aduaneras, garitas o puntos de revisión aduaneros, en auxilio y coordinación con las autoridades responsables en materia fiscal o de migración, en los términos de la presente Ley y las demás disposiciones legales aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXVII",
+              "text": "Colaborar, a solicitud de las autoridades competentes, con los servicios de protección civil en casos de calamidades, situaciones de alto riesgo o desastres por causas naturales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXVIII",
+              "text": "Ejercer en el ámbito de su competencia, y en coordinación con el Instituto Nacional de Migración, las facultades que en materia migratoria prescriben la Ley General de Población, su Reglamento y demás disposiciones legales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXIX",
+              "text": "Prestar apoyo al Instituto Nacional de Migración para verificar que los extranjeros residentes en territorio nacional cumplan con las obligaciones que establece la Ley General de Población;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XL",
+              "text": "Apoyar el aseguramiento que realice el Instituto Nacional de Migración y, en su caso, resguardar a solicitud del Instituto las estaciones migratorias a los extranjeros que violen la Ley General de Población, cuando el caso lo amerite;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XLI",
+              "text": "Estudiar, planificar y ejecutar los métodos y técnicas de combate a la delincuencia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XLII",
+              "text": "Realizar acciones de vigilancia, identificación, monitoreo y rastreo en la Red Pública de Internet sobre sitios web con el fin de prevenir conductas delictivas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XLIII",
+              "text": "Desarrollar, mantener y supervisar fuentes de información en la sociedad, que permitan obtener datos sobre actividades relacionadas con fenómenos delictivos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XLIV",
+              "text": "Integrar en el Registro Administrativo de Detenciones y demás bases de datos criminalísticos y de personal, las huellas decadactilares y otros elementos distintos a las fotografías y videos para identificar a una persona, solicitando a las autoridades de los tres órdenes de gobierno la información respectiva con que cuenten;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XLV",
+              "text": "Suscribir convenios o instrumentos jurídicos con otras instituciones policiales de los tres órdenes de gobierno y organizaciones no gubernamentales para el desempeño de sus atribuciones, en el marco de la ley;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XLVI",
+              "text": "Colaborar y prestar auxilio a las policías de otros países, en el ámbito de su competencia, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XLVII",
+              "text": "Las demás que le confieran ésta y otras leyes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-9",
+          "heading": "Artículo 9",
+          "descriptor": null,
+          "ordinal": "9",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las Secretarías de Seguridad Pública, de Hacienda y Crédito Público, y de la Función Pública, en el ámbito de sus respectivas competencias, establecerán mecanismos administrativos, presupuestarios y de control, aplicables de manera específica a las funciones y actividades excepcionales de la Policía Federal que requieran realizarse con riesgo o urgencia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-10",
+          "heading": "Artículo 10",
+          "descriptor": null,
+          "ordinal": "10",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Son atribuciones del Comisionado General de la Policía Federal:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Ejercer atribuciones de mando, dirección y disciplina de la corporación policial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Proponer al Secretario la política en materia policial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Vigilar, en el área de su competencia, el cumplimiento de las disposiciones legales y administrativas en materia de protección de derechos humanos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Ejercer los recursos que se aporten para la operación y funcionamiento de la Policía Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Promover la realización de cursos, seminarios o eventos con instituciones nacionales y extranjeras similares a la Policía Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Proponer y celebrar convenios y demás actos jurídicos, así como llevar a cabo todas aquellas actividades directamente relacionadas con el ámbito de competencia de la Policía Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Proponer al Secretario, los anteproyectos de Reglamento, manuales, acuerdos, circulares, memorando, instructivos, bases y demás normas administrativas para el buen funcionamiento de la corporación y sugerir adecuaciones al marco normativo de la Policía Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Proponer al Secretario, los nombramientos de los mandos superiores de la Policía Federal, de acuerdo a lo establecido en esta Ley y su Reglamento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Designar a los integrantes en cargos administrativos o de dirección de la estructura orgánica de la propia institución y relevarlos libremente de los mismos, respetando su grado policial y derechos inherentes a la Carrera Policial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Otorgar, en términos que establezca el Reglamento, los grados policiales homólogos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Adscribir funcionalmente, con la aprobación del Secretario y conforme a esta ley y su Reglamento, las unidades administrativas a su mando, mediante acuerdo publicado en el Diario Oficial de la Federación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Autorizar, previo acuerdo con el Secretario, operaciones encubiertas y de usuarios simulados para desarrollar operaciones de inteligencia para la prevención;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Ser el enlace institucional con organismos policiales gubernamentales y no gubernamentales homólogos, nacionales y extranjeros, que se relacionen con el ámbito de sus atribuciones;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Informar al Secretario, con la periodicidad que él determine, sobre el desempeño de las atribuciones de la Policía Federal y de los resultados alcanzados;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Presidir el Consejo Federal, por sí o por conducto de quien designe;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Establecer la coordinación con autoridades federales, estatales, del Gobierno del Distrito Federal y municipales en el ámbito de su competencia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "Llevar a cabo, previo acuerdo del Secretario, las relaciones de colaboración y auxilio con las autoridades policiales de otros países, conforme a lo establecido en tratados, convenios y acuerdos internacionales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVIII",
+              "text": "Establecer y operar, en el ámbito de su competencia, un sistema de gratificaciones para la investigación preventiva, conforme a la disponibilidad presupuestaria y la obtención de resultados;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIX",
+              "text": "Presentar un informe anual de las actividades realizadas en cumplimiento del programa operativo anual de la Policía Federal, ante las Comisiones del Congreso de la Unión en la materia; y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XX",
+              "text": "Las demás que expresamente las leyes federales le confieran."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-11",
+          "heading": "Artículo 11",
+          "descriptor": null,
+          "ordinal": "11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las relaciones jerárquicas en la Policía Federal, sus estructuras normativas y operativas, su organización territorial, las demás atribuciones de mando, dirección y disciplina, así como otros componentes de su régimen interno, serán determinados en el Reglamento de la presente ley, en términos de lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones jurídicas aplicables."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-12",
+          "heading": "Artículo 12",
+          "descriptor": null,
+          "ordinal": "12",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". En el desempeño de sus atribuciones y obligaciones, la Policía Federal y su Comisionado General tendrán el apoyo de las unidades administrativas que establezca el Reglamento Interior de la Secretaría."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ii.articulo-13",
+          "heading": "Artículo 13",
+          "descriptor": null,
+          "ordinal": "13",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Todas las autoridades federales, cuyas atribuciones se relacionen con las de la Policía Federal, se coordinarán entre sí para el despacho y operación de los asuntos relativos a la seguridad pública a cargo de la Federación. dé la misma para participar en instancias de coordinación interinstitucionales."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iii",
+      "heading": "Capítulo III",
+      "descriptor": "Del Personal Activo.",
+      "ordinal": "III",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-14",
+          "heading": "Artículo 14",
+          "descriptor": null,
+          "ordinal": "14",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La relación entre la Policía Federal y su personal se regulará por lo dispuesto en el apartado B, del artículo 123 Constitucional, la presente Ley y las demás disposiciones aplicables."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los integrantes podrán ser separados de su cargo si no cumplen con los requisitos que esta ley señala para permanecer en la institución, o removidos por incurrir en responsabilidad en el desempeño de sus funciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación o la remoción."
+            },
+            {
+              "type": "paragraph",
+              "text": "Si la autoridad jurisdiccional resuelve que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Secretaría sólo estará obligada a pagar la indemnización y demás prestaciones señaladas en la resolución respectiva, sin que en ningún caso proceda su reincorporación o reinstalación a la Policía Federal."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iii.articulo-15",
+          "heading": "Artículo 15",
+          "descriptor": null,
+          "ordinal": "15",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La actuación de los miembros de la Policía Federal se sujetará, invariablemente, a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-iv",
+      "heading": "Capítulo IV",
+      "descriptor": "Del Servicio Profesional de Carrera Policial.",
+      "ordinal": "IV",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-16",
+          "heading": "Artículo 16",
+          "descriptor": null,
+          "ordinal": "16",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La carrera policial comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante. Se regirá por las normas siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "La Policía Federal deberá consultar los antecedentes de los aspirantes en el Registro Nacional de Personal de Seguridad Pública antes de que se autorice su ingreso a la misma;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro de Control de Confianza, conforme al protocolo aprobado por el Centro Nacional de Acreditación y Control de Confianza;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Ninguna persona podrá ingresar a la Policía Federal si no ha sido debidamente certificada e inscrita en el Registro Nacional de Personal de Seguridad Pública;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Sólo ingresarán y permanecerán en la Policía Federal aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "La permanencia de los integrantes está condicionada al cumplimiento de los requisitos que determine la Ley y su Reglamento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Los méritos de los integrantes serán evaluados por el Consejo Federal, encargado de determinar las promociones y verificar que se cumplan los requisitos de permanencia; que deberán ser, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "El Reglamento establecerá un régimen de estímulos y previsión social que corresponda a las funciones de los integrantes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio, sin que esa adscripción implique inamovilidad en la sede a la que fueron destinados;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "El cambio de un integrante de un área operativa a otra de distinta especialidad sólo podrá ser autorizado por el Consejo Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Las sanciones de amonestación, suspensión o remoción que se apliquen a los integrantes, se determinarán mediante el procedimiento que señala la Ley y su Reglamento. En el procedimiento de aplicación de sanciones se salvaguardará en todo tiempo la garantía de audiencia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Los procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de integrantes serán establecidos en las disposiciones reglamentarias que al efecto se expidan, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "El Consejo Federal aplicará los procedimientos relativos a cada una de las etapas de la Carrera Policial."
+            },
+            {
+              "type": "paragraph",
+              "text": "La Carrera Policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el integrante llegue a desempeñar en la Policía Federal. En ningún caso los derechos adquiridos en la Carrera Policial implicarán inamovilidad en cargo alguno."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-iv.articulo-17",
+          "heading": "Artículo 17",
+          "descriptor": null,
+          "ordinal": "17",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para ingresar o permanecer en la Policía Federal se requiere:"
+            },
+            {
+              "type": "paragraph",
+              "text": "A. Para el ingreso:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Ser ciudadano mexicano [por nacimiento] en pleno ejercicio de sus derechos políticos y civiles, [sin tener otra nacionalidad];"
+            },
+            {
+              "type": "paragraph",
+              "text": "Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 24-06-2011 (en las porciones normativas que señalan “por nacimiento” y “sin tener otra nacionalidad”)"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Acreditar que ha concluido, al menos, los estudios siguientes:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Aprobar el concurso de ingreso y los cursos de formación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Aprobar los procesos de evaluación de control de confianza;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "No padecer alcoholismo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Cumplir con los deberes establecidos en esta ley, y demás disposiciones que deriven de ésta;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Los demás que establezcan otras disposiciones legales aplicables."
+            },
+            {
+              "type": "paragraph",
+              "text": "B. Para la Permanencia:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Mantener actualizado su Certificado Único Policial;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "No superar la edad máxima de retiro que establezca el reglamento de la Ley, salvo lo previsto en el artículo 21;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Acreditar que ha concluido, al menos, los estudios siguientes:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "En el caso de integrantes de las áreas de investigación, enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Tratándose de integrantes de las áreas de prevención, enseñanza media superior o equivalente, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "En caso de integrantes de las áreas de reacción, los estudios correspondientes a la enseñanza media básica."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Aprobar los cursos de formación, capacitación y profesionalización;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Aprobar los procesos de evaluación de control de confianza;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Aprobar las evaluaciones del desempeño;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "No padecer alcoholismo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Abstenerse de incurrir en cualquier acto u omisión que afecte la prestación del servicio;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "No incurrir en actos u omisiones que causen la pérdida de confianza, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Las demás que establezcan las disposiciones legales aplicables."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-v",
+      "heading": "Capítulo V",
+      "descriptor": "Del Régimen Disciplinario.",
+      "ordinal": "V",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-18",
+          "heading": "Artículo 18",
+          "descriptor": null,
+          "ordinal": "18",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La disciplina es la base del funcionamiento y organización de la Policía Federal, por lo que sus integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética."
+            },
+            {
+              "type": "paragraph",
+              "text": "El régimen disciplinario se ajustará a los principios establecidos en la Constitución, la presente Ley y los ordenamientos legales aplicables y comprenderá las correcciones disciplinarias y sanciones que al efecto establezcan la Ley y su Reglamento."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-19",
+          "heading": "Artículo 19",
+          "descriptor": null,
+          "ordinal": "19",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Son deberes de los integrantes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos en la Constitución;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Abstenerse en todo momento de infligir o tolerar actos de tortura, tratos crueles, inhumanos o degradantes, aún cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la Seguridad Pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, podrá denunciarlo inmediatamente ante la autoridad competente;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Velar por la vida e integridad física de las personas detenidas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Utilizar los protocolos de investigación y de cadena de custodia adoptados por su corporación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIII",
+              "text": "Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIV",
+              "text": "Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XV",
+              "text": "Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVI",
+              "text": "Informar al superior jerárquico, de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría jerárquica;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVII",
+              "text": "Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XVIII",
+              "text": "Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XIX",
+              "text": "Inscribir las detenciones en el Registro Administrativo de Detenciones conforme a las disposiciones aplicables;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XX",
+              "text": "Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las Instituciones;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXI",
+              "text": "Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXII",
+              "text": "Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIII",
+              "text": "Abstenerse de introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIV",
+              "text": "Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXV",
+              "text": "Abstenerse de consumir en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVI",
+              "text": "Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVII",
+              "text": "No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXVIII",
+              "text": "Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados, sea autorizado mediante prescripción médica, avalada y certificada por los servicios médicos de la Policía Federal;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXIX",
+              "text": "Abstenerse de consumir en las instalaciones de la Policía Federal o en actos del servicio, bebidas embriagantes, así como presentarse a su servicio en estado de ebriedad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXX",
+              "text": "Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Policía Federal, dentro o fuera del servicio;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXI",
+              "text": "No permitir que personas ajenas a la Policía Federal realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXII",
+              "text": "Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas y juegos, o prostíbulos u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXIII",
+              "text": "Deberá hacer uso de la fuerza de manera racional y proporcional, con pleno respeto a los derechos humanos, manteniéndose dentro de los límites y alcances que se marcan en las disposiciones legales aplicables y los procedimientos previamente establecidos, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XXXIV",
+              "text": "Los demás que establezca el Reglamento de la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-20",
+          "heading": "Artículo 20",
+          "descriptor": null,
+          "ordinal": "20",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las sanciones que aplique el Consejo Federal por infracciones cometidas por los integrantes serán:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Amonestación;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Suspensión, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Remoción."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-v.articulo-21",
+          "heading": "Artículo 21",
+          "descriptor": null,
+          "ordinal": "21",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La aplicación de dichas sanciones por el Consejo Federal se realizará considerando los factores siguientes:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Gravedad de la infracción;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Daños causados a la Institución;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Daños infligidos a la ciudadanía;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Condiciones socioeconómicas del infractor;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Cargo, comisión, categoría jerárquica y antigüedad;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Conducta observada con anterioridad al hecho;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VII",
+              "text": "Circunstancias de ejecución;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VIII",
+              "text": "Intencionalidad o negligencia;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IX",
+              "text": "Perjuicios originados al servicio;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "X",
+              "text": "Daños producidos a otros integrantes;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XI",
+              "text": "Daños causados al material y equipo, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "XII",
+              "text": "Grado de instrucción del presunto infractor."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vi",
+      "heading": "Capítulo VI",
+      "descriptor": "De la Conclusión del Servicio.",
+      "ordinal": "VI",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-22",
+          "heading": "Artículo 22",
+          "descriptor": null,
+          "ordinal": "22",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La conclusión del servicio de un integrante es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Separación, por incumplimiento a cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables, y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Que del expediente del integrante no se desprendan méritos suficientes a juicio del Consejo Federal para conservar permanencia."
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Remoción, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario, o"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Baja, por:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Renuncia;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Muerte, o incapacidad permanente, o"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Jubilación o retiro."
+            },
+            {
+              "type": "paragraph",
+              "text": "Al concluir el servicio el integrante deberá entregar al funcionario designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-vi.articulo-23",
+          "heading": "Artículo 23",
+          "descriptor": null,
+          "ordinal": "23",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los integrantes que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración del Consejo Federal, en otras áreas de los servicios de la propia institución."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-vii",
+      "heading": "Capítulo VII",
+      "descriptor": "Del Consejo Federal de Desarrollo Policial.",
+      "ordinal": "VII",
+      "content": [],
+      "children": [
+        {
+          "type": "seccion",
+          "id": "capitulo-vii.seccion-primera",
+          "heading": "Sección Primera",
+          "descriptor": ".",
+          "ordinal": "Primera",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Generalidades."
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "capitulo-vii.seccion-primera.articulo-24",
+              "heading": "Artículo 24",
+              "descriptor": null,
+              "ordinal": "24",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo Federal es la instancia colegiada encargada de normar, conocer y resolver toda controversia que se suscite en relación con los procedimientos del Servicio Profesional, el Régimen Disciplinario de la Policía Federal y su Profesionalización."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-vii.seccion-primera.articulo-25",
+              "heading": "Artículo 25",
+              "descriptor": null,
+              "ordinal": "25",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo Federal llevará un registro de datos de los integrantes, el cual se proporcionará a las bases de datos criminalísticas y de personal de la Secretaría y del Sistema Nacional de Información de Seguridad Pública."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-vii.seccion-primera.articulo-26",
+              "heading": "Artículo 26",
+              "descriptor": null,
+              "ordinal": "26",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Son atribuciones del Consejo Federal:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Emitir normas relativas al ingreso, selección, permanencia, estímulos, promoción y reconocimiento de los integrantes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Establecer los lineamientos para los procedimientos de Servicio Profesional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Formular normas en materia de previsión social;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Elaborar los planes y programas de Profesionalización que contendrá los aspectos de formación, capacitación, adiestramiento y actualización;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Establecer los procedimientos aplicables a la Profesionalización;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Celebrar los convenios necesarios para la instrumentación de la Profesionalización;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Instruir el desarrollo de los programas de investigación académica en materia policial;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Establecer los lineamientos para los procedimientos aplicables al Régimen Disciplinario;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Emitir Acuerdos de observancia general y obligatoria en materia de desarrollo policial para la exacta aplicación del Servicio Profesional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Aplicar y resolver los procedimientos relativos al ingreso, selección, permanencia, promoción y reconocimiento de los integrantes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Verificar el cumplimiento de los requisitos de permanencia de los integrantes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Analizar la formación, capacitación, adiestramiento, desarrollo, actualización, las sanciones aplicadas y los méritos de los integrantes a fin de determinar quiénes cumplen con los requisitos para ser promovidos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Resolver, de acuerdo a las necesidades del servicio, la reubicación de los integrantes de un área operativa a otra;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Sustanciar los procedimientos disciplinarios por incumplimiento a los deberes u obligaciones de los integrantes, preservando el derecho a la garantía de audiencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "Conocer y resolver sobre el otorgamiento de constancias de grado y estímulos a los integrantes, conforme al procedimiento establecido en el Reglamento de la presente Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "Establecer el régimen homólogo de grados para el personal de servicios, conforme a las instrucciones del Comisionado General;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVII",
+                  "text": "Crear las comisiones, comités y grupos de trabajo del Servicio Profesional, Régimen Disciplinario y demás que resulten necesarias, de acuerdo al tema o actividad a desarrollar, supervisando su actuación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVIII",
+                  "text": "Sancionar a los integrantes por incumplimiento a los deberes previstos en la presente Ley y disposiciones aplicables que deriven de ésta;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIX",
+                  "text": "Resolver los recursos de revisión promovidos contra las sanciones impuestas por violación al Régimen Disciplinario;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XX",
+                  "text": "Resolver los recursos de reclamación promovidos contra los acuerdos respecto a la no procedencia del inicio del procedimiento;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXI",
+                  "text": "Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XXII",
+                  "text": "Las demás que le señalen la presente Ley y demás disposiciones legales que de él deriven."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las Reglas de Operación y Funcionamiento del Consejo Federal estarán previstas en el Reglamento de esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-vii.seccion-primera.articulo-27",
+              "heading": "Artículo 27",
+              "descriptor": null,
+              "ordinal": "27",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En los procedimientos que instruya el Consejo Federal contra los integrantes se salvaguardará en todo tiempo la garantía de audiencia."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "seccion",
+          "id": "capitulo-vii.seccion-segunda",
+          "heading": "Sección Segunda",
+          "descriptor": ".",
+          "ordinal": "Segunda",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "De su Integración y Funcionamiento."
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "capitulo-vii.seccion-segunda.articulo-28",
+              "heading": "Artículo 28",
+              "descriptor": null,
+              "ordinal": "28",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo Federal se integrará de la siguiente manera:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Un presidente, que será el Comisionado General;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Un Secretario General;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Un representante del Órgano Interno de Control;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Un representante de la unidad jurídica de la Secretaría;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Un Consejero por cada área operativa, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Un Consejero por el área jurídica de la Policía Federal."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los integrantes del Consejo Federal serán de carácter permanente, y se designará a un suplente, de conformidad con el Reglamento."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "capitulo-vii.seccion-segunda.articulo-29",
+              "heading": "Artículo 29",
+              "descriptor": null,
+              "ordinal": "29",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Consejo Federal contará con el personal necesario para el despacho de sus asuntos, mismos que serán designados por el Pleno, conforme a las disponibilidades presupuestales. como los procedimientos correspondientes para el desarrollo sus atribuciones."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-viii",
+      "heading": "Capítulo VIII",
+      "descriptor": "Del Procedimiento.",
+      "ordinal": "VIII",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-31",
+          "heading": "Artículo 31",
+          "descriptor": null,
+          "ordinal": "31",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El procedimiento que se instaure a los integrantes por incumplimiento a los requisitos de permanencia o por infracción al régimen disciplinario ante el Consejo Federal iniciará por solicitud fundada y motivada del responsable de la Unidad de Asuntos Internos que corresponda, dirigida al Presidente del Consejo Federal y remitiendo para tal efecto el expediente del presunto infractor."
+            },
+            {
+              "type": "paragraph",
+              "text": "El presidente resolverá si ha lugar a iniciar procedimiento contra el presunto infractor, en caso contrario devolverá el expediente a la unidad remitente."
+            },
+            {
+              "type": "paragraph",
+              "text": "En caso procedente, resolverá si el asunto se instruirá por el Pleno, alguna comisión o comité del propio Consejo Federal."
+            },
+            {
+              "type": "paragraph",
+              "text": "El responsable de la Unidad de Asuntos Internos será nombrado por el Presidente de la República; contará con autonomía de gestión y tendrá, además de la atribución de supervisión de las operaciones a que se refiere la fracción VII del artículo 8 de esta Ley, las que el Reglamento le otorgue."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-32",
+          "heading": "Artículo 32",
+          "descriptor": null,
+          "ordinal": "32",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Acuerdo que emita el presidente del Consejo Federal respecto a la no procedencia del inicio del procedimiento, podrá ser impugnado por la unidad solicitante mediante el recurso de reclamación ante el mismo Consejo, dentro del término de cinco días contados a partir de la notificación y recepción del expediente respectivo."
+            },
+            {
+              "type": "paragraph",
+              "text": "En el escrito de reclamación, la unidad sustentante expresará los razonamientos sobre la procedencia del procedimiento y aportará las pruebas que considere necesarias. El Pleno del Consejo Federal resolverá sobre la misma en un término no mayor a cinco días a partir de la vista del asunto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-33",
+          "heading": "Artículo 33",
+          "descriptor": null,
+          "ordinal": "33",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Resuelto el inicio del procedimiento, el Secretario General convocará a los miembros de la instancia y citará al presunto infractor a una audiencia haciéndole saber la infracción que se le imputa, el lugar, el día y la hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y formular alegatos, por sí o asistido de un defensor."
+            },
+            {
+              "type": "paragraph",
+              "text": "La audiencia se celebrará dentro de un plazo no menor de cinco ni mayor de veinte días naturales posteriores a la recepción del expediente por el presidente, plazo en el que presunto infractor podrá imponerse de los autos del expediente"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-34",
+          "heading": "Artículo 34",
+          "descriptor": null,
+          "ordinal": "34",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La notificación del citatorio se realizará en el domicilio oficial de la adscripción del presunto infractor, en el último que hubiera reportado, o en el lugar en que se encuentre físicamente y se le hará saber el lugar donde quedará a disposición en tanto se dicte la resolución definitiva respectiva."
+            },
+            {
+              "type": "paragraph",
+              "text": "Asimismo, el infractor deberá señalar domicilio para oír y recibir notificaciones dentro del lugar de residencia del Consejo Federal que conozca del asunto, apercibiéndolo que en caso de no hacerlo las subsecuentes notificaciones se realizarán en un lugar visible al público dentro de las instalaciones que ocupe el propio Consejo; del mismo modo, en caso de no ofrecer pruebas y defensas, la imputación se tendrá por consentida y aceptada."
+            },
+            {
+              "type": "paragraph",
+              "text": "El presidente del Consejo Federal podrá determinar la suspensión temporal del empleo, cargo o comisión del presunto infractor, previo o posteriormente a la notificación del inicio del procedimiento, si a su juicio es conveniente para la continuación del procedimiento o de las investigaciones. Esta medida no prejuzga sobre la responsabilidad que se impute, debiéndose asentar expresamente esta salvedad. El presunto infractor suspendido podrá impugnar esta determinación en reclamación ante el Pleno del Consejo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-35",
+          "heading": "Artículo 35",
+          "descriptor": null,
+          "ordinal": "35",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El día y hora señalados para la comparecencia del presunto infractor, el presidente de la instancia declarará formalmente abierta la audiencia y enseguida, el Secretario tomará los generales de aquél y de su defensor, a quien protestará en el cargo y apercibirá al primero para conducirse con verdad. Acto seguido procederá a dar lectura a las constancias relativas a la imputación y datos de cargo, con la finalidad de hacer saber al presunto infractor los hechos que se le atribuyen."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Secretario de la instancia concederá el uso de la palabra al presunto infractor y a su defensor, los que expondrán en forma concreta y específica lo que a su derecho convenga."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-36",
+          "heading": "Artículo 36",
+          "descriptor": null,
+          "ordinal": "36",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los integrantes de la instancia podrán formular preguntas al presunto infractor, solicitar informes u otros elementos de prueba, por conducto del Secretario de la misma, con la finalidad de allegarse los datos necesarios para el conocimiento del asunto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-37",
+          "heading": "Artículo 37",
+          "descriptor": null,
+          "ordinal": "37",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las pruebas que sean presentadas por las partes, serán debidamente analizadas y ponderadas, resolviendo cuáles se admiten y cuáles son desechadas dentro de la misma audiencia."
+            },
+            {
+              "type": "paragraph",
+              "text": "Son admisibles como medio de prueba:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Los documentos públicos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Los documentos privados;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Los testigos;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Las fotografías, escritos y notas taquigráficas y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia,"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Las presunciones, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "VI",
+              "text": "Todas aquellas que sean permitidas por la ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "No es admisible la confesional a cargo de la autoridad. Las pruebas se admitirán siempre que guarden relación inmediata con los hechos materia de la litis y sólo en cuanto fueren conducentes para el eficaz esclarecimiento de los hechos y se encuentren ofrecidas conforme a derecho. Sólo los hechos están sujetos a prueba."
+            },
+            {
+              "type": "paragraph",
+              "text": "Si la prueba ofrecida por el integrante es la testimonial, quedará a su cargo la presentación de los testigos."
+            },
+            {
+              "type": "paragraph",
+              "text": "Si el oferente no puede presentar a los testigos, deberá señalar su domicilio y solicitara a la instancia que los cite. Esta los citará por una solo ocasión, en caso de incomparecencia declarará desierta la prueba."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-38",
+          "heading": "Artículo 38",
+          "descriptor": null,
+          "ordinal": "38",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Si el Secretario de la instancia lo considera necesario, por lo extenso o particular de las pruebas presentadas, cerrará la audiencia, levantando el acta correspondiente, y establecerá un término probatorio de diez días para su desahogo."
+            },
+            {
+              "type": "paragraph",
+              "text": "En caso contrario, se procederá a la formulación de alegatos y posteriormente al cierre de instrucción del procedimiento."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-39",
+          "heading": "Artículo 39",
+          "descriptor": null,
+          "ordinal": "39",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Una vez desahogadas todas las pruebas y presentados los alegatos, el Presidente de la instancia cerrará la instrucción."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Consejo Federal deberá emitir la resolución que conforme a derecho corresponda, dentro del término de veinte días hábiles contados a partir del cierre de la instrucción."
+            },
+            {
+              "type": "paragraph",
+              "text": "La resolución se notificará personalmente al interesado por conducto del personal que designe el Consejo Federal, de la comisión o comité, según corresponda."
+            },
+            {
+              "type": "paragraph",
+              "text": "Contra la resolución del procedimiento disciplinario procederá el recurso de revisión que deberá interponerse en término de cinco días contados a partir de la notificación de la resolución."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-40",
+          "heading": "Artículo 40",
+          "descriptor": null,
+          "ordinal": "40",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La resolución que dicte el Pleno del Consejo Federal deberá estar debidamente fundada y motivada, contener una relación sucinta de los hechos y una valoración de todas y cada una de las pruebas aportadas."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-41",
+          "heading": "Artículo 41",
+          "descriptor": null,
+          "ordinal": "41",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los acuerdos dictados durante el procedimiento, serán firmados por el Presidente del Consejo Federal y autentificados por el Secretario general."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-viii.articulo-42",
+          "heading": "Artículo 42",
+          "descriptor": null,
+          "ordinal": "42",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para lo no previsto en el presente capítulo se aplicará de manera supletoria el Código Nacional de Procedimientos Civiles y Familiares."
+            },
+            {
+              "type": "reform_note",
+              "text": "Artículo reformado DOF 14-11-2025",
+              "action": "reformado",
+              "dof_date": "14-11-2025"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-ix",
+      "heading": "Capítulo IX",
+      "descriptor": "Del auxilio a la Policía Federal y de los Servicios Técnicos Especializados.",
+      "ordinal": "IX",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-43",
+          "heading": "Artículo 43",
+          "descriptor": null,
+          "ordinal": "43",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". En los casos en que resulte necesario, la Policía Federal podrá auxiliarse con:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "El personal técnico especializado de la Secretaría;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Las policías del Distrito Federal, de los estados y de los municipios, en los términos que señala la Ley General del Sistema Nacional de Seguridad Pública;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Los capitanes, patrones o encargados de naves o aeronaves nacionales;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "El Servicio de Protección Federal, y"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Los particulares que presten servicios de seguridad privada, sin que puedan substituir en sus funciones a las instituciones de seguridad pública."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-ix.articulo-44",
+          "heading": "Artículo 44",
+          "descriptor": null,
+          "ordinal": "44",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los auxiliares de la Policía Federal deberán, informar a la brevedad del resultado del auxilio prestado a ésta."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-x",
+      "heading": "Capítulo X",
+      "descriptor": "De la Coordinación y Cooperación con otras Autoridades.",
+      "ordinal": "X",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-45",
+          "heading": "Artículo 45",
+          "descriptor": null,
+          "ordinal": "45",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". En sus funciones de investigación y combate a los delitos, la Policía Federal actuará bajo el mando y conducción del Ministerio Público, con el fin de que sus actuaciones se lleven a cabo en el marco de la legalidad y con las formalidades necesarias para que los resultados de tales actuaciones puedan presentarse como evidencia ante los tribunales."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-46",
+          "heading": "Artículo 46",
+          "descriptor": null,
+          "ordinal": "46",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Cuando durante el desarrollo de la investigación ministerial la Policía Federal estime necesaria la realización de diligencias que requieran una tramitación especial o la autorización de la autoridad jurisdiccional, lo comunicará sin demora al Ministerio Público quien resolverá lo conducente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-x.articulo-47",
+          "heading": "Artículo 47",
+          "descriptor": null,
+          "ordinal": "47",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Si se tratare de delito flagrante, la Policía Federal dictará las medidas y providencias necesarias para el debido cumplimiento de lo que en materia de preservación de indicios dispone el informará de inmediato de lo acaecido al Ministerio Público, y pondrá a su disposición las personas, bienes u objetos relacionados con los hechos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En estos casos, la Policía Federal actuará de conformidad con los protocolos que al efecto se establezcan conforme a las disposiciones legales aplicables."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "capitulo",
+      "id": "capitulo-xi",
+      "heading": "Capítulo XI",
+      "descriptor": "Del Control Judicial.",
+      "ordinal": "XI",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "capitulo-xi.articulo-48",
+          "heading": "Artículo 48",
+          "descriptor": null,
+          "ordinal": "48",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". En concordancia con los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos, Ley Federal Contra la Delincuencia Organizada, Ley de Seguridad Nacional, Código Federal de Procedimientos Penales y este ordenamiento, exclusivamente las autoridades civiles a que hacen referencia estas leyes, podrán solicitar la intervención de comunicaciones. En el caso de la Policía Federal, la autorización judicial podrá otorgarse únicamente a solicitud del Comisionado General, cuando se constate la existencia de indicios suficientes que acrediten que se está organizando la comisión de los delitos señalados en el artículo 51 de esta Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "En caso de que durante la investigación preventiva se advierta que alguno de los actos preparatorios sea punible en sí mismo, se dará vista de inmediato al Ministerio Público."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-xi.articulo-49",
+          "heading": "Artículo 49",
+          "descriptor": null,
+          "ordinal": "49",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Las autoridades responsables de efectuar las intervenciones a que se refiere la fracción XXIX del artículo 8 de esta Ley deberán regirse por los principios de legalidad, objetividad, eficiencia, profesionalismo, imparcialidad, honradez y respeto a las garantías individuales y los derechos humanos reconocidos en la Constitución."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-xi.articulo-50",
+          "heading": "Artículo 50",
+          "descriptor": null,
+          "ordinal": "50",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". El Comisionado General de la Policía Federal será responsable de que la intervención se realice en los términos de la autorización judicial. La solicitud de autorización deberá contener los preceptos legales que la fundan, el razonamiento por el que se considera procedente, el tipo de comunicaciones, los sujetos y los lugares que serán intervenidos, así como el periodo durante el cual se llevarán a cabo las intervenciones, el cual podrá ser prorrogado bimestralmente, sin que el periodo de intervención, incluyendo sus prórrogas, pueda exceder de seis meses. Después de dicho plazo, sólo podrán autorizarse nuevas intervenciones cuando el Comisionado General de la Policía Federal acredite nuevos elementos que así lo justifiquen."
+            },
+            {
+              "type": "paragraph",
+              "text": "En la autorización, la autoridad judicial competente determinará las características de la intervención, sus modalidades y límites y, en su caso, ordenará a instituciones públicas o privadas, modos específicos de colaboración."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-xi.articulo-51",
+          "heading": "Artículo 51",
+          "descriptor": null,
+          "ordinal": "51",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La intervención preventiva de comunicaciones a que se refiere esta Ley, se autorizará únicamente en los delitos previstos en los ordenamientos legales que a continuación se enlistan:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Evasión de Presos; previsto en el artículo 150;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 Bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Corrupción de menores o incapaces, previsto en los artículos 200, 201 y 201 bis;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "d",
+              "text": "Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el Capítulo II;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "e",
+              "text": "Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 bis;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "f",
+              "text": "Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "g",
+              "text": "Explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "h",
+              "text": "Asalto en carreteras o caminos, previsto en el artículo 286, segundo párrafo;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "i",
+              "text": "Homicidios relacionados con la delincuencia organizada;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "j",
+              "text": "Tráfico de menores, previsto en el artículo 366 Ter;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Inciso reformado DOF 30-11-2010",
+              "action": "reformado",
+              "dof_date": "30-11-2010"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "k",
+              "text": "Robo de vehículo, previsto en el artículo 376 Bis;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "l",
+              "text": "Los previstos en el artículo 377;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "m",
+              "text": "Extorsión, previsto en el artículo 390;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "n",
+              "text": "Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "De la Ley Federal de Armas de Fuego y Explosivos el delito de introducción clandestina de armas de fuego en términos de la Ley Federal contra la Delincuencia Organizada;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "De la Ley General de Salud, el delito de tráfico de órganos previsto en los artículos 461, 462 y 462 Bis;"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 30-11-2010",
+              "action": "reformado",
+              "dof_date": "30-11-2010"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "De la Ley de Migración, el delito de tráfico de indocumentados, previsto en el artículo 159, y"
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción reformada DOF 30-11-2010, 25-05-2011",
+              "action": "reformado",
+              "dof_date": "30-11-2010"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "V",
+              "text": "Los previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos."
+            },
+            {
+              "type": "reform_note",
+              "text": "Fracción adicionada DOF 30-11-2010",
+              "action": "adicionado",
+              "dof_date": "30-11-2010"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-xi.articulo-52",
+          "heading": "Artículo 52",
+          "descriptor": null,
+          "ordinal": "52",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". En la autorización que otorgue la autoridad judicial competente deberá ordenar que, cuando en la misma práctica sea necesario ampliar a otros sujetos o lugares la intervención, se deberá presentar ante la autoridad judicial competente, una nueva solicitud; también ordenará que al concluir cada intervención se levante un acta que contendrá un inventario pormenorizado de la información de audio o video que contengan los sonidos o imágenes captadas durante la intervención, así como que se le entregue un informe sobre sus resultados, a efecto de constatar el debido cumplimiento de la autorización otorgada."
+            },
+            {
+              "type": "paragraph",
+              "text": "La autoridad judicial competente podrá, en cualquier momento, verificar que las intervenciones sean realizadas en los términos autorizados y, en caso de incumplimiento, decretar su revocación parcial o total."
+            },
+            {
+              "type": "paragraph",
+              "text": "La autoridad judicial competente deberá acordar la solicitud en un plazo no mayor de doce horas a partir de su presentación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Independientemente de lo anterior, la Policía Federal deberá rendir un informe mensual sobre la intervención, que la autoridad judicial competente pondrá a disposición del Ministerio Público."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-xi.articulo-53",
+          "heading": "Artículo 53",
+          "descriptor": null,
+          "ordinal": "53",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". En caso de que la autoridad judicial competente que autorizó la intervención, concluya que de la investigación no existen elementos para que el caso sea conocido por el Ministerio Público, por no tratarse de conductas delictivas, ordenará que se ponga a su disposición la información resultado de las intervenciones y ordenará su destrucción en presencia del Comisionado General de la Policía Federal."
+            },
+            {
+              "type": "paragraph",
+              "text": "La reserva de las intervenciones de comunicaciones privadas autorizadas al Comisionado General, será bajo su estricta responsabilidad y, en caso de incumplimiento, será sancionado penalmente."
+            },
+            {
+              "type": "paragraph",
+              "text": "En caso de que durante la investigación preventiva se advierta la comisión de un delito, se dará vista de inmediato al Ministerio Público."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-xi.articulo-54",
+          "heading": "Artículo 54",
+          "descriptor": null,
+          "ordinal": "54",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Sólo podrán dar cumplimiento a las intervenciones autorizadas por la autoridad judicial competente, aquellos integrantes de la Policía Federal que cumplan los siguientes requisitos, que:"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "a",
+              "text": "Pertenezcan a las áreas de Investigación o de Servicios Técnicos Especializados de la Institución;"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "b",
+              "text": "Cuenten con certificación de control de confianza vigente; y"
+            },
+            {
+              "type": "inciso",
+              "ordinal": "c",
+              "text": "Tengan un grado policial mínimo de subinspector."
+            },
+            {
+              "type": "paragraph",
+              "text": "Todos los integrantes de la Policía Federal que den cumplimiento a una intervención de comunicaciones autorizada por la autoridad judicial competente, estarán obligados a someterse a los exámenes de control de confianza al término de la misma."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "capitulo-xi.articulo-55",
+          "heading": "Artículo 55",
+          "descriptor": null,
+          "ordinal": "55",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". En el caso de la solicitud de información dispuesta en la fracción XXVIII del artículo 8 de esta Ley, se aplicará en lo conducente el procedimiento a que se refiere este capitulo."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "."
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "Artículo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Todas las menciones que en cualquier disposición se hagan respecto de la Policía Federal Preventiva se entenderán referidas a la Policía Federal."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-tercer",
+          "heading": "Artículo Tercero",
+          "descriptor": null,
+          "ordinal": "Artículo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos que a la fecha de entrada en vigor del presente decreto se estén substanciando en las Comisiones de Honor y Justicia y la del Servicio Civil de Carrera Policial de la Policía Federal Preventiva, deberán continuar su trámite ante el Consejo Federal de Desarrollo Policial, conforme a las disposiciones legales vigentes al momento de su inicio."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-cuart",
+          "heading": "Artículo Cuarto",
+          "descriptor": null,
+          "ordinal": "Artículo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los programas, proyectos, y demás acciones que, en cumplimiento de lo dispuesto en esta ley y en razón de su competencia, corresponda ejecutar a las dependencias y entidades de la Administración Pública Federal, deberán sujetarse a la disponibilidad presupuestaria de las mismas y la que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-quint",
+          "heading": "Artículo Quinto",
+          "descriptor": null,
+          "ordinal": "Artículo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley de la Policía Federal Preventiva y se derogan las disposiciones que se opongan a la presente Ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 30 de abril de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. Margarita Arenas Guzman, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fernando Francisco Gómez Mont Urueta.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-sext",
+          "heading": "ARTÍCULO SEXTO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEXTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman el inciso j), de la fracción I y las fracciones III y IV; y se adiciona la fracción V, todas del artículo 51 de la Ley de la Policía Federal, para quedar como sigue: ………."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se derogan todas las disposiciones legales que se opongan al presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "Noveno",
+          "descriptor": null,
+          "ordinal": "Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decim",
+          "heading": "Décimo",
+          "descriptor": null,
+          "ordinal": "Décimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-primer",
+          "heading": "Décimo Primero",
+          "descriptor": null,
+          "ordinal": "Décimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "Décimo Segundo",
+          "descriptor": null,
+          "ordinal": "Décimo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 7 de octubre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. María de Jesús Aguirre Maldonado, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 29 de noviembre de 2010.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se expide la Ley de Migración y se reforman, derogan y adicionan Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-sext",
+          "heading": "ARTÍCULO SEXTO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEXTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 51, fracción IV de la Ley de la Policía Federal, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA  , DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO."
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "SENTENCIA dictada por el Tribunal Pleno en la Acción de Inconstitucionalidad 48/2009, promovida por la Comisión Nacional de los Derechos Humanos, así como voto particular formulado por el Ministro Sergio A. Valls Hernández."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicada en el Diario Oficial de la Federación el 24 de junio de 2011 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCION DE INCONSTITUCIONALIDAD 48/2009."
+            },
+            {
+              "type": "paragraph",
+              "text": "PROMOVENTE: COMISION NACIONAL DE LOS DERECHOS HUMANOS."
+            },
+            {
+              "type": "paragraph",
+              "text": "MINISTRO PONENTE: SERGIO A. VALLS HERNANDEZ."
+            },
+            {
+              "type": "paragraph",
+              "text": "SECRETARIA: LAURA GARCIA VELASCO."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al catorce de abril de dos mil once."
+            },
+            {
+              "type": "paragraph",
+              "text": "VISTOS; Y RESULTANDO:"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A OCTAVO.- .........."
+            },
+            {
+              "type": "paragraph",
+              "text": "CONSIDERANDO:"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A OCTAVO.- ……….."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por lo expuesto y fundado, se resuelve:"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Es procedente y parcialmente fundada la presente acción de inconstitucionalidad."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se desestima la presente acción de inconstitucionalidad en relación con el concepto de invalidez relativo a que el artículo 7o., fracción I, de la Ley de la Policía Federal es violatorio del artículo 1o. constitucional, al discriminar a los mexicanos por naturalización respecto de los mexicanos por nacimiento."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se declara la invalidez de los artículos 17, apartado A, fracción I, de la Ley de la Policía Federal, 23, párrafo segundo, inciso a), 34, fracción I, inciso a), 35, fracción I, inciso a) y 36, fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República, en las respectivas porciones normativas que indican “por nacimiento”; así como 17, apartado A, fracción I, de la Ley de la Policía Federal y 35, fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República, en las porciones normativas que indican: “sin tener otra nacionalidad”, la que surtirá efectos a partir de la fecha de notificación de los presentes puntos resolutivos al Congreso de la Unión."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "CUARTO",
+          "descriptor": null,
+          "ordinal": "CUARTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reconoce la validez de los artículos 7o., fracción I, en la porción normativa que indica: “no tenga otra nacionalidad”, 8o., fracción VII, 10, fracción XII y 22, fracción I, inciso a), de la Ley de la Policía Federal; y 18, fracción I y 36, fracción I, inciso a), salvo en la porción normativa indicada en el resolutivo anterior, de la Ley Orgánica de la Procuraduría General de la República, así como 87 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, en términos de los considerandos quinto,"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "sexto",
+          "descriptor": null,
+          "ordinal": "sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "y séptimo de esta resolución."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "QUINTO",
+          "descriptor": null,
+          "ordinal": "QUINTO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta”."
+            },
+            {
+              "type": "paragraph",
+              "text": "Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido."
+            },
+            {
+              "type": "paragraph",
+              "text": "Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:"
+            },
+            {
+              "type": "paragraph",
+              "text": "En relación con el punto resolutivo Primero:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Se aprobó por unanimidad de votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza."
+            },
+            {
+              "type": "paragraph",
+              "text": "En relación con el punto resolutivo Segundo:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Los señores Ministros Aguirre Anguiano, Cossío Díaz, Zaldívar Lelo de Larrea, Valls Hernández, Sánchez Cordero de García Villegas y Presidente Silva Meza votaron a favor de declarar fundado el concepto de invalidez relativo a que el artículo 7o., fracción I, de la Ley de la Policía Federal, es violatorio del artículo 1o. constitucional, al discriminar a los mexicanos por naturalización respecto de los mexicanos por nacimiento. Los señores Ministros Luna Ramos, Franco González Salas, Pardo Rebolledo, Aguilar Morales y Ortiz Mayagoitia votaron en contra del proyecto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por tanto, dada la votación de seis votos a favor de la propuesta de declarar fundado el concepto de invalidez relativo a que el artículo 7o., fracción I, de la Ley de la Policía Federal, es violatorio del artículo 1o. constitucional, al discriminar a los mexicanos por naturalización respecto de los mexicanos por nacimiento, de conformidad con lo dispuesto en los artículos 105, fracción II, párrafo último, de la Constitución Política de los Estados Unidos Mexicanos y 72 de la Ley Reglamentaria de las Fracciones I y II del artículo 105 constitucional, se desestimó la acción de inconstitucionalidad al no haberse obtenido una mayoría calificada de ocho votos."
+            },
+            {
+              "type": "paragraph",
+              "text": "En relación con el punto resolutivo Tercero:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Por mayoría de diez votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza, en cuanto a declarar la invalidez del artículo 17, apartado A, fracción I, de la Ley de la Policía Federal, en la porción normativa que indica “por nacimiento”, al ser violatorio del artículo 1o. constitucional al discriminar a los mexicanos por naturalización respecto de los mexicanos por nacimiento. El señor Ministro Franco González Salas votó en contra."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por mayoría de nueve votos de los señores Ministros Cossío Díaz, Luna Ramos, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza, en cuanto a declarar la invalidez del artículo 23, párrafo segundo, inciso a), de la Ley Orgánica de la Procuraduría General de la República en la porción normativa que indica: “por nacimiento”, al ser violatorio del artículo 1o. constitucional al discriminar a los mexicanos por naturalización respecto de los mexicanos por nacimiento. Los señores Ministros Aguirre Anguiano y Franco González Salas votaron en contra del proyecto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por mayoría de diez votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza, en cuanto a declarar la invalidez de los artículos 34, fracción I, inciso a), 35, fracción I, inciso a) y 36, fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República, en sus porciones normativas que indican “por nacimiento”, al ser violatorios del artículo 1o. constitucional al discriminar a los mexicanos por naturalización respecto de los mexicanos por nacimiento, votaron a favor. El señor Ministro Franco González Salas votó en contra del proyecto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por mayoría de ocho votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas y Presidente Silva Meza, en cuanto a declarar la invalidez del artículo 17, apartado A, fracción I, de la Ley de la Policía Federal, en la porción normativa que indica “sin tener otra nacionalidad”. Los señores Ministros Franco González Salas, Valls Hernández y Ortiz Mayagoitia votaron en contra."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por mayoría de nueve votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza, en cuanto a declarar la invalidez del artículo 35, fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República que indica “sin tener otra nacionalidad”."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los señores Ministros Franco González Salas y Valls Hernández votaron en contra."
+            },
+            {
+              "type": "paragraph",
+              "text": "En relación con el punto resolutivo Cuarto:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Por mayoría de seis votos de los señores Ministros Luna Ramos, Franco González Salas, Pardo Rebolledo, Aguilar Morales, Valls Hernández y Ortiz Mayagoitia, en cuanto al reconocimiento de validez del artículo 7o., fracción I, de la Ley de la Policía Federal, en su porción normativa que indica “no tenga otra nacionalidad”. Los señores Ministros Aguirre Anguiano, Cossío Díaz, Zaldívar Lelo de Larrea, Sánchez Cordero de García Villegas y Presidente Silva Meza votaron en contra."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por mayoría de seis votos de los señores Ministros Aguirre Anguiano, Luna Ramos, Pardo Rebolledo, Aguilar Morales, Valls Hernández y Ortiz Mayagoitia, en cuanto al reconocimiento de validez de los artículos 8o., fracción VII y 10, fracción II, de la Ley de la Policía Federal. Los señores Ministros Cossío Díaz, Zaldívar Lelo de Larrea, Sánchez Cordero de García Villegas y Presidente Silva Meza votaron en contra (El señor Ministro Franco González Salas estuvo ausente durante la votación de estos preceptos)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por unanimidad de once votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza, en cuanto al reconocimiento de validez del artículo 22, fracción I, inciso a), de la Ley de la Policía Federal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por mayoría de seis votos de los señores Ministros Aguirre Anguiano, Luna Ramos, Franco González Salas, Pardo Rebolledo, Aguilar Morales y Ortiz Mayagoitia, en cuanto al reconocimiento de validez del artículo 18, fracción I, de la Ley Orgánica de la Procuraduría General de la República. Los señores Ministros Cossío Díaz, Zaldívar Lelo de Larrea, Valls Hernández, Sánchez Cordero de García Villegas y Presidente Silva Meza votaron en contra."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por mayoría de seis votos de los señores Ministros Aguirre Anguiano, Luna Ramos, Franco González Salas, Pardo Rebolledo, Aguilar Morales y Ortiz Mayagoitia, en cuanto al reconocimiento de validez del artículo 36, fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República, sin tomar en cuenta la porción normativa que indica “por nacimiento”. Los señores Ministros Cossío Díaz, Zaldívar Lelo de Larrea, Valls Hernández, Sánchez Cordero de García Villegas y Presidente Silva Meza votaron en contra."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por mayoría de siete votos de los señores Ministros Aguirre Anguiano, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales y Ortiz Mayagoitia, en cuanto al reconocimiento de validez del artículo 87 de la Ley de Fiscalización y Rendición de Cuentas de la Federación. Los señores Ministros Cossío Díaz, Valls Hernández, Sánchez Cordero de García Villegas y Presidente Silva Meza votaron en contra."
+            },
+            {
+              "type": "paragraph",
+              "text": "En relación con el punto resolutivo Quinto:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Se aprobó por unanimidad de votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Valls Hernández, Sánchez Cordero de García Villegas y Presidente Silva Meza, reservaron su derecho para formular votos particulares, de minoría o concurrentes."
+            },
+            {
+              "type": "paragraph",
+              "text": "El señor Ministro Presidente Juan N. Silva Meza declaró que el asunto se resolvió en los términos precisados. Doy fe."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Ministro Presidente, Juan N. Silva Meza.- Rúbrica.- El Ministro Ponente, Sergio A. Valls Hernández.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta fotocopia constante de ciento doce fojas útiles, concuerda fiel y exactamente con su original que corresponde a la sentencia del catorce de abril de dos mil once, dictada por el Tribunal Pleno en la acción de inconstitucionalidad 48/2009, promovida por la Comisión Nacional de los Derechos Humanos. Se certifica para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a ocho de junio de dos mil once.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-vigesimo-primer",
+          "heading": "Artículo Vigésimo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Vigésimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 42 de la Ley de la Policía Federal, para quedar como sigue: …….."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023."
+            },
+            {
+              "type": "paragraph",
+              "text": "En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión."
+            },
+            {
+              "type": "paragraph",
+              "text": "En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares."
+            },
+            {
+              "type": "paragraph",
+              "text": "No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-sext",
+          "heading": "artículo Sexto",
+          "descriptor": null,
+          "ordinal": "artículo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

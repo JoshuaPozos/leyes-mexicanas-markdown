@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LCUEFA_ley_que_crea_la_universidad_del_ejercito_y_fuerza_aerea",
+  "abbreviation": "LCUEFA",
+  "name": "LEY que Crea la Universidad del Ejército y Fuerza Aérea",
+  "catalog_number": "291",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/196.pdf",
+    "pdf_filename_origen": "196.pdf",
+    "dof_publication": "DOF29/12/1975",
+    "last_reform": "Sin reforma",
+    "captured_at": "2026-04-09T09:44:39.383245+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de 1975 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "LUIS ECHEVERRIA ALVAREZ, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO: \"El Congreso de los Estados Unidos Mexicanos, decreta:"
+    },
+    {
+      "type": "paragraph",
+      "text": "LEY QUE CREA LA UNIVERSIDAD DEL EJERCITO Y FUERZA AEREA ARTICULO 1o.- Se crea la Universidad del Ejército y Fuerza Aérea, con los establecimientos de Educación Militar, de nivel medio superior y de tipo superior existentes, y los que se instituyan en el futuro."
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 2o.- La Universidad del Ejército y Fuerza Aérea depende del Secretario de la Defensa Nacional a través de la Dirección General de Educación Militar, la que asumirá funciones de rectoría."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para este efecto, se reestructurará para continuar desempeñando sus actuales funciones conforme a lo dispuesto por la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y las que se deriven de la conducción y control de la Universidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 3o.- La Universidad del Ejército y Fuerza Aérea tendrá las siguientes finalidades:"
+    },
+    {
+      "type": "paragraph",
+      "text": "I.- Impartir a los militares conocimientos científicos, técnicos y humanísticos a nivel de educación media superior y educación superior, para el mejor cumplimiento de las misiones de las Armas, Ramas y Servicios de dichas instituciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "II.- Formar profesores para las diversas asignaturas que se impartan en los Establecimientos de Educación Militar."
+    },
+    {
+      "type": "paragraph",
+      "text": "III.- Realizar investigación científica en general y la relacionada con el avance de la ciencia y arte militares."
+    },
+    {
+      "type": "paragraph",
+      "text": "IV.- Hacer llegar los beneficios de la cultura a los componentes del Ejército y Fuerza Aérea, a efecto de ampliar su formación así como sus conocimientos militares, para lograr más eficiencia en el cumplimiento de sus misiones."
+    },
+    {
+      "type": "paragraph",
+      "text": "V.- Desarrollar en los educandos una formación espiritual acorde con los altos intereses de la Patria."
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 4o.- En el Reglamento interior de la Universidad del Ejército y Fuerza Aérea, se determinará la organización de la Universidad del Ejército y Fuerza Aérea, su dependencia administrativa, sus atribuciones, la denominación de sus diversos órganos y la de sus funcionarios."
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 5o.- La Universidad contará con un Consejo Académico, que asesorará pedagógicamente al Director General de Educación Militar."
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 6o.- La Secretaría de la Defensa Nacional expedirá los certificados de estudios, diplomas, títulos profesionales y grados académicos de las carreras y cursos que imparta la Universidad del Ejército y Fuerza Aérea."
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 7o.- Para su funcionamiento, la Universidad dispondrá de los recursos que le sean asignados en el Presupuesto de Egresos de la Federación por conducto de la Secretaría de la Defensa Nacional."
+    }
+  ],
+  "structure": [
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTICULO PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el \"Diario Oficial\" de la Federación."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO TERCERO.- En tanto se expide el reglamento interior de la Universidad del Ejército y Fuerza Aérea, el funcionamiento de la misma se sujetará a las disposiciones que dicte el Secretario de la Defensa Nacional. Los establecimientos de educación militar de nivel medio superior y de tipo superior existentes se regularán por las disposiciones que actualmente las rigen en todo aquello que no se opongan a la presente Ley."
+        },
+        {
+          "type": "paragraph",
+          "text": "México, D. F., a 26 de diciembre de 1975.- Emilio M. González Parra, S. P.- Luis del Toro Calero, D. P.- Germán Corona del Rosal, S. S.- Rogelio García González, D. S.- Rúbricas\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de mil novecientos setenta y cinco, Luis Echeverría Alvarez.- Rúbrica.- El Secretario de la Defensa Nacional, Hermenegildo Cuenca Díaz.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica."
+        }
+      ],
+      "children": []
+    }
+  ]
+}

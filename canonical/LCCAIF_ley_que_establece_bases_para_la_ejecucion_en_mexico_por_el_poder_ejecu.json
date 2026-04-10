@@ -1,0 +1,471 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu",
+  "abbreviation": "LCCAIF",
+  "name": "LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento",
+  "catalog_number": "293",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf",
+    "pdf_filename_origen": "LCCAIF.pdf",
+    "dof_publication": "DOF31/12/1960",
+    "last_reform": "DOF 06/06/2025",
+    "captured_at": "2026-04-09T09:42:34.412162+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO LEY QUE ESTABLECE BASES PARA LA EJECUCIÓN EN MÉXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO Nueva Ley publicada en el Diario Oficial de la Federación el 31 de diciembre de 1960 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "ADOLFO LOPEZ MATEOS, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO:"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Congreso de los Estados Unidos Mexicanos, decreta:"
+    },
+    {
+      "type": "paragraph",
+      "text": "LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO ARTICULO 1o.- Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960."
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 2o.- Se Autoriza al Gobierno Federal efectuar una aportación a la Asociación Internacional de Fomento hasta por el equivalente a 17,000,000 (diecisiete millones) de dólares de los Estados Unidos de América, correspondiente a la vigésima reposición de recursos. Esta cantidad se debe adicionar a las aportaciones anteriores efectuadas por nuestro país."
+    },
+    {
+      "type": "reform_note",
+      "text": "Artículo reformado DOF 08-01-1981, 28-12-1981, 04-11-1983. Fe de erratas al artículo DOF 21-05-1984. Reformado DOF 24-12-1984,",
+      "action": "reformado",
+      "dof_date": "24-12-1984"
+    },
+    {
+      "type": "paragraph",
+      "text": "13-01-1986, 19-01-1988, 26-07-1990, 16-07-1993, 07-05-1997, 30-12-2008, 22-01-2009, 29-12-2014, 06-06-2025 ARTICULO 3o.- La Secretaría de Hacienda y Crédito Público será la única dependencia autorizada para tratar todo lo relativo a la Asociación Internacional de Fomento y ejercer al respecto toda clase de facultades."
+    },
+    {
+      "type": "reform_note",
+      "text": "Artículo reformado DOF 13-01-1986",
+      "action": "reformado",
+      "dof_date": "13-01-1986"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 4o.- El Banco de México, S. A. será el depositario en México de las disponibilidades de la Asociación Internacional de Fomento, de conformidad con el Artículo VI Sección 9 del Convenio Constitutivo del citado Organismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 5o.- (Se deroga)."
+    },
+    {
+      "type": "reform_note",
+      "text": "Artículo derogado DOF 07-05-1997",
+      "action": "derogado",
+      "dof_date": "07-05-1997"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 6o.- Los Gobernadores Propietario y Suplente que representen a México ante la Asociación Internacional de Fomento, serán los mismos que funjan con tal carácter en el Banco Internacional de Reconstrucción y Fomento."
+    },
+    {
+      "type": "reform_note",
+      "text": "Artículo reformado DOF 13-01-1986",
+      "action": "reformado",
+      "dof_date": "13-01-1986"
+    },
+    {
+      "type": "paragraph",
+      "text": "CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO ARTICULO 7o.- El Gobernador Suplente tendrá las facultades del Propietario, en caso de ausencia de éste, salvo las restricciones que establezca la Secretaría de Hacienda y Crédito Público."
+    },
+    {
+      "type": "reform_note",
+      "text": "Artículo reformado DOF 13-01-1986",
+      "action": "reformado",
+      "dof_date": "13-01-1986"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 8o.- (Se deroga)."
+    },
+    {
+      "type": "reform_note",
+      "text": "Artículo derogado DOF 13-01-1986",
+      "action": "derogado",
+      "dof_date": "13-01-1986"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 9o.- El Estado Mexicano reconoce la personalidad jurídica de la Asociación Internacional de Fomento. Los tribunales federales serán los únicos competentes para conocer de los negocios en que sea parte la Asociación Internacional de Fomento, sus funcionarios o empleados residentes en México o que en alguna forma puedan afectar bienes propiedad de dicha Institución."
+    },
+    {
+      "type": "paragraph",
+      "text": "En ningún caso los Tribunales dictarán providencias precautorias sobre los bienes de la Asociación Internacional de Fomento y sólo podrán dictar mandamiento de embargo o ejecución, cuando exista sentencia ejecutoriada en su contra."
+    },
+    {
+      "type": "reform_note",
+      "text": "Párrafo reformado DOF 13-01-1986",
+      "action": "reformado",
+      "dof_date": "13-01-1986"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 10.- Los funcionarios y empleados de la Asociación Internacional de Fomento, así como las propiedades y bienes de este Organismo, sus archivos y sus comunicaciones oficiales, disfrutarán de las inmunidades, privilegios y exenciones tributarias a que se refiere el Texto del Convenio aprobado por los Directores Ejecutivos del Banco Internacional de Reconstrucción y Fomento el 26 de enero de 1960."
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTICULO 11.- El Gobierno Federal requiere exclusivamente de la aprobación de la Cámara de Senadores del Congreso de la Unión, para la terminación, denuncia, suspensión, modificación, enmienda, retiro de reservas y formulación de declaraciones interpretativas del Convenio Constitutivo de la Asociación Internacional de Fomento. Esto de conformidad con lo dispuesto en el artículo 76, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "type": "reform_note",
+      "text": "Artículo reformado DOF 06-06-2025",
+      "action": "reformado",
+      "dof_date": "06-06-2025"
+    }
+  ],
+  "structure": [
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "UNICO.- El presente decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enrique Sada Baigts, D. P.- Guillermo Ramírez Valadez, S. P.- Juan José Osorio Palacios, D. S.José Rodríguez Elías, S. S.- Rúbricas."
+        },
+        {
+          "type": "paragraph",
+          "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos sesenta.- Adolfo López Mateos.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.Rúbrica.- El Secretario de Gobernación, Gustavo Díaz Ordaz.- Rúbrica."
+        },
+        {
+          "type": "paragraph",
+          "text": "CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA A partir de 1993 DECRETO por el que se reforma el Artículo 2o. de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicado en el Diario Oficial de la Federación el 16 de julio de 1993 ARTICULO PRIMERO.- Se reforma el Artículo 2o. de la Ley que Establece Bases para la Ejecución en México por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1960, modificada por Decretos publicados en el propio Diario Oficial de la Federación el 8 de enero de 1981, 28 de diciembre de 1981, 4 de noviembre de 1983, 24 de diciembre de 1984, 13 de enero de 1986, 19 de enero de 1988 y 26 de julio de 1990, para quedar como sigue: .........."
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTICULO SEGUNDO.- Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTICULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+        },
+        {
+          "type": "paragraph",
+          "text": "México, D.F., a 6 de julio de 1993.- Dip. Juan Ramiro Robledo Ruiz, Presidente.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Diego Velázquez Duarte, Secretario.- Sen. Ramón Serrano Ahumada, Secretario.- Rúbricas."
+        },
+        {
+          "type": "paragraph",
+          "text": "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de julio de 1993.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica."
+        },
+        {
+          "type": "paragraph",
+          "text": "CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO DECRETO por el que se reforma la Ley que establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicado en el Diario Oficial de la Federación el 7 de mayo de 1997 ARTICULO UNICO.- Se reforma el artículo 2o. y se deroga el artículo 5o. de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para quedar como sigue: .........."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ARTICULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+        },
+        {
+          "type": "paragraph",
+          "text": "México, D.F., a 16 de abril de 1997.- Dip. Netzahualcóyotl de la Vega García, Presidente.- Sen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Judith Murguía Corral, Presidenta.- Dip. Gerardo Roberto Flores González, Secretario.- Sen. José Luis Medina Aguiar, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de abril de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica."
+        },
+        {
+          "type": "paragraph",
+          "text": "CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO DECRETO por el que se reforma el artículo 2 de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2008"
+        }
+      ],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "ARTÍCULO PRIMERO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el Artículo 2 de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1960, para quedar como sigue: ………."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "ARTÍCULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 6 de noviembre de 2008.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Gustavo Madero Muñoz, Presidente.- Dip. Jacinto Gomez Pasillas, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO DECRETO por el que se reforma el artículo 2 de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 22 de enero de 2009"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "ARTÍCULO PRIMERO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el artículo 2 de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1960, modificada por Decretos publicados en el propio Diario Oficial de la Federación el 8 de enero de 1981, 28 de diciembre de 1981, 4 de noviembre de 1983, 24 de diciembre de 1984, 19 de enero de 1988, 26 de julio de 1990, 16 de julio de 1993, 7 de mayo de 1997 y 01 de junio de 2001, para quedar como sigue: ……….."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "ARTÍCULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 11 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip."
+            },
+            {
+              "type": "paragraph",
+              "text": "César Horacio Duarte Jáquez, Presidente.- Sen. Renan C. Zoreda Novelo, Secretario.- Dip. Rosa Elia Romero Guzmán, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de enero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic."
+            },
+            {
+              "type": "paragraph",
+              "text": "Fernando Francisco Gómez Mont Urueta.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO DECRETO por el que se reforma el artículo 2o. de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2014 ARTICULO PRIMERO.- Se reforma el Artículo 2o. de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1960, modificada por Decretos publicados en el propio Diario Oficial de la Federación el 8 de enero de 1981, 28 de diciembre de 1981, 4 de noviembre de 1983, 24 de diciembre de 1984, 19 de enero de 1988, 26 de julio de 1990, 16 de julio de 1993, 7 de mayo de 1997, 01 de junio de 2001, 30 de diciembre de 2008 y 22 de enero de 2009, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "ARTÍCULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "ARTÍCULO SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIO",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 4 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO DECRETO por el que se reforma la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 6 de junio de 2025"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-primer",
+          "heading": "Artículo Primero",
+          "descriptor": null,
+          "ordinal": "Artículo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforman los artículos 2o. y 11 de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1960, modificada por decretos publicados en el Diario Oficial de la Federación el 8 de enero de 1981, 28 de diciembre de 1981, 4 de noviembre de 1983, 24 de diciembre de 1984, 13 de enero de 1986, 19 de enero de 1988, 26 de julio de 1990, 16 de julio de 1993, 7 de mayo de 1997, 1 de junio de 2001, 30 de diciembre de 2008, 22 de enero de 2009 y 29 de diciembre de 2014, para quedar como sigue: ……."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-segund",
+          "heading": "Artículo Segundo",
+          "descriptor": null,
+          "ordinal": "Artículo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorio",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-unic",
+          "heading": "Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 28 de abril de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Lizeth Sánchez García, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 06 de junio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

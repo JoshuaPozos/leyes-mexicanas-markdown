@@ -1,0 +1,2170 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LFRA_ley_federal_de_responsabilidad_ambiental",
+  "abbreviation": "LFRA",
+  "name": "LEY Federal de Responsabilidad Ambiental",
+  "catalog_number": "160",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf",
+    "pdf_filename_origen": "LFRA.pdf",
+    "dof_publication": "DOF07/06/2013",
+    "last_reform": "DOF 14/11/2025",
+    "captured_at": "2026-04-09T09:57:10.079381+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "Nueva Ley publicada en el Diario Oficial de la Federación el 7 de junio de 2013 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA   Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, DE LA LEY GENERAL DE VIDA SILVESTRE, DE LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, DE LA LEY DE AGUAS NACIONALES, LEY GENERAL DE BIENES NACIONALES."
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-primer",
+      "heading": "ARTÍCULO PRIMERO",
+      "descriptor": null,
+      "ordinal": "ARTÍCULO PRIMERO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley Federal de Responsabilidad Ambiental."
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-primer",
+      "heading": "TÍTULO PRIMERO",
+      "descriptor": "De la responsabilidad ambiental",
+      "ordinal": "PRIMERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-primer",
+          "heading": "CAPÍTULO PRIMERO",
+          "descriptor": "Disposiciones generales",
+          "ordinal": "PRIMERO",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-primer.articulo-1",
+              "heading": "Artículo 1o",
+              "descriptor": null,
+              "ordinal": "1o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La presente Ley regula la responsabilidad ambiental que nace de los daños ocasionados al ambiente, así como la reparación y compensación de dichos daños cuando sea exigible a través de los procesos judiciales federales previstos por el artículo 17 constitucional, los mecanismos alternativos de solución de controversias, los procedimientos administrativos y aquellos que correspondan a la comisión de delitos contra el ambiente y la gestión ambiental."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los preceptos de este ordenamiento son reglamentarios del artículo 4o. Constitucional, de orden público e interés social y tienen por objeto la protección, la preservación y restauración del ambiente y el equilibrio ecológico, para garantizar los derechos humanos a un medio ambiente sano para el desarrollo y bienestar de toda persona, y a la responsabilidad generada por el daño y el deterioro ambiental."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El régimen de responsabilidad ambiental reconoce que el daño ocasionado al ambiente es independiente del daño patrimonial sufrido por los propietarios de los elementos y recursos naturales."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Reconoce que el desarrollo nacional sustentable debe considerar los valores económicos, sociales y ambientales."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El proceso judicial previsto en el presente Título se dirigirá a determinar la responsabilidad ambiental, sin menoscabo de los procesos para determinar otras formas de responsabilidad que procedan en términos patrimoniales, administrativos o penales."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-primer.articulo-2",
+              "heading": "Artículo 2o",
+              "descriptor": null,
+              "ordinal": "2o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Para los efectos de esta Ley se estará a las siguientes definiciones, así como aquellas previstas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, las Leyes ambientales y los tratados internacionales de los que México sea Parte. Se entiende por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Actividades consideradas como altamente riesgosas: Las actividades que implican la generación o manejo de sustancias con características corrosivas, reactivas, radioactivas, explosivas, tóxicas, inflamables o biológico-infecciosas en términos de lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Criterio de equivalencia: Lineamiento obligatorio para orientar las medidas de reparación y compensación ambiental, que implica restablecer los elementos y recursos naturales o servicios ambientales por otros de las mismas características;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Daño al ambiente: Pérdida, cambio, deterioro, menoscabo, afectación o modificación adversos y mensurables de los hábitat, de los ecosistemas, de los elementos y recursos naturales, de sus condiciones químicas, físicas o biológicas, de las relaciones de interacción que se dan entre éstos, así como de los servicios ambientales que proporcionan. Para esta definición se estará a lo dispuesto por el artículo 6o. de esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Daño indirecto: Es aquel daño que en una cadena causal no constituye un efecto inmediato del acto u omisión que es imputado a una persona en términos de esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Se entiende por cadena causal la secuencia de influencias de causa y efecto de un fenómeno que se representa por eslabones relacionados;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "No se considerará que existe un daño indirecto, cuando entre la conducta imputada y el resultado que se le atribuye, sobrevenga el hecho doloso de un tercero que resulte completamente determinante del daño. Esta excepción no operará si el tercero obra por instrucciones, en representación o beneficio, con conocimiento, consentimiento o bajo el amparo de la persona señalada como responsable;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Los daños indirectos regulados por la presente Ley se referirán exclusivamente a los efectos ambientales de la conducta imputada al responsable;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Estado base: Condición en la que se habrían hallado los hábitat, los ecosistemas, los elementos y recursos naturales, las relaciones de interacción y los servicios ambientales, en el momento previo inmediato al daño y de no haber sido éste producido;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Fondo: El Fondo de Responsabilidad Ambiental;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Ley: La Ley Federal de Responsabilidad Ambiental;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Leyes ambientales: La Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Desarrollo Forestal Sustentable, la Ley de Navegación y Comercio Marítimos, la Ley de Aguas Nacionales, la Ley de Cambio Climático, y la Ley General de Bienes Nacionales; así como aquellos ordenamientos cuyo objeto o disposiciones se refieran a la preservación o restauración del equilibrio ecológico y la protección del ambiente o sus elementos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Mecanismos alternativos: Los mecanismos alternativos de solución de controversias, tales como la mediación, la conciliación y los demás que permitan a las personas prevenir conflictos, o en su caso, solucionarlos, sin necesidad de intervención de los órganos jurisdiccionales, salvo para garantizar la legalidad y eficacia del convenio adoptado por los participantes y el cumplimiento del mismo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Procuraduría: La Procuraduría Federal de Protección al Ambiente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Sanción económica: El pago impuesto por la autoridad judicial para penalizar una conducta ilícita dañosa, dolosa con la finalidad de lograr una prevención general y especial e inhibir en el futuro comportamientos prohibidos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "Servicios ambientales: Las funciones que desempeña un elemento o recurso natural en beneficio de otro elemento o recurso natural, los hábitat, ecosistema o sociedad."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-primer.articulo-3",
+              "heading": "Artículo 3o",
+              "descriptor": null,
+              "ordinal": "3o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Las definiciones de esta Ley, así como la forma, prelación, alcance, niveles y alternativas de la reparación y compensación del daño al ambiente que en ella se prevén, serán aplicables a:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Los convenios, procedimientos y actos administrativos suscritos o sustanciados de conformidad a las Leyes ambientales y los tratados internacionales de los que México sea Parte;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "El procedimiento judicial de responsabilidad ambiental previsto en esta Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "La interpretación de la Ley penal en materia de delitos contra el ambiente y la gestión ambiental, así como a los procedimientos penales iniciados en relación a estos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Los mecanismos alternativos de solución de controversias previstos en las Leyes, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "La Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-primer.articulo-4",
+              "heading": "Artículo 4o",
+              "descriptor": null,
+              "ordinal": "4o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La acción y el procedimiento para hacer valer la responsabilidad ambiental a que hace referencia el presente Título, podrán ejercerse y sustanciarse independientemente de las responsabilidades y los procedimientos administrativos, las acciones civiles y penales procedentes."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-primer.articulo-5",
+              "heading": "Artículo 5o",
+              "descriptor": null,
+              "ordinal": "5o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Obra dolosamente quien, conociendo la naturaleza dañosa de su acto u omisión, o previendo como posible un resultado dañoso de su conducta, quiere o acepta realizar dicho acto u omisión."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-primer.articulo-6",
+              "heading": "Artículo 6o",
+              "descriptor": null,
+              "ordinal": "6o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- No se considerará que existe daño al ambiente cuando los menoscabos, pérdidas, afectaciones, modificaciones o deterioros no sean adversos en virtud de:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Haber sido expresamente manifestados por el responsable y explícitamente identificados, delimitados en su alcance, evaluados, mitigados y compensados mediante condicionantes, y autorizados por la Secretaría, previamente a la realización de la conducta que los origina, mediante la evaluación del impacto ambiental o su informe preventivo, la autorización de cambio de uso de suelo forestal o algún otro tipo de autorización análoga expedida por la Secretaría; o de que,"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "No rebasen los límites previstos por las disposiciones que en su caso prevean las Leyes ambientales o las normas oficiales mexicanas."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La excepción prevista por la fracción I del presente artículo no operará, cuando se incumplan los términos o condiciones de la autorización expedida por la autoridad."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-primer.articulo-7",
+              "heading": "Artículo 7o",
+              "descriptor": null,
+              "ordinal": "7o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- A efecto de otorgar certidumbre e inducir a los agentes económicos a asumir los costos de los daños ocasionados al ambiente, la Secretaría deberá emitir paulatinamente normas oficiales mexicanas, que tengan por objeto establecer caso por caso y atendiendo la Ley de la materia, las cantidades mínimas de deterioro, pérdida, cambio, menoscabo, afectación, modificación y contaminación, necesarias para considerarlos como adversos y dañosos. Para ello, se garantizará que dichas cantidades sean significativas y se consideren, entre otros criterios, el de la capacidad de regeneración de los elementos naturales."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La falta de expedición de las normas referidas en el párrafo anterior, no representará impedimento ni eximirá al responsable de su obligación de reparar el daño a su estado base, atendiendo al concepto previsto en el artículo 2o., fracción III, de esta Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas y las organizaciones sociales y empresariales interesadas, podrán presentar a la Secretaría propuestas de las normas oficiales mexicanas a las que hace referencia el presente artículo, en términos del procedimiento previsto por la Ley Federal sobre Metrología y Normalización."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-primer.articulo-8",
+              "heading": "Artículo 8o",
+              "descriptor": null,
+              "ordinal": "8o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Las garantías financieras que hayan sido obtenidas de conformidad a lo previsto por el artículo 147 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente previo al momento de producirse un daño al ambiente, con el objeto de hacer frente a la responsabilidad ambiental, serán consideras como una atenuante de la Sanción Económica por el órgano jurisdiccional al momento de dictar sentencia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El monto de las garantías financieras a que hace referencia el párrafo anterior, deberá estar destinado específica y exclusivamente a cubrir las responsabilidades ambientales que se deriven de su actividad económica, productiva o profesional. Las garantías deberán quedar constituidas desde la fecha en que surta efectos la autorización necesaria para realizar la actividad, y mantenerse vigentes durante todo el periodo de desarrollo de la misma."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En términos de lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, se integrará un Sistema Nacional de Seguros de Riesgo Ambiental. del Código Nacional de Procedimientos Civiles y Familiares, siempre que no contravengan lo dispuesto en esta Ley."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Artículo reformado DOF 14-11-2025",
+                  "action": "reformado",
+                  "dof_date": "14-11-2025"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-segund",
+          "heading": "CAPÍTULO SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Obligaciones derivadas de los daños ocasionados al ambiente"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-10",
+              "heading": "Artículo 10",
+              "descriptor": null,
+              "ordinal": "10",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Toda persona física o moral que con su acción u omisión ocasione directa o indirectamente un daño al ambiente, será responsable y estará obligada a la reparación de los daños, o bien, cuando la reparación no sea posible a la compensación ambiental que proceda, en los términos de la presente Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "De la misma forma estará obligada a realizar las acciones necesarias para evitar que se incremente el daño ocasionado al ambiente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-11",
+              "heading": "Artículo 11",
+              "descriptor": null,
+              "ordinal": "11",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La responsabilidad por daños ocasionados al ambiente será subjetiva, y nacerá de actos u omisiones ilícitos con las excepciones y supuestos previstos en este Título."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En adición al cumplimiento de las obligaciones previstas en el artículo anterior, cuando el daño sea ocasionado por un acto u omisión ilícitos dolosos, la persona responsable estará obligada a pagar una sanción económica."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para los efectos de esta Ley, se entenderá que obra ilícitamente el que realiza una conducta activa u omisiva en contravención a las disposiciones legales, reglamentarias, a las normas oficiales mexicanas, o a las autorizaciones, licencias, permisos o concesiones expedidas por la Secretaría u otras autoridades."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-12",
+              "heading": "Artículo 12",
+              "descriptor": null,
+              "ordinal": "12",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Será objetiva la responsabilidad ambiental, cuando los daños ocasionados al ambiente devengan directa o indirectamente de:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Cualquier acción u omisión relacionada con materiales o residuos peligrosos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "El uso u operación de embarcaciones en arrecifes de coral;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "La realización de las actividades consideradas como Altamente Riesgosas, y"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-13",
+              "heading": "Artículo 13",
+              "descriptor": null,
+              "ordinal": "13",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La reparación de los daños ocasionados al ambiente consistirá en restituir a su Estado Base los hábitat, los ecosistemas, los elementos y recursos naturales, sus condiciones químicas, físicas o biológicas y las relaciones de interacción que se dan entre estos, así como los servicios ambientales que proporcionan, mediante la restauración, restablecimiento, tratamiento, recuperación o remediación."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La reparación deberá llevarse a cabo en el lugar en el que fue producido el daño."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los propietarios o poseedores de los inmuebles en los que se haya ocasionado un daño al ambiente, deberán permitir su reparación, de conformidad a esta Ley. El incumplimiento a dicha obligación dará lugar a la imposición de medios de apremio y a la responsabilidad penal que corresponda."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los propietarios y poseedores que resulten afectados por las acciones de reparación del daño al ambiente producido por terceros, tendrán derecho de repetir respecto a la persona que resulte responsable por los daños y perjuicios que se les ocasionen."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-14",
+              "heading": "Artículo 14",
+              "descriptor": null,
+              "ordinal": "14",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La compensación ambiental procederá por excepción en los siguientes casos:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Cuando resulte material o técnicamente imposible la reparación total o parcial del daño, o"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Cuando se actualicen los tres supuestos siguientes:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Que los daños al ambiente hayan sido producidos por una obra o actividad ilícita que debió haber sido objeto de evaluación y autorización previa en materia de impacto ambiental o cambio de uso de suelo en terrenos forestales;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Que la Secretaría haya evaluado posteriormente en su conjunto los daños producidos ilícitamente, y las obras y actividades asociadas a esos daños que se encuentren aún pendientes de realizar en el futuro, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "Que la Secretaría expida una autorización posterior al daño, al acreditarse plenamente que tanto las obras y las actividades ilícitas, como las que se realizarán en el futuro, resultan en su conjunto sustentables, y jurídica y ambientalmente procedentes en términos de lo dispuesto por las Leyes ambientales y los instrumentos de política ambiental."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En los casos referidos en la fracción II del presente artículo, se impondrá obligadamente la sanción económica sin los beneficios de reducción de los montos previstos por esta Ley. Asimismo, se iniciarán de manera oficiosa e inmediata los procedimientos de responsabilidad administrativa y penal a las personas responsables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las autorizaciones administrativas previstas en el inciso c) de este artículo no tendrán validez, sino hasta el momento en el que el responsable haya realizado la compensación ambiental, que deberá ser ordenada por la Secretaría mediante condicionantes en la autorización de impacto ambiental, y en su caso, de cambio de uso de suelo en terrenos forestales."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La compensación por concepto de cambio de uso de suelo en terrenos forestales, se llevará a cabo en términos de lo dispuesto por la Ley General de Desarrollo Forestal Sustentable."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los daños patrimoniales y los perjuicios sufridos podrán reclamarse de conformidad con el Código Civil Federal."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-15",
+              "heading": "Artículo 15",
+              "descriptor": null,
+              "ordinal": "15",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La compensación ambiental podrá ser total o parcial. En éste último caso, la misma será fijada en la proporción en que no haya sido posible restaurar, restablecer, recuperar o remediar el bien, las condiciones o relación de interacción de los elementos naturales dañados."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-16",
+              "heading": "Artículo 16",
+              "descriptor": null,
+              "ordinal": "16",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Para la reparación del daño y la compensación ambiental se aplicarán los niveles y las alternativas previstos en este ordenamiento y las Leyes ambientales. La falta de estas disposiciones no será impedimento ni eximirá de la obligación de restituir lo dañado a su estado base."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-17",
+              "heading": "Artículo 17",
+              "descriptor": null,
+              "ordinal": "17",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La compensación ambiental consistirá en la inversión o las acciones que el responsable haga a su cargo, que generen una mejora ambiental, sustitutiva de la reparación total o parcial del daño ocasionado al ambiente, según corresponda, y equivalente a los efectos adversos ocasionados por el daño."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Dicha inversión o acciones deberán hacerse en el ecosistema o región ecológica en donde se hubiese ocasionado el daño. De resultar esto materialmente imposible la inversión o las acciones se llevarán a cabo en un lugar alternativo, vinculado ecológica y geográficamente al sitio dañado y en beneficio de la comunidad afectada. En este último caso serán aplicables los criterios sobre sitios prioritarios de reparación de daños, que en su caso expida la Secretaría en términos de lo dispuesto por la Sección 5, Capítulo Tercero del presente Título."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El responsable podrá cumplir con la obligación prevista en el presente artículo, mediante la contratación de terceros."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-18",
+              "heading": "Artículo 18",
+              "descriptor": null,
+              "ordinal": "18",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Ejecutivo Federal a través de la Secretaría está facultado para realizar subsidiariamente por razones de urgencia o importancia, la reparación inmediata de los daños que ocasionen terceros al ambiente. Dicha reparación podrá hacerse con cargo al Fondo previsto por la Sección 5, Capítulo Tercero del presente Título."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En estos casos la administración pública federal deberá demandar al responsable la restitución de los recursos económicos erogados, incluyendo los intereses legales correspondientes, los que serán reintegrados al fondo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-19",
+              "heading": "Artículo 19",
+              "descriptor": null,
+              "ordinal": "19",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La sanción económica prevista en la presente Ley, será accesoria a la reparación o compensación del Daño ocasionado al ambiente y consistirá en el pago por un monto equivalente de:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "De trescientos a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción, cuando el responsable sea una persona física, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "De mil a seiscientos mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción, cuando la responsable sea una persona moral."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Dicho monto se determinará en función de daño producido."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-20",
+              "heading": "Artículo 20",
+              "descriptor": null,
+              "ordinal": "20",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los montos mínimos y máximos de la Sanción Económica prevista para una persona moral, se reducirán a su tercera parte cuando se acrediten al menos tres de las siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Que dicha persona no ha sido sentenciada previamente en términos de lo dispuesto por esta Ley; ni es reincidente en términos de lo dispuesto por las Leyes ambientales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Que sus empleados, representantes, y quienes ejercen cargos de dirección, mando o control en su estructura u organización no han sido sentenciados por delitos contra el ambiente o la gestión ambiental, cometidos bajo el amparo de la persona moral responsable, en su beneficio o con sus medios;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Haber contado por lo menos con tres años de anterioridad a la conducta que ocasionó el daño, con un órgano de control interno dedicado de hecho a verificar permanentemente el cumplimiento de las obligaciones de la persona moral derivadas de las Leyes, licencias, autorizaciones, permisos o concesiones ambientales; así como con un sistema interno de gestión y capacitación ambiental en funcionamiento permanente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Contar con la garantía financiera que en su caso se requiera en términos de lo dispuesto por el artículo 8o. de esta Ley, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Contar con alguno de los certificados resultado de la auditoría ambiental a la que hace referencia el artículo 38 BIS de la Ley General del Equilibrio Ecológico y la Protección al Ambiente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-21",
+              "heading": "Artículo 21",
+              "descriptor": null,
+              "ordinal": "21",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Si el responsable acredita haber realizado el pago de una multa administrativa impuesta por la procuraduría o la Comisión Nacional del Agua, como consecuencia a la realización de la misma conducta ilícita que dio origen a su responsabilidad ambiental, el Juez tomará en cuenta dicho pago integrándolo en el cálculo del monto de la sanción económica, sin que ésta pueda exceder el límite previsto para el caso en la presente Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "No podrá imponerse la Sanción Económica a la persona física que previamente haya sido multada por un Juez penal, en razón de haber realizado la misma conducta ilícita que da origen a su responsabilidad ambiental."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-22",
+              "heading": "Artículo 22",
+              "descriptor": null,
+              "ordinal": "22",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Siempre que se ejerza la acción prevista en el presente Título, se entenderá por demandada la imposición de la sanción económica. En ningún caso el juez podrá dejar de condenar al responsable a este pago, salvo en los casos previstos en el artículo anterior, cuando los daños ocasionados al ambiente provengan de una conducta lícita, o bien cuando exista el reconocimiento judicial de algún acuerdo reparatorio voluntario derivado de los mecanismos alternativos de resolución de controversias previstos por esta Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-23",
+              "heading": "Artículo 23",
+              "descriptor": null,
+              "ordinal": "23",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- La sanción económica la determinará el juez tomando en cuenta la capacidad económica de la persona responsable para realizar el pago, así como los límites, requisitos y garantías previstos en su favor por la Constitución Política de los Estados Unidos Mexicanos; la gravedad del daño ocasionado y el carácter intencional o negligente de la violación, asegurándose que se neutralice el beneficio económico obtenido, si lo hubiere, y se garantice prioritariamente el monto de las erogaciones del actor o actores que hayan sido necesarias para acreditar la responsabilidad. En cada caso el órgano jurisdiccional preverá que la sanción económica sea claramente suficiente para lograr los fines de inhibición y prevención general y especial a que hace referencia el artículo 2o., fracción XI de esta Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El límite máximo del importe de la Sanción Económica previsto en el artículo 19 no incluirá el pago de las erogaciones hechas para acreditar la responsabilidad ambiental por quien demande, concepto que siempre será garantizado al momento de dictar sentencia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El juez deducirá del monto correspondiente al pago de sanción económica a cargo del responsable, el importe de las erogaciones que el actor o actores que hayan probado su pretensión hubieren realizado para acreditar la responsabilidad, y el responsable tendrá la obligación de consignarlo al juzgado para su entrega a aquellos. El pago de dicho importe será preferente respecto de cualquiera otra obligación."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-24",
+              "heading": "Artículo 24",
+              "descriptor": null,
+              "ordinal": "24",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Las personas morales serán responsables del daño al ambiente ocasionado por sus representantes, administradores, gerentes, directores, empleados y quienes ejerzan dominio funcional de sus operaciones, cuando sean omisos o actúen en el ejercicio de sus funciones, en representación o bajo el amparo o beneficio de la persona moral, o bien, cuando ordenen o consientan la realización de las conductas dañosas."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas que se valgan de un tercero, lo determinen o contraten para realizar la conducta causante del daño serán solidariamente responsables, salvo en el caso de que se trate de la prestación de servicios de confinamiento de residuos peligrosos realizada por empresas autorizadas por la Secretaría."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "No existirá responsabilidad alguna, cuando el daño al ambiente tenga como causa exclusiva un caso fortuito o fuerza mayor."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-25",
+              "heading": "Artículo 25",
+              "descriptor": null,
+              "ordinal": "25",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los daños ocasionados al ambiente serán atribuibles a la persona física o moral que omita impedirlos, si ésta tenía el deber jurídico de evitarlos. En estos casos se considerará que el daño es consecuencia de una conducta omisiva, cuando se determine que el que omite impedirlo tenía el deber de actuar para ello derivado de una Ley, de un contrato, de su calidad de garante o de su propio actuar precedente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-segund.articulo-26",
+              "heading": "Artículo 26",
+              "descriptor": null,
+              "ordinal": "26",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Cuando se acredite que el daño o afectación, fue ocasionado dolosamente por dos o más personas, y no fuese posible la determinación precisa del daño aportado por cada responsable, todas serán responsables solidariamente de la reparación o compensación que resultare, sin perjuicio, en su caso, del derecho de repetición entre sí."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "No habrá responsabilidad solidaria en los términos previstos por el presente artículo, cuando se acredite que la persona responsable:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Ha contado por lo menos con tres años de anterioridad a la conducta que ocasionó el daño, con un órgano de control interno dedicado de hecho a verificar permanentemente el cumplimiento de las obligaciones de la persona moral derivadas de las Leyes, licencias, autorizaciones, permisos o concesiones ambientales; así como con un sistema interno de gestión y capacitación ambiental en funcionamiento permanente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Cuenta con alguno de los certificados resultado de la auditoría ambiental a la que hace referencia el artículo 38 BIS de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Cuente con la garantía financiera prevista en el artículo 8o. de esta Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La sanción económica que corresponda será impuesta individualmente a cada una de las responsables."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-tercer",
+          "heading": "CAPÍTULO TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Procedimiento judicial de responsabilidad ambiental"
+            }
+          ],
+          "children": [
+            {
+              "type": "seccion",
+              "id": "titulo-primer.capitulo-tercer.seccion-1",
+              "heading": "SECCIÓN 1",
+              "descriptor": "De la acción para demandar la responsabilidad ambiental",
+              "ordinal": "1",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-1.articulo-27",
+                  "heading": "Artículo 27",
+                  "descriptor": null,
+                  "ordinal": "27",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Las personas e instituciones legitimadas conforme al artículo 28 de la presente Ley, podrán demandar la responsabilidad ambiental y el cumplimiento de las obligaciones, pagos y prestaciones previstos en este Título, en términos de lo dispuesto por la presente Ley, el Código Nacional de Procedimientos Civiles y Familiares, o de conformidad a la ley federal que regule los procedimientos judiciales a los que hace referencia el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos."
+                    },
+                    {
+                      "type": "reform_note",
+                      "text": "Artículo reformado DOF 14-11-2025",
+                      "action": "reformado",
+                      "dof_date": "14-11-2025"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-1.articulo-28",
+                  "heading": "Artículo 28",
+                  "descriptor": null,
+                  "ordinal": "28",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Se reconoce derecho e interés legítimo para ejercer acción y demandar judicialmente la responsabilidad ambiental, la reparación y compensación de los daños ocasionados al ambiente, el pago de la Sanción Económica, así como las prestaciones a las que se refiere el presente Título a:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Las personas físicas habitantes de la comunidad adyacente al daño ocasionado al ambiente;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Las personas morales privadas mexicanas, sin fines de lucro, cuyo objeto social sea la protección al ambiente en general, o de alguno de sus elementos, cuando actúen en representación de algún habitante de las comunidades previstas en la fracción I;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "La Federación a través de la procuraduría, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "Las Procuradurías o instituciones que ejerzan funciones de protección ambiental de las entidades federativas y del Distrito Federal en el ámbito de su circunscripción territorial, conjuntamente con la procuraduría."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas morales referidas en la fracción II de este artículo, deberán acreditar que fueron legalmente constituidas por lo menos tres años antes de la presentación de la demanda por daño ocasionado al ambiente. Asimismo deberán cumplir por los requisitos previstos por el Código Nacional de Procedimientos Civiles y Familiares."
+                    },
+                    {
+                      "type": "reform_note",
+                      "text": "Párrafo reformado DOF 14-11-2025",
+                      "action": "reformado",
+                      "dof_date": "14-11-2025"
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Los legitimados en las fracciones I y II tendrán además derecho e interés legítimo para reclamar el pago de las erogaciones que hayan hecho para acreditar la responsabilidad ambiental."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-1.articulo-29",
+                  "heading": "Artículo 29",
+                  "descriptor": null,
+                  "ordinal": "29",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- La acción a la que hace referencia el presente Título prescribe en doce años, contados a partir del día en que se produzca el daño al ambiente y sus efectos."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Salvo en los casos previstos en los artículos 23 y 28 de la presente Ley, ninguna de las partes será condenada al pago de gastos y costas judiciales."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-1.articulo-30",
+                  "heading": "Artículo 30",
+                  "descriptor": null,
+                  "ordinal": "30",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- El Poder Judicial de la Federación contará con juzgados de Distrito con jurisdicción especial en materia ambiental."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "En ausencia de los anteriores serán competentes para conocer de los procedimientos judiciales de responsabilidad ambiental a que hace referencia el presente Título los jueces de distrito que correspondan según la materia."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-primer.capitulo-tercer.seccion-2",
+              "heading": "SECCIÓN 2",
+              "descriptor": "De la tutela anticipada y medidas cautelares",
+              "ordinal": "2",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-2.articulo-31",
+                  "heading": "Artículo 31",
+                  "descriptor": null,
+                  "ordinal": "31",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- La autoridad jurisdiccional que conozca de las acciones y demandas a que hace referencia el presente Capítulo, deberá ordenar a la Secretaría y a la Procuraduría, a efecto de que imponga inmediatamente las medidas preventivas y correctivas procedentes en el ámbito de sus atribuciones."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-2.articulo-32",
+                  "heading": "Artículo 32",
+                  "descriptor": null,
+                  "ordinal": "32",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- En adición a lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares, durante el procedimiento el Juez podrá decretar las medidas precautorias siguientes:"
+                    },
+                    {
+                      "type": "reform_note",
+                      "text": "Párrafo reformado DOF 14-11-2025",
+                      "action": "reformado",
+                      "dof_date": "14-11-2025"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "El aseguramiento de documentos, libros, cosas, papeles y bienes relacionados con los daños, así como con el cumplimiento de las obligaciones jurídicas del demandado, previstas por las Leyes ambientales y los tratados internacionales de los que México sea Parte, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "El aseguramiento o toma de muestras de sustancias peligrosas, materiales, residuos, líquidos, contaminantes y de los elementos naturales relacionados con el daño ocasionado al ambiente."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las medidas cautelares se tramitarán y resolverán de conformidad con lo establecido por el Código Nacional de Procedimientos Civiles y Familiares."
+                    },
+                    {
+                      "type": "reform_note",
+                      "text": "Párrafo reformado DOF 14-11-2025",
+                      "action": "reformado",
+                      "dof_date": "14-11-2025"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-2.articulo-33",
+                  "heading": "Artículo 33",
+                  "descriptor": null,
+                  "ordinal": "33",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Los terceros propietarios o poseedores de los inmuebles en los que se haya ocasionado el daño estarán obligados a permitir las medidas precautorias que resuelva el órgano jurisdiccional. En todo caso tendrán derecho de repetir respecto a la persona que resulta responsable de ocasionar dichos daños."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-primer.capitulo-tercer.seccion-3",
+              "heading": "SECCIÓN 3",
+              "descriptor": "De los elementos de prueba",
+              "ordinal": "3",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-3.articulo-34",
+                  "heading": "Artículo 34",
+                  "descriptor": null,
+                  "ordinal": "34",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- El órgano jurisdiccional podrá allegarse oficiosamente de los medios de prueba que considere necesarios, sin más limitación que las establecidas en la ley."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El Juez requerirá a la Secretaría y a la Procuraduría para que aporten todos los elementos periciales, testimoniales, documentales y demás indicios y elementos de prueba con los que cuenten. Los servidores públicos estarán obligados a cumplir con dicha obligación."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-3.articulo-35",
+                  "heading": "Artículo 35",
+                  "descriptor": null,
+                  "ordinal": "35",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Para acreditar los hechos o circunstancias en relación al estado base, el daño ocasionado al ambiente, así como el nexo causal, las partes y las autoridades podrán utilizar fotografías, imágenes de satélite, estudios de poblaciones y en general toda clase de elementos aportados por la técnica y la ciencia. Salvo en los casos en que el Código Nacional de Procedimientos Civiles y Familiares otorgue mayor valor probatorio, estos medios de prueba constituirán indicios."
+                    },
+                    {
+                      "type": "reform_note",
+                      "text": "Artículo reformado DOF 14-11-2025",
+                      "action": "reformado",
+                      "dof_date": "14-11-2025"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-3.articulo-36",
+                  "heading": "Artículo 36",
+                  "descriptor": null,
+                  "ordinal": "36",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".-El estado base se determinará a partir de la mejor información disponible al momento de su valoración."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El nexo de causalidad entre el daño ocasionado y la conducta imputada al demandado debe probarse en la sustanciación del juicio. El juez considerará en su valoración la naturaleza intrínseca de la conducta y la forma en que se ha desarrollado para generar o causar el daño."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-primer.capitulo-tercer.seccion-4",
+              "heading": "SECCIÓN 4",
+              "descriptor": "De la sentencia, ejecución y seguimiento",
+              "ordinal": "4",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-4.articulo-37",
+                  "heading": "Artículo 37",
+                  "descriptor": null,
+                  "ordinal": "37",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Además de lo previsto por el Código Nacional de Procedimientos Civiles y Familiares, la sentencia condenatoria que se dicte deberá precisar:"
+                    },
+                    {
+                      "type": "reform_note",
+                      "text": "Párrafo reformado DOF 14-11-2025",
+                      "action": "reformado",
+                      "dof_date": "14-11-2025"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "La obligación de reparar ambientalmente el daño que corresponda;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "La obligación de compensar ambientalmente a través de las acciones que procedan, en forma total o parcial;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "Las medidas y acciones necesarias para evitar que se incremente el daño ocasionado al ambiente;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "El pago de la Sanción Económica que resulte procedente, así como los razonamientos y justificación respecto al por qué el monto impuesto es suficiente para lograr los fines de inhibición y prevención general y especial a los que hace referencia el artículo 2o., fracción XI de esta Ley;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "V",
+                      "text": "El importe que corresponda pagar a favor del actor o actores que hayan probado su pretensión, correspondiente a los gastos realizados para acreditar la responsabilidad, que deberá ser deducido del monto determinado en la Sanción Económica y consignado ante el Juez en términos de los dispuesto por el artículo 23 de esta Ley, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VI",
+                      "text": "Los plazos para el cumplimiento de las obligaciones del responsable."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-4.articulo-38",
+                  "heading": "Artículo 38",
+                  "descriptor": null,
+                  "ordinal": "38",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- De conformidad a lo previsto por el Código Nacional de Procedimientos Civiles y Familiares, una vez que cause ejecutoria la sentencia que resulte condenatoria, el juez dará vista a las partes para que dentro del término de treinta días se pronuncien sobre:"
+                    },
+                    {
+                      "type": "reform_note",
+                      "text": "Párrafo reformado DOF 14-11-2025",
+                      "action": "reformado",
+                      "dof_date": "14-11-2025"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "La forma, términos y niveles de reparación material ambiental del daño ocasionado al ambiente que se propongan para cumplir esas obligaciones;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "La imposibilidad total o parcial de reparar materialmente ambientalmente el daño, y en consecuencia, la forma, lugar y alcance de la compensación ambiental total o parcial, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "Los plazos propuestos para el cumplimiento de las obligaciones del responsable."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Si las partes llegaran a un acuerdo respecto a lo previsto en este artículo, podrán formular una propuesta conjunta."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Cuando exista causa justificada por razones de la complejidad técnica o material para dar cumplimiento a lo determinado por las fracciones I, II y III, el término establecido en el párrafo primero del presente artículo podrá ser prorrogable por el Juez hasta por 30 días."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-4.articulo-39",
+                  "heading": "Artículo 39",
+                  "descriptor": null,
+                  "ordinal": "39",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- En la determinación de las medidas de reparación y compensación ambiental se considerará:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "El criterio de equivalencia recurso-recurso o servicio-servicio;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Las acciones que proporcionen recursos naturales o Servicios Ambientales del mismo tipo, calidad y cantidad que los dañados;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "Las mejores tecnologías disponibles;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "Su viabilidad y permanencia en el tiempo;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "V",
+                      "text": "El costo que implica aplicar la medida;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VI",
+                      "text": "El efecto en la salud y la seguridad pública;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VII",
+                      "text": "La probabilidad de éxito de cada medida;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VIII",
+                      "text": "El grado en que cada medida servirá para prevenir daños futuros y evitar riesgos como consecuencia de su aplicación;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IX",
+                      "text": "El grado en que cada medida beneficiará al ecosistema dañado;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "X",
+                      "text": "El grado en que cada medida tendrá en cuenta los correspondientes intereses sociales, económicos y culturales de la localidad;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XI",
+                      "text": "El periodo de tiempo requerido para la recuperación de los ciclos biológicos que fueron afectados por el daño causado al ecosistema;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XII",
+                      "text": "El grado en que cada una de las medidas logra reparar el lugar que ha sufrido el daño ambiental, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "XIII",
+                      "text": "La vinculación geográfica con el lugar dañado."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-4.articulo-40",
+                  "heading": "Artículo 40",
+                  "descriptor": null,
+                  "ordinal": "40",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Una vez que el juez reciba las propuestas para la reparación del daño o su compensación conforme a lo previsto por el artículo 38 de la presente Ley, requerirá a la Secretaría, para que en el término de diez días, formule su opinión en relación a la idoneidad y legalidad de las propuestas."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "En caso de que una de las partes fuera omisa, se estará a la propuesta de la otra, siempre que ésta reciba opinión favorable de la Secretaría."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "En caso de que ambas partes sean omisas, o las propuestas no cuenten con la opinión favorable de la Secretaría, se estará a lo que disponga dicha dependencia. Para este efecto, se le requerirá para que formule una propuesta oficial en el término de ocho días."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Los gastos en los que incurra la Secretaría podrán hacerse con cargo al Fondo previsto en el artículo 45 de esta Ley. En estos casos, la administración pública federal estará obligada a demandar al responsable la restitución de los recursos económicos erogados, incluyendo los intereses legales correspondientes, los que serán reintegrados a dicho Fondo."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Si existiesen diversas alternativas que pudieran generar los mismos resultados positivos de reparación o compensación, se optará por la menos onerosa para el responsable."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-4.articulo-41",
+                  "heading": "Artículo 41",
+                  "descriptor": null,
+                  "ordinal": "41",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- El plazo para el cumplimiento de las obligaciones materia de la presente Ley, será fijado por el Juez tomando en consideración:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "La naturaleza de las obras o actos necesarios para reparar el daño ocasionado al ambiente y en su caso, cumplir con la compensación ambiental;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Lo propuesto por las partes, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "La opinión o propuesta de la Secretaría."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-4.articulo-42",
+                  "heading": "Artículo 42",
+                  "descriptor": null,
+                  "ordinal": "42",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- La Procuraduría auxiliará a la autoridad judicial en la verificación del cumplimiento de las obligaciones a cargo del responsable."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Dicha dependencia informará bimestralmente al Juez sobre los avances en el cumplimiento de las sentencias. Las partes podrán manifestar lo que a su derecho convenga respecto al incumplimiento o deficiente ejecución de dicha resolución."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-4.articulo-43",
+                  "heading": "Artículo 43",
+                  "descriptor": null,
+                  "ordinal": "43",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Para salvaguardar el interés público del procedimiento judicial, las personas que tengan legitimación activa, deberán cumplir con los requisitos previstos por el Código Nacional de Procedimientos Civiles y Familiares, y deberá salvaguardar la representación adecuada, de conformidad con lo previsto en dicho ordenamiento."
+                    },
+                    {
+                      "type": "reform_note",
+                      "text": "Artículo reformado DOF 14-11-2025",
+                      "action": "reformado",
+                      "dof_date": "14-11-2025"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-4.articulo-44",
+                  "heading": "Artículo 44",
+                  "descriptor": null,
+                  "ordinal": "44",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- Las sentencias y convenios derivados del procedimiento judicial de responsabilidad ambiental serán públicos."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-primer.capitulo-tercer.seccion-5",
+              "heading": "SECCIÓN 5",
+              "descriptor": "Del Fondo",
+              "ordinal": "5",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-5.articulo-45",
+                  "heading": "Artículo 45",
+                  "descriptor": null,
+                  "ordinal": "45",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- El Fondo de Responsabilidad Ambiental tendrá como objeto el pago de la reparación de los daños que sean ocasionados al ambiente, en los casos que por razones de urgencia o importancia determine la administración pública federal, además del pago de los estudios e investigaciones que el juez requiera realizar a la Secretaría o la Procuraduría durante el proceso jurisdiccional de responsabilidad ambiental."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "La información relativa a la operación del Fondo será pública en términos de lo establecido por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-primer.capitulo-tercer.seccion-5.articulo-46",
+                  "heading": "Artículo 46",
+                  "descriptor": null,
+                  "ordinal": "46",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ".- El Fondo estará bajo la vigilancia, supervisión y coordinación de la Secretaría, y su patrimonio se integrará con:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "La sanción económica referida en la fracción XIV del artículo 2o. de la presente Ley, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Los demás recursos que obtenga por cualquier otro concepto."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "La Secretaría expedirá las bases y reglas de operación del fondo, en la que tendrán participación la Procuraduría, las instituciones académicas y las organizaciones sociales."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El patrimonio del Fondo se destinará exclusivamente a la reparación de los daños al ambiente a los que hace referencia el artículo 18 de esta Ley, así como aquellos identificados en sitios prioritarios de conformidad con las bases y reglas de operación que expida la Secretaría."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El Fondo se sujetará a los procedimientos de control, auditoría, transparencia, evaluación y rendición de cuentas que establecen las disposiciones legales aplicables."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-segund",
+      "heading": "TÍTULO SEGUNDO",
+      "descriptor": null,
+      "ordinal": "SEGUNDO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Mecanismos alternativos de solución de controversias"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-47",
+              "heading": "Artículo 47",
+              "descriptor": null,
+              "ordinal": "47",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Toda persona tiene el derecho de resolver las controversias de carácter jurídico y social que se ocasionen por la producción de daños al ambiente, a través de vías colaborativas en las que se privilegie el diálogo y se faciliten las alternativas de solución que resulten ambiental y socialmente más positivas."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas ambientalmente responsables y los legitimados para accionar judicialmente en términos del Título Primero de esta Ley, podrán resolver los términos del conflicto producido por el daño ocasionado al ambiente, mediante los mecanismos alternativos de mediación, conciliación y los demás que sean adecuados para la solución pacífica de la controversia, de conformidad a lo previsto por esta Ley, o las disposiciones reglamentarias del párrafo cuarto del artículo 17 de la Constitución Política de los Estados Unidos Mexicanos."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En lo no previsto por el presente Título se aplicará supletoriamente lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares, siempre que no contravenga lo dispuesto por esta Ley."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 14-11-2025",
+                  "action": "reformado",
+                  "dof_date": "14-11-2025"
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-48",
+              "heading": "Artículo 48",
+              "descriptor": null,
+              "ordinal": "48",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Podrán ser materia de los mecanismos alternativos de solución de controversias, todas o algunas de las diferencias que se susciten entre las personas e instituciones previstas en el artículo anterior, en relación con los hechos relativos al daño ocasionado al ambiente, la tutela del derecho a un medio ambiente adecuado para el desarrollo y bienestar de las personas, las obligaciones de reparación y compensación ambiental, así como la acción, pretensiones y desistimiento materia del procedimiento judicial de responsabilidad ambiental, siempre que no se afecten la moral, los derechos de terceros, ni se contravengan las Leyes ambientales, las disposiciones de orden público y los tratados internacionales de los que México sea Parte."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-49",
+              "heading": "Artículo 49",
+              "descriptor": null,
+              "ordinal": "49",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Si durante el procedimiento judicial de responsabilidad ambiental previsto por el Título Primero de esta Ley, y antes de que se dicte sentencia definitiva, se lograse un acuerdo entre las partes, en términos de lo previsto por los Mecanismos Alternativos referidos en este Capítulo; conforme a los acuerdos e instrumentos de justicia restaurativa o alguna otra forma anticipada de terminación del de reparación previsto por el artículo 168 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; el Juez que conozca del procedimiento reconocerá dicho acuerdo sobre la reparación de los daños y dictará sentencia."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El juez dará vista a la Secretaría para que en un plazo de ocho días hábiles, se manifieste sobre los términos del acuerdo, cuidando su idoneidad y el cumplimiento de las disposiciones previstas por esta Ley, las Leyes ambientales y los tratados internacionales de los que México sea Parte."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En caso de que el acuerdo sea incorporado a la sentencia, no se condenará al responsable al pago de la Sanción Económica prevista en el Título Primero de la presente Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Será causa de responsabilidad administrativa de los servidores públicos el incumplimiento del requerimiento en el plazo determinado por el juez en el presente artículo."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cuando del acuerdo se desprenda que su cumplimiento puede afectar los bienes de un tercero, el juez recabará su conformidad. Si no se obtuviese ésta, apercibirá a la partes para que modifiquen los términos de su acuerdo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-50",
+              "heading": "Artículo 50",
+              "descriptor": null,
+              "ordinal": "50",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- En caso de que resulte procedente en términos del artículo anterior, un acuerdo sobre la reparación o compensación voluntaria del daño ocasionado al ambiente el juez informará a la Procuraduría para que considere dicho acuerdo, el que se entenderá como cumplimiento de medidas correctivas y de urgente aplicación, siendo procedente la aplicación de los beneficios administrativos de revocación o disminución de las sanciones previstas en el artículo 169 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-unic.articulo-51",
+              "heading": "Artículo 51",
+              "descriptor": null,
+              "ordinal": "51",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Los mecanismos alternativos que se refieran a conductas constitutivas de delitos contra el ambiente, respecto de las que no proceda el perdón o el desinterés jurídico de la víctima o de la Procedimientos Penales."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El fin de estos mecanismos será lograr la justicia restaurativa, mediante la participación de la víctima u ofendido y el imputado, para buscar la solución a las controversias derivadas del hecho calificado como delito."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-tercer",
+      "heading": "TÍTULO TERCERO",
+      "descriptor": null,
+      "ordinal": "TERCERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-unic",
+          "heading": "CAPÍTULO ÚNICO",
+          "descriptor": null,
+          "ordinal": "ÚNICO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Responsabilidad penal en materia ambiental"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-52",
+              "heading": "Artículo 52",
+              "descriptor": null,
+              "ordinal": "52",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Las disposiciones del presente Título serán aplicables a los conflictos penales y los procedimientos derivados de la comisión de delitos contra el ambiente y la gestión ambiental, de La reparación y compensación de los daños ocasionados al ambiente, que proceda en términos del artículo 3o. de esta Ley y las disposiciones del presente Título."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Ministerio Público está obligado a solicitar de oficio la reparación y compensación de los daños ocasionados al ambiente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-53",
+              "heading": "Artículo 53",
+              "descriptor": null,
+              "ordinal": "53",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- El Ejecutivo Federal, el Congreso de la Unión y la Fiscalía General de la República desarrollarán políticas integrales en materia de prevención de daños al ambiente; investigación, persecución, sanción y prevención general y especial de los delitos e infracciones administrativas que los ocasionan, en sus respectivos ámbitos de competencia; así como para la reinserción social de los individuos penal y ambientalmente responsables que induzcan al respeto de las Leyes ambientales y los tratados internacionales de los que México sea parte. Para tal efecto la procuraduría y la Fiscalía General de la República harán públicos los programas respectivos."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 20-05-2021",
+                  "action": "reformado",
+                  "dof_date": "20-05-2021"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Estas políticas serán acordes con la formulación y conducción de la política ambiental y se llevarán a cabo en el marco del Sistema Nacional de Seguridad Pública."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-54",
+              "heading": "Artículo 54",
+              "descriptor": null,
+              "ordinal": "54",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Toda persona que tenga conocimiento de la comisión de un delito contra el ambiente podrá denunciarlo directamente ante el Ministerio Público."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Secretaría o la Procuraduría tengan conocimiento de actos u omisiones que pudieran constituir delitos contra el ambiente, formularán denuncia inmediata ante el Ministerio Público."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La procuraduría presentará las querellas y otorgará el perdón en los casos de delitos contra la gestión ambiental, atendiendo a lo dispuesto por los principios de política criminal ambiental a que se refiere el artículo anterior, así como a lo dispuesto por el Título Segundo de esta Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Todo servidor público está obligado a notificar de manera inmediata al Ministerio Público, la probable existencia de un hecho que la Ley considere como delito contra el ambiente, así como la identidad de quien posiblemente lo haya cometido o haya participado en su comisión, transmitiendo todos los datos que tuviere al respecto poniendo a disposición a los inculpados si hubieren sido detenidos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-55",
+              "heading": "Artículo 55",
+              "descriptor": null,
+              "ordinal": "55",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Para efectos de lograr la reparación y compensación de los daños ocasionados al ambiente la Procuraduría será coadyuvante del Ministerio Público, en los términos previstos por el Código Nacional de Procedimientos Penales. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido por sí mismo o a través de su representante legal."
+                },
+                {
+                  "type": "reform_note",
+                  "text": "Párrafo reformado DOF 14-11-2025",
+                  "action": "reformado",
+                  "dof_date": "14-11-2025"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Secretaría y la Procuraduría proporcionarán los dictámenes técnicos o periciales que le requiera el Ministerio Público o las autoridades judiciales, con motivo de los procedimientos penales que se inicien por la comisión de delitos contra el ambiente o la gestión ambiental."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-unic.articulo-56",
+              "heading": "Artículo 56",
+              "descriptor": null,
+              "ordinal": "56",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ".- Atento a lo dispuesto por el párrafo cuarto del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, se considerará víctima de los delitos contra el ambiente a toda persona habitante de la comunidad posiblemente afectada por el ilícito cuando se constituya como denunciante ante el Ministerio Público."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ARTÍCULOS SEGUNDO A NOVENO.- ………"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "PRIMERO",
+          "descriptor": null,
+          "ordinal": "PRIMERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "SEGUNDO",
+          "descriptor": null,
+          "ordinal": "SEGUNDO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "TERCERO",
+          "descriptor": null,
+          "ordinal": "TERCERO",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 25 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-octav",
+          "heading": "Artículo Octavo",
+          "descriptor": null,
+          "ordinal": "Artículo Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se reforma el primer párrafo del artículo 53 de la Ley Federal de Responsabilidad Ambiental, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Se abroga la Ley Orgánica de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán."
+            },
+            {
+              "type": "paragraph",
+              "text": "A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-sext",
+          "heading": "Sexto",
+          "descriptor": null,
+          "ordinal": "Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-septim",
+          "heading": "Séptimo",
+          "descriptor": null,
+          "ordinal": "Séptimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación."
+            },
+            {
+              "type": "paragraph",
+              "text": "El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-octav",
+          "heading": "Octavo",
+          "descriptor": null,
+          "ordinal": "Octavo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-noven",
+          "heading": "Noveno",
+          "descriptor": null,
+          "ordinal": "Noveno",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decim",
+          "heading": "Décimo",
+          "descriptor": null,
+          "ordinal": "Décimo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República."
+            },
+            {
+              "type": "paragraph",
+              "text": "Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-primer",
+          "heading": "Décimo Primero",
+          "descriptor": null,
+          "ordinal": "Décimo Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-segund",
+          "heading": "Décimo Segundo",
+          "descriptor": null,
+          "ordinal": "Décimo Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "tercero",
+          "descriptor": null,
+          "ordinal": "tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "del artículo 88 del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-tercer",
+          "heading": "Décimo Tercero",
+          "descriptor": null,
+          "ordinal": "Décimo Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-cuart",
+          "heading": "Décimo Cuarto",
+          "descriptor": null,
+          "ordinal": "Décimo Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública."
+            },
+            {
+              "type": "paragraph",
+              "text": "Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-quint",
+          "heading": "Décimo Quinto",
+          "descriptor": null,
+          "ordinal": "Décimo Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-decimo-sext",
+          "heading": "Décimo Sexto",
+          "descriptor": null,
+          "ordinal": "Décimo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quedan derogadas todas las disposiciones que se opongan a este Decreto."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
+            },
+            {
+              "type": "paragraph",
+              "text": "DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares."
+            },
+            {
+              "type": "paragraph",
+              "text": "Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Cuadragésimo.- Se reforman los artículos 9o.; 27; 28, segundo párrafo; 32, primer y"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "segundo",
+          "descriptor": null,
+          "ordinal": "segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "párrafos; 35; 37, primer párrafo; 38, primer párrafo; 43; 47, tercer párrafo y 55, primer párrafo, de la Ley Federal de Responsabilidad Ambiental, para quedar como sigue: ………"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023."
+            },
+            {
+              "type": "paragraph",
+              "text": "En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión."
+            },
+            {
+              "type": "paragraph",
+              "text": "En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares."
+            },
+            {
+              "type": "paragraph",
+              "text": "No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el"
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-articulo-sext",
+          "heading": "artículo Sexto",
+          "descriptor": null,
+          "ordinal": "artículo Sexto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

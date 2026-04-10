@@ -1,0 +1,3124 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LOAM_ley_organica_de_la_armada_de_mexico",
+  "abbreviation": "LOAM",
+  "name": "LEY Orgánica de la Armada de México",
+  "catalog_number": "250",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf",
+    "pdf_filename_origen": "LOAM.pdf",
+    "dof_publication": "DOF07/11/2025",
+    "last_reform": "Sin reforma",
+    "captured_at": "2026-04-09T10:31:37.679763+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 7 de noviembre de 2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "CLAUDIA SHEINBAUM PARDO, Presidenta de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "Artículo Único",
+      "descriptor": null,
+      "ordinal": "Artículo Único",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley Orgánica de la Armada de México, para quedar como sigue:"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-primer",
+      "heading": "TÍTULO PRIMERO",
+      "descriptor": "DE LA MISIÓN Y ATRIBUCIONES DE LA ARMADA DE MÉXICO",
+      "ordinal": "PRIMERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-i",
+          "heading": "CAPÍTULO I",
+          "descriptor": "DE LA MISIÓN",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-i.articulo-1",
+              "heading": "Artículo 1",
+              "descriptor": null,
+              "ordinal": "1",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Armada de México es una institución militar nacional, de carácter permanente, cuya misión es emplear el poder naval de la Federación para la defensa exterior, proteger la soberanía de la Nación y sus intereses marítimos, mantener el estado de derecho en las zonas marinas mexicanas y coadyuvar en la seguridad interior del país, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales de los que el Estado mexicano sea parte."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-primer.capitulo-ii",
+          "heading": "CAPÍTULO II",
+          "descriptor": "DE LAS ATRIBUCIONES",
+          "ordinal": "II",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-ii.articulo-2",
+              "heading": "Artículo 2",
+              "descriptor": null,
+              "ordinal": "2",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Son atribuciones de la Armada de México, las siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Organizar, adiestrar, alistar y equipar al personal naval, mantener y conservar las unidades e instalaciones navales que la constituyen para el cumplimiento de su misión y el ejercicio de sus atribuciones;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Participar en la elaboración e implementación de las políticas de defensa que le instruya el Mando Supremo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Elaborar y mantener actualizada la Política Nacional de Defensa Marítima, que contemple el empleo del poder naval ante diversos escenarios que amenacen o afecten la Seguridad Nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Coadyuvar para el mantenimiento del orden constitucional del Estado mexicano;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Realizar acciones para salvaguardar la soberanía y la integridad del territorio nacional en el mar territorial, zona marítimo-terrestre, islas, cayos, arrecifes, zócalos y plataforma continental; así como en aguas interiores, lacustres y ríos en sus partes navegables, incluyendo los espacios aéreos correspondientes, así como ejercer y vigilar los derechos de soberanía en la zona económica exclusiva;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Conducir el control naval del tráfico marítimo y protegerlo en las zonas marinas mexicanas y donde el Mando Supremo lo ordene, así como regular, establecer y vigilar las áreas restringidas a la navegación, incluidos los espacios aéreos correspondientes, en coordinación con otras autoridades en su ámbito de competencia, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales de los que el Estado mexicano sea parte;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Ejercer funciones de guardia costera para:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Mantener el estado de derecho en las zonas marinas mexicanas, costas y recintos portuarios, además de la seguridad y protección marítima, a través de acciones de vigilancia, verificación, visita, inspección y otras acciones previstas en las disposiciones jurídicas aplicables, en coordinación con otras autoridades, en el ámbito de sus respectivas competencias;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Implementar, en nombre del Estado mexicano y a través de sus unidades operativas, en la zona económica exclusiva mexicana y en alta mar, el derecho de visita y de persecución, en términos de lo previsto en la legislación nacional y las normas aplicables del derecho internacional; así como las acciones de abordaje, registro e inspección de buques y embarcaciones y, en general, las medidas establecidas en los tratados internacionales de los que el Estado mexicano es parte en materia de combate de actos ilícitos cometidos en el mar."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cuando en el ejercicio de las funciones establecidas en los incisos a) y b) se presente la posible comisión de un hecho que la ley señale como delito, se pondrá a disposición ante la autoridad competente a las personas, objetos, instrumentos y productos relacionados al mismo, de conformidad con el Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "Contribuir en materia de seguridad y protección marítima y portuaria, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "d",
+                  "text": "Intervenir en la prevención y control de la contaminación del medio ambiente marino, así como realizar su vigilancia y protección en el área de responsabilidad, actuando por sí o en colaboración con otras instituciones nacionales o extranjeras, sin perjuicio de las atribuciones que correspondan a las dependencias y entidades de la Administración Pública Federal;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Contribuir en las acciones para el control de tráfico marítimo en las vías generales de comunicación por agua;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Salvaguardar la vida humana en el mar, mediante operaciones de búsqueda y rescate en las zonas marinas mexicanas, aguas internacionales y en las que el Mando Supremo lo ordene;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Proteger instalaciones estratégicas y prioritarias del país para el desarrollo nacional y donde el Mando Supremo lo ordene, por sí misma o en coordinación con otras autoridades, en los ámbitos de sus respectivas competencias;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Auxiliar a la población en los casos y zonas de desastre o emergencia, aplicando los planes institucionales de acuerdo al Sistema Nacional de Protección Civil, en coordinación con otras autoridades, en su ámbito de competencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Proteger los recursos marítimos, fluviales y lacustres nacionales, así como participar en toda actividad relacionada con el desarrollo marítimo nacional, en coordinación con otras autoridades, en el ámbito de sus respectivas competencias;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Garantizar el cumplimiento del orden jurídico nacional en las zonas marinas mexicanas por sí o coadyuvando con las autoridades competentes en el combate al terrorismo, contrabando, piratería en el mar, robo de embarcaciones, artes de pesca prohibidas y productos de éstas, tráfico ilegal de personas, armas, estupefacientes y psicotrópicos y cualquier otro ilícito, en los términos de la legislación aplicable;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Contribuir con la investigación científica en las ciencias marinas, así como realizar investigación de desarrollo tecnológico, actuando por sí o en colaboración con otras instituciones nacionales o extranjeras o en coordinación con dependencias y entidades de la Administración Pública Federal;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XV",
+                  "text": "Fomentar y participar con las autoridades civiles en actividades socioculturales y cívicas en aspectos relacionados con el medio marítimo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVI",
+                  "text": "Intervenir en los trabajos hidrográficos de las costas, mares, islas, puertos y vías navegables;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVII",
+                  "text": "Fomentar la educación naval en coordinación con la Universidad Naval, como parte del Sistema Educativo Naval;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XVIII",
+                  "text": "Participar en los órganos del Fuero de Guerra;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIX",
+                  "text": "Participar en actividades de ciberdefensa y ciberseguridad para la conducción de las operaciones militares que se realizan en el ciberespacio, en colaboración con otras autoridades, desde el ámbito de su competencia, así como el empleo de la inteligencia artificial como herramienta tecnológica, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XX",
+                  "text": "Las demás que le señalen las disposiciones aplicables y le encomiende el Mando Supremo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-primer.capitulo-ii.articulo-3",
+              "heading": "Artículo 3",
+              "descriptor": null,
+              "ordinal": "3",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Armada de México ejerce sus atribuciones por sí o en conjunto con el Ejército, Fuerza Aérea y Guardia Nacional; en coadyuvancia con las dependencias y entidades del Ejecutivo Federal, cuando así lo ordene el Mando Supremo y podrá coordinarse con otros órganos de gobierno que así lo requieran, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales de los que el Estado mexicano sea parte."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-segund",
+      "heading": "TÍTULO SEGUNDO",
+      "descriptor": "DE LA INTEGRACIÓN, NIVELES DE MANDO Y ORGANIZACIÓN",
+      "ordinal": "SEGUNDO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-i",
+          "heading": "CAPÍTULO I",
+          "descriptor": "DE LA INTEGRACIÓN",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-4",
+              "heading": "Artículo 4",
+              "descriptor": null,
+              "ordinal": "4",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Armada de México está integrada por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Recursos humanos, conformados por el personal naval que presta sus servicios en la Armada de México, así como los asignados o comisionados en la Secretaría de Marina y en otras dependencias, y aquellos que se encuentren en situación especial, sujetos a las leyes, reglamentos y demás disposiciones de orden naval y militar, las cuales serán aplicables en igualdad de oportunidades entre mujeres y hombres;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Recursos materiales, constituidos por las unidades de superficie, aeronavales, de infantería de marina y otras unidades operativas, así como los bienes muebles e inmuebles requeridos por la Armada de México;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Recursos financieros, aquellos asignados por la Secretaría de Marina a la Armada de México, con base al Presupuesto de Egresos de la Federación, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Recursos animales, constituidos por elementos de distintas especies animales, adiestradas para realizar tareas específicas en apoyo al cumplimiento de la misión y atribuciones."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-ii",
+          "heading": "CAPÍTULO II",
+          "descriptor": "DE LOS NIVELES DE MANDO",
+          "ordinal": "II",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-5",
+              "heading": "Artículo 5",
+              "descriptor": null,
+              "ordinal": "5",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Armada de México, para el cumplimiento de su misión, ejercicio de sus atribuciones y desarrollo de sus operaciones navales, tendrá los siguientes niveles de mando:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Mando Supremo, ejercido por la persona titular del Ejecutivo Federal;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Alto Mando, ejercido por la persona titular de la Secretaría de Marina;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Mando Superior en Jefe Estratégico, ejercido por la persona titular de la Jefatura de Operaciones Navales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Mandos Superiores en Jefe Operacionales, los que desempeñan las personas titulares de:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Fuerzas Navales, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Regiones Navales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Mandos Superiores, los que desempeñan las personas titulares de:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Zonas Navales, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Otros que designe el Alto Mando, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Mandos Subordinados, los que ostentan las personas titulares de:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Sectores Navales;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Unidades Operativas de Superficie Marítimas;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "Unidades Operativas Aeronavales;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "d",
+                  "text": "Unidades Operativas Terrestres;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "e",
+                  "text": "Unidades Anfibias;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "f",
+                  "text": "Unidad Naval de Operaciones Especiales;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "g",
+                  "text": "Unidades Navales de Protección Portuaria;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "h",
+                  "text": "Estaciones Navales de Búsqueda, Rescate y Vigilancia Marítima;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "i",
+                  "text": "Las Unidades de Soporte Estratégico para la Ciberdefensa e Inteligencia Artificial;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "j",
+                  "text": "Bases Navales Logísticas, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "k",
+                  "text": "Otros que designe el Alto Mando."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Sin distinción de género, el personal de la Armada de México, de acuerdo con su jerarquía, podrán ejercer la Comandancia de cualquier nivel de mando."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-6",
+              "heading": "Artículo 6",
+              "descriptor": null,
+              "ordinal": "6",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Son facultades del Mando Supremo, las siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Disponer de la totalidad de los recursos que constituyen a la Armada de México en los términos del artículo 89, fracciones VI y VII, de la Constitución Política de los Estados Unidos Mexicanos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Nombrar a la persona que ejercerá el Alto Mando;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Nombrar a las personas que ejercerán el Mando Superior en Jefe Estratégico y los Mandos Superiores en Jefe Operacionales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Permitir, previa autorización del Senado, la salida de las unidades orgánicas operativas de la Armada de México fuera de los límites del país, conforme al artículo 76, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Las demás establecidas en la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen y los tratados internacionales de los que el Estado mexicano sea parte."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-7",
+              "heading": "Artículo 7",
+              "descriptor": null,
+              "ordinal": "7",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El Alto Mando es responsable ante el Mando Supremo del desempeño de las facultades siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Proponer, elaborar y conducir la política y estrategia naval;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Operar y administrar el poder naval de la Federación;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Participar en la formulación de la política y los planes de seguridad nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Establecer, mediante acuerdo publicado en el Diario Oficial de la Federación, lo siguiente:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "La creación, organización y despliegue marítimo, aéreo y territorial de las Fuerzas, Regiones, Zonas y Sectores Navales que se requieran para el cumplimiento de las atribuciones de la Armada de México, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Las áreas de control naval de tráfico marítimo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Crear las instalaciones y unidades operativas necesarias para incrementar la eficiencia en la ejecución de las tareas de la Armada de México, con sujeción al presupuesto asignado;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Proponer al Mando Supremo, la designación de quienes ejercerán el Mando Superior en Jefe Estratégico y los Mandos Superiores en Jefe Operacionales, así como designar a quienes ejercerán los Mandos Superiores y Mandos Subordinados;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Presidir el Consejo del Almirantazgo, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Las demás que establecen las leyes, reglamentos, así como las que le encomiende el Mando Supremo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-8",
+              "heading": "Artículo 8",
+              "descriptor": null,
+              "ordinal": "8",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Mandos se clasifican en:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Titulares, los designados con este carácter por el Mando Supremo o Alto Mando y quienes lo ejerzan serán de la milicia permanente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Interinos, los designados con este carácter por el mando correspondiente, en tanto se nombra a la persona titular y quienes lo ejerzan serán de la milicia permanente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Accidentales, los que se ejercen por ausencia temporal de la persona titular o interina que le impida desempeñarlo, en caso de enfermedad, licencias, vacaciones, comisiones fuera de la plaza u otros motivos, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Incidentales, los desempeñados en los casos imprevistos por ausencia momentánea de la persona titular, interina o accidental, así como la persona que ejerza la Comandancia con mayor jerarquía y antigüedad en reunión de fuerzas, unidades o personal naval, cuando no exista un mando previamente designado."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-9",
+              "heading": "Artículo 9",
+              "descriptor": null,
+              "ordinal": "9",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En caso de ausencia temporal, el orden y sucesión de mando, se sujetará a lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "El Alto Mando, en asuntos del orden naval militar, será suplido por quien ejerza la Jefatura de Operaciones Navales, y en ausencia de ésta, por quien ostente la categoría de Almirante que designe el Alto Mando."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En los demás casos, la suplencia de la persona titular de la Secretaría de Marina, será en los términos que establece el Reglamento Interior de la Secretaría de Marina;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "El Mando Superior en Jefe Estratégico será suplido por la persona titular de la Subjefatura Operativa;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Los Mandos Superiores en Jefe Operacionales serán suplidos por la persona titular de su Jefatura de Estado Mayor;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Los Mandos Superiores serán suplidos por la persona titular que ejerce su Jefatura de Estado Mayor y en ausencia de ésta por quien designe la persona que ejerce el Mando Superior en Jefe, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Los Mandos Subordinados serán suplidos por la persona titular de la Jefatura de Grupo de Comando, Segundo Comandante o su equivalente. En ausencia de ésta, por quien designe la persona que ejerce el Mando Superior correspondiente."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-iii",
+          "heading": "CAPÍTULO III",
+          "descriptor": "DE LA ORGANIZACIÓN",
+          "ordinal": "III",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-10",
+              "heading": "Artículo 10",
+              "descriptor": null,
+              "ordinal": "10",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Jefatura de Operaciones Navales está integrada por Subjefaturas, Coordinadoras, Secciones y demás órganos administrativos y operativos necesarios para el cumplimiento de su misión, así como con los recursos humanos, materiales, financieros y animales asignados."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La persona titular de la Jefatura de Operaciones Navales será de la jerarquía de Almirante y estará subordinada directamente al Alto Mando."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-11",
+              "heading": "Artículo 11",
+              "descriptor": null,
+              "ordinal": "11",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las Fuerzas Navales están integradas por el personal naval, unidades de superficie, aeronavales y de infantería de marina, organizadas para el cumplimiento de la misión y atribuciones asignadas a la Armada de México, conforme a las disposiciones jurídicas aplicables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas titulares de las Comandancias de las Fuerzas Navales serán de la categoría de Almirante y estarán subordinadas a quien ejerza la Jefatura de Operaciones Navales."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-12",
+              "heading": "Artículo 12",
+              "descriptor": null,
+              "ordinal": "12",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las Fuerzas de Tarea, como unidades orgánicas operativas, se constituirán de forma temporal, con los medios necesarios para cumplir una misión específica; el mando de éstas será ejercido por quien designe el Alto Mando."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En caso de guerra o conflicto armado para la defensa marítima del territorio, en el teatro de operaciones del Océano Pacífico, el mando lo ostentará la persona titular de la Comandancia de la Fuerza Naval del Pacífico, y en el teatro de operaciones del Golfo de México y Mar Caribe, el mando lo ostentará la persona titular de la Comandancia de la Fuerza Naval del Golfo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-13",
+              "heading": "Artículo 13",
+              "descriptor": null,
+              "ordinal": "13",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las Regiones Navales son áreas geoestratégicas que comprenden mandos navales de Zonas y Sectores Navales, unidades operativas, instalaciones y personal naval."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tienen a su cargo la propuesta, preparación y conducción de las operaciones navales para el cumplimiento de la misión y atribuciones asignadas a la Armada de México en su área jurisdiccional."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas titulares de las Comandancias de las Regiones Navales serán de la categoría de Almirante y dependerán de la persona titular de la Jefatura de Operaciones Navales."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-14",
+              "heading": "Artículo 14",
+              "descriptor": null,
+              "ordinal": "14",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las Zonas Navales, son las áreas geográfico-marítimas que agrupan a Sectores Navales, unidades operativas, instalaciones y personal naval que se determine."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tienen a su cargo la propuesta, preparación, conducción y apoyo logístico de las operaciones navales en su área de responsabilidad."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas titulares de las Comandancias de las Zonas Navales serán de la categoría de Almirante y estarán subordinadas directamente al mando de la Región Naval correspondiente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-15",
+              "heading": "Artículo 15",
+              "descriptor": null,
+              "ordinal": "15",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Sectores Navales, son las subdivisiones geográfico-marítimas determinadas por el Alto Mando, que tienen bajo su mando unidades operativas, instalaciones y personal naval que se determine."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tienen a su cargo la propuesta, preparación y conducción de las operaciones navales dentro de su jurisdicción."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Asimismo, brindan apoyo logístico a las unidades adscritas, incorporadas y destacadas bajo su mando."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las personas titulares de las Comandancias de los Sectores Navales serán de la categoría de Almirante y estarán subordinadas al mando de la Región o Zona Naval que corresponda."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-segund.capitulo-iii.seccion-i",
+              "heading": "SECCIÓN I",
+              "descriptor": "UNIDADES OPERATIVAS",
+              "ordinal": "I",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-16",
+                  "heading": "Artículo 16",
+                  "descriptor": null,
+                  "ordinal": "16",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las unidades operativas son aquellas con capacidades marítimas, aéreas, terrestres o cibernéticas que contarán con el personal naval necesario de los Cuerpos y Servicios, mediante las cuales se materializan las atribuciones de la Armada de México."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-17",
+                  "heading": "Artículo 17",
+                  "descriptor": null,
+                  "ordinal": "17",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". La Flotilla Naval, es una organización operativa compuesta por dos o más escuadrillas navales y estarán subordinadas al mando naval que corresponda."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Están integradas por personal naval y unidades operativas de superficie marítimas, de acuerdo con los requerimientos operativos. Las personas titulares de las Comandancias de las Flotillas Navales serán de la categoría de Almirantes del Cuerpo General y tendrán a su cargo la supervisión de las actividades operativas, de adiestramiento y mantenimiento de las unidades adscritas."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-18",
+                  "heading": "Artículo 18",
+                  "descriptor": null,
+                  "ordinal": "18",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". La Escuadrilla Naval, es una organización operativa compuesta por dos o más unidades operativas de superficie marítimas del mismo tipo. Estará subordinada a la Flotilla Naval y donde no exista esta última, al mando naval que corresponda."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Están integradas por personal naval y unidades operativas de superficie marítimas de acuerdo con los requerimientos operativos. Las personas titulares de las Comandancias de las Escuadrillas Navales serán de la categoría de Capitán del Cuerpo General y tendrán a su cargo la supervisión de las actividades operativas, de adiestramiento y de mantenimiento de las unidades adscritas."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-19",
+                  "heading": "Artículo 19",
+                  "descriptor": null,
+                  "ordinal": "19",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Unidades Operativas de Superficie Marítimas, adscritas a los Mandos Navales, son los buques de los diferentes tipos y clases, destinados a realizar las operaciones marítimas, ribereñas o lacustres que se requieran para el cumplimiento de la misión y atribuciones de la Armada de México."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de las Unidades Operativas de Superficie Marítimas serán de la categoría de Capitanes o de Oficiales y estarán subordinadas a la Flotilla, Escuadrilla o mando naval que corresponda."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-20",
+                  "heading": "Artículo 20",
+                  "descriptor": null,
+                  "ordinal": "20",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Estaciones Navales de Búsqueda, Rescate y Vigilancia Marítima, son las unidades operativas especializadas para llevar a cabo operaciones para salvaguardar la vida humana en el mar, así como para la vigilancia marítima de proximidad en puertos y costas."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de las Estaciones Navales de Búsqueda, Rescate y Vigilancia Marítima serán de la categoría de Capitanes o de Oficiales y estarán subordinadas al mando naval que corresponda."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-21",
+                  "heading": "Artículo 21",
+                  "descriptor": null,
+                  "ordinal": "21",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Unidades Operativas Aeronavales, están organizadas en Bases y Escuadrones Aeronavales."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-22",
+                  "heading": "Artículo 22",
+                  "descriptor": null,
+                  "ordinal": "22",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Bases Aeronavales, son las responsables ante el mando naval correspondiente de la planeación, ejecución y supervisión de las operaciones aeronavales, así como del apoyo logístico de las aeronaves asignadas a las Fuerzas, Regiones, Zonas, Sectores Navales y Escuadrones Aeronavales."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Podrán tener adscritos Centros de Mantenimiento Aeronaval y Escuadrones Aeronavales, de acuerdo con los requerimientos operativos de la Armada de México."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de las Bases Aeronavales serán de la categoría de Almirantes y estarán subordinadas al mando naval que corresponda."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-23",
+                  "heading": "Artículo 23",
+                  "descriptor": null,
+                  "ordinal": "23",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Los Escuadrones Aeronavales, son unidades operativas responsables de la ejecución y supervisión de las operaciones, así como del control del mantenimiento de las aeronaves adscritas y de la capacitación de sus tripulaciones."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Los Escuadrones Aeronavales, podrán ser del tipo Ala Fija, Ala Móvil o Mixto, dependiendo del tipo de aeronaves que tengan adscritas."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de los Escuadrones Aeronavales serán de la categoría de Capitanes y estarán subordinadas a la Base Aeronaval o al mando naval, según corresponda."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-24",
+                  "heading": "Artículo 24",
+                  "descriptor": null,
+                  "ordinal": "24",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Aeronaves serán de diferentes tipos, destinadas a realizar las operaciones aeronavales que se requieran para el cumplimiento de la misión y atribuciones de la Armada de México y se clasificarán de acuerdo con las características principales y el propósito que éstas tengan."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de las Aeronaves serán de la categoría de Capitanes o de Oficiales, según el tipo de aeronave y estarán subordinadas al Escuadrón, Base o al mando naval que corresponda."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-25",
+                  "heading": "Artículo 25",
+                  "descriptor": null,
+                  "ordinal": "25",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Unidades Operativas Terrestres, son aquellas integradas por personal de Infantería de Marina y de los diferentes Cuerpos y Servicios, las cuales cuentan con capacidades de maniobra, cobertura y sostenimiento a través de la planeación y conducción de las operaciones navales, ya sea de manera independiente, apoyadas o en apoyo."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Estarán organizadas en Brigadas, Batallones y Compañías Independientes, cuya denominación es acorde a la función que desarrollan de manera específica y dependerán del mando naval que corresponda."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-26",
+                  "heading": "Artículo 26",
+                  "descriptor": null,
+                  "ordinal": "26",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Fuerzas de Reacción, como componente de las Fuerzas Navales, se conforman por las Brigadas Anfibias de Infantería de Marina, las cuales cuentan con capacidades para el desarrollo y sostenimiento de las operaciones."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las Brigadas Anfibias de Infantería de Marina, son unidades constituidas por Batallones Anfibios y unidades de apoyo."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de las Fuerzas de Reacción serán de la categoría de Almirantes de Infantería de Marina."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-27",
+                  "heading": "Artículo 27",
+                  "descriptor": null,
+                  "ordinal": "27",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Brigadas de Infantería de Marina, están constituidas por Batallones de Infantería de Marina y unidades de apoyo para el sostenimiento de las operaciones."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de las Brigadas de Infantería de Marina serán de la categoría de Almirantes de Infantería de Marina y estarán adscritas a los Mandos Superiores en Jefe Operacionales o donde lo ordene el Alto Mando."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-28",
+                  "heading": "Artículo 28",
+                  "descriptor": null,
+                  "ordinal": "28",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Los Batallones de Infantería de Marina, son las unidades tácticas básicas con que deben contar los Mandos Superiores y Subordinados, tales como: Zonas Navales y Brigadas de Infantería de Marina, con la finalidad de coadyuvar en el cumplimiento de la misión de la Armada de México."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de los Batallones de Infantería de Marina serán de la categoría de Almirantes de Infantería de Marina y dependerán operativa y administrativamente del mando naval donde se localice su sede, con excepción de los Batallones encuadrados en Brigadas de Infantería de Marina que dependerán de la Comandancia de la Brigada correspondiente."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-29",
+                  "heading": "Artículo 29",
+                  "descriptor": null,
+                  "ordinal": "29",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Compañías Independientes de Infantería de Marina, son unidades con capacidades propias para desarrollar operaciones de manera individual o reforzar a una unidad de mayor tamaño, lo que las hace autónomas y sostenibles por estar constituidas por elementos de maniobra, de fuego y logística."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de las Compañías Independientes de Infantería de Marina serán de la categoría de Capitanes de Infantería de Marina y dependerán operativa y administrativamente del mando donde se localice su sede."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-30",
+                  "heading": "Artículo 30",
+                  "descriptor": null,
+                  "ordinal": "30",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". La Unidad Naval de Operaciones Especiales, está constituida por su Mando, Estado Mayor, fuerzas especiales, fuerzas de comandos, fusileros paracaidistas y demás órganos administrativos, operativos e instalaciones necesarias para el cumplimiento de su misión."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Esta unidad es la responsable del desarrollo de planes estratégicos para la defensa exterior y para coadyuvar con la seguridad interior del país."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "La persona titular de la Comandancia de la Unidad Naval de Operaciones Especiales será de la categoría de Almirante y estará subordinada directamente al Alto Mando."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-31",
+                  "heading": "Artículo 31",
+                  "descriptor": null,
+                  "ordinal": "31",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Brigadas de Policía Naval, están constituidas por dos o más Batallones de Policía Naval para efectuar operaciones de apoyo a las instituciones de seguridad pública dentro del marco jurídico aplicable."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de las Brigadas de Policía Naval serán de la categoría de Almirantes y dependerán operativamente de la persona titular de la Jefatura de Operaciones Navales y administrativamente de los mandos navales donde se encuentren adscritas."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-32",
+                  "heading": "Artículo 32",
+                  "descriptor": null,
+                  "ordinal": "32",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Los Batallones de Policía Naval, son unidades especializadas para materializar operaciones navales de coadyuvancia a las autoridades en materia de seguridad pública y de seguridad y protección a instalaciones estratégicas."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de los Batallones de Policía Naval serán de la categoría de Almirantes y dependerán operativa y administrativamente de las Brigadas de Policía Naval a las que estén adscritas."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-33",
+                  "heading": "Artículo 33",
+                  "descriptor": null,
+                  "ordinal": "33",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Los Batallones de Servicios de Policía Naval, son las unidades que proporcionan los apoyos logísticos a las Brigadas de Policía Naval y a las unidades que las componen."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de los Batallones de Servicios de Policía Naval serán de la categoría de Almirantes y dependerán operativa y administrativamente de las Brigadas de Policía Naval a las que estén adscritas."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-34",
+                  "heading": "Artículo 34",
+                  "descriptor": null,
+                  "ordinal": "34",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Unidades Navales de Protección Portuaria, son las unidades operativas especializadas para llevar a cabo operaciones de protección portuaria, por sí o en apoyo a las autoridades competentes, de acuerdo con los ordenamientos jurídicos vigentes."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las unidades a que se refiere este artículo estarán subordinadas a la Comandancia de Fuerza, Región, Zona o Sector Naval que corresponda."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-35",
+                  "heading": "Artículo 35",
+                  "descriptor": null,
+                  "ordinal": "35",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Bases Navales Logísticas, son unidades operativas logísticas, responsables ante el mando naval correspondiente, de fungir como el órgano logístico desde el ámbito operacional, para brindar el sostenimiento logístico que requieran las unidades operativas para el cumplimiento de la misión y atribuciones de la Armada de México."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Estarán subordinados al mando naval que corresponda."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-36",
+                  "heading": "Artículo 36",
+                  "descriptor": null,
+                  "ordinal": "36",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Unidades Navales de Protección Aeroportuaria, son unidades operativas especializadas de seguridad y vigilancia en instalaciones aeroportuarias, con el fin de mantener la protección e integridad de las mismas, en coadyuvancia con autoridades aeroportuarias y de los tres órdenes de gobierno, de acuerdo con los ordenamientos jurídicos aplicables."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de las Unidades Navales de Protección Aeroportuaria serán de la categoría de Capitanes y estarán subordinadas al mando naval que corresponda."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-37",
+                  "heading": "Artículo 37",
+                  "descriptor": null,
+                  "ordinal": "37",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las Unidades de Soporte Estratégico para la Ciberdefensa e Inteligencia Artificial, son unidades operativas especializadas en la aplicación de capacidades tecnológicas institucionales y soluciones basadas en inteligencia artificial como herramienta analítica para optimizar los procesos y efectividad en el desarrollo de las operaciones en el ámbito del ciberespacio, uso del espectro electromagnético, operaciones de información y dominio espacial, en apoyo a las operaciones navales."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las personas titulares de las Comandancias de las Unidades de Soporte Estratégico para la Ciberdefensa e Inteligencia Artificial serán de la categoría de Capitanes y estarán subordinadas al mando naval que corresponda."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-i.articulo-38",
+                  "heading": "Artículo 38",
+                  "descriptor": null,
+                  "ordinal": "38",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". La Armada de México podrá contar con otras unidades operativas con preparación y adiestramiento especializado para realizar operaciones especificas en los ámbitos de mar, aire, tierra y ciberespacio para el cumplimiento de la misión y atribuciones de ésta."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-segund.capitulo-iii.seccion-ii",
+              "heading": "SECCIÓN II",
+              "descriptor": "INSTALACIONES",
+              "ordinal": "II",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-ii.articulo-39",
+                  "heading": "Artículo 39",
+                  "descriptor": null,
+                  "ordinal": "39",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las instalaciones de la Armada de México, son todos aquellos bienes inmuebles, construidos y edificados para alojar y concentrar a los recursos humanos y materiales necesarios para el cumplimiento y desarrollo de sus atribuciones y funciones, así como terrenos, campos de tiro y de entrenamiento destinados para el adiestramiento del personal naval, siendo éstas las siguientes:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Cuarteles Generales: Albergan las sedes de los mandos, sus estados mayores, unidades operativas y áreas administrativas de mandos de Fuerzas, Regiones, Zonas, Sectores Navales, Unidades de Infantería de Marina y Bases Aeronavales;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Estaciones Navales: Instalaciones fijas establecidas en lugares estratégicos de la competencia de los mandos navales desde donde se podrán proyectar operaciones navales;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "Estaciones Navales de Protección y Vigilancia: Infraestructura establecida en las áreas estratégicas y prioritarias para el apoyo de las operaciones;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "Establecimientos Educativos Navales: Escuelas, centros de estudios, institutos, centros de capacitación, de entrenamiento y la sede administrativa de la Universidad Naval;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "V",
+                      "text": "Establecimientos de Sanidad: Centros hospitalarios, hospitales y clínicas;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VI",
+                      "text": "Establecimientos para Mantenimiento y Reparaciones: Infraestructura especializada y equipada para proporcionar mantenimiento a unidades, material y equipo de la Armada de México, así como para la construcción de buques, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VII",
+                      "text": "Cualquier otra infraestructura que se requiera construir en apoyo al cumplimiento de su misión y atribuciones."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Las instalaciones previstas en las fracciones IV, V y VI sirven de apoyo a las funciones que ejerce la Armada de México y la Secretaría de Marina."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-segund.capitulo-iii.seccion-iii",
+              "heading": "SECCIÓN III",
+              "descriptor": "MATERIAL",
+              "ordinal": "III",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-iii.articulo-40",
+                  "heading": "Artículo 40",
+                  "descriptor": null,
+                  "ordinal": "40",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". El material podrá encontrarse en cualquiera de las situaciones siguientes:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "En activo, aquel que está en condiciones operativas determinadas por las disposiciones reglamentarias;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "En reserva, aquel que puede ser activado para el servicio;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "En fabricación, construcción o modernización, el que está en este proceso para ser incorporado al servicio activo y, en modernización, el material en proceso para recuperar o actualizar los estándares operativos, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "En trámite de baja, el material que no es susceptible de recuperarse."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-segund.capitulo-iii.seccion-iv",
+              "heading": "SECCIÓN IV",
+              "descriptor": "ÓRGANOS ASESORES DEL ALTO MANDO",
+              "ordinal": "IV",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-iv.articulo-41",
+                  "heading": "Artículo 41",
+                  "descriptor": null,
+                  "ordinal": "41",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". El Alto Mando cuenta con órganos asesores que le proporcionan elementos de juicio para la toma de decisiones, los cuales son los siguientes:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Jefatura de Operaciones Navales;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Consejo del Almirantazgo;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "Unidad de Inteligencia Naval, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "Los demás que se encuentren previstos en los ordenamientos respectivos o los que a juicio de éste sean necesarios para el cumplimiento de la misión y atribuciones de la Armada de México."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Asimismo y para el cumplimiento de las atribuciones a que se refiere esta Ley, el Alto Mando se auxiliará con las personas titulares de la Subsecretaría de Marina, Subsecretaría de Asuntos Marítimos y Portuarios, Oficialía Mayor de la Secretaría de Marina, Inspección y Contraloría General de la Secretaría de Marina, Agregadurías Navales y demás personal, órganos y unidades que establecen los reglamentos respectivos."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-iv.articulo-42",
+                  "heading": "Artículo 42",
+                  "descriptor": null,
+                  "ordinal": "42",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". La Jefatura de Operaciones Navales es responsable de la preparación, planeación, coordinación, adiestramiento, ejecución y supervisión de las operaciones navales, a nivel estratégico, así como de asesorar al Alto Mando en el ámbito naval militar."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-iv.articulo-43",
+                  "heading": "Artículo 43",
+                  "descriptor": null,
+                  "ordinal": "43",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". El Consejo del Almirantazgo, es el órgano de análisis para la concertación, acuerdo y toma de decisiones sobre asuntos trascendentes para la Armada de México, y cuenta con las modalidades siguientes:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Reducido, se integrará por el Alto Mando y las personas titulares de la Subsecretaría de Marina, Subsecretaría de Asuntos Marítimos y Portuarios, Oficialía Mayor de la Secretaría de Marina, Inspección y Contraloría General de la Secretaría de Marina y Jefatura de Operaciones Navales, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Ampliado, además de las personas servidoras públicas señaladas en la fracción anterior por las personas que ejercen los Mandos Superiores en Jefe Operacionales."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El Consejo del Almirantazgo será presidido por el Alto Mando en sus dos modalidades y funcionará e integrará en los términos que establece la presente Ley. La modalidad a que se refiere la fracción I también se regirá de acuerdo al reglamento respectivo."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-iv.articulo-44",
+                  "heading": "Artículo 44",
+                  "descriptor": null,
+                  "ordinal": "44",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". El Consejo del Almirantazgo tendrá las atribuciones siguientes:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Asesorar al Alto Mando en asuntos de carácter estratégico;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Proporcionar los elementos de juicio que sustenten la toma de decisiones en asuntos relacionados con el desarrollo del poder naval;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "Proponer las políticas de la institución relacionadas con el ámbito marítimo que impacten en el desarrollo del país, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "Conocer en su modalidad de reducido, de acuerdo con su reglamento respectivo, de los recursos de inconformidad e impugnación que se interponga en contra de las resoluciones emitidas por la Junta de Almirantes y la Junta Naval."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-iv.articulo-45",
+                  "heading": "Artículo 45",
+                  "descriptor": null,
+                  "ordinal": "45",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". La Unidad de Inteligencia Naval, es el órgano asesor del Alto Mando, encargado de generar productos de inteligencia que contribuyan en la toma de decisiones para el cumplimiento de las atribuciones de la Armada de México y para la formulación de los planes de seguridad nacional."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-iv.articulo-46",
+                  "heading": "Artículo 46",
+                  "descriptor": null,
+                  "ordinal": "46",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Los órganos asesores del Alto Mando se organizarán y funcionarán de conformidad con los manuales de organización respectivos y demás disposiciones aplicables."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "seccion",
+              "id": "titulo-segund.capitulo-iii.seccion-v",
+              "heading": "SECCIÓN V",
+              "descriptor": "ÓRGANOS DE DISCIPLINA Y JUNTA NAVAL",
+              "ordinal": "V",
+              "content": [],
+              "children": [
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-v.articulo-47",
+                  "heading": "Artículo 47",
+                  "descriptor": null,
+                  "ordinal": "47",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Para sancionar las faltas graves en contra de la disciplina naval, establecidas en la Ley de Disciplina para el Personal de la Armada de México, la Armada de México contará con órganos de disciplina, los cuales en ningún caso y por ningún motivo podrán conocer de asuntos en los que esté involucrada una persona que no sea militar."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-v.articulo-48",
+                  "heading": "Artículo 48",
+                  "descriptor": null,
+                  "ordinal": "48",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Los órganos de disciplina, conforme al orden de superioridad, se organizan de la siguiente manera:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "La Junta de Almirantes;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Los Consejos de Honor Superior;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "Los Consejos de Honor Ordinario, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "Los Consejos de Disciplina."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Funcionarán con carácter permanente conforme a las disposiciones legales y reglamentarias aplicables, cuyas resoluciones serán autónomas y de carácter obligatorio."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Los Consejos de Honor Superior conocerán de los recursos de inconformidad que se interpongan en contra de las resoluciones emitidas por los Consejos de Honor Ordinarios y Consejos de Disciplina."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-v.articulo-49",
+                  "heading": "Artículo 49",
+                  "descriptor": null,
+                  "ordinal": "49",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". La Junta Naval, es el órgano administrativo de carácter permanente, integrado conforme a su reglamento y demás disposiciones aplicables, competente para conocer de la inconformidad que manifieste el personal naval respecto de:"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "I",
+                      "text": "Adecuación de grado;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "II",
+                      "text": "Antigüedad en el grado;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "III",
+                      "text": "Exclusión en el concurso de selección para ascenso;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "IV",
+                      "text": "Postergas;"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "V",
+                      "text": "Pase a la milicia permanente, y"
+                    },
+                    {
+                      "type": "fraccion",
+                      "ordinal": "VI",
+                      "text": "Situaciones escalafonarias."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "El personal naval de la jerarquía de Capitán de Fragata a Almirante sólo podrá interponer las inconformidades previstas en las fracciones II y VI del presente artículo."
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "type": "articulo",
+                  "id": "titulo-segund.capitulo-iii.seccion-v.articulo-50",
+                  "heading": "Artículo 50",
+                  "descriptor": null,
+                  "ordinal": "50",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": ". Las resoluciones emitidas por la Junta Naval serán autónomas, obligatorias y se regularán conforme a lo que establece su reglamento y la normatividad aplicable."
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-tercer",
+      "heading": "TÍTULO TERCERO",
+      "descriptor": "DEL PERSONAL NAVAL",
+      "ordinal": "TERCERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-i",
+          "heading": "CAPÍTULO I",
+          "descriptor": "DEL INGRESO",
+          "ordinal": "I",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-51",
+              "heading": "Artículo 51",
+              "descriptor": null,
+              "ordinal": "51",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los requisitos esenciales para causar alta en el servicio activo de la Armada de México son:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Ser persona mexicana por nacimiento;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "No contar con otra nacionalidad;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Estar en pleno goce y ejercicio de los derechos civiles y políticos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "No contar con antecedentes penales por delitos dolosos, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Reunir los requisitos de edad, de aptitud física y académica, de conducta y probidad, así como encontrarse médica y clínicamente sana y apta para el servicio de las armas, en términos de las normas aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-52",
+              "heading": "Artículo 52",
+              "descriptor": null,
+              "ordinal": "52",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Se podrá causar alta en el servicio activo de la Armada de México, conforme a lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Por contrato de enganche voluntario para prestar servicios en la Armada de México, de acuerdo con las condiciones y términos establecidos en el mismo, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Por ingreso a los establecimientos educativos navales como personal de Cadetes o Alumnado mediante contrato de enganche voluntario, de conformidad con los ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-ii",
+          "heading": "CAPÍTULO II",
+          "descriptor": "DE LA CLASIFICACIÓN",
+          "ordinal": "II",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-53",
+              "heading": "Artículo 53",
+              "descriptor": null,
+              "ordinal": "53",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para su clasificación el personal naval pertenece a:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La milicia permanente, o"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "La milicia auxiliar."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-54",
+              "heading": "Artículo 54",
+              "descriptor": null,
+              "ordinal": "54",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La milicia permanente se caracteriza por su estabilidad en el servicio, considerándose dentro de éste al siguiente personal:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Quien egrese de las escuelas de formación y se le expida el despacho de Guardiamarina o Primer Maestre;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Quien habiendo causado alta con la categoría de Marinero, obtenga por ascensos sucesivos el grado de Primer Maestre o equivalente y haya cumplido ininterrumpidamente cuatro años de servicio;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Quienes habiendo causado alta con la jerarquía de Segundos o Terceros Maestres y obtengan por ascensos sucesivos el grado de Primer Maestre y hayan cumplido ininterrumpidamente cuatro años de servicio, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Quienes causen alta en la Armada de México con la categoría de Oficiales de la milicia auxiliar o el personal de Clases y Marinería que por estudios realizados debidamente avalados por la Universidad Naval y con reconocimiento de validez oficial por la Secretaría de Educación Pública, obtengan la adecuación de grado que los ubique en la categoría de oficiales y reúnan, sin interrupción, cuatro años en los tiempos de servicio."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Además de lo anterior, el pase de la milicia auxiliar a la milicia permanente, previa solicitud de la persona interesada, estará sujeto al cumplimiento de los requisitos de conducta, edad, aptitud física y profesional, conforme al reglamento respectivo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-55",
+              "heading": "Artículo 55",
+              "descriptor": null,
+              "ordinal": "55",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal de la milicia permanente, Núcleo o Escala de los diferentes servicios, sin distinción de género, podrá obtener los distintos grados conforme a los procedimientos establecidos en la Ley de Ascensos de la Armada de México o realizando estudios de acuerdo con las necesidades de las planillas orgánicas autorizadas y acordes a su profesión, por su cuenta y sin perjuicio del servicio, pudiendo obtener los grados de:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Teniente de Corbeta, con licenciatura;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Teniente de Fragata, con maestría;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Teniente de Navío, con especialidad médica o doctorado, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Capitán de Corbeta, con subespecialidad médica o postdoctorado."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Lo anterior, estará sujeto a que dichos estudios resulten de utilidad a la Armada de México y que exista vacante."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-56",
+              "heading": "Artículo 56",
+              "descriptor": null,
+              "ordinal": "56",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La milicia auxiliar, prestará sus servicios por el tiempo que establezca su contrato y de acuerdo con lo estipulado en las cláusulas del mismo, considerándose dentro de éste, al siguiente personal:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "El de Cadetes y Alumnado de los establecimientos educativos navales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Las Clases y Marinería, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Quienes ingresen a la Armada de México como Oficiales, de acuerdo con su nivel de estudios y las necesidades de la institución, de conformidad con los ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-57",
+              "heading": "Artículo 57",
+              "descriptor": null,
+              "ordinal": "57",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal de la milicia auxiliar podrá ascender por adecuación de grado al haber realizado estudios por su cuenta acordes a su profesión, sin perjuicio del servicio y que sean de utilidad para la Armada de México, siempre que sus estudios tengan reconocimiento de validez oficial por la Secretaría de Educación Pública, pudiendo obtener los grados de:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Tercer Maestre, con nivel técnico profesional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Segundo Maestre, con nivel técnico profesional con especialidad;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Primer Maestre, con nivel técnico superior universitario;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Teniente de Corbeta, con licenciatura;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Teniente de Fragata, con especialidad médica o maestría, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Teniente de Navío, con subespecialidad médica o doctorado."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La adecuación de grado estará sujeta a que exista vacante, presentación de título o diploma y cédula profesional."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-58",
+              "heading": "Artículo 58",
+              "descriptor": null,
+              "ordinal": "58",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Se consideran personas becarias, aquellas de nacionalidad extranjera que se encuentran realizando estudios en los establecimientos educativos navales de la Armada de México."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-59",
+              "heading": "Artículo 59",
+              "descriptor": null,
+              "ordinal": "59",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las personas becarias no serán consideradas como elementos de la Armada de México, pero están sujetas a la reglamentación interna de los establecimientos educativos navales."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-iii",
+          "heading": "CAPÍTULO III",
+          "descriptor": "DE LOS CUERPOS Y SERVICIOS",
+          "ordinal": "III",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-60",
+              "heading": "Artículo 60",
+              "descriptor": null,
+              "ordinal": "60",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal se agrupa en Cuerpos y Servicios en atención a su formación y funciones."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A su vez, los Cuerpos y los Servicios están constituidos por Núcleos y Escalas. Los Núcleos agrupan al personal profesional y las Escalas al técnico profesional y no profesional."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-61",
+              "heading": "Artículo 61",
+              "descriptor": null,
+              "ordinal": "61",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Cuerpos son los siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Cuerpo General;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Infantería de Marina;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Aeronáutica Naval, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Otros que sean necesarios a juicio del Alto Mando."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-62",
+              "heading": "Artículo 62",
+              "descriptor": null,
+              "ordinal": "62",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Núcleos de los Cuerpos están constituidos por personal que haya concluido y aprobado satisfactoriamente sus estudios en la Heroica Escuela Naval Militar y por Cadetes de este establecimiento que finalicen y aprueben satisfactoriamente sus estudios en instituciones de educación superior en el extranjero, en los términos previstos en los ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-63",
+              "heading": "Artículo 63",
+              "descriptor": null,
+              "ordinal": "63",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las Escalas de los Cuerpos técnico profesional están integradas por el personal que haya realizado estudios en los establecimientos educativos navales de nivel medio superior o técnico profesional, reconocidas por la Secretaría de Educación Pública y que obtengan el título y la cédula profesional, de acuerdo con los ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-64",
+              "heading": "Artículo 64",
+              "descriptor": null,
+              "ordinal": "64",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Escala de los Cuerpos técnico no profesional está integrada por el personal que haya realizado estudios de capacitación en los establecimientos educativos navales, de acuerdo con los ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-65",
+              "heading": "Artículo 65",
+              "descriptor": null,
+              "ordinal": "65",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Servicios de la Armada de México son:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Administración e Intendencia Naval;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Apoyo a la Autoridad Marítima;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Comunicaciones Navales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Comunicación Social;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Del Medio Ambiente Marino;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Docente Naval;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Logística Naval;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Ingenieros de la Armada;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Justicia Naval;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Meteorología Naval;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Músicos Navales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Sanidad Naval;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIII",
+                  "text": "Trabajo Social Naval, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XIV",
+                  "text": "Otros que sean necesarios a juicio del Alto Mando."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-66",
+              "heading": "Artículo 66",
+              "descriptor": null,
+              "ordinal": "66",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los Núcleos de los Servicios, están constituidos por el personal que haya concluido y aprobado satisfactoriamente sus estudios en los establecimientos educativos navales de nivel licenciatura o aquel que cause alta en la Armada de México, procedente de establecimientos educativos de nivel licenciatura o superior, nacionales o extranjeros conforme a los ordenamientos aplicables. Los estudios en estas últimas, para su reconocimiento, deberán ser revalidados por la Secretaría de Educación Pública."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-67",
+              "heading": "Artículo 67",
+              "descriptor": null,
+              "ordinal": "67",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las Escalas de los Servicios técnico profesional, están integradas por el personal que haya realizado estudios de nivel medio superior o técnico profesional reconocidos por la Secretaría de Educación Pública, de acuerdo con los ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-68",
+              "heading": "Artículo 68",
+              "descriptor": null,
+              "ordinal": "68",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las Escalas de los Servicios técnico no profesional, están integradas por el personal que haya recibido capacitación en los establecimientos educativos navales o que, al ingresar al servicio activo de la Armada de México, cuenten con habilidades sobre un oficio en particular."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iii.articulo-69",
+              "heading": "Artículo 69",
+              "descriptor": null,
+              "ordinal": "69",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal de la Armada de México podrá ser cambiado de Cuerpo, Servicio, Núcleo o Escala, por necesidades del servicio; por recomendación de un Consejo Médico integrado por médicos especialistas navales o a petición de la persona interesada, sujetándose a las siguientes reglas:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Si el cambio es por necesidades del servicio o por recomendación de un Consejo Médico como resultado de lesiones en actos del servicio, no perderá el Grado ni la antigüedad, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Si el cambio es a solicitud de la persona interesada o por recomendación de un Consejo Médico como resultado de lesiones en actos no imputables al servicio, ocupará el último lugar del Grado que ostente en el Cuerpo o Servicio del escalafón al que vaya a pertenecer a partir de la fecha del cambio."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para efectos de retiro no perderá el tiempo de servicio en el Grado."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para efectos de ascenso la antigüedad en el Grado contará a partir de la fecha del cambio."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-iv",
+          "heading": "CAPÍTULO IV",
+          "descriptor": "DEL DESEMPEÑO Y FUNCIONES DEL PERSONAL",
+          "ordinal": "IV",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iv.articulo-70",
+              "heading": "Artículo 70",
+              "descriptor": null,
+              "ordinal": "70",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal naval, sin distinción de género, desempeñará los mandos, cargos y comisiones acordes a su Cuerpo, Servicio y Grado establecidos en las planillas orgánicas de las unidades y establecimientos de la Armada de México y de la Secretaría de Marina, así como los que se le nombren, de conformidad con los ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iv.articulo-71",
+              "heading": "Artículo 71",
+              "descriptor": null,
+              "ordinal": "71",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal naval que desempeñe un mando, cargo o comisión, podrá ser cesado o designado a otro distinto, así como cambiado de adscripción, sin más trámite que la orden que, en su caso, el mando o autoridad competente emita, quedando obligado a su cumplimiento, de conformidad con las disposiciones aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iv.articulo-72",
+              "heading": "Artículo 72",
+              "descriptor": null,
+              "ordinal": "72",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Al personal de los Cuerpos le corresponden las funciones siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Ejercer los niveles y tipos de mando que establece la presente Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Operar y mantener las unidades operativas marítimas, aéreas, terrestres y cibernéticas, armas, armamento marinero, maquinaria naval y las que se requieran en la profesión naval, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Desempeñar los mandos, cargos y comisiones que se requieran para el cumplimiento de la misión y ejercicio de las atribuciones de la Armada de México, así como aquellas asignaciones que le sean conferidas en la Secretaría de Marina y en otras dependencias y entidades de la Administración Pública Federal."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-iv.articulo-73",
+              "heading": "Artículo 73",
+              "descriptor": null,
+              "ordinal": "73",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal de los Servicios desempeñará las funciones siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Ejercer los cargos y comisiones inherentes a su servicio o especialidad;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Realizar las actividades correspondientes a su profesión, especialidad u oficio, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Desempeñar los cargos, comisiones y asignaciones que les sean conferidos en la Armada de México, en la Secretaría de Marina y en otras dependencias y entidades de la Administración Pública Federal."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-v",
+          "heading": "CAPÍTULO V",
+          "descriptor": "DEL DESARROLLO DEL PERSONAL NAVAL",
+          "ordinal": "V",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-v.articulo-74",
+              "heading": "Artículo 74",
+              "descriptor": null,
+              "ordinal": "74",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El desarrollo del personal naval tiene como propósito formar de manera integral al recurso humano que compone a la Armada de México, con conocimientos navales, militares y doctrinarios, así como técnicos y profesionales, de acuerdo a los objetivos del Sistema Educativo Naval."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Dicho Sistema, además de los conocimientos señalados en el párrafo anterior, fomentará, en el recurso humano que compone a la Armada de México, los principios de amor a la patria, legalidad, objetividad, eficiencia, profesionalismo, imparcialidad, honradez, probidad y respeto a los derechos humanos previstos en la Constitución Política de los Estados Unidos Mexicanos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-v.articulo-75",
+              "heading": "Artículo 75",
+              "descriptor": null,
+              "ordinal": "75",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal naval que efectúe estudios por cuenta de la Secretaría de Marina en establecimientos del Sistema Educativo Naval o en otros centros educativos nacionales o extranjeros, se obligan a prestar servicios obligatorios acumulables a partir de su egreso conforme a lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "En planteles navales, militares o civiles nacionales, un tiempo equivalente a dos veces el que duren sus estudios, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "En planteles navales, militares o civiles extranjeros, un tiempo equivalente a tres veces el que duren sus estudios."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El personal que solicite su separación del servicio activo y no haya concluido con el tiempo de servicio especificado en las fracciones anteriores cubrirá el total o la parte proporcional del importe erogado por la institución para la realización de dichos estudios."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-v.articulo-76",
+              "heading": "Artículo 76",
+              "descriptor": null,
+              "ordinal": "76",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal seleccionado para efectuar estudios en establecimientos del Sistema Educativo Naval o en otros centros educativos nacionales o extranjeros, deberá firmar un contrato en el que se establezcan las obligaciones previstas en las fracciones I y II del artículo anterior."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-v.articulo-77",
+              "heading": "Artículo 77",
+              "descriptor": null,
+              "ordinal": "77",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Al personal que se encuentre cursando carreras de nivel superior en los diferentes establecimientos educativos navales se les denominará Cadetes y a los de nivel medio superior Alumnado."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Para efectos disciplinarios se regirán por los reglamentos de los establecimientos educativos navales correspondientes y para efectos de la comisión de delitos del fuero de guerra se sujetarán a lo establecido en el Código de Justicia Militar."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-vi",
+          "heading": "CAPÍTULO VI",
+          "descriptor": "DE LOS GRADOS DEL PERSONAL NAVAL Y ESCALAFÓN",
+          "ordinal": "VI",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vi.articulo-78",
+              "heading": "Artículo 78",
+              "descriptor": null,
+              "ordinal": "78",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal naval está constituido por las mujeres y los hombres que pertenecen a la Armada de México y ostentarán un grado de la escala jerárquica prevista en el presente capítulo, sujetándose a las obligaciones y derechos que para ello establece la Constitución Política de los Estados Unidos Mexicanos, la presente Ley y demás ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vi.articulo-79",
+              "heading": "Artículo 79",
+              "descriptor": null,
+              "ordinal": "79",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los grados de la escala jerárquica del personal naval tienen por objeto el ejercicio de la autoridad, otorgando a su titular los derechos, obligaciones y deberes inherentes a la situación en que se encuentre, establecidos en las leyes y reglamentos respectivos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vi.articulo-80",
+              "heading": "Artículo 80",
+              "descriptor": null,
+              "ordinal": "80",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal, por su grado, se agrupará en las categorías siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Almirantes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Capitanes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Oficiales;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Cadetes y Alumnado;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Clases, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Marinería."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vi.articulo-81",
+              "heading": "Artículo 81",
+              "descriptor": null,
+              "ordinal": "81",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para el cumplimiento de las operaciones realizadas conjuntamente por la Fuerza Armada permanente, temas inherentes a la disciplina naval, así como para los efectos de los derechos a que alude la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, las distintas categorías y jerarquías de la Armada de México tendrán las equivalencias con las categorías y jerarquías del Ejército, Fuerza Aérea y Guardia Nacional, en los términos siguientes:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ARMADA EJÉRCITO Y FUERZA AÉREA GUARDIA NACIONAL"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "ALMIRANTES GENERALES GENERALES Almirante General de División General de División de Guardia Nacional Vicealmirante General de Brigada o General de Ala General de Brigada de Guardia Nacional Contralmirante General Brigadier o General de Grupo General Brigadier de Guardia Nacional"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "CAPITANES JEFES JEFES Capitán de Navío Coronel Coronel de Guardia Nacional Capitán de Fragata Teniente Coronel Teniente Coronel de Guardia Nacional Capitán de Corbeta Mayor Mayor de Guardia Nacional"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "OFICIALES OFICIALES OFICIALES Teniente de Navío Capitán Primero Capitán Primero de Guardia Nacional Teniente de Fragata Capitán Segundo Capitán Segundo de Guardia Nacional Teniente de Corbeta Teniente Teniente de Guardia Nacional Guardiamarina Subteniente Subteniente de Guardia Nacional Primer Maestre Subteniente Subteniente de Guardia Nacional"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "CLASES CLASES CLASES Segundo Maestre Sargento Primero Sargento Primero de Guardia Nacional Tercer Maestre Sargento Segundo Sargento Segundo de Guardia Nacional Cabo Cabo Cabo de Guardia Nacional"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "MARINERÍA Marinero Soldado Soldado de Guardia Nacional Además de las distintas categorías y jerarquías que ostenta el personal de la Armada de México, señaladas en el cuadro anterior, se cuenta con Cadetes y Alumnado, quienes cursan diversos estudios en los planteles educativos navales."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vi.articulo-82",
+              "heading": "Artículo 82",
+              "descriptor": null,
+              "ordinal": "82",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Al término de los estudios en la Heroica Escuela Naval Militar, al personal de Cadetes que haya concluido y aprobado satisfactoriamente sus estudios se les otorgará el grado de Guardiamarina; al Alumnado o Cadetes de las carreras de nivel superior de los demás establecimientos educativos navales, el de Primer Maestre y a los de nivel medio superior, el de Segundo Maestre."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vi.articulo-83",
+              "heading": "Artículo 83",
+              "descriptor": null,
+              "ordinal": "83",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los ascensos del personal naval se conferirán con arreglo a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Ley de Ascensos de la Armada de México y en su reglamento, tomando en consideración la igualdad de oportunidades."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Durante su permanencia en el servicio activo deberán cumplir con un perfil de confianza acorde a la misión de la Armada de México."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vi.articulo-84",
+              "heading": "Artículo 84",
+              "descriptor": null,
+              "ordinal": "84",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El grado máximo es aquel que puede alcanzar el personal de la Armada de México en su correspondiente Cuerpo o Servicio."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Quien alcance el grado máximo, en los términos en que lo establece esta Ley y demás ordenamientos aplicables, al cumplir cinco años en dicho grado percibirá una asignación mensual igual a la diferencia de percepciones que exista entre el grado que ostenta y el inmediato superior."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cada cinco años dicha asignación será aumentada a las percepciones que correspondan al grado inmediato superior de los que perciba."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vi.articulo-85",
+              "heading": "Artículo 85",
+              "descriptor": null,
+              "ordinal": "85",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Se consideran como grado máximo los siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Para los Cuerpos:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Núcleo: hasta Almirante;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Escala técnico profesional: hasta Capitán de Corbeta, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "Escala no profesional: hasta Teniente de Navío, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Para los Servicios:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Núcleo: hasta Vicealmirante;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Escala técnico profesional: hasta Capitán de Corbeta, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "Escala no profesional: hasta Teniente de Navío."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vi.articulo-86",
+              "heading": "Artículo 86",
+              "descriptor": null,
+              "ordinal": "86",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El escalafón de la Armada de México, se integra agrupando al personal naval por Cuerpos y Servicios, Núcleos y Escalas en orden descendente, en razón de la Categoría, Grado y antigüedad en el Grado, de cada elemento, señalando las especialidades que ostenten."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-vii",
+          "heading": "CAPÍTULO VII",
+          "descriptor": "SITUACIÓN DEL PERSONAL",
+          "ordinal": "VII",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-87",
+              "heading": "Artículo 87",
+              "descriptor": null,
+              "ordinal": "87",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal de la Armada de México podrá encontrarse en alguna de las situaciones siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Activo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Retiro, o"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Reserva."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-88",
+              "heading": "Artículo 88",
+              "descriptor": null,
+              "ordinal": "88",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal naval se encuentra en servicio activo cuando está:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Prestando sus servicios en unidades y establecimientos navales, en la Secretaría de Marina o encontrarse comisionado o asignado en otra dependencia;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "A disposición, en espera de órdenes para que le sea asignado cargo o comisión;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "En depósito, cuando el personal de la categoría de Almirantes y jerarquía de Capitanes de Navío, que, por orden del Alto Mando, o a solicitud de la persona militar, de manera temporal, permanezcan sin desempeñar cargo o comisión. El personal que se encuentre en esta situación, no será propuesto para ascenso y además, cuando sea a solicitud de la persona interesada, únicamente percibirá el haber que le corresponda;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "En situación especial, por encontrarse vinculado a proceso, cumpliendo condena y que no haya sido destituido por sentencia ejecutoriada o suspendido por resolución firme de organismo administrativo competente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Con licencia, a excepción de la ilimitada, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "En cumplimiento de correctivo disciplinario, por resolución de un órgano de disciplina, en los términos que disponen las fracciones III, IV y V del artículo 50 de la Ley de Disciplina para el Personal de la Armada de México."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-89",
+              "heading": "Artículo 89",
+              "descriptor": null,
+              "ordinal": "89",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las licencias que se concedan al personal naval, estarán reguladas en el reglamento correspondiente y demás disposiciones jurídicas aplicables y son las siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Menor: Para resolver asuntos personales inmediatos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Ordinaria: Para resolver asuntos personales que requieren mayor tiempo que el que se concede para la licencia menor, pero sin separarse del servicio activo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Extraordinaria: Para separarse temporalmente del servicio activo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Por enfermedad: Cuando el personal requiere tratamiento médico o tiempo para recuperar su salud por presentar una enfermedad que le impida desempeñar su servicio;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Por edad límite: Al personal próximo a ser colocado en situación de retiro por edad límite, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Ilimitada: Para separarse del servicio activo por tiempo indefinido."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-90",
+              "heading": "Artículo 90",
+              "descriptor": null,
+              "ordinal": "90",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Es facultad del Alto Mando otorgar, modificar o cancelar las licencias establecidas en la presente Ley, conforme a lo dispuesto por los ordenamientos aplicables."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-91",
+              "heading": "Artículo 91",
+              "descriptor": null,
+              "ordinal": "91",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal naval que se encuentre haciendo uso de licencia ilimitada, se sujetará a lo establecido en la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, respecto del beneficio del servicio médico integral."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-92",
+              "heading": "Artículo 92",
+              "descriptor": null,
+              "ordinal": "92",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Es facultad del Alto Mando ejercer el derecho de retención en el activo al personal que se encuentre considerado en la causal de retiro por edad límite, por necesidades del servicio o a solicitud de la persona interesada, en tanto no se hayan girado las órdenes de baja del servicio activo y alta en situación de retiro."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-93",
+              "heading": "Artículo 93",
+              "descriptor": null,
+              "ordinal": "93",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Baja es la separación definitiva del servicio activo de la Armada de México, la cual procederá cuando la persona militar:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Lo solicite por escrito y no exista causa comprobada que lo obligue a permanecer en el servicio;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Se ausente por un periodo mayor a dos meses consecutivos, comprobado mediante los partes oficiales y las constancias que obren en la carpeta de investigación o en procedimiento judicial. En caso de que aparezca y justifique su ausencia, podrá ser reincorporada al servicio activo;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Incurra en hechos de falsedad en declaraciones o en la documentación presentada para su ingreso, para acreditar su situación o la de sus derechohabientes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Fallezca;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Se encuentre vinculada a proceso penal en las jurisdicciones federal o común, por hechos ajenos y sin conexión con el servicio que amerite prisión preventiva oficiosa o justificada sin derecho a libertad provisional bajo caución. De resultar absuelta podrá reingresar al servicio activo, previa opinión de la Unidad Jurídica;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Falte injustificadamente tres días consecutivos, tratándose del personal de la milicia auxiliar, sin perjuicio del proceso que se les siga;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Padezca una enfermedad contraída en actos ajenos al servicio, de acuerdo con el dictamen de autoridad médica naval competente, que la imposibilite para desempeñarse en el servicio activo, de conformidad con los ordenamientos aplicables y no cuente con más de cinco años de servicio en la Armada de México;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Esté imposibilitada para cumplir con sus obligaciones militares por causa no imputable a la Armada de México;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IX",
+                  "text": "Sea sancionada por resolución de órgano de disciplina competente que haya causado estado. Lo anterior independientemente del proceso penal que se integre ante la comisión de hechos posiblemente constitutivos de delitos;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "X",
+                  "text": "Sea sentenciada por un órgano jurisdiccional federal, militar o administrativo que la ordene, cuando la sentencia haya causado ejecutoria;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XI",
+                  "text": "Termine su contrato a que se refiere el artículo 56 de esta Ley, tratándose de personal de la milicia auxiliar, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "XII",
+                  "text": "Sea declarado prófugo de la justicia, tratándose de Almirantes, Capitanes y Oficiales de la milicia permanente, sin perjuicio del proceso que se le siga."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-94",
+              "heading": "Artículo 94",
+              "descriptor": null,
+              "ordinal": "94",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La baja del servicio activo de la Armada de México por alguno de los supuestos establecidos en las fracciones III, V, VI, VIII, IX, X y XII, previstas en el artículo 93 de la presente Ley, implica que el tiempo de servicios se pierda totalmente."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Se deberá emplazar a la persona interesada, por escrito, de manera fundada y motivada, en los supuestos previstos en las fracciones III, V, VI, VII, VIII, XI y XII, del artículo 93 de la presente Ley, a fin de que, dentro del plazo de quince días hábiles a partir de la notificación, manifieste lo que estime necesario para su defensa y aporte las pruebas y alegatos que considere pertinentes. Dicha vista será desahogada, debiendo valorarse los argumentos y pruebas ofrecidas para después dictar una determinación que resuelva el fondo del asunto, emitiéndose la resolución correspondiente."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Transcurrido el plazo aplicable, sin comparecer por escrito, se le tendrá por precluido el derecho y dará lugar a la emisión de la resolución correspondiente."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-95",
+              "heading": "Artículo 95",
+              "descriptor": null,
+              "ordinal": "95",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las bajas del servicio activo de la Armada de México, se sujetarán a lo siguiente:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "La persona titular de la Oficialía Mayor de la Secretaría de Marina, emitirá la baja tratándose del personal de la categoría de Almirantes;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "La persona titular de la Dirección General de Recursos Humanos de la Secretaría de Marina, tratándose del personal de la categoría de Capitanes y Oficiales:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Substanciará y resolverá el procedimiento administrativo, de conformidad con lo previsto en el segundo párrafo del artículo 94 de la presente Ley y de ser procedente, emitirá la baja del servicio activo de la Armada de México, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Emitirá la baja del servicio activo de la Armada de México, sin substanciar procedimiento alguno, en los casos previstos en las fracciones I, II, IV, IX y X del artículo 93 de la presente Ley;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Las personas titulares de los establecimientos educativos navales, tratándose de Cadetes y Alumnado, substanciarán y resolverán el procedimiento administrativo y en su caso, emitirán la baja del servicio activo de la Armada de México y del plantel educativo correspondiente, en los términos del reglamento respectivo."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En los casos de Cadetes y Alumnado de origen extranjero, se emitirá la baja del plantel educativo naval;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Las personas titulares de las Comandancias de las Fuerzas, Regiones, Zonas y Sectores Navales, tratándose del personal de la categoría de Clases y Marinería con adscripción a unidades, establecimientos bajo su mando y comisionado en la Secretaría de Marina; así como los asignados en otras dependencias y quienes se encuentren en situación especial, que dependan administrativamente del mando correspondiente:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Substanciarán y resolverán el procedimiento administrativo, de conformidad con lo previsto en el segundo párrafo del artículo 94 de la presente Ley y de ser procedente, emitirán la baja del servicio activo de la Armada de México, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Emitirán la baja del servicio activo de la Armada de México, sin substanciar procedimiento alguno, en los casos previstos en las fracciones I, II, IV, IX y X del artículo 93 de la presente Ley."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-96",
+              "heading": "Artículo 96",
+              "descriptor": null,
+              "ordinal": "96",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". No se autorizará pase a depósito, licencia extraordinaria o ilimitada, ni baja, por solicitud de la persona interesada, cuando el país se encuentre en estado de emergencia, en caso de invasión, perturbación grave de la paz pública o cualquier otro que ponga a la sociedad en grave peligro o conflicto."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-97",
+              "heading": "Artículo 97",
+              "descriptor": null,
+              "ordinal": "97",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las reservas de la Armada de México son:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Primera Reserva, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Segunda Reserva."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-98",
+              "heading": "Artículo 98",
+              "descriptor": null,
+              "ordinal": "98",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Primera Reserva se integra con personal físicamente apto de:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Almirantes, Capitanes y Oficiales en situación de retiro y Oficiales que hayan causado baja del servicio activo por solicitarla;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Clases y Marinería que hayan causado baja del servicio activo por solicitarla, hasta la edad de treinta y seis años;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Oficiales, Clases y Marinería del Servicio Militar Nacional, hasta las edades de treinta y seis, treinta y tres y treinta años, respectivamente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Capitanes y Oficiales pertenecientes a la Marina Mercante Nacional;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "El demás personal de la Marina Mercante Nacional hasta la edad de treinta y seis años;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VI",
+                  "text": "Personal civil de la Secretaría de Marina;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VII",
+                  "text": "Personal de procedencia civil que tenga una profesión u oficio relacionado directamente con las actividades marítimas o portuarias, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "VIII",
+                  "text": "Las y los ciudadanos mexicanos que así lo soliciten, quienes permanecerán en esta reserva hasta la edad de treinta años."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-99",
+              "heading": "Artículo 99",
+              "descriptor": null,
+              "ordinal": "99",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Segunda Reserva se integra con el personal proveniente de la primera en los casos siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "El comprendido en la fracción II del artículo anterior hasta los cuarenta y cinco años;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "El comprendido en la fracción III del artículo anterior, hasta las edades de cincuenta, cuarenta y cinco y cuarenta años, respectivamente;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "El personal de la Marina Mercante Nacional comprendido en la fracción V del artículo anterior hasta la edad de cincuenta años, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "El comprendido en la fracción VIII del artículo precedente, hasta la edad de cuarenta años."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-100",
+              "heading": "Artículo 100",
+              "descriptor": null,
+              "ordinal": "100",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las reservas serán movilizadas en los términos de la ley respectiva y serán empleadas en la forma que mejor convenga al servicio."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Se llevará y mantendrá actualizado un registro del personal que constituya cada una de las reservas."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El Alto Mando podrá llamar a la Primera o Segunda Reserva, en su totalidad, en parte o conjuntamente para efectuar ejercicios o comprobar su existencia."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-vii.articulo-101",
+              "heading": "Artículo 101",
+              "descriptor": null,
+              "ordinal": "101",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". El personal del activo pasará a situación de retiro de acuerdo con lo establecido en la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "Transitorios",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A partir de la entrada en vigor de este Decreto, se abroga la Ley Orgánica de la Armada de México, publicada el 14 de octubre de 2021 en el Diario Oficial de la Federación y se derogan todas aquellas disposiciones que se opongan a la presente Ley."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-tercer",
+          "heading": "Tercero",
+          "descriptor": null,
+          "ordinal": "Tercero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las erogaciones que deriven por la implementación del presente Decreto se cubrirán con cargo al presupuesto aprobado de la Secretaría de Marina, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las modificaciones a la estructura orgánica de la Secretaría de Marina que deriven por la entrada en vigor del presente Decreto se llevarán a cabo mediante movimientos compensados, por lo que no se debe incrementar el presupuesto aprobado en el capítulo de servicios personales para el presente ejercicio fiscal, ni el presupuesto regularizable de servicios personales y de gasto de operación de esa dependencia para ejercicios fiscales subsecuentes."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-cuart",
+          "heading": "Cuarto",
+          "descriptor": null,
+          "ordinal": "Cuarto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, relacionados con las modificaciones a los preceptos legales contemplados en la misma, se resolverán de conformidad con las disposiciones que les dieron origen."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-quint",
+          "heading": "Quinto",
+          "descriptor": null,
+          "ordinal": "Quinto",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Las referencias que se hagan de las personas servidoras públicas o unidades operativas de la Armada de México en otros ordenamientos, cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor de la presente Ley, se entenderán referidas a las personas servidoras públicas y unidades operativas que, conforme al mismo, sean competentes en la materia que se trate."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ciudad de México, a 29 de octubre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 05 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

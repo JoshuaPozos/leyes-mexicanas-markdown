@@ -1,0 +1,738 @@
+{
+  "schema_version": "1.0.0",
+  "id": "LAAT_ley_de_ayuda_alimentaria_para_los_trabajadores",
+  "abbreviation": "LAAT",
+  "name": "LEY de Ayuda Alimentaria para los Trabajadores",
+  "catalog_number": "028",
+  "source": {
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf",
+    "pdf_filename_origen": "LAAT.pdf",
+    "dof_publication": "DOF17/01/2011",
+    "last_reform": "Sin reforma",
+    "captured_at": "2026-04-09T09:38:01.430129+00:00"
+  },
+  "preamble": [
+    {
+      "type": "paragraph",
+      "text": "TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 17 de enero de 2011 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República."
+    },
+    {
+      "type": "paragraph",
+      "text": "FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO \"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:"
+    },
+    {
+      "type": "paragraph",
+      "text": "SE EXPIDE LA"
+    }
+  ],
+  "structure": [
+    {
+      "type": "articulo",
+      "id": "articulo-articulo-unic",
+      "heading": "ARTÍCULO ÚNICO",
+      "descriptor": null,
+      "ordinal": "ARTÍCULO ÚNICO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se expide la Ley de Ayuda Alimentaria para los Trabajadores, para quedar como sigue:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ley de Ayuda Alimentaria para los Trabajadores"
+        }
+      ],
+      "children": []
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-primer",
+      "heading": "TÍTULO PRIMERO",
+      "descriptor": "Disposiciones Generales",
+      "ordinal": "PRIMERO",
+      "content": [],
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-1",
+          "heading": "Artículo 1o",
+          "descriptor": null,
+          "ordinal": "1o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". La presente Ley tiene por objeto promover y regular la instrumentación de esquemas de ayuda alimentaria en beneficio de los trabajadores, con el propósito de mejorar su estado nutricional, así como de prevenir las enfermedades vinculadas con una alimentación deficiente y proteger la salud en el ámbito ocupacional."
+            },
+            {
+              "type": "paragraph",
+              "text": "Esta Ley es de aplicación en toda la República y sus disposiciones son de interés social."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-2",
+          "heading": "Artículo 2o",
+          "descriptor": null,
+          "ordinal": "2o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Para efectos de la presente Ley se entenderá por:"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "I",
+              "text": "Dieta correcta. Aquella que es completa, equilibrada, saludable, suficiente, variada y adecuada, en términos de las disposiciones que al efecto expida la Secretaría de Salud;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "II",
+              "text": "Normas. A las normas oficiales mexicanas;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "III",
+              "text": "Secretaría. A la Secretaría del Trabajo y Previsión Social;"
+            },
+            {
+              "type": "fraccion",
+              "ordinal": "IV",
+              "text": "Trabajadores. A los hombres y mujeres que prestan a una persona física o moral un trabajo personal subordinado, que sus relaciones laborales se encuentren comprendidas en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-3",
+          "heading": "Artículo 3o",
+          "descriptor": null,
+          "ordinal": "3o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Los patrones podrán optar, de manera voluntaria o concertada, por otorgar a sus trabajadores ayuda alimentaria en alguna de las modalidades establecidas en esta Ley o mediante combinaciones de éstas."
+            },
+            {
+              "type": "paragraph",
+              "text": "Se entenderá que un patrón ha optado concertadamente por otorgar ayuda alimentaria, cuando ese beneficio quede incorporado en un contrato colectivo de trabajo."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "articulo",
+          "id": "titulo-primer.articulo-4",
+          "heading": "Artículo 4o",
+          "descriptor": null,
+          "ordinal": "4o",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": ". Únicamente los patrones que otorguen a sus trabajadores ayuda alimentaria en las modalidades y bajo las condiciones establecidas en el presente ordenamiento podrán recibir los beneficios fiscales contemplados en esta Ley."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-segund",
+      "heading": "TÍTULO SEGUNDO",
+      "descriptor": "AYUDA ALIMENTARIA",
+      "ordinal": "SEGUNDO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": null,
+          "ordinal": "I",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Objetivo de la Ayuda Alimentaria"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-5",
+              "heading": "Artículo 5o",
+              "descriptor": null,
+              "ordinal": "5o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La ayuda alimentaria tendrá como objetivo que los trabajadores se beneficien del consumo de una dieta correcta. Las características específicas de una dieta correcta serán las que la Secretaría de Salud establezca en las normas."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-i.articulo-6",
+              "heading": "Artículo 6o",
+              "descriptor": null,
+              "ordinal": "6o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría de Salud, en coordinación con la Secretaría, definirá e instrumentará campañas nacionales, dirigidas específicamente a los trabajadores, en materia de promoción de la salud y orientación alimentaria, incluyendo mensajes para mejorar su estado nutricional y prevenir la desnutrición, el sobrepeso y la obesidad."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": null,
+          "ordinal": "II",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Modalidades de Ayuda Alimentaria"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-7",
+              "heading": "Artículo 7o",
+              "descriptor": null,
+              "ordinal": "7o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los patrones podrán establecer esquemas de ayuda alimentaria para los trabajadores mediante cualquiera de las modalidades siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Comidas proporcionadas a los trabajadores en:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Comedores;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Restaurantes, o"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "Otros establecimientos de consumo de alimentos."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los establecimientos contemplados en los incisos a), b) y c) de esta fracción podrán ser contratados directamente por el patrón o formar parte de un sistema de alimentación administrado por terceros mediante el uso de vales impresos o electrónicos, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Despensas, ya sea mediante canastillas de alimentos o por medio de vales de despensa en formato impreso o electrónico."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "En el marco de la presente Ley, la ayuda alimentaria no podrá ser otorgada en efectivo, ni por otros mecanismos distintos a las modalidades establecidas en el presente artículo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-8",
+              "heading": "Artículo 8o",
+              "descriptor": null,
+              "ordinal": "8o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En aquellos casos en que la ayuda alimentaria se otorgue de manera concertada, las modalidades seleccionadas deberán quedar incluidas expresamente en el contrato colectivo de trabajo."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-9",
+              "heading": "Artículo 9o",
+              "descriptor": null,
+              "ordinal": "9o",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría de Salud, en coordinación con la Secretaría, expedirá las normas a las que deberán sujetarse los comedores a que se refiere el inciso a) de la fracción I del artículo 7 de esta Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Asimismo, ambas dependencias ejercerán, en coordinación con los gobiernos de las entidades federativas, la vigilancia sobre dichos comedores para verificar el cumplimiento de los requisitos que éstos deban reunir."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los gobiernos de las entidades federativas ejercerán el control sanitario de los restaurantes u otros establecimientos de consumo de alimentos a los que se refieren los incisos b) y c) de la fracción I del artículo 7 de esta ley en los términos que señala la Ley General de Salud."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-10",
+              "heading": "Artículo 10",
+              "descriptor": null,
+              "ordinal": "10",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los patrones deberán mantener un control documental suficiente y adecuado para demostrar que la ayuda alimentaria objeto de esta Ley ha sido efectivamente entregada a sus trabajadores."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-11",
+              "heading": "Artículo 11",
+              "descriptor": null,
+              "ordinal": "11",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los vales que se utilicen para proporcionar ayuda alimentaria en términos de la presente Ley deberán reunir los requisitos siguientes:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Para los vales impresos:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Contener la leyenda “Este vale no podrá ser negociado total o parcialmente por dinero en efectivo”;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Señalar la fecha de vencimiento;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "Incluir el nombre o la razón social de la empresa emisora del vale;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "d",
+                  "text": "Especificar expresamente si se trata de un vale para comidas o para despensas, según sea el caso;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "e",
+                  "text": "Indicar de manera clara y visible el importe que ampara el vale con número y letra, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "f",
+                  "text": "Estar impresos en papel seguridad."
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Para los vales electrónicos:"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "a",
+                  "text": "Consistir en un dispositivo en forma de tarjeta plástica que cuente con una banda magnética o algún otro mecanismo tecnológico que permita identificarla en las terminales de los establecimientos afiliados a la red del emisor de la tarjeta;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "Especificar expresamente si se trata de un vale para comidas o para despensas, según sea el caso;"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "c",
+                  "text": "Indicar de manera visible el nombre o la razón social de la empresa emisora de la tarjeta, y"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "d",
+                  "text": "Utilizarse únicamente para la adquisición de comidas o despensas."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-ii.articulo-12",
+              "heading": "Artículo 12",
+              "descriptor": null,
+              "ordinal": "12",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para el caso de los vales impresos y electrónicos previstos en esta Ley quedará prohibido:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Canjearlos por dinero, ya sea en efectivo o mediante títulos de crédito;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Canjearlos o utilizarlos para comprar bebidas alcohólicas o productos del tabaco;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Usarlos para fines distintos a los de esta Ley o para servicios distintos a los definidos en el inciso"
+                },
+                {
+                  "type": "inciso",
+                  "ordinal": "b",
+                  "text": "o c) de la fracción I del artículo 7 o en la fracción II de ese mismo artículo, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Utilizar la tarjeta de los vales electrónicos para retirar el importe de su saldo en efectivo, directamente del emisor o a través de cualquier tercero, por cualquier medio, incluyendo cajeros automáticos, puntos de venta o cajas registradoras, entre otros."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-segund.capitulo-iii",
+          "heading": "Capítulo III",
+          "descriptor": null,
+          "ordinal": "III",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Incentivos y promoción"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-13",
+              "heading": "Artículo 13",
+              "descriptor": null,
+              "ordinal": "13",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Con el propósito de fomentar el establecimiento de los esquemas de ayuda alimentaria en las diversas modalidades a que se refiere el artículo 7o. de esta Ley y alcanzar los objetivos previstos en el artículo 5o. de la misma, los gastos en los que incurran los patrones para proporcionar servicios de comedor a sus trabajadores, así como para la entrega de despensas o de vales para despensa o para consumo de alimentos en establecimientos, serán deducibles en los términos y condiciones que se los ingresos correspondientes del trabajador se considerarán ingresos exentos por prestaciones de previsión social para el trabajador, en los términos y límites establecidos en la Ley del Impuesto sobre la Renta y no formarán parte de la base de las aportaciones de seguridad social en los términos y condiciones que para el caso dispongan las leyes de seguridad social."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-segund.capitulo-iii.articulo-14",
+              "heading": "Artículo 14",
+              "descriptor": null,
+              "ordinal": "14",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La Secretaría elaborará y difundirá una campaña nacional permanente encaminada a promover los beneficios para los patrones y los trabajadores vinculados al otorgamiento de ayuda alimentaria en los términos, las modalidades y condiciones previstos en esta Ley. Para la incorporación en las campañas de referencias a los beneficios en materia de salud ocupacional, la Secretaría se coordinará con la Secretaría de Salud."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-tercer",
+      "heading": "TÍTULO TERCERO",
+      "descriptor": "EVALUACIÓN, SEGUIMIENTO Y VIGILANCIA",
+      "ordinal": "TERCERO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-i",
+          "heading": "Capítulo I",
+          "descriptor": null,
+          "ordinal": "I",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Comisión Tripartita"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-i.articulo-15",
+              "heading": "Artículo 15",
+              "descriptor": null,
+              "ordinal": "15",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La evaluación y seguimiento del cumplimiento de las disposiciones de la presente Ley estará a cargo de una comisión tripartita que se integrará en los términos del presente artículo."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Corresponderá también a dicha comisión hacer las recomendaciones pertinentes para la mejora o ampliación de las acciones de ayuda alimentaria previstas en esta Ley. Lo anterior, sin perjuicio del ejercicio de las atribuciones de vigilancia que correspondan a las dependencias y entidades de la Administración Pública Federal y a los gobiernos de las entidades federativas en términos de las disposiciones aplicables."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La comisión tripartita a la que se refiere el párrafo anterior se integrará por:"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "I",
+                  "text": "Un representante de la Secretaría, quien la presidirá;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "II",
+                  "text": "Un representante de la Secretaría de Salud;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "III",
+                  "text": "Un representante de la Secretaría de Hacienda y Crédito Público;"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "IV",
+                  "text": "Tres representantes de organizaciones nacionales de los trabajadores, y"
+                },
+                {
+                  "type": "fraccion",
+                  "ordinal": "V",
+                  "text": "Tres representantes de organizaciones nacionales de los empresarios."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Secretaría determinará la forma en la cual se asignará la representación a la que se refieren las fracciones IV y V de este artículo."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Los representantes de las dependencias de la Administración Pública Federal ante la comisión deberán tener nivel de Subsecretario o su equivalente."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "La Secretaría podrá invitar a participar en las sesiones de la comisión tripartita, con el carácter de consultores, con voz y sin voto, a representantes de aquellas organizaciones empresariales o sociales relacionados con la prestación de los servicios vinculados al otorgamiento del beneficio de ayuda alimentaria contemplado en esta Ley."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "El funcionamiento y la operación de la Comisión Tripartita se establecerán de acuerdo con sus Reglas Internas de Operación."
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "capitulo",
+          "id": "titulo-tercer.capitulo-ii",
+          "heading": "Capítulo II",
+          "descriptor": null,
+          "ordinal": "II",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Vigilancia"
+            }
+          ],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-tercer.capitulo-ii.articulo-16",
+              "heading": "Artículo 16",
+              "descriptor": null,
+              "ordinal": "16",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Sin perjuicio de lo que establece el artículo 9o. de esta Ley, la vigilancia del cumplimiento de lo dispuesto en el presente ordenamiento corresponderá a la Secretaría, a la Secretaría de Salud y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Las acciones de vigilancia se ajustarán al procedimiento administrativo establecido en las leyes sustantivas aplicables en materia sanitaria y laboral y, de forma supletoria a éstas, a lo que prescriben la Ley Federal de Procedimiento Administrativo o equivalentes en las entidades federativas, según corresponda."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titulo",
+      "id": "titulo-cuart",
+      "heading": "TÍTULO CUARTO",
+      "descriptor": "SANCIONES",
+      "ordinal": "CUARTO",
+      "content": [],
+      "children": [
+        {
+          "type": "capitulo",
+          "id": "titulo-cuart.capitulo-unic",
+          "heading": "Capítulo Único",
+          "descriptor": null,
+          "ordinal": "Único",
+          "content": [],
+          "children": [
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-17",
+              "heading": "Artículo 17",
+              "descriptor": null,
+              "ordinal": "17",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Las violaciones a los preceptos de esta Ley y las disposiciones que emanen de ella serán sancionadas administrativamente por las autoridades sanitarias y laborales, federales o locales, en el ámbito de sus respectivas competencias, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-18",
+              "heading": "Artículo 18",
+              "descriptor": null,
+              "ordinal": "18",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Para la aplicación de las sanciones derivadas de violaciones a esta Ley, se observará el procedimiento administrativo establecido en las leyes sustantivas aplicables en materia sanitaria y laboral y, de forma supletoria a éstas, lo que prescriben la Ley Federal de Procedimiento Administrativo o equivalentes en las entidades federativas, según corresponda."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-19",
+              "heading": "Artículo 19",
+              "descriptor": null,
+              "ordinal": "19",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La omisión del patrón de mantener el control documental al que se refiere el artículo 10 de esta Ley se sancionará con multa de hasta dos mil veces el salario mínimo general diario vigente en la zona económica de que se trate."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-20",
+              "heading": "Artículo 20",
+              "descriptor": null,
+              "ordinal": "20",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". La contratación por parte del patrón de una empresa emisora de vales que no cumpla los requisitos señalados en el artículo 11 de esta Ley se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-21",
+              "heading": "Artículo 21",
+              "descriptor": null,
+              "ordinal": "21",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". Los propietarios de los establecimiento en los que se fomente, permita o participe en alguna de las conductas descritas en el artículo 12 de esta Ley serán sancionados con multa de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate."
+                }
+              ],
+              "children": []
+            },
+            {
+              "type": "articulo",
+              "id": "titulo-cuart.capitulo-unic.articulo-22",
+              "heading": "Artículo 22",
+              "descriptor": null,
+              "ordinal": "22",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ". En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de esta Ley se entenderá por reincidencia, a aquellos casos en que el infractor cometa la misma violación a las disposiciones de esta Ley dos o más veces dentro del período de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior."
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transitorios",
+      "id": "transitorios-transitorios",
+      "heading": "TRANSITORIOS",
+      "descriptor": null,
+      "ordinal": null,
+      "content": [],
+      "children": [
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-primer",
+          "heading": "Primero",
+          "descriptor": null,
+          "ordinal": "Primero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "transitorio_articulo",
+          "id": "transitorios-transitorios.transitorio_articulo-segund",
+          "heading": "Segundo",
+          "descriptor": null,
+          "ordinal": "Segundo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La Secretaría del Trabajo y Previsión Social convocará a la primera sesión de la Comisión Tripartita a la que se refiere el artículo 15 en un plazo que no excederá los noventa días naturales posteriores a la entrada en vigor de esta ley."
+            },
+            {
+              "type": "paragraph",
+              "text": "México, D.F., a 7 de octubre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Sen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Adrián Rivera Pérez, Secretario.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
